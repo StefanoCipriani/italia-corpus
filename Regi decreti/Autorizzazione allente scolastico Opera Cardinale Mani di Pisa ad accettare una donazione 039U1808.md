@@ -1,15 +1,13 @@
-REGIO DECRETO 26 ottobre 1939 n. 1808
+---
+tipo: REGIO DECRETO
+numero: 1808
+data: 1939-10-26
+titolo: "Autorizzazione all'ente scolastico «Opera Cardinale Mani» di Pisa ad accettare una donazione (039U1808)"
+urn: urn:nir:stato:regio.decreto:1939-10-26;1808
+codice_redazionale: 039U1808
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 ottobre 1939 n. 1808
-=====================================
-
-Autorizzazione all'ente scolastico «Opera Cardinale Mani» di Pisa ad accettare una donazione (039U1808)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

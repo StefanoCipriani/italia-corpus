@@ -1,21 +1,21 @@
-REGIO DECRETO 09 novembre 1933 n. 1798
+---
+tipo: REGIO DECRETO
+numero: 1798
+data: 1933-11-09
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Clarisse, in Falerone. (033U1798)"
+urn: urn:nir:stato:regio.decreto:1933-11-09;1798
+codice_redazionale: 033U1798
+vigente: true
+---
 
-
-REGIO DECRETO 09 novembre 1933 n. 1798
-======================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Clarisse, in Falerone. (033U1798)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1798. R. decreto 6 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Clarisse, in Falerone, ed e' autorizzato il trasferimento allo stesso degli immobili in suo possesso da tempo anteriore al Concordato, ed attualmente al nome di mons. Curi Augusto.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 13 dicembre 1933 - Anno XII
+1798.
+
+R. decreto 6 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Clarisse, in Falerone, ed e' autorizzato il trasferimento allo stesso degli immobili in suo possesso da tempo anteriore al Concordato, ed attualmente al nome di mons. Curi Augusto. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 13 dicembre 1933 - Anno XII

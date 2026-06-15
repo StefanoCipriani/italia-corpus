@@ -1,25 +1,21 @@
-REGIO DECRETO 16 giugno 1932 n. 957
+---
+tipo: REGIO DECRETO
+numero: 957
+data: 1932-06-16
+titolo: "Emissione di francobolli di posta aerea per la Cirenaica. (032U0957)"
+urn: urn:nir:stato:regio.decreto:1932-06-16;957
+codice_redazionale: 032U0957
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1932 n. 957
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Emissione di francobolli di posta aerea per la Cirenaica. (032U0957)
---------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/09/1932
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

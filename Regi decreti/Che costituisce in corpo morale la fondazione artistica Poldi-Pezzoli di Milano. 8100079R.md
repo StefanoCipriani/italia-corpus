@@ -1,16 +1,14 @@
-REGIO DECRETO 27 febbraio 1881 n. LXXIX
-
-
-REGIO DECRETO 27 febbraio 1881 n. LXXIX
-=======================================
-
-Che costituisce in corpo morale la fondazione artistica Poldi-Pezzoli di Milano. (8100079R)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/05/1881
+---
+tipo: REGIO DECRETO
+numero: LXXIX
+data: 1881-02-27
+titolo: "Che costituisce in corpo morale la fondazione artistica Poldi-Pezzoli di Milano. (8100079R)"
+urn: urn:nir:stato:regio.decreto:1881-02-27;79
+codice_redazionale: 8100079R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,24 @@ Visto l'atto 5 giugno 1880, approvato dal tribunale civile e correzionale di Mil
 
 Vista la domanda del marchese Gian-Giacomo Trivulzio, rappresentante del suo figlio minorenne Luigi Alberico, erede del testatore, del commendatore Giuseppe Berlini, direttore del museo Poldi-Pezzoli, del cav. prof. Luigi Bisi presidente dell'accademia di belle arti di Milano, e del conte commendatore Giulio Bellinzaghi, sindaco di quella citta', affinche' la fondazione artistica Poldi-Pezzoli sia eretta in ente morale;
 
-Visto il parere favorevole del [consiglio di Stato in data del 28 gennaio 1881](https://e-justice.europa.eu/ecli/ECLI::::);
+Visto il parere favorevole del consiglio di Stato in data del 28 gennaio 1881;
 
-Sulla
------
+Sulla proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La fondazione artistica Poldi-Pezzoli di Milano costituita in ente morale per gli effetti delle vigenti leggi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 febbraio 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 17 marzo 1881   
-  
-Reg. 112 Atti del Governo a f. 161. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli T. Villa.   
-  
-Baccelli.   
+La fondazione artistica Poldi-Pezzoli di Milano costituita in ente morale per gli effetti delle vigenti leggi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 febbraio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 17 marzo 1881 
+ 
+ Reg. 112 Atti del Governo a f. 161. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Villa. 
+ 
+ Baccelli.

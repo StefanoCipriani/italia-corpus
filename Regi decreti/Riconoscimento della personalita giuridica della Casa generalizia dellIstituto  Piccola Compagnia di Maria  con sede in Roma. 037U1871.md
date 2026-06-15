@@ -1,21 +1,21 @@
-REGIO DECRETO 16 settembre 1937 n. 1871
+---
+tipo: REGIO DECRETO
+numero: 1871
+data: 1937-09-16
+titolo: "Riconoscimento della personalita' giuridica della Casa generalizia dell'Istituto « Piccola Compagnia di Maria » con sede in Roma. (037U1871)"
+urn: urn:nir:stato:regio.decreto:1937-09-16;1871
+codice_redazionale: 037U1871
+vigente: true
+---
 
-
-REGIO DECRETO 16 settembre 1937 n. 1871
-=======================================
-
-Riconoscimento della personalita' giuridica della Casa generalizia dell'Istituto « Piccola Compagnia di Maria » con sede in Roma. (037U1871)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/12/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1871. R. decreto 16 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa, generalizia dell'Istituto detto « Piccola Compagnia di Maria » Con sede in Roma, via S. Stefano Rotondo n. 6.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 15 novembre 1937 - Anno XVI
+1871.
+
+R. decreto 16 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa, generalizia dell'Istituto detto « Piccola Compagnia di Maria » Con sede in Roma, via S. Stefano Rotondo n. 6. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 15 novembre 1937 - Anno XVI

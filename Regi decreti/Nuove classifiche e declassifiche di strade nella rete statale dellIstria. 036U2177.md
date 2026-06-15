@@ -1,20 +1,17 @@
-REGIO DECRETO 23 novembre 1936 n. 2177
+---
+tipo: REGIO DECRETO
+numero: 2177
+data: 1936-11-23
+titolo: "Nuove classifiche e declassifiche di strade nella rete statale dell'Istria. (036U2177)"
+urn: urn:nir:stato:regio.decreto:1936-11-23;2177
+codice_redazionale: 036U2177
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 novembre 1936 n. 2177
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Nuove classifiche e declassifiche di strade nella rete statale dell'Istria. (036U2177)
---------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 19/01/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

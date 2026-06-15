@@ -1,15 +1,13 @@
-REGIO DECRETO 16 novembre 1939 n. 2238
+---
+tipo: REGIO DECRETO
+numero: 2238
+data: 1939-11-16
+titolo: "Modificazione dell'ordinamento della Scuola di guerra aerea. (039U2238)"
+urn: urn:nir:stato:regio.decreto:1939-11-16;2238
+codice_redazionale: 039U2238
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 novembre 1939 n. 2238
-======================================
-
-Modificazione dell'ordinamento della Scuola di guerra aerea. (039U2238)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

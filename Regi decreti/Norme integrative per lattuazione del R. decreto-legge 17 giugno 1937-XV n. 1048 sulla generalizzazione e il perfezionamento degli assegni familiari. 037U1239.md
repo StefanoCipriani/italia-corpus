@@ -1,279 +1,261 @@
-REGIO DECRETO 21 luglio 1937 n. 1239
+---
+tipo: REGIO DECRETO
+numero: 1239
+data: 1937-07-21
+titolo: "Norme integrative per l'attuazione del R. decreto-legge 17 giugno 1937-XV, n. 1048, sulla generalizzazione e il perfezionamento degli assegni familiari. (037U1239)"
+urn: urn:nir:stato:regio.decreto:1937-07-21;1239
+codice_redazionale: 037U1239
+vigente: true
+---
 
+### Art. 1.
 
-REGIO DECRETO 21 luglio 1937 n. 1239
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Norme integrative per l'attuazione del R. decreto-legge 17 giugno 1937-XV, n. 1048, sulla generalizzazione e il perfezionamento degli assegni familiari. (037U1239)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-Entrata in vigore del provvedimento: 28/07/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-CAPO I
-------
+### Art. 3.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 4.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 5.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 6.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 7.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 8.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 9.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 10.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 11.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 12.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 13.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 14.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 15.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 16.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 17.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 18.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 19.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 20.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 21.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 22.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 23.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 24.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 25.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 26.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 27.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 28.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 29.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 30.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 31.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 32.
 
-CAPO II
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 30
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 31
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 32
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 33
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 34
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 35
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 36
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 37
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 38
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 39
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 40
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 41
+### Art. 44.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 42
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 43
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 44
+### Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-CAPO III
---------
+### Art. 48.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 49.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 50.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 51.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 52.
 
-CAPO IV
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 49
+### Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 50
+## dell'assicurazione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+Disposizioni speciali per le aziende del credito e
 
-### Art. 51
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 52
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 53
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-CAPO V Disposizioni speciali per le aziende del credito e dell'assicurazione.
------------------------------------------------------------------------------
+### Art. 57.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 58.
 
-### Art. 55
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 59.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 60.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 61.
 
-### Art. 58
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 62.
 
-### Art. 59
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-CAPO VI
--------
-
-### Art. 60
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-CAPO VII
---------
-
-### Art. 61
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-### Art. 62
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,160 +1,161 @@
-REGIO DECRETO 08 aprile 1940 n. 206
+---
+tipo: REGIO DECRETO
+numero: 206
+data: 1940-04-08
+titolo: "Disposizioni per l'attuazione del libro del Codice civile «Delle successioni per causa di morte e delle donazioni» e disposizioni transitorie. (040U0206)"
+urn: urn:nir:stato:regio.decreto:1940-04-08;206
+codice_redazionale: 040U0206
+vigente: true
+---
 
+## Disposizioni di attuazione.
 
-REGIO DECRETO 08 aprile 1940 n. 206
-===================================
+CAPO I.
 
-Disposizioni per l'attuazione del libro del Codice civile «Delle successioni per causa di morte e delle donazioni» e disposizioni transitorie. (040U0206)
----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 27/04/1940
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-CAPO I CAPO I. Disposizioni di attuazione.
-------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 12.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 13.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 14.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 15.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 16.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 17.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 18.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Disposizioni transitorie e finali.
 
-### Art. 18
+CAPO II.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+### Art. 19.
 
-CAPO II CAPO II. Disposizioni transitorie e finali.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 19
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 20
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 21
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 22
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 23
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 24
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 25
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 26
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 27
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 28
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 29
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 30
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 31
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 32
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 33
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 34
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-### Art. 35
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-### Art. 36
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

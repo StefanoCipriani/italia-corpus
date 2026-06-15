@@ -1,25 +1,21 @@
-REGIO DECRETO 29 aprile 1940 n. 477
+---
+tipo: REGIO DECRETO
+numero: 477
+data: 1940-04-29
+titolo: "Sistemazione in ruolo dei vice pretori onorari squadristi. (040U0477)"
+urn: urn:nir:stato:regio.decreto:1940-04-29;477
+codice_redazionale: 040U0477
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 aprile 1940 n. 477
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Sistemazione in ruolo dei vice pretori onorari squadristi. (040U0477)
----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/06/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

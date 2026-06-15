@@ -1,26 +1,17 @@
-REGIO DECRETO 16 giugno 1932 n. 727
+---
+tipo: REGIO DECRETO
+numero: 727
+data: 1932-06-16
+titolo: "Modificazioni alle piante organiche di alcuni uffici giudiziari. (032U0727)"
+urn: urn:nir:stato:regio.decreto:1932-06-16;727
+codice_redazionale: 032U0727
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1932 n. 727
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni alle piante organiche di alcuni uffici giudiziari. (032U0727)
----------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/07/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

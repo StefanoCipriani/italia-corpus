@@ -1,20 +1,17 @@
-REGIO DECRETO 11 febbraio 1941 n. 397
+---
+tipo: REGIO DECRETO
+numero: 397
+data: 1941-02-11
+titolo: "Modificazione all'art. 4 del R. decreto 28 settembre 1934-XII, n. 1680, relativo alla nomina dei presidi e dei direttori del Regi istituti e delle Regie scuole di istruzione media tecnica. (041U0397)"
+urn: urn:nir:stato:regio.decreto:1941-02-11;397
+codice_redazionale: 041U0397
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 febbraio 1941 n. 397
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione all'art. 4 del R. decreto 28 settembre 1934-XII, n. 1680, relativo alla nomina dei presidi e dei direttori del Regi istituti e delle Regie scuole di istruzione media tecnica. (041U0397)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/06/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

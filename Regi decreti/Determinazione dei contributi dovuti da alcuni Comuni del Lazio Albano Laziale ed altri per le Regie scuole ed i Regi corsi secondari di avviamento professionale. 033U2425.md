@@ -1,26 +1,17 @@
-REGIO DECRETO 26 ottobre 1933 n. 2425
+---
+tipo: REGIO DECRETO
+numero: 2425
+data: 1933-10-26
+titolo: "Determinazione dei contributi dovuti da alcuni Comuni del Lazio (Albano Laziale ed altri) per le Regie scuole ed i Regi corsi secondari di avviamento professionale. (033U2425)"
+urn: urn:nir:stato:regio.decreto:1933-10-26;2425
+codice_redazionale: 033U2425
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 ottobre 1933 n. 2425
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Determinazione dei contributi dovuti da alcuni Comuni del Lazio (Albano Laziale ed altri) per le Regie scuole ed i Regi corsi secondari di avviamento professionale. (033U2425)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 06/06/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Elenco
-
- Elenco   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 22 gennaio 1942 n. 8
+---
+tipo: REGIO DECRETO
+numero: 8
+data: 1942-01-22
+titolo: "Aumento del prezzo di vendita al pubblico dei tabacchi lavorati nazionali. (042U0008)"
+urn: urn:nir:stato:regio.decreto:1942-01-22;8
+codice_redazionale: 042U0008
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 gennaio 1942 n. 8
-==================================
-
-Aumento del prezzo di vendita al pubblico dei tabacchi lavorati nazionali. (042U0008)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

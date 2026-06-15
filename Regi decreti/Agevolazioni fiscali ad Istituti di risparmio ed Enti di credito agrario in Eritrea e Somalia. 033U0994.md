@@ -1,20 +1,17 @@
-REGIO DECRETO 13 luglio 1933 n. 994
+---
+tipo: REGIO DECRETO
+numero: 994
+data: 1933-07-13
+titolo: "Agevolazioni fiscali ad Istituti di risparmio ed Enti di credito agrario in Eritrea e Somalia. (033U0994)"
+urn: urn:nir:stato:regio.decreto:1933-07-13;994
+codice_redazionale: 033U0994
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1933 n. 994
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Agevolazioni fiscali ad Istituti di risparmio ed Enti di credito agrario in Eritrea e Somalia. (033U0994)
----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/08/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

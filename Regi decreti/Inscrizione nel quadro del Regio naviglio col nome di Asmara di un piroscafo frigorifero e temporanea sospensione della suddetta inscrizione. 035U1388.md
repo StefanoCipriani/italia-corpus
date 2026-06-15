@@ -1,20 +1,17 @@
-REGIO DECRETO 20 giugno 1935 n. 1388
+---
+tipo: REGIO DECRETO
+numero: 1388
+data: 1935-06-20
+titolo: "Inscrizione nel quadro del Regio naviglio col nome di «Asmara» di un piroscafo frigorifero e temporanea sospensione della suddetta inscrizione. (035U1388)"
+urn: urn:nir:stato:regio.decreto:1935-06-20;1388
+codice_redazionale: 035U1388
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 giugno 1935 n. 1388
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Inscrizione nel quadro del Regio naviglio col nome di «Asmara» di un piroscafo frigorifero e temporanea sospensione della suddetta inscrizione. (035U1388)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/08/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

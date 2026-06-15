@@ -1,25 +1,21 @@
-REGIO DECRETO 02 marzo 1936 n. 590
+---
+tipo: REGIO DECRETO
+numero: 590
+data: 1936-03-02
+titolo: "Nomina d'ufficio del liquidatore della «Cassa consorziale del Lilibeo per gli infortuni degli operai sul lavoro» con sede in Palermo. (036U0590)"
+urn: urn:nir:stato:regio.decreto:1936-03-02;590
+codice_redazionale: 036U0590
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 marzo 1936 n. 590
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Nomina d'ufficio del liquidatore della «Cassa consorziale del Lilibeo per gli infortuni degli operai sul lavoro» con sede in Palermo. (036U0590)
-------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/05/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

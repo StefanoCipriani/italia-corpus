@@ -1,46 +1,33 @@
-REGIO DECRETO 22 novembre 1937 n. 2295
+---
+tipo: REGIO DECRETO
+numero: 2295
+data: 1937-11-22
+titolo: "Istituzione di nuovi corsi completi presso le Regie scuole tecniche ad indirizzo commerciale e presso i Regi istituti tecnici nautici, commerciali, commerciali e per geometri ed inferiori isolati ed approvazione delle relative tabelle organiche. (037U2295)"
+urn: urn:nir:stato:regio.decreto:1937-11-22;2295
+codice_redazionale: 037U2295
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 novembre 1937 n. 2295
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione di nuovi corsi completi presso le Regie scuole tecniche ad indirizzo commerciale e presso i Regi istituti tecnici nautici, commerciali, commerciali e per geometri ed inferiori isolati ed approvazione delle relative tabelle organiche. (037U2295)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/02/1938
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabelle
-
- Tabelle   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

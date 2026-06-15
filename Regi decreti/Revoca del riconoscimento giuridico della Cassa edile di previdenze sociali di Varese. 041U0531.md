@@ -1,25 +1,21 @@
-REGIO DECRETO 19 maggio 1941 n. 531
+---
+tipo: REGIO DECRETO
+numero: 531
+data: 1941-05-19
+titolo: "Revoca del riconoscimento giuridico della Cassa edile di previdenze sociali di Varese. (041U0531)"
+urn: urn:nir:stato:regio.decreto:1941-05-19;531
+codice_redazionale: 041U0531
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1941 n. 531
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Revoca del riconoscimento giuridico della Cassa edile di previdenze sociali di Varese. (041U0531)
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/07/1941
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

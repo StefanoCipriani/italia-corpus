@@ -1,20 +1,17 @@
-REGIO DECRETO 29 aprile 1937 n. 1448
+---
+tipo: REGIO DECRETO
+numero: 1448
+data: 1937-04-29
+titolo: "Condono di punizioni disciplinari al personale militare della Regia aeronautica. (037U1448)"
+urn: urn:nir:stato:regio.decreto:1937-04-29;1448
+codice_redazionale: 037U1448
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 aprile 1937 n. 1448
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Condono di punizioni disciplinari al personale militare della Regia aeronautica. (037U1448)
--------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,26 +1,17 @@
-REGIO DECRETO 20 marzo 1939 n. 612
+---
+tipo: REGIO DECRETO
+numero: 612
+data: 1939-03-20
+titolo: "Esecuzione della Convenzione internazionale stipulata in Parigi il 31 ottobre 1938 che reca modificazioni a quella sanitaria internazionale pure firmata in Parigi il 21 giugno 1926. (039U0612)"
+urn: urn:nir:stato:regio.decreto:1939-03-20;612
+codice_redazionale: 039U0612
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1939 n. 612
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Esecuzione della Convenzione internazionale stipulata in Parigi il 31 ottobre 1938 che reca modificazioni a quella sanitaria internazionale pure firmata in Parigi il 21 giugno 1926. (039U0612)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/05/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Convention
-
- Convention   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

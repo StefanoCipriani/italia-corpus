@@ -1,15 +1,13 @@
-REGIO DECRETO 08 dicembre 1941 n. 1514
+---
+tipo: REGIO DECRETO
+numero: 1514
+data: 1941-12-08
+titolo: "Fissazione delle circoscrizioni dei Regi consolati generali in Berlino, Amburgo e Danzica. (041U1514)"
+urn: urn:nir:stato:regio.decreto:1941-12-08;1514
+codice_redazionale: 041U1514
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 dicembre 1941 n. 1514
-======================================
-
-Fissazione delle circoscrizioni dei Regi consolati generali in Berlino, Amburgo e Danzica. (041U1514)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

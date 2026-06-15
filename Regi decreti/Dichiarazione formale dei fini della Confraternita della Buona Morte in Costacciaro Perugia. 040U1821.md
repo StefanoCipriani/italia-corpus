@@ -1,21 +1,21 @@
-REGIO DECRETO 01 novembre 1940 n. 1821
+---
+tipo: REGIO DECRETO
+numero: 1821
+data: 1940-11-01
+titolo: "Dichiarazione formale dei fini della Confraternita della Buona Morte, in Costacciaro (Perugia). (040U1821)"
+urn: urn:nir:stato:regio.decreto:1940-11-01;1821
+codice_redazionale: 040U1821
+vigente: true
+---
 
-
-REGIO DECRETO 01 novembre 1940 n. 1821
-======================================
-
-Dichiarazione formale dei fini della Confraternita della Buona Morte, in Costacciaro (Perugia). (040U1821)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1941
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1821. R. decreto 1° novembre 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita della Buona Morte, in Costacciaro (Perugia).   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 7 gennaio 1941-XIX
+1821.
+
+R. decreto 1° novembre 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita della Buona Morte, in Costacciaro (Perugia). 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 7 gennaio 1941-XIX

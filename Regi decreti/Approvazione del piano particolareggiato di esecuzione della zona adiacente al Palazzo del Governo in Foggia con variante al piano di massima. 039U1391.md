@@ -1,15 +1,13 @@
-REGIO DECRETO 18 agosto 1939 n. 1391
+---
+tipo: REGIO DECRETO
+numero: 1391
+data: 1939-08-18
+titolo: "Approvazione del piano particolareggiato di esecuzione della zona adiacente al Palazzo del Governo in Foggia con variante al piano di massima. (039U1391)"
+urn: urn:nir:stato:regio.decreto:1939-08-18;1391
+codice_redazionale: 039U1391
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1939 n. 1391
-====================================
-
-Approvazione del piano particolareggiato di esecuzione della zona adiacente al Palazzo del Governo in Foggia con variante al piano di massima. (039U1391)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

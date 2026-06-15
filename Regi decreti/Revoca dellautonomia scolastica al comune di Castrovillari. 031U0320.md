@@ -1,20 +1,17 @@
-REGIO DECRETO 08 gennaio 1931 n. 320
+---
+tipo: REGIO DECRETO
+numero: 320
+data: 1931-01-08
+titolo: "Revoca dell'autonomia scolastica al comune di Castrovillari. (031U0320)"
+urn: urn:nir:stato:regio.decreto:1931-01-08;320
+codice_redazionale: 031U0320
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 gennaio 1931 n. 320
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Revoca dell'autonomia scolastica al comune di Castrovillari. (031U0320)
------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/05/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

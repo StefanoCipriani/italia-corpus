@@ -1,21 +1,21 @@
-REGIO DECRETO 31 agosto 1939 n. 1523
+---
+tipo: REGIO DECRETO
+numero: 1523
+data: 1939-08-31
+titolo: "Dichiarazione formale dei fini delle Confraternite riunite di San Bernardino e SS.mo Sacramento, con sede in Baschi (Terni). (039U1523)"
+urn: urn:nir:stato:regio.decreto:1939-08-31;1523
+codice_redazionale: 039U1523
+vigente: true
+---
 
-
-REGIO DECRETO 31 agosto 1939 n. 1523
-====================================
-
-Dichiarazione formale dei fini delle Confraternite riunite di San Bernardino e SS.mo Sacramento, con sede in Baschi (Terni). (039U1523)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1523. R. decreto 31 agosto 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle Confraternite Riunite di Sari Bernardino e SS.mo Sacramento, con sede in Baschi.(Terni).   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registralo alla Certe dei conti, addi' 4 ottobre 1939-XVII
+1523.
+
+R. decreto 31 agosto 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle Confraternite Riunite di Sari Bernardino e SS.mo Sacramento, con sede in Baschi.(Terni). 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registralo alla Certe dei conti, addi' 4 ottobre 1939-XVII

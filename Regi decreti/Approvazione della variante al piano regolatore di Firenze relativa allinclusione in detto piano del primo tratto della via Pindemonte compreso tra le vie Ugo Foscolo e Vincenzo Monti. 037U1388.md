@@ -1,15 +1,13 @@
-REGIO DECRETO 25 giugno 1937 n. 1388
+---
+tipo: REGIO DECRETO
+numero: 1388
+data: 1937-06-25
+titolo: "Approvazione della variante al piano regolatore di Firenze relativa all'inclusione in detto piano del primo tratto della via Pindemonte compreso tra le vie Ugo Foscolo e Vincenzo Monti. (037U1388)"
+urn: urn:nir:stato:regio.decreto:1937-06-25;1388
+codice_redazionale: 037U1388
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1937 n. 1388
-====================================
-
-Approvazione della variante al piano regolatore di Firenze relativa all'inclusione in detto piano del primo tratto della via Pindemonte compreso tra le vie Ugo Foscolo e Vincenzo Monti. (037U1388)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

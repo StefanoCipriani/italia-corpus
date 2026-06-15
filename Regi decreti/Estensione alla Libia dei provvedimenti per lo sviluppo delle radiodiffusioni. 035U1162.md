@@ -1,15 +1,13 @@
-REGIO DECRETO 23 maggio 1935 n. 1162
+---
+tipo: REGIO DECRETO
+numero: 1162
+data: 1935-05-23
+titolo: "Estensione alla Libia dei provvedimenti per lo sviluppo delle radiodiffusioni. (035U1162)"
+urn: urn:nir:stato:regio.decreto:1935-05-23;1162
+codice_redazionale: 035U1162
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 maggio 1935 n. 1162
-====================================
-
-Estensione alla Libia dei provvedimenti per lo sviluppo delle radiodiffusioni. (035U1162)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

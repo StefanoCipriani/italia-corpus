@@ -1,15 +1,13 @@
-REGIO DECRETO 09 settembre 1937 n. 1775
+---
+tipo: REGIO DECRETO
+numero: 1775
+data: 1937-09-09
+titolo: "Approvazione del nuovo statuto della Societa' italiana di dermatologia e sifilografia, con sede in Roma. (037U1775)"
+urn: urn:nir:stato:regio.decreto:1937-09-09;1775
+codice_redazionale: 037U1775
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 settembre 1937 n. 1775
-=======================================
-
-Approvazione del nuovo statuto della Societa' italiana di dermatologia e sifilografia, con sede in Roma. (037U1775)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

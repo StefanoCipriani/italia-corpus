@@ -1,25 +1,21 @@
-REGIO DECRETO 25 gennaio 1937 n. 386
+---
+tipo: REGIO DECRETO
+numero: 386
+data: 1937-01-25
+titolo: "Tributo delle popolazioni indigene dell'Eritrea per l'esercizio 1936-37. (037U0386)"
+urn: urn:nir:stato:regio.decreto:1937-01-25;386
+codice_redazionale: 037U0386
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1937 n. 386
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Tributo delle popolazioni indigene dell'Eritrea per l'esercizio 1936-37. (037U0386)
------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/04/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

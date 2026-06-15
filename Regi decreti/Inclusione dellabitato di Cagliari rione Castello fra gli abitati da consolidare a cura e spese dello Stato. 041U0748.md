@@ -1,15 +1,13 @@
-REGIO DECRETO 27 giugno 1941 n. 748
+---
+tipo: REGIO DECRETO
+numero: 748
+data: 1941-06-27
+titolo: "Inclusione dell'abitato di Cagliari (rione Castello) fra gli abitati da consolidare a cura e spese dello Stato. (041U0748)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;748
+codice_redazionale: 041U0748
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1941 n. 748
-===================================
-
-Inclusione dell'abitato di Cagliari (rione Castello) fra gli abitati da consolidare a cura e spese dello Stato. (041U0748)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 22 giugno 1933 n. 1446
+---
+tipo: REGIO DECRETO
+numero: 1446
+data: 1933-06-22
+titolo: "Contributi scolastici dei comuni di Amalfi e Ravello. (033U1446)"
+urn: urn:nir:stato:regio.decreto:1933-06-22;1446
+codice_redazionale: 033U1446
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 giugno 1933 n. 1446
-====================================
-
-Contributi scolastici dei comuni di Amalfi e Ravello. (033U1446)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

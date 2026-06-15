@@ -1,50 +1,41 @@
-REGIO DECRETO 20 gennaio 1941 n. 95
+---
+tipo: REGIO DECRETO
+numero: 95
+data: 1941-01-20
+titolo: "Riordinamento dei ruoli organici del personale dell'Amministrazione della sanita' pubblica. (041U0095)"
+urn: urn:nir:stato:regio.decreto:1941-01-20;95
+codice_redazionale: 041U0095
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1941 n. 95
-===================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Riordinamento dei ruoli organici del personale dell'Amministrazione della sanita' pubblica. (041U0095)
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/03/1941
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 4
-------
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 5
-------
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-CAPO II
--------
+### Art. 8.
 
-### Art. 6
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-### Art. 7
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-### Art. 8
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

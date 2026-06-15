@@ -1,15 +1,13 @@
-REGIO DECRETO 26 luglio 1935 n. 2009
+---
+tipo: REGIO DECRETO
+numero: 2009
+data: 1935-07-26
+titolo: "Variazione territoriale della provincia di Viterbo. (035U2009)"
+urn: urn:nir:stato:regio.decreto:1935-07-26;2009
+codice_redazionale: 035U2009
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 luglio 1935 n. 2009
-====================================
-
-Variazione territoriale della provincia di Viterbo. (035U2009)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

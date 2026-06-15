@@ -1,15 +1,13 @@
-REGIO DECRETO 01 dicembre 1932 n. 1722
+---
+tipo: REGIO DECRETO
+numero: 1722
+data: 1932-12-01
+titolo: "Erezione in ente morale dell'Asilo infantile «Anna Maria e Giuseppe Baroni Baroffio Dall'Aglio» con sede in Lissago, frazione del comune di Varese. (032U1722)"
+urn: urn:nir:stato:regio.decreto:1932-12-01;1722
+codice_redazionale: 032U1722
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 dicembre 1932 n. 1722
-======================================
-
-Erezione in ente morale dell'Asilo infantile «Anna Maria e Giuseppe Baroni Baroffio Dall'Aglio» con sede in Lissago, frazione del comune di Varese. (032U1722)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/01/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

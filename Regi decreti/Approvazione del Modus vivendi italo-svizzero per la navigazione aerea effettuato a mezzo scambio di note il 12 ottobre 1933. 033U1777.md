@@ -1,26 +1,17 @@
-REGIO DECRETO 04 dicembre 1933 n. 1777
+---
+tipo: REGIO DECRETO
+numero: 1777
+data: 1933-12-04
+titolo: "Approvazione del «Modus vivendi» italo-svizzero per la navigazione aerea, effettuato a mezzo scambio di note il 12 ottobre 1933. (033U1777)"
+urn: urn:nir:stato:regio.decreto:1933-12-04;1777
+codice_redazionale: 033U1777
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1933 n. 1777
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione del «Modus vivendi» italo-svizzero per la navigazione aerea, effettuato a mezzo scambio di note il 12 ottobre 1933. (033U1777)
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/01/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

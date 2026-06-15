@@ -1,26 +1,17 @@
-REGIO DECRETO 21 marzo 1938 n. 333
+---
+tipo: REGIO DECRETO
+numero: 333
+data: 1938-03-21
+titolo: "Approvazione dei programmi e degli orari per le Scuole tecniche industriali specializzate per le arti grafiche. (038U0333)"
+urn: urn:nir:stato:regio.decreto:1938-03-21;333
+codice_redazionale: 038U0333
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 marzo 1938 n. 333
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione dei programmi e degli orari per le Scuole tecniche industriali specializzate per le arti grafiche. (038U0333)
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/05/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Scuola tecnica
-
- Scuola tecnica   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

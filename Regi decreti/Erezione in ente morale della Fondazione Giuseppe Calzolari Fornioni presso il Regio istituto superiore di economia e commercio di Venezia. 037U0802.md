@@ -1,15 +1,13 @@
-REGIO DECRETO 15 aprile 1937 n. 802
+---
+tipo: REGIO DECRETO
+numero: 802
+data: 1937-04-15
+titolo: "Erezione in ente morale della «Fondazione Giuseppe Calzolari Fornioni» presso il Regio istituto superiore di economia e commercio di Venezia. (037U0802)"
+urn: urn:nir:stato:regio.decreto:1937-04-15;802
+codice_redazionale: 037U0802
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 aprile 1937 n. 802
-===================================
-
-Erezione in ente morale della «Fondazione Giuseppe Calzolari Fornioni» presso il Regio istituto superiore di economia e commercio di Venezia. (037U0802)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,26 +1,17 @@
-REGIO DECRETO 26 settembre 1930 n. 1791
+---
+tipo: REGIO DECRETO
+numero: 1791
+data: 1930-09-26
+titolo: "Aumento del contributo scolastico consolidato a carico del comune di San Martino Valle Caudina della provincia di Avellino. (030U1791)"
+urn: urn:nir:stato:regio.decreto:1930-09-26;1791
+codice_redazionale: 030U1791
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1930 n. 1791
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Aumento del contributo scolastico consolidato a carico del comune di San Martino Valle Caudina della provincia di Avellino. (030U1791)
---------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 05/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Elenco
-
- Elenco   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

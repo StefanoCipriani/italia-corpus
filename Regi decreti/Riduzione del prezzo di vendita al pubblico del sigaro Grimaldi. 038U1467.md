@@ -1,15 +1,13 @@
-REGIO DECRETO 05 settembre 1938 n. 1467
+---
+tipo: REGIO DECRETO
+numero: 1467
+data: 1938-09-05
+titolo: "Riduzione del prezzo di vendita al pubblico del sigaro «Grimaldi». (038U1467)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1467
+codice_redazionale: 038U1467
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 settembre 1938 n. 1467
-=======================================
-
-Riduzione del prezzo di vendita al pubblico del sigaro «Grimaldi». (038U1467)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

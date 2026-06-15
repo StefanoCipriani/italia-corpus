@@ -1,15 +1,13 @@
-REGIO DECRETO 15 febbraio 1940 n. 315
+---
+tipo: REGIO DECRETO
+numero: 315
+data: 1940-02-15
+titolo: "Autorizzazione alla Reale Accademia d'Italia ad accettare una donazione. (040U0315)"
+urn: urn:nir:stato:regio.decreto:1940-02-15;315
+codice_redazionale: 040U0315
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 febbraio 1940 n. 315
-=====================================
-
-Autorizzazione alla Reale Accademia d'Italia ad accettare una donazione. (040U0315)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

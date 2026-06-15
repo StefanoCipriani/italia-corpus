@@ -1,15 +1,13 @@
-REGIO DECRETO 03 gennaio 1935 n. 14
+---
+tipo: REGIO DECRETO
+numero: 14
+data: 1935-01-03
+titolo: "Autorizzazione alla Regia universita' italiana per stranieri di Perugia ad accettare una donazione. (035U0014)"
+urn: urn:nir:stato:regio.decreto:1935-01-03;14
+codice_redazionale: 035U0014
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 gennaio 1935 n. 14
-===================================
-
-Autorizzazione alla Regia universita' italiana per stranieri di Perugia ad accettare una donazione. (035U0014)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

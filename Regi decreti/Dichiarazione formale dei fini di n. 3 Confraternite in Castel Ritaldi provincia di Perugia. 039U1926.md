@@ -1,21 +1,21 @@
-REGIO DECRETO 03 novembre 1939 n. 1926
+---
+tipo: REGIO DECRETO
+numero: 1926
+data: 1939-11-03
+titolo: "Dichiarazione formale dei fini di n. 3 Confraternite in Castel Ritaldi (provincia di Perugia). (039U1926)"
+urn: urn:nir:stato:regio.decreto:1939-11-03;1926
+codice_redazionale: 039U1926
+vigente: true
+---
 
-
-REGIO DECRETO 03 novembre 1939 n. 1926
-======================================
-
-Dichiarazione formale dei fini di n. 3 Confraternite in Castel Ritaldi (provincia di Perugia). (039U1926)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/01/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1926. R. decreto 3 novembre 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini di n. 3 Confraternite in Castel Ritaldi (provincia di Perugia).   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 19 dicembre 1939-XVIII
+1926.
+
+R. decreto 3 novembre 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini di n. 3 Confraternite in Castel Ritaldi (provincia di Perugia). 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 19 dicembre 1939-XVIII

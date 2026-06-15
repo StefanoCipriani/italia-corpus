@@ -1,25 +1,21 @@
-REGIO DECRETO 24 marzo 1936 n. 923
+---
+tipo: REGIO DECRETO
+numero: 923
+data: 1936-03-24
+titolo: "Attribuzione al Comandante superiore A. O. ed al Comandante delle Forze armate in Somalia della facolta' di concedere sul campo ricompense al valor militare. (036U0923)"
+urn: urn:nir:stato:regio.decreto:1936-03-24;923
+codice_redazionale: 036U0923
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1936 n. 923
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Attribuzione al Comandante superiore A. O. ed al Comandante delle Forze armate in Somalia della facolta' di concedere sul campo ricompense al valor militare. (036U0923)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/10/1935
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

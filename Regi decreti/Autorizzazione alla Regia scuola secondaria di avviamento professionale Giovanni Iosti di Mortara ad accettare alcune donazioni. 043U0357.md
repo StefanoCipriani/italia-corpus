@@ -1,15 +1,13 @@
-REGIO DECRETO 15 marzo 1943 n. 357
+---
+tipo: REGIO DECRETO
+numero: 357
+data: 1943-03-15
+titolo: "Autorizzazione alla Regia scuola secondaria di avviamento professionale «Giovanni Iosti» di Mortara ad accettare alcune donazioni. (043U0357)"
+urn: urn:nir:stato:regio.decreto:1943-03-15;357
+codice_redazionale: 043U0357
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 marzo 1943 n. 357
-==================================
-
-Autorizzazione alla Regia scuola secondaria di avviamento professionale «Giovanni Iosti» di Mortara ad accettare alcune donazioni. (043U0357)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

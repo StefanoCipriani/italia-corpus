@@ -1,20 +1,17 @@
-REGIO DECRETO 27 luglio 1934 n. 1320
+---
+tipo: REGIO DECRETO
+numero: 1320
+data: 1934-07-27
+titolo: "Modifica al R. decreto 18 aprile 1929, n. 747, contenente norme per gli esami di concorso per l'avanzamento a maggiore nel Corpo delle armi navali. (034U1320)"
+urn: urn:nir:stato:regio.decreto:1934-07-27;1320
+codice_redazionale: 034U1320
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 luglio 1934 n. 1320
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modifica al R. decreto 18 aprile 1929, n. 747, contenente norme per gli esami di concorso per l'avanzamento a maggiore nel Corpo delle armi navali. (034U1320)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/08/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

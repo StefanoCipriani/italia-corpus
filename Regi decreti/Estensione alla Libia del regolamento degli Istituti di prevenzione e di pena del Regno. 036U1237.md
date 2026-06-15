@@ -1,15 +1,13 @@
-REGIO DECRETO 04 maggio 1936 n. 1237
+---
+tipo: REGIO DECRETO
+numero: 1237
+data: 1936-05-04
+titolo: "Estensione alla Libia del regolamento degli Istituti di prevenzione e di pena del Regno. (036U1237)"
+urn: urn:nir:stato:regio.decreto:1936-05-04;1237
+codice_redazionale: 036U1237
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 maggio 1936 n. 1237
-====================================
-
-Estensione alla Libia del regolamento degli Istituti di prevenzione e di pena del Regno. (036U1237)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

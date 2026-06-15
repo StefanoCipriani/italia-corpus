@@ -1,31 +1,21 @@
-REGIO DECRETO 30 marzo 1931 n. 280
+---
+tipo: REGIO DECRETO
+numero: 280
+data: 1931-03-30
+titolo: "Determinazione delle caratteristiche delle nuove monete d'oro da L. 100 e da L. 50. (031U0280)"
+urn: urn:nir:stato:regio.decreto:1931-03-30;280
+codice_redazionale: 031U0280
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 marzo 1931 n. 280
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Determinazione delle caratteristiche delle nuove monete d'oro da L. 100 e da L. 50. (031U0280)
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/04/1931
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

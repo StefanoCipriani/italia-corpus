@@ -1,15 +1,13 @@
-REGIO DECRETO 31 marzo 1932 n. 446
+---
+tipo: REGIO DECRETO
+numero: 446
+data: 1932-03-31
+titolo: "Erezione in ente morale della fondazione «Ospedale civile pubblico» con sede in Brunico. (032U0446)"
+urn: urn:nir:stato:regio.decreto:1932-03-31;446
+codice_redazionale: 032U0446
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 marzo 1932 n. 446
-==================================
-
-Erezione in ente morale della fondazione «Ospedale civile pubblico» con sede in Brunico. (032U0446)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

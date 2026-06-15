@@ -1,15 +1,13 @@
-REGIO DECRETO 17 febbraio 1944 n. 73
+---
+tipo: REGIO DECRETO
+numero: 73
+data: 1944-02-17
+titolo: "Composizione della Commissione superiore di avanzamento per gli Ufficiali della R. Aeronautica, darante il periodo di guerra. (044U0073)"
+urn: urn:nir:stato:regio.decreto:1944-02-17;73
+codice_redazionale: 044U0073
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 febbraio 1944 n. 73
-====================================
-
-Composizione della Commissione superiore di avanzamento per gli Ufficiali della R. Aeronautica, darante il periodo di guerra. (044U0073)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1944
-
-Art. 1
-------
-
-((IL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

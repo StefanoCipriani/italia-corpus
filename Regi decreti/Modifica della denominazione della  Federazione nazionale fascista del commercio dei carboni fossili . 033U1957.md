@@ -1,15 +1,13 @@
-REGIO DECRETO 27 dicembre 1933 n. 1957
+---
+tipo: REGIO DECRETO
+numero: 1957
+data: 1933-12-27
+titolo: "Modifica della denominazione della « Federazione nazionale fascista del commercio dei carboni fossili ». (033U1957)"
+urn: urn:nir:stato:regio.decreto:1933-12-27;1957
+codice_redazionale: 033U1957
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 dicembre 1933 n. 1957
-======================================
-
-Modifica della denominazione della « Federazione nazionale fascista del commercio dei carboni fossili ». (033U1957)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

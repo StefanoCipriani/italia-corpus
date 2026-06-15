@@ -1,21 +1,21 @@
-REGIO DECRETO 30 novembre 1939 n. 2220
+---
+tipo: REGIO DECRETO
+numero: 2220
+data: 1939-11-30
+titolo: "Riconoscimento della personalita' giuridica della Provincia Italiana dell'istituto delle suore di carita' di Nostra Signora del Buono o Perpetuo Soccorso, con sede in Roma. (039U2220)"
+urn: urn:nir:stato:regio.decreto:1939-11-30;2220
+codice_redazionale: 039U2220
+vigente: true
+---
 
-
-REGIO DECRETO 30 novembre 1939 n. 2220
-======================================
-
-Riconoscimento della personalita' giuridica della Provincia Italiana dell'istituto delle suore di carita' di Nostra Signora del Buono o Perpetuo Soccorso, con sede in Roma. (039U2220)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2220. R. decreto 30 novembre 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana dell'Istituto delle suore di carita' di Nostra Signora del Buono e Perpetuo Soccorso, con sede in Roma.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 17 marzo 1940-XVIII
+2220.
+
+R. decreto 30 novembre 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana dell'Istituto delle suore di carita' di Nostra Signora del Buono e Perpetuo Soccorso, con sede in Roma. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte del conti, addi' 17 marzo 1940-XVIII

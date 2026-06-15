@@ -1,15 +1,13 @@
-REGIO DECRETO 01 giugno 1939 n. 864
+---
+tipo: REGIO DECRETO
+numero: 864
+data: 1939-06-01
+titolo: "Riunione dei due uffici di conciliazione del comune di Calitri in unico ufficio. (039U0864)"
+urn: urn:nir:stato:regio.decreto:1939-06-01;864
+codice_redazionale: 039U0864
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 giugno 1939 n. 864
-===================================
-
-Riunione dei due uffici di conciliazione del comune di Calitri in unico ufficio. (039U0864)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

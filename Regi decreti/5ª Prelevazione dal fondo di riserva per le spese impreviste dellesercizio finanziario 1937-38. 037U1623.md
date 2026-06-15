@@ -1,15 +1,13 @@
-REGIO DECRETO 16 settembre 1937 n. 1623
+---
+tipo: REGIO DECRETO
+numero: 1623
+data: 1937-09-16
+titolo: "5ª Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1937-38. (037U1623)"
+urn: urn:nir:stato:regio.decreto:1937-09-16;1623
+codice_redazionale: 037U1623
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 settembre 1937 n. 1623
-=======================================
-
-5ª Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1937-38. (037U1623)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

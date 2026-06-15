@@ -1,15 +1,13 @@
-REGIO DECRETO 08 gennaio 1934 n. 382
+---
+tipo: REGIO DECRETO
+numero: 382
+data: 1934-01-08
+titolo: "Costituzione ed erezione in ente morale della « Fondazione Colonnello Mario Re » a favore dei militari di truppa del 28° reggimento fanteria. (034U0382)"
+urn: urn:nir:stato:regio.decreto:1934-01-08;382
+codice_redazionale: 034U0382
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 gennaio 1934 n. 382
-====================================
-
-Costituzione ed erezione in ente morale della « Fondazione Colonnello Mario Re » a favore dei militari di truppa del 28° reggimento fanteria. (034U0382)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 20 marzo 1933 n. 525
+---
+tipo: REGIO DECRETO
+numero: 525
+data: 1933-03-20
+titolo: "Trasferimento da Napoli a Roma della Direzione territoriale delle costruzioni e degli approvvigionamenti della Regia aeronautica. (033U0525)"
+urn: urn:nir:stato:regio.decreto:1933-03-20;525
+codice_redazionale: 033U0525
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1933 n. 525
-==================================
-
-Trasferimento da Napoli a Roma della Direzione territoriale delle costruzioni e degli approvvigionamenti della Regia aeronautica. (033U0525)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

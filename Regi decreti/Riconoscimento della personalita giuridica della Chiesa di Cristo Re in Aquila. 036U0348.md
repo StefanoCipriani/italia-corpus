@@ -1,15 +1,13 @@
-REGIO DECRETO 16 gennaio 1936 n. 348
+---
+tipo: REGIO DECRETO
+numero: 348
+data: 1936-01-16
+titolo: "Riconoscimento della personalita' giuridica della Chiesa di Cristo Re, in Aquila. (036U0348)"
+urn: urn:nir:stato:regio.decreto:1936-01-16;348
+codice_redazionale: 036U0348
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 gennaio 1936 n. 348
-====================================
-
-Riconoscimento della personalita' giuridica della Chiesa di Cristo Re, in Aquila. (036U0348)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

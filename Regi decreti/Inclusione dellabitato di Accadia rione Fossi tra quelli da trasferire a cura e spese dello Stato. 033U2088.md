@@ -1,15 +1,13 @@
-REGIO DECRETO 21 dicembre 1933 n. 2088
+---
+tipo: REGIO DECRETO
+numero: 2088
+data: 1933-12-21
+titolo: "Inclusione dell'abitato di Accadia, rione Fossi, tra quelli da trasferire a cura e spese dello Stato. (033U2088)"
+urn: urn:nir:stato:regio.decreto:1933-12-21;2088
+codice_redazionale: 033U2088
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1933 n. 2088
-======================================
-
-Inclusione dell'abitato di Accadia, rione Fossi, tra quelli da trasferire a cura e spese dello Stato. (033U2088)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

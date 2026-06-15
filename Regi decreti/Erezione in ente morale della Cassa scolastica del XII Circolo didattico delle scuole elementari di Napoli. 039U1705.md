@@ -1,15 +1,13 @@
-REGIO DECRETO 20 ottobre 1939 n. 1705
+---
+tipo: REGIO DECRETO
+numero: 1705
+data: 1939-10-20
+titolo: "Erezione in ente morale della Cassa scolastica del XII Circolo didattico delle scuole elementari di Napoli. (039U1705)"
+urn: urn:nir:stato:regio.decreto:1939-10-20;1705
+codice_redazionale: 039U1705
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1939 n. 1705
-=====================================
-
-Erezione in ente morale della Cassa scolastica del XII Circolo didattico delle scuole elementari di Napoli. (039U1705)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

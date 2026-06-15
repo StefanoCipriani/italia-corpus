@@ -1,15 +1,13 @@
-REGIO DECRETO 18 agosto 1933 n. 1057
+---
+tipo: REGIO DECRETO
+numero: 1057
+data: 1933-08-18
+titolo: "Ricostituzione del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. (033U1057)"
+urn: urn:nir:stato:regio.decreto:1933-08-18;1057
+codice_redazionale: 033U1057
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1933 n. 1057
-====================================
-
-Ricostituzione del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. (033U1057)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

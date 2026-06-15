@@ -1,30 +1,25 @@
-REGIO DECRETO 23 marzo 1944 n. 121
+---
+tipo: REGIO DECRETO
+numero: 121
+data: 1944-03-23
+titolo: "Trattamento economico dei militari addetti ai lavori di manovalanza. (044U0121)"
+urn: urn:nir:stato:regio.decreto:1944-03-23;121
+codice_redazionale: 044U0121
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 marzo 1944 n. 121
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Trattamento economico dei militari addetti ai lavori di manovalanza. (044U0121)
--------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/05/1944
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

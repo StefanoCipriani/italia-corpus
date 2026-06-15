@@ -1,15 +1,13 @@
-REGIO DECRETO 22 settembre 1932 n. 1654
+---
+tipo: REGIO DECRETO
+numero: 1654
+data: 1932-09-22
+titolo: "Fissazione dei contributi scolastici dei comuni di Villa Castelnuovo, S. Martino Canavese e Castellamonte e annullamento dei contributi scolastici degli ex comuni di Baldissero Canavese, Campo Canavese e Muriaglio. (032U1654)"
+urn: urn:nir:stato:regio.decreto:1932-09-22;1654
+codice_redazionale: 032U1654
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 settembre 1932 n. 1654
-=======================================
-
-Fissazione dei contributi scolastici dei comuni di Villa Castelnuovo, S. Martino Canavese e Castellamonte e annullamento dei contributi scolastici degli ex comuni di Baldissero Canavese, Campo Canavese e Muriaglio. (032U1654)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/01/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

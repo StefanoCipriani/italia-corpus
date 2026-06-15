@@ -1,15 +1,13 @@
-REGIO DECRETO 31 dicembre 1931 n. 1832
+---
+tipo: REGIO DECRETO
+numero: 1832
+data: 1931-12-31
+titolo: "Erezione in ente morale della Societa' di mutuo soccorso fra commessi ed impiegati di commercio di Firenze. (031U1832)"
+urn: urn:nir:stato:regio.decreto:1931-12-31;1832
+codice_redazionale: 031U1832
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1931 n. 1832
-======================================
-
-Erezione in ente morale della Societa' di mutuo soccorso fra commessi ed impiegati di commercio di Firenze. (031U1832)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

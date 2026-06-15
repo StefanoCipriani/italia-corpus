@@ -1,25 +1,21 @@
-REGIO DECRETO 14 luglio 1937 n. 1405
+---
+tipo: REGIO DECRETO
+numero: 1405
+data: 1937-07-14
+titolo: "Modificazioni alle norme che disciplinano la pesca nel lago di Garda. (037U1405)"
+urn: urn:nir:stato:regio.decreto:1937-07-14;1405
+codice_redazionale: 037U1405
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 luglio 1937 n. 1405
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni alle norme che disciplinano la pesca nel lago di Garda. (037U1405)
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/09/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

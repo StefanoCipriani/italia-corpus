@@ -1,25 +1,21 @@
-REGIO DECRETO 18 febbraio 1932 n. 512
+---
+tipo: REGIO DECRETO
+numero: 512
+data: 1932-02-18
+titolo: "Fusione del Monte di pieta' di Cagliari con la Cassa di risparmio del Banco di Napoli. (032U0512)"
+urn: urn:nir:stato:regio.decreto:1932-02-18;512
+codice_redazionale: 032U0512
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 febbraio 1932 n. 512
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Fusione del Monte di pieta' di Cagliari con la Cassa di risparmio del Banco di Napoli. (032U0512)
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/06/1932
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

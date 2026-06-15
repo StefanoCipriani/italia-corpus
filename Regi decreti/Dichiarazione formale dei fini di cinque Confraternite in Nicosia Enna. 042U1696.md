@@ -1,21 +1,21 @@
-REGIO DECRETO 20 novembre 1942 n. 1696
+---
+tipo: REGIO DECRETO
+numero: 1696
+data: 1942-11-20
+titolo: "Dichiarazione formale dei fini di cinque Confraternite, in Nicosia (Enna). (042U1696)"
+urn: urn:nir:stato:regio.decreto:1942-11-20;1696
+codice_redazionale: 042U1696
+vigente: true
+---
 
-
-REGIO DECRETO 20 novembre 1942 n. 1696
-======================================
-
-Dichiarazione formale dei fini di cinque Confraternite, in Nicosia (Enna). (042U1696)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1943
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1696. R. decreto 20 novembre 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini di cinque confraternite, in Nicosia (Enna).   
-  
-Visto, il Guardasigilli: GRANDI   
-  
+1696.
+
+R. decreto 20 novembre 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini di cinque confraternite, in Nicosia (Enna). 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
 Registrato alla Corte dei conti, addi' 18 gennaio 1943-XXI

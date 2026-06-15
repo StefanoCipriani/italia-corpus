@@ -1,15 +1,13 @@
-REGIO DECRETO 22 aprile 1932 n. 612
+---
+tipo: REGIO DECRETO
+numero: 612
+data: 1932-04-22
+titolo: "Erezione in ente morale della Fondazione «Ing. Lino Armellini», in Borgo Valsugana. (032U0612)"
+urn: urn:nir:stato:regio.decreto:1932-04-22;612
+codice_redazionale: 032U0612
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1932 n. 612
-===================================
-
-Erezione in ente morale della Fondazione «Ing. Lino Armellini», in Borgo Valsugana. (032U0612)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

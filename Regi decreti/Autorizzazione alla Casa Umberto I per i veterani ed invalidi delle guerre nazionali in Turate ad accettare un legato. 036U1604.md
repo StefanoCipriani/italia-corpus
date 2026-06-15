@@ -1,15 +1,13 @@
-REGIO DECRETO 16 luglio 1936 n. 1604
+---
+tipo: REGIO DECRETO
+numero: 1604
+data: 1936-07-16
+titolo: "Autorizzazione alla Casa Umberto I per i veterani ed invalidi delle guerre nazionali, in Turate, ad accettare un legato. (036U1604)"
+urn: urn:nir:stato:regio.decreto:1936-07-16;1604
+codice_redazionale: 036U1604
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 luglio 1936 n. 1604
-====================================
-
-Autorizzazione alla Casa Umberto I per i veterani ed invalidi delle guerre nazionali, in Turate, ad accettare un legato. (036U1604)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

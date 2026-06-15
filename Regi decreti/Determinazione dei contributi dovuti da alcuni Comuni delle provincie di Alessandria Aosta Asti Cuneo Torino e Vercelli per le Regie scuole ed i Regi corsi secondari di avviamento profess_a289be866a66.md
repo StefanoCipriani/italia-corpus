@@ -1,26 +1,17 @@
-REGIO DECRETO 09 luglio 1936 n. 2488
+---
+tipo: REGIO DECRETO
+numero: 2488
+data: 1936-07-09
+titolo: "Determinazione dei contributi dovuti da alcuni Comuni delle provincie di Alessandria, Aosta, Asti, Cuneo, Torino e Vercelli per le Regie scuole ed i Regi corsi secondari di avviamento professionale. (036U2488)"
+urn: urn:nir:stato:regio.decreto:1936-07-09;2488
+codice_redazionale: 036U2488
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 luglio 1936 n. 2488
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Determinazione dei contributi dovuti da alcuni Comuni delle provincie di Alessandria, Aosta, Asti, Cuneo, Torino e Vercelli per le Regie scuole ed i Regi corsi secondari di avviamento professionale. (036U2488)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/03/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-allegato
-
- allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

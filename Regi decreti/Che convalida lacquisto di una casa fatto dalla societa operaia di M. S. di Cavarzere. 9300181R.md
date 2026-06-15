@@ -1,16 +1,14 @@
-REGIO DECRETO 30 marzo 1893 n. CLXXXI
-
-
-REGIO DECRETO 30 marzo 1893 n. CLXXXI
-=====================================
-
-Che convalida l'acquisto di una casa fatto dalla societa' operaia di M. S. di Cavarzere. (9300181R)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1893
+---
+tipo: REGIO DECRETO
+numero: CLXXXI
+data: 1893-03-30
+titolo: "Che convalida l'acquisto di una casa fatto dalla societa' operaia di M. S. di Cavarzere. (9300181R)"
+urn: urn:nir:stato:regio.decreto:1893-03-30;181
+codice_redazionale: 9300181R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,24 @@ Veduta la legge 5 giugno 1850, n. 1037;
 
 Sentito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 E' convalidato l'acquisto di una casa fatto dalla societa' operaia di mutuo soccorso di Cavarzere con atto pubblico 14 giugno
 
-1891. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 marzo 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 10 aprile 1893.   
-  
-Reg. 191. Atti del Governo a f. 33. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-P. Lacava.
+1891.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 marzo 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 10 aprile 1893. 
+ 
+ Reg. 191. Atti del Governo a f. 33. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ P. Lacava.

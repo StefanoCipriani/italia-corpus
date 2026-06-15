@@ -1,20 +1,17 @@
-REGIO DECRETO 03 giugno 1938 n. 850
+---
+tipo: REGIO DECRETO
+numero: 850
+data: 1938-06-03
+titolo: "Abrogazione e sostituzione dell'art. 4 del R. decreto 12 dicembre 1929, n. 2289, relativo alle indennita' di trasferimento per gli ufficiali della Regia marina, i militari del C.R.E.M. e loro famiglie. (038U0850)"
+urn: urn:nir:stato:regio.decreto:1938-06-03;850
+codice_redazionale: 038U0850
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 giugno 1938 n. 850
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Abrogazione e sostituzione dell'art. 4 del R. decreto 12 dicembre 1929, n. 2289, relativo alle indennita' di trasferimento per gli ufficiali della Regia marina, i militari del C.R.E.M. e loro famiglie. (038U0850)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/07/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

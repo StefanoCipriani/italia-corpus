@@ -1,30 +1,25 @@
-REGIO DECRETO 25 agosto 1932 n. 1086
+---
+tipo: REGIO DECRETO
+numero: 1086
+data: 1932-08-25
+titolo: "Organizzazione dell'Amministrazione centrale degli affari esteri. (032U1086)"
+urn: urn:nir:stato:regio.decreto:1932-08-25;1086
+codice_redazionale: 032U1086
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 agosto 1932 n. 1086
-====================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Organizzazione dell'Amministrazione centrale degli affari esteri. (032U1086)
-----------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/09/1932
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,15 +1,13 @@
-REGIO DECRETO 25 marzo 1937 n. 1278
+---
+tipo: REGIO DECRETO
+numero: 1278
+data: 1937-03-25
+titolo: "Cancellazione dell'abitato di San Pietro Avellana, in provincia di Campobasso, dall'elenco degli abitati da consolidare a totale carico dello Stato. (037U1278)"
+urn: urn:nir:stato:regio.decreto:1937-03-25;1278
+codice_redazionale: 037U1278
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 marzo 1937 n. 1278
-===================================
-
-Cancellazione dell'abitato di San Pietro Avellana, in provincia di Campobasso, dall'elenco degli abitati da consolidare a totale carico dello Stato. (037U1278)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

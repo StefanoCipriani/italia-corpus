@@ -1,30 +1,25 @@
-REGIO DECRETO 05 gennaio 1933 n. 20
+---
+tipo: REGIO DECRETO
+numero: 20
+data: 1933-01-05
+titolo: "Modificazioni agli organici dei capi tecnici della Regia marina. (033U0020)"
+urn: urn:nir:stato:regio.decreto:1933-01-05;20
+codice_redazionale: 033U0020
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 gennaio 1933 n. 20
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni agli organici dei capi tecnici della Regia marina. (033U0020)
----------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/02/1933
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,26 +1,17 @@
-REGIO DECRETO 21 settembre 1933 n. 1319
+---
+tipo: REGIO DECRETO
+numero: 1319
+data: 1933-09-21
+titolo: "Approvazione della Convenzione per la protezione contro gli infortuni degli operai addetti al carico ed allo scarico delle navi. (033U1319)"
+urn: urn:nir:stato:regio.decreto:1933-09-21;1319
+codice_redazionale: 033U1319
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 settembre 1933 n. 1319
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione della Convenzione per la protezione contro gli infortuni degli operai addetti al carico ed allo scarico delle navi. (033U1319)
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/11/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Convention
-
- Convention   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

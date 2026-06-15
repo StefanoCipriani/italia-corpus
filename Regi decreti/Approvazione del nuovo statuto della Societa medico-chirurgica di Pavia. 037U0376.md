@@ -1,15 +1,13 @@
-REGIO DECRETO 25 febbraio 1937 n. 376
+---
+tipo: REGIO DECRETO
+numero: 376
+data: 1937-02-25
+titolo: "Approvazione del nuovo statuto della Societa' medico-chirurgica di Pavia. (037U0376)"
+urn: urn:nir:stato:regio.decreto:1937-02-25;376
+codice_redazionale: 037U0376
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1937 n. 376
-=====================================
-
-Approvazione del nuovo statuto della Societa' medico-chirurgica di Pavia. (037U0376)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

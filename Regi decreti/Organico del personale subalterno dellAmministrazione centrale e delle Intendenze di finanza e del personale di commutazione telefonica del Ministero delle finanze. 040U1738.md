@@ -1,27 +1,21 @@
-REGIO DECRETO 16 settembre 1940 n. 1738
+---
+tipo: REGIO DECRETO
+numero: 1738
+data: 1940-09-16
+titolo: "Organico del personale subalterno dell'Amministrazione centrale e delle Intendenze di finanza e del personale di commutazione telefonica del Ministero delle finanze. (040U1738)"
+urn: urn:nir:stato:regio.decreto:1940-09-16;1738
+codice_redazionale: 040U1738
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 settembre 1940 n. 1738
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Organico del personale subalterno dell'Amministrazione centrale e delle Intendenze di finanza e del personale di commutazione telefonica del Ministero delle finanze. (040U1738)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/01/1941  
-  
-L'errata-corrige (in G.U. 09/01/1941, n. 6) ha modificato la data del provvedimento da 16 settembre 1940 a 6 dicembre 1940.
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

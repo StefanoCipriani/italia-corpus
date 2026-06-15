@@ -1,16 +1,14 @@
-REGIO DECRETO 10 giugno 1894 n. CCLXXVII
-
-
-REGIO DECRETO 10 giugno 1894 n. CCLXXVII
-========================================
-
-Che costituisce in ente morale l'asilo notturno Bertocchi in Ferrara e lo autorizza ad accettare l'eredita' disposta dalla testatrice suddetta. (9400277R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1894
+---
+tipo: REGIO DECRETO
+numero: CCLXXVII
+data: 1894-06-10
+titolo: "Che costituisce in ente morale l'asilo notturno Bertocchi in Ferrara e lo autorizza ad accettare l'eredita' disposta dalla testatrice suddetta. (9400277R)"
+urn: urn:nir:stato:regio.decreto:1894-06-10;277
+codice_redazionale: 9400277R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Viste le leggi 5 giugno 1850, n. 1034, e 17 luglio 1890, n. 6972;
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'asilo notturno fondato in Ferrara dalla fu Maria Bertocchi e' costituito in ente morale sotto l'amministrazione della locale congregazione di carita', la quale e' autorizzata ad accettare nell'interesse del nuovo istituto l'eredita' come sopra disposta dalla fondatrice.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 giugno 1894.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 23 giugno 1894.   
-  
-Reg. 195. Atti del Governo a f. 226. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-F. Crispi.   
-  
+L'asilo notturno fondato in Ferrara dalla fu Maria Bertocchi e' costituito in ente morale sotto l'amministrazione della locale congregazione di carita', la quale e' autorizzata ad accettare nell'interesse del nuovo istituto l'eredita' come sopra disposta dalla fondatrice. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 giugno 1894. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 23 giugno 1894. 
+ 
+ Reg. 195. Atti del Governo a f. 226. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ F. Crispi.

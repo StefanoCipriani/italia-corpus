@@ -1,15 +1,13 @@
-REGIO DECRETO 13 luglio 1933 n. 1000
+---
+tipo: REGIO DECRETO
+numero: 1000
+data: 1933-07-13
+titolo: "Norme per le promozioni a rettore e a vice rettore nei Convitti nazionali. (033U1000)"
+urn: urn:nir:stato:regio.decreto:1933-07-13;1000
+codice_redazionale: 033U1000
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1933 n. 1000
-====================================
-
-Norme per le promozioni a rettore e a vice rettore nei Convitti nazionali. (033U1000)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

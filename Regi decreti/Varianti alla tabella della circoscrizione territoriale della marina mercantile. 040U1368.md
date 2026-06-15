@@ -1,20 +1,17 @@
-REGIO DECRETO 25 agosto 1940 n. 1368
+---
+tipo: REGIO DECRETO
+numero: 1368
+data: 1940-08-25
+titolo: "Varianti alla tabella della circoscrizione territoriale della marina mercantile. (040U1368)"
+urn: urn:nir:stato:regio.decreto:1940-08-25;1368
+codice_redazionale: 040U1368
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 agosto 1940 n. 1368
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Varianti alla tabella della circoscrizione territoriale della marina mercantile. (040U1368)
--------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/10/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

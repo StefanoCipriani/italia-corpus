@@ -1,15 +1,13 @@
-REGIO DECRETO 08 gennaio 1931 n. 76
+---
+tipo: REGIO DECRETO
+numero: 76
+data: 1931-01-08
+titolo: "Modificazione dell'art. 1 dello statuto organico della «Fondazione Granafei» (031U0076)"
+urn: urn:nir:stato:regio.decreto:1931-01-08;76
+codice_redazionale: 031U0076
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 gennaio 1931 n. 76
-===================================
-
-Modificazione dell'art. 1 dello statuto organico della «Fondazione Granafei» (031U0076)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

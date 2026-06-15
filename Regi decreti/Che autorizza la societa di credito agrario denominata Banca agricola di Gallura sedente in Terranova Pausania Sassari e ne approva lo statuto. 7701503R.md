@@ -1,20 +1,17 @@
-REGIO DECRETO 25 febbraio 1877 n. MDIII
+---
+tipo: REGIO DECRETO
+numero: MDIII
+data: 1877-02-25
+titolo: "Che autorizza la societa' di credito agrario denominata Banca agricola di Gallura, sedente in Terranova Pausania (Sassari), e ne approva lo statuto. (7701503R)"
+urn: urn:nir:stato:regio.decreto:1877-02-25;1503
+codice_redazionale: 7701503R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1877 n. MDIII
-=======================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Che autorizza la societa' di credito agrario denominata Banca agricola di Gallura, sedente in Terranova Pausania (Sassari), e ne approva lo statuto. (7701503R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/04/1877
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

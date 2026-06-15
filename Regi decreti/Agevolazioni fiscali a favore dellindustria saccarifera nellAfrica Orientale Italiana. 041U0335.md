@@ -1,20 +1,17 @@
-REGIO DECRETO 20 febbraio 1941 n. 335
+---
+tipo: REGIO DECRETO
+numero: 335
+data: 1941-02-20
+titolo: "Agevolazioni fiscali a favore dell'industria saccarifera nell'Africa Orientale Italiana. (041U0335)"
+urn: urn:nir:stato:regio.decreto:1941-02-20;335
+codice_redazionale: 041U0335
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 febbraio 1941 n. 335
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Agevolazioni fiscali a favore dell'industria saccarifera nell'Africa Orientale Italiana. (041U0335)
----------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/05/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

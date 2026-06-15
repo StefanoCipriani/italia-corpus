@@ -1,20 +1,17 @@
-REGIO DECRETO 03 dicembre 1934 n. 2015
+---
+tipo: REGIO DECRETO
+numero: 2015
+data: 1934-12-03
+titolo: "Richiamo alle armi per istruzione, nell'anno 1935, di militari in congedo illimitato. (034U2015)"
+urn: urn:nir:stato:regio.decreto:1934-12-03;2015
+codice_redazionale: 034U2015
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 dicembre 1934 n. 2015
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi per istruzione, nell'anno 1935, di militari in congedo illimitato. (034U2015)
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 06/01/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

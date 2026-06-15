@@ -1,31 +1,21 @@
-REGIO DECRETO 07 maggio 1936 n. 762
+---
+tipo: REGIO DECRETO
+numero: 762
+data: 1936-05-07
+titolo: "Approvazione degli orari e programmi per le scuole medie d'istruzione classica, scientifica, magistrale e tecnica. (036U0762)"
+urn: urn:nir:stato:regio.decreto:1936-05-07;762
+codice_redazionale: 036U0762
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 maggio 1936 n. 762
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Approvazione degli orari e programmi per le scuole medie d'istruzione classica, scientifica, magistrale e tecnica. (036U0762)
------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/05/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Orari e programmi
-
- Orari e programmi   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

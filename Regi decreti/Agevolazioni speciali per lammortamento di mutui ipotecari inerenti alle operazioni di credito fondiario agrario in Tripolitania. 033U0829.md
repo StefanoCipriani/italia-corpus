@@ -1,20 +1,17 @@
-REGIO DECRETO 05 giugno 1933 n. 829
+---
+tipo: REGIO DECRETO
+numero: 829
+data: 1933-06-05
+titolo: "Agevolazioni speciali per l'ammortamento di mutui ipotecari inerenti alle operazioni di credito fondiario agrario in Tripolitania. (033U0829)"
+urn: urn:nir:stato:regio.decreto:1933-06-05;829
+codice_redazionale: 033U0829
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 giugno 1933 n. 829
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Agevolazioni speciali per l'ammortamento di mutui ipotecari inerenti alle operazioni di credito fondiario agrario in Tripolitania. (033U0829)
----------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/08/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

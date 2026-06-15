@@ -1,15 +1,13 @@
-REGIO DECRETO 06 settembre 1934 n. 1586
+---
+tipo: REGIO DECRETO
+numero: 1586
+data: 1934-09-06
+titolo: "Termini di validita' e di ammissione al cambio dei francobolli aeroespressi da L. 2,25. (034U1586)"
+urn: urn:nir:stato:regio.decreto:1934-09-06;1586
+codice_redazionale: 034U1586
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 settembre 1934 n. 1586
-=======================================
-
-Termini di validita' e di ammissione al cambio dei francobolli aeroespressi da L. 2,25. (034U1586)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

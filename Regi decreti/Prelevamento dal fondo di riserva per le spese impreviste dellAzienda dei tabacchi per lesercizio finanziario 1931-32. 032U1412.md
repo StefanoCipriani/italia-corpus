@@ -1,15 +1,13 @@
-REGIO DECRETO 20 ottobre 1932 n. 1412
+---
+tipo: REGIO DECRETO
+numero: 1412
+data: 1932-10-20
+titolo: "Prelevamento dal fondo di riserva per le spese impreviste dell'Azienda dei tabacchi, per l'esercizio finanziario 1931-32. (032U1412)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1412
+codice_redazionale: 032U1412
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1932 n. 1412
-=====================================
-
-Prelevamento dal fondo di riserva per le spese impreviste dell'Azienda dei tabacchi, per l'esercizio finanziario 1931-32. (032U1412)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,65 +1,61 @@
-REGIO DECRETO 28 novembre 1938 n. 2178
+---
+tipo: REGIO DECRETO
+numero: 2178
+data: 1938-11-28
+titolo: "Aggiornamento degli ordinamenti militari coloniali dell'Africa Orientale Italiana nei riguardi delle ferme e delle rafferme coloniali dei sottufficiali e militari di truppa e del trattamento economico dei militari automobilisti. (038U2178)"
+urn: urn:nir:stato:regio.decreto:1938-11-28;2178
+codice_redazionale: 038U2178
+vigente: true
+---
 
+## Ferme e rafferme coloniali per i sottufficiali e militari di truppa.
 
-REGIO DECRETO 28 novembre 1938 n. 2178
-======================================
+Titolo I.
 
-Aggiornamento degli ordinamenti militari coloniali dell'Africa Orientale Italiana nei riguardi delle ferme e delle rafferme coloniali dei sottufficiali e militari di truppa e del trattamento economico dei militari automobilisti. (038U2178)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 16/11/1938
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-CAPO I Titolo I. Ferme e rafferme coloniali per i sottufficiali e militari di truppa.
--------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Soprassoldi ed indennita' per posizioni e servizi speciali ai militari automobilisti.
 
-### Art. 4
+Titolo II.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 5.
 
-CAPO II Titolo II. Soprassoldi ed indennita' per posizioni e servizi speciali ai militari automobilisti.
---------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 5
+## Disposizioni finali e transitorie.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+Titolo III.
 
-CAPO III Titolo III. Disposizioni finali e transitorie.
--------------------------------------------------------
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 10.
 
-### Art. 10
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

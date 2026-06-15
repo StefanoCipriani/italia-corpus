@@ -1,21 +1,21 @@
-REGIO DECRETO 31 agosto 1939 n. 1569
+---
+tipo: REGIO DECRETO
+numero: 1569
+data: 1939-08-31
+titolo: "Dichiarazione formale dei fini di due Confraternite con sede in Rocca San Zenone di Terni. (039U1569)"
+urn: urn:nir:stato:regio.decreto:1939-08-31;1569
+codice_redazionale: 039U1569
+vigente: true
+---
 
-
-REGIO DECRETO 31 agosto 1939 n. 1569
-====================================
-
-Dichiarazione formale dei fini di due Confraternite con sede in Rocca San Zenone di Terni. (039U1569)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1569. R. decreto 31 agosto 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi di due Confraternite con sede in Rocca San Zenone di Terni.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 5 ottobre 1939 XVII
+1569.
+
+R. decreto 31 agosto 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi di due Confraternite con sede in Rocca San Zenone di Terni. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 5 ottobre 1939 XVII

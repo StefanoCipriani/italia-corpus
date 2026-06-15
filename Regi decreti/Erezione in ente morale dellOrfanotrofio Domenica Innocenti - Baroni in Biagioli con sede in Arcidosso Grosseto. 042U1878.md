@@ -1,15 +1,13 @@
-REGIO DECRETO 13 novembre 1942 n. 1878
+---
+tipo: REGIO DECRETO
+numero: 1878
+data: 1942-11-13
+titolo: "Erezione in ente morale dell'Orfanotrofio «Domenica Innocenti - Baroni in Biagioli», con sede in Arcidosso (Grosseto). (042U1878)"
+urn: urn:nir:stato:regio.decreto:1942-11-13;1878
+codice_redazionale: 042U1878
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 novembre 1942 n. 1878
-======================================
-
-Erezione in ente morale dell'Orfanotrofio «Domenica Innocenti - Baroni in Biagioli», con sede in Arcidosso (Grosseto). (042U1878)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

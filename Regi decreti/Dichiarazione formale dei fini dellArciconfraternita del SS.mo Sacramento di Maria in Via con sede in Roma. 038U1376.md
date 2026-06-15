@@ -1,21 +1,21 @@
-REGIO DECRETO 16 giugno 1938 n. 1376
+---
+tipo: REGIO DECRETO
+numero: 1376
+data: 1938-06-16
+titolo: "Dichiarazione formale dei fini dell'Arciconfraternita del SS.mo Sacramento di Maria in Via, con sede in Roma. (038U1376)"
+urn: urn:nir:stato:regio.decreto:1938-06-16;1376
+codice_redazionale: 038U1376
+vigente: true
+---
 
-
-REGIO DECRETO 16 giugno 1938 n. 1376
-====================================
-
-Dichiarazione formale dei fini dell'Arciconfraternita del SS.mo Sacramento di Maria in Via, con sede in Roma. (038U1376)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/09/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1376. R. decreto 16 giugno 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo di culto nei riguardi dell'Arciconfraternita del SS.mo Sacramento di S. Maria in Via, con sede in Roma.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla corte dei conti, addi' 30 agosto 1938 - Anno XVI
+1376.
+
+R. decreto 16 giugno 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo di culto nei riguardi dell'Arciconfraternita del SS.mo Sacramento di S. Maria in Via, con sede in Roma. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla corte dei conti, addi' 30 agosto 1938 - Anno XVI

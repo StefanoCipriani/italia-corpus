@@ -1,25 +1,21 @@
-REGIO DECRETO 05 dicembre 1940 n. 1784
+---
+tipo: REGIO DECRETO
+numero: 1784
+data: 1940-12-05
+titolo: "Istituzione del posto di «Capo dell'Ufficio cifra e telegrafo», presso il Ministero delle finanze. (040U1784)"
+urn: urn:nir:stato:regio.decreto:1940-12-05;1784
+codice_redazionale: 040U1784
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1940 n. 1784
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Istituzione del posto di «Capo dell'Ufficio cifra e telegrafo», presso il Ministero delle finanze. (040U1784)
--------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/02/1941
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

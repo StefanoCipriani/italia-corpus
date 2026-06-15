@@ -1,15 +1,13 @@
-REGIO DECRETO 03 agosto 1934 n. 1766
+---
+tipo: REGIO DECRETO
+numero: 1766
+data: 1934-08-03
+titolo: "Approvazione del nuovo statuto della Cassa di soccorso per il personale delle Tramvie municipali di Trieste. (034U1766)"
+urn: urn:nir:stato:regio.decreto:1934-08-03;1766
+codice_redazionale: 034U1766
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 agosto 1934 n. 1766
-====================================
-
-Approvazione del nuovo statuto della Cassa di soccorso per il personale delle Tramvie municipali di Trieste. (034U1766)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

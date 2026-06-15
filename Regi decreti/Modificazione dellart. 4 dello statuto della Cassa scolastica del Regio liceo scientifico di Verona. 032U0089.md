@@ -1,15 +1,13 @@
-REGIO DECRETO 18 gennaio 1932 n. 89
+---
+tipo: REGIO DECRETO
+numero: 89
+data: 1932-01-18
+titolo: "Modificazione dell'art. 4 dello statuto della Cassa scolastica del Regio liceo scientifico di Verona. (032U0089)"
+urn: urn:nir:stato:regio.decreto:1932-01-18;89
+codice_redazionale: 032U0089
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 gennaio 1932 n. 89
-===================================
-
-Modificazione dell'art. 4 dello statuto della Cassa scolastica del Regio liceo scientifico di Verona. (032U0089)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

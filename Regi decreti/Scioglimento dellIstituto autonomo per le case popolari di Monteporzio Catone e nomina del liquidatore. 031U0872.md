@@ -1,25 +1,21 @@
-REGIO DECRETO 18 giugno 1931 n. 872
+---
+tipo: REGIO DECRETO
+numero: 872
+data: 1931-06-18
+titolo: "Scioglimento dell'Istituto autonomo per le case popolari di Monteporzio Catone, e nomina del liquidatore. (031U0872)"
+urn: urn:nir:stato:regio.decreto:1931-06-18;872
+codice_redazionale: 031U0872
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1931 n. 872
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Scioglimento dell'Istituto autonomo per le case popolari di Monteporzio Catone, e nomina del liquidatore. (031U0872)
---------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/07/1931
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

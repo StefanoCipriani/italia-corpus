@@ -1,15 +1,13 @@
-REGIO DECRETO 12 ottobre 1933 n. 1509
+---
+tipo: REGIO DECRETO
+numero: 1509
+data: 1933-10-12
+titolo: "Costituzione del Centro radioelettrico sperimentale in Roma. (033U1509)"
+urn: urn:nir:stato:regio.decreto:1933-10-12;1509
+codice_redazionale: 033U1509
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 ottobre 1933 n. 1509
-=====================================
-
-Costituzione del Centro radioelettrico sperimentale in Roma. (033U1509)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/12/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

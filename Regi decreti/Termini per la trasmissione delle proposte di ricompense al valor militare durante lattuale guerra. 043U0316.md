@@ -1,15 +1,13 @@
-REGIO DECRETO 23 febbraio 1943 n. 316
+---
+tipo: REGIO DECRETO
+numero: 316
+data: 1943-02-23
+titolo: "Termini per la trasmissione delle proposte di ricompense al valor militare durante l'attuale guerra. (043U0316)"
+urn: urn:nir:stato:regio.decreto:1943-02-23;316
+codice_redazionale: 043U0316
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 23 febbraio 1943 n. 316
-=====================================
-
-Termini per la trasmissione delle proposte di ricompense al valor militare durante l'attuale guerra. (043U0316)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1943
-
-Articolo unico
---------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

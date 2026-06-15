@@ -1,15 +1,13 @@
-REGIO DECRETO 24 settembre 1931 n. 1342
+---
+tipo: REGIO DECRETO
+numero: 1342
+data: 1931-09-24
+titolo: "Collocamento di S. E. Giuseppe De Michelis, senatore del Regno, nel ruolo diplomatico. (031U1342)"
+urn: urn:nir:stato:regio.decreto:1931-09-24;1342
+codice_redazionale: 031U1342
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 settembre 1931 n. 1342
-=======================================
-
-Collocamento di S. E. Giuseppe De Michelis, senatore del Regno, nel ruolo diplomatico. (031U1342)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

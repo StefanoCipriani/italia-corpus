@@ -1,15 +1,13 @@
-REGIO DECRETO 14 settembre 1933 n. 2411
+---
+tipo: REGIO DECRETO
+numero: 2411
+data: 1933-09-14
+titolo: "Contributo scolastico dovuto dallo Stato al comune di Ragusa. (033U2411)"
+urn: urn:nir:stato:regio.decreto:1933-09-14;2411
+codice_redazionale: 033U2411
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 settembre 1933 n. 2411
-=======================================
-
-Contributo scolastico dovuto dallo Stato al comune di Ragusa. (033U2411)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

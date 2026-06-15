@@ -1,15 +1,13 @@
-REGIO DECRETO 05 giugno 1933 n. 1075
+---
+tipo: REGIO DECRETO
+numero: 1075
+data: 1933-06-05
+titolo: "Approvazione dello statuto organico del Monte di pieta' di Fiume. (033U1075)"
+urn: urn:nir:stato:regio.decreto:1933-06-05;1075
+codice_redazionale: 033U1075
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 giugno 1933 n. 1075
-====================================
-
-Approvazione dello statuto organico del Monte di pieta' di Fiume. (033U1075)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/09/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

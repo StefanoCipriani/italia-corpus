@@ -1,21 +1,13 @@
-REGIO DECRETO 25 gennaio 1937 n. 1203
+---
+tipo: REGIO DECRETO
+numero: 1203
+data: 1937-01-25
+titolo: "Approvazione dei ruoli organici del personale degli Uffici provinciali dell'economia corporativa. (037U1203)"
+urn: urn:nir:stato:regio.decreto:1937-01-25;1203
+codice_redazionale: 037U1203
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1937 n. 1203
-=====================================
-
-Approvazione dei ruoli organici del personale degli Uffici provinciali dell'economia corporativa. (037U1203)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Tabella
-
- Tabella  
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

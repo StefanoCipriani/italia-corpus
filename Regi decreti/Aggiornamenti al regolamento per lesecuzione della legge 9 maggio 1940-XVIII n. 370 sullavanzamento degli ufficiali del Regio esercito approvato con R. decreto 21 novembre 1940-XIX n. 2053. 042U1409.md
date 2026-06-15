@@ -1,35 +1,29 @@
-REGIO DECRETO 05 settembre 1942 n. 1409
+---
+tipo: REGIO DECRETO
+numero: 1409
+data: 1942-09-05
+titolo: "Aggiornamenti al regolamento per l'esecuzione della legge 9 maggio 1940-XVIII, n. 370, sull'avanzamento degli ufficiali del Regio esercito, approvato con R. decreto 21 novembre 1940-XIX, n. 2053. (042U1409)"
+urn: urn:nir:stato:regio.decreto:1942-09-05;1409
+codice_redazionale: 042U1409
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 settembre 1942 n. 1409
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Aggiornamenti al regolamento per l'esecuzione della legge 9 maggio 1940-XVIII, n. 370, sull'avanzamento degli ufficiali del Regio esercito, approvato con R. decreto 21 novembre 1940-XIX, n. 2053. (042U1409)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/12/1942
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

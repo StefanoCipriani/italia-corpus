@@ -1,15 +1,13 @@
-REGIO DECRETO 10 agosto 1934 n. 1432
+---
+tipo: REGIO DECRETO
+numero: 1432
+data: 1934-08-10
+titolo: "Autorizzazione al comune di Caltanissetta ad applicare le imposte di consumo con la tariffa della classe D. (034U1432)"
+urn: urn:nir:stato:regio.decreto:1934-08-10;1432
+codice_redazionale: 034U1432
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 agosto 1934 n. 1432
-====================================
-
-Autorizzazione al comune di Caltanissetta ad applicare le imposte di consumo con la tariffa della classe D. (034U1432)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/09/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

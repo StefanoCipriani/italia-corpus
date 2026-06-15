@@ -1,15 +1,13 @@
-REGIO DECRETO 06 giugno 1940 n. 686
+---
+tipo: REGIO DECRETO
+numero: 686
+data: 1940-06-06
+titolo: "Modificazione delle disposizioni riguardanti il collocamento fuori ruolo del personale dei Monopoli di Stato. (040U0686)"
+urn: urn:nir:stato:regio.decreto:1940-06-06;686
+codice_redazionale: 040U0686
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1940 n. 686
-===================================
-
-Modificazione delle disposizioni riguardanti il collocamento fuori ruolo del personale dei Monopoli di Stato. (040U0686)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,16 +1,14 @@
-REGIO DECRETO 05 giugno 1898 n. CCXXVII
-
-
-REGIO DECRETO 05 giugno 1898 n. CCXXVII
-=======================================
-
-Che approvando le varianti al tracciato delle linee tranviarie di Fiesole e di Sesto Fiorentino in Firenze, autorizza l'esercizio delle linee stesse a trazione elettrica. (9800227R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1898
+---
+tipo: REGIO DECRETO
+numero: CCXXVII
+data: 1898-06-05
+titolo: "Che approvando le varianti al tracciato delle linee tranviarie di Fiesole e di Sesto Fiorentino in Firenze, autorizza l'esercizio delle linee stesse a trazione elettrica. (9800227R)"
+urn: urn:nir:stato:regio.decreto:1898-06-05;227
+codice_redazionale: 9800227R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -40,37 +38,28 @@ Visto il progetto 21 febbraio 1898 per varianti al tracciato delle altre due lin
 
 Visto il parere favorevole del consiglio superiore dei lavori pubblici in merito a tale progetto;
 
-Vista la [legge 27 dicembre 1896, n. 561](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-12-27;561), sulle tramvie a trazione meccanica;
+Vista la [legge 27 dicembre 1896, n. 561](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20ferrovie%20economiche.%20096U0561.md), sulle tramvie a trazione meccanica;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono approvate le varianti proposte in data 21 febbraio 1898 al tracciato delle linee tramviarie di Fiesole e di Sesto Fiorentino in Firenze ed e' autorizzato l'esercizio delle linee stesse a trazione elettrica giusta il disciplinare 20 marzo 1898 annesso al Nostro decreto 21 aprile 1898.
 
-  
-  
-Sono approvate le varianti proposte in data 21 febbraio 1898 al tracciato delle linee tramviarie di Fiesole e di Sesto Fiorentino in Firenze ed e' autorizzato l'esercizio delle linee stesse a trazione elettrica giusta il disciplinare 20 marzo 1898 annesso al Nostro decreto 21 aprile 1898.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La societa' concessionaria versera' nelle casse dello Stato l'annuo contributo chilometrico di lire venti, a titolo di corrispettivo per le spese di sorveglianza delle linee predette, in applicazione dell'art. 12 della citata legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 giugno 1898.   
-  
-UMBERTO   
-  
-Registrato alla corte dei conti addi' 6 agosto 1898.   
-  
-Rea. 216. Atti del Governo a f. 89. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli T. Bonacci.   
-  
-Afan De Rivera.   
+La societa' concessionaria versera' nelle casse dello Stato l'annuo contributo chilometrico di lire venti, a titolo di corrispettivo per le spese di sorveglianza delle linee predette, in applicazione dell'art. 12 della citata legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 giugno 1898. 
+ 
+ UMBERTO 
+ 
+ Registrato alla corte dei conti addi' 6 agosto 1898. 
+ 
+ Rea. 216. Atti del Governo a f. 89. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Bonacci. 
+ 
+ Afan De Rivera.

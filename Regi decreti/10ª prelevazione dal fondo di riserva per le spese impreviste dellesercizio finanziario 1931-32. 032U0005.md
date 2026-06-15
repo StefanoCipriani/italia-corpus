@@ -1,15 +1,13 @@
-REGIO DECRETO 11 gennaio 1932 n. 5
+---
+tipo: REGIO DECRETO
+numero: 5
+data: 1932-01-11
+titolo: "10ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1931-32. (032U0005)"
+urn: urn:nir:stato:regio.decreto:1932-01-11;5
+codice_redazionale: 032U0005
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1932 n. 5
-==================================
-
-10ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1931-32. (032U0005)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/02/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

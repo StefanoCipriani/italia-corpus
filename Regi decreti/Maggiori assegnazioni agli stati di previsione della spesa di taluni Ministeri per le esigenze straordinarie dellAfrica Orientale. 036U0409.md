@@ -1,15 +1,13 @@
-REGIO DECRETO 09 marzo 1936 n. 409
+---
+tipo: REGIO DECRETO
+numero: 409
+data: 1936-03-09
+titolo: "Maggiori assegnazioni agli stati di previsione della spesa di taluni Ministeri per le esigenze straordinarie dell'Africa Orientale. (036U0409)"
+urn: urn:nir:stato:regio.decreto:1936-03-09;409
+codice_redazionale: 036U0409
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 marzo 1936 n. 409
-==================================
-
-Maggiori assegnazioni agli stati di previsione della spesa di taluni Ministeri per le esigenze straordinarie dell'Africa Orientale. (036U0409)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

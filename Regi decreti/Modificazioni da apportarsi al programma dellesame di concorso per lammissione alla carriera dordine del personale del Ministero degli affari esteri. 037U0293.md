@@ -1,15 +1,13 @@
-REGIO DECRETO 18 febbraio 1937 n. 293
+---
+tipo: REGIO DECRETO
+numero: 293
+data: 1937-02-18
+titolo: "Modificazioni da apportarsi al programma dell'esame di concorso per l'ammissione alla carriera d'ordine del personale del Ministero degli affari esteri. (037U0293)"
+urn: urn:nir:stato:regio.decreto:1937-02-18;293
+codice_redazionale: 037U0293
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 febbraio 1937 n. 293
-=====================================
-
-Modificazioni da apportarsi al programma dell'esame di concorso per l'ammissione alla carriera d'ordine del personale del Ministero degli affari esteri. (037U0293)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

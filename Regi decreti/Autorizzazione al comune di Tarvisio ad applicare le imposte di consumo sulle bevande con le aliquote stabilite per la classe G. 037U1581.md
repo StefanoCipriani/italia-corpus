@@ -1,20 +1,17 @@
-REGIO DECRETO 06 agosto 1937 n. 1581
+---
+tipo: REGIO DECRETO
+numero: 1581
+data: 1937-08-06
+titolo: "Autorizzazione al comune di Tarvisio ad applicare le imposte di consumo sulle bevande con le aliquote stabilite per la classe G. (037U1581)"
+urn: urn:nir:stato:regio.decreto:1937-08-06;1581
+codice_redazionale: 037U1581
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 agosto 1937 n. 1581
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Autorizzazione al comune di Tarvisio ad applicare le imposte di consumo sulle bevande con le aliquote stabilite per la classe G. (037U1581)
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/10/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 27 aprile 1931 n. 677
+---
+tipo: REGIO DECRETO
+numero: 677
+data: 1931-04-27
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Ziano. (031U0677)"
+urn: urn:nir:stato:regio.decreto:1931-04-27;677
+codice_redazionale: 031U0677
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 aprile 1931 n. 677
-===================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Ziano. (031U0677)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

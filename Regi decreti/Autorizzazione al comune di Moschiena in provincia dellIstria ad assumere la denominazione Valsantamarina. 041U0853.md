@@ -1,15 +1,13 @@
-REGIO DECRETO 04 luglio 1941 n. 853
+---
+tipo: REGIO DECRETO
+numero: 853
+data: 1941-07-04
+titolo: "Autorizzazione al comune di Moschiena, in provincia dell'Istria, ad assumere la denominazione «Valsantamarina». (041U0853)"
+urn: urn:nir:stato:regio.decreto:1941-07-04;853
+codice_redazionale: 041U0853
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 luglio 1941 n. 853
-===================================
-
-Autorizzazione al comune di Moschiena, in provincia dell'Istria, ad assumere la denominazione «Valsantamarina». (041U0853)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

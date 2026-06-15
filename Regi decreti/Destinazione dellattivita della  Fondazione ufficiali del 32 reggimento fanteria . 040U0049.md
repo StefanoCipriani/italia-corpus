@@ -1,15 +1,13 @@
-REGIO DECRETO 11 gennaio 1940 n. 49
+---
+tipo: REGIO DECRETO
+numero: 49
+data: 1940-01-11
+titolo: "Destinazione dell'attivita' della « Fondazione ufficiali del 32° reggimento fanteria ». (040U0049)"
+urn: urn:nir:stato:regio.decreto:1940-01-11;49
+codice_redazionale: 040U0049
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1940 n. 49
-===================================
-
-Destinazione dell'attivita' della « Fondazione ufficiali del 32° reggimento fanteria ». (040U0049)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

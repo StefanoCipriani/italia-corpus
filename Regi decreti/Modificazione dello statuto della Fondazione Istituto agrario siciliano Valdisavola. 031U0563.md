@@ -1,15 +1,13 @@
-REGIO DECRETO 30 aprile 1931 n. 563
+---
+tipo: REGIO DECRETO
+numero: 563
+data: 1931-04-30
+titolo: "Modificazione dello statuto della Fondazione «Istituto agrario siciliano Valdisavola». (031U0563)"
+urn: urn:nir:stato:regio.decreto:1931-04-30;563
+codice_redazionale: 031U0563
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 aprile 1931 n. 563
-===================================
-
-Modificazione dello statuto della Fondazione «Istituto agrario siciliano Valdisavola». (031U0563)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

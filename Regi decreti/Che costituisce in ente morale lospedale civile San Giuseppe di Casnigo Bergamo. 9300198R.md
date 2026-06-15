@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1893 n. CXCVIII
-
-
-REGIO DECRETO 23 marzo 1893 n. CXCVIII
-======================================
-
-Che costituisce in ente morale l'ospedale civile «San Giuseppe» di Casnigo (Bergamo). (9300198R)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1893
+---
+tipo: REGIO DECRETO
+numero: CXCVIII
+data: 1893-03-23
+titolo: "Che costituisce in ente morale l'ospedale civile «San Giuseppe» di Casnigo (Bergamo). (9300198R)"
+urn: urn:nir:stato:regio.decreto:1893-03-23;198
+codice_redazionale: 9300198R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Veduta la domanda della congregazione di carita' di Casnigo (Bergamo), per la co
 
 Vedute le deliberazioni della congregazione medesima, del consiglio comunale di Casnigo, e della giunta provinciale amministrativa di Bergamo;
 
-Vedute le [leggi 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e 5 giugno 1850, n. 1037;
+Vedute le [leggi 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e 5 giugno 1850, n. 1037;
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'ospedale civile «San Giuseppe» come sopra fondato nel comune di Casnigo e' costituito in ente morale ed e' autorizzato ad accettare la donazione fatta a suo favore dai suddetti benefattori.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 marzo 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 19 aprile 1893.   
-  
-Reg. 191. Atti del Governo a f. 58. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
+L'ospedale civile «San Giuseppe» come sopra fondato nel comune di Casnigo e' costituito in ente morale ed e' autorizzato ad accettare la donazione fatta a suo favore dai suddetti benefattori. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 marzo 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 19 aprile 1893. 
+ 
+ Reg. 191. Atti del Governo a f. 58. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

@@ -1,15 +1,13 @@
-REGIO DECRETO 11 dicembre 1930 n. 1795
+---
+tipo: REGIO DECRETO
+numero: 1795
+data: 1930-12-11
+titolo: "Autorizzazione all'Istituto dei ciechi di Lecce ad accettare un legato. (030U1795)"
+urn: urn:nir:stato:regio.decreto:1930-12-11;1795
+codice_redazionale: 030U1795
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1930 n. 1795
-======================================
-
-Autorizzazione all'Istituto dei ciechi di Lecce ad accettare un legato. (030U1795)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

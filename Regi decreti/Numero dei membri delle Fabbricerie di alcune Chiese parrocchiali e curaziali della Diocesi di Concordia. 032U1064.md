@@ -1,15 +1,13 @@
-REGIO DECRETO 22 luglio 1932 n. 1064
+---
+tipo: REGIO DECRETO
+numero: 1064
+data: 1932-07-22
+titolo: "Numero dei membri delle Fabbricerie di alcune Chiese parrocchiali e curaziali della Diocesi di Concordia. (032U1064)"
+urn: urn:nir:stato:regio.decreto:1932-07-22;1064
+codice_redazionale: 032U1064
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 luglio 1932 n. 1064
-====================================
-
-Numero dei membri delle Fabbricerie di alcune Chiese parrocchiali e curaziali della Diocesi di Concordia. (032U1064)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,25 +1,21 @@
-REGIO DECRETO 24 aprile 1939 n. 945
+---
+tipo: REGIO DECRETO
+numero: 945
+data: 1939-04-24
+titolo: "Emissione di francobolli commemorativi della XIII Fiera di Tripoli. (039U0945)"
+urn: urn:nir:stato:regio.decreto:1939-04-24;945
+codice_redazionale: 039U0945
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 aprile 1939 n. 945
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Emissione di francobolli commemorativi della XIII Fiera di Tripoli. (039U0945)
-------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/07/1939
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

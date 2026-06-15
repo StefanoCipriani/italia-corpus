@@ -1,15 +1,13 @@
-REGIO DECRETO 01 novembre 1938 n. 1986
+---
+tipo: REGIO DECRETO
+numero: 1986
+data: 1938-11-01
+titolo: "Dichiarazione formale dei fini della Confraternita dell'Immacolata Concezione di Maria SS.ma in Monteverginella, con sede in Napoli. (038U1986)"
+urn: urn:nir:stato:regio.decreto:1938-11-01;1986
+codice_redazionale: 038U1986
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 novembre 1938 n. 1986
-======================================
-
-Dichiarazione formale dei fini della Confraternita dell'Immacolata Concezione di Maria SS.ma in Monteverginella, con sede in Napoli. (038U1986)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

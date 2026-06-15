@@ -1,15 +1,13 @@
-REGIO DECRETO 26 luglio 1935 n. 1656
+---
+tipo: REGIO DECRETO
+numero: 1656
+data: 1935-07-26
+titolo: "Nuovo ordinamento dell'Istituto di Guerra Marittima. (035U1656)"
+urn: urn:nir:stato:regio.decreto:1935-07-26;1656
+codice_redazionale: 035U1656
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 luglio 1935 n. 1656
-====================================
-
-Nuovo ordinamento dell'Istituto di Guerra Marittima. (035U1656)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

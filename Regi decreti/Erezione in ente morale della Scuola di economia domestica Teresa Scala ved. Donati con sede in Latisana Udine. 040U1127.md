@@ -1,15 +1,13 @@
-REGIO DECRETO 21 giugno 1940 n. 1127
+---
+tipo: REGIO DECRETO
+numero: 1127
+data: 1940-06-21
+titolo: "Erezione in ente morale della «Scuola di economia domestica Teresa Scala ved. Donati», con sede in Latisana (Udine). (040U1127)"
+urn: urn:nir:stato:regio.decreto:1940-06-21;1127
+codice_redazionale: 040U1127
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 giugno 1940 n. 1127
-====================================
-
-Erezione in ente morale della «Scuola di economia domestica Teresa Scala ved. Donati», con sede in Latisana (Udine). (040U1127)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/09/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

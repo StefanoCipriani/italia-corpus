@@ -1,20 +1,17 @@
-REGIO DECRETO 22 aprile 1932 n. 822
+---
+tipo: REGIO DECRETO
+numero: 822
+data: 1932-04-22
+titolo: "Soppressione dell'assegno stabilito per il vice console in Smirne, ed istituzione di un posto di vice console in Costantinopoli. (032U0822)"
+urn: urn:nir:stato:regio.decreto:1932-04-22;822
+codice_redazionale: 032U0822
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1932 n. 822
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Soppressione dell'assegno stabilito per il vice console in Smirne, ed istituzione di un posto di vice console in Costantinopoli. (032U0822)
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/08/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

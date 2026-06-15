@@ -1,15 +1,13 @@
-REGIO DECRETO 22 settembre 1932 n. 1325
+---
+tipo: REGIO DECRETO
+numero: 1325
+data: 1932-09-22
+titolo: "Riconoscimento giuridico dell'Ente scolastico «Vergine del Rosario di Pompei» in Sant'Angelo all'Esca. (032U1325)"
+urn: urn:nir:stato:regio.decreto:1932-09-22;1325
+codice_redazionale: 032U1325
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 settembre 1932 n. 1325
-=======================================
-
-Riconoscimento giuridico dell'Ente scolastico «Vergine del Rosario di Pompei» in Sant'Angelo all'Esca. (032U1325)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

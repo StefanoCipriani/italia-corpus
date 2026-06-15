@@ -1,15 +1,13 @@
-REGIO DECRETO 30 dicembre 1940 n. 2017
+---
+tipo: REGIO DECRETO
+numero: 2017
+data: 1940-12-30
+titolo: "Abolizione di una zona di servitu' militare. (040U2017)"
+urn: urn:nir:stato:regio.decreto:1940-12-30;2017
+codice_redazionale: 040U2017
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 dicembre 1940 n. 2017
-======================================
-
-Abolizione di una zona di servitu' militare. (040U2017)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

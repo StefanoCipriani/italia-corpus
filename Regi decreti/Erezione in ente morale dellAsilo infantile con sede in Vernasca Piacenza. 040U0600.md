@@ -1,15 +1,13 @@
-REGIO DECRETO 04 aprile 1940 n. 600
+---
+tipo: REGIO DECRETO
+numero: 600
+data: 1940-04-04
+titolo: "Erezione in ente morale dell'Asilo infantile con sede in Vernasca (Piacenza). (040U0600)"
+urn: urn:nir:stato:regio.decreto:1940-04-04;600
+codice_redazionale: 040U0600
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 aprile 1940 n. 600
-===================================
-
-Erezione in ente morale dell'Asilo infantile con sede in Vernasca (Piacenza). (040U0600)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

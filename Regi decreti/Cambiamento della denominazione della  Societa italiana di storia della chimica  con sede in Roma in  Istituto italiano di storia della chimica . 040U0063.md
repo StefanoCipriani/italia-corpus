@@ -1,15 +1,13 @@
-REGIO DECRETO 25 gennaio 1940 n. 63
+---
+tipo: REGIO DECRETO
+numero: 63
+data: 1940-01-25
+titolo: "Cambiamento della denominazione della « Societa' italiana di storia della chimica », con sede in Roma, in « Istituto italiano di storia della chimica ». (040U0063)"
+urn: urn:nir:stato:regio.decreto:1940-01-25;63
+codice_redazionale: 040U0063
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1940 n. 63
-===================================
-
-Cambiamento della denominazione della « Societa' italiana di storia della chimica », con sede in Roma, in « Istituto italiano di storia della chimica ». (040U0063)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

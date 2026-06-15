@@ -1,15 +1,13 @@
-REGIO DECRETO 21 ottobre 1937 n. 2003
+---
+tipo: REGIO DECRETO
+numero: 2003
+data: 1937-10-21
+titolo: "Concessione di un assegno suppletivo, per una volta tanto, al Regio console generale in Tangeri. (037U2003)"
+urn: urn:nir:stato:regio.decreto:1937-10-21;2003
+codice_redazionale: 037U2003
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 ottobre 1937 n. 2003
-=====================================
-
-Concessione di un assegno suppletivo, per una volta tanto, al Regio console generale in Tangeri. (037U2003)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

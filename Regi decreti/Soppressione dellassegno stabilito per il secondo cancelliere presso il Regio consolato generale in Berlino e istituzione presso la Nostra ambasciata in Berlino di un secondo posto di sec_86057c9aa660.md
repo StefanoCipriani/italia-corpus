@@ -1,15 +1,13 @@
-REGIO DECRETO 23 febbraio 1942 n. 265
+---
+tipo: REGIO DECRETO
+numero: 265
+data: 1942-02-23
+titolo: "Soppressione dell'assegno stabilito per il secondo cancelliere presso il Regio consolato generale in Berlino e istituzione presso la Nostra ambasciata in Berlino, di un secondo posto di secondo cancelliere. (042U0265)"
+urn: urn:nir:stato:regio.decreto:1942-02-23;265
+codice_redazionale: 042U0265
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 febbraio 1942 n. 265
-=====================================
-
-Soppressione dell'assegno stabilito per il secondo cancelliere presso il Regio consolato generale in Berlino e istituzione presso la Nostra ambasciata in Berlino, di un secondo posto di secondo cancelliere. (042U0265)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

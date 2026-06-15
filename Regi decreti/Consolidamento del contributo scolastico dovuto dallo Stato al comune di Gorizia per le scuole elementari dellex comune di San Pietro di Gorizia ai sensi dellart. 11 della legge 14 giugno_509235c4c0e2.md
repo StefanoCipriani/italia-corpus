@@ -1,21 +1,13 @@
-REGIO DECRETO 23 ottobre 1930 n. 1875
+---
+tipo: REGIO DECRETO
+numero: 1875
+data: 1930-10-23
+titolo: "Consolidamento del contributo scolastico dovuto dallo Stato al comune di Gorizia per le scuole elementari dell'ex comune di San Pietro di Gorizia, ai sensi dell'art. 11 della legge 14 giugno 1928, n. 1482. (030U1875)"
+urn: urn:nir:stato:regio.decreto:1930-10-23;1875
+codice_redazionale: 030U1875
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 ottobre 1930 n. 1875
-=====================================
-
-Consolidamento del contributo scolastico dovuto dallo Stato al comune di Gorizia per le scuole elementari dell'ex comune di San Pietro di Gorizia, ai sensi dell'art. 11 della legge 14 giugno 1928, n. 1482. (030U1875)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabelle
-
- Tabelle   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

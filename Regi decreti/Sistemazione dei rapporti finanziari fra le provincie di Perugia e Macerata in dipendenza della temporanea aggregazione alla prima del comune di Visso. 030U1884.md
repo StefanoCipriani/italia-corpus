@@ -1,15 +1,13 @@
-REGIO DECRETO 29 dicembre 1930 n. 1884
+---
+tipo: REGIO DECRETO
+numero: 1884
+data: 1930-12-29
+titolo: "Sistemazione dei rapporti finanziari fra le provincie di Perugia e Macerata in dipendenza della temporanea aggregazione alla prima del comune di Visso. (030U1884)"
+urn: urn:nir:stato:regio.decreto:1930-12-29;1884
+codice_redazionale: 030U1884
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 dicembre 1930 n. 1884
-======================================
-
-Sistemazione dei rapporti finanziari fra le provincie di Perugia e Macerata in dipendenza della temporanea aggregazione alla prima del comune di Visso. (030U1884)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

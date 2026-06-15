@@ -1,15 +1,13 @@
-REGIO DECRETO 14 agosto 1931 n. 1197
+---
+tipo: REGIO DECRETO
+numero: 1197
+data: 1931-08-14
+titolo: "Cambiamento della denominazione dell'Ente autonomo «Stabile orchestrale fiorentina» in «Ente autonomo del Politeama fiorentino Vittorio Emanuele II». (031U1197)"
+urn: urn:nir:stato:regio.decreto:1931-08-14;1197
+codice_redazionale: 031U1197
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 agosto 1931 n. 1197
-====================================
-
-Cambiamento della denominazione dell'Ente autonomo «Stabile orchestrale fiorentina» in «Ente autonomo del Politeama fiorentino Vittorio Emanuele II». (031U1197)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

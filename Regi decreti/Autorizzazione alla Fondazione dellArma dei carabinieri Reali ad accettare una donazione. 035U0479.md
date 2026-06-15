@@ -1,15 +1,13 @@
-REGIO DECRETO 28 marzo 1935 n. 479
+---
+tipo: REGIO DECRETO
+numero: 479
+data: 1935-03-28
+titolo: "Autorizzazione alla «Fondazione dell'Arma dei carabinieri Reali» ad accettare una donazione. (035U0479)"
+urn: urn:nir:stato:regio.decreto:1935-03-28;479
+codice_redazionale: 035U0479
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 marzo 1935 n. 479
-==================================
-
-Autorizzazione alla «Fondazione dell'Arma dei carabinieri Reali» ad accettare una donazione. (035U0479)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

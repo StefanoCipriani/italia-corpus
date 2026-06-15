@@ -1,15 +1,13 @@
-REGIO DECRETO 17 ottobre 1941 n. 1311
+---
+tipo: REGIO DECRETO
+numero: 1311
+data: 1941-10-17
+titolo: "Autorizzazione alla Cassa scolastica della Regia scuola secondaria di avviamento professionale «Giovanni Josti» di Mortara ad accettare una donazione. (041U1311)"
+urn: urn:nir:stato:regio.decreto:1941-10-17;1311
+codice_redazionale: 041U1311
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 ottobre 1941 n. 1311
-=====================================
-
-Autorizzazione alla Cassa scolastica della Regia scuola secondaria di avviamento professionale «Giovanni Josti» di Mortara ad accettare una donazione. (041U1311)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 12 ottobre 1933 n. 1510
+---
+tipo: REGIO DECRETO
+numero: 1510
+data: 1933-10-12
+titolo: "Modificazione dello statuto organico del Museo storico dei bersaglieri, in Roma. (033U1510)"
+urn: urn:nir:stato:regio.decreto:1933-10-12;1510
+codice_redazionale: 033U1510
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 ottobre 1933 n. 1510
-=====================================
-
-Modificazione dello statuto organico del Museo storico dei bersaglieri, in Roma. (033U1510)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/12/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

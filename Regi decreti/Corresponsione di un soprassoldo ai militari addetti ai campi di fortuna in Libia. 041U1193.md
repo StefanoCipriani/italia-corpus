@@ -1,20 +1,17 @@
-REGIO DECRETO 14 giugno 1941 n. 1193
+---
+tipo: REGIO DECRETO
+numero: 1193
+data: 1941-06-14
+titolo: "Corresponsione di un soprassoldo ai militari addetti ai campi di fortuna in Libia. (041U1193)"
+urn: urn:nir:stato:regio.decreto:1941-06-14;1193
+codice_redazionale: 041U1193
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 giugno 1941 n. 1193
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Corresponsione di un soprassoldo ai militari addetti ai campi di fortuna in Libia. (041U1193)
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/11/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

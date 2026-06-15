@@ -1,15 +1,13 @@
-REGIO DECRETO 02 dicembre 1940 n. 1867
+---
+tipo: REGIO DECRETO
+numero: 1867
+data: 1940-12-02
+titolo: "Soppressione dell'Agenzia consolare in Algesiras e istituzione nella stessa localita' di un Vice consolato di seconda categoria. (040U1867)"
+urn: urn:nir:stato:regio.decreto:1940-12-02;1867
+codice_redazionale: 040U1867
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 dicembre 1940 n. 1867
-======================================
-
-Soppressione dell'Agenzia consolare in Algesiras e istituzione nella stessa localita' di un Vice consolato di seconda categoria. (040U1867)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

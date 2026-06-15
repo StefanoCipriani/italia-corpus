@@ -1,15 +1,13 @@
-REGIO DECRETO 22 aprile 1940 n. 940
+---
+tipo: REGIO DECRETO
+numero: 940
+data: 1940-04-22
+titolo: "Erezione in ente morale della fondazione intitolata «Dispensario antitracomatoso Maria Antonietta», con sede in Marsala. (040U0940)"
+urn: urn:nir:stato:regio.decreto:1940-04-22;940
+codice_redazionale: 040U0940
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1940 n. 940
-===================================
-
-Erezione in ente morale della fondazione intitolata «Dispensario antitracomatoso Maria Antonietta», con sede in Marsala. (040U0940)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

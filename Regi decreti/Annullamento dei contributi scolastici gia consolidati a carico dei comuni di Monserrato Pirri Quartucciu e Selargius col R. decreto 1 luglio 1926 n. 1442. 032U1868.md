@@ -1,15 +1,13 @@
-REGIO DECRETO 10 novembre 1932 n. 1868
+---
+tipo: REGIO DECRETO
+numero: 1868
+data: 1932-11-10
+titolo: "Annullamento dei contributi scolastici gia' consolidati a carico dei comuni di Monserrato, Pirri, Quartucciu e Selargius col R. decreto 1° luglio 1926, n. 1442. (032U1868)"
+urn: urn:nir:stato:regio.decreto:1932-11-10;1868
+codice_redazionale: 032U1868
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 novembre 1932 n. 1868
-======================================
-
-Annullamento dei contributi scolastici gia' consolidati a carico dei comuni di Monserrato, Pirri, Quartucciu e Selargius col R. decreto 1° luglio 1926, n. 1442. (032U1868)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

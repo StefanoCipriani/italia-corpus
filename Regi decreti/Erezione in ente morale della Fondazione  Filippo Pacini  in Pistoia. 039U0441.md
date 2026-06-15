@@ -1,15 +1,13 @@
-REGIO DECRETO 16 gennaio 1939 n. 441
+---
+tipo: REGIO DECRETO
+numero: 441
+data: 1939-01-16
+titolo: "Erezione in ente morale della Fondazione « Filippo Pacini », in Pistoia. (039U0441)"
+urn: urn:nir:stato:regio.decreto:1939-01-16;441
+codice_redazionale: 039U0441
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 gennaio 1939 n. 441
-====================================
-
-Erezione in ente morale della Fondazione « Filippo Pacini », in Pistoia. (039U0441)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

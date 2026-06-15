@@ -1,15 +1,13 @@
-REGIO DECRETO 14 agosto 1936 n. 1660
+---
+tipo: REGIO DECRETO
+numero: 1660
+data: 1936-08-14
+titolo: "Trattenimento in servizio per speciali esigenze di militari di truppa. (036U1660)"
+urn: urn:nir:stato:regio.decreto:1936-08-14;1660
+codice_redazionale: 036U1660
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 agosto 1936 n. 1660
-====================================
-
-Trattenimento in servizio per speciali esigenze di militari di truppa. (036U1660)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

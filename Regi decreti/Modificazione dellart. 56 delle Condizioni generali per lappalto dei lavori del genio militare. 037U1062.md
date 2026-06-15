@@ -1,20 +1,17 @@
-REGIO DECRETO 24 maggio 1937 n. 1062
+---
+tipo: REGIO DECRETO
+numero: 1062
+data: 1937-05-24
+titolo: "Modificazione dell'art. 56 delle «Condizioni generali per l'appalto dei lavori del genio militare». (037U1062)"
+urn: urn:nir:stato:regio.decreto:1937-05-24;1062
+codice_redazionale: 037U1062
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 maggio 1937 n. 1062
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazione dell'art. 56 delle «Condizioni generali per l'appalto dei lavori del genio militare». (037U1062)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/07/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

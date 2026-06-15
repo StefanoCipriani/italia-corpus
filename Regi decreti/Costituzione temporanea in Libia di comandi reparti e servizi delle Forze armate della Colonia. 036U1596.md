@@ -1,15 +1,13 @@
-REGIO DECRETO 16 luglio 1936 n. 1596
+---
+tipo: REGIO DECRETO
+numero: 1596
+data: 1936-07-16
+titolo: "Costituzione temporanea in Libia di comandi, reparti e servizi delle Forze armate della Colonia. (036U1596)"
+urn: urn:nir:stato:regio.decreto:1936-07-16;1596
+codice_redazionale: 036U1596
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 luglio 1936 n. 1596
-====================================
-
-Costituzione temporanea in Libia di comandi, reparti e servizi delle Forze armate della Colonia. (036U1596)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

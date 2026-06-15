@@ -1,15 +1,13 @@
-REGIO DECRETO 26 febbraio 1943 n. 203
+---
+tipo: REGIO DECRETO
+numero: 203
+data: 1943-02-26
+titolo: "Autorizzazione al Regio istituto tecnico industriale «P. Paleocapa» di Bergamo, ad acquistare un immobile. (043U0203)"
+urn: urn:nir:stato:regio.decreto:1943-02-26;203
+codice_redazionale: 043U0203
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 febbraio 1943 n. 203
-=====================================
-
-Autorizzazione al Regio istituto tecnico industriale «P. Paleocapa» di Bergamo, ad acquistare un immobile. (043U0203)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

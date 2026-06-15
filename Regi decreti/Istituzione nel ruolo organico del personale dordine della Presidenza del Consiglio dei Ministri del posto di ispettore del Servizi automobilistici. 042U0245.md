@@ -1,25 +1,21 @@
-REGIO DECRETO 16 febbraio 1942 n. 245
+---
+tipo: REGIO DECRETO
+numero: 245
+data: 1942-02-16
+titolo: "Istituzione nel ruolo organico del personale d'ordine della Presidenza del Consiglio dei Ministri del posto di ispettore del Servizi automobilistici. (042U0245)"
+urn: urn:nir:stato:regio.decreto:1942-02-16;245
+codice_redazionale: 042U0245
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 febbraio 1942 n. 245
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione nel ruolo organico del personale d'ordine della Presidenza del Consiglio dei Ministri del posto di ispettore del Servizi automobilistici. (042U0245)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/04/1942
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

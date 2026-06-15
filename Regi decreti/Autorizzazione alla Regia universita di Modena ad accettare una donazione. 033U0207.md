@@ -1,15 +1,13 @@
-REGIO DECRETO 09 febbraio 1933 n. 207
+---
+tipo: REGIO DECRETO
+numero: 207
+data: 1933-02-09
+titolo: "Autorizzazione alla Regia universita' di Modena ad accettare una donazione. (033U0207)"
+urn: urn:nir:stato:regio.decreto:1933-02-09;207
+codice_redazionale: 033U0207
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 febbraio 1933 n. 207
-=====================================
-
-Autorizzazione alla Regia universita' di Modena ad accettare una donazione. (033U0207)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

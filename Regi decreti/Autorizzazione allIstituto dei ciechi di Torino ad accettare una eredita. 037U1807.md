@@ -1,15 +1,13 @@
-REGIO DECRETO 29 luglio 1937 n. 1807
+---
+tipo: REGIO DECRETO
+numero: 1807
+data: 1937-07-29
+titolo: "Autorizzazione all'Istituto dei ciechi di Torino ad accettare una eredita'. (037U1807)"
+urn: urn:nir:stato:regio.decreto:1937-07-29;1807
+codice_redazionale: 037U1807
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 luglio 1937 n. 1807
-====================================
-
-Autorizzazione all'Istituto dei ciechi di Torino ad accettare una eredita'. (037U1807)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,15 +1,13 @@
-REGIO DECRETO 01 ottobre 1936 n. 1959
+---
+tipo: REGIO DECRETO
+numero: 1959
+data: 1936-10-01
+titolo: "Approvazione di una variante al piano regolatore di Milano relativa alla zona lungo la sede della Ferrovia Nord fra via Savonarola e via Domodossola. (036U1959)"
+urn: urn:nir:stato:regio.decreto:1936-10-01;1959
+codice_redazionale: 036U1959
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 ottobre 1936 n. 1959
-=====================================
-
-Approvazione di una variante al piano regolatore di Milano relativa alla zona lungo la sede della Ferrovia Nord fra via Savonarola e via Domodossola. (036U1959)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 03 settembre 1936 n. 1717
+---
+tipo: REGIO DECRETO
+numero: 1717
+data: 1936-09-03
+titolo: "Autorizzazione al Collegio-convitto e «S. Carlo» di Modena ad acquistare un terreno. (036U1717)"
+urn: urn:nir:stato:regio.decreto:1936-09-03;1717
+codice_redazionale: 036U1717
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 settembre 1936 n. 1717
-=======================================
-
-Autorizzazione al Collegio-convitto e «S. Carlo» di Modena ad acquistare un terreno. (036U1717)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

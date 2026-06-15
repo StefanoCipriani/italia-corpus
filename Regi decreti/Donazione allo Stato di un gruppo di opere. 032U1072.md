@@ -1,15 +1,13 @@
-REGIO DECRETO 19 maggio 1932 n. 1072
+---
+tipo: REGIO DECRETO
+numero: 1072
+data: 1932-05-19
+titolo: "Donazione allo Stato di un gruppo di opere. (032U1072)"
+urn: urn:nir:stato:regio.decreto:1932-05-19;1072
+codice_redazionale: 032U1072
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1932 n. 1072
-====================================
-
-Donazione allo Stato di un gruppo di opere. (032U1072)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

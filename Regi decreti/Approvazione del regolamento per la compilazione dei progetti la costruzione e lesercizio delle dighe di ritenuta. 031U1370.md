@@ -1,26 +1,17 @@
-REGIO DECRETO 01 ottobre 1931 n. 1370
+---
+tipo: REGIO DECRETO
+numero: 1370
+data: 1931-10-01
+titolo: "Approvazione del regolamento per la compilazione dei progetti, la costruzione e l'esercizio delle dighe di ritenuta. (031U1370)"
+urn: urn:nir:stato:regio.decreto:1931-10-01;1370
+codice_redazionale: 031U1370
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 ottobre 1931 n. 1370
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Approvazione del regolamento per la compilazione dei progetti, la costruzione e l'esercizio delle dighe di ritenuta. (031U1370)
--------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/12/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Regolamento
-
- Regolamento   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

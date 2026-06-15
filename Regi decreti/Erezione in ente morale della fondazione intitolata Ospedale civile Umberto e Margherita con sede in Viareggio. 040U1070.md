@@ -1,15 +1,13 @@
-REGIO DECRETO 20 marzo 1940 n. 1070
+---
+tipo: REGIO DECRETO
+numero: 1070
+data: 1940-03-20
+titolo: "Erezione in ente morale della fondazione intitolata «Ospedale civile Umberto e Margherita» con sede in Viareggio. (040U1070)"
+urn: urn:nir:stato:regio.decreto:1940-03-20;1070
+codice_redazionale: 040U1070
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1940 n. 1070
-===================================
-
-Erezione in ente morale della fondazione intitolata «Ospedale civile Umberto e Margherita» con sede in Viareggio. (040U1070)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

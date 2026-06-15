@@ -1,15 +1,13 @@
-REGIO DECRETO 28 febbraio 1935 n. 294
+---
+tipo: REGIO DECRETO
+numero: 294
+data: 1935-02-28
+titolo: "Approvazione del nuovo statuto dell'Istituto autonomo per le case popolari di Bari. (035U0294)"
+urn: urn:nir:stato:regio.decreto:1935-02-28;294
+codice_redazionale: 035U0294
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 febbraio 1935 n. 294
-=====================================
-
-Approvazione del nuovo statuto dell'Istituto autonomo per le case popolari di Bari. (035U0294)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 24 novembre 1932 n. 1601
+---
+tipo: REGIO DECRETO
+numero: 1601
+data: 1932-11-24
+titolo: "Tassazione delle mercedi degli operai in Tripolitania e in Cirenaica. (032U1601)"
+urn: urn:nir:stato:regio.decreto:1932-11-24;1601
+codice_redazionale: 032U1601
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 novembre 1932 n. 1601
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Tassazione delle mercedi degli operai in Tripolitania e in Cirenaica. (032U1601)
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 06/01/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

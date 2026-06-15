@@ -1,15 +1,13 @@
-REGIO DECRETO 02 maggio 1932 n. 522
+---
+tipo: REGIO DECRETO
+numero: 522
+data: 1932-05-02
+titolo: "Autorizzazione alla Fondazione «Tenente di vascello Emilio Comandu'» ad accettare una donazione. (032U0522)"
+urn: urn:nir:stato:regio.decreto:1932-05-02;522
+codice_redazionale: 032U0522
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 maggio 1932 n. 522
-===================================
-
-Autorizzazione alla Fondazione «Tenente di vascello Emilio Comandu'» ad accettare una donazione. (032U0522)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

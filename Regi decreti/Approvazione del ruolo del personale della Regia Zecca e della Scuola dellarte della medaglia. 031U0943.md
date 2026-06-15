@@ -1,26 +1,17 @@
-REGIO DECRETO 25 giugno 1931 n. 943
+---
+tipo: REGIO DECRETO
+numero: 943
+data: 1931-06-25
+titolo: "Approvazione del ruolo del personale della Regia Zecca e della Scuola dell'arte della medaglia. (031U0943)"
+urn: urn:nir:stato:regio.decreto:1931-06-25;943
+codice_redazionale: 031U0943
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1931 n. 943
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Approvazione del ruolo del personale della Regia Zecca e della Scuola dell'arte della medaglia. (031U0943)
-----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/08/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

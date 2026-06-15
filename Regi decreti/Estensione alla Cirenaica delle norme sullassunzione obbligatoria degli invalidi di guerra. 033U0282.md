@@ -1,25 +1,21 @@
-REGIO DECRETO 20 marzo 1933 n. 282
+---
+tipo: REGIO DECRETO
+numero: 282
+data: 1933-03-20
+titolo: "Estensione alla Cirenaica delle norme sull'assunzione obbligatoria degli invalidi di guerra. (033U0282)"
+urn: urn:nir:stato:regio.decreto:1933-03-20;282
+codice_redazionale: 033U0282
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1933 n. 282
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alla Cirenaica delle norme sull'assunzione obbligatoria degli invalidi di guerra. (033U0282)
--------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 05/05/1933
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

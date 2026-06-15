@@ -1,15 +1,13 @@
-REGIO DECRETO 18 gennaio 1934 n. 277
+---
+tipo: REGIO DECRETO
+numero: 277
+data: 1934-01-18
+titolo: "Abolizione del servizio dei Carabinieri Reali presso la Regia Aeronautica. (034U0277)"
+urn: urn:nir:stato:regio.decreto:1934-01-18;277
+codice_redazionale: 034U0277
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 gennaio 1934 n. 277
-====================================
-
-Abolizione del servizio dei Carabinieri Reali presso la Regia Aeronautica. (034U0277)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

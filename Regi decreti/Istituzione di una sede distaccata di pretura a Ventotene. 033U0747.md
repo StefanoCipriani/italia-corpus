@@ -1,15 +1,13 @@
-REGIO DECRETO 29 giugno 1933 n. 747
+---
+tipo: REGIO DECRETO
+numero: 747
+data: 1933-06-29
+titolo: "Istituzione di una sede distaccata di pretura a Ventotene. (033U0747)"
+urn: urn:nir:stato:regio.decreto:1933-06-29;747
+codice_redazionale: 033U0747
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 giugno 1933 n. 747
-===================================
-
-Istituzione di una sede distaccata di pretura a Ventotene. (033U0747)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

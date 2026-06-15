@@ -1,15 +1,13 @@
-REGIO DECRETO 04 dicembre 1939 n. 2159
+---
+tipo: REGIO DECRETO
+numero: 2159
+data: 1939-12-04
+titolo: "Conferimento della personalita' giuridica all'« Istituto nazionale di finanza corporativa », in Roma. (039U2159)"
+urn: urn:nir:stato:regio.decreto:1939-12-04;2159
+codice_redazionale: 039U2159
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1939 n. 2159
-======================================
-
-Conferimento della personalita' giuridica all'« Istituto nazionale di finanza corporativa », in Roma. (039U2159)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/02/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

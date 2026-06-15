@@ -1,21 +1,21 @@
-REGIO DECRETO 11 maggio 1933 n. 957
+---
+tipo: REGIO DECRETO
+numero: 957
+data: 1933-05-11
+titolo: "Trasformazione del fine inerente al patrimonio del Monte di pieta' di Staffolo. (033U0957)"
+urn: urn:nir:stato:regio.decreto:1933-05-11;957
+codice_redazionale: 033U0957
+vigente: true
+---
 
-
-REGIO DECRETO 11 maggio 1933 n. 957
-===================================
-
-Trasformazione del fine inerente al patrimonio del Monte di pieta' di Staffolo. (033U0957)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/08/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-957. R. decreto 11 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di Staffolo (provincia di Ancona), e' trasformato a favore dell'Asilo infantile «Principe di Piemonte» ivi esistente.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 7 luglio 1933 - Anno XI
+957.
+
+R. decreto 11 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di Staffolo (provincia di Ancona), e' trasformato a favore dell'Asilo infantile «Principe di Piemonte» ivi esistente. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 7 luglio 1933 - Anno XI

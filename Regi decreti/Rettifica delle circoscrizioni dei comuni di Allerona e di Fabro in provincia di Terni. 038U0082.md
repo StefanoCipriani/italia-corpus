@@ -1,15 +1,13 @@
-REGIO DECRETO 17 gennaio 1938 n. 82
+---
+tipo: REGIO DECRETO
+numero: 82
+data: 1938-01-17
+titolo: "Rettifica delle circoscrizioni dei comuni di Allerona e di Fabro, in provincia di Terni. (038U0082)"
+urn: urn:nir:stato:regio.decreto:1938-01-17;82
+codice_redazionale: 038U0082
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 gennaio 1938 n. 82
-===================================
-
-Rettifica delle circoscrizioni dei comuni di Allerona e di Fabro, in provincia di Terni. (038U0082)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

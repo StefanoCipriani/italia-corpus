@@ -1,28 +1,24 @@
-REGIO DECRETO 20 giugno 1935 n. 1196
+---
+tipo: REGIO DECRETO
+numero: 1196
+data: 1935-06-20
+titolo: "Denominazioni delle pubbliche scuole elementari e limite di eta' per l'ammissione ai concorsi magistrali. (035U1196)"
+urn: urn:nir:stato:regio.decreto:1935-06-20;1196
+codice_redazionale: 035U1196
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 giugno 1935 n. 1196
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Denominazioni delle pubbliche scuole elementari e limite di eta' per l'ammissione ai concorsi magistrali. (035U1196)
---------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/07/1935
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

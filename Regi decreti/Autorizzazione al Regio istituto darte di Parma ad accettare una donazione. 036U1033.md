@@ -1,15 +1,13 @@
-REGIO DECRETO 27 aprile 1936 n. 1033
+---
+tipo: REGIO DECRETO
+numero: 1033
+data: 1936-04-27
+titolo: "Autorizzazione al Regio istituto d'arte di Parma ad accettare una donazione. (036U1033)"
+urn: urn:nir:stato:regio.decreto:1936-04-27;1033
+codice_redazionale: 036U1033
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 aprile 1936 n. 1033
-====================================
-
-Autorizzazione al Regio istituto d'arte di Parma ad accettare una donazione. (036U1033)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/06/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

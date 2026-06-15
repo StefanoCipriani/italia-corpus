@@ -1,15 +1,13 @@
-REGIO DECRETO 24 maggio 1937 n. 1349
+---
+tipo: REGIO DECRETO
+numero: 1349
+data: 1937-05-24
+titolo: "Approvazione del nuovo testo dello statuto della Cassa di risparmio Marrucina in Chieti. (037U1349)"
+urn: urn:nir:stato:regio.decreto:1937-05-24;1349
+codice_redazionale: 037U1349
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 maggio 1937 n. 1349
-====================================
-
-Approvazione del nuovo testo dello statuto della Cassa di risparmio Marrucina in Chieti. (037U1349)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

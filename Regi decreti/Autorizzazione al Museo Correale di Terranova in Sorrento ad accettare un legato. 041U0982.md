@@ -1,15 +1,13 @@
-REGIO DECRETO 01 agosto 1941 n. 982
+---
+tipo: REGIO DECRETO
+numero: 982
+data: 1941-08-01
+titolo: "Autorizzazione al «Museo Correale di Terranova» in Sorrento ad accettare un legato. (041U0982)"
+urn: urn:nir:stato:regio.decreto:1941-08-01;982
+codice_redazionale: 041U0982
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1941 n. 982
-===================================
-
-Autorizzazione al «Museo Correale di Terranova» in Sorrento ad accettare un legato. (041U0982)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

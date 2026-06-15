@@ -1,15 +1,13 @@
-REGIO DECRETO 06 giugno 1940 n. 1099
+---
+tipo: REGIO DECRETO
+numero: 1099
+data: 1940-06-06
+titolo: "Modificazione dello statuto della Federazione nazionale fascista degli industriali metallurgici. (040U1099)"
+urn: urn:nir:stato:regio.decreto:1940-06-06;1099
+codice_redazionale: 040U1099
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1940 n. 1099
-====================================
-
-Modificazione dello statuto della Federazione nazionale fascista degli industriali metallurgici. (040U1099)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

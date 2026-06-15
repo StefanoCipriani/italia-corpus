@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1932 n. 982
-
-
-REGIO DECRETO 23 giugno 1932 n. 982
-===================================
-
-Aggiunta di una voce alla tabella dei lavori stagionali, approvata con R. decreto 10 settembre 1923, n. 1957, agli effetti della limitazione obbligatoria degli orari di lavoro. (032U0982)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1932
+---
+tipo: REGIO DECRETO
+numero: 982
+data: 1932-06-23
+titolo: "Aggiunta di una voce alla tabella dei lavori stagionali, approvata con R. decreto 10 settembre 1923, n. 1957, agli effetti della limitazione obbligatoria degli orari di lavoro. (032U0982)"
+urn: urn:nir:stato:regio.decreto:1932-06-23;982
+codice_redazionale: 032U0982
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELA NAZIONE
 
@@ -24,30 +22,24 @@ Visto il Nostro decreto 10 settembre 1923, n. 1957, che approva la tabella indic
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla tabella approvata con [R. decreto 10 settembre 1923, n. 1957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1957), che indica le industrie e le lavorazioni per le quali e' consentita la facolta' di superare le otto ore giornaliere o le 48 ore settimanali di lavoro, e' aggiunta la seguente voce:   
-  
-  
-Parte di provvedimento in formato grafico  
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
-Dato a S. Rossore, addi' 23 giugno 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini - Bottai.   
-  
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X   
-Atti del Governo, registro 323, foglio 87. - Mancini.   
+Alla tabella approvata con [R. decreto 10 settembre 1923, n. 1957](Approvazione%20della%20tabella%20indicante%20le%20industrie%20e%20le%20lavorazioni%20per%20le%20quali%20e%20consentita%20la%20facolta%20di%20superare%20le%208%20ore%20giornaliere%20o%20le%2048%20settimanali%20di%20lavoro.%20023U1957.md), che indica le industrie e le lavorazioni per le quali e' consentita la facolta' di superare le otto ore giornaliere o le 48 ore settimanali di lavoro, e' aggiunta la seguente voce: 
+ 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
+ Dato a S. Rossore, addi' 23 giugno 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini - Bottai. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X 
+ Atti del Governo, registro 323, foglio 87. - Mancini.

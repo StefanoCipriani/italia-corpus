@@ -1,15 +1,13 @@
-REGIO DECRETO 16 novembre 1939 n. 1783
+---
+tipo: REGIO DECRETO
+numero: 1783
+data: 1939-11-16
+titolo: "Autorizzazione al comune di Piazza Armerina a continuare ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto l'anno 1941. (039U1783)"
+urn: urn:nir:stato:regio.decreto:1939-11-16;1783
+codice_redazionale: 039U1783
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 novembre 1939 n. 1783
-======================================
-
-Autorizzazione al comune di Piazza Armerina a continuare ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto l'anno 1941. (039U1783)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

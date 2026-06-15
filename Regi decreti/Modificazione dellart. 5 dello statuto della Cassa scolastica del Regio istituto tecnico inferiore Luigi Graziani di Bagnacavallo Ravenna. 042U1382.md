@@ -1,15 +1,13 @@
-REGIO DECRETO 21 giugno 1942 n. 1382
+---
+tipo: REGIO DECRETO
+numero: 1382
+data: 1942-06-21
+titolo: "Modificazione dell'art. 5 dello statuto della Cassa scolastica del Regio istituto tecnico inferiore «Luigi Graziani» di Bagnacavallo (Ravenna). (042U1382)"
+urn: urn:nir:stato:regio.decreto:1942-06-21;1382
+codice_redazionale: 042U1382
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 giugno 1942 n. 1382
-====================================
-
-Modificazione dell'art. 5 dello statuto della Cassa scolastica del Regio istituto tecnico inferiore «Luigi Graziani» di Bagnacavallo (Ravenna). (042U1382)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/12/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 11 maggio 1933 n. 717
+---
+tipo: REGIO DECRETO
+numero: 717
+data: 1933-05-11
+titolo: "Passaggio dalla Congregazione di carita' di Capodistria a quella di Pirano della Fondazione «Bullo Terrazzer». (033U0717)"
+urn: urn:nir:stato:regio.decreto:1933-05-11;717
+codice_redazionale: 033U0717
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 maggio 1933 n. 717
-===================================
-
-Passaggio dalla Congregazione di carita' di Capodistria a quella di Pirano della Fondazione «Bullo Terrazzer». (033U0717)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

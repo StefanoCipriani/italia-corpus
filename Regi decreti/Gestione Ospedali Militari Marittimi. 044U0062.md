@@ -1,20 +1,17 @@
-REGIO DECRETO 12 febbraio 1944 n. 62
+---
+tipo: REGIO DECRETO
+numero: 62
+data: 1944-02-12
+titolo: "Gestione Ospedali Militari Marittimi. (044U0062)"
+urn: urn:nir:stato:regio.decreto:1944-02-12;62
+codice_redazionale: 044U0062
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1944 n. 62
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Gestione Ospedali Militari Marittimi. (044U0062)
-------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/02/1944
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

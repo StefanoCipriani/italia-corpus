@@ -1,25 +1,21 @@
-REGIO DECRETO 20 novembre 1939 n. 2200
+---
+tipo: REGIO DECRETO
+numero: 2200
+data: 1939-11-20
+titolo: "Modificazione all'indirizzo colturale delle pendici orientali dell'altipiano eritreo. (039U2200)"
+urn: urn:nir:stato:regio.decreto:1939-11-20;2200
+codice_redazionale: 039U2200
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 novembre 1939 n. 2200
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione all'indirizzo colturale delle pendici orientali dell'altipiano eritreo. (039U2200)
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/03/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

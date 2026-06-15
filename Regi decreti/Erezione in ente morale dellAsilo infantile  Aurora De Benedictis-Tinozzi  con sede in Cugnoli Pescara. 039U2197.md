@@ -1,15 +1,13 @@
-REGIO DECRETO 11 dicembre 1939 n. 2197
+---
+tipo: REGIO DECRETO
+numero: 2197
+data: 1939-12-11
+titolo: "Erezione in ente morale dell'Asilo infantile « Aurora De Benedictis-Tinozzi », con sede in Cugnoli (Pescara). (039U2197)"
+urn: urn:nir:stato:regio.decreto:1939-12-11;2197
+codice_redazionale: 039U2197
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1939 n. 2197
-======================================
-
-Erezione in ente morale dell'Asilo infantile « Aurora De Benedictis-Tinozzi », con sede in Cugnoli (Pescara). (039U2197)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,21 +1,21 @@
-REGIO DECRETO 12 settembre 1935 n. 1786
+---
+tipo: REGIO DECRETO
+numero: 1786
+data: 1935-09-12
+titolo: "Riconoscimento della personalita' giuridica della Chiesa rettoriale di San Bartolomeo in Faedo di Monte di Malo (Vicenza). (035U1786)"
+urn: urn:nir:stato:regio.decreto:1935-09-12;1786
+codice_redazionale: 035U1786
+vigente: true
+---
 
-
-REGIO DECRETO 12 settembre 1935 n. 1786
-=======================================
-
-Riconoscimento della personalita' giuridica della Chiesa rettoriale di San Bartolomeo in Faedo di Monte di Malo (Vicenza). (035U1786)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1786. R. decreto 12 settembre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa rettoriale di San Bartolomeo in Faedo di Monte di Malo.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei Conti, addi' 11 ottobre 1935 - Anno XIII.
+1786.
+
+R. decreto 12 settembre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa rettoriale di San Bartolomeo in Faedo di Monte di Malo. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei Conti, addi' 11 ottobre 1935 - Anno XIII.

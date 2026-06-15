@@ -1,21 +1,21 @@
-REGIO DECRETO 14 settembre 1933 n. 1435
+---
+tipo: REGIO DECRETO
+numero: 1435
+data: 1933-09-14
+titolo: "Riconoscimento della personalita' giuridica della Provincia umbra di S. Francesco dei Frati Minori Conventuali. (033U1435)"
+urn: urn:nir:stato:regio.decreto:1933-09-14;1435
+codice_redazionale: 033U1435
+vigente: true
+---
 
-
-REGIO DECRETO 14 settembre 1933 n. 1435
-=======================================
-
-Riconoscimento della personalita' giuridica della Provincia umbra di S. Francesco dei Frati Minori Conventuali. (033U1435)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1435. R. decreto 14 settembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia umbra di S. Francesco dei Frati Minori Conventuali.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 25 ottobre 1933 - Anno XI
+1435.
+
+R. decreto 14 settembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia umbra di S. Francesco dei Frati Minori Conventuali. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 25 ottobre 1933 - Anno XI

@@ -1,25 +1,21 @@
-REGIO DECRETO 08 aprile 1935 n. 852
+---
+tipo: REGIO DECRETO
+numero: 852
+data: 1935-04-08
+titolo: "Modificazioni al R. decreto 10 maggio 1928, n. 1292, relativo allo scioglimento del Comitato permanente per le industrie chimiche e alla istituzione di una Commissione per le industrie chimiche. (035U0852)"
+urn: urn:nir:stato:regio.decreto:1935-04-08;852
+codice_redazionale: 035U0852
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 aprile 1935 n. 852
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni al R. decreto 10 maggio 1928, n. 1292, relativo allo scioglimento del Comitato permanente per le industrie chimiche e alla istituzione di una Commissione per le industrie chimiche. (035U0852)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/06/1935
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

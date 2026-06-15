@@ -1,15 +1,13 @@
-REGIO DECRETO 16 ottobre 1934 n. 2227
+---
+tipo: REGIO DECRETO
+numero: 2227
+data: 1934-10-16
+titolo: "Approvazione del nuovo statuto della Societa' italiana dello scienze detta dei XL, in Roma. (034U2227)"
+urn: urn:nir:stato:regio.decreto:1934-10-16;2227
+codice_redazionale: 034U2227
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 ottobre 1934 n. 2227
-=====================================
-
-Approvazione del nuovo statuto della Societa' italiana dello scienze detta dei XL, in Roma. (034U2227)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

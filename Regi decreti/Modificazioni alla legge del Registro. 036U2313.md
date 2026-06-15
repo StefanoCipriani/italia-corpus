@@ -1,35 +1,29 @@
-REGIO DECRETO 13 gennaio 1936 n. 2313
+---
+tipo: REGIO DECRETO
+numero: 2313
+data: 1936-01-13
+titolo: "Modificazioni alla legge del Registro. (036U2313)"
+urn: urn:nir:stato:regio.decreto:1936-01-13;2313
+codice_redazionale: 036U2313
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 gennaio 1936 n. 2313
-=====================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Modificazioni alla legge del Registro. (036U2313)
--------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/02/1937
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

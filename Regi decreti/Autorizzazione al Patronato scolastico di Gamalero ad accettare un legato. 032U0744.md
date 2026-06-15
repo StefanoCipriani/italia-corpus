@@ -1,15 +1,13 @@
-REGIO DECRETO 26 maggio 1932 n. 744
+---
+tipo: REGIO DECRETO
+numero: 744
+data: 1932-05-26
+titolo: "Autorizzazione al Patronato scolastico di Gamalero ad accettare un legato. (032U0744)"
+urn: urn:nir:stato:regio.decreto:1932-05-26;744
+codice_redazionale: 032U0744
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 maggio 1932 n. 744
-===================================
-
-Autorizzazione al Patronato scolastico di Gamalero ad accettare un legato. (032U0744)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

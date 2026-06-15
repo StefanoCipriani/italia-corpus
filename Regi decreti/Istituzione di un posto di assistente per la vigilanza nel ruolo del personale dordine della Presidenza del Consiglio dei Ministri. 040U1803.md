@@ -1,25 +1,21 @@
-REGIO DECRETO 02 dicembre 1940 n. 1803
+---
+tipo: REGIO DECRETO
+numero: 1803
+data: 1940-12-02
+titolo: "Istituzione di un posto di assistente per la vigilanza nel ruolo del personale d'ordine della Presidenza del Consiglio dei Ministri. (040U1803)"
+urn: urn:nir:stato:regio.decreto:1940-12-02;1803
+codice_redazionale: 040U1803
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 dicembre 1940 n. 1803
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Istituzione di un posto di assistente per la vigilanza nel ruolo del personale d'ordine della Presidenza del Consiglio dei Ministri. (040U1803)
------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/01/1941
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 19 maggio 1938 n. 705
+---
+tipo: REGIO DECRETO
+numero: 705
+data: 1938-05-19
+titolo: "Disposizioni in relazione all'art. 29 del Regio decreto-legge 3 marzo 1938-XVI, n. 142. (038U0705)"
+urn: urn:nir:stato:regio.decreto:1938-05-19;705
+codice_redazionale: 038U0705
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1938 n. 705
-===================================
-
-Disposizioni in relazione all'art. 29 del Regio decreto-legge 3 marzo 1938-XVI, n. 142. (038U0705)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

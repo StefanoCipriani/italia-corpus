@@ -1,25 +1,21 @@
-REGIO DECRETO 27 giugno 1935 n. 1164
+---
+tipo: REGIO DECRETO
+numero: 1164
+data: 1935-06-27
+titolo: "Richiamo alle armi, per mobilitazione, di sottufficiali e militari di truppa, categoria specialisti, delle classi 1909 e 1910. (035U1164)"
+urn: urn:nir:stato:regio.decreto:1935-06-27;1164
+codice_redazionale: 035U1164
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1935 n. 1164
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi, per mobilitazione, di sottufficiali e militari di truppa, categoria specialisti, delle classi 1909 e 1910. (035U1164)
------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/06/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

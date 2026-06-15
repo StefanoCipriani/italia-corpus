@@ -1,25 +1,21 @@
-REGIO DECRETO 08 ottobre 1931 n. 1346
+---
+tipo: REGIO DECRETO
+numero: 1346
+data: 1931-10-08
+titolo: "Modificazioni al regolamento del personale delle Ferrovie dello Stato. (031U1346)"
+urn: urn:nir:stato:regio.decreto:1931-10-08;1346
+codice_redazionale: 031U1346
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 ottobre 1931 n. 1346
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni al regolamento del personale delle Ferrovie dello Stato. (031U1346)
----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/11/1931
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

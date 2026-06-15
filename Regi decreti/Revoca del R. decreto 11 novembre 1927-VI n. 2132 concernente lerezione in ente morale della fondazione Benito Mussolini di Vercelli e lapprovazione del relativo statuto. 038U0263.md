@@ -1,20 +1,17 @@
-REGIO DECRETO 01 marzo 1938 n. 263
+---
+tipo: REGIO DECRETO
+numero: 263
+data: 1938-03-01
+titolo: "Revoca del R. decreto 11 novembre 1927-VI, n. 2132, concernente l'erezione in ente morale della fondazione «Benito Mussolini», di Vercelli, e l'approvazione del relativo statuto. (038U0263)"
+urn: urn:nir:stato:regio.decreto:1938-03-01;263
+codice_redazionale: 038U0263
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 marzo 1938 n. 263
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Revoca del R. decreto 11 novembre 1927-VI, n. 2132, concernente l'erezione in ente morale della fondazione «Benito Mussolini», di Vercelli, e l'approvazione del relativo statuto. (038U0263)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/04/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

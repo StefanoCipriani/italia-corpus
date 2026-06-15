@@ -1,176 +1,149 @@
-REGIO DECRETO 01 maggio 1932 n. 544
+---
+tipo: REGIO DECRETO
+numero: 544
+data: 1932-05-01
+titolo: "Norme per l'attuazione della legge 18 giugno 1931, n. 923, sulla disciplina nell'uso del nome «seta». (032U0544)"
+urn: urn:nir:stato:regio.decreto:1932-05-01;544
+codice_redazionale: 032U0544
+vigente: true
+---
 
+### Art. 1.
 
-REGIO DECRETO 01 maggio 1932 n. 544
-===================================
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-Norme per l'attuazione della legge 18 giugno 1931, n. 923, sulla disciplina nell'uso del nome «seta». (032U0544)
-----------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-Entrata in vigore del provvedimento: 16/06/1932
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-CAPO I
-------
+### Art. 3.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 4.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 5.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 6.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 7.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+## 1. Norme generali.
 
-### Art. 6
+II. - Del marchio.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 9.
 
-CAPO II II. - Del marchio. 1. Norme generali.
----------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 8
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 9
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 10
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 11
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-CAPO III
---------
+### Art. 14.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 15.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 16.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+## A - Tessuti di «seta pura».
 
-### Art. 15
+3.Dell'applicazione del marchio ai tessuti.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 17.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 18.
 
-CAPO IV 3.Dell'applicazione del marchio ai tessuti. A - Tessuti di «seta pura».
--------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 17
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 18
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-CAPO V
-------
+### Art. 21.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 22.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 23.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 24.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 25.
 
-CAPO VI
--------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 23
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 24
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-CAPO VII
---------
+### Art. 28.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 29.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 30.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 31.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+### Art. 32.
 
-CAPO VIII
----------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))
 
-### Art. 29
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
-
-### Art. 30
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
-
-### Art. 31
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
-
-CAPO IX
--------
-
-### Art. 32
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
-
-### Art. 33
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
-
-Modelli del marchio
-
- Modelli del marchio   
-  
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 NOVEMBRE 1973, N. 883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 NOVEMBRE 1973, N. 883))

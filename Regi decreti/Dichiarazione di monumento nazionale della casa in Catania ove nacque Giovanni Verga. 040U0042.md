@@ -1,21 +1,21 @@
-REGIO DECRETO 11 gennaio 1940 n. 42
+---
+tipo: REGIO DECRETO
+numero: 42
+data: 1940-01-11
+titolo: "Dichiarazione di monumento nazionale della casa in Catania ove nacque Giovanni Verga. (040U0042)"
+urn: urn:nir:stato:regio.decreto:1940-01-11;42
+codice_redazionale: 040U0042
+vigente: true
+---
 
-
-REGIO DECRETO 11 gennaio 1940 n. 42
-===================================
-
-Dichiarazione di monumento nazionale della casa in Catania ove nacque Giovanni Verga. (040U0042)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-12. R. decreto 11 gennaio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, viene dichiarata monumento nazionale la casa in Catania ove nacque Giovanni Verga.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registralo alla Corte dei conti, addi' 6 febbraio 1940-XVIII
+12.
+
+R. decreto 11 gennaio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, viene dichiarata monumento nazionale la casa in Catania ove nacque Giovanni Verga. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registralo alla Corte dei conti, addi' 6 febbraio 1940-XVIII

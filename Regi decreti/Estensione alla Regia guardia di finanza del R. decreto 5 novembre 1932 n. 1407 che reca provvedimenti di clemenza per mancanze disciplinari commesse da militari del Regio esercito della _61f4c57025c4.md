@@ -1,20 +1,17 @@
-REGIO DECRETO 17 novembre 1932 n. 1544
+---
+tipo: REGIO DECRETO
+numero: 1544
+data: 1932-11-17
+titolo: "Estensione alla Regia guardia di finanza del R. decreto 5 novembre 1932, n. 1407, che reca provvedimenti di clemenza per mancanze disciplinari commesse da militari del Regio esercito, della Regia marina e della Regia aeronautica. (032U1544)"
+urn: urn:nir:stato:regio.decreto:1932-11-17;1544
+codice_redazionale: 032U1544
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 novembre 1932 n. 1544
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alla Regia guardia di finanza del R. decreto 5 novembre 1932, n. 1407, che reca provvedimenti di clemenza per mancanze disciplinari commesse da militari del Regio esercito, della Regia marina e della Regia aeronautica. (032U1544)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/11/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

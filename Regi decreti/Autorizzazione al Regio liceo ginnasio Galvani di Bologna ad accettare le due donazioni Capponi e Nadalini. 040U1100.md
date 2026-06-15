@@ -1,15 +1,13 @@
-REGIO DECRETO 19 giugno 1940 n. 1100
+---
+tipo: REGIO DECRETO
+numero: 1100
+data: 1940-06-19
+titolo: "Autorizzazione al Regio liceo ginnasio «Galvani» di Bologna ad accettare le due donazioni Capponi e Nadalini. (040U1100)"
+urn: urn:nir:stato:regio.decreto:1940-06-19;1100
+codice_redazionale: 040U1100
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 giugno 1940 n. 1100
-====================================
-
-Autorizzazione al Regio liceo ginnasio «Galvani» di Bologna ad accettare le due donazioni Capponi e Nadalini. (040U1100)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

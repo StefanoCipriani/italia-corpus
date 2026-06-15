@@ -1,15 +1,13 @@
-REGIO DECRETO 12 febbraio 1934 n. 298
+---
+tipo: REGIO DECRETO
+numero: 298
+data: 1934-02-12
+titolo: "Descrizione tecnica dei nuovi segnatasse ordinari. (034U0298)"
+urn: urn:nir:stato:regio.decreto:1934-02-12;298
+codice_redazionale: 034U0298
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1934 n. 298
-=====================================
-
-Descrizione tecnica dei nuovi segnatasse ordinari. (034U0298)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

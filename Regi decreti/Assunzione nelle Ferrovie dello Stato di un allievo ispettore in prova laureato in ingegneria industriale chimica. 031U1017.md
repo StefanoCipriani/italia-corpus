@@ -1,20 +1,17 @@
-REGIO DECRETO 17 luglio 1931 n. 1017
+---
+tipo: REGIO DECRETO
+numero: 1017
+data: 1931-07-17
+titolo: "Assunzione nelle Ferrovie dello Stato di un allievo ispettore in prova laureato in ingegneria industriale chimica. (031U1017)"
+urn: urn:nir:stato:regio.decreto:1931-07-17;1017
+codice_redazionale: 031U1017
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 luglio 1931 n. 1017
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Assunzione nelle Ferrovie dello Stato di un allievo ispettore in prova laureato in ingegneria industriale chimica. (031U1017)
------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/08/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 luglio 1894 n. CCCXLVI
-
-
-REGIO DECRETO 22 luglio 1894 n. CCCXLVI
-=======================================
-
-Che dichiara istituzione di pubblica beneficenza la fondazione Bartoli in Pesaro da amministrarsi da quella congregazione di carita'. (9400346R)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1894
+---
+tipo: REGIO DECRETO
+numero: CCCXLVI
+data: 1894-07-22
+titolo: "Che dichiara istituzione di pubblica beneficenza la fondazione Bartoli in Pesaro da amministrarsi da quella congregazione di carita'. (9400346R)"
+urn: urn:nir:stato:regio.decreto:1894-07-22;346
+codice_redazionale: 9400346R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,32 +20,26 @@ Visti gli atti dai quali risulta che la fondazione predetta e' costituita attual
 
 Veduto il voto della giunta provinciale amministrativa;
 
-Veduta la [legge 17 luglio 1890, n. 6972, e l'art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art1)° del relativo regolamento amministrativo;
+Veduta la [legge 17 luglio 1890, n. 6972, e l'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_1)° del relativo regolamento amministrativo;
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La fondazione Bartoli come sopra esistente in Pesaro e' una istituzione pubblica di beneficenza, e sara' amministrata dalla locale congregazione di carita'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 luglio 1894.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 7 agosto 1894.   
-  
-Reg. 195. Atti del Governo a f. 363. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA   
-  
-F. Crispi.   
+La fondazione Bartoli come sopra esistente in Pesaro e' una istituzione pubblica di beneficenza, e sara' amministrata dalla locale congregazione di carita'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 luglio 1894. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 7 agosto 1894. 
+ 
+ Reg. 195. Atti del Governo a f. 363. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA 
+ 
+ F. Crispi.

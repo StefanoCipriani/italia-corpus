@@ -1,15 +1,13 @@
-REGIO DECRETO 11 luglio 1935 n. 1516
+---
+tipo: REGIO DECRETO
+numero: 1516
+data: 1935-07-11
+titolo: "Erezione in ente morale dell'Opera pia «Casa di riposo Conte Giuseppe Guazzoni di Passalacqua», in Alessandria. (035U1516)"
+urn: urn:nir:stato:regio.decreto:1935-07-11;1516
+codice_redazionale: 035U1516
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 luglio 1935 n. 1516
-====================================
-
-Erezione in ente morale dell'Opera pia «Casa di riposo Conte Giuseppe Guazzoni di Passalacqua», in Alessandria. (035U1516)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

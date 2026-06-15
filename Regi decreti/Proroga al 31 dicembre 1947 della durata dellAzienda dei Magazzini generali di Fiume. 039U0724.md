@@ -1,20 +1,17 @@
-REGIO DECRETO 30 marzo 1939 n. 724
+---
+tipo: REGIO DECRETO
+numero: 724
+data: 1939-03-30
+titolo: "Proroga al 31 dicembre 1947 della durata dell'Azienda dei Magazzini generali di Fiume. (039U0724)"
+urn: urn:nir:stato:regio.decreto:1939-03-30;724
+codice_redazionale: 039U0724
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 marzo 1939 n. 724
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Proroga al 31 dicembre 1947 della durata dell'Azienda dei Magazzini generali di Fiume. (039U0724)
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/06/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

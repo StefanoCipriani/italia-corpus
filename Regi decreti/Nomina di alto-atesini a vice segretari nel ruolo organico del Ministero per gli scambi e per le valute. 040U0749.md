@@ -1,25 +1,21 @@
-REGIO DECRETO 13 maggio 1940 n. 749
+---
+tipo: REGIO DECRETO
+numero: 749
+data: 1940-05-13
+titolo: "Nomina di alto-atesini a vice segretari nel ruolo organico del Ministero per gli scambi e per le valute. (040U0749)"
+urn: urn:nir:stato:regio.decreto:1940-05-13;749
+codice_redazionale: 040U0749
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 maggio 1940 n. 749
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Nomina di alto-atesini a vice segretari nel ruolo organico del Ministero per gli scambi e per le valute. (040U0749)
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/08/1940
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

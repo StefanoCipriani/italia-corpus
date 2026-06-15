@@ -1,28 +1,25 @@
-REGIO DECRETO 30 maggio 1946 n. 459
+---
+tipo: REGIO DECRETO
+numero: 459
+data: 1946-05-30
+titolo: "Ordinamento del Ministero del commercio con l'estero."
+urn: urn:nir:stato:regio.decreto:1946-05-30;459
+codice_redazionale: 046U0459
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 maggio 1946 n. 459
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Ordinamento del Ministero del commercio con l'estero.
------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Art. 4.
 
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

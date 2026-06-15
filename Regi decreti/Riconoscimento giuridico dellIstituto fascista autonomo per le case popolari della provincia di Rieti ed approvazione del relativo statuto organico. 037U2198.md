@@ -1,20 +1,17 @@
-REGIO DECRETO 09 dicembre 1937 n. 2198
+---
+tipo: REGIO DECRETO
+numero: 2198
+data: 1937-12-09
+titolo: "Riconoscimento giuridico dell'Istituto fascista autonomo per le case popolari della provincia di Rieti ed approvazione del relativo statuto organico. (037U2198)"
+urn: urn:nir:stato:regio.decreto:1937-12-09;2198
+codice_redazionale: 037U2198
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 dicembre 1937 n. 2198
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Riconoscimento giuridico dell'Istituto fascista autonomo per le case popolari della provincia di Rieti ed approvazione del relativo statuto organico. (037U2198)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/01/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

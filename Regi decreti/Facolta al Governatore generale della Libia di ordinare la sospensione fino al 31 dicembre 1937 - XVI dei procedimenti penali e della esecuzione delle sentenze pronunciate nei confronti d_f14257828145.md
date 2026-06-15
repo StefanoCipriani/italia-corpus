@@ -1,25 +1,21 @@
-REGIO DECRETO 12 aprile 1937 n. 877
+---
+tipo: REGIO DECRETO
+numero: 877
+data: 1937-04-12
+titolo: "Facolta' al Governatore generale della Libia di ordinare la sospensione, fino al 31 dicembre 1937 - XVI, dei procedimenti penali e della esecuzione delle sentenze pronunciate nei confronti di cittadini libici. (037U0877)"
+urn: urn:nir:stato:regio.decreto:1937-04-12;877
+codice_redazionale: 037U0877
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 aprile 1937 n. 877
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Facolta' al Governatore generale della Libia di ordinare la sospensione, fino al 31 dicembre 1937 - XVI, dei procedimenti penali e della esecuzione delle sentenze pronunciate nei confronti di cittadini libici. (037U0877)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/07/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

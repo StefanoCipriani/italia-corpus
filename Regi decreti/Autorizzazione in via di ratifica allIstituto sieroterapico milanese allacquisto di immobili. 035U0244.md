@@ -1,15 +1,13 @@
-REGIO DECRETO 28 gennaio 1935 n. 244
+---
+tipo: REGIO DECRETO
+numero: 244
+data: 1935-01-28
+titolo: "Autorizzazione, in via di ratifica, all'Istituto sieroterapico milanese, all'acquisto di immobili. (035U0244)"
+urn: urn:nir:stato:regio.decreto:1935-01-28;244
+codice_redazionale: 035U0244
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 gennaio 1935 n. 244
-====================================
-
-Autorizzazione, in via di ratifica, all'Istituto sieroterapico milanese, all'acquisto di immobili. (035U0244)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

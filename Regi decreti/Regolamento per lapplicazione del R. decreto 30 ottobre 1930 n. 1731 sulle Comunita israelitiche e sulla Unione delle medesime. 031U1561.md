@@ -1,411 +1,409 @@
-REGIO DECRETO 19 novembre 1931 n. 1561
+---
+tipo: REGIO DECRETO
+numero: 1561
+data: 1931-11-19
+titolo: "Regolamento per l'applicazione del R. decreto 30 ottobre 1930, n. 1731, sulle Comunita' israelitiche e sulla Unione delle medesime. (031U1561)"
+urn: urn:nir:stato:regio.decreto:1931-11-19;1561
+codice_redazionale: 031U1561
+vigente: true
+---
 
+## Delle Comunità. Capo I. Della costituzione delle Comunità e delle elezioni. Sezione I. - Della costituzione delle Comunità.
 
-REGIO DECRETO 19 novembre 1931 n. 1561
-======================================
+TITOLO I.
 
-Regolamento per l'applicazione del R. decreto 30 ottobre 1930, n. 1731, sulle Comunita' israelitiche e sulla Unione delle medesime. (031U1561)
-----------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 15/01/1932
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-CAPO I TITOLO I. Delle Comunità. Capo I. Della costituzione delle Comunità e delle elezioni. Sezione I. - Della costituzione delle Comunità.
---------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 5.
 
-CAPO II
--------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 4
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 5
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 6
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 7
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 8
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-CAPO III
---------
+### Art. 11.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 12.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 13.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 14.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 15.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 16.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 17.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 18.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 19.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 20.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 21.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 22.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 23.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 24.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 25.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 26.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 27.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 28.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+## Dell'amministrazione delle Comunità. Sezione I. - Degli organi delle Comunità.
 
-### Art. 27
+Capo II
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 29.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 30.
 
-CAPO IV Capo II Dell'amministrazione delle Comunità. Sezione I. - Degli organi delle Comunità.
-----------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 29
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 30
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 31
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 32
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-CAPO V
-------
+### Art. 35.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 36.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 37.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 38.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 39.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 40.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 41.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 42.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 43.
 
-### Art. 41
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 44.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 45.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 46.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 47.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 48.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 49.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 50.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 51.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 52.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 53.
 
-### Art. 51
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 54.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 55.
 
-### Art. 53
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 56.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 57.
 
-### Art. 55
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 58.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 59.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 60.
 
-### Art. 58
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+## Della nomina e della revoca dei rabbini.
 
-### Art. 59
+Capo III.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 61.
 
-### Art. 60
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 62.
 
-CAPO VI Capo III. Della nomina e della revoca dei rabbini.
-----------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 61
+### Art. 63.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 62
+## Della Unione delle Comunità. Capo I. Dell'amministrazione e degli organi dell'Unione.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+TITOLO II.
 
-### Art. 63
+### Art. 64.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-CAPO VII TITOLO II. Della Unione delle Comunità. Capo I. Dell'amministrazione e degli organi dell'Unione.
----------------------------------------------------------------------------------------------------------
+### Art. 65.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 66.
 
-### Art. 65
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 67.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 68.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 69.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 70.
 
-### Art. 69
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 71.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 72.
 
-### Art. 71
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 73.
 
-### Art. 72
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 74.
 
-### Art. 73
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 75.
 
-### Art. 74
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+## Della finanza e della contabilità.
 
-### Art. 75
+Capo II.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 76.
 
-CAPO VIII Capo II. Della finanza e della contabilità.
------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 76
+### Art. 77.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 77
+### Art. 78.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 78
+## Della Consulta rabbinica
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+Capo III.
 
-CAPO IX Capo III. Della Consulta rabbinica
-------------------------------------------
+### Art. 79.
 
-### Art. 79
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 80.
 
-### Art. 80
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 81.
 
-### Art. 81
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+## Della vigilanza e della tutela governative ed altre disposizioni comuni alle Comunità ed all'Unione.
 
-CAPO X TITOLO III. Della vigilanza e della tutela governative ed altre disposizioni comuni alle Comunità ed all'Unione.
------------------------------------------------------------------------------------------------------------------------
+TITOLO III.
 
-### Art. 82
+### Art. 82.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 83
+### Art. 83.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 84
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 85
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 86
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 87
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-### Art. 88
+### Art. 88.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-CAPO XI TITOLO IV. Disposizioni generali e transitorie.
--------------------------------------------------------
+## Disposizioni generali e transitorie.
 
-### Art. 89
+TITOLO IV.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 89.
 
-### Art. 90
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 90.
 
-### Art. 91
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 91.
 
-### Art. 92
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101)))
+### Art. 92.
+
+((PROVVEDIMENTO ABROGATO DALLA L. 8 MARZO 1989, N. 101))

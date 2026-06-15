@@ -1,25 +1,21 @@
-REGIO DECRETO 27 luglio 1940 n. 1239
+---
+tipo: REGIO DECRETO
+numero: 1239
+data: 1940-07-27
+titolo: "Nomina del generale di corpo d'armata Claudio Trezzani a capo di stato maggiore del Governo generale dell'Africa Orientale Italiana. (040U1239)"
+urn: urn:nir:stato:regio.decreto:1940-07-27;1239
+codice_redazionale: 040U1239
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 luglio 1940 n. 1239
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Nomina del generale di corpo d'armata Claudio Trezzani a capo di stato maggiore del Governo generale dell'Africa Orientale Italiana. (040U1239)
------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/05/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

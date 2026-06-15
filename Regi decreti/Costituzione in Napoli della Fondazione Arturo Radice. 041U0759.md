@@ -1,15 +1,13 @@
-REGIO DECRETO 04 luglio 1941 n. 759
+---
+tipo: REGIO DECRETO
+numero: 759
+data: 1941-07-04
+titolo: "Costituzione in Napoli della «Fondazione Arturo Radice». (041U0759)"
+urn: urn:nir:stato:regio.decreto:1941-07-04;759
+codice_redazionale: 041U0759
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 luglio 1941 n. 759
-===================================
-
-Costituzione in Napoli della «Fondazione Arturo Radice». (041U0759)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,25 +1,21 @@
-REGIO DECRETO 26 maggio 1942 n. 739
+---
+tipo: REGIO DECRETO
+numero: 739
+data: 1942-05-26
+titolo: "Modificazione del numero dei membri delle Commissioni giudicatrici dei concorsi-esami di Stato per l'insegnamento negli Istituti dell'ordine medio e degli ordini superiori tecnico e classico. (042U0739)"
+urn: urn:nir:stato:regio.decreto:1942-05-26;739
+codice_redazionale: 042U0739
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 maggio 1942 n. 739
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Modificazione del numero dei membri delle Commissioni giudicatrici dei concorsi-esami di Stato per l'insegnamento negli Istituti dell'ordine medio e degli ordini superiori tecnico e classico. (042U0739)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/07/1942
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

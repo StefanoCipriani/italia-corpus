@@ -1,26 +1,17 @@
-REGIO DECRETO 15 maggio 1933 n. 706
+---
+tipo: REGIO DECRETO
+numero: 706
+data: 1933-05-15
+titolo: "Approvazione della tariffa dei diritti di segreteria dell'Ufficio provinciale dell'economia corporativa di Verona. (033U0706)"
+urn: urn:nir:stato:regio.decreto:1933-05-15;706
+codice_redazionale: 033U0706
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 maggio 1933 n. 706
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione della tariffa dei diritti di segreteria dell'Ufficio provinciale dell'economia corporativa di Verona. (033U0706)
------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/07/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

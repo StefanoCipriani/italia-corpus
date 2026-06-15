@@ -1,15 +1,13 @@
-REGIO DECRETO 04 gennaio 1937 n. 94
+---
+tipo: REGIO DECRETO
+numero: 94
+data: 1937-01-04
+titolo: "Aggiunta dell'abitato di Quadrelli, frazione del comune di Montecastrilli, in provincia di Terni, a quelli da consolidare a cura e spese dello Stato. (037U0094)"
+urn: urn:nir:stato:regio.decreto:1937-01-04;94
+codice_redazionale: 037U0094
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 gennaio 1937 n. 94
-===================================
-
-Aggiunta dell'abitato di Quadrelli, frazione del comune di Montecastrilli, in provincia di Terni, a quelli da consolidare a cura e spese dello Stato. (037U0094)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

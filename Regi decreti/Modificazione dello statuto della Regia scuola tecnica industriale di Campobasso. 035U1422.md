@@ -1,20 +1,17 @@
-REGIO DECRETO 13 giugno 1935 n. 1422
+---
+tipo: REGIO DECRETO
+numero: 1422
+data: 1935-06-13
+titolo: "Modificazione dello statuto della Regia scuola tecnica industriale di Campobasso. (035U1422)"
+urn: urn:nir:stato:regio.decreto:1935-06-13;1422
+codice_redazionale: 035U1422
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 giugno 1935 n. 1422
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazione dello statuto della Regia scuola tecnica industriale di Campobasso. (035U1422)
---------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 21/08/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

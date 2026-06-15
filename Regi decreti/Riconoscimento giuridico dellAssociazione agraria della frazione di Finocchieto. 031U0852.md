@@ -1,15 +1,13 @@
-REGIO DECRETO 25 maggio 1931 n. 852
+---
+tipo: REGIO DECRETO
+numero: 852
+data: 1931-05-25
+titolo: "Riconoscimento giuridico dell'Associazione agraria della frazione di Finocchieto. (031U0852)"
+urn: urn:nir:stato:regio.decreto:1931-05-25;852
+codice_redazionale: 031U0852
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 maggio 1931 n. 852
-===================================
-
-Riconoscimento giuridico dell'Associazione agraria della frazione di Finocchieto. (031U0852)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

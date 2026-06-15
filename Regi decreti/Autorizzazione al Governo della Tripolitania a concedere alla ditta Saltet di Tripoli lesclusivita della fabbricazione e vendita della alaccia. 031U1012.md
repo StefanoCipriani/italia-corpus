@@ -1,25 +1,21 @@
-REGIO DECRETO 17 luglio 1931 n. 1012
+---
+tipo: REGIO DECRETO
+numero: 1012
+data: 1931-07-17
+titolo: "Autorizzazione al Governo della Tripolitania a concedere alla ditta «Saltet» di Tripoli l'esclusivita' della fabbricazione e vendita della alaccia. (031U1012)"
+urn: urn:nir:stato:regio.decreto:1931-07-17;1012
+codice_redazionale: 031U1012
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 luglio 1931 n. 1012
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Autorizzazione al Governo della Tripolitania a concedere alla ditta «Saltet» di Tripoli l'esclusivita' della fabbricazione e vendita della alaccia. (031U1012)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/09/1931
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

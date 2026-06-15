@@ -1,20 +1,17 @@
-REGIO DECRETO 10 giugno 1940 n. 864
+---
+tipo: REGIO DECRETO
+numero: 864
+data: 1940-06-10
+titolo: "Costituzione del Consorzio di rimboschimento tra lo Stato e la provincia di Rieti. (040U0864)"
+urn: urn:nir:stato:regio.decreto:1940-06-10;864
+codice_redazionale: 040U0864
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1940 n. 864
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Costituzione del Consorzio di rimboschimento tra lo Stato e la provincia di Rieti. (040U0864)
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

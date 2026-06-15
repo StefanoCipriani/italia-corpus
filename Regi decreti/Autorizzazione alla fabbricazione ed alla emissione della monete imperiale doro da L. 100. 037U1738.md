@@ -1,26 +1,17 @@
-REGIO DECRETO 23 settembre 1937 n. 1738
+---
+tipo: REGIO DECRETO
+numero: 1738
+data: 1937-09-23
+titolo: "Autorizzazione alla fabbricazione ed alla emissione della monete imperiale d'oro da L. 100. (037U1738)"
+urn: urn:nir:stato:regio.decreto:1937-09-23;1738
+codice_redazionale: 037U1738
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 settembre 1937 n. 1738
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Autorizzazione alla fabbricazione ed alla emissione della monete imperiale d'oro da L. 100. (037U1738)
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

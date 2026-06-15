@@ -1,15 +1,13 @@
-REGIO DECRETO 06 settembre 1934 n. 1596
+---
+tipo: REGIO DECRETO
+numero: 1596
+data: 1934-09-06
+titolo: "Autorizzazione all'Istituto « Giuseppe Toniolo » di studi superiori in Milano ad accettare una donazione. (034U1596)"
+urn: urn:nir:stato:regio.decreto:1934-09-06;1596
+codice_redazionale: 034U1596
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 settembre 1934 n. 1596
-=======================================
-
-Autorizzazione all'Istituto « Giuseppe Toniolo » di studi superiori in Milano ad accettare una donazione. (034U1596)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 febbraio 1897 n. LXXXIX
-
-
-REGIO DECRETO 21 febbraio 1897 n. LXXXIX
-========================================
-
-Che erige in ente morale, la fondazione per gli studi a beneficio della citta' di Terracina. (9700089R)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/04/1897
+---
+tipo: REGIO DECRETO
+numero: LXXXIX
+data: 1897-02-21
+titolo: "Che erige in ente morale, la fondazione per gli studi a beneficio della citta' di Terracina. (9700089R)"
+urn: urn:nir:stato:regio.decreto:1897-02-21;89
+codice_redazionale: 9700089R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,44 +30,32 @@ Sentito il consiglio di Stato;
 
 Sentito il consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La fondazione per gli studi a benefizio della citta' di Terracina, e' eretta in ente morale sottoposto alla vigilanza del Ministero della pubblica istruzione.
 
-  
-  
-La fondazione per gli studi a benefizio della citta' di Terracina, e' eretta in ente morale sottoposto alla vigilanza del Ministero della pubblica istruzione.   
+## Art. 2.
 
-Art. 2
-------
+Insino a quando non siano risolute le questioni pendenti tra l'amministrazione dello Stato ed il consiglio comunale di Terracina, quale amministratore dei beni assegnati dai mentovati rescritti di Pio VI, Pio VII e Pio IX a favore dell'istruzione scientifica e religiosa del popolo di Terracina, la legale rappresentanza dell'ente verra' assunta da un consiglio provvisorio, composto di un presidente nominato dal Nostro ministro segretario di Stato per la pubblica istruzione, di un consigliere eletto dal consiglio provinciale scolastico e di un altro eletto dalla giunta provinciale amministrativa.
 
-  
-  
-Insino a quando non siano risolute le questioni pendenti tra l'amministrazione dello Stato ed il consiglio comunale di Terracina, quale amministratore dei beni assegnati dai mentovati rescritti di Pio VI, Pio VII e Pio IX a favore dell'istruzione scientifica e religiosa del popolo di Terracina, la legale rappresentanza dell'ente verra' assunta da un consiglio provvisorio, composto di un presidente nominato dal Nostro ministro segretario di Stato per la pubblica istruzione, di un consigliere eletto dal consiglio provinciale scolastico e di un altro eletto dalla giunta provinciale amministrativa.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Tale consiglio avra' la sua sede in Roma.   
-  
-Esso, entro il termine di tre mesi, dovra' presentare uno schema di statuto organico per la fondazione suddetta, che sara' esaminato ed approvato di ordine Nostro dal ministro anzidetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 febbraio 1897.   
-  
-UMBERTO   
-  
-Registrato alla corte dei conti addi' 3 aprile 1897.   
-  
-Reg. 210. Atti del Governo a f. 40. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Costa.   
-  
-E. Gianturco.   
+Tale consiglio avra' la sua sede in Roma. 
+ 
+ Esso, entro il termine di tre mesi, dovra' presentare uno schema di statuto organico per la fondazione suddetta, che sara' esaminato ed approvato di ordine Nostro dal ministro anzidetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 febbraio 1897. 
+ 
+ UMBERTO 
+ 
+ Registrato alla corte dei conti addi' 3 aprile 1897. 
+ 
+ Reg. 210. Atti del Governo a f. 40. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Costa. 
+ 
+ E. Gianturco.

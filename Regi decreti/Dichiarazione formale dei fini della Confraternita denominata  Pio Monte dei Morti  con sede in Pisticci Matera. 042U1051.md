@@ -1,21 +1,21 @@
-REGIO DECRETO 11 luglio 1942 n. 1051
+---
+tipo: REGIO DECRETO
+numero: 1051
+data: 1942-07-11
+titolo: "Dichiarazione formale dei fini della Confraternita denominata « Pio Monte dei Morti », con sede in Pisticci (Matera). (042U1051)"
+urn: urn:nir:stato:regio.decreto:1942-07-11;1051
+codice_redazionale: 042U1051
+vigente: true
+---
 
-
-REGIO DECRETO 11 luglio 1942 n. 1051
-====================================
-
-Dichiarazione formale dei fini della Confraternita denominata « Pio Monte dei Morti », con sede in Pisticci (Matera). (042U1051)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1051. R. decreto 11 luglio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita denominata « Pio Monte dei Morti », con sede in Pisticci (Matera).   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 27 agosto 1942-XX
+1051.
+
+R. decreto 11 luglio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita denominata « Pio Monte dei Morti », con sede in Pisticci (Matera). 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 27 agosto 1942-XX

@@ -1,15 +1,13 @@
-REGIO DECRETO 21 ottobre 1940 n. 2046
+---
+tipo: REGIO DECRETO
+numero: 2046
+data: 1940-10-21
+titolo: "Proroga del termine e dell'esenzione venticinquennale per l'attuazione del piano regolatore del rione di San Pasquale a Chiaia in Napoli. (040U2046)"
+urn: urn:nir:stato:regio.decreto:1940-10-21;2046
+codice_redazionale: 040U2046
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 ottobre 1940 n. 2046
-=====================================
-
-Proroga del termine e dell'esenzione venticinquennale per l'attuazione del piano regolatore del rione di San Pasquale a Chiaia in Napoli. (040U2046)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

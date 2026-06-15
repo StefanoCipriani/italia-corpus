@@ -1,26 +1,17 @@
-REGIO DECRETO 28 maggio 1931 n. 1049
+---
+tipo: REGIO DECRETO
+numero: 1049
+data: 1931-05-28
+titolo: "Rettifica dei contributi di L. 400 per scuola liquidati a carico dei comuni di Monsampolo del Tronto e Spinetoli per il quinquennio 1° aprile 1930-31 marzo 1935. (031U1049)"
+urn: urn:nir:stato:regio.decreto:1931-05-28;1049
+codice_redazionale: 031U1049
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 maggio 1931 n. 1049
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Rettifica dei contributi di L. 400 per scuola liquidati a carico dei comuni di Monsampolo del Tronto e Spinetoli per il quinquennio 1° aprile 1930-31 marzo 1935. (031U1049)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/09/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Elenco
-
- Elenco   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

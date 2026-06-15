@@ -1,15 +1,13 @@
-REGIO DECRETO 28 gennaio 1935 n. 451
+---
+tipo: REGIO DECRETO
+numero: 451
+data: 1935-01-28
+titolo: "Erezione in ente morale dell'Asilo infantile « Giuseppina Scardamaglia Longo », in Nicotera. (035U0451)"
+urn: urn:nir:stato:regio.decreto:1935-01-28;451
+codice_redazionale: 035U0451
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 gennaio 1935 n. 451
-====================================
-
-Erezione in ente morale dell'Asilo infantile « Giuseppina Scardamaglia Longo », in Nicotera. (035U0451)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/05/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

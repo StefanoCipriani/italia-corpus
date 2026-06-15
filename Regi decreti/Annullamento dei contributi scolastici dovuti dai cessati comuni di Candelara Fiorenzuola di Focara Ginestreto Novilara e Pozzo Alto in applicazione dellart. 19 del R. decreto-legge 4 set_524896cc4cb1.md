@@ -1,15 +1,13 @@
-REGIO DECRETO 25 giugno 1931 n. 1375
+---
+tipo: REGIO DECRETO
+numero: 1375
+data: 1931-06-25
+titolo: "Annullamento dei contributi scolastici dovuti dai cessati comuni di Candelara, Fiorenzuola di Focara, Ginestreto, Novilara e Pozzo Alto in applicazione dell'art. 19 del R. decreto-legge 4 settembre 1925, n. 1722. (031U1375)"
+urn: urn:nir:stato:regio.decreto:1931-06-25;1375
+codice_redazionale: 031U1375
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1931 n. 1375
-====================================
-
-Annullamento dei contributi scolastici dovuti dai cessati comuni di Candelara, Fiorenzuola di Focara, Ginestreto, Novilara e Pozzo Alto in applicazione dell'art. 19 del R. decreto-legge 4 settembre 1925, n. 1722. (031U1375)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

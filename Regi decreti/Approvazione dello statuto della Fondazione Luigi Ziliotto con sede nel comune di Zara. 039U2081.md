@@ -1,15 +1,13 @@
-REGIO DECRETO 07 dicembre 1939 n. 2081
+---
+tipo: REGIO DECRETO
+numero: 2081
+data: 1939-12-07
+titolo: "Approvazione dello statuto della Fondazione «Luigi Ziliotto», con sede nel comune di Zara. (039U2081)"
+urn: urn:nir:stato:regio.decreto:1939-12-07;2081
+codice_redazionale: 039U2081
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 dicembre 1939 n. 2081
-======================================
-
-Approvazione dello statuto della Fondazione «Luigi Ziliotto», con sede nel comune di Zara. (039U2081)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

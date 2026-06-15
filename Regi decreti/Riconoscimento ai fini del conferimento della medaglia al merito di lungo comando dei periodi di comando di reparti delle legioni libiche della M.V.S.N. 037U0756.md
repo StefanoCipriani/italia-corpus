@@ -1,15 +1,13 @@
-REGIO DECRETO 01 marzo 1937 n. 756
+---
+tipo: REGIO DECRETO
+numero: 756
+data: 1937-03-01
+titolo: "Riconoscimento, ai fini del conferimento della medaglia al merito di lungo comando, dei periodi di comando di reparti delle legioni libiche della M.V.S.N. (037U0756)"
+urn: urn:nir:stato:regio.decreto:1937-03-01;756
+codice_redazionale: 037U0756
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 marzo 1937 n. 756
-==================================
-
-Riconoscimento, ai fini del conferimento della medaglia al merito di lungo comando, dei periodi di comando di reparti delle legioni libiche della M.V.S.N. (037U0756)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

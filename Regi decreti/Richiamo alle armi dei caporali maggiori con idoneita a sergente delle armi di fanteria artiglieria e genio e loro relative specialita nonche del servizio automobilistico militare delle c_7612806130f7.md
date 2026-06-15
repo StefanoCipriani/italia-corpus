@@ -1,30 +1,25 @@
-REGIO DECRETO 04 ottobre 1935 n. 1858
+---
+tipo: REGIO DECRETO
+numero: 1858
+data: 1935-10-04
+titolo: "Richiamo alle armi dei caporali maggiori, con idoneita' a sergente, delle armi di fanteria, artiglieria e genio e loro relative specialita', nonche' del servizio automobilistico militare, delle classi dal 1900 al 1910 incluse. (035U1858)"
+urn: urn:nir:stato:regio.decreto:1935-10-04;1858
+codice_redazionale: 035U1858
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 ottobre 1935 n. 1858
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi dei caporali maggiori, con idoneita' a sergente, delle armi di fanteria, artiglieria e genio e loro relative specialita', nonche' del servizio automobilistico militare, delle classi dal 1900 al 1910 incluse. (035U1858)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/09/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

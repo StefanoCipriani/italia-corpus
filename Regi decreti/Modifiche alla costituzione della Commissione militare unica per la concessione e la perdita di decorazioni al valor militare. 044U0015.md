@@ -1,35 +1,29 @@
-REGIO DECRETO 03 gennaio 1944 n. 15
+---
+tipo: REGIO DECRETO
+numero: 15
+data: 1944-01-03
+titolo: "Modifiche alla costituzione della Commissione militare unica per la concessione e la perdita di decorazioni al valor militare. (044U0015)"
+urn: urn:nir:stato:regio.decreto:1944-01-03;15
+codice_redazionale: 044U0015
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 gennaio 1944 n. 15
-===================================
+((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Modifiche alla costituzione della Commissione militare unica per la concessione e la perdita di decorazioni al valor militare. (044U0015)
------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 13/02/1944
+((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 4
-------
-
-((IL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 5
-------
-
-((IL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

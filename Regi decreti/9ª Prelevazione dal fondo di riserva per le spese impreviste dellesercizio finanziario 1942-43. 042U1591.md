@@ -1,15 +1,13 @@
-REGIO DECRETO 10 dicembre 1942 n. 1591
+---
+tipo: REGIO DECRETO
+numero: 1591
+data: 1942-12-10
+titolo: "9ª Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1942-43. (042U1591)"
+urn: urn:nir:stato:regio.decreto:1942-12-10;1591
+codice_redazionale: 042U1591
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 dicembre 1942 n. 1591
-======================================
-
-9ª Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1942-43. (042U1591)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

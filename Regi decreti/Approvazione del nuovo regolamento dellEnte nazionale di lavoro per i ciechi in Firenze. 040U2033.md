@@ -1,15 +1,13 @@
-REGIO DECRETO 02 dicembre 1940 n. 2033
+---
+tipo: REGIO DECRETO
+numero: 2033
+data: 1940-12-02
+titolo: "Approvazione del nuovo regolamento dell'Ente nazionale di lavoro per i ciechi, in Firenze. (040U2033)"
+urn: urn:nir:stato:regio.decreto:1940-12-02;2033
+codice_redazionale: 040U2033
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 dicembre 1940 n. 2033
-======================================
-
-Approvazione del nuovo regolamento dell'Ente nazionale di lavoro per i ciechi, in Firenze. (040U2033)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

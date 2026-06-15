@@ -1,20 +1,17 @@
-REGIO DECRETO 19 febbraio 1940 n. 583
+---
+tipo: REGIO DECRETO
+numero: 583
+data: 1940-02-19
+titolo: "Conferimento di un premio di congedamento ai militari nativi dell'Africa Italiana che hanno preso parte ad operazioni di guerra o di polizia coloniale. (040U0583)"
+urn: urn:nir:stato:regio.decreto:1940-02-19;583
+codice_redazionale: 040U0583
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1940 n. 583
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Conferimento di un premio di congedamento ai militari nativi dell'Africa Italiana che hanno preso parte ad operazioni di guerra o di polizia coloniale. (040U0583)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/07/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

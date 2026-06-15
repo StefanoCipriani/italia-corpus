@@ -1,20 +1,17 @@
-REGIO DECRETO 18 marzo 1935 n. 766
+---
+tipo: REGIO DECRETO
+numero: 766
+data: 1935-03-18
+titolo: "Estensione alla Libia delle norme del R. decreto-legge 11 dicembre 1930, n. 1882, riflettente la vigilanza governativa sulle societa' cooperative. (035U0766)"
+urn: urn:nir:stato:regio.decreto:1935-03-18;766
+codice_redazionale: 035U0766
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 marzo 1935 n. 766
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alla Libia delle norme del R. decreto-legge 11 dicembre 1930, n. 1882, riflettente la vigilanza governativa sulle societa' cooperative. (035U0766)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/06/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

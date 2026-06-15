@@ -1,15 +1,13 @@
-REGIO DECRETO 10 giugno 1937 n. 1370
+---
+tipo: REGIO DECRETO
+numero: 1370
+data: 1937-06-10
+titolo: "Iscrizione nel naviglio ausiliario dello Stato delle motonavi «Adriatico» e «Barletta». (037U1370)"
+urn: urn:nir:stato:regio.decreto:1937-06-10;1370
+codice_redazionale: 037U1370
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1937 n. 1370
-====================================
-
-Iscrizione nel naviglio ausiliario dello Stato delle motonavi «Adriatico» e «Barletta». (037U1370)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

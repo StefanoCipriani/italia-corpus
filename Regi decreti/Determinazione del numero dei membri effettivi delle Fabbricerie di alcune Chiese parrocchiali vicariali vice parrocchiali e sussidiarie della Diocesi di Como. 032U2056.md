@@ -1,15 +1,13 @@
-REGIO DECRETO 20 dicembre 1932 n. 2056
+---
+tipo: REGIO DECRETO
+numero: 2056
+data: 1932-12-20
+titolo: "Determinazione del numero dei membri effettivi delle Fabbricerie di alcune Chiese parrocchiali, vicariali, vice parrocchiali e sussidiarie della Diocesi di Como. (032U2056)"
+urn: urn:nir:stato:regio.decreto:1932-12-20;2056
+codice_redazionale: 032U2056
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 dicembre 1932 n. 2056
-======================================
-
-Determinazione del numero dei membri effettivi delle Fabbricerie di alcune Chiese parrocchiali, vicariali, vice parrocchiali e sussidiarie della Diocesi di Como. (032U2056)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

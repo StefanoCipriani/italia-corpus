@@ -1,15 +1,13 @@
-REGIO DECRETO 13 luglio 1933 n. 1367
+---
+tipo: REGIO DECRETO
+numero: 1367
+data: 1933-07-13
+titolo: "Approvazione del nuovo statuto della Cassa di soccorso per il personale della Ferrovia Napoli-Piedimonte d'Alife, con sede in Napoli. (033U1367)"
+urn: urn:nir:stato:regio.decreto:1933-07-13;1367
+codice_redazionale: 033U1367
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1933 n. 1367
-====================================
-
-Approvazione del nuovo statuto della Cassa di soccorso per il personale della Ferrovia Napoli-Piedimonte d'Alife, con sede in Napoli. (033U1367)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

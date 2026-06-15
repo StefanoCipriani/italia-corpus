@@ -1,315 +1,319 @@
-REGIO DECRETO 08 luglio 1937 n. 1516
+---
+tipo: REGIO DECRETO
+numero: 1516
+data: 1937-07-08
+titolo: "Norme relative alla costituzione ed al funzionamento delle Commissioni amministrative per le imposte dirette e per le imposte indirette sugli affari. (037U1516)"
+urn: urn:nir:stato:regio.decreto:1937-07-08;1516
+codice_redazionale: 037U1516
+vigente: true
+---
 
+## Costituzione delle Commissioni distrettuali e provinciali per le imposte dirette e per le imposte indirette sugli affari.
 
-REGIO DECRETO 08 luglio 1937 n. 1516
-====================================
+Titolo I.
 
-Norme relative alla costituzione ed al funzionamento delle Commissioni amministrative per le imposte dirette e per le imposte indirette sugli affari. (037U1516)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 25/09/1937
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-CAPO I Titolo I. Costituzione delle Commissioni distrettuali e provinciali per le imposte dirette e per le imposte indirette sugli affari.
-------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+## Funzionamento delle Commissioni per le imposte dirette e per le imposte indirette sugli affari.
 
-### Art. 10
+Titolo II.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 11.
 
-CAPO II Titolo II. Funzionamento delle Commissioni per le imposte dirette e per le imposte indirette sugli affari.
-------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 15
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 16
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 17
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 18
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 19
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 20
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 21
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 22
+## Procedimento avanti le Commissioni.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+Titolo III.
 
-CAPO III Titolo III. Procedimento avanti le Commissioni.
---------------------------------------------------------
+### Art. 23.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 24.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 25.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 26.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 27.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 28.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 29.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 30.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 31.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 32.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 33.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 34.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 35.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 36.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 37.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 38.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 39.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 40.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 41.
 
-### Art. 41
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 42.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 43.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 44.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 45.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 46.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 47.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 48.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 49.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+## Segreteria - Locali - Disposizioni diverse.
 
-CAPO IV Titolo IV. Segreteria - Locali - Disposizioni diverse.
---------------------------------------------------------------
+Titolo IV.
 
-### Art. 50
+### Art. 50.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 51
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 52
+### Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 53
+### Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 54
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 55
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-CAPO V Titolo V. Disposizioni transitorie e finali.
----------------------------------------------------
+## Disposizioni transitorie e finali.
 
-### Art. 56
+Titolo V.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 56.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 57.
 
-### Art. 58
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+### Art. 58.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

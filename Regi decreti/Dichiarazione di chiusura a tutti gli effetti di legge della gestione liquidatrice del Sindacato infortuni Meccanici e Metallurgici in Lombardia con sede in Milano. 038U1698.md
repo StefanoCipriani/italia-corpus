@@ -1,15 +1,13 @@
-REGIO DECRETO 19 ottobre 1938 n. 1698
+---
+tipo: REGIO DECRETO
+numero: 1698
+data: 1938-10-19
+titolo: "Dichiarazione di chiusura, a tutti gli effetti di legge, della gestione liquidatrice del Sindacato infortuni «Meccanici e Metallurgici in Lombardia», con sede in Milano. (038U1698)"
+urn: urn:nir:stato:regio.decreto:1938-10-19;1698
+codice_redazionale: 038U1698
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 ottobre 1938 n. 1698
-=====================================
-
-Dichiarazione di chiusura, a tutti gli effetti di legge, della gestione liquidatrice del Sindacato infortuni «Meccanici e Metallurgici in Lombardia», con sede in Milano. (038U1698)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,31 +1,21 @@
-REGIO DECRETO 18 agosto 1940 n. 1375
+---
+tipo: REGIO DECRETO
+numero: 1375
+data: 1940-08-18
+titolo: "Estensione della concessione della medaglia dell'Unita' d'Italia agli insigniti della medaglia commemorativa della spedizione di Fiume o della Marcia su Roma. (040U1375)"
+urn: urn:nir:stato:regio.decreto:1940-08-18;1375
+codice_redazionale: 040U1375
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1940 n. 1375
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione della concessione della medaglia dell'Unita' d'Italia agli insigniti della medaglia commemorativa della spedizione di Fiume o della Marcia su Roma. (040U1375)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/10/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-allegato
-
- allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

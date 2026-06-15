@@ -1,20 +1,17 @@
-REGIO DECRETO 04 ottobre 1934 n. 1853
+---
+tipo: REGIO DECRETO
+numero: 1853
+data: 1934-10-04
+titolo: "Modificazioni alle tariffe della tassa sugli affari in Eritrea ed in Somalia. (034U1853)"
+urn: urn:nir:stato:regio.decreto:1934-10-04;1853
+codice_redazionale: 034U1853
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 ottobre 1934 n. 1853
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni alle tariffe della tassa sugli affari in Eritrea ed in Somalia. (034U1853)
-----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/12/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

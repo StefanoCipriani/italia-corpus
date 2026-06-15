@@ -1,20 +1,17 @@
-REGIO DECRETO 11 luglio 1935 n. 1477
+---
+tipo: REGIO DECRETO
+numero: 1477
+data: 1935-07-11
+titolo: "Aumento di contributo statale al Consorzio costituito fra lo Stato e l'Amministrazione provinciale di Bologna per il rimboschimento di terreni soggetti a vincolo forestale. (035U1477)"
+urn: urn:nir:stato:regio.decreto:1935-07-11;1477
+codice_redazionale: 035U1477
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 luglio 1935 n. 1477
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Aumento di contributo statale al Consorzio costituito fra lo Stato e l'Amministrazione provinciale di Bologna per il rimboschimento di terreni soggetti a vincolo forestale. (035U1477)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/08/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

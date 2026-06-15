@@ -1,15 +1,13 @@
-REGIO DECRETO 15 novembre 1937 n. 1968
+---
+tipo: REGIO DECRETO
+numero: 1968
+data: 1937-11-15
+titolo: "Radiazione del Regio rimorchiatore «N. 81» dal quadro del Regio naviglio. (037U1968)"
+urn: urn:nir:stato:regio.decreto:1937-11-15;1968
+codice_redazionale: 037U1968
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 novembre 1937 n. 1968
-======================================
-
-Radiazione del Regio rimorchiatore «N. 81» dal quadro del Regio naviglio. (037U1968)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,25 +1,21 @@
-REGIO DECRETO 23 marzo 1943 n. 149
+---
+tipo: REGIO DECRETO
+numero: 149
+data: 1943-03-23
+titolo: "Istituzione di Commissari civili in Sicilia e in Sardegna. (043U0149)"
+urn: urn:nir:stato:regio.decreto:1943-03-23;149
+codice_redazionale: 043U0149
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 marzo 1943 n. 149
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione di Commissari civili in Sicilia e in Sardegna. (043U0149)
----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/04/1943
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

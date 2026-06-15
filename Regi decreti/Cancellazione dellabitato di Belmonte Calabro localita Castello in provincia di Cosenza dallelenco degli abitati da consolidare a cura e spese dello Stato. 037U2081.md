@@ -1,15 +1,13 @@
-REGIO DECRETO 15 novembre 1937 n. 2081
+---
+tipo: REGIO DECRETO
+numero: 2081
+data: 1937-11-15
+titolo: "Cancellazione dell'abitato di Belmonte Calabro, localita' Castello, in provincia di Cosenza, dall'elenco degli abitati da consolidare a cura e spese dello Stato. (037U2081)"
+urn: urn:nir:stato:regio.decreto:1937-11-15;2081
+codice_redazionale: 037U2081
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 novembre 1937 n. 2081
-======================================
-
-Cancellazione dell'abitato di Belmonte Calabro, localita' Castello, in provincia di Cosenza, dall'elenco degli abitati da consolidare a cura e spese dello Stato. (037U2081)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/01/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 16 dicembre 1937 n. 2173
+---
+tipo: REGIO DECRETO
+numero: 2173
+data: 1937-12-16
+titolo: "Aggiornamento delle vigenti disposizioni pel conferimento degli alloggi erariali agli ufficiali della Regia marina. (037U2173)"
+urn: urn:nir:stato:regio.decreto:1937-12-16;2173
+codice_redazionale: 037U2173
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 dicembre 1937 n. 2173
-======================================
-
-Aggiornamento delle vigenti disposizioni pel conferimento degli alloggi erariali agli ufficiali della Regia marina. (037U2173)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

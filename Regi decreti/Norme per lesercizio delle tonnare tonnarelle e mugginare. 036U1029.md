@@ -1,64 +1,54 @@
-REGIO DECRETO 27 febbraio 1936 n. 1029
+---
+tipo: REGIO DECRETO
+numero: 1029
+data: 1936-02-27
+titolo: "Norme per l'esercizio delle tonnare, tonnarelle e mugginare. (036U1029)"
+urn: urn:nir:stato:regio.decreto:1936-02-27;1029
+codice_redazionale: 036U1029
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 febbraio 1936 n. 1029
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Norme per l'esercizio delle tonnare, tonnarelle e mugginare. (036U1029)
------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/06/1936
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

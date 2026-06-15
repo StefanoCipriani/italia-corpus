@@ -1,15 +1,13 @@
-REGIO DECRETO 19 febbraio 1940 n. 348
+---
+tipo: REGIO DECRETO
+numero: 348
+data: 1940-02-19
+titolo: "Erezione in ente morale della Fondazione intitolata «Angelica Bleve», in Presicce (Lecce). (040U0348)"
+urn: urn:nir:stato:regio.decreto:1940-02-19;348
+codice_redazionale: 040U0348
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1940 n. 348
-=====================================
-
-Erezione in ente morale della Fondazione intitolata «Angelica Bleve», in Presicce (Lecce). (040U0348)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

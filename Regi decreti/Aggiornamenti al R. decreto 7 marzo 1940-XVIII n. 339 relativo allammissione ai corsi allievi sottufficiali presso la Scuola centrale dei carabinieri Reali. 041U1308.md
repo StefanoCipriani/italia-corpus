@@ -1,15 +1,13 @@
-REGIO DECRETO 17 ottobre 1941 n. 1308
+---
+tipo: REGIO DECRETO
+numero: 1308
+data: 1941-10-17
+titolo: "Aggiornamenti al R. decreto 7 marzo 1940-XVIII, n. 339, relativo all'ammissione ai corsi allievi sottufficiali presso la Scuola centrale dei carabinieri Reali. (041U1308)"
+urn: urn:nir:stato:regio.decreto:1941-10-17;1308
+codice_redazionale: 041U1308
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 ottobre 1941 n. 1308
-=====================================
-
-Aggiornamenti al R. decreto 7 marzo 1940-XVIII, n. 339, relativo all'ammissione ai corsi allievi sottufficiali presso la Scuola centrale dei carabinieri Reali. (041U1308)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

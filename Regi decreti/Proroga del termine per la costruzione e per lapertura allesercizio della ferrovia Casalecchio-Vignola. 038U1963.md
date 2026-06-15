@@ -1,15 +1,13 @@
-REGIO DECRETO 17 novembre 1938 n. 1963
+---
+tipo: REGIO DECRETO
+numero: 1963
+data: 1938-11-17
+titolo: "Proroga del termine per la costruzione e per l'apertura all'esercizio della ferrovia Casalecchio-Vignola. (038U1963)"
+urn: urn:nir:stato:regio.decreto:1938-11-17;1963
+codice_redazionale: 038U1963
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 novembre 1938 n. 1963
-======================================
-
-Proroga del termine per la costruzione e per l'apertura all'esercizio della ferrovia Casalecchio-Vignola. (038U1963)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

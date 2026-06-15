@@ -1,15 +1,13 @@
-REGIO DECRETO 25 marzo 1937 n. 457
+---
+tipo: REGIO DECRETO
+numero: 457
+data: 1937-03-25
+titolo: "Approvazione ed esecutorieta' della convenzione 4 marzo 1937 per la proroga al 27 aprile 1937 del termine di ultimazione dei lavori di impianto della funivia S. Remo-Monte Bignone. (037U0457)"
+urn: urn:nir:stato:regio.decreto:1937-03-25;457
+codice_redazionale: 037U0457
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 marzo 1937 n. 457
-==================================
-
-Approvazione ed esecutorieta' della convenzione 4 marzo 1937 per la proroga al 27 aprile 1937 del termine di ultimazione dei lavori di impianto della funivia S. Remo-Monte Bignone. (037U0457)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

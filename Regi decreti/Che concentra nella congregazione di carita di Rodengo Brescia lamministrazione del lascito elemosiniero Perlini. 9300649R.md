@@ -1,16 +1,14 @@
-REGIO DECRETO 23 ottobre 1893 n. DCXLIX
-
-
-REGIO DECRETO 23 ottobre 1893 n. DCXLIX
-=======================================
-
-Che concentra nella congregazione di carita' di Rodengo (Brescia) l'amministrazione del lascito elemosiniero Perlini. (9300649R)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1893
+---
+tipo: REGIO DECRETO
+numero: DCXLIX
+data: 1893-10-23
+titolo: "Che concentra nella congregazione di carita' di Rodengo (Brescia) l'amministrazione del lascito elemosiniero Perlini. (9300649R)"
+urn: urn:nir:stato:regio.decreto:1893-10-23;649
+codice_redazionale: 9300649R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Viste le deliberazioni della congregazione di carita' e del consiglio comunale d
 
 Viste le deliberazioni adottate in proposito dalla congregazione di carita' e dalla giunta provinciale amministrativa di Brescia;
 
-Vista la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Udito il parere del consiglio' di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'amministrazione del lascito anzidetto e' concentrata nella congregazione di carita'. di Rodengo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 23 ottobre 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 4 dicembre 1893.   
-  
-Reg. 193. Atti del Governo a f. 390. Petrecca.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Armo'.   
-  
-G. Giolitti.   
+L'amministrazione del lascito anzidetto e' concentrata nella congregazione di carita'. di Rodengo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 23 ottobre 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 4 dicembre 1893. 
+ 
+ Reg. 193. Atti del Governo a f. 390. Petrecca. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Armo'. 
+ 
+ G. Giolitti.

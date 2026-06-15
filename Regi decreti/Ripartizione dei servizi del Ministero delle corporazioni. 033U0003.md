@@ -1,25 +1,21 @@
-REGIO DECRETO 09 gennaio 1933 n. 3
+---
+tipo: REGIO DECRETO
+numero: 3
+data: 1933-01-09
+titolo: "Ripartizione dei servizi del Ministero delle corporazioni. (033U0003)"
+urn: urn:nir:stato:regio.decreto:1933-01-09;3
+codice_redazionale: 033U0003
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 gennaio 1933 n. 3
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Ripartizione dei servizi del Ministero delle corporazioni. (033U0003)
----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/01/1933
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

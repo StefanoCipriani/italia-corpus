@@ -1,25 +1,21 @@
-REGIO DECRETO 04 ottobre 1935 n. 2409
+---
+tipo: REGIO DECRETO
+numero: 2409
+data: 1935-10-04
+titolo: "Emissione di francobolli commemorativi della IX Fiera campionaria di Tripoli. (035U2409)"
+urn: urn:nir:stato:regio.decreto:1935-10-04;2409
+codice_redazionale: 035U2409
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 ottobre 1935 n. 2409
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Emissione di francobolli commemorativi della IX Fiera campionaria di Tripoli. (035U2409)
-----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 13/02/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

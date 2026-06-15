@@ -1,25 +1,21 @@
-REGIO DECRETO 18 febbraio 1932 n. 82
+---
+tipo: REGIO DECRETO
+numero: 82
+data: 1932-02-18
+titolo: "Amnistia per le contravvenzioni alle norme sulla istruzione premilitare. (032U0082)"
+urn: urn:nir:stato:regio.decreto:1932-02-18;82
+codice_redazionale: 032U0082
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 febbraio 1932 n. 82
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Amnistia per le contravvenzioni alle norme sulla istruzione premilitare. (032U0082)
------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/02/1932
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

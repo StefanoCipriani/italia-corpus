@@ -1,25 +1,21 @@
-REGIO DECRETO 27 ottobre 1932 n. 1549
+---
+tipo: REGIO DECRETO
+numero: 1549
+data: 1932-10-27
+titolo: "Disposizioni relative alle aliquote di pensione per talune categorie di ufficiali della Regia marina. (032U1549)"
+urn: urn:nir:stato:regio.decreto:1932-10-27;1549
+codice_redazionale: 032U1549
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1932 n. 1549
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Disposizioni relative alle aliquote di pensione per talune categorie di ufficiali della Regia marina. (032U1549)
-----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/12/1932
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

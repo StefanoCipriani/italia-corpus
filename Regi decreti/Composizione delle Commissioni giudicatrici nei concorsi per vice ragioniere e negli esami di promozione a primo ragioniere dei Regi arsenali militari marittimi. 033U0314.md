@@ -1,25 +1,21 @@
-REGIO DECRETO 27 marzo 1933 n. 314
+---
+tipo: REGIO DECRETO
+numero: 314
+data: 1933-03-27
+titolo: "Composizione delle Commissioni giudicatrici nei concorsi per vice ragioniere e negli esami di promozione a primo ragioniere dei Regi arsenali militari marittimi. (033U0314)"
+urn: urn:nir:stato:regio.decreto:1933-03-27;314
+codice_redazionale: 033U0314
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 marzo 1933 n. 314
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Composizione delle Commissioni giudicatrici nei concorsi per vice ragioniere e negli esami di promozione a primo ragioniere dei Regi arsenali militari marittimi. (033U0314)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/04/1933
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

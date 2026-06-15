@@ -1,21 +1,21 @@
-REGIO DECRETO 30 settembre 1937 n. 2261
+---
+tipo: REGIO DECRETO
+numero: 2261
+data: 1937-09-30
+titolo: "Dichiarazione formale dei fini delle Confraternite di Maria SS.ma del Carmine e della Buona Morte, in Roseto Valfortore (Foggia). (037U2261)"
+urn: urn:nir:stato:regio.decreto:1937-09-30;2261
+codice_redazionale: 037U2261
+vigente: true
+---
 
-
-REGIO DECRETO 30 settembre 1937 n. 2261
-=======================================
-
-Dichiarazione formale dei fini delle Confraternite di Maria SS.ma del Carmine e della Buona Morte, in Roseto Valfortore (Foggia). (037U2261)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2261. R. decreto 30 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle Confraternite di Maria SS.ma del Carmine e della Buona Morte, in Roseto Valfortore (Foggia).   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 30 dicembre 1937 - Anno XVI
+2261.
+
+R. decreto 30 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle Confraternite di Maria SS.ma del Carmine e della Buona Morte, in Roseto Valfortore (Foggia). 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 30 dicembre 1937 - Anno XVI

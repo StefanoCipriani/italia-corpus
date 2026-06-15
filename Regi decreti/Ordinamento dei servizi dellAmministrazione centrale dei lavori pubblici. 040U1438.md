@@ -1,25 +1,21 @@
-REGIO DECRETO 16 settembre 1940 n. 1438
+---
+tipo: REGIO DECRETO
+numero: 1438
+data: 1940-09-16
+titolo: "Ordinamento dei servizi dell'Amministrazione centrale dei lavori pubblici. (040U1438)"
+urn: urn:nir:stato:regio.decreto:1940-09-16;1438
+codice_redazionale: 040U1438
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 settembre 1940 n. 1438
-=======================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Ordinamento dei servizi dell'Amministrazione centrale dei lavori pubblici. (040U1438)
--------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/10/1940
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

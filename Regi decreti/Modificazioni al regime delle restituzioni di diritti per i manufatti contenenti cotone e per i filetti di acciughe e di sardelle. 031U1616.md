@@ -1,25 +1,21 @@
-REGIO DECRETO 21 dicembre 1931 n. 1616
+---
+tipo: REGIO DECRETO
+numero: 1616
+data: 1931-12-21
+titolo: "Modificazioni al regime delle restituzioni di diritti per i manufatti contenenti cotone e per i filetti di acciughe e di sardelle. (031U1616)"
+urn: urn:nir:stato:regio.decreto:1931-12-21;1616
+codice_redazionale: 031U1616
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1931 n. 1616
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni al regime delle restituzioni di diritti per i manufatti contenenti cotone e per i filetti di acciughe e di sardelle. (031U1616)
----------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/01/1932
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,25 +1,21 @@
-REGIO DECRETO 22 aprile 1937 n. 834
+---
+tipo: REGIO DECRETO
+numero: 834
+data: 1937-04-22
+titolo: "Istituzione presso il Ministero dei lavori pubblici dell'Ispettorato generale per il servizio contratti ed Albo nazionale degli appaltatori di opere pubbliche. (037U0834)"
+urn: urn:nir:stato:regio.decreto:1937-04-22;834
+codice_redazionale: 037U0834
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1937 n. 834
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Istituzione presso il Ministero dei lavori pubblici dell'Ispettorato generale per il servizio contratti ed Albo nazionale degli appaltatori di opere pubbliche. (037U0834)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/06/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,16 +1,14 @@
-REGIO DECRETO 25 maggio 1939 n. 1279
-
-
-REGIO DECRETO 25 maggio 1939 n. 1279
-====================================
-
-Attuazione della legge 10 maggio 1938-XVI, n. 745, sull'ordinamento dei Monti di credito su pegno. (039U1279)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/09/1939
+---
+tipo: REGIO DECRETO
+numero: 1279
+data: 1939-05-25
+titolo: "Attuazione della legge 10 maggio 1938-XVI, n. 745, sull'ordinamento dei Monti di credito su pegno. (039U1279)"
+urn: urn:nir:stato:regio.decreto:1939-05-25;1279
+codice_redazionale: 039U1279
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,427 +26,389 @@ Veduta la deliberazione in data 15 dicembre 1938-XVII del Comitato dei Ministri 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri anzidetto; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri anzidetto; Abbiamo decretato e decretiamo:
+## Monti di nuora istituzione.
 
-CAPO I Capo I. Monti di nuora istituzione.
-------------------------------------------
+Capo I.
 
-### Art. 1
+### Art. 1.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 2
+### Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 3
+### Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 4
+### Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 5
+### Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 6
+### Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-CAPO II Capo II Statuto dei Monti.
-----------------------------------
+## Statuto dei Monti.
 
-### Art. 7
+Capo II
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 7.
 
-CAPO III Capo III. Consiglio di amministrazione dei Monti.
-----------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 8
+## Consiglio di amministrazione dei Monti.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo III.
 
-CAPO IV Capo IV. Collegio sindacale dei Monti.
-----------------------------------------------
+### Art. 8.
 
-### Art. 9
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Collegio sindacale dei Monti.
 
-### Art. 10
+Capo IV.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 9.
 
-CAPO V Capo V. Direttore dei Monti.
------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 11
+### Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-CAPO VI Capo VI. Incompatibilita'.
-----------------------------------
+## Direttore dei Monti.
 
-### Art. 12
+Capo V.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 11.
 
-CAPO VII Capo VII. Incorporazioni e fusioni dei Monti.
-------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 13
+## Incompatibilita'.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo VI.
 
-### Art. 14
+### Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 15
+## Incorporazioni e fusioni dei Monti.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo VII.
 
-CAPO VIII Capo VIII. Contabilita' e rendiconti.
------------------------------------------------
+### Art. 13.
 
-### Art. 16
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 14.
 
-### Art. 17
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 15.
 
-### Art. 18
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Contabilita' e rendiconti.
 
-### Art. 19
+Capo VIII.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 16.
 
-### Art. 20
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 17.
 
-### Art. 21
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 18.
 
-### Art. 22
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 19.
 
-### Art. 23
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 20.
 
-### Art. 24
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 21.
 
-### Art. 25
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 22.
 
-### Art. 26
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 23.
 
-### Art. 27
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 24.
 
-CAPO IX Capo IX. Depositi
--------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 28
+### Art. 25.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 29
+### Art. 26.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 30
+### Art. 27.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 31
+## Depositi
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo IX.
 
-CAPO X Capo X. Impiego dei capitali amministrati.
--------------------------------------------------
+### Art. 28.
 
-### Art. 32
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 29.
 
-### Art. 33
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 30.
 
-### Art. 34
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 31.
 
-CAPO XI Capo XI. Eredita', legati, donazioni
---------------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 35
+## Impiego dei capitali amministrati.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo X.
 
-CAPO XII Capo XII. Vendita di immobili.
----------------------------------------
+### Art. 32.
 
-### Art. 36
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 33.
 
-CAPO XIII Capo XIII. Prestiti su pegno.
----------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 37
+### Art. 34.
 
-  
-  
-Le polizze di pegno di cui all'art. 10 della legge devono contenere, oltre quanto e' stabilito dalla legge medesima, l'indicazione dell'orario di servizio e delle sedi del Monte dove possono essere compiute le operazioni di prestito su pegno.   
-  
-Nelle polizze anzidette devono essere riportate, inoltre, le norme statutarie relative allo smarrimento, alla sottrazione o alla distruzione delle polizze stesse, nonche' il testo dell'art. 31 della legge e le altre disposizioni che l'Ispettorato ritiene di stabilire.   
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 38
+## Eredita', legati, donazioni
 
-  
-  
-I Monti possono sempre rifiutare la concessione di prestiti quando hanno fondato motivo di ritenere che le cose offerte in pegno sono di illegittima provenienza.   
-  
-  
+Capo XI.
 
-### Art. 39
+### Art. 35.
 
-  
-  
-I prestiti su pegno non possono eccedere i quattro quinti del valore di stima fissato dal perito, quando trattasi di pegno di preziosi, e i due terzi del valore medesimo, quando trattasi di oggetti diversi.   
-  
-La stima deve essere fatta in base al valore commerciale delle cose offerte in pegno.   
-  
-  
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 40
+## Vendita di immobili.
 
-((COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo XII.
 
-.   
-  
-L'interesse si esige all'atto del riscatto del pegno, della domanda di rinnovazione del prestito, della vendita del pegno ovvero della sua aggiudicazione al perito.   
-  
-I diritti accessori, esclusi quelli d'asta, possono esigersi all'atto della concessione o della rinnovazione del prestito.   
+### Art. 36.
 
-### Art. 41
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-  
-  
-I prestiti su pegno possono essere estinti in qualunque tempo prima della scadenza col conseguente riscatto e ritiro delle cose costituite in pegno.   
-  
-Il Monte puo' consentire alla scadenza del prestito la rinnovazione totale o parziale di esso, previo pagamento degli interessi e, in quanto dovuti, degli accessori, subordinatamente pero' a nuova stima delle cose date in pegno.   
-  
-  
+## Prestiti su pegno.
 
-### Art. 42
+Capo XIII.
 
-  
-  
-Il riscatto e la rinnovazione possono essere consentiti sino a quando le cose costituite in pegno non sono state aggiudicate all'asta pubblica.   
-  
-  
+### Art. 37.
 
-### Art. 43
+Le polizze di pegno di cui all'art. 10 della legge devono contenere, oltre quanto e' stabilito dalla legge medesima, l'indicazione dell'orario di servizio e delle sedi del Monte dove possono essere compiute le operazioni di prestito su pegno. 
+ 
+ Nelle polizze anzidette devono essere riportate, inoltre, le norme statutarie relative allo smarrimento, alla sottrazione o alla distruzione delle polizze stesse, nonche' il testo dell'art. 31 della legge e le altre disposizioni che l'Ispettorato ritiene di stabilire.
 
-  
-  
-Non possono essere costituiti in pegno gli oggetti fragili, corruttibili, facilmente infiammabili o esplodenti, i commestibili, i liquidi, gli arredi di vestiario e di equipaggiamento militari od equiparati, gli abiti religiosi, i paramenti sacri e gli oggetti di culto.   
-  
-  
+### Art. 38.
 
-### Art. 44
+I Monti possono sempre rifiutare la concessione di prestiti quando hanno fondato motivo di ritenere che le cose offerte in pegno sono di illegittima provenienza.
 
-  
-  
-Le Cose costituite in pegno devono essere assicurate a cura del Monte contro i rischi dell'incendio e della caduta o fulmine per un importo uguale al valore di stima ad esse attribuito all'atto della concessione del prestito, aumentato di un quarto.   
-  
-  
+### Art. 39.
 
-### Art. 45
+I prestiti su pegno non possono eccedere i quattro quinti del valore di stima fissato dal perito, quando trattasi di pegno di preziosi, e i due terzi del valore medesimo, quando trattasi di oggetti diversi. 
+ 
+ La stima deve essere fatta in base al valore commerciale delle cose offerte in pegno.
 
-  
-  
-I Monti non rispondono dei danni derivati alle cose date in pegno da naturale deperimento o da difetti intrinseci palesi od occulti; non rispondono, altresi', della perdita totale o parziale delle cose stesse quando essa deriva da caso fortuito o da forza maggiore.   
-  
-Nei casi di assicurazione obbligatoria contemplati nell'articolo precedente o quando il Monte e' responsabile del danno derivato alle cose date in pegno, la misura del risarcimento non puo' mai eccedere il valore di stima attribuito alle cose costituite in pegno al momento della concessione del prestito aumentato di un quarto, dedotto, pero', l'importo del credito del Monte per capitale, interessi ed eventuali diritti accessori.   
-  
-  
+### Art. 40.
 
-### Art. 46
+((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)). 
+ 
+ L'interesse si esige all'atto del riscatto del pegno, della domanda di rinnovazione del prestito, della vendita del pegno ovvero della sua aggiudicazione al perito. 
+ 
+ I diritti accessori, esclusi quelli d'asta, possono esigersi all'atto della concessione o della rinnovazione del prestito.
 
-  
-  
-Quando le cose costituite in pegno sono sottoposte a sequestro in un procedimento penale, l'Autorita' giudiziaria deve normalmente nominare custode il rappresentante legale del Monte. Quest'ultimo e' tenuto, pero', a presentare le cose stesse ad ogni richiesta dell'Autorita' giudiziaria.   
-  
-Gli organi di polizia giudiziaria, quando procedono, ai sensi dell'[art. 222, comma secondo, del Codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art222-com2), al sequestro delle cose date in pegno, devono redigere processo verbale, rilasciandone copia al Monte.   
-  
-  
+### Art. 41.
 
-### Art. 47
+I prestiti su pegno possono essere estinti in qualunque tempo prima della scadenza col conseguente riscatto e ritiro delle cose costituite in pegno. 
+ 
+ Il Monte puo' consentire alla scadenza del prestito la rinnovazione totale o parziale di esso, previo pagamento degli interessi e, in quanto dovuti, degli accessori, subordinatamente pero' a nuova stima delle cose date in pegno.
 
-  
-  
-Agli effetti dell'art. 11 della legge, l'Autorita' giudiziaria non puo' ordinare la restituzione delle cose smarrite o rubate o comunque provenienti da un reato, le quali sono costituite in pegno presso un Monte, se il proprietario non fornisce la prova di aver rimborsato al Monte la somma, data a prestito, gli interessi e gli eventuali diritti accessori.   
-  
-  
+### Art. 42.
 
-CAPO XIV Capo XIV. Aste pubbliche.
-----------------------------------
+Il riscatto e la rinnovazione possono essere consentiti sino a quando le cose costituite in pegno non sono state aggiudicate all'asta pubblica.
 
-### Art. 48
+### Art. 43.
 
-  
-  
-Le aste pubbliche, indette ai sensi dell'art. 13 della legge, devono essere rese note mediante affissione di avviso nella sede del Monte e nella sala dove si effettuano le aste.   
-  
-L'avviso deve rimanere esposto per almeno cinque giorni consecutivi precedenti l'inizio delle aste e fino al compimento delle aste medesime. Esso deve indicare il luogo, il giorno e le ore delle aste, nonche' l'elenco dei pegni posti in vendita con l'indicazione dei rispettivi numeri di polizza.   
-  
-Il Consiglio di amministrazione del Monte puo' stabilire anche altre forme di pubblicita'. La stessa facolta' e' data all'Ispettorato.   
+Non possono essere costituiti in pegno gli oggetti fragili, corruttibili, facilmente infiammabili o esplodenti, i commestibili, i liquidi, gli arredi di vestiario e di equipaggiamento militari od equiparati, gli abiti religiosi, i paramenti sacri e gli oggetti di culto.
 
-### Art. 49
+### Art. 44.
 
-  
-  
-Le aste devono essere effettuate in locali, in giorni ed in ore che facilitino la partecipazione del pubblico.   
-  
-La data delle aste e le modalita' per gli incanti devono essere stabilite nei regolamenti interni.   
+Le Cose costituite in pegno devono essere assicurate a cura del Monte contro i rischi dell'incendio e della caduta o fulmine per un importo uguale al valore di stima ad esse attribuito all'atto della concessione del prestito, aumentato di un quarto.
 
-### Art. 50
+### Art. 45.
 
-  
-  
-Le cose sottoposte all'asta sono aggiudicate al migliore offerente.  
-Possono essere ammesse offerte segrete.   
-  
-Nel caso previsto dall'art. 15 della legge l'aggiudicazione al perito deve farsi dopo almeno due esperimenti d'asta.   
+I Monti non rispondono dei danni derivati alle cose date in pegno da naturale deperimento o da difetti intrinseci palesi od occulti; non rispondono, altresi', della perdita totale o parziale delle cose stesse quando essa deriva da caso fortuito o da forza maggiore. 
+ 
+ Nei casi di assicurazione obbligatoria contemplati nell'articolo precedente o quando il Monte e' responsabile del danno derivato alle cose date in pegno, la misura del risarcimento non puo' mai eccedere il valore di stima attribuito alle cose costituite in pegno al momento della concessione del prestito aumentato di un quarto, dedotto, pero', l'importo del credito del Monte per capitale, interessi ed eventuali diritti accessori.
 
-### Art. 51
+### Art. 46.
 
-  
-  
-Alle aste indette dai Monti ai sensi dell'art. 48 sono applicabili gli [articoli 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art353) e [354 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art354). Il testo di questi articoli deve essere affisso nei locali in cui si svolgono le aste.   
-  
-  
+Quando le cose costituite in pegno sono sottoposte a sequestro in un procedimento penale, l'Autorita' giudiziaria deve normalmente nominare custode il rappresentante legale del Monte. Quest'ultimo e' tenuto, pero', a presentare le cose stesse ad ogni richiesta dell'Autorita' giudiziaria. 
+ 
+ Gli organi di polizia giudiziaria, quando procedono, ai sensi dell'[art. 222, comma secondo, del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_222-com2), al sequestro delle cose date in pegno, devono redigere processo verbale, rilasciandone copia al Monte.
 
-### Art. 52
+### Art. 47.
 
-  
-  
-Il Consiglio di amministrazione puo' affidare ad un consigliere, al direttore o ad un funzionario del Monte l'incarico di dirigere le aste.   
-  
-Il presidente puo' sempre assumere la direzione delle aste.   
-  
-Le vendite sono registrate su apposito libro mediante indicazione del numero della polizza, del nome dell'acquirente e del prezzo di aggiudicazione.   
-  
-  
+Agli effetti dell'art. 11 della legge, l'Autorita' giudiziaria non puo' ordinare la restituzione delle cose smarrite o rubate o comunque provenienti da un reato, le quali sono costituite in pegno presso un Monte, se il proprietario non fornisce la prova di aver rimborsato al Monte la somma, data a prestito, gli interessi e gli eventuali diritti accessori.
 
-### Art. 53
+## Aste pubbliche.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Capo XIV.
 
-CAPO XV Capo XV. Cauzioni.
---------------------------
+### Art. 48.
 
-### Art. 54
+Le aste pubbliche, indette ai sensi dell'art. 13 della legge, devono essere rese note mediante affissione di avviso nella sede del Monte e nella sala dove si effettuano le aste. 
+ 
+ L'avviso deve rimanere esposto per almeno cinque giorni consecutivi precedenti l'inizio delle aste e fino al compimento delle aste medesime. Esso deve indicare il luogo, il giorno e le ore delle aste, nonche' l'elenco dei pegni posti in vendita con l'indicazione dei rispettivi numeri di polizza. 
+ 
+ Il Consiglio di amministrazione del Monte puo' stabilire anche altre forme di pubblicita'. La stessa facolta' e' data all'Ispettorato.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 49.
 
-### Art. 55
+Le aste devono essere effettuate in locali, in giorni ed in ore che facilitino la partecipazione del pubblico. 
+ 
+ La data delle aste e le modalita' per gli incanti devono essere stabilite nei regolamenti interni.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 50.
 
-### Art. 56
+Le cose sottoposte all'asta sono aggiudicate al migliore offerente.
+Possono essere ammesse offerte segrete. 
+ 
+ Nel caso previsto dall'art. 15 della legge l'aggiudicazione al perito deve farsi dopo almeno due esperimenti d'asta.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 51.
 
-CAPO XVI Capo XVI. Operazioni passive.
---------------------------------------
+Alle aste indette dai Monti ai sensi dell'art. 48 sono applicabili gli [articoli 353](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [354 del Codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Il testo di questi articoli deve essere affisso nei locali in cui si svolgono le aste.
 
-### Art. 57
+### Art. 52.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+Il Consiglio di amministrazione puo' affidare ad un consigliere, al direttore o ad un funzionario del Monte l'incarico di dirigere le aste. 
+ 
+ Il presidente puo' sempre assumere la direzione delle aste. 
+ 
+ Le vendite sono registrate su apposito libro mediante indicazione del numero della polizza, del nome dell'acquirente e del prezzo di aggiudicazione.
 
-### Art. 58
+### Art. 53.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-CAPO XVII Capo XVII. Personale.
--------------------------------
+## Cauzioni.
 
-### Art. 59
+Capo XV.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 54.
 
-CAPO XVIII Capo XVIII. Aziende di credito che effettuano prestiti su pegno.
----------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 60
+### Art. 55.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-CAPO XIX Capo XIX. Agenzie di prestito su pegno.
-------------------------------------------------
+### Art. 56.
 
-### Art. 61
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Operazioni passive.
 
-### Art. 62
+Capo XVI.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 57.
 
-CAPO XX Capo XX. Sanzioni.
---------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-### Art. 63
+### Art. 58.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-CAPO XXI Capo XXI. Disposizioni transitorie.
---------------------------------------------
+## Personale.
 
-### Art. 64
+Capo XVII.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+### Art. 59.
 
-### Art. 65
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Aziende di credito che effettuano prestiti su pegno.
 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 maggio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 31 agosto 1939-XVII   
-  
-Atti del Governo, registro n. 412, foglio 94. - Mancini.   
+Capo XVIII.
+
+### Art. 60.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+## Agenzie di prestito su pegno.
+
+Capo XIX.
+
+### Art. 61.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+### Art. 62.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+## Sanzioni.
+
+Capo XX.
+
+### Art. 63.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+## Disposizioni transitorie.
+
+Capo XXI.
+
+### Art. 64.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+### Art. 65.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 maggio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 31 agosto 1939-XVII 
+ 
+ Atti del Governo, registro n. 412, foglio 94. - Mancini.

@@ -1,15 +1,13 @@
-REGIO DECRETO 15 luglio 1938 n. 1343
+---
+tipo: REGIO DECRETO
+numero: 1343
+data: 1938-07-15
+titolo: "Autorizzazione al Regio politecnico di Milano ad accettare un legato per l'istituzione della «Borsa di studio prof. Oreste Murani». (038U1343)"
+urn: urn:nir:stato:regio.decreto:1938-07-15;1343
+codice_redazionale: 038U1343
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 luglio 1938 n. 1343
-====================================
-
-Autorizzazione al Regio politecnico di Milano ad accettare un legato per l'istituzione della «Borsa di studio prof. Oreste Murani». (038U1343)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

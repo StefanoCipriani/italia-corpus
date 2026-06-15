@@ -1,20 +1,17 @@
-REGIO DECRETO 25 febbraio 1937 n. 368
+---
+tipo: REGIO DECRETO
+numero: 368
+data: 1937-02-25
+titolo: "Richiamo alle armi per istruzione di complemento del ruolo naviganti, e di sottufficiali e militari di truppa inscritti nel ruolo combattente della forza in congedo della Regia aeronautica. (037U0368)"
+urn: urn:nir:stato:regio.decreto:1937-02-25;368
+codice_redazionale: 037U0368
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1937 n. 368
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Richiamo alle armi per istruzione di complemento del ruolo naviganti, e di sottufficiali e militari di truppa inscritti nel ruolo combattente della forza in congedo della Regia aeronautica. (037U0368)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

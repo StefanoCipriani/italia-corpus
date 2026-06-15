@@ -1,15 +1,13 @@
-REGIO DECRETO 23 gennaio 1933 n. 32
+---
+tipo: REGIO DECRETO
+numero: 32
+data: 1933-01-23
+titolo: "Soppressione degli uffici di conciliazione esistenti nell'ex comune di Salvaterra e nella frazione Crocetta. (033U0032)"
+urn: urn:nir:stato:regio.decreto:1933-01-23;32
+codice_redazionale: 033U0032
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1933 n. 32
-===================================
-
-Soppressione degli uffici di conciliazione esistenti nell'ex comune di Salvaterra e nella frazione Crocetta. (033U0032)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

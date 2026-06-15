@@ -1,25 +1,21 @@
-REGIO DECRETO 04 giugno 1936 n. 1337
+---
+tipo: REGIO DECRETO
+numero: 1337
+data: 1936-06-04
+titolo: "Estensione alla Libia delle norme vigenti nel Regno in materia di impiego privato. (036U1337)"
+urn: urn:nir:stato:regio.decreto:1936-06-04;1337
+codice_redazionale: 036U1337
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 giugno 1936 n. 1337
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alla Libia delle norme vigenti nel Regno in materia di impiego privato. (036U1337)
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 31/07/1936
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

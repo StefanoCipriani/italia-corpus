@@ -1,15 +1,13 @@
-REGIO DECRETO 25 febbraio 1937 n. 370
+---
+tipo: REGIO DECRETO
+numero: 370
+data: 1937-02-25
+titolo: "Dichiarazione di fuori corso del francobollo da cent. 60 per il pagamento della sopratassa di trasporto aereo degli effetti postali. (037U0370)"
+urn: urn:nir:stato:regio.decreto:1937-02-25;370
+codice_redazionale: 037U0370
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1937 n. 370
-=====================================
-
-Dichiarazione di fuori corso del francobollo da cent. 60 per il pagamento della sopratassa di trasporto aereo degli effetti postali. (037U0370)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

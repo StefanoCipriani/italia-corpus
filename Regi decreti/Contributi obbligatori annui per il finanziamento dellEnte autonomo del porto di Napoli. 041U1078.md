@@ -1,15 +1,13 @@
-REGIO DECRETO 25 luglio 1941 n. 1078
+---
+tipo: REGIO DECRETO
+numero: 1078
+data: 1941-07-25
+titolo: "Contributi obbligatori annui per il finanziamento dell'Ente autonomo del porto di Napoli. (041U1078)"
+urn: urn:nir:stato:regio.decreto:1941-07-25;1078
+codice_redazionale: 041U1078
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 luglio 1941 n. 1078
-====================================
-
-Contributi obbligatori annui per il finanziamento dell'Ente autonomo del porto di Napoli. (041U1078)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

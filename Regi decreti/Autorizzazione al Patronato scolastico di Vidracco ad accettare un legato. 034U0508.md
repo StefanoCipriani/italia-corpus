@@ -1,15 +1,13 @@
-REGIO DECRETO 05 febbraio 1934 n. 508
+---
+tipo: REGIO DECRETO
+numero: 508
+data: 1934-02-05
+titolo: "Autorizzazione al Patronato scolastico di Vidracco ad accettare un legato. (034U0508)"
+urn: urn:nir:stato:regio.decreto:1934-02-05;508
+codice_redazionale: 034U0508
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 febbraio 1934 n. 508
-=====================================
-
-Autorizzazione al Patronato scolastico di Vidracco ad accettare un legato. (034U0508)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

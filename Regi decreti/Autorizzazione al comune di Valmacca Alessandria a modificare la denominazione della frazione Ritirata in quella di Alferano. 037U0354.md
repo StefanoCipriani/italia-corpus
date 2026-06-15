@@ -1,15 +1,13 @@
-REGIO DECRETO 25 gennaio 1937 n. 354
+---
+tipo: REGIO DECRETO
+numero: 354
+data: 1937-01-25
+titolo: "Autorizzazione al comune di Valmacca (Alessandria) a modificare la denominazione della frazione «Ritirata» in quella di «Alferano». (037U0354)"
+urn: urn:nir:stato:regio.decreto:1937-01-25;354
+codice_redazionale: 037U0354
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1937 n. 354
-====================================
-
-Autorizzazione al comune di Valmacca (Alessandria) a modificare la denominazione della frazione «Ritirata» in quella di «Alferano». (037U0354)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

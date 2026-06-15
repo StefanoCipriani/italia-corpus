@@ -1,15 +1,13 @@
-REGIO DECRETO 03 novembre 1932 n. 1921
+---
+tipo: REGIO DECRETO
+numero: 1921
+data: 1932-11-03
+titolo: "Erezione in ente morale dell'«Asilo infantile Ronconi Longo Torlonia», con sede in Poli. (032U1921)"
+urn: urn:nir:stato:regio.decreto:1932-11-03;1921
+codice_redazionale: 032U1921
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 novembre 1932 n. 1921
-======================================
-
-Erezione in ente morale dell'«Asilo infantile Ronconi Longo Torlonia», con sede in Poli. (032U1921)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/02/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

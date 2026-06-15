@@ -1,15 +1,13 @@
-REGIO DECRETO 20 ottobre 1932 n. 1493
+---
+tipo: REGIO DECRETO
+numero: 1493
+data: 1932-10-20
+titolo: "Approvazione dell'atto aggiuntivo stipulato il 20 settembre 1932 per l'armamento, il completamento e l'esercizio della ferrovia Adria-Ariano. (032U1493)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1493
+codice_redazionale: 032U1493
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1932 n. 1493
-=====================================
-
-Approvazione dell'atto aggiuntivo stipulato il 20 settembre 1932 per l'armamento, il completamento e l'esercizio della ferrovia Adria-Ariano. (032U1493)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

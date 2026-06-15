@@ -1,20 +1,17 @@
-REGIO DECRETO 28 agosto 1931 n. 1176
+---
+tipo: REGIO DECRETO
+numero: 1176
+data: 1931-08-28
+titolo: "Varianti allo statuto della Regia Accademia navale. (031U1176)"
+urn: urn:nir:stato:regio.decreto:1931-08-28;1176
+codice_redazionale: 031U1176
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 agosto 1931 n. 1176
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Varianti allo statuto della Regia Accademia navale. (031U1176)
---------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/09/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

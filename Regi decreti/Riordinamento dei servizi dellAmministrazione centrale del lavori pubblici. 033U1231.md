@@ -1,25 +1,21 @@
-REGIO DECRETO 26 settembre 1933 n. 1231
+---
+tipo: REGIO DECRETO
+numero: 1231
+data: 1933-09-26
+titolo: "Riordinamento dei servizi dell'Amministrazione centrale del lavori pubblici. (033U1231)"
+urn: urn:nir:stato:regio.decreto:1933-09-26;1231
+codice_redazionale: 033U1231
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1933 n. 1231
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Riordinamento dei servizi dell'Amministrazione centrale del lavori pubblici. (033U1231)
----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/10/1933
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

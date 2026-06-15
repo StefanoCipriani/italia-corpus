@@ -1,20 +1,17 @@
-REGIO DECRETO 23 aprile 1931 n. 669
+---
+tipo: REGIO DECRETO
+numero: 669
+data: 1931-04-23
+titolo: "Radiazione dal novero delle fortificazioni del Regno di dodici opere del corpo d'armata di Alessandria. (031U0669)"
+urn: urn:nir:stato:regio.decreto:1931-04-23;669
+codice_redazionale: 031U0669
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 aprile 1931 n. 669
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Radiazione dal novero delle fortificazioni del Regno di dodici opere del corpo d'armata di Alessandria. (031U0669)
-------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/07/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

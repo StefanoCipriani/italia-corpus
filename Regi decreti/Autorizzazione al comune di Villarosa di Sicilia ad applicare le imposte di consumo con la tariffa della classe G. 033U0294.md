@@ -1,15 +1,13 @@
-REGIO DECRETO 23 marzo 1933 n. 294
+---
+tipo: REGIO DECRETO
+numero: 294
+data: 1933-03-23
+titolo: "Autorizzazione al comune di Villarosa di Sicilia ad applicare le imposte di consumo con la tariffa della classe G. (033U0294)"
+urn: urn:nir:stato:regio.decreto:1933-03-23;294
+codice_redazionale: 033U0294
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 marzo 1933 n. 294
-==================================
-
-Autorizzazione al comune di Villarosa di Sicilia ad applicare le imposte di consumo con la tariffa della classe G. (033U0294)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,16 +1,14 @@
-REGIO DECRETO 16 marzo 1893 n. CLV
-
-
-REGIO DECRETO 16 marzo 1893 n. CLV
-==================================
-
-Che erige in ente morale il legato Alfonsi in Sezze (Roma) e ne concentra l'amministrazione nella locale congregazione di carita'. (9300155R)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1893
+---
+tipo: REGIO DECRETO
+numero: CLV
+data: 1893-03-16
+titolo: "Che erige in ente morale il legato Alfonsi in Sezze (Roma) e ne concentra l'amministrazione nella locale congregazione di carita'. (9300155R)"
+urn: urn:nir:stato:regio.decreto:1893-03-16;155
+codice_redazionale: 9300155R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Viste le deliberazioni della congregazione di carita' e del consiglio comunale d
 
 Visto il voto favorevole della giunta provinciale amministrativa di Roma;
 
-Veduta la [legge del 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Veduta la [legge del 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il predetto legato Alfonsi e' eretto in ente morale e concentrato nella congregazione di carita' di Sezze, e nel contempo sono modificate le sue tavole di fondazione nel senso sopra mentovato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 marzo 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 23 marzo 1893.   
-  
-Reg. 190. Atti del Governo a f. 243. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
+Il predetto legato Alfonsi e' eretto in ente morale e concentrato nella congregazione di carita' di Sezze, e nel contempo sono modificate le sue tavole di fondazione nel senso sopra mentovato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 marzo 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 23 marzo 1893. 
+ 
+ Reg. 190. Atti del Governo a f. 243. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

@@ -1,31 +1,21 @@
-REGIO DECRETO 29 dicembre 1932 n. 1993
+---
+tipo: REGIO DECRETO
+numero: 1993
+data: 1932-12-29
+titolo: "Tributo delle popolazioni eritree per l'esercizio finanziario, 1932-33. (032U1993)"
+urn: urn:nir:stato:regio.decreto:1932-12-29;1993
+codice_redazionale: 032U1993
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 dicembre 1932 n. 1993
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Tributo delle popolazioni eritree per l'esercizio finanziario, 1932-33. (032U1993)
-----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/03/1933
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

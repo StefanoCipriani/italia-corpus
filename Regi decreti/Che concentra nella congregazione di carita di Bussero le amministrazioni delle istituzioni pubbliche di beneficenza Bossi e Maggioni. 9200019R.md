@@ -1,16 +1,14 @@
-REGIO DECRETO 17 gennaio 1892 n. XIX
-
-
-REGIO DECRETO 17 gennaio 1892 n. XIX
-====================================
-
-Che concentra nella congregazione di carita' di Bussero le amministrazioni delle istituzioni pubbliche di beneficenza Bossi e Maggioni. (9200019R)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/02/1892
+---
+tipo: REGIO DECRETO
+numero: XIX
+data: 1892-01-17
+titolo: "Che concentra nella congregazione di carita' di Bussero le amministrazioni delle istituzioni pubbliche di beneficenza Bossi e Maggioni. (9200019R)"
+urn: urn:nir:stato:regio.decreto:1892-01-17;19
+codice_redazionale: 9200019R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,32 +22,26 @@ Vedute le deliberazioni 5 agosto 1891 della congregazione di carita' e 4 settemb
 
 Veduto il voto favorevole della giunta provinciale amministrativa di Milano;
 
-Veduta la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Veduta la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Udito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le amministrazioni delle suindicate istituzioni pubbliche di beneficenza Bossi e Maggioni sono concentrate nella congregazione di carita' di Bussero.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 gennaio 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 30 gennaio 1892.   
-  
-Reg. 183. Atti del Governo a f. 99. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Nicotera.   
+Le amministrazioni delle suindicate istituzioni pubbliche di beneficenza Bossi e Maggioni sono concentrate nella congregazione di carita' di Bussero. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 gennaio 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 30 gennaio 1892. 
+ 
+ Reg. 183. Atti del Governo a f. 99. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Nicotera.

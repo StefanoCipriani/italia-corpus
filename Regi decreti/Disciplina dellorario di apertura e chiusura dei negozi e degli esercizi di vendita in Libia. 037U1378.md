@@ -1,20 +1,17 @@
-REGIO DECRETO 25 giugno 1937 n. 1378
+---
+tipo: REGIO DECRETO
+numero: 1378
+data: 1937-06-25
+titolo: "Disciplina dell'orario di apertura e chiusura dei negozi e degli esercizi di vendita in Libia. (037U1378)"
+urn: urn:nir:stato:regio.decreto:1937-06-25;1378
+codice_redazionale: 037U1378
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1937 n. 1378
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Disciplina dell'orario di apertura e chiusura dei negozi e degli esercizi di vendita in Libia. (037U1378)
----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

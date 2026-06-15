@@ -1,15 +1,13 @@
-REGIO DECRETO 07 maggio 1936 n. 1022
+---
+tipo: REGIO DECRETO
+numero: 1022
+data: 1936-05-07
+titolo: "Erezione in ente morale della Regia scuola d'arte «Mario dei Fiori» con sede in Penne. (036U1022)"
+urn: urn:nir:stato:regio.decreto:1936-05-07;1022
+codice_redazionale: 036U1022
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 maggio 1936 n. 1022
-====================================
-
-Erezione in ente morale della Regia scuola d'arte «Mario dei Fiori» con sede in Penne. (036U1022)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

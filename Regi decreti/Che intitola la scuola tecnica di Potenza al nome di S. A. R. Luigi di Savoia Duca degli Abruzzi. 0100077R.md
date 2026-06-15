@@ -1,16 +1,14 @@
-REGIO DECRETO 10 marzo 1901 n. LXXVII
-
-
-REGIO DECRETO 10 marzo 1901 n. LXXVII
-=====================================
-
-Che intitola la scuola tecnica di Potenza al nome di S. A. R. Luigi di Savoia Duca degli Abruzzi. (0100077R)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1901
+---
+tipo: REGIO DECRETO
+numero: LXXVII
+data: 1901-03-10
+titolo: "Che intitola la scuola tecnica di Potenza al nome di S. A. R. Luigi di Savoia Duca degli Abruzzi. (0100077R)"
+urn: urn:nir:stato:regio.decreto:1901-03-10;77
+codice_redazionale: 0100077R
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,23 @@ Vista la proposta del consiglio dei professori della regia scuola tecnica di Pot
 
 Viste le deliberazioni del consiglio comunale e del consiglio scolastico provinciale di Potenza;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La regia scuola tecnica di Potenza e' intitolata al nome di S. A.  
-R. Luigi di Savoia Duca degli Abruzzi.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato sia inserto della raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservalo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 marzo 1901.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 marzo 1901.   
-  
-Reg. 228. Atti del Governo a f. 18. F. Rostagno.   
-  
-Luogo del Sigillo. V. Il Guardasigilli F. COCCO-ORTU.   
-  
-N. Nasi.   
+La regia scuola tecnica di Potenza e' intitolata al nome di S. A.
+R. Luigi di Savoia Duca degli Abruzzi. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato sia inserto della raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservalo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 marzo 1901. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 marzo 1901. 
+ 
+ Reg. 228. Atti del Governo a f. 18. F. Rostagno. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli F. COCCO-ORTU. 
+ 
+ N. Nasi.

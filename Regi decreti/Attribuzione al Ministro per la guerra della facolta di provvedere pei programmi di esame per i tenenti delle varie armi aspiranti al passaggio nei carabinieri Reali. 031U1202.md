@@ -1,20 +1,17 @@
-REGIO DECRETO 28 agosto 1931 n. 1202
+---
+tipo: REGIO DECRETO
+numero: 1202
+data: 1931-08-28
+titolo: "Attribuzione al Ministro per la guerra della facolta' di provvedere pei programmi di esame per i tenenti delle varie armi aspiranti al passaggio nei carabinieri Reali. (031U1202)"
+urn: urn:nir:stato:regio.decreto:1931-08-28;1202
+codice_redazionale: 031U1202
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 agosto 1931 n. 1202
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Attribuzione al Ministro per la guerra della facolta' di provvedere pei programmi di esame per i tenenti delle varie armi aspiranti al passaggio nei carabinieri Reali. (031U1202)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/10/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 28 luglio 1932 n. 1115
+---
+tipo: REGIO DECRETO
+numero: 1115
+data: 1932-07-28
+titolo: "Riconoscimento della personalita' giuridica della Chiesa di S. Rocco, in Salandra. (032U1115)"
+urn: urn:nir:stato:regio.decreto:1932-07-28;1115
+codice_redazionale: 032U1115
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 luglio 1932 n. 1115
-====================================
-
-Riconoscimento della personalita' giuridica della Chiesa di S. Rocco, in Salandra. (032U1115)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

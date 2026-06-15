@@ -1,15 +1,13 @@
-REGIO DECRETO 02 gennaio 1942 n. 14
+---
+tipo: REGIO DECRETO
+numero: 14
+data: 1942-01-02
+titolo: "Collocamento nell'ordine delle precedenze a Corte e nelle funzioni pubbliche del presidente, dei presidenti di sezione e dei membri della Commissione centrale per le imposte dirette. (042U0014)"
+urn: urn:nir:stato:regio.decreto:1942-01-02;14
+codice_redazionale: 042U0014
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 gennaio 1942 n. 14
-===================================
-
-Collocamento nell'ordine delle precedenze a Corte e nelle funzioni pubbliche del presidente, dei presidenti di sezione e dei membri della Commissione centrale per le imposte dirette. (042U0014)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

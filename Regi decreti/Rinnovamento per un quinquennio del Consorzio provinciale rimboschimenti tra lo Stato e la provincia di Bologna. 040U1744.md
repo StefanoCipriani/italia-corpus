@@ -1,20 +1,17 @@
-REGIO DECRETO 30 ottobre 1940 n. 1744
+---
+tipo: REGIO DECRETO
+numero: 1744
+data: 1940-10-30
+titolo: "Rinnovamento per un quinquennio del Consorzio provinciale rimboschimenti tra lo Stato e la provincia di Bologna. (040U1744)"
+urn: urn:nir:stato:regio.decreto:1940-10-30;1744
+codice_redazionale: 040U1744
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 ottobre 1940 n. 1744
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Rinnovamento per un quinquennio del Consorzio provinciale rimboschimenti tra lo Stato e la provincia di Bologna. (040U1744)
----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/01/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

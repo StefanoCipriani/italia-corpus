@@ -1,15 +1,13 @@
-REGIO DECRETO 21 settembre 1938 n. 1762
+---
+tipo: REGIO DECRETO
+numero: 1762
+data: 1938-09-21
+titolo: "Erezione in ente morale della Cassa scolastica del Regio istituto tecnico a indirizzo industriale «Archimede» di Catania. (038U1762)"
+urn: urn:nir:stato:regio.decreto:1938-09-21;1762
+codice_redazionale: 038U1762
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 settembre 1938 n. 1762
-=======================================
-
-Erezione in ente morale della Cassa scolastica del Regio istituto tecnico a indirizzo industriale «Archimede» di Catania. (038U1762)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/12/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

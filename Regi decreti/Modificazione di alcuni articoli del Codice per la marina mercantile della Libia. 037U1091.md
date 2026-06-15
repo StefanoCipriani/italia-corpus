@@ -1,25 +1,21 @@
-REGIO DECRETO 03 aprile 1937 n. 1091
+---
+tipo: REGIO DECRETO
+numero: 1091
+data: 1937-04-03
+titolo: "Modificazione di alcuni articoli del Codice per la marina mercantile della Libia. (037U1091)"
+urn: urn:nir:stato:regio.decreto:1937-04-03;1091
+codice_redazionale: 037U1091
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 aprile 1937 n. 1091
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione di alcuni articoli del Codice per la marina mercantile della Libia. (037U1091)
---------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/08/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

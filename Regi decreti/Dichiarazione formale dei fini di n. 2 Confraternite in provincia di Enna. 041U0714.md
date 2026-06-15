@@ -1,21 +1,21 @@
-REGIO DECRETO 21 giugno 1941 n. 714
+---
+tipo: REGIO DECRETO
+numero: 714
+data: 1941-06-21
+titolo: "Dichiarazione formale dei fini di n. 2 Confraternite in provincia di Enna. (041U0714)"
+urn: urn:nir:stato:regio.decreto:1941-06-21;714
+codice_redazionale: 041U0714
+vigente: true
+---
 
-
-REGIO DECRETO 21 giugno 1941 n. 714
-===================================
-
-Dichiarazione formale dei fini di n. 2 Confraternite in provincia di Enna. (041U0714)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1941
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-714. R. decreto 21 giugno 1941, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini di n. 2 Confraternite in provincia di Enna.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 26 luglio 1941-XIX
+714.
+
+R. decreto 21 giugno 1941, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini di n. 2 Confraternite in provincia di Enna. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 26 luglio 1941-XIX

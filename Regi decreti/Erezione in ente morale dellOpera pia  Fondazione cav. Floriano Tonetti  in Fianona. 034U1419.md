@@ -1,15 +1,13 @@
-REGIO DECRETO 28 giugno 1934 n. 1419
+---
+tipo: REGIO DECRETO
+numero: 1419
+data: 1934-06-28
+titolo: "Erezione in ente morale dell'Opera pia « Fondazione cav. Floriano Tonetti », in Fianona. (034U1419)"
+urn: urn:nir:stato:regio.decreto:1934-06-28;1419
+codice_redazionale: 034U1419
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1934 n. 1419
-====================================
-
-Erezione in ente morale dell'Opera pia « Fondazione cav. Floriano Tonetti », in Fianona. (034U1419)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

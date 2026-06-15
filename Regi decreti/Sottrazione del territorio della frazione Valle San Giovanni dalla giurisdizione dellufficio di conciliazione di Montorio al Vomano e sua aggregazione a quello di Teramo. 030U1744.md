@@ -1,20 +1,17 @@
-REGIO DECRETO 23 ottobre 1930 n. 1744
+---
+tipo: REGIO DECRETO
+numero: 1744
+data: 1930-10-23
+titolo: "Sottrazione del territorio della frazione Valle San Giovanni dalla giurisdizione dell'ufficio di conciliazione di Montorio al Vomano, e sua aggregazione a quello di Teramo. (030U1744)"
+urn: urn:nir:stato:regio.decreto:1930-10-23;1744
+codice_redazionale: 030U1744
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 ottobre 1930 n. 1744
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Sottrazione del territorio della frazione Valle San Giovanni dalla giurisdizione dell'ufficio di conciliazione di Montorio al Vomano, e sua aggregazione a quello di Teramo. (030U1744)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/01/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

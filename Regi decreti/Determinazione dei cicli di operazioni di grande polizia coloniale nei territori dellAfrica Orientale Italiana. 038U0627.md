@@ -1,20 +1,17 @@
-REGIO DECRETO 10 maggio 1938 n. 627
+---
+tipo: REGIO DECRETO
+numero: 627
+data: 1938-05-10
+titolo: "Determinazione dei cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana. (038U0627)"
+urn: urn:nir:stato:regio.decreto:1938-05-10;627
+codice_redazionale: 038U0627
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 maggio 1938 n. 627
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Determinazione dei cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana. (038U0627)
----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/06/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

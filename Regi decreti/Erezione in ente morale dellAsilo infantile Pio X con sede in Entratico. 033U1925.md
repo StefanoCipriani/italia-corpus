@@ -1,15 +1,13 @@
-REGIO DECRETO 09 novembre 1933 n. 1925
+---
+tipo: REGIO DECRETO
+numero: 1925
+data: 1933-11-09
+titolo: "Erezione in ente morale dell'Asilo infantile «Pio X», con sede in Entratico. (033U1925)"
+urn: urn:nir:stato:regio.decreto:1933-11-09;1925
+codice_redazionale: 033U1925
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 novembre 1933 n. 1925
-======================================
-
-Erezione in ente morale dell'Asilo infantile «Pio X», con sede in Entratico. (033U1925)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

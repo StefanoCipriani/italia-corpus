@@ -1,15 +1,13 @@
-REGIO DECRETO 14 marzo 1940 n. 270
+---
+tipo: REGIO DECRETO
+numero: 270
+data: 1940-03-14
+titolo: "Modificazioni allo statuto della Regia Deputazione per la storia di Malta. (040U0270)"
+urn: urn:nir:stato:regio.decreto:1940-03-14;270
+codice_redazionale: 040U0270
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 marzo 1940 n. 270
-==================================
-
-Modificazioni allo statuto della Regia Deputazione per la storia di Malta. (040U0270)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

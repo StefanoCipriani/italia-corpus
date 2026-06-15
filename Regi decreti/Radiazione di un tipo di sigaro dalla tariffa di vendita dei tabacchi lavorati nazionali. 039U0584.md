@@ -1,15 +1,13 @@
-REGIO DECRETO 27 marzo 1939 n. 584
+---
+tipo: REGIO DECRETO
+numero: 584
+data: 1939-03-27
+titolo: "Radiazione di un tipo di sigaro dalla tariffa di vendita dei tabacchi lavorati nazionali. (039U0584)"
+urn: urn:nir:stato:regio.decreto:1939-03-27;584
+codice_redazionale: 039U0584
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 marzo 1939 n. 584
-==================================
-
-Radiazione di un tipo di sigaro dalla tariffa di vendita dei tabacchi lavorati nazionali. (039U0584)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

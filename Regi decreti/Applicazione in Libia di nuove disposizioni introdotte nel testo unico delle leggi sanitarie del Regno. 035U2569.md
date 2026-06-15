@@ -1,25 +1,21 @@
-REGIO DECRETO 23 dicembre 1935 n. 2569
+---
+tipo: REGIO DECRETO
+numero: 2569
+data: 1935-12-23
+titolo: "Applicazione in Libia di nuove disposizioni introdotte nel testo unico delle leggi sanitarie del Regno. (035U2569)"
+urn: urn:nir:stato:regio.decreto:1935-12-23;2569
+codice_redazionale: 035U2569
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 dicembre 1935 n. 2569
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Applicazione in Libia di nuove disposizioni introdotte nel testo unico delle leggi sanitarie del Regno. (035U2569)
-------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 13/05/1936
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

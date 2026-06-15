@@ -1,15 +1,13 @@
-REGIO DECRETO 10 settembre 1936 n. 1817
+---
+tipo: REGIO DECRETO
+numero: 1817
+data: 1936-09-10
+titolo: "Sostituzione dell'art. 1 dello statuto della «Fondazione Generale Guglielmo Calderara». (036U1817)"
+urn: urn:nir:stato:regio.decreto:1936-09-10;1817
+codice_redazionale: 036U1817
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 settembre 1936 n. 1817
-=======================================
-
-Sostituzione dell'art. 1 dello statuto della «Fondazione Generale Guglielmo Calderara». (036U1817)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 17 novembre 1932 n. 2025
+---
+tipo: REGIO DECRETO
+numero: 2025
+data: 1932-11-17
+titolo: "Contributo dovuto dallo Stato al comune di Bari per la diretta amministrazione delle scuole elementari degli ex comuni di Carbonara di Bari e Ceglie del Campo. (032U2025)"
+urn: urn:nir:stato:regio.decreto:1932-11-17;2025
+codice_redazionale: 032U2025
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 novembre 1932 n. 2025
-======================================
-
-Contributo dovuto dallo Stato al comune di Bari per la diretta amministrazione delle scuole elementari degli ex comuni di Carbonara di Bari e Ceglie del Campo. (032U2025)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,15 +1,13 @@
-REGIO DECRETO 18 maggio 1933 n. 839
+---
+tipo: REGIO DECRETO
+numero: 839
+data: 1933-05-18
+titolo: "Contributo del Consiglio provinciale dell'economia corporativa in Reggio Emilia a favore della Regia scuola secondaria di avviamento professionale. (033U0839)"
+urn: urn:nir:stato:regio.decreto:1933-05-18;839
+codice_redazionale: 033U0839
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 maggio 1933 n. 839
-===================================
-
-Contributo del Consiglio provinciale dell'economia corporativa in Reggio Emilia a favore della Regia scuola secondaria di avviamento professionale. (033U0839)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

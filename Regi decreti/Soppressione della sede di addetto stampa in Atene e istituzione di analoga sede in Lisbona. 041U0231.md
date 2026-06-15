@@ -1,20 +1,17 @@
-REGIO DECRETO 14 febbraio 1941 n. 231
+---
+tipo: REGIO DECRETO
+numero: 231
+data: 1941-02-14
+titolo: "Soppressione della sede di addetto stampa in Atene e istituzione di analoga sede in Lisbona. (041U0231)"
+urn: urn:nir:stato:regio.decreto:1941-02-14;231
+codice_redazionale: 041U0231
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 febbraio 1941 n. 231
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Soppressione della sede di addetto stampa in Atene e istituzione di analoga sede in Lisbona. (041U0231)
--------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/04/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

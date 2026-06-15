@@ -1,15 +1,13 @@
-REGIO DECRETO 10 giugno 1939 n. 1387
+---
+tipo: REGIO DECRETO
+numero: 1387
+data: 1939-06-10
+titolo: "Erezione in ente morale della Fondazione «Contessa Giulia Baldelli ved. Tommasi», in Firenze. (039U1387)"
+urn: urn:nir:stato:regio.decreto:1939-06-10;1387
+codice_redazionale: 039U1387
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1939 n. 1387
-====================================
-
-Erezione in ente morale della Fondazione «Contessa Giulia Baldelli ved. Tommasi», in Firenze. (039U1387)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

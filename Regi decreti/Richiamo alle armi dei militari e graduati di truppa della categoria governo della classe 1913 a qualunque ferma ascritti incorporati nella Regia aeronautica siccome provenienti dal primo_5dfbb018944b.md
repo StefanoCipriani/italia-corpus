@@ -1,20 +1,17 @@
-REGIO DECRETO 26 settembre 1935 n. 1796
+---
+tipo: REGIO DECRETO
+numero: 1796
+data: 1935-09-26
+titolo: "Richiamo alle armi dei militari e graduati di truppa della categoria governo, della classe 1913, a qualunque ferma ascritti, incorporati nella Regia aeronautica siccome provenienti dal primo scaglione del contingente della leva di terra assegnato alla Regia aeronautica nell'anno 1934. (035U1796)"
+urn: urn:nir:stato:regio.decreto:1935-09-26;1796
+codice_redazionale: 035U1796
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1935 n. 1796
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi dei militari e graduati di truppa della categoria governo, della classe 1913, a qualunque ferma ascritti, incorporati nella Regia aeronautica siccome provenienti dal primo scaglione del contingente della leva di terra assegnato alla Regia aeronautica nell'anno 1934. (035U1796)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/11/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

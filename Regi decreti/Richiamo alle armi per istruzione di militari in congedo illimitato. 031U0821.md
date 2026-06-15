@@ -1,20 +1,17 @@
-REGIO DECRETO 08 giugno 1931 n. 821
+---
+tipo: REGIO DECRETO
+numero: 821
+data: 1931-06-08
+titolo: "Richiamo alle armi per istruzione di militari in congedo illimitato. (031U0821)"
+urn: urn:nir:stato:regio.decreto:1931-06-08;821
+codice_redazionale: 031U0821
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1931 n. 821
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi per istruzione di militari in congedo illimitato. (031U0821)
--------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 19/07/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

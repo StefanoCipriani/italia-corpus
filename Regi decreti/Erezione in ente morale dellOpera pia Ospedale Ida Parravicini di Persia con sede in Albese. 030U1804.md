@@ -1,15 +1,13 @@
-REGIO DECRETO 18 dicembre 1930 n. 1804
+---
+tipo: REGIO DECRETO
+numero: 1804
+data: 1930-12-18
+titolo: "Erezione in ente morale dell'Opera pia «Ospedale Ida Parravicini di Persia», con sede in Albese. (030U1804)"
+urn: urn:nir:stato:regio.decreto:1930-12-18;1804
+codice_redazionale: 030U1804
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 dicembre 1930 n. 1804
-======================================
-
-Erezione in ente morale dell'Opera pia «Ospedale Ida Parravicini di Persia», con sede in Albese. (030U1804)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

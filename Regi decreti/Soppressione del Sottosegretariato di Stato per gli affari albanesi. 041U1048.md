@@ -1,15 +1,13 @@
-REGIO DECRETO 03 agosto 1941 n. 1048
+---
+tipo: REGIO DECRETO
+numero: 1048
+data: 1941-08-03
+titolo: "Soppressione del Sottosegretariato di Stato per gli affari albanesi. (041U1048)"
+urn: urn:nir:stato:regio.decreto:1941-08-03;1048
+codice_redazionale: 041U1048
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 agosto 1941 n. 1048
-====================================
-
-Soppressione del Sottosegretariato di Stato per gli affari albanesi. (041U1048)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

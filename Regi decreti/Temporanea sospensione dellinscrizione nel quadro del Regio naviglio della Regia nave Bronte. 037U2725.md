@@ -1,15 +1,13 @@
-REGIO DECRETO 21 agosto 1937 n. 2725
+---
+tipo: REGIO DECRETO
+numero: 2725
+data: 1937-08-21
+titolo: "Temporanea sospensione dell'inscrizione nel quadro del Regio naviglio della Regia nave «Bronte». (037U2725)"
+urn: urn:nir:stato:regio.decreto:1937-08-21;2725
+codice_redazionale: 037U2725
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 agosto 1937 n. 2725
-====================================
-
-Temporanea sospensione dell'inscrizione nel quadro del Regio naviglio della Regia nave «Bronte». (037U2725)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/06/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

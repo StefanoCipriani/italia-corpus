@@ -1,20 +1,17 @@
-REGIO DECRETO 02 novembre 1933 n. 1599
+---
+tipo: REGIO DECRETO
+numero: 1599
+data: 1933-11-02
+titolo: "Autorizzazione al comune di Acquasanta ad applicare le imposte di consumo con la tariffa della classe G. (033U1599)"
+urn: urn:nir:stato:regio.decreto:1933-11-02;1599
+codice_redazionale: 033U1599
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 novembre 1933 n. 1599
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Autorizzazione al comune di Acquasanta ad applicare le imposte di consumo con la tariffa della classe G. (033U1599)
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/12/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

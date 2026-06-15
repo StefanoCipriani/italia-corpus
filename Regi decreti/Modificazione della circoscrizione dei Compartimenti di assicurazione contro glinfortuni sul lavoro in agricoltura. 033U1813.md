@@ -1,20 +1,17 @@
-REGIO DECRETO 21 dicembre 1933 n. 1813
+---
+tipo: REGIO DECRETO
+numero: 1813
+data: 1933-12-21
+titolo: "Modificazione della circoscrizione dei Compartimenti di assicurazione contro gl'infortuni sul lavoro in agricoltura. (033U1813)"
+urn: urn:nir:stato:regio.decreto:1933-12-21;1813
+codice_redazionale: 033U1813
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1933 n. 1813
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione della circoscrizione dei Compartimenti di assicurazione contro gl'infortuni sul lavoro in agricoltura. (033U1813)
--------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/01/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

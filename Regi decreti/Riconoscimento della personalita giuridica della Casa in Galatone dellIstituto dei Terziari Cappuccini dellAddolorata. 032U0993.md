@@ -1,19 +1,19 @@
-REGIO DECRETO 23 giugno 1932 n. 993
+---
+tipo: REGIO DECRETO
+numero: 993
+data: 1932-06-23
+titolo: "Riconoscimento della personalita' giuridica della Casa in Galatone dell'Istituto dei Terziari Cappuccini dell'Addolorata. (032U0993)"
+urn: urn:nir:stato:regio.decreto:1932-06-23;993
+codice_redazionale: 032U0993
+vigente: true
+---
 
-
-REGIO DECRETO 23 giugno 1932 n. 993
-===================================
-
-Riconoscimento della personalita' giuridica della Casa in Galatone dell'Istituto dei Terziari Cappuccini dell'Addolorata. (032U0993)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-993. R. decreto 23 giugno 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica della Casa in Galatone dell'Istituto dei Terziari Cappuccini dell'Addolorata.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X
+993.
+
+R. decreto 23 giugno 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica della Casa in Galatone dell'Istituto dei Terziari Cappuccini dell'Addolorata. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X

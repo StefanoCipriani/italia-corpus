@@ -1,30 +1,25 @@
-REGIO DECRETO 20 ottobre 1932 n. 1548
+---
+tipo: REGIO DECRETO
+numero: 1548
+data: 1932-10-20
+titolo: "Attribuzione all'Istituto nazionale di economia agraria e all'Istituto centrale di statistica del Regno di una parte del patrimonio della Fondazione per la sperimentazione e la ricerca agraria. (032U1548)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1548
+codice_redazionale: 032U1548
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1932 n. 1548
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Attribuzione all'Istituto nazionale di economia agraria e all'Istituto centrale di statistica del Regno di una parte del patrimonio della Fondazione per la sperimentazione e la ricerca agraria. (032U1548)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/12/1932
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

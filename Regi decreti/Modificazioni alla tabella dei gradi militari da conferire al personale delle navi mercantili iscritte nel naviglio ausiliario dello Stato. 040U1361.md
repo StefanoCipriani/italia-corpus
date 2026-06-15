@@ -1,16 +1,14 @@
-REGIO DECRETO 01 settembre 1940 n. 1361
-
-
-REGIO DECRETO 01 settembre 1940 n. 1361
-=======================================
-
-Modificazioni alla tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato. (040U1361)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1940
+---
+tipo: REGIO DECRETO
+numero: 1361
+data: 1940-09-01
+titolo: "Modificazioni alla tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato. (040U1361)"
+urn: urn:nir:stato:regio.decreto:1940-09-01;1361
+codice_redazionale: 040U1361
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,57 +22,51 @@ Visto il R. decreto-legge 15 febbraio 1937-XV, n. 748, sulla requisizione e nole
 
 Visto il R. decreto 22 novembre 1937-XVI, n. 2629, col quale e' stata approvata la tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, di concerto col Ministro per le comunicazioni; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, di concerto col Ministro per le comunicazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+La lettera g) - Servizi complementari - del numero 9 - Personale di bassa forza - della Tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato, approvata col R. decreto 22 novembre 1937-XVI, n. 2629, e' abrogata e sostituita dalla presente: 
+ 
+ 
 
-  
-  
-La lettera g) - Servizi complementari - del numero 9 - Personale di bassa forza - della Tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato, approvata col R. decreto 22 novembre 1937-XVI, n. 2629, e' abrogata e sostituita dalla presente:   
-  
-  
-  
-g) Servizi complementari (2).  
-/ 1° cambusiere  
-2° Capo furiere S. < 1° cuoco mense ufficiali  
-\ 1° cameriere  
-  
-Sottocapo furiere O. Amanuense  
-  
-/ Cambusiere  
-| Cuoco  
-| Capo panettiere  
-Sottocapo furiere S. < Capo dispensatore  
-| Capo macellaio  
-\ Guardarobiere  
-  
-/ Fornaio  
-| Panettiere  
-Furiere S. < Dispensiere  
-| Macellaio  
-| Cameriere  
-\ Barbiere  
-  
-/ Pasticciere  
-| Garzone  
-Marinaio < Piccolo di camera  
-| Guattero in cucina  
-\ Lavandaio  
-  
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 1° settembre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - HOST VENTURI   
-  
-Visto, il Guardasigilli: GRANDI   
-Registrato alla Corte dei conti, addi' 5 ottobre 1940-XVIII   
-Atti del Governo, registro 426, foglio n. 10 - MANCINI   
+ g) Servizi complementari (2).
+ / 1° cambusiere
+ 2° Capo furiere S. < 1° cuoco mense ufficiali
+ \ 1° cameriere
+
+ Sottocapo furiere O. Amanuense
+
+ / Cambusiere
+ | Cuoco
+ | Capo panettiere
+ Sottocapo furiere S. < Capo dispensatore
+ | Capo macellaio
+ \ Guardarobiere
+ 
+ / Fornaio
+ | Panettiere
+ Furiere S. < Dispensiere
+ | Macellaio
+ | Cameriere
+ \ Barbiere
+ 
+ / Pasticciere
+ | Garzone
+ Marinaio < Piccolo di camera
+ | Guattero in cucina
+ \ Lavandaio
+
+ 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 1° settembre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - HOST VENTURI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ Registrato alla Corte dei conti, addi' 5 ottobre 1940-XVIII 
+ Atti del Governo, registro 426, foglio n. 10 - MANCINI

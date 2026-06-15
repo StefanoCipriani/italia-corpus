@@ -1,20 +1,17 @@
-REGIO DECRETO 13 luglio 1933 n. 981
+---
+tipo: REGIO DECRETO
+numero: 981
+data: 1933-07-13
+titolo: "Scioglimento del Consiglio di amministrazione dell'Istituto autonomo per le case popolari di Lucca e nomina del commissario Regio. (033U0981)"
+urn: urn:nir:stato:regio.decreto:1933-07-13;981
+codice_redazionale: 033U0981
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1933 n. 981
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Scioglimento del Consiglio di amministrazione dell'Istituto autonomo per le case popolari di Lucca e nomina del commissario Regio. (033U0981)
----------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/08/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

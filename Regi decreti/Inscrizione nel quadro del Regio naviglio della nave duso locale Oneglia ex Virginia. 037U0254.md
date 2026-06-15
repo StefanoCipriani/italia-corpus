@@ -1,15 +1,13 @@
-REGIO DECRETO 15 febbraio 1937 n. 254
+---
+tipo: REGIO DECRETO
+numero: 254
+data: 1937-02-15
+titolo: "Inscrizione nel quadro del Regio naviglio della nave d'uso locale «Oneglia», ex «Virginia». (037U0254)"
+urn: urn:nir:stato:regio.decreto:1937-02-15;254
+codice_redazionale: 037U0254
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 febbraio 1937 n. 254
-=====================================
-
-Inscrizione nel quadro del Regio naviglio della nave d'uso locale «Oneglia», ex «Virginia». (037U0254)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

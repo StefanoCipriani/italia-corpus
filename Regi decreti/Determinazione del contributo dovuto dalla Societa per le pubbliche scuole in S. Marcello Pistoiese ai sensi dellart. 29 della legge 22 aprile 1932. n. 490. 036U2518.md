@@ -1,20 +1,17 @@
-REGIO DECRETO 17 dicembre 1936 n. 2518
+---
+tipo: REGIO DECRETO
+numero: 2518
+data: 1936-12-17
+titolo: "Determinazione del contributo dovuto dalla Societa' per le pubbliche scuole in S. Marcello Pistoiese ai sensi dell'art. 29 della legge 22 aprile 1932. n. 490. (036U2518)"
+urn: urn:nir:stato:regio.decreto:1936-12-17;2518
+codice_redazionale: 036U2518
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 dicembre 1936 n. 2518
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Determinazione del contributo dovuto dalla Societa' per le pubbliche scuole in S. Marcello Pistoiese ai sensi dell'art. 29 della legge 22 aprile 1932. n. 490. (036U2518)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/07/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

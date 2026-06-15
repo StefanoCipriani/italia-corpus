@@ -1,15 +1,13 @@
-REGIO DECRETO 04 marzo 1940 n. 381
+---
+tipo: REGIO DECRETO
+numero: 381
+data: 1940-03-04
+titolo: "Istituzione, alle dipendenze del Ministero degli affari esteri, di tre posti di agente per la tutela del traffico marittimo. (040U0381)"
+urn: urn:nir:stato:regio.decreto:1940-03-04;381
+codice_redazionale: 040U0381
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 marzo 1940 n. 381
-==================================
-
-Istituzione, alle dipendenze del Ministero degli affari esteri, di tre posti di agente per la tutela del traffico marittimo. (040U0381)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

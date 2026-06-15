@@ -1,15 +1,13 @@
-REGIO DECRETO 04 dicembre 1933 n. 1834
+---
+tipo: REGIO DECRETO
+numero: 1834
+data: 1933-12-04
+titolo: "Descrizione tecnica dei francobolli emessi in occasione della Crociera Zeppelin nel Regno, nelle Isole dell'Egeo e nella Tripolitania. (033U1834)"
+urn: urn:nir:stato:regio.decreto:1933-12-04;1834
+codice_redazionale: 033U1834
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1933 n. 1834
-======================================
-
-Descrizione tecnica dei francobolli emessi in occasione della Crociera Zeppelin nel Regno, nelle Isole dell'Egeo e nella Tripolitania. (033U1834)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

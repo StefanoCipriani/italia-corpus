@@ -1,21 +1,19 @@
-REGIO DECRETO 08 maggio 1933 n. 586
+---
+tipo: REGIO DECRETO
+numero: 586
+data: 1933-05-08
+titolo: "Riconoscimento della personalita' giuridica della Chiesa ex conventuale di S. Chiara in Adrano. (033U0586)"
+urn: urn:nir:stato:regio.decreto:1933-05-08;586
+codice_redazionale: 033U0586
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 maggio 1933 n. 586
-===================================
-
-Riconoscimento della personalita' giuridica della Chiesa ex conventuale di S. Chiara in Adrano. (033U0586)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1933
-
-Art. 1
-------
-
- N. 586 - R. decreto 8 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' stata riconosciuta la personalita' giuridica della Chiesa ex conventuale di S. Chiara in Adrano.   
-  
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-  
-Registrato alla Corte dei conti, addi' 30 maggio 1933 - Anno XI   
+N. 586 - R. decreto 8 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' stata riconosciuta la personalita' giuridica della Chiesa ex conventuale di S. Chiara in Adrano. 
+ 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ 
+ Registrato alla Corte dei conti, addi' 30 maggio 1933 - Anno XI

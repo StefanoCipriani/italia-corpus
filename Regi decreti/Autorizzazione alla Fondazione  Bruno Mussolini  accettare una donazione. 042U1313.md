@@ -1,15 +1,13 @@
-REGIO DECRETO 12 settembre 1942 n. 1313
+---
+tipo: REGIO DECRETO
+numero: 1313
+data: 1942-09-12
+titolo: "Autorizzazione alla Fondazione « Bruno Mussolini » accettare una donazione. (042U1313)"
+urn: urn:nir:stato:regio.decreto:1942-09-12;1313
+codice_redazionale: 042U1313
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 settembre 1942 n. 1313
-=======================================
-
-Autorizzazione alla Fondazione « Bruno Mussolini » accettare una donazione. (042U1313)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

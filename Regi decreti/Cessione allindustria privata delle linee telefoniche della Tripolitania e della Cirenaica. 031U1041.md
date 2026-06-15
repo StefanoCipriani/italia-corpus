@@ -1,20 +1,17 @@
-REGIO DECRETO 18 giugno 1931 n. 1041
+---
+tipo: REGIO DECRETO
+numero: 1041
+data: 1931-06-18
+titolo: "Cessione all'industria privata delle linee telefoniche della Tripolitania e della Cirenaica. (031U1041)"
+urn: urn:nir:stato:regio.decreto:1931-06-18;1041
+codice_redazionale: 031U1041
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1931 n. 1041
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Cessione all'industria privata delle linee telefoniche della Tripolitania e della Cirenaica. (031U1041)
--------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/09/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

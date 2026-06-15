@@ -1,15 +1,13 @@
-REGIO DECRETO 24 luglio 1936 n. 1562
+---
+tipo: REGIO DECRETO
+numero: 1562
+data: 1936-07-24
+titolo: "Proroga dei poteri conferiti al commissario della Camera di commercio coloniale italiana. (036U1562)"
+urn: urn:nir:stato:regio.decreto:1936-07-24;1562
+codice_redazionale: 036U1562
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1936 n. 1562
-====================================
-
-Proroga dei poteri conferiti al commissario della Camera di commercio coloniale italiana. (036U1562)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

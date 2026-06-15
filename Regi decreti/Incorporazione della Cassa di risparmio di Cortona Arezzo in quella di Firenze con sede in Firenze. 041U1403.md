@@ -1,15 +1,13 @@
-REGIO DECRETO 11 dicembre 1941 n. 1403
+---
+tipo: REGIO DECRETO
+numero: 1403
+data: 1941-12-11
+titolo: "Incorporazione della Cassa di risparmio di Cortona (Arezzo) in quella di Firenze con sede in Firenze. (041U1403)"
+urn: urn:nir:stato:regio.decreto:1941-12-11;1403
+codice_redazionale: 041U1403
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1941 n. 1403
-======================================
-
-Incorporazione della Cassa di risparmio di Cortona (Arezzo) in quella di Firenze con sede in Firenze. (041U1403)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

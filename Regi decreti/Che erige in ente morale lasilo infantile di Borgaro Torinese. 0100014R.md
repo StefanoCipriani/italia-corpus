@@ -1,20 +1,17 @@
-REGIO DECRETO 20 gennaio 1901 n. XIV
+---
+tipo: REGIO DECRETO
+numero: XIV
+data: 1901-01-20
+titolo: "Che erige in ente morale l'asilo infantile di Borgaro Torinese. (0100014R)"
+urn: urn:nir:stato:regio.decreto:1901-01-20;14
+codice_redazionale: 0100014R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1901 n. XIV
-====================================
-
-Che erige in ente morale l'asilo infantile di Borgaro Torinese. (0100014R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1901
-
-Art. 1
-------
-
-  
-Con cui l'asilo infantile di Borgaro Torinese viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato G. Saracco - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 31 gennaio 1901.   
-  
-Reg. 227. Atti del Governo a f. 78.   
+Con cui l'asilo infantile di Borgaro Torinese viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato G. Saracco - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 31 gennaio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 78.

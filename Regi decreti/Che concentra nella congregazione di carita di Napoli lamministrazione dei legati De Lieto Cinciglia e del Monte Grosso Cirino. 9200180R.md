@@ -1,16 +1,14 @@
-REGIO DECRETO 31 marzo 1892 n. CLXXX
-
-
-REGIO DECRETO 31 marzo 1892 n. CLXXX
-====================================
-
-Che concentra nella congregazione di carita' di Napoli l'amministrazione dei legati De Lieto, Cinciglia e del Monte Grosso Cirino. (9200180R)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1892
+---
+tipo: REGIO DECRETO
+numero: CLXXX
+data: 1892-03-31
+titolo: "Che concentra nella congregazione di carita' di Napoli l'amministrazione dei legati De Lieto, Cinciglia e del Monte Grosso Cirino. (9200180R)"
+urn: urn:nir:stato:regio.decreto:1892-03-31;180
+codice_redazionale: 9200180R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,26 @@ Vedute le deliberazioni 30 ottobre e 5 novembre 1891 prese in via d'urgenza dal 
 
 Vedute le deliberazioni adesive della giunta provinciale amministrativa;
 
-Veduta la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), ed il relativo regolamento;
+Veduta la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), ed il relativo regolamento;
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'amministrazione del legato De Lieto, del legato Cinciglia e del Monte Grosso Cirino (quest'ultimo per la sola parte concernente i maritaggi) e' concentrata nella congregazione di carita' di Napoli, con obbligo alla stessa di provvedere in breve termine all'adempimento delle disposizioni portate dagli art. 55 e 93 della precitata legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 marzo 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 12 aprile 1892.   
-  
-Reg. 184. Atti del Governo a f. 148. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Nicotera.   
+L'amministrazione del legato De Lieto, del legato Cinciglia e del Monte Grosso Cirino (quest'ultimo per la sola parte concernente i maritaggi) e' concentrata nella congregazione di carita' di Napoli, con obbligo alla stessa di provvedere in breve termine all'adempimento delle disposizioni portate dagli art. 55 e 93 della precitata legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 marzo 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 12 aprile 1892. 
+ 
+ Reg. 184. Atti del Governo a f. 148. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Nicotera.

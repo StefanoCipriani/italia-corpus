@@ -1,25 +1,21 @@
-REGIO DECRETO 29 dicembre 1932 n. 1962
+---
+tipo: REGIO DECRETO
+numero: 1962
+data: 1932-12-29
+titolo: "Prezzo di vendita al pubblico dei tabacchi lavorati di marca estera e di produzione locale nella Somalia Italiana. (032U1962)"
+urn: urn:nir:stato:regio.decreto:1932-12-29;1962
+codice_redazionale: 032U1962
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 dicembre 1932 n. 1962
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Prezzo di vendita al pubblico dei tabacchi lavorati di marca estera e di produzione locale nella Somalia Italiana. (032U1962)
------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/02/1933
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

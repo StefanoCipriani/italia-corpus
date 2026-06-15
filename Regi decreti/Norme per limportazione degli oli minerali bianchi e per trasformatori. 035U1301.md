@@ -1,20 +1,17 @@
-REGIO DECRETO 27 maggio 1935 n. 1301
+---
+tipo: REGIO DECRETO
+numero: 1301
+data: 1935-05-27
+titolo: "Norme per l'importazione degli oli minerali bianchi e per trasformatori. (035U1301)"
+urn: urn:nir:stato:regio.decreto:1935-05-27;1301
+codice_redazionale: 035U1301
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 maggio 1935 n. 1301
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Norme per l'importazione degli oli minerali bianchi e per trasformatori. (035U1301)
------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/08/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

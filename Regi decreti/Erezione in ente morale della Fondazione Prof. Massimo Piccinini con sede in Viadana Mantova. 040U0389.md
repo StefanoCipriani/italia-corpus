@@ -1,15 +1,13 @@
-REGIO DECRETO 20 marzo 1940 n. 389
+---
+tipo: REGIO DECRETO
+numero: 389
+data: 1940-03-20
+titolo: "Erezione in ente morale della Fondazione «Prof. Massimo Piccinini», con sede in Viadana (Mantova). (040U0389)"
+urn: urn:nir:stato:regio.decreto:1940-03-20;389
+codice_redazionale: 040U0389
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1940 n. 389
-==================================
-
-Erezione in ente morale della Fondazione «Prof. Massimo Piccinini», con sede in Viadana (Mantova). (040U0389)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/06/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,21 +1,21 @@
-REGIO DECRETO 02 novembre 1933 n. 1627
+---
+tipo: REGIO DECRETO
+numero: 1627
+data: 1933-11-02
+titolo: "Riconoscimento della personalita' giuridica della Congregazione del Buon Pastore, in Milano. (033U1627)"
+urn: urn:nir:stato:regio.decreto:1933-11-02;1627
+codice_redazionale: 033U1627
+vigente: true
+---
 
-
-REGIO DECRETO 02 novembre 1933 n. 1627
-======================================
-
-Riconoscimento della personalita' giuridica della Congregazione del Buon Pastore, in Milano. (033U1627)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1627. R. decreto 2 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Congregazione del Buon Pastore, in Milano, e viene autorizzato il trasferimento alla stessa degli immobili in suo possesso da epoca anteriore al Concordato, attualmente intestati a terzi.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 2 dicembre 1933 - Anno XII
+1627.
+
+R. decreto 2 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Congregazione del Buon Pastore, in Milano, e viene autorizzato il trasferimento alla stessa degli immobili in suo possesso da epoca anteriore al Concordato, attualmente intestati a terzi. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 2 dicembre 1933 - Anno XII

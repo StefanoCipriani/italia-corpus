@@ -1,15 +1,13 @@
-REGIO DECRETO 11 dicembre 1939 n. 2060
+---
+tipo: REGIO DECRETO
+numero: 2060
+data: 1939-12-11
+titolo: "Autorizzazione alla Regia universita' di Roma ad accettare due donazioni. (039U2060)"
+urn: urn:nir:stato:regio.decreto:1939-12-11;2060
+codice_redazionale: 039U2060
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1939 n. 2060
-======================================
-
-Autorizzazione alla Regia universita' di Roma ad accettare due donazioni. (039U2060)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

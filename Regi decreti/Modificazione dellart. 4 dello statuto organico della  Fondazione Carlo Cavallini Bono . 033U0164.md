@@ -1,15 +1,13 @@
-REGIO DECRETO 06 febbraio 1933 n. 164
+---
+tipo: REGIO DECRETO
+numero: 164
+data: 1933-02-06
+titolo: "Modificazione dell'art. 4 dello statuto organico della « Fondazione Carlo Cavallini Bono ». (033U0164)"
+urn: urn:nir:stato:regio.decreto:1933-02-06;164
+codice_redazionale: 033U0164
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 febbraio 1933 n. 164
-=====================================
-
-Modificazione dell'art. 4 dello statuto organico della « Fondazione Carlo Cavallini Bono ». (033U0164)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

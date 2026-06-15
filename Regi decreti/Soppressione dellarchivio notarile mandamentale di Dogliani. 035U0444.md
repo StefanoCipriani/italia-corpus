@@ -1,15 +1,13 @@
-REGIO DECRETO 04 aprile 1935 n. 444
+---
+tipo: REGIO DECRETO
+numero: 444
+data: 1935-04-04
+titolo: "Soppressione dell'archivio notarile mandamentale di Dogliani. (035U0444)"
+urn: urn:nir:stato:regio.decreto:1935-04-04;444
+codice_redazionale: 035U0444
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 aprile 1935 n. 444
-===================================
-
-Soppressione dell'archivio notarile mandamentale di Dogliani. (035U0444)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

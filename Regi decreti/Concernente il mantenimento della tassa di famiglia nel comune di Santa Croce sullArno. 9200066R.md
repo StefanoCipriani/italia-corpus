@@ -1,16 +1,14 @@
-REGIO DECRETO 18 febbraio 1892 n. LXVI
-
-
-REGIO DECRETO 18 febbraio 1892 n. LXVI
-======================================
-
-Concernente il mantenimento della tassa di famiglia nel comune di Santa Croce sull'Arno. (9200066R)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1892
+---
+tipo: REGIO DECRETO
+numero: LXVI
+data: 1892-02-18
+titolo: "Concernente il mantenimento della tassa di famiglia nel comune di Santa Croce sull'Arno. (9200066R)"
+urn: urn:nir:stato:regio.decreto:1892-02-18;66
+codice_redazionale: 9200066R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Veduta la deliberazione del 30 dicembre successivo della giunta provinciale ammi
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del ministro delle finanze; Abbiamo decretato e decretiamo:
 
-proposta del ministro delle finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' al comune di Santa Croce sull'Arno di mantenere nel 1892 la tassa di famiglia col massimo di lire duecentosettantacinque (L. 275).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 febbraio 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 29 febbraio 1892.   
-  
-Reg. 183. Atti del Governo a f. 183. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Colombo.   
+E' data facolta' al comune di Santa Croce sull'Arno di mantenere nel 1892 la tassa di famiglia col massimo di lire duecentosettantacinque (L. 275). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 febbraio 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 29 febbraio 1892. 
+ 
+ Reg. 183. Atti del Governo a f. 183. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Colombo.

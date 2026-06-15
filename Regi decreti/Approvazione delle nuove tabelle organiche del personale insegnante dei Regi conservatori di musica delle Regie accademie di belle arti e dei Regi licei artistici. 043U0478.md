@@ -1,47 +1,33 @@
-REGIO DECRETO 22 aprile 1943 n. 478
+---
+tipo: REGIO DECRETO
+numero: 478
+data: 1943-04-22
+titolo: "Approvazione delle nuove tabelle organiche del personale insegnante dei Regi conservatori di musica, delle Regie accademie di belle arti e dei Regi licei artistici. (043U0478)"
+urn: urn:nir:stato:regio.decreto:1943-04-22;478
+codice_redazionale: 043U0478
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1943 n. 478
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Approvazione delle nuove tabelle organiche del personale insegnante dei Regi conservatori di musica, delle Regie accademie di belle arti e dei Regi licei artistici. (043U0478)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/07/1943
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Allegato-Tabelle
-
- Tabelle   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

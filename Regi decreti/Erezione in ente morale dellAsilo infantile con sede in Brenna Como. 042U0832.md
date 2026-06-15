@@ -1,21 +1,21 @@
-REGIO DECRETO 23 aprile 1942 n. 832
+---
+tipo: REGIO DECRETO
+numero: 832
+data: 1942-04-23
+titolo: "Erezione in ente morale dell'Asilo infantile, con sede in Brenna (Como). (042U0832)"
+urn: urn:nir:stato:regio.decreto:1942-04-23;832
+codice_redazionale: 042U0832
+vigente: true
+---
 
-
-REGIO DECRETO 23 aprile 1942 n. 832
-===================================
-
-Erezione in ente morale dell'Asilo infantile, con sede in Brenna (Como). (042U0832)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-832. R. decreto 23 aprile 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Asilo infantile, con sede in Brenna (Como), viene eretto in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei enti, addi' 28 luglio 1942-XX
+832.
+
+R. decreto 23 aprile 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Asilo infantile, con sede in Brenna (Como), viene eretto in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei enti, addi' 28 luglio 1942-XX

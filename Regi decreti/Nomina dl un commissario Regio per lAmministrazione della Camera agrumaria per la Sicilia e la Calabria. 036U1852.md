@@ -1,25 +1,21 @@
-REGIO DECRETO 17 settembre 1936 n. 1852
+---
+tipo: REGIO DECRETO
+numero: 1852
+data: 1936-09-17
+titolo: "Nomina dl un commissario Regio per l'Amministrazione della Camera agrumaria per la Sicilia e la Calabria. (036U1852)"
+urn: urn:nir:stato:regio.decreto:1936-09-17;1852
+codice_redazionale: 036U1852
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 settembre 1936 n. 1852
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Nomina dl un commissario Regio per l'Amministrazione della Camera agrumaria per la Sicilia e la Calabria. (036U1852)
---------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 11/11/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

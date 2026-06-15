@@ -1,15 +1,13 @@
-REGIO DECRETO 18 giugno 1931 n. 911
+---
+tipo: REGIO DECRETO
+numero: 911
+data: 1931-06-18
+titolo: "Modificazione dello statuto della Cassa di risparmio della provincia di Macerata. (031U0911)"
+urn: urn:nir:stato:regio.decreto:1931-06-18;911
+codice_redazionale: 031U0911
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1931 n. 911
-===================================
-
-Modificazione dello statuto della Cassa di risparmio della provincia di Macerata. (031U0911)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/08/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

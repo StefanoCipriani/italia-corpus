@@ -1,20 +1,17 @@
-REGIO DECRETO 06 giugno 1940 n. 964
+---
+tipo: REGIO DECRETO
+numero: 964
+data: 1940-06-06
+titolo: "Collocamento fuori ruolo di un funzionario Civile dell'Amministrazione centrale della guerra, destinato a prestare servizio presso il Comando generale della M.V.S.N. (040U0964)"
+urn: urn:nir:stato:regio.decreto:1940-06-06;964
+codice_redazionale: 040U0964
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1940 n. 964
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Collocamento fuori ruolo di un funzionario Civile dell'Amministrazione centrale della guerra, destinato a prestare servizio presso il Comando generale della M.V.S.N. (040U0964)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

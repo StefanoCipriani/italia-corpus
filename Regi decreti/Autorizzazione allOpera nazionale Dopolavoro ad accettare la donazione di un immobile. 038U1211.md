@@ -1,15 +1,13 @@
-REGIO DECRETO 16 giugno 1938 n. 1211
+---
+tipo: REGIO DECRETO
+numero: 1211
+data: 1938-06-16
+titolo: "Autorizzazione all'Opera nazionale Dopolavoro ad accettare la donazione di un immobile. (038U1211)"
+urn: urn:nir:stato:regio.decreto:1938-06-16;1211
+codice_redazionale: 038U1211
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1938 n. 1211
-====================================
-
-Autorizzazione all'Opera nazionale Dopolavoro ad accettare la donazione di un immobile. (038U1211)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

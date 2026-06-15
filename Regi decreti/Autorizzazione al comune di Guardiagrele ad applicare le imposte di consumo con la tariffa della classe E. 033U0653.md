@@ -1,20 +1,17 @@
-REGIO DECRETO 08 maggio 1933 n. 653
+---
+tipo: REGIO DECRETO
+numero: 653
+data: 1933-05-08
+titolo: "Autorizzazione al comune di Guardiagrele ad applicare le imposte di consumo con la tariffa della classe E. (033U0653)"
+urn: urn:nir:stato:regio.decreto:1933-05-08;653
+codice_redazionale: 033U0653
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 maggio 1933 n. 653
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Autorizzazione al comune di Guardiagrele ad applicare le imposte di consumo con la tariffa della classe E. (033U0653)
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 11/07/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

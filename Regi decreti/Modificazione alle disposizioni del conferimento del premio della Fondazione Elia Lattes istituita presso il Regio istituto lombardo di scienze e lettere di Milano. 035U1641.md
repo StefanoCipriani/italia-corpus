@@ -1,15 +1,13 @@
-REGIO DECRETO 26 luglio 1935 n. 1641
+---
+tipo: REGIO DECRETO
+numero: 1641
+data: 1935-07-26
+titolo: "Modificazione alle disposizioni del conferimento del premio della Fondazione «Elia Lattes» istituita presso il Regio istituto lombardo di scienze e lettere di Milano. (035U1641)"
+urn: urn:nir:stato:regio.decreto:1935-07-26;1641
+codice_redazionale: 035U1641
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 luglio 1935 n. 1641
-====================================
-
-Modificazione alle disposizioni del conferimento del premio della Fondazione «Elia Lattes» istituita presso il Regio istituto lombardo di scienze e lettere di Milano. (035U1641)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

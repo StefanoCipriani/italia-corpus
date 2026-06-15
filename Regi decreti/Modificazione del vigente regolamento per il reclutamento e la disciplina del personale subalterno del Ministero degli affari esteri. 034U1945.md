@@ -1,15 +1,13 @@
-REGIO DECRETO 03 dicembre 1934 n. 1945
+---
+tipo: REGIO DECRETO
+numero: 1945
+data: 1934-12-03
+titolo: "Modificazione del vigente regolamento per il reclutamento e la disciplina del personale subalterno del Ministero degli affari esteri. (034U1945)"
+urn: urn:nir:stato:regio.decreto:1934-12-03;1945
+codice_redazionale: 034U1945
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 dicembre 1934 n. 1945
-======================================
-
-Modificazione del vigente regolamento per il reclutamento e la disciplina del personale subalterno del Ministero degli affari esteri. (034U1945)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

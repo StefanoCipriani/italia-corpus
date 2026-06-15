@@ -1,15 +1,13 @@
-REGIO DECRETO 12 ottobre 1939 n. 1685
+---
+tipo: REGIO DECRETO
+numero: 1685
+data: 1939-10-12
+titolo: "Revoca di dichiarazione di zona malarica del comune di Montalcino (Siena). (039U1685)"
+urn: urn:nir:stato:regio.decreto:1939-10-12;1685
+codice_redazionale: 039U1685
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 ottobre 1939 n. 1685
-=====================================
-
-Revoca di dichiarazione di zona malarica del comune di Montalcino (Siena). (039U1685)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

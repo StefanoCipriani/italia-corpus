@@ -1,21 +1,21 @@
-REGIO DECRETO 22 maggio 1939 n. 1237
+---
+tipo: REGIO DECRETO
+numero: 1237
+data: 1939-05-22
+titolo: "Dichiarazione formale, dei fini della Confraternita di Maria SS.ma del Pianto, in Selci di San Giustino (Perugia). (039U1237)"
+urn: urn:nir:stato:regio.decreto:1939-05-22;1237
+codice_redazionale: 039U1237
+vigente: true
+---
 
-
-REGIO DECRETO 22 maggio 1939 n. 1237
-====================================
-
-Dichiarazione formale, dei fini della Confraternita di Maria SS.ma del Pianto, in Selci di San Giustino (Perugia). (039U1237)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/09/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1237. R. decreto 22 maggio 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita di Maria SS.ma del Pianto, in Selci di San Giustino (Perugia).   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 8 luglio 1939-XVII
+1237.
+
+R. decreto 22 maggio 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita di Maria SS.ma del Pianto, in Selci di San Giustino (Perugia). 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 8 luglio 1939-XVII

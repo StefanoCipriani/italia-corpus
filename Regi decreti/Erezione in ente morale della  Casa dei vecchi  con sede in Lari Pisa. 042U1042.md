@@ -1,15 +1,13 @@
-REGIO DECRETO 28 maggio 1942 n. 1042
+---
+tipo: REGIO DECRETO
+numero: 1042
+data: 1942-05-28
+titolo: "Erezione in ente morale della « Casa dei vecchi », con sede in Lari (Pisa). (042U1042)"
+urn: urn:nir:stato:regio.decreto:1942-05-28;1042
+codice_redazionale: 042U1042
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 maggio 1942 n. 1042
-====================================
-
-Erezione in ente morale della « Casa dei vecchi », con sede in Lari (Pisa). (042U1042)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

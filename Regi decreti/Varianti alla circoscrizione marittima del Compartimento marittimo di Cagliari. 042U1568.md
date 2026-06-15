@@ -1,22 +1,13 @@
-REGIO DECRETO 31 ottobre 1942 n. 1568
+---
+tipo: REGIO DECRETO
+numero: 1568
+data: 1942-10-31
+titolo: "Varianti alla circoscrizione marittima del Compartimento marittimo di Cagliari. (042U1568)"
+urn: urn:nir:stato:regio.decreto:1942-10-31;1568
+codice_redazionale: 042U1568
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 ottobre 1942 n. 1568
-=====================================
-
-Varianti alla circoscrizione marittima del Compartimento marittimo di Cagliari. (042U1568)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabella
-
-Tabella   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

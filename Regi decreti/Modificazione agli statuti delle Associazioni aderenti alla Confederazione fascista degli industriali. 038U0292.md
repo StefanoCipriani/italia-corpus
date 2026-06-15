@@ -1,20 +1,17 @@
-REGIO DECRETO 01 marzo 1938 n. 292
+---
+tipo: REGIO DECRETO
+numero: 292
+data: 1938-03-01
+titolo: "Modificazione agli statuti delle Associazioni aderenti alla Confederazione fascista degli industriali. (038U0292)"
+urn: urn:nir:stato:regio.decreto:1938-03-01;292
+codice_redazionale: 038U0292
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 marzo 1938 n. 292
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazione agli statuti delle Associazioni aderenti alla Confederazione fascista degli industriali. (038U0292)
------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/04/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

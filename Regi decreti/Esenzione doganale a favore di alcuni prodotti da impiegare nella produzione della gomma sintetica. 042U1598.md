@@ -1,20 +1,17 @@
-REGIO DECRETO 31 ottobre 1942 n. 1598
+---
+tipo: REGIO DECRETO
+numero: 1598
+data: 1942-10-31
+titolo: "Esenzione doganale a favore di alcuni prodotti da impiegare nella produzione della gomma sintetica. (042U1598)"
+urn: urn:nir:stato:regio.decreto:1942-10-31;1598
+codice_redazionale: 042U1598
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 ottobre 1942 n. 1598
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Esenzione doganale a favore di alcuni prodotti da impiegare nella produzione della gomma sintetica. (042U1598)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

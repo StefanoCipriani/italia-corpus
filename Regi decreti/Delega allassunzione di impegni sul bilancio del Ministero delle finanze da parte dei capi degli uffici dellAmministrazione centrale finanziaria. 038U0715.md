@@ -1,25 +1,21 @@
-REGIO DECRETO 12 maggio 1938 n. 715
+---
+tipo: REGIO DECRETO
+numero: 715
+data: 1938-05-12
+titolo: "Delega all'assunzione di impegni sul bilancio del Ministero delle finanze da parte dei capi degli uffici dell'Amministrazione centrale finanziaria. (038U0715)"
+urn: urn:nir:stato:regio.decreto:1938-05-12;715
+codice_redazionale: 038U0715
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 maggio 1938 n. 715
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Delega all'assunzione di impegni sul bilancio del Ministero delle finanze da parte dei capi degli uffici dell'Amministrazione centrale finanziaria. (038U0715)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/06/1938
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

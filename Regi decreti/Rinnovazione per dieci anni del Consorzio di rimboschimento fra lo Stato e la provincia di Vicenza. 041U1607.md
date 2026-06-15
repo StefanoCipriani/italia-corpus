@@ -1,27 +1,17 @@
-REGIO DECRETO 20 novembre 1941 n. 1607
+---
+tipo: REGIO DECRETO
+numero: 1607
+data: 1941-11-20
+titolo: "Rinnovazione per dieci anni del Consorzio di rimboschimento fra lo Stato e la provincia di Vicenza. (041U1607)"
+urn: urn:nir:stato:regio.decreto:1941-11-20;1607
+codice_redazionale: 041U1607
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 novembre 1941 n. 1607
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Rinnovazione per dieci anni del Consorzio di rimboschimento fra lo Stato e la provincia di Vicenza. (041U1607)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Elenco
-
- Elenco   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,21 +1,21 @@
-REGIO DECRETO 28 settembre 1933 n. 1459
+---
+tipo: REGIO DECRETO
+numero: 1459
+data: 1933-09-28
+titolo: "Riconoscimento della personalita' giuridica dell'Istituto del Divino Amore con Casa generalizia in Roma. (033U1459)"
+urn: urn:nir:stato:regio.decreto:1933-09-28;1459
+codice_redazionale: 033U1459
+vigente: true
+---
 
-
-REGIO DECRETO 28 settembre 1933 n. 1459
-=======================================
-
-Riconoscimento della personalita' giuridica dell'Istituto del Divino Amore con Casa generalizia in Roma. (033U1459)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1459. R. decreto 28 settembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto del Divino Amore con Casa generalizia in Roma, alla via San Francesco di Sales, numero 27.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 25 ottobre 1933 - Anno XI
+1459.
+
+R. decreto 28 settembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto del Divino Amore con Casa generalizia in Roma, alla via San Francesco di Sales, numero 27. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 25 ottobre 1933 - Anno XI

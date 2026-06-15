@@ -1,20 +1,17 @@
-REGIO DECRETO 20 ottobre 1939 n. 1748
+---
+tipo: REGIO DECRETO
+numero: 1748
+data: 1939-10-20
+titolo: "Modificazioni alle circoscrizioni territoriali degli Uffici tecnici erariali. (039U1748)"
+urn: urn:nir:stato:regio.decreto:1939-10-20;1748
+codice_redazionale: 039U1748
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1939 n. 1748
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni alle circoscrizioni territoriali degli Uffici tecnici erariali. (039U1748)
-----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

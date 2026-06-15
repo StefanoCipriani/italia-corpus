@@ -1,26 +1,17 @@
-REGIO DECRETO 28 settembre 1934 n. 2097
+---
+tipo: REGIO DECRETO
+numero: 2097
+data: 1934-09-28
+titolo: "Approvazione degli Accordi postali firmati al Cairo il 20 marzo 1934, che rivedono gli analoghi Accordi stipulati a Londra il 28 giugno 1929. (034U2097)"
+urn: urn:nir:stato:regio.decreto:1934-09-28;2097
+codice_redazionale: 034U2097
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1934 n. 2097
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione degli Accordi postali firmati al Cairo il 20 marzo 1934, che rivedono gli analoghi Accordi stipulati a Londra il 28 giugno 1929. (034U2097)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/01/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Accordi
-
- Accordi   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,25 +1,21 @@
-REGIO DECRETO 02 febbraio 1933 n. 88
+---
+tipo: REGIO DECRETO
+numero: 88
+data: 1933-02-02
+titolo: "Modifiche al regolamento per la carriera degli impiegati dell'Amministrazione civile dell'interno. (033U0088)"
+urn: urn:nir:stato:regio.decreto:1933-02-02;88
+codice_redazionale: 033U0088
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 febbraio 1933 n. 88
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modifiche al regolamento per la carriera degli impiegati dell'Amministrazione civile dell'interno. (033U0088)
--------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/03/1933
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,25 +1,21 @@
-REGIO DECRETO 14 dicembre 1942 n. 1766
+---
+tipo: REGIO DECRETO
+numero: 1766
+data: 1942-12-14
+titolo: "Disposizioni per l'assegnazione in servizio presso la Giunta centrale per gli studi storici di professori dei Regi Istituti dell'ordine medio e superiore. (042U1766)"
+urn: urn:nir:stato:regio.decreto:1942-12-14;1766
+codice_redazionale: 042U1766
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 dicembre 1942 n. 1766
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Disposizioni per l'assegnazione in servizio presso la Giunta centrale per gli studi storici di professori dei Regi Istituti dell'ordine medio e superiore. (042U1766)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/02/1943
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

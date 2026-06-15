@@ -1,15 +1,13 @@
-REGIO DECRETO 16 marzo 1936 n. 490
+---
+tipo: REGIO DECRETO
+numero: 490
+data: 1936-03-16
+titolo: "Autorizzazione a prelevamenti dal fondo di riserva delle Aziende dei tabacchi, dei sali e del chinino, da versarsi all'Amministrazione dei monopoli di Stato. (036U0490)"
+urn: urn:nir:stato:regio.decreto:1936-03-16;490
+codice_redazionale: 036U0490
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 marzo 1936 n. 490
-==================================
-
-Autorizzazione a prelevamenti dal fondo di riserva delle Aziende dei tabacchi, dei sali e del chinino, da versarsi all'Amministrazione dei monopoli di Stato. (036U0490)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,15 +1,13 @@
-REGIO DECRETO 20 gennaio 1938 n. 346
+---
+tipo: REGIO DECRETO
+numero: 346
+data: 1938-01-20
+titolo: "Riconoscimento, agli effetti civili, della tassa «seminaristico» nella Diocesi di Napoli. (038U0346)"
+urn: urn:nir:stato:regio.decreto:1938-01-20;346
+codice_redazionale: 038U0346
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1938 n. 346
-====================================
-
-Riconoscimento, agli effetti civili, della tassa «seminaristico» nella Diocesi di Napoli. (038U0346)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/05/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 12 marzo 1931 n. 458
+---
+tipo: REGIO DECRETO
+numero: 458
+data: 1931-03-12
+titolo: "Classifica fra le strade statali del tratto di strada provinciale «Fornacette-Stagno». (031U0458)"
+urn: urn:nir:stato:regio.decreto:1931-03-12;458
+codice_redazionale: 031U0458
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 marzo 1931 n. 458
-==================================
-
-Classifica fra le strade statali del tratto di strada provinciale «Fornacette-Stagno». (031U0458)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

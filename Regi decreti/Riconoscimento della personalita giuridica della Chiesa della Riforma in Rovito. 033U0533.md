@@ -1,21 +1,21 @@
-REGIO DECRETO 08 aprile 1933 n. 533
+---
+tipo: REGIO DECRETO
+numero: 533
+data: 1933-04-08
+titolo: "Riconoscimento della personalita' giuridica della Chiesa della Riforma in Rovito. (033U0533)"
+urn: urn:nir:stato:regio.decreto:1933-04-08;533
+codice_redazionale: 033U0533
+vigente: true
+---
 
-
-REGIO DECRETO 08 aprile 1933 n. 533
-===================================
-
-Riconoscimento della personalita' giuridica della Chiesa della Riforma in Rovito. (033U0533)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-533. R. decreto 8 aprile 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della Riforma in Rovito.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 16 maggio 1933 -Anno XI.
+533.
+
+R. decreto 8 aprile 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della Riforma in Rovito. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 16 maggio 1933 -Anno XI.

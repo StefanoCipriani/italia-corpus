@@ -1,20 +1,17 @@
-REGIO DECRETO 11 giugno 1936 n. 1379
+---
+tipo: REGIO DECRETO
+numero: 1379
+data: 1936-06-11
+titolo: "Sostituzione della specializzazione falegnami ebanisti della Regia scuola tecnica a indirizzo industriale di Crotone con una specializzazione per edili, e modificazione della relativa tabella organica. (036U1379)"
+urn: urn:nir:stato:regio.decreto:1936-06-11;1379
+codice_redazionale: 036U1379
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 giugno 1936 n. 1379
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Sostituzione della specializzazione falegnami ebanisti della Regia scuola tecnica a indirizzo industriale di Crotone con una specializzazione per edili, e modificazione della relativa tabella organica. (036U1379)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/08/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

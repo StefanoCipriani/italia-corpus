@@ -1,15 +1,13 @@
-REGIO DECRETO 22 aprile 1943 n. 617
+---
+tipo: REGIO DECRETO
+numero: 617
+data: 1943-04-22
+titolo: "Autorizzazione all'Istituto dei ciechi di Milano ad accettare una donazione. (043U0617)"
+urn: urn:nir:stato:regio.decreto:1943-04-22;617
+codice_redazionale: 043U0617
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1943 n. 617
-===================================
-
-Autorizzazione all'Istituto dei ciechi di Milano ad accettare una donazione. (043U0617)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

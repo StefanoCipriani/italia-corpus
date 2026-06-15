@@ -1,25 +1,21 @@
-REGIO DECRETO 29 febbraio 1932 n. 247
+---
+tipo: REGIO DECRETO
+numero: 247
+data: 1932-02-29
+titolo: "Soppressione del Consolato italiano in Gedda; contemporanea istituzione di una Regia legazione in detta citta'; e provvedimenti varii circa le spese di alcuni Vice consolati. (032U0247)"
+urn: urn:nir:stato:regio.decreto:1932-02-29;247
+codice_redazionale: 032U0247
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 febbraio 1932 n. 247
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Soppressione del Consolato italiano in Gedda; contemporanea istituzione di una Regia legazione in detta citta'; e provvedimenti varii circa le spese di alcuni Vice consolati. (032U0247)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 19/04/1932
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

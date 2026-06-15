@@ -1,25 +1,21 @@
-REGIO DECRETO 30 marzo 1942 n. 555
+---
+tipo: REGIO DECRETO
+numero: 555
+data: 1942-03-30
+titolo: "Compenso giornaliero a favore dei primi avieri, avieri scelti ed avieri adibiti a lavori demaniali. (042U0555)"
+urn: urn:nir:stato:regio.decreto:1942-03-30;555
+codice_redazionale: 042U0555
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 marzo 1942 n. 555
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Compenso giornaliero a favore dei primi avieri, avieri scelti ed avieri adibiti a lavori demaniali. (042U0555)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/06/1942
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

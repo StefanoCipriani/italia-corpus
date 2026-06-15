@@ -1,25 +1,21 @@
-REGIO DECRETO 22 maggio 1933 n. 689
+---
+tipo: REGIO DECRETO
+numero: 689
+data: 1933-05-22
+titolo: "Estensione al comune di Venosa (Potenza) delle disposizioni della legge concernente le opere di fognatura della citta' di Torino, e approvazione del regolamento speciale per l'esecuzione delle disposizioni medesime. (033U0689)"
+urn: urn:nir:stato:regio.decreto:1933-05-22;689
+codice_redazionale: 033U0689
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 maggio 1933 n. 689
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Estensione al comune di Venosa (Potenza) delle disposizioni della legge concernente le opere di fognatura della citta' di Torino, e approvazione del regolamento speciale per l'esecuzione delle disposizioni medesime. (033U0689)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/07/1933
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

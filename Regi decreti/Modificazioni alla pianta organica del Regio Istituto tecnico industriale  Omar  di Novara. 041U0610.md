@@ -1,26 +1,17 @@
-REGIO DECRETO 01 maggio 1941 n. 610
+---
+tipo: REGIO DECRETO
+numero: 610
+data: 1941-05-01
+titolo: "Modificazioni alla pianta organica del Regio Istituto tecnico industriale « Omar » di Novara. (041U0610)"
+urn: urn:nir:stato:regio.decreto:1941-05-01;610
+codice_redazionale: 041U0610
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 maggio 1941 n. 610
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni alla pianta organica del Regio Istituto tecnico industriale « Omar » di Novara. (041U0610)
---------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/07/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

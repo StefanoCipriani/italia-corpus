@@ -1,21 +1,21 @@
-REGIO DECRETO 22 gennaio 1942 n. 302
+---
+tipo: REGIO DECRETO
+numero: 302
+data: 1942-01-22
+titolo: "Dichiarazione formale dei fini della Confraternita di San Giuseppe, con sede in Nicosia (Enna). (042U0302)"
+urn: urn:nir:stato:regio.decreto:1942-01-22;302
+codice_redazionale: 042U0302
+vigente: true
+---
 
-
-REGIO DECRETO 22 gennaio 1942 n. 302
-====================================
-
-Dichiarazione formale dei fini della Confraternita di San Giuseppe, con sede in Nicosia (Enna). (042U0302)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/04/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-302. R. decreto 22 gennaio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita di San Giuseppe, con sede in Nicosia (Enna).   
-  
-Visto, il Guardasigilli Grandi   
-  
-Registrato alla Corte dei conti, addi' 1° aprile 1942-XX
+302.
+
+R. decreto 22 gennaio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita di San Giuseppe, con sede in Nicosia (Enna). 
+ 
+ Visto, il Guardasigilli Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 1° aprile 1942-XX

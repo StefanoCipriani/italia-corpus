@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1881 n. XCIV
-
-
-REGIO DECRETO 06 marzo 1881 n. XCIV
-===================================
-
-Che erige in corpo morale il pio lascito Biasion a favore dei poveri di S. Eulalia frazione del comune di Borso (Treviso). (8100094R)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1881
+---
+tipo: REGIO DECRETO
+numero: XCIV
+data: 1881-03-06
+titolo: "Che erige in corpo morale il pio lascito Biasion a favore dei poveri di S. Eulalia frazione del comune di Borso (Treviso). (8100094R)"
+urn: urn:nir:stato:regio.decreto:1881-03-06;94
+codice_redazionale: 8100094R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,28 +30,22 @@ Vista la deliberazione 10 gennaio scorso della deputazione provinciale di Trevis
 
 Viste le leggi del 5 giugno 1850, sulla capacita' di acquistare dei corpi morali e del 3 agosto 1862, sulle opere pie;
 
-Udito
------
+Udito il parere del consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del consiglio di Stato; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il pio lascito disposto come sopra dal fu sacerdote Bortolo Biasion e' costituito in corpo morale sotto la denominazione di istituto Elemosiniero Biasion per i poveri di S. Eulalia, frazione del comune di Borso, ed e' autorizzato ad accettare gli stabili componenti il suo patrimonio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 23 marzo 1881   
-  
-Reg. 113 Atti del Governo a f 2. Ayres.   
-  
-Luogo del Sigillo. V Il Guardasigilli T. Villa.   
-  
-Depretis.   
+Il pio lascito disposto come sopra dal fu sacerdote Bortolo Biasion e' costituito in corpo morale sotto la denominazione di istituto Elemosiniero Biasion per i poveri di S. Eulalia, frazione del comune di Borso, ed e' autorizzato ad accettare gli stabili componenti il suo patrimonio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 23 marzo 1881 
+ 
+ Reg. 113 Atti del Governo a f 2. Ayres. 
+ 
+ Luogo del Sigillo. V Il Guardasigilli T. Villa. 
+ 
+ Depretis.

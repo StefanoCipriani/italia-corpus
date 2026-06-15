@@ -1,16 +1,14 @@
-REGIO DECRETO 28 dicembre 1893 n. DCCXXX
-
-
-REGIO DECRETO 28 dicembre 1893 n. DCCXXX
-========================================
-
-Che erige in ente morale il legato Broccio in Agnona (Novara) e ne concentra l'amministrazione nella locale congregazione di carita'. (9300730R)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1894
+---
+tipo: REGIO DECRETO
+numero: DCCXXX
+data: 1893-12-28
+titolo: "Che erige in ente morale il legato Broccio in Agnona (Novara) e ne concentra l'amministrazione nella locale congregazione di carita'. (9300730R)"
+urn: urn:nir:stato:regio.decreto:1893-12-28;730
+codice_redazionale: 9300730R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,32 +20,26 @@ Vedute le deliberazioni della congregazione di carita' e del consiglio comunale 
 
 Veduto il voto della giunta provinciale amministrativa di Novara;
 
-Veduta la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Veduta la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il legato Francesco Broccio sopraccennato e' eretto in ente morale e la sua amministrazione e' concentrata nella congregazione di carita' di Agnona.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 dicembre 1893.   
-  
-UMBERTO   
-  
-Registrato alla corte dei conti addi' 12 gennaio 1894.   
-  
-Reg. 194. Atti del Governo a f. 125. E. Angelotti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-F. Crispi.   
+Il legato Francesco Broccio sopraccennato e' eretto in ente morale e la sua amministrazione e' concentrata nella congregazione di carita' di Agnona. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla corte dei conti addi' 12 gennaio 1894. 
+ 
+ Reg. 194. Atti del Governo a f. 125. E. Angelotti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ F. Crispi.

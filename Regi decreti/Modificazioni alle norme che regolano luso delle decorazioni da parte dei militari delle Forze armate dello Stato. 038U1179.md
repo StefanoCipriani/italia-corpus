@@ -1,25 +1,21 @@
-REGIO DECRETO 15 luglio 1938 n. 1179
+---
+tipo: REGIO DECRETO
+numero: 1179
+data: 1938-07-15
+titolo: "Modificazioni alle norme che regolano l'uso delle decorazioni da parte dei militari delle Forze armate dello Stato. (038U1179)"
+urn: urn:nir:stato:regio.decreto:1938-07-15;1179
+codice_redazionale: 038U1179
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 luglio 1938 n. 1179
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni alle norme che regolano l'uso delle decorazioni da parte dei militari delle Forze armate dello Stato. (038U1179)
-------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/08/1938
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

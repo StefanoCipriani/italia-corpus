@@ -1,25 +1,21 @@
-REGIO DECRETO 20 dicembre 1937 n. 2642
+---
+tipo: REGIO DECRETO
+numero: 2642
+data: 1937-12-20
+titolo: "Emissione di francobolli per l'Africa Orientale Italiana celebrativi della fondazione dell'Impero. (037U2642)"
+urn: urn:nir:stato:regio.decreto:1937-12-20;2642
+codice_redazionale: 037U2642
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 dicembre 1937 n. 2642
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Emissione di francobolli per l'Africa Orientale Italiana celebrativi della fondazione dell'Impero. (037U2642)
--------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/03/1938
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

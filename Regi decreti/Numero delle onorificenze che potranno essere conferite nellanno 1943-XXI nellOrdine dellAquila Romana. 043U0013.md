@@ -1,20 +1,17 @@
-REGIO DECRETO 14 gennaio 1943 n. 13
+---
+tipo: REGIO DECRETO
+numero: 13
+data: 1943-01-14
+titolo: "Numero delle onorificenze che potranno essere conferite nell'anno 1943-XXI nell'Ordine dell'Aquila Romana. (043U0013)"
+urn: urn:nir:stato:regio.decreto:1943-01-14;13
+codice_redazionale: 043U0013
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 gennaio 1943 n. 13
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Numero delle onorificenze che potranno essere conferite nell'anno 1943-XXI nell'Ordine dell'Aquila Romana. (043U0013)
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/02/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

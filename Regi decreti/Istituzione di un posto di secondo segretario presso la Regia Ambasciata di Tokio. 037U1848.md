@@ -1,15 +1,13 @@
-REGIO DECRETO 07 ottobre 1937 n. 1848
+---
+tipo: REGIO DECRETO
+numero: 1848
+data: 1937-10-07
+titolo: "Istituzione di un posto di secondo segretario presso la Regia Ambasciata di Tokio. (037U1848)"
+urn: urn:nir:stato:regio.decreto:1937-10-07;1848
+codice_redazionale: 037U1848
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 ottobre 1937 n. 1848
-=====================================
-
-Istituzione di un posto di secondo segretario presso la Regia Ambasciata di Tokio. (037U1848)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,20 +1,17 @@
-REGIO DECRETO 17 maggio 1934 n. 893
+---
+tipo: REGIO DECRETO
+numero: 893
+data: 1934-05-17
+titolo: "Revoca del riconoscimento giuridico della Confederazione nazionale fascista delle imprese di comunicazioni interne. (034U0893)"
+urn: urn:nir:stato:regio.decreto:1934-05-17;893
+codice_redazionale: 034U0893
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 maggio 1934 n. 893
-===================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Revoca del riconoscimento giuridico della Confederazione nazionale fascista delle imprese di comunicazioni interne. (034U0893)
-------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/07/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

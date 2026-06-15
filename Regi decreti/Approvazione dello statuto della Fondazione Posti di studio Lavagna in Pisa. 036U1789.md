@@ -1,15 +1,13 @@
-REGIO DECRETO 03 settembre 1936 n. 1789
+---
+tipo: REGIO DECRETO
+numero: 1789
+data: 1936-09-03
+titolo: "Approvazione dello statuto della Fondazione «Posti di studio Lavagna», in Pisa. (036U1789)"
+urn: urn:nir:stato:regio.decreto:1936-09-03;1789
+codice_redazionale: 036U1789
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 settembre 1936 n. 1789
-=======================================
-
-Approvazione dello statuto della Fondazione «Posti di studio Lavagna», in Pisa. (036U1789)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

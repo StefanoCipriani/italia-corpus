@@ -1,22 +1,13 @@
-REGIO DECRETO 23 novembre 1942 n. 1791
+---
+tipo: REGIO DECRETO
+numero: 1791
+data: 1942-11-23
+titolo: "Varianti alla circoscrizione territoriale della Direzione marittima di Bari. (042U1791)"
+urn: urn:nir:stato:regio.decreto:1942-11-23;1791
+codice_redazionale: 042U1791
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 novembre 1942 n. 1791
-======================================
-
-Varianti alla circoscrizione territoriale della Direzione marittima di Bari. (042U1791)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Allegato-Tabelle
-
-Allegato-Tabelle   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

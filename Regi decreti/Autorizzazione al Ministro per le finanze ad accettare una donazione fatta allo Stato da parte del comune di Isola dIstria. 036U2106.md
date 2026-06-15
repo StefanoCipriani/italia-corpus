@@ -1,15 +1,13 @@
-REGIO DECRETO 22 ottobre 1936 n. 2106
+---
+tipo: REGIO DECRETO
+numero: 2106
+data: 1936-10-22
+titolo: "Autorizzazione al Ministro per le finanze ad accettare una donazione fatta allo Stato da parte del comune di Isola d'Istria. (036U2106)"
+urn: urn:nir:stato:regio.decreto:1936-10-22;2106
+codice_redazionale: 036U2106
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1936 n. 2106
-=====================================
-
-Autorizzazione al Ministro per le finanze ad accettare una donazione fatta allo Stato da parte del comune di Isola d'Istria. (036U2106)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

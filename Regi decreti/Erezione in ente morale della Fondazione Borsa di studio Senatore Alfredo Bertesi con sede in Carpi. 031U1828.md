@@ -1,15 +1,13 @@
-REGIO DECRETO 31 dicembre 1931 n. 1828
+---
+tipo: REGIO DECRETO
+numero: 1828
+data: 1931-12-31
+titolo: "Erezione in ente morale della Fondazione «Borsa di studio Senatore Alfredo Bertesi», con sede in Carpi. (031U1828)"
+urn: urn:nir:stato:regio.decreto:1931-12-31;1828
+codice_redazionale: 031U1828
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1931 n. 1828
-======================================
-
-Erezione in ente morale della Fondazione «Borsa di studio Senatore Alfredo Bertesi», con sede in Carpi. (031U1828)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

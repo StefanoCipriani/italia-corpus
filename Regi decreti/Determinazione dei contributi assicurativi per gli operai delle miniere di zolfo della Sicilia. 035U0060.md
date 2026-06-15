@@ -1,15 +1,13 @@
-REGIO DECRETO 14 gennaio 1935 n. 60
+---
+tipo: REGIO DECRETO
+numero: 60
+data: 1935-01-14
+titolo: "Determinazione dei contributi assicurativi per gli operai delle miniere di zolfo della Sicilia. (035U0060)"
+urn: urn:nir:stato:regio.decreto:1935-01-14;60
+codice_redazionale: 035U0060
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 gennaio 1935 n. 60
-===================================
-
-Determinazione dei contributi assicurativi per gli operai delle miniere di zolfo della Sicilia. (035U0060)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 19 dicembre 1935 n. 2490
+---
+tipo: REGIO DECRETO
+numero: 2490
+data: 1935-12-19
+titolo: "Autorizzazione alla Regia universita' di Catania ad accettare una eredita'. (035U2490)"
+urn: urn:nir:stato:regio.decreto:1935-12-19;2490
+codice_redazionale: 035U2490
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 dicembre 1935 n. 2490
-======================================
-
-Autorizzazione alla Regia universita' di Catania ad accettare una eredita'. (035U2490)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

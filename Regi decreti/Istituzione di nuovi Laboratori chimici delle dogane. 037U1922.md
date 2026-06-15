@@ -1,15 +1,13 @@
-REGIO DECRETO 27 ottobre 1937 n. 1922
+---
+tipo: REGIO DECRETO
+numero: 1922
+data: 1937-10-27
+titolo: "Istituzione di nuovi Laboratori chimici delle dogane. (037U1922)"
+urn: urn:nir:stato:regio.decreto:1937-10-27;1922
+codice_redazionale: 037U1922
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1937 n. 1922
-=====================================
-
-Istituzione di nuovi Laboratori chimici delle dogane. (037U1922)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

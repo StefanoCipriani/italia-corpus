@@ -1,21 +1,21 @@
-REGIO DECRETO 20 settembre 1934 n. 1775
+---
+tipo: REGIO DECRETO
+numero: 1775
+data: 1934-09-20
+titolo: "Riconoscimento della personalita' giuridica dell'Istituto delle Suore Passioniste, con Casa generalizia in Castello di Signa. (034U1775)"
+urn: urn:nir:stato:regio.decreto:1934-09-20;1775
+codice_redazionale: 034U1775
+vigente: true
+---
 
-
-REGIO DECRETO 20 settembre 1934 n. 1775
-=======================================
-
-Riconoscimento della personalita' giuridica dell'Istituto delle Suore Passioniste, con Casa generalizia in Castello di Signa. (034U1775)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1775. R. decreto 20 settembre 1934, col quale. sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto delle Suore Passioniste. con Casa generalizia in Castello di Signa (Firenze), e viene autorizzato il trasferimento allo stesso degli immobili siti in Signa, Cisternino, Isnello e Livorno, del complessivo valore di L. 670.000, in suo possesso da tempo anteriore al Concordato ed attualmente al nome di terzi intestatari.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 25 ottobre 1934 - Anno XII
+1775.
+
+R. decreto 20 settembre 1934, col quale. sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto delle Suore Passioniste. con Casa generalizia in Castello di Signa (Firenze), e viene autorizzato il trasferimento allo stesso degli immobili siti in Signa, Cisternino, Isnello e Livorno, del complessivo valore di L. 670.000, in suo possesso da tempo anteriore al Concordato ed attualmente al nome di terzi intestatari. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 25 ottobre 1934 - Anno XII

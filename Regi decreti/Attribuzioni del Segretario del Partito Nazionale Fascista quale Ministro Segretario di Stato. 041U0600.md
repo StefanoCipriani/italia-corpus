@@ -1,25 +1,21 @@
-REGIO DECRETO 27 giugno 1941 n. 600
+---
+tipo: REGIO DECRETO
+numero: 600
+data: 1941-06-27
+titolo: "Attribuzioni del Segretario del Partito Nazionale Fascista quale Ministro Segretario di Stato. (041U0600)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;600
+codice_redazionale: 041U0600
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1941 n. 600
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Attribuzioni del Segretario del Partito Nazionale Fascista quale Ministro Segretario di Stato. (041U0600)
----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 05/07/1941
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

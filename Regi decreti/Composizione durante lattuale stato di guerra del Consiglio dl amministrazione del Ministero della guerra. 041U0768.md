@@ -1,20 +1,17 @@
-REGIO DECRETO 27 giugno 1941 n. 768
+---
+tipo: REGIO DECRETO
+numero: 768
+data: 1941-06-27
+titolo: "Composizione, durante l'attuale stato di guerra, del Consiglio dl amministrazione del Ministero della guerra. (041U0768)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;768
+codice_redazionale: 041U0768
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1941 n. 768
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Composizione, durante l'attuale stato di guerra, del Consiglio dl amministrazione del Ministero della guerra. (041U0768)
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/08/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

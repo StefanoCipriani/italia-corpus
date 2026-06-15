@@ -1,19 +1,19 @@
-REGIO DECRETO 14 ottobre 1932 n. 1646
+---
+tipo: REGIO DECRETO
+numero: 1646
+data: 1932-10-14
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Gais. (032U1646)"
+urn: urn:nir:stato:regio.decreto:1932-10-14;1646
+codice_redazionale: 032U1646
+vigente: true
+---
 
-
-REGIO DECRETO 14 ottobre 1932 n. 1646
-=====================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Gais. (032U1646)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1646. R. decreto 14 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' approvato, con una modifica, lo statuto organico della Congregazione di carita' di Gais (provincia di Bolzano).   
-Visto, il Guardasigilli: DE FRANCISCI.   
-Registrato alla Corte dei conti, addi' 21 dicembre 1932 - Anno XI
+1646.
+
+R. decreto 14 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' approvato, con una modifica, lo statuto organico della Congregazione di carita' di Gais (provincia di Bolzano). 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ Registrato alla Corte dei conti, addi' 21 dicembre 1932 - Anno XI

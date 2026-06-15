@@ -1,15 +1,13 @@
-REGIO DECRETO 16 giugno 1932 n. 916
+---
+tipo: REGIO DECRETO
+numero: 916
+data: 1932-06-16
+titolo: "Trasformazione del fine inerente al patrimonio del Monte di pieta' di Castelleone. (032U0916)"
+urn: urn:nir:stato:regio.decreto:1932-06-16;916
+codice_redazionale: 032U0916
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1932 n. 916
-===================================
-
-Trasformazione del fine inerente al patrimonio del Monte di pieta' di Castelleone. (032U0916)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

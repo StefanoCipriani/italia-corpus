@@ -1,15 +1,13 @@
-REGIO DECRETO 20 febbraio 1939 n. 440
+---
+tipo: REGIO DECRETO
+numero: 440
+data: 1939-02-20
+titolo: "Radiazione della Regia nave « Bafile » dal quadro del naviglio da guerra dello Stato. (039U0440)"
+urn: urn:nir:stato:regio.decreto:1939-02-20;440
+codice_redazionale: 039U0440
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 febbraio 1939 n. 440
-=====================================
-
-Radiazione della Regia nave « Bafile » dal quadro del naviglio da guerra dello Stato. (039U0440)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

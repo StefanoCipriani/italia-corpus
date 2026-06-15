@@ -1,20 +1,17 @@
-REGIO DECRETO 25 marzo 1935 n. 457
+---
+tipo: REGIO DECRETO
+numero: 457
+data: 1935-03-25
+titolo: "Aumento del contributo dello Stato al Consorzio per i rimboschimenti da eseguirsi nella provincia di Massa Carrara. (035U0457)"
+urn: urn:nir:stato:regio.decreto:1935-03-25;457
+codice_redazionale: 035U0457
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 marzo 1935 n. 457
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Aumento del contributo dello Stato al Consorzio per i rimboschimenti da eseguirsi nella provincia di Massa Carrara. (035U0457)
-------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/05/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 08 luglio 1937 n. 1429
+---
+tipo: REGIO DECRETO
+numero: 1429
+data: 1937-07-08
+titolo: "Erezione in ente morale dell'Asilo infantile «Camandona» con sede in Cascine San Giacomo (Vercelli). (037U1429)"
+urn: urn:nir:stato:regio.decreto:1937-07-08;1429
+codice_redazionale: 037U1429
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1937 n. 1429
-====================================
-
-Erezione in ente morale dell'Asilo infantile «Camandona» con sede in Cascine San Giacomo (Vercelli). (037U1429)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

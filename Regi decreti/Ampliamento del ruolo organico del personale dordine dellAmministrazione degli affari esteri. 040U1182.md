@@ -1,31 +1,21 @@
-REGIO DECRETO 12 luglio 1940 n. 1182
+---
+tipo: REGIO DECRETO
+numero: 1182
+data: 1940-07-12
+titolo: "Ampliamento del ruolo organico del personale d'ordine dell'Amministrazione degli affari esteri. (040U1182)"
+urn: urn:nir:stato:regio.decreto:1940-07-12;1182
+codice_redazionale: 040U1182
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 luglio 1940 n. 1182
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Ampliamento del ruolo organico del personale d'ordine dell'Amministrazione degli affari esteri. (040U1182)
-----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/09/1940
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Allegato-Tabella A
-
- Allegato-Tabella A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

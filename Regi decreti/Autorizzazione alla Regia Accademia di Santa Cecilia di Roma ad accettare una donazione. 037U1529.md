@@ -1,15 +1,13 @@
-REGIO DECRETO 12 agosto 1937 n. 1529
+---
+tipo: REGIO DECRETO
+numero: 1529
+data: 1937-08-12
+titolo: "Autorizzazione alla Regia Accademia di Santa Cecilia di Roma ad accettare una donazione. (037U1529)"
+urn: urn:nir:stato:regio.decreto:1937-08-12;1529
+codice_redazionale: 037U1529
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 agosto 1937 n. 1529
-====================================
-
-Autorizzazione alla Regia Accademia di Santa Cecilia di Roma ad accettare una donazione. (037U1529)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

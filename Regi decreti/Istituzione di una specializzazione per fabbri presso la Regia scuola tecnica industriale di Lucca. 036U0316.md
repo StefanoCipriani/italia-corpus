@@ -1,25 +1,21 @@
-REGIO DECRETO 27 gennaio 1936 n. 316
+---
+tipo: REGIO DECRETO
+numero: 316
+data: 1936-01-27
+titolo: "Istituzione di una specializzazione per «fabbri» presso la Regia scuola tecnica industriale di Lucca. (036U0316)"
+urn: urn:nir:stato:regio.decreto:1936-01-27;316
+codice_redazionale: 036U0316
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 gennaio 1936 n. 316
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione di una specializzazione per «fabbri» presso la Regia scuola tecnica industriale di Lucca. (036U0316)
-----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/03/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

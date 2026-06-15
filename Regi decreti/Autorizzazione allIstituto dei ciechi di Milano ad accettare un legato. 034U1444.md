@@ -1,15 +1,13 @@
-REGIO DECRETO 04 agosto 1934 n. 1444
+---
+tipo: REGIO DECRETO
+numero: 1444
+data: 1934-08-04
+titolo: "Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato. (034U1444)"
+urn: urn:nir:stato:regio.decreto:1934-08-04;1444
+codice_redazionale: 034U1444
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 agosto 1934 n. 1444
-====================================
-
-Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato. (034U1444)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

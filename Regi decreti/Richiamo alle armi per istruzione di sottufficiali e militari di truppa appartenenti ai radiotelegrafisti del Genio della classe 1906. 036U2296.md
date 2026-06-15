@@ -1,25 +1,21 @@
-REGIO DECRETO 21 dicembre 1936 n. 2296
+---
+tipo: REGIO DECRETO
+numero: 2296
+data: 1936-12-21
+titolo: "Richiamo alle armi, per istruzione, di sottufficiali e militari di truppa appartenenti ai radiotelegrafisti del Genio della classe 1906. (036U2296)"
+urn: urn:nir:stato:regio.decreto:1936-12-21;2296
+codice_redazionale: 036U2296
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1936 n. 2296
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Richiamo alle armi, per istruzione, di sottufficiali e militari di truppa appartenenti ai radiotelegrafisti del Genio della classe 1906. (036U2296)
----------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/01/1937
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

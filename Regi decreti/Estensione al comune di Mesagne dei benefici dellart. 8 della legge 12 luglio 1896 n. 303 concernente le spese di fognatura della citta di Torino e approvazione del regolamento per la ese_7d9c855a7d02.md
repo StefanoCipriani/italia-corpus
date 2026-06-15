@@ -1,25 +1,21 @@
-REGIO DECRETO 04 febbraio 1937 n. 750
+---
+tipo: REGIO DECRETO
+numero: 750
+data: 1937-02-04
+titolo: "Estensione al comune di Mesagne dei benefici dell'art. 8 della legge 12 luglio 1896, n. 303, concernente le spese di fognatura della citta' di Torino, e approvazione del regolamento per la esecuzione dei lavori. (037U0750)"
+urn: urn:nir:stato:regio.decreto:1937-02-04;750
+codice_redazionale: 037U0750
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 febbraio 1937 n. 750
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Estensione al comune di Mesagne dei benefici dell'art. 8 della legge 12 luglio 1896, n. 303, concernente le spese di fognatura della citta' di Torino, e approvazione del regolamento per la esecuzione dei lavori. (037U0750)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/06/1937
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

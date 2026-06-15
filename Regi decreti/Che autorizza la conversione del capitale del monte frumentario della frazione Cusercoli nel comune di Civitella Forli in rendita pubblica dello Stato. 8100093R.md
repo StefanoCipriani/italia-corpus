@@ -1,16 +1,14 @@
-REGIO DECRETO 27 febbraio 1881 n. XCIII
-
-
-REGIO DECRETO 27 febbraio 1881 n. XCIII
-=======================================
-
-Che autorizza la conversione del capitale del monte frumentario della frazione Cusercoli nel comune di Civitella (Forli') in rendita pubblica dello Stato. (8100093R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1881
+---
+tipo: REGIO DECRETO
+numero: XCIII
+data: 1881-02-27
+titolo: "Che autorizza la conversione del capitale del monte frumentario della frazione Cusercoli nel comune di Civitella (Forli') in rendita pubblica dello Stato. (8100093R)"
+urn: urn:nir:stato:regio.decreto:1881-02-27;93
+codice_redazionale: 8100093R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Visto il voto della deputazione provinciale;
 
 Visti gli articoli 23 e 24 della legge 3 agosto 1862, sulle opere pie;
 
-Udito
------
+Udito il parere, del consiglio di Stato; Abbiamo decretato e decretiamo.
 
-il parere, del consiglio di Stato; Abbiamo decretato e decretiamo.
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la conversione del capitale del monte frumentario di Cusercoli, frazione di Civitella, in rendita pubblica dello Stato, per erogarne i frutti a favore della classe agricola piu' povera di detta frazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 febbraio 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 23 marzo 1881   
-  
-Reg. 113 Atti del Governo a f. 5. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli T. Villa.   
-  
-Depretis.   
+E' autorizzata la conversione del capitale del monte frumentario di Cusercoli, frazione di Civitella, in rendita pubblica dello Stato, per erogarne i frutti a favore della classe agricola piu' povera di detta frazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 febbraio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 23 marzo 1881 
+ 
+ Reg. 113 Atti del Governo a f. 5. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Villa. 
+ 
+ Depretis.

@@ -1,15 +1,13 @@
-REGIO DECRETO 28 novembre 1938 n. 2079
+---
+tipo: REGIO DECRETO
+numero: 2079
+data: 1938-11-28
+titolo: "Revoca di dichiarazione di zona malarica in territorio della citta' di Cosenza. (038U2079)"
+urn: urn:nir:stato:regio.decreto:1938-11-28;2079
+codice_redazionale: 038U2079
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 novembre 1938 n. 2079
-======================================
-
-Revoca di dichiarazione di zona malarica in territorio della citta' di Cosenza. (038U2079)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

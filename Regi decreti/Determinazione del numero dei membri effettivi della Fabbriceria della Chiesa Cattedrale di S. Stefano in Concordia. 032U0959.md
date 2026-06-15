@@ -1,15 +1,13 @@
-REGIO DECRETO 14 luglio 1932 n. 959
+---
+tipo: REGIO DECRETO
+numero: 959
+data: 1932-07-14
+titolo: "Determinazione del numero dei membri effettivi della Fabbriceria della Chiesa Cattedrale di S. Stefano in Concordia. (032U0959)"
+urn: urn:nir:stato:regio.decreto:1932-07-14;959
+codice_redazionale: 032U0959
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 luglio 1932 n. 959
-===================================
-
-Determinazione del numero dei membri effettivi della Fabbriceria della Chiesa Cattedrale di S. Stefano in Concordia. (032U0959)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/09/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

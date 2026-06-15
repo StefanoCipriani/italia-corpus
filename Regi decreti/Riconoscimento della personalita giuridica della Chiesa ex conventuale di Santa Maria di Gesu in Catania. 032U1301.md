@@ -1,15 +1,13 @@
-REGIO DECRETO 02 settembre 1932 n. 1301
+---
+tipo: REGIO DECRETO
+numero: 1301
+data: 1932-09-02
+titolo: "Riconoscimento della personalita' giuridica della Chiesa ex conventuale di Santa Maria di Gesu' in Catania. (032U1301)"
+urn: urn:nir:stato:regio.decreto:1932-09-02;1301
+codice_redazionale: 032U1301
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 settembre 1932 n. 1301
-=======================================
-
-Riconoscimento della personalita' giuridica della Chiesa ex conventuale di Santa Maria di Gesu' in Catania. (032U1301)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

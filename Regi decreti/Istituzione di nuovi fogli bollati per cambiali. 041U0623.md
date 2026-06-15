@@ -1,25 +1,21 @@
-REGIO DECRETO 21 giugno 1941 n. 623
+---
+tipo: REGIO DECRETO
+numero: 623
+data: 1941-06-21
+titolo: "Istituzione di nuovi fogli bollati per cambiali. (041U0623)"
+urn: urn:nir:stato:regio.decreto:1941-06-21;623
+codice_redazionale: 041U0623
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 giugno 1941 n. 623
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione di nuovi fogli bollati per cambiali. (041U0623)
------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/07/1941
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

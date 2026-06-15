@@ -1,20 +1,17 @@
-REGIO DECRETO 16 aprile 1936 n. 705
+---
+tipo: REGIO DECRETO
+numero: 705
+data: 1936-04-16
+titolo: "Modificazione delle aliquote di restituzione del dazio di confine sul cotone greggio impiegato nella fabbricazione di prodotti ammessi a godere di tale beneficio. (036U0705)"
+urn: urn:nir:stato:regio.decreto:1936-04-16;705
+codice_redazionale: 036U0705
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 aprile 1936 n. 705
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione delle aliquote di restituzione del dazio di confine sul cotone greggio impiegato nella fabbricazione di prodotti ammessi a godere di tale beneficio. (036U0705)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/05/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

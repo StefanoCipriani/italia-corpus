@@ -1,25 +1,21 @@
-REGIO DECRETO 22 novembre 1937 n. 1933
+---
+tipo: REGIO DECRETO
+numero: 1933
+data: 1937-11-22
+titolo: "Modificazioni alle norme riguardanti la promozione al grado ottavo nei ruoli di personali civili di gruppo A delle Amministrazioni statali. (037U1933)"
+urn: urn:nir:stato:regio.decreto:1937-11-22;1933
+codice_redazionale: 037U1933
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 novembre 1937 n. 1933
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni alle norme riguardanti la promozione al grado ottavo nei ruoli di personali civili di gruppo A delle Amministrazioni statali. (037U1933)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/11/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

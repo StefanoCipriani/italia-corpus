@@ -1,19 +1,19 @@
-REGIO DECRETO 23 giugno 1932 n. 990
+---
+tipo: REGIO DECRETO
+numero: 990
+data: 1932-06-23
+titolo: "Riconoscimento della personalita' giuridica della Chiesa ex conventuale di S. Antonio detta «dei Cappuccini», in Mores (Sassari). (032U0990)"
+urn: urn:nir:stato:regio.decreto:1932-06-23;990
+codice_redazionale: 032U0990
+vigente: true
+---
 
-
-REGIO DECRETO 23 giugno 1932 n. 990
-===================================
-
-Riconoscimento della personalita' giuridica della Chiesa ex conventuale di S. Antonio detta «dei Cappuccini», in Mores (Sassari). (032U0990)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-990. R. decreto 23 giugno 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica della Chiesa ex conventuale di S. Antonio detta «dei Cappuccini» in Mores (Sassari).   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X
+990.
+
+R. decreto 23 giugno 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica della Chiesa ex conventuale di S. Antonio detta «dei Cappuccini» in Mores (Sassari). 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X

@@ -1,25 +1,21 @@
-REGIO DECRETO 25 agosto 1938 n. 1677
+---
+tipo: REGIO DECRETO
+numero: 1677
+data: 1938-08-25
+titolo: "Proroga di disposizioni temporanee sul trattamento economico del personale militare in servizio nell'Africa Orientale ltaliana. (038U1677)"
+urn: urn:nir:stato:regio.decreto:1938-08-25;1677
+codice_redazionale: 038U1677
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 agosto 1938 n. 1677
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Proroga di disposizioni temporanee sul trattamento economico del personale militare in servizio nell'Africa Orientale ltaliana. (038U1677)
-------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/11/1938
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 12 febbraio 1942 n. 280
+---
+tipo: REGIO DECRETO
+numero: 280
+data: 1942-02-12
+titolo: "Maggiorazione degli assegni all'ambasciatore, al consigliere, al primo, secondo, terzo e quarto segretario dell'Ambasciata in Madrid. (042U0280)"
+urn: urn:nir:stato:regio.decreto:1942-02-12;280
+codice_redazionale: 042U0280
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1942 n. 280
-=====================================
-
-Maggiorazione degli assegni all'ambasciatore, al consigliere, al primo, secondo, terzo e quarto segretario dell'Ambasciata in Madrid. (042U0280)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

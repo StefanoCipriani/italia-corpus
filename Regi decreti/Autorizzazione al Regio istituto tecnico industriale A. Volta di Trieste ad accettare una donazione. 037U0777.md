@@ -1,15 +1,13 @@
-REGIO DECRETO 08 aprile 1937 n. 777
+---
+tipo: REGIO DECRETO
+numero: 777
+data: 1937-04-08
+titolo: "Autorizzazione al Regio istituto tecnico industriale «A. Volta» di Trieste ad accettare una donazione. (037U0777)"
+urn: urn:nir:stato:regio.decreto:1937-04-08;777
+codice_redazionale: 037U0777
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 aprile 1937 n. 777
-===================================
-
-Autorizzazione al Regio istituto tecnico industriale «A. Volta» di Trieste ad accettare una donazione. (037U0777)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

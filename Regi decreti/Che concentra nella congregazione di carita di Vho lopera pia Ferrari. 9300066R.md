@@ -1,16 +1,14 @@
-REGIO DECRETO 02 febbraio 1893 n. LXVI
-
-
-REGIO DECRETO 02 febbraio 1893 n. LXVI
-======================================
-
-Che concentra nella congregazione di carita' di Vho' l'opera pia Ferrari. (9300066R)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1893
+---
+tipo: REGIO DECRETO
+numero: LXVI
+data: 1893-02-02
+titolo: "Che concentra nella congregazione di carita' di Vho' l'opera pia Ferrari. (9300066R)"
+urn: urn:nir:stato:regio.decreto:1893-02-02;66
+codice_redazionale: 9300066R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,32 +20,26 @@ Visto il reclamo del parroco amministratore;
 
 Vista la relativa deliberazione della giunta provinciale amministrativa di Cremona;
 
-Vista la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Sentito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'opera pia Ferrari del comune di Vho' e' concentrata nella congregazione di carita'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 febbraio 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 18 febbraio 1893.   
-  
-Reg. 190. Atti del Governo a f. 96. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
+L'opera pia Ferrari del comune di Vho' e' concentrata nella congregazione di carita'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 febbraio 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 18 febbraio 1893. 
+ 
+ Reg. 190. Atti del Governo a f. 96. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

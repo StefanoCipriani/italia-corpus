@@ -1,15 +1,13 @@
-REGIO DECRETO 09 febbraio 1933 n. 655
+---
+tipo: REGIO DECRETO
+numero: 655
+data: 1933-02-09
+titolo: "Contributo scolastico dovuto allo Stato dal comune di Mira. (033U0655)"
+urn: urn:nir:stato:regio.decreto:1933-02-09;655
+codice_redazionale: 033U0655
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 febbraio 1933 n. 655
-=====================================
-
-Contributo scolastico dovuto allo Stato dal comune di Mira. (033U0655)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

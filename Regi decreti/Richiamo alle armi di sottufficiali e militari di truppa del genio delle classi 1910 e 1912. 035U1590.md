@@ -1,25 +1,21 @@
-REGIO DECRETO 17 agosto 1935 n. 1590
+---
+tipo: REGIO DECRETO
+numero: 1590
+data: 1935-08-17
+titolo: "Richiamo alle armi di sottufficiali e militari di truppa del genio delle classi 1910 e 1912. (035U1590)"
+urn: urn:nir:stato:regio.decreto:1935-08-17;1590
+codice_redazionale: 035U1590
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 agosto 1935 n. 1590
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi di sottufficiali e militari di truppa del genio delle classi 1910 e 1912. (035U1590)
--------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/07/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

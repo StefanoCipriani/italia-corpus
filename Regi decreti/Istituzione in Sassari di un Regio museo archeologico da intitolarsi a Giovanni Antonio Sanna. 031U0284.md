@@ -1,26 +1,17 @@
-REGIO DECRETO 19 febbraio 1931 n. 284
+---
+tipo: REGIO DECRETO
+numero: 284
+data: 1931-02-19
+titolo: "Istituzione in Sassari di un Regio museo archeologico da intitolarsi a «Giovanni Antonio Sanna». (031U0284)"
+urn: urn:nir:stato:regio.decreto:1931-02-19;284
+codice_redazionale: 031U0284
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1931 n. 284
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione in Sassari di un Regio museo archeologico da intitolarsi a «Giovanni Antonio Sanna». (031U0284)
------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/04/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Convenzione
-
- Convenzione   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

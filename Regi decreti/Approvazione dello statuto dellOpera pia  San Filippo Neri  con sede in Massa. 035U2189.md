@@ -1,15 +1,13 @@
-REGIO DECRETO 17 agosto 1935 n. 2189
+---
+tipo: REGIO DECRETO
+numero: 2189
+data: 1935-08-17
+titolo: "Approvazione dello statuto dell'Opera pia « San Filippo Neri » con sede in Massa. (035U2189)"
+urn: urn:nir:stato:regio.decreto:1935-08-17;2189
+codice_redazionale: 035U2189
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 agosto 1935 n. 2189
-====================================
-
-Approvazione dello statuto dell'Opera pia « San Filippo Neri » con sede in Massa. (035U2189)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,45 +1,37 @@
-REGIO DECRETO 23 gennaio 1933 n. 8
+---
+tipo: REGIO DECRETO
+numero: 8
+data: 1933-01-23
+titolo: "Istituzione della «Croce di anzianita' di servizio» per la M.V.S.N. (033U0008)"
+urn: urn:nir:stato:regio.decreto:1933-01-23;8
+codice_redazionale: 033U0008
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1933 n. 8
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Istituzione della «Croce di anzianita' di servizio» per la M.V.S.N. (033U0008)
-------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/02/1933
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

@@ -1,15 +1,13 @@
-REGIO DECRETO 07 luglio 1932 n. 960
+---
+tipo: REGIO DECRETO
+numero: 960
+data: 1932-07-07
+titolo: "Modifiche allo statuto organico della Federazione delle Casse di risparmio dell'Emilia. (032U0960)"
+urn: urn:nir:stato:regio.decreto:1932-07-07;960
+codice_redazionale: 032U0960
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 luglio 1932 n. 960
-===================================
-
-Modifiche allo statuto organico della Federazione delle Casse di risparmio dell'Emilia. (032U0960)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/09/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

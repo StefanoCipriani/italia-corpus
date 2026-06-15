@@ -1,50 +1,41 @@
-REGIO DECRETO 09 aprile 1931 n. 334
+---
+tipo: REGIO DECRETO
+numero: 334
+data: 1931-04-09
+titolo: "Disposizioni concernenti gli organi di amministrazione dell'Ente autonomo per l'Acquedotto pugliese. (031U0334)"
+urn: urn:nir:stato:regio.decreto:1931-04-09;334
+codice_redazionale: 031U0334
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 aprile 1931 n. 334
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Disposizioni concernenti gli organi di amministrazione dell'Ente autonomo per l'Acquedotto pugliese. (031U0334)
----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/05/1931
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 141))

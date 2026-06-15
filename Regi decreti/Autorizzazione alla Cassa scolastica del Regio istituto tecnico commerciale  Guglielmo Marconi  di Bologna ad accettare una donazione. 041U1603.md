@@ -1,15 +1,13 @@
-REGIO DECRETO 20 novembre 1941 n. 1603
+---
+tipo: REGIO DECRETO
+numero: 1603
+data: 1941-11-20
+titolo: "Autorizzazione alla Cassa scolastica del Regio istituto tecnico commerciale « Guglielmo Marconi » di Bologna ad accettare una donazione. (041U1603)"
+urn: urn:nir:stato:regio.decreto:1941-11-20;1603
+codice_redazionale: 041U1603
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 novembre 1941 n. 1603
-======================================
-
-Autorizzazione alla Cassa scolastica del Regio istituto tecnico commerciale « Guglielmo Marconi » di Bologna ad accettare una donazione. (041U1603)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,20 +1,17 @@
-REGIO DECRETO 05 agosto 1932 n. 1278
+---
+tipo: REGIO DECRETO
+numero: 1278
+data: 1932-08-05
+titolo: "Modifiche al regolamento sugli assegni speciali di bordo. (032U1278)"
+urn: urn:nir:stato:regio.decreto:1932-08-05;1278
+codice_redazionale: 032U1278
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 agosto 1932 n. 1278
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modifiche al regolamento sugli assegni speciali di bordo. (032U1278)
---------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/07/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

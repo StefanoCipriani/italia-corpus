@@ -1,25 +1,21 @@
-REGIO DECRETO 26 settembre 1942 n. 1464
+---
+tipo: REGIO DECRETO
+numero: 1464
+data: 1942-09-26
+titolo: "Concessione di uno speciale soprassoldo giornaliero ai comandanti di squadra combattente. (042U1464)"
+urn: urn:nir:stato:regio.decreto:1942-09-26;1464
+codice_redazionale: 042U1464
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1942 n. 1464
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Concessione di uno speciale soprassoldo giornaliero ai comandanti di squadra combattente. (042U1464)
-----------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/01/1943
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,21 +1,21 @@
-REGIO DECRETO 03 febbraio 1938 n. 419
+---
+tipo: REGIO DECRETO
+numero: 419
+data: 1938-02-03
+titolo: "Soppressione delle Fabbricerie di n. 12 Chiese in provincia di Genova. (038U0419)"
+urn: urn:nir:stato:regio.decreto:1938-02-03;419
+codice_redazionale: 038U0419
+vigente: true
+---
 
-
-REGIO DECRETO 03 febbraio 1938 n. 419
-=====================================
-
-Soppressione delle Fabbricerie di n. 12 Chiese in provincia di Genova. (038U0419)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-419. R. decreto 3 febbraio 1938, col quale, sulla proposta del Capo del Governo Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto alla soppressione della fabbricerie di n. 12 Chiese in provincia di Genova.   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, add' 14 aprile 1938 - Anno XVI
+419.
+
+R. decreto 3 febbraio 1938, col quale, sulla proposta del Capo del Governo Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto alla soppressione della fabbricerie di n. 12 Chiese in provincia di Genova. 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, add' 14 aprile 1938 - Anno XVI

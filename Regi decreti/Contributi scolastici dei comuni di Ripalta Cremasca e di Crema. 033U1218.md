@@ -1,15 +1,13 @@
-REGIO DECRETO 16 marzo 1933 n. 1218
+---
+tipo: REGIO DECRETO
+numero: 1218
+data: 1933-03-16
+titolo: "Contributi scolastici dei comuni di Ripalta Cremasca e di Crema. (033U1218)"
+urn: urn:nir:stato:regio.decreto:1933-03-16;1218
+codice_redazionale: 033U1218
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 marzo 1933 n. 1218
-===================================
-
-Contributi scolastici dei comuni di Ripalta Cremasca e di Crema. (033U1218)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

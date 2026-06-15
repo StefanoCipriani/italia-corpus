@@ -1,15 +1,13 @@
-REGIO DECRETO 18 gennaio 1937 n. 2710
+---
+tipo: REGIO DECRETO
+numero: 2710
+data: 1937-01-18
+titolo: "Variazioni agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1936-37. (037U2710)"
+urn: urn:nir:stato:regio.decreto:1937-01-18;2710
+codice_redazionale: 037U2710
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 gennaio 1937 n. 2710
-=====================================
-
-Variazioni agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1936-37. (037U2710)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

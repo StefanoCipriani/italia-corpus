@@ -1,15 +1,13 @@
-REGIO DECRETO 16 maggio 1932 n. 761
+---
+tipo: REGIO DECRETO
+numero: 761
+data: 1932-05-16
+titolo: "Erezione in ente morale della fondazione «Nuovo ospedale civile di Pescara», con sede in Pescara, e fusione nel detto ente dell'Opera pia «Ospedale civile» con sede nell'ex comune di Castellammare Adriatico. (032U0761)"
+urn: urn:nir:stato:regio.decreto:1932-05-16;761
+codice_redazionale: 032U0761
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 maggio 1932 n. 761
-===================================
-
-Erezione in ente morale della fondazione «Nuovo ospedale civile di Pescara», con sede in Pescara, e fusione nel detto ente dell'Opera pia «Ospedale civile» con sede nell'ex comune di Castellammare Adriatico. (032U0761)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

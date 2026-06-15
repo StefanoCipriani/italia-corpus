@@ -1,15 +1,13 @@
-REGIO DECRETO 15 ottobre 1936 n. 2055
+---
+tipo: REGIO DECRETO
+numero: 2055
+data: 1936-10-15
+titolo: "Autorizzazione alla Regia Accademia di S. Cecilia ad accettare un legato. (036U2055)"
+urn: urn:nir:stato:regio.decreto:1936-10-15;2055
+codice_redazionale: 036U2055
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 ottobre 1936 n. 2055
-=====================================
-
-Autorizzazione alla Regia Accademia di S. Cecilia ad accettare un legato. (036U2055)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/12/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

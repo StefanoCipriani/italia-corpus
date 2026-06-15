@@ -1,20 +1,17 @@
-REGIO DECRETO 19 agosto 1932 n. 1224
+---
+tipo: REGIO DECRETO
+numero: 1224
+data: 1932-08-19
+titolo: "Autorizzazione al comune di Baveno a riscuotere le imposte di consumo con la tariffa della classe immediatamente superiore. (032U1224)"
+urn: urn:nir:stato:regio.decreto:1932-08-19;1224
+codice_redazionale: 032U1224
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 agosto 1932 n. 1224
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Autorizzazione al comune di Baveno a riscuotere le imposte di consumo con la tariffa della classe immediatamente superiore. (032U1224)
---------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/10/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,32 +1,21 @@
-REGIO DECRETO 13 aprile 1944 n. 129
+---
+tipo: REGIO DECRETO
+numero: 129
+data: 1944-04-13
+titolo: "Aumento assegni di cancelleria per le RR. Navi. (044U0129)"
+urn: urn:nir:stato:regio.decreto:1944-04-13;129
+codice_redazionale: 044U0129
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 aprile 1944 n. 129
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Aumento assegni di cancelleria per le RR. Navi. (044U0129)
-----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/05/1944
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabella M
-
- Tabella M   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 07 aprile 1932 n. 378
+---
+tipo: REGIO DECRETO
+numero: 378
+data: 1932-04-07
+titolo: "17ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1931-32. (032U0378)"
+urn: urn:nir:stato:regio.decreto:1932-04-07;378
+codice_redazionale: 032U0378
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 aprile 1932 n. 378
-===================================
-
-17ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1931-32. (032U0378)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/05/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

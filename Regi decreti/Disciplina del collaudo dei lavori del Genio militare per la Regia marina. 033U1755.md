@@ -1,20 +1,17 @@
-REGIO DECRETO 30 novembre 1933 n. 1755
+---
+tipo: REGIO DECRETO
+numero: 1755
+data: 1933-11-30
+titolo: "Disciplina del collaudo dei lavori del Genio militare per la Regia marina. (033U1755)"
+urn: urn:nir:stato:regio.decreto:1933-11-30;1755
+codice_redazionale: 033U1755
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 novembre 1933 n. 1755
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Disciplina del collaudo dei lavori del Genio militare per la Regia marina. (033U1755)
--------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/01/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

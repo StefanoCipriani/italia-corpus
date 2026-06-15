@@ -1,20 +1,17 @@
-REGIO DECRETO 22 gennaio 1934 n. 135
+---
+tipo: REGIO DECRETO
+numero: 135
+data: 1934-01-22
+titolo: "Emissione di speciali francobolli in occasione del primo volo postale diretto Roma-Buenos Aires. (034U0135)"
+urn: urn:nir:stato:regio.decreto:1934-01-22;135
+codice_redazionale: 034U0135
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 gennaio 1934 n. 135
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Emissione di speciali francobolli in occasione del primo volo postale diretto Roma-Buenos Aires. (034U0135)
------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 16 luglio 1935 n. 1539
+---
+tipo: REGIO DECRETO
+numero: 1539
+data: 1935-07-16
+titolo: "Scioglimento e messa in liquidazione dell'Istituto autonomo per le case popolari di S. Giovanni in Persiceto e nomina del liquidatore. (035U1539)"
+urn: urn:nir:stato:regio.decreto:1935-07-16;1539
+codice_redazionale: 035U1539
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 luglio 1935 n. 1539
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Scioglimento e messa in liquidazione dell'Istituto autonomo per le case popolari di S. Giovanni in Persiceto e nomina del liquidatore. (035U1539)
--------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/09/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

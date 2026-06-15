@@ -1,15 +1,13 @@
-REGIO DECRETO 10 febbraio 1937 n. 844
+---
+tipo: REGIO DECRETO
+numero: 844
+data: 1937-02-10
+titolo: "Erezione in ente morale dell'Associazione zoofila comasca per la protezione degli animali, con sede in Como. (037U0844)"
+urn: urn:nir:stato:regio.decreto:1937-02-10;844
+codice_redazionale: 037U0844
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 febbraio 1937 n. 844
-=====================================
-
-Erezione in ente morale dell'Associazione zoofila comasca per la protezione degli animali, con sede in Como. (037U0844)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

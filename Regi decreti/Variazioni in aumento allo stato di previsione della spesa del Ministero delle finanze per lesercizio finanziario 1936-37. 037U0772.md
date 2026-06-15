@@ -1,15 +1,13 @@
-REGIO DECRETO 29 maggio 1937 n. 772
+---
+tipo: REGIO DECRETO
+numero: 772
+data: 1937-05-29
+titolo: "Variazioni in aumento allo stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1936-37. (037U0772)"
+urn: urn:nir:stato:regio.decreto:1937-05-29;772
+codice_redazionale: 037U0772
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 maggio 1937 n. 772
-===================================
-
-Variazioni in aumento allo stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1936-37. (037U0772)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

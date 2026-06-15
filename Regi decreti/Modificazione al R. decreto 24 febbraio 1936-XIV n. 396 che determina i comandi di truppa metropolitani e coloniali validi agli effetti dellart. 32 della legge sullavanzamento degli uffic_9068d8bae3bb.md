@@ -1,20 +1,17 @@
-REGIO DECRETO 30 novembre 1936 n. 2253
+---
+tipo: REGIO DECRETO
+numero: 2253
+data: 1936-11-30
+titolo: "Modificazione al R. decreto 24 febbraio 1936-XIV, n. 396, che determina i comandi di truppa metropolitani e coloniali validi agli effetti dell'art. 32 della legge sull'avanzamento degli ufficiali del Regio esercito. (036U2253)"
+urn: urn:nir:stato:regio.decreto:1936-11-30;2253
+codice_redazionale: 036U2253
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 novembre 1936 n. 2253
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione al R. decreto 24 febbraio 1936-XIV, n. 396, che determina i comandi di truppa metropolitani e coloniali validi agli effetti dell'art. 32 della legge sull'avanzamento degli ufficiali del Regio esercito. (036U2253)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/02/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

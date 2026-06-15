@@ -1,20 +1,17 @@
-REGIO DECRETO 09 dicembre 1935 n. 2239
+---
+tipo: REGIO DECRETO
+numero: 2239
+data: 1935-12-09
+titolo: "Dipendenza disciplinare dei sottufficiali del Regio esercito. (035U2239)"
+urn: urn:nir:stato:regio.decreto:1935-12-09;2239
+codice_redazionale: 035U2239
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 dicembre 1935 n. 2239
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Dipendenza disciplinare dei sottufficiali del Regio esercito. (035U2239)
-------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/01/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

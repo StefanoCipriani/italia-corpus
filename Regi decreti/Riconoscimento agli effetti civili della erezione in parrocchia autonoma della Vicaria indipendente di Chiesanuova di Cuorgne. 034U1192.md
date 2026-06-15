@@ -1,21 +1,21 @@
-REGIO DECRETO 21 giugno 1934 n. 1192
+---
+tipo: REGIO DECRETO
+numero: 1192
+data: 1934-06-21
+titolo: "Riconoscimento, agli effetti civili, della erezione in parrocchia autonoma della Vicaria indipendente di Chiesanuova di Cuorgne'. (034U1192)"
+urn: urn:nir:stato:regio.decreto:1934-06-21;1192
+codice_redazionale: 034U1192
+vigente: true
+---
 
-
-REGIO DECRETO 21 giugno 1934 n. 1192
-====================================
-
-Riconoscimento, agli effetti civili, della erezione in parrocchia autonoma della Vicaria indipendente di Chiesanuova di Cuorgne'. (034U1192)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/08/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1192. R. decreto 21 giugno 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Ivrea e Conte, in data 15 novembre 1933, relativo alla erezione in parrocchia autonoma della Vicaria indipendente di Chiesanuova di Cuorgne' (Aosta).   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 21 luglio 1934 - Anno XII
+1192.
+
+R. decreto 21 giugno 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Ivrea e Conte, in data 15 novembre 1933, relativo alla erezione in parrocchia autonoma della Vicaria indipendente di Chiesanuova di Cuorgne' (Aosta). 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 21 luglio 1934 - Anno XII

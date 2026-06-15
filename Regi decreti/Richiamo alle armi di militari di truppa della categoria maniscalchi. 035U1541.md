@@ -1,25 +1,21 @@
-REGIO DECRETO 09 agosto 1935 n. 1541
+---
+tipo: REGIO DECRETO
+numero: 1541
+data: 1935-08-09
+titolo: "Richiamo alle armi di militari di truppa della categoria maniscalchi. (035U1541)"
+urn: urn:nir:stato:regio.decreto:1935-08-09;1541
+codice_redazionale: 035U1541
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 agosto 1935 n. 1541
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi di militari di truppa della categoria maniscalchi. (035U1541)
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 19/06/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

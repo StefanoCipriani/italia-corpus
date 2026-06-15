@@ -1,15 +1,13 @@
-REGIO DECRETO 09 marzo 1936 n. 569
+---
+tipo: REGIO DECRETO
+numero: 569
+data: 1936-03-09
+titolo: "Erezione in ente morale dell'Opera pia «Ospedaletto ricovero Bianca della Valle», in Rivalta (Torino). (036U0569)"
+urn: urn:nir:stato:regio.decreto:1936-03-09;569
+codice_redazionale: 036U0569
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 marzo 1936 n. 569
-==================================
-
-Erezione in ente morale dell'Opera pia «Ospedaletto ricovero Bianca della Valle», in Rivalta (Torino). (036U0569)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

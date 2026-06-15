@@ -1,461 +1,379 @@
-REGIO DECRETO 27 gennaio 1933 n. 153
+---
+tipo: REGIO DECRETO
+numero: 153
+data: 1933-01-27
+titolo: "Approvazione del regolamento per i concorsi ai posti di direttore, insegnante ed istruttore pratico nelle Regie scuole e nei Regi corsi secondari di avviamento professionale. (033U0153)"
+urn: urn:nir:stato:regio.decreto:1933-01-27;153
+codice_redazionale: 033U0153
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 gennaio 1933 n. 153
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Approvazione del regolamento per i concorsi ai posti di direttore, insegnante ed istruttore pratico nelle Regie scuole e nei Regi corsi secondari di avviamento professionale. (033U0153)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/04/1933
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 15
--------
+## Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 16
--------
+## Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 17
--------
+## Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 18
--------
+## Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 19
--------
+## Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 20
--------
+## Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 21
--------
+## Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 22
--------
+## Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 23
--------
+## Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 24
--------
+## Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 25
--------
+## Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 26
--------
+## Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 27
--------
+## Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 28
--------
+## Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 29
--------
+## Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 30
--------
+## Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 31
--------
+## Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 32
--------
+## Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 33
--------
+## Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 34
--------
+## Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 35
--------
+## Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 36
--------
+## Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 37
--------
+## Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 38
--------
+## Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 39
--------
+## Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 40
--------
+## Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 41
--------
+## Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 42
--------
+## Art. 44.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 43
--------
+## Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 44
--------
+## Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 45
--------
+## Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 46
--------
+## Art. 48.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 47
--------
+## Art. 49.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 48
--------
+## Art. 50.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 49
--------
+## Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 50
--------
+## Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 51
--------
+## Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 52
--------
+## Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 53
--------
+## Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 54
--------
+## Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 55
--------
+## Art. 57.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 56
--------
+## Art. 58.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 57
--------
+## Art. 59.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 58
--------
+## Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 59
--------
+## Art. 61.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 60
--------
+## Art. 62.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 61
--------
+## Art. 63.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 62
--------
+## Art. 64.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 63
--------
+## Art. 65.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 64
--------
+## Art. 66.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 65
--------
+## Art. 67.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 66
--------
+## Art. 68.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 67
--------
+## Art. 69.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 68
--------
+## Art. 70.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 69
--------
+## Art. 71.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 70
--------
+### Art. 72.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 71
--------
+### Art. 73.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-CAPO II
--------
+### Art. 74.
 
-### Art. 72
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-### Art. 73
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-### Art. 74
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Tabelle
-
- Tabelle   
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

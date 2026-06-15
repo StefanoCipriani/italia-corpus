@@ -1,20 +1,17 @@
-REGIO DECRETO 08 ottobre 1940 n. 1573
+---
+tipo: REGIO DECRETO
+numero: 1573
+data: 1940-10-08
+titolo: "Costituzione di un Consorzio di rimboschimento fra lo Stato e la provincia di Brindisi. (040U1573)"
+urn: urn:nir:stato:regio.decreto:1940-10-08;1573
+codice_redazionale: 040U1573
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 ottobre 1940 n. 1573
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Costituzione di un Consorzio di rimboschimento fra lo Stato e la provincia di Brindisi. (040U1573)
---------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/12/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

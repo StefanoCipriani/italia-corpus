@@ -1,21 +1,21 @@
-REGIO DECRETO 30 luglio 1940 n. 1248
+---
+tipo: REGIO DECRETO
+numero: 1248
+data: 1940-07-30
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Passioniste, con sede in Loreto (Ancona). (040U1248)"
+urn: urn:nir:stato:regio.decreto:1940-07-30;1248
+codice_redazionale: 040U1248
+vigente: true
+---
 
-
-REGIO DECRETO 30 luglio 1940 n. 1248
-====================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Passioniste, con sede in Loreto (Ancona). (040U1248)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1248. R. decreto 30 luglio 1940, col quale, sulla proposta del DUCE del Fascismo Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Passioniste, con sede in Loreto (Ancona).   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 2 settembre 1940-XVIII
+1248.
+
+R. decreto 30 luglio 1940, col quale, sulla proposta del DUCE del Fascismo Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Passioniste, con sede in Loreto (Ancona). 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 2 settembre 1940-XVIII

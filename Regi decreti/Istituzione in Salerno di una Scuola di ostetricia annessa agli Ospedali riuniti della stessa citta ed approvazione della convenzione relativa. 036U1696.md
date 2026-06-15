@@ -1,20 +1,17 @@
-REGIO DECRETO 21 agosto 1936 n. 1696
+---
+tipo: REGIO DECRETO
+numero: 1696
+data: 1936-08-21
+titolo: "Istituzione in Salerno di una Scuola di ostetricia annessa agli Ospedali riuniti della stessa citta' ed approvazione della convenzione relativa. (036U1696)"
+urn: urn:nir:stato:regio.decreto:1936-08-21;1696
+codice_redazionale: 036U1696
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 agosto 1936 n. 1696
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione in Salerno di una Scuola di ostetricia annessa agli Ospedali riuniti della stessa citta' ed approvazione della convenzione relativa. (036U1696)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/10/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

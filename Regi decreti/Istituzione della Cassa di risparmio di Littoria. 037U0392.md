@@ -1,15 +1,13 @@
-REGIO DECRETO 15 marzo 1937 n. 392
+---
+tipo: REGIO DECRETO
+numero: 392
+data: 1937-03-15
+titolo: "Istituzione della Cassa di risparmio di Littoria. (037U0392)"
+urn: urn:nir:stato:regio.decreto:1937-03-15;392
+codice_redazionale: 037U0392
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 marzo 1937 n. 392
-==================================
-
-Istituzione della Cassa di risparmio di Littoria. (037U0392)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

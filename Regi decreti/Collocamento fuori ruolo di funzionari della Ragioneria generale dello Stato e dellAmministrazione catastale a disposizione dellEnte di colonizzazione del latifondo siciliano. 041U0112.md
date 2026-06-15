@@ -1,15 +1,13 @@
-REGIO DECRETO 06 febbraio 1941 n. 112
+---
+tipo: REGIO DECRETO
+numero: 112
+data: 1941-02-06
+titolo: "Collocamento fuori ruolo di funzionari della Ragioneria generale dello Stato e dell'Amministrazione catastale a disposizione dell'Ente di colonizzazione del latifondo siciliano. (041U0112)"
+urn: urn:nir:stato:regio.decreto:1941-02-06;112
+codice_redazionale: 041U0112
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 febbraio 1941 n. 112
-=====================================
-
-Collocamento fuori ruolo di funzionari della Ragioneria generale dello Stato e dell'Amministrazione catastale a disposizione dell'Ente di colonizzazione del latifondo siciliano. (041U0112)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

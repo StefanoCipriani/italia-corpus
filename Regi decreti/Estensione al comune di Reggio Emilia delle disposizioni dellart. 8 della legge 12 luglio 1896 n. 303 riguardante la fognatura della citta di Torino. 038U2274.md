@@ -1,25 +1,21 @@
-REGIO DECRETO 25 agosto 1938 n. 2274
+---
+tipo: REGIO DECRETO
+numero: 2274
+data: 1938-08-25
+titolo: "Estensione al comune di Reggio Emilia delle disposizioni dell'art. 8 della legge 12 luglio 1896, n. 303, riguardante la fognatura della citta' di Torino. (038U2274)"
+urn: urn:nir:stato:regio.decreto:1938-08-25;2274
+codice_redazionale: 038U2274
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 agosto 1938 n. 2274
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Estensione al comune di Reggio Emilia delle disposizioni dell'art. 8 della legge 12 luglio 1896, n. 303, riguardante la fognatura della citta' di Torino. (038U2274)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 05/05/1939
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

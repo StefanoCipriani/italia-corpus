@@ -1,26 +1,17 @@
-REGIO DECRETO 05 febbraio 1934 n. 1106
+---
+tipo: REGIO DECRETO
+numero: 1106
+data: 1934-02-05
+titolo: "Fissazione dei contributi dovuti da alcuni Comuni del Veneto per le Regie scuole ed i Regi corsi secondari di avviamento professionale. (034U1106)"
+urn: urn:nir:stato:regio.decreto:1934-02-05;1106
+codice_redazionale: 034U1106
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 febbraio 1934 n. 1106
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Fissazione dei contributi dovuti da alcuni Comuni del Veneto per le Regie scuole ed i Regi corsi secondari di avviamento professionale. (034U1106)
---------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/08/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Elenco
-
- Elenco   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

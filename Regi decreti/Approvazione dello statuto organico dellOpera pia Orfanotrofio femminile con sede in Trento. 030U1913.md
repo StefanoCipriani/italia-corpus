@@ -1,15 +1,13 @@
-REGIO DECRETO 15 dicembre 1930 n. 1913
+---
+tipo: REGIO DECRETO
+numero: 1913
+data: 1930-12-15
+titolo: "Approvazione dello statuto organico dell'Opera pia «Orfanotrofio femminile», con sede in Trento. (030U1913)"
+urn: urn:nir:stato:regio.decreto:1930-12-15;1913
+codice_redazionale: 030U1913
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1930 n. 1913
-======================================
-
-Approvazione dello statuto organico dell'Opera pia «Orfanotrofio femminile», con sede in Trento. (030U1913)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

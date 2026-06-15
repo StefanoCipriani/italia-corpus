@@ -1,16 +1,14 @@
-REGIO DECRETO 03 aprile 1892 n. CLXXXVII
-
-
-REGIO DECRETO 03 aprile 1892 n. CLXXXVII
-========================================
-
-Che concentra nella congregazione di carita' di Turro Milanese l'amministrazione dell'opera pia Valtorta. (9200187R)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1892
+---
+tipo: REGIO DECRETO
+numero: CLXXXVII
+data: 1892-04-03
+titolo: "Che concentra nella congregazione di carita' di Turro Milanese l'amministrazione dell'opera pia Valtorta. (9200187R)"
+urn: urn:nir:stato:regio.decreto:1892-04-03;187
+codice_redazionale: 9200187R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Veduta la proposta della congregazione di carita' e del consiglio comunale di Tu
 
 Veduto il voto favorevole della giunta provinciale amministrativa;
 
-Vista la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Udito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'amministrazione dell'opera pia Valtorta in Turro Milanese, e' concata entrnella locale congregazione di carita'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 aprile 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 13 aprile 1892.   
-  
-Reg. 183. Atti del Governo a f. 153. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Nicotera.   
+L'amministrazione dell'opera pia Valtorta in Turro Milanese, e' concata entrnella locale congregazione di carita'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 aprile 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 13 aprile 1892. 
+ 
+ Reg. 183. Atti del Governo a f. 153. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Nicotera.

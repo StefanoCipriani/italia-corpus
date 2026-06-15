@@ -1,45 +1,37 @@
-REGIO DECRETO 14 dicembre 1942 n. 1729
+---
+tipo: REGIO DECRETO
+numero: 1729
+data: 1942-12-14
+titolo: "Concessione della croce al merito di guerra al personale che dal 10 giugno 1940-XVIII, abbia partecipato ad operazioni militari nella guerra in corso. (042U1729)"
+urn: urn:nir:stato:regio.decreto:1942-12-14;1729
+codice_redazionale: 042U1729
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 dicembre 1942 n. 1729
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Concessione della croce al merito di guerra al personale che dal 10 giugno 1940-XVIII, abbia partecipato ad operazioni militari nella guerra in corso. (042U1729)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/02/1943
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

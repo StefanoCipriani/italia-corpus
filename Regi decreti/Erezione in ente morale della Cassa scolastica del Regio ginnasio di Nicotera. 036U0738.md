@@ -1,15 +1,13 @@
-REGIO DECRETO 16 marzo 1936 n. 738
+---
+tipo: REGIO DECRETO
+numero: 738
+data: 1936-03-16
+titolo: "Erezione in ente morale della Cassa scolastica del Regio ginnasio di Nicotera. (036U0738)"
+urn: urn:nir:stato:regio.decreto:1936-03-16;738
+codice_redazionale: 036U0738
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 marzo 1936 n. 738
-==================================
-
-Erezione in ente morale della Cassa scolastica del Regio ginnasio di Nicotera. (036U0738)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

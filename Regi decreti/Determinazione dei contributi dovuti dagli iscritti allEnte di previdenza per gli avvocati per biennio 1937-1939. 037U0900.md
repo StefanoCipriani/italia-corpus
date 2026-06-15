@@ -1,20 +1,17 @@
-REGIO DECRETO 06 maggio 1937 n. 900
+---
+tipo: REGIO DECRETO
+numero: 900
+data: 1937-05-06
+titolo: "Determinazione dei contributi dovuti dagli iscritti all'Ente di previdenza per gli avvocati per biennio 1937-1939. (037U0900)"
+urn: urn:nir:stato:regio.decreto:1937-05-06;900
+codice_redazionale: 037U0900
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 maggio 1937 n. 900
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Determinazione dei contributi dovuti dagli iscritti all'Ente di previdenza per gli avvocati per biennio 1937-1939. (037U0900)
------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/07/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

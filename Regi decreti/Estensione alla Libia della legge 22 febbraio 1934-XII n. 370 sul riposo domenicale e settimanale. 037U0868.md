@@ -1,25 +1,21 @@
-REGIO DECRETO 08 aprile 1937 n. 868
+---
+tipo: REGIO DECRETO
+numero: 868
+data: 1937-04-08
+titolo: "Estensione alla Libia della legge 22 febbraio 1934-XII, n. 370 sul riposo domenicale e settimanale. (037U0868)"
+urn: urn:nir:stato:regio.decreto:1937-04-08;868
+codice_redazionale: 037U0868
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 aprile 1937 n. 868
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alla Libia della legge 22 febbraio 1934-XII, n. 370 sul riposo domenicale e settimanale. (037U0868)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/07/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

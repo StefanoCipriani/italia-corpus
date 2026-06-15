@@ -1,15 +1,13 @@
-REGIO DECRETO 22 ottobre 1936 n. 2112
+---
+tipo: REGIO DECRETO
+numero: 2112
+data: 1936-10-22
+titolo: "Approvazione del nuovo statuto della «Fondazione dell'Arma dei Carabinieri Reali». (036U2112)"
+urn: urn:nir:stato:regio.decreto:1936-10-22;2112
+codice_redazionale: 036U2112
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1936 n. 2112
-=====================================
-
-Approvazione del nuovo statuto della «Fondazione dell'Arma dei Carabinieri Reali». (036U2112)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

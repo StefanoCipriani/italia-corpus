@@ -1,15 +1,13 @@
-REGIO DECRETO 15 aprile 1943 n. 378
+---
+tipo: REGIO DECRETO
+numero: 378
+data: 1943-04-15
+titolo: "Autorizzazione alla Regia deputazione napoletana di storia patria ad accettare una donazione. (043U0378)"
+urn: urn:nir:stato:regio.decreto:1943-04-15;378
+codice_redazionale: 043U0378
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 aprile 1943 n. 378
-===================================
-
-Autorizzazione alla Regia deputazione napoletana di storia patria ad accettare una donazione. (043U0378)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

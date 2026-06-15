@@ -1,20 +1,17 @@
-REGIO DECRETO 13 agosto 1940 n. 1190
+---
+tipo: REGIO DECRETO
+numero: 1190
+data: 1940-08-13
+titolo: "Disposizioni relative al servizio ispettivo, tecnico ed amministrativo per l'istruzione musicale. (040U1190)"
+urn: urn:nir:stato:regio.decreto:1940-08-13;1190
+codice_redazionale: 040U1190
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1940 n. 1190
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Disposizioni relative al servizio ispettivo, tecnico ed amministrativo per l'istruzione musicale. (040U1190)
-------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/08/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

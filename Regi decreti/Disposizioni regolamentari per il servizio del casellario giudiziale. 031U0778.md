@@ -1,206 +1,213 @@
-REGIO DECRETO 18 giugno 1931 n. 778
+---
+tipo: REGIO DECRETO
+numero: 778
+data: 1931-06-18
+titolo: "Disposizioni regolamentari per il servizio del casellario giudiziale. (031U0778)"
+urn: urn:nir:stato:regio.decreto:1931-06-18;778
+codice_redazionale: 031U0778
+vigente: true
+---
 
+## NORME GENERALI
 
-REGIO DECRETO 18 giugno 1931 n. 778
-===================================
+TITOLO I
 
-Disposizioni regolamentari per il servizio del casellario giudiziale. (031U0778)
---------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 01/07/1931
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-CAPO I TITOLO I NORME GENERALI
-------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+## FORMAZIONE DELLE SCHEDE E LORO TRASMISSIONE AGLI UFFICI DEL CASELLARIO GIUDIZIALE
 
-### Art. 3
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 4.
 
-CAPO II TITOLO II FORMAZIONE DELLE SCHEDE E LORO TRASMISSIONE AGLI UFFICI DEL CASELLARIO GIUDIZIALE
----------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 13
+## FOGLI COMPLEMENTARI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+TITOLO III
 
-CAPO III TITOLO III FOGLI COMPLEMENTARI
----------------------------------------
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+## UFFICI LOCALI DEL CASELLARIO ED UFFICIO DEL CASELLARIO CENTRALE
 
-CAPO IV TITOLO IV UFFICI LOCALI DEL CASELLARIO ED UFFICIO DEL CASELLARIO CENTRALE
----------------------------------------------------------------------------------
+TITOLO IV
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-CAPO V TITOLO V CERTIFICATI DEL CASELLARIO
-------------------------------------------
+## CERTIFICATI DEL CASELLARIO
 
-### Art. 23
+TITOLO V
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 29.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 30.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 31.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 32.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 33.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 34.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 35.
 
-CAPO VI TITOLO VI ELIMINAZIONE DELLE SCHEDE
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 36
+## ELIMINAZIONE DELLE SCHEDE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+TITOLO VI
 
-### Art. 37
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-CAPO VII TITOLO VII CONTROVERSIE E RETTIFICHE
----------------------------------------------
+### Art. 38.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+## CONTROVERSIE E RETTIFICHE
 
-### Art. 40
+TITOLO VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+### Art. 39.
 
-CAPO VIII TITOLO VIII DISPOSIZIONI TRANSITORIE
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 41
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-### Art. 42
+## DISPOSIZIONI TRANSITORIE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+TITOLO VIII
 
-### Art. 43
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 NOVEMBRE 2002, N. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
+
+### Art. 42.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
+
+### Art. 43.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))

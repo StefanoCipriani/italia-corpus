@@ -1,15 +1,13 @@
-REGIO DECRETO 12 luglio 1938 n. 1225
+---
+tipo: REGIO DECRETO
+numero: 1225
+data: 1938-07-12
+titolo: "Determinazione del perimetro dell'area di espansione della citta' di Roma verso il mare a nord-est della zona dell'Esposizione Universale ed a sinistra del fosso della Cecchignola. (038U1225)"
+urn: urn:nir:stato:regio.decreto:1938-07-12;1225
+codice_redazionale: 038U1225
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 luglio 1938 n. 1225
-====================================
-
-Determinazione del perimetro dell'area di espansione della citta' di Roma verso il mare a nord-est della zona dell'Esposizione Universale ed a sinistra del fosso della Cecchignola. (038U1225)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

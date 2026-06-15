@@ -1,15 +1,13 @@
-REGIO DECRETO 17 gennaio 1935 n. 524
+---
+tipo: REGIO DECRETO
+numero: 524
+data: 1935-01-17
+titolo: "Raggruppamento del «Grande Ospedale Civico Piemonte» e dell'«Ospedale consorziale Regina Margherita», con sede in Messina. (035U0524)"
+urn: urn:nir:stato:regio.decreto:1935-01-17;524
+codice_redazionale: 035U0524
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 gennaio 1935 n. 524
-====================================
-
-Raggruppamento del «Grande Ospedale Civico Piemonte» e dell'«Ospedale consorziale Regina Margherita», con sede in Messina. (035U0524)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

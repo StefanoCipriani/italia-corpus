@@ -1,26 +1,17 @@
-REGIO DECRETO 27 dicembre 1934 n. 2258
+---
+tipo: REGIO DECRETO
+numero: 2258
+data: 1934-12-27
+titolo: "Approvazione della tariffa dei diritti di segreteria dell'Ufficio provinciale dell'economia corporativa di Pavia. (034U2258)"
+urn: urn:nir:stato:regio.decreto:1934-12-27;2258
+codice_redazionale: 034U2258
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 dicembre 1934 n. 2258
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione della tariffa dei diritti di segreteria dell'Ufficio provinciale dell'economia corporativa di Pavia. (034U2258)
-----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 21/02/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

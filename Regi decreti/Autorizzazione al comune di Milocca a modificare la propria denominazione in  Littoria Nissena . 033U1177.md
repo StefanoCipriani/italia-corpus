@@ -1,15 +1,13 @@
-REGIO DECRETO 04 agosto 1933 n. 1177
+---
+tipo: REGIO DECRETO
+numero: 1177
+data: 1933-08-04
+titolo: "Autorizzazione al comune di Milocca a modificare la propria denominazione in « Littoria Nissena ». (033U1177)"
+urn: urn:nir:stato:regio.decreto:1933-08-04;1177
+codice_redazionale: 033U1177
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 agosto 1933 n. 1177
-====================================
-
-Autorizzazione al comune di Milocca a modificare la propria denominazione in « Littoria Nissena ». (033U1177)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

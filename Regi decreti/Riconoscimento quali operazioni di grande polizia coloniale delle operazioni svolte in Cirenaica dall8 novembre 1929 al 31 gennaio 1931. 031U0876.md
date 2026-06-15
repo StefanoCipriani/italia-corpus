@@ -1,20 +1,17 @@
-REGIO DECRETO 18 giugno 1931 n. 876
+---
+tipo: REGIO DECRETO
+numero: 876
+data: 1931-06-18
+titolo: "Riconoscimento, quali operazioni di grande polizia coloniale, delle operazioni svolte in Cirenaica dall'8 novembre 1929 al 31 gennaio 1931. (031U0876)"
+urn: urn:nir:stato:regio.decreto:1931-06-18;876
+codice_redazionale: 031U0876
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1931 n. 876
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Riconoscimento, quali operazioni di grande polizia coloniale, delle operazioni svolte in Cirenaica dall'8 novembre 1929 al 31 gennaio 1931. (031U0876)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/07/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

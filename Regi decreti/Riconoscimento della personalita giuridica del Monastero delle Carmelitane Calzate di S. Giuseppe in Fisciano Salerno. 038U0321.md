@@ -1,15 +1,13 @@
-REGIO DECRETO 20 gennaio 1938 n. 321
+---
+tipo: REGIO DECRETO
+numero: 321
+data: 1938-01-20
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Carmelitane Calzate di S. Giuseppe, in Fisciano (Salerno). (038U0321)"
+urn: urn:nir:stato:regio.decreto:1938-01-20;321
+codice_redazionale: 038U0321
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1938 n. 321
-====================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Carmelitane Calzate di S. Giuseppe, in Fisciano (Salerno). (038U0321)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/04/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

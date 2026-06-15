@@ -1,15 +1,13 @@
-REGIO DECRETO 24 luglio 1938 n. 1357
+---
+tipo: REGIO DECRETO
+numero: 1357
+data: 1938-07-24
+titolo: "Autorizzazione alla Regia universita' di Padova ad accettare una donazione. (038U1357)"
+urn: urn:nir:stato:regio.decreto:1938-07-24;1357
+codice_redazionale: 038U1357
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1938 n. 1357
-====================================
-
-Autorizzazione alla Regia universita' di Padova ad accettare una donazione. (038U1357)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

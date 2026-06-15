@@ -1,21 +1,13 @@
-REGIO DECRETO 13 novembre 1930 n. 1705
+---
+tipo: REGIO DECRETO
+numero: 1705
+data: 1930-11-13
+titolo: "Contributi scolastici dovuti dai comuni di Rovigo e Verona per il periodo 1° gennaio-30 settembre 1929 per i Comuni ad essi aggregati. (030U1705)"
+urn: urn:nir:stato:regio.decreto:1930-11-13;1705
+codice_redazionale: 030U1705
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 novembre 1930 n. 1705
-======================================
-
-Contributi scolastici dovuti dai comuni di Rovigo e Verona per il periodo 1° gennaio-30 settembre 1929 per i Comuni ad essi aggregati. (030U1705)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Elenco
-
- Elenco   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

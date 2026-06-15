@@ -1,21 +1,21 @@
-REGIO DECRETO 08 febbraio 1943 n. 321
+---
+tipo: REGIO DECRETO
+numero: 321
+data: 1943-02-08
+titolo: "Erezione in ente morale dell'Asilo infantile «SS. Angeli Custodi», con sede in Arconate (Milano). (043U0321)"
+urn: urn:nir:stato:regio.decreto:1943-02-08;321
+codice_redazionale: 043U0321
+vigente: true
+---
 
-
-REGIO DECRETO 08 febbraio 1943 n. 321
-=====================================
-
-Erezione in ente morale dell'Asilo infantile «SS. Angeli Custodi», con sede in Arconate (Milano). (043U0321)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1943
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-821. R. decreto 8 febbraio 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Asilo infantile «SS. Angeli Custodi», con sede in Arconate (Milano), viene eretto in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 1° maggio 1943-XXI
+821.
+
+R. decreto 8 febbraio 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Asilo infantile «SS. Angeli Custodi», con sede in Arconate (Milano), viene eretto in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 1° maggio 1943-XXI

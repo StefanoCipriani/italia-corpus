@@ -1,1135 +1,1077 @@
-REGIO DECRETO 10 febbraio 1936 n. 484
+---
+tipo: REGIO DECRETO
+numero: 484
+data: 1936-02-10
+titolo: "Norme per disciplinare lo stato giuridico, il reclutamento, l'avanzamento ed il trattamento economico ed amministrativo del personale della Croce Rossa Italiana. (036U0484)"
+urn: urn:nir:stato:regio.decreto:1936-02-10;484
+codice_redazionale: 036U0484
+vigente: true
+---
 
+## Reclutamento del personale della Croce Rossa Italiana.  CAPO I. - Disposizioni generali - Gerarchia.
 
-REGIO DECRETO 10 febbraio 1936 n. 484
-=====================================
+PARTE I.
 
-Norme per disciplinare lo stato giuridico, il reclutamento, l'avanzamento ed il trattamento economico ed amministrativo del personale della Croce Rossa Italiana. (036U0484)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 18/04/1936
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO I PARTE I. Reclutamento del personale della Croce Rossa Italiana. CAPO I. - Disposizioni generali - Gerarchia.
--------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## Norme generali.
 
-### Art. 8
+CAPO II. - Procedura per le nomine.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 9.
 
-CAPO II CAPO II. - Procedura per le nomine. Norme generali.
------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 11
+## (Ufficiali).
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+CAPO III. - Arruolamento del personale direttivo.
 
-CAPO III CAPO III. - Arruolamento del personale direttivo. (Ufficiali).
------------------------------------------------------------------------
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 13.
 
-CAPO IV
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO V
-------
+### Art. 15.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 16.
 
-CAPO VI
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 15
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO VII
---------
+## (Sottufficiali e truppa).
 
-### Art. 16
+CAPO IV. - Arruolamento nel personale di assistenza.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 18.
 
-CAPO VIII
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 17
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO IX CAPO IV. - Arruolamento nel personale di assistenza. (Sottufficiali e truppa).
---------------------------------------------------------------------------------------
+### Art. 20.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 21.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 22.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 23.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 24.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## Doveri e diritti - Ruoli e trasferimenti di ruolo.
 
-### Art. 23
+CAPO VI. - Nomine - Stato giuridico - Durata degli arruolamenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 25.
 
-CAPO X
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 24
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XI CAPO VI. - Nomine - Stato giuridico - Durata degli arruolamenti Doveri e diritti - Ruoli e trasferimenti di ruolo.
---------------------------------------------------------------------------------------------------------------------------
+### Art. 27.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 28.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 29.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 30.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 31.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 32.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 33.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 34.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 35.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 36.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 37.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 38.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 39.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 40.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 41.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 42.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 43.
 
-### Art. 41
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 44.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 45.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 46.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 47.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## commissioni di disciplina.
 
-### Art. 46
+CAPO VII. - Perdita del grado - Sospensione dal grado - Consigli e
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 48.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 49.
 
-CAPO XII CAPO VII. - Perdita del grado - Sospensione dal grado - Consigli e commissioni di disciplina.
-------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 48
+### Art. 50.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 49
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 50
+### Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 51
+### Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 52
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 53
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 54
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 55
+### Art. 57.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 56
+### Art. 58.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 57
+### Art. 59.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 58
+### Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 59
+### Art. 61.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 60
+### Art. 62.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 61
+### Art. 63.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 62
+### Art. 64.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 63
+### Art. 65.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 64
+### Art. 66.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 65
+### Art. 67.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 66
+### Art. 68.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 67
+### Art. 69.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 68
+### Art. 70.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 69
+### Art. 71.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 70
+## Avanzamento del personale della Croce Rossa Italiana.  CAPO I - Disposizioni generali.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+PARTE II.
 
-### Art. 71
+### Art. 72.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XIII PARTE II. Avanzamento del personale della Croce Rossa Italiana. CAPO I - Disposizioni generali.
----------------------------------------------------------------------------------------------------------
+### Art. 73.
 
-### Art. 72
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## (Ufficiali).
 
-### Art. 73
+CAPO II - Avanzamento del personale direttivo.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 74.
 
-CAPO XIV CAPO II - Avanzamento del personale direttivo. (Ufficiali).
---------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 74
+### Art. 75.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 75
+### Art. 76.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 76
+### Art. 77.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 77
+### Art. 78.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 78
+### Art. 79.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 79
+### Art. 80.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 80
+### Art. 81.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 81
+### Art. 82.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 82
+### Art. 83.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 83
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 84
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 85
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 86
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 87
+## (Sottufficiali e truppa).
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+CAPO III. - Avanzamento del personale di assistenza.
 
-CAPO XV CAPO III. - Avanzamento del personale di assistenza. (Sottufficiali e truppa).
---------------------------------------------------------------------------------------
+### Art. 88.
 
-### Art. 88
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 89.
 
-### Art. 89
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 90.
 
-### Art. 90
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 91.
 
-### Art. 91
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 92.
 
-### Art. 92
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 93.
 
-### Art. 93
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 94.
 
-### Art. 94
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 95.
 
-### Art. 95
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 96.
 
-### Art. 96
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 97.
 
-### Art. 97
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 98.
 
-### Art. 98
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 99.
 
-CAPO XVI
---------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 99
+### Art. 100.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 100
+### Art. 101.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 101
+### Art. 102.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 102
+### Art. 103.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 103
+### Art. 104.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 104
+### Art. 105.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 105
+## Norme relative agli ufficiali fuori quadro ed in soprannumero.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+PARTE III.
 
-CAPO XVII PARTE III. Norme relative agli ufficiali fuori quadro ed in soprannumero.
------------------------------------------------------------------------------------
+### Art. 106.
 
-### Art. 106
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 107.
 
-### Art. 107
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 108.
 
-### Art. 108
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 109.
 
-### Art. 109
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 110.
 
-### Art. 110
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 111.
 
-### Art. 111
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 112.
 
-### Art. 112
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 113.
 
-### Art. 113
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 114.
 
-### Art. 114
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 115.
 
-### Art. 115
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## Assegni ed indennita' al personale militare della Croce Rossa- Italiana.  Disposizioni generali.
 
-CAPO XVIII PARTE IV. Assegni ed indennita' al personale militare della Croce Rossa- Italiana. Disposizioni generali.
---------------------------------------------------------------------------------------------------------------------
+PARTE IV.
 
-### Art. 116
+### Art. 116.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XIX
---------
+### Art. 117.
 
-### Art. 117
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 118.
 
-### Art. 118
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 119.
 
-### Art. 119
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 120.
 
-### Art. 120
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 121.
 
-### Art. 121
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 122.
 
-### Art. 122
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 123.
 
-### Art. 123
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 124.
 
-### Art. 124
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 125.
 
-### Art. 125
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 126.
 
-### Art. 126
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 127.
 
-### Art. 127
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 128.
 
-### Art. 128
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 129.
 
-### Art. 129
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 130.
 
-### Art. 130
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 131.
 
-### Art. 131
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 132.
 
-### Art. 132
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 133.
 
-### Art. 133
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 134.
 
-### Art. 134
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 135.
 
-### Art. 135
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 136.
 
-### Art. 136
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 137.
 
-### Art. 137
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 138.
 
-### Art. 138
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 139.
 
-### Art. 139
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 140.
 
-### Art. 140
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 141.
 
-### Art. 141
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 142.
 
-### Art. 142
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 143.
 
-### Art. 143
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 144.
 
-CAPO XX
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 144
+### Art. 145.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXI
---------
+### Art. 146.
 
-### Art. 145
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 147.
 
-CAPO XXII
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 146
+### Art. 148.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 147
+### Art. 149.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 148
+### Art. 150.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 149
+### Art. 151.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXIII
-----------
+### Art. 152.
 
-### Art. 150
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 153.
 
-CAPO XXIV
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 151
+## e truppa). Norme relative alle competenze del marescialli.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+CAPO II. - Competenze del personale di assistenza. (Sottufficiali
 
-CAPO XXV
---------
+### Art. 154.
 
-### Art. 152
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 155.
 
-CAPO XXVI
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 153
+### Art. 156.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXVII CAPO II. - Competenze del personale di assistenza. (Sottufficiali e truppa). Norme relative alle competenze del marescialli.
----------------------------------------------------------------------------------------------------------------------------------------
+### Art. 157.
 
-### Art. 154
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 158.
 
-### Art. 155
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 159.
 
-### Art. 156
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 160.
 
-### Art. 157
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 161.
 
-### Art. 158
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 162.
 
-### Art. 159
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 163.
 
-### Art. 160
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 164.
 
-### Art. 161
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 165.
 
-### Art. 162
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 166.
 
-### Art. 163
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 167.
 
-### Art. 164
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 168.
 
-### Art. 165
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 169.
 
-### Art. 166
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 170.
 
-### Art. 167
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 171.
 
-### Art. 168
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 172.
 
-### Art. 169
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 173.
 
-### Art. 170
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 174.
 
-### Art. 171
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 175.
 
-### Art. 172
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 176.
 
-### Art. 173
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 177.
 
-### Art. 174
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 178.
 
-### Art. 175
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 179.
 
-### Art. 176
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 180.
 
-### Art. 177
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 181.
 
-### Art. 178
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 182.
 
-### Art. 179
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 183.
 
-### Art. 180
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 184.
 
-### Art. 181
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 185.
 
-### Art. 182
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 186.
 
-### Art. 183
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## e truppa.  Viaggi e servizi isolati.
 
-### Art. 184
+CAPO III. - Disposizioni comuni per gli ufficiali, sottufficiali
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 187.
 
-### Art. 185
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 188.
 
-### Art. 186
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 189.
 
-CAPO XXVIII CAPO III. - Disposizioni comuni per gli ufficiali, sottufficiali e truppa. Viaggi e servizi isolati.
-----------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 187
+### Art. 190.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 188
+### Art. 191.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 189
+### Art. 192.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 190
+### Art. 193.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 191
+### Art. 194.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 192
+### Art. 195.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 193
+### Art. 196.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 194
+### Art. 197.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 195
+### Art. 198.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 196
+### Art. 199.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 197
+### Art. 200.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 198
+### Art. 201.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 199
+### Art. 202.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 200
+### Art. 203.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 201
+### Art. 204.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 202
+### Art. 205.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 203
+### Art. 206.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 204
+### Art. 207.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 205
+### Art. 208.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 206
+### Art. 209.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 207
+### Art. 210.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 208
+### Art. 211.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXIX
----------
+### Art. 212.
 
-### Art. 209
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 213.
 
-### Art. 210
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 214.
 
-### Art. 211
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 215.
 
-### Art. 212
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 216.
 
-CAPO XXX
---------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 213
+### Art. 217.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 214
+### Art. 218.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 215
+### Art. 219.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 216
+### Art. 220.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 217
+### Art. 221.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 218
+### Art. 222.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 219
+## al valor militare.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+Pensioni dell'Ordine militare di Savoia e soprassoldi per medaglie
 
-### Art. 220
+### Art. 223.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXXI
----------
+### Art. 224.
 
-### Art. 221
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 225.
 
-CAPO XXXII
-----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 222
+### Art. 226.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXXIII Pensioni dell'Ordine militare di Savoia e soprassoldi per medaglie al valor militare.
--------------------------------------------------------------------------------------------------
+### Art. 227.
 
-### Art. 223
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 228.
 
-CAPO XXXIV
-----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 224
+### Art. 229.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 225
+### Art. 230.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 226
+### Art. 231.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 227
+### Art. 232.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 228
+### Art. 233.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 229
+### Art. 234.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 230
+### Art. 235.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 231
+### Art. 236.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXXV
----------
+### Art. 237.
 
-### Art. 232
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 238.
 
-### Art. 233
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 239.
 
-### Art. 234
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## Norme per la militarizzazione del personale.
 
-### Art. 235
+PARTE V.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 240.
 
-### Art. 236
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 241.
 
-### Art. 237
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 242.
 
-CAPO XXXVI
-----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 238
+### Art. 243.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-CAPO XXXVII
------------
+### Art. 244.
 
-### Art. 239
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+### Art. 245.
 
-CAPO XXXVIII PARTE V. Norme per la militarizzazione del personale.
-------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 240
+### Art. 246.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 241
+### Art. 247.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 242
+### Art. 248.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 243
+### Art. 249.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 244
+### Art. 250.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 245
+### Art. 251.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 246
+### Art. 252.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-### Art. 247
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-### Art. 248
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-### Art. 249
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-CAPO XXXIX
-----------
-
-### Art. 250
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-### Art. 251
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-### Art. 252
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

@@ -1,20 +1,17 @@
-REGIO DECRETO 02 marzo 1942 n. 392
+---
+tipo: REGIO DECRETO
+numero: 392
+data: 1942-03-02
+titolo: "Classificazione di strade statali delle provincie di Lubiana, Fiume, Zara, Spalato e Cattaro. (042U0392)"
+urn: urn:nir:stato:regio.decreto:1942-03-02;392
+codice_redazionale: 042U0392
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 marzo 1942 n. 392
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Classificazione di strade statali delle provincie di Lubiana, Fiume, Zara, Spalato e Cattaro. (042U0392)
---------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/05/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 22 ottobre 1936 n. 2111
+---
+tipo: REGIO DECRETO
+numero: 2111
+data: 1936-10-22
+titolo: "Meditazione di alcuni articoli del vigente statuto della «Fondazione monumento al Carabiniere Reale». (036U2111)"
+urn: urn:nir:stato:regio.decreto:1936-10-22;2111
+codice_redazionale: 036U2111
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1936 n. 2111
-=====================================
-
-Meditazione di alcuni articoli del vigente statuto della «Fondazione monumento al Carabiniere Reale». (036U2111)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

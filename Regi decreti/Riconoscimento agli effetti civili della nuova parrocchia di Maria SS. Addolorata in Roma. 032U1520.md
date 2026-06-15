@@ -1,19 +1,19 @@
-REGIO DECRETO 20 ottobre 1932 n. 1520
+---
+tipo: REGIO DECRETO
+numero: 1520
+data: 1932-10-20
+titolo: "Riconoscimento, agli effetti civili, della nuova parrocchia di Maria SS. Addolorata, in Roma. (032U1520)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1520
+codice_redazionale: 032U1520
+vigente: true
+---
 
-
-REGIO DECRETO 20 ottobre 1932 n. 1520
-=====================================
-
-Riconoscimento, agli effetti civili, della nuova parrocchia di Maria SS. Addolorata, in Roma. (032U1520)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1520. R. decreto 20 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene concesso il riconoscimento, agli effetti civili, alla erezione della nuova parrocchia di Maria SS. Addolorata in Roma (piazza Buenos Ayres).   
-Visto, il Guardasigilli: DE FRANCISCI.   
-Registrato alla Corte dei conti, addi', 24 novembre 1932 - Anno XI
+1520.
+
+R. decreto 20 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene concesso il riconoscimento, agli effetti civili, alla erezione della nuova parrocchia di Maria SS. Addolorata in Roma (piazza Buenos Ayres). 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ Registrato alla Corte dei conti, addi', 24 novembre 1932 - Anno XI

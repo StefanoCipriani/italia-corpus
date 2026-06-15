@@ -1,15 +1,13 @@
-REGIO DECRETO 17 marzo 1932 n. 367
+---
+tipo: REGIO DECRETO
+numero: 367
+data: 1932-03-17
+titolo: "Approvazione del capitolato generale tecnico per i lavori del genio militare. (032U0367)"
+urn: urn:nir:stato:regio.decreto:1932-03-17;367
+codice_redazionale: 032U0367
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1932 n. 367
-==================================
-
-Approvazione del capitolato generale tecnico per i lavori del genio militare. (032U0367)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/05/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 APRILE 2005, N. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-04-19;170)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 APRILE 2005, N. 170))

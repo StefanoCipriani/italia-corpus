@@ -1,20 +1,17 @@
-REGIO DECRETO 28 maggio 1931 n. 699
+---
+tipo: REGIO DECRETO
+numero: 699
+data: 1931-05-28
+titolo: "Modifica all'ordinamento politico-amministrativo della Tripolitania e della Cirenaica. (031U0699)"
+urn: urn:nir:stato:regio.decreto:1931-05-28;699
+codice_redazionale: 031U0699
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 maggio 1931 n. 699
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modifica all'ordinamento politico-amministrativo della Tripolitania e della Cirenaica. (031U0699)
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 19/06/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

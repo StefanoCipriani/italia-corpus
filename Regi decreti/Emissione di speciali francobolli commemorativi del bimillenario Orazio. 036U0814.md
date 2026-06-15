@@ -1,15 +1,13 @@
-REGIO DECRETO 12 marzo 1936 n. 814
+---
+tipo: REGIO DECRETO
+numero: 814
+data: 1936-03-12
+titolo: "Emissione di speciali francobolli commemorativi del bimillenario Orazio. (036U0814)"
+urn: urn:nir:stato:regio.decreto:1936-03-12;814
+codice_redazionale: 036U0814
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 marzo 1936 n. 814
-==================================
-
-Emissione di speciali francobolli commemorativi del bimillenario Orazio. (036U0814)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

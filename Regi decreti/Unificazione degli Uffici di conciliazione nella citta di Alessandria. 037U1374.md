@@ -1,15 +1,13 @@
-REGIO DECRETO 23 luglio 1937 n. 1374
+---
+tipo: REGIO DECRETO
+numero: 1374
+data: 1937-07-23
+titolo: "Unificazione degli Uffici di conciliazione nella citta' di Alessandria. (037U1374)"
+urn: urn:nir:stato:regio.decreto:1937-07-23;1374
+codice_redazionale: 037U1374
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 luglio 1937 n. 1374
-====================================
-
-Unificazione degli Uffici di conciliazione nella citta' di Alessandria. (037U1374)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

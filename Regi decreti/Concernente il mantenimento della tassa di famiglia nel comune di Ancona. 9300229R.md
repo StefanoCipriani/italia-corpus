@@ -1,16 +1,14 @@
-REGIO DECRETO 26 aprile 1893 n. CCXXIX
-
-
-REGIO DECRETO 26 aprile 1893 n. CCXXIX
-======================================
-
-Concernente il mantenimento della tassa di famiglia nel comune di Ancona. (9300229R)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1893
+---
+tipo: REGIO DECRETO
+numero: CCXXIX
+data: 1893-04-26
+titolo: "Concernente il mantenimento della tassa di famiglia nel comune di Ancona. (9300229R)"
+urn: urn:nir:stato:regio.decreto:1893-04-26;229
+codice_redazionale: 9300229R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista la deliberazione 18 maggio successivo della giunta provinciale amministrat
 
 Udito il parere del consiglio di Stato, il quale ha opinato che l'autorizzazione da concedersi al comune sia limitata al solo anno corrente;
 
-Sulla
------
+Sulla proposta del Nostro ministro del tesoro, interim delle finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro del tesoro, interim delle finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' al comune di Ancona di mantenere pel solo corrente anno 1893 la tassa di famiglia col massimo eccezionale di lire mille (L. 1,000).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 aprile 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 6 maggio 1893.   
-  
-Reg. 191. Atti del Governo a f. 110. Gaffino.   
-  
-Luogo dal Sigillo. V. Il Guardasigilli Bonacci.   
-  
-B. Grimaldi.   
+E' data facolta' al comune di Ancona di mantenere pel solo corrente anno 1893 la tassa di famiglia col massimo eccezionale di lire mille (L. 1,000). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 aprile 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 6 maggio 1893. 
+ 
+ Reg. 191. Atti del Governo a f. 110. Gaffino. 
+ 
+ Luogo dal Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ B. Grimaldi.

@@ -1,15 +1,13 @@
-REGIO DECRETO 19 maggio 1939 n. 1216
+---
+tipo: REGIO DECRETO
+numero: 1216
+data: 1939-05-19
+titolo: "Ciclo di operazioni militari aeronautiche importanti nelle Colonie. (039U1216)"
+urn: urn:nir:stato:regio.decreto:1939-05-19;1216
+codice_redazionale: 039U1216
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1939 n. 1216
-====================================
-
-Ciclo di operazioni militari aeronautiche importanti nelle Colonie. (039U1216)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/09/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

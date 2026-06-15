@@ -1,25 +1,21 @@
-REGIO DECRETO 24 settembre 1936 n. 1873
+---
+tipo: REGIO DECRETO
+numero: 1873
+data: 1936-09-24
+titolo: "Istituzione di un posto di capo agente tecnico e di un posto di agente tecnico nel ruolo del personale subalterno dell'Amministrazione centrale della guerra. (036U1873)"
+urn: urn:nir:stato:regio.decreto:1936-09-24;1873
+codice_redazionale: 036U1873
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 settembre 1936 n. 1873
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Istituzione di un posto di capo agente tecnico e di un posto di agente tecnico nel ruolo del personale subalterno dell'Amministrazione centrale della guerra. (036U1873)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/11/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

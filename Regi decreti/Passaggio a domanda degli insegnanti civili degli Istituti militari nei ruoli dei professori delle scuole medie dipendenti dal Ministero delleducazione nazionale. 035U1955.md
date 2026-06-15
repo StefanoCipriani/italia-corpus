@@ -1,25 +1,21 @@
-REGIO DECRETO 10 ottobre 1935 n. 1955
+---
+tipo: REGIO DECRETO
+numero: 1955
+data: 1935-10-10
+titolo: "Passaggio, a domanda, degli insegnanti civili degli Istituti militari nei ruoli dei professori delle scuole medie dipendenti dal Ministero dell'educazione nazionale. (035U1955)"
+urn: urn:nir:stato:regio.decreto:1935-10-10;1955
+codice_redazionale: 035U1955
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 ottobre 1935 n. 1955
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Passaggio, a domanda, degli insegnanti civili degli Istituti militari nei ruoli dei professori delle scuole medie dipendenti dal Ministero dell'educazione nazionale. (035U1955)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/12/1935
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

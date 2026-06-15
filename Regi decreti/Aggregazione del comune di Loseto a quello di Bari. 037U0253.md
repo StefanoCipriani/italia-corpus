@@ -1,15 +1,13 @@
-REGIO DECRETO 08 febbraio 1937 n. 253
+---
+tipo: REGIO DECRETO
+numero: 253
+data: 1937-02-08
+titolo: "Aggregazione del comune di Loseto a quello di Bari. (037U0253)"
+urn: urn:nir:stato:regio.decreto:1937-02-08;253
+codice_redazionale: 037U0253
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1937 n. 253
-=====================================
-
-Aggregazione del comune di Loseto a quello di Bari. (037U0253)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 08 dicembre 1941 n. 1577
+---
+tipo: REGIO DECRETO
+numero: 1577
+data: 1941-12-08
+titolo: "Istituzione temporanea presso il Regio consolato generale in Tolosa di un posto di secondo vice console. (041U1577)"
+urn: urn:nir:stato:regio.decreto:1941-12-08;1577
+codice_redazionale: 041U1577
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 dicembre 1941 n. 1577
-======================================
-
-Istituzione temporanea presso il Regio consolato generale in Tolosa di un posto di secondo vice console. (041U1577)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

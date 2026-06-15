@@ -1,15 +1,13 @@
-REGIO DECRETO 24 maggio 1937 n. 1377
+---
+tipo: REGIO DECRETO
+numero: 1377
+data: 1937-05-24
+titolo: "Soppressione della sezione del Tribunale militare territoriale di Roma, istituita con l'articolo 2 del R. decreto 8 aprile 1937-XV, n. 683. (037U1377)"
+urn: urn:nir:stato:regio.decreto:1937-05-24;1377
+codice_redazionale: 037U1377
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 maggio 1937 n. 1377
-====================================
-
-Soppressione della sezione del Tribunale militare territoriale di Roma, istituita con l'articolo 2 del R. decreto 8 aprile 1937-XV, n. 683. (037U1377)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/09/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

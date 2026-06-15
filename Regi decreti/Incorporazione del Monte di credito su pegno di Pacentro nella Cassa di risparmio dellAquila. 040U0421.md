@@ -1,15 +1,13 @@
-REGIO DECRETO 22 aprile 1940 n. 421
+---
+tipo: REGIO DECRETO
+numero: 421
+data: 1940-04-22
+titolo: "Incorporazione del Monte di credito su pegno di Pacentro nella Cassa di risparmio dell'Aquila. (040U0421)"
+urn: urn:nir:stato:regio.decreto:1940-04-22;421
+codice_redazionale: 040U0421
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1940 n. 421
-===================================
-
-Incorporazione del Monte di credito su pegno di Pacentro nella Cassa di risparmio dell'Aquila. (040U0421)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

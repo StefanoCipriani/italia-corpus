@@ -1,20 +1,17 @@
-REGIO DECRETO 18 aprile 1935 n. 1138
+---
+tipo: REGIO DECRETO
+numero: 1138
+data: 1935-04-18
+titolo: "Fusione delle due Casse di risparmio della Tripolitania e della Cirenaica. (035U1138)"
+urn: urn:nir:stato:regio.decreto:1935-04-18;1138
+codice_redazionale: 035U1138
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 aprile 1935 n. 1138
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Fusione delle due Casse di risparmio della Tripolitania e della Cirenaica. (035U1138)
--------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 21/07/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

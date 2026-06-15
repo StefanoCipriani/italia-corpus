@@ -1,15 +1,13 @@
-REGIO DECRETO 12 novembre 1936 n. 2468
+---
+tipo: REGIO DECRETO
+numero: 2468
+data: 1936-11-12
+titolo: "Proroga delle disposizioni dell'art. 1 del R. decreto 16 luglio 1936-X1V, n. 1635, sull'indennita' coloniale al personale in servizio nell'Africa Orientale. (036U2468)"
+urn: urn:nir:stato:regio.decreto:1936-11-12;2468
+codice_redazionale: 036U2468
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 novembre 1936 n. 2468
-======================================
-
-Proroga delle disposizioni dell'art. 1 del R. decreto 16 luglio 1936-X1V, n. 1635, sull'indennita' coloniale al personale in servizio nell'Africa Orientale. (036U2468)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,16 +1,14 @@
-REGIO DECRETO 24 dicembre 1893 n. DCCVIII
-
-
-REGIO DECRETO 24 dicembre 1893 n. DCCVIII
-=========================================
-
-Concernente il mantenimento della tassa di famiglia nel comune di Poggibonsi. (9300708R)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/01/1894
+---
+tipo: REGIO DECRETO
+numero: DCCVIII
+data: 1893-12-24
+titolo: "Concernente il mantenimento della tassa di famiglia nel comune di Poggibonsi. (9300708R)"
+urn: urn:nir:stato:regio.decreto:1893-12-24;708
+codice_redazionale: 9300708R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Veduta la deliberazione 24 ottobre successivo della giunta provinciale amministr
 
 Udito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro delle finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro delle finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' al comune di Poggibonsi di mantenere anche nell'anno 1894, la tassa di famiglia col massimo eccezionale di lire cento trentasette e centesimi cinquanta (L. 137.50).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 dicembre 1893.   
-  
-UMBERTO   
-  
-Registrato alla corte dei conti addi' 4 gennaio 1894.   
-  
-Reg. 194. Atti del Governo a f. 84. E. Angelotti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-Sidney Sonnino.   
+E' data facolta' al comune di Poggibonsi di mantenere anche nell'anno 1894, la tassa di famiglia col massimo eccezionale di lire cento trentasette e centesimi cinquanta (L. 137.50). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 dicembre 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla corte dei conti addi' 4 gennaio 1894. 
+ 
+ Reg. 194. Atti del Governo a f. 84. E. Angelotti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ Sidney Sonnino.

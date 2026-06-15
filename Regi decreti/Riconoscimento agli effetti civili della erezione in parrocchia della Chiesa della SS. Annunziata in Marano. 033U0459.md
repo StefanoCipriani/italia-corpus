@@ -1,21 +1,21 @@
-REGIO DECRETO 13 marzo 1933 n. 459
+---
+tipo: REGIO DECRETO
+numero: 459
+data: 1933-03-13
+titolo: "Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa della SS. Annunziata, in Marano. (033U0459)"
+urn: urn:nir:stato:regio.decreto:1933-03-13;459
+codice_redazionale: 033U0459
+vigente: true
+---
 
-
-REGIO DECRETO 13 marzo 1933 n. 459
-==================================
-
-Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa della SS. Annunziata, in Marano. (033U0459)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/06/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-459. R. decreto 13 marzo 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta, agli effetti civili, la erezione in parrocchia della Chiesa della SS. Annunziata in Marano (Napoli), ai sensi del decreto emanato per la parte canonica, dall'Arcivescovo di Napoli in data 15 ottobre 1929, con la dote e la circoscrizione territoriale ivi indicate.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 22 aprile 1933 - Anno XI
+459.
+
+R. decreto 13 marzo 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta, agli effetti civili, la erezione in parrocchia della Chiesa della SS. Annunziata in Marano (Napoli), ai sensi del decreto emanato per la parte canonica, dall'Arcivescovo di Napoli in data 15 ottobre 1929, con la dote e la circoscrizione territoriale ivi indicate. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 22 aprile 1933 - Anno XI

@@ -1,20 +1,17 @@
-REGIO DECRETO 28 aprile 1938 n. 1126
+---
+tipo: REGIO DECRETO
+numero: 1126
+data: 1938-04-28
+titolo: "Modificazione del numero dei sottufficiali del Regio esercito in attivita' di servizio comandati presso i Depositi cavalli stalloni. (038U1126)"
+urn: urn:nir:stato:regio.decreto:1938-04-28;1126
+codice_redazionale: 038U1126
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 aprile 1938 n. 1126
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazione del numero dei sottufficiali del Regio esercito in attivita' di servizio comandati presso i Depositi cavalli stalloni. (038U1126)
------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/08/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

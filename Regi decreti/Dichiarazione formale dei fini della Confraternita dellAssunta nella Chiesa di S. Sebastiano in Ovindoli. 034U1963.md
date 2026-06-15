@@ -1,19 +1,19 @@
-REGIO DECRETO 11 ottobre 1934 n. 1963
+---
+tipo: REGIO DECRETO
+numero: 1963
+data: 1934-10-11
+titolo: "Dichiarazione formale dei fini della Confraternita dell'Assunta nella Chiesa di S. Sebastiano in Ovindoli. (034U1963)"
+urn: urn:nir:stato:regio.decreto:1934-10-11;1963
+codice_redazionale: 034U1963
+vigente: true
+---
 
-
-REGIO DECRETO 11 ottobre 1934 n. 1963
-=====================================
-
-Dichiarazione formale dei fini della Confraternita dell'Assunta nella Chiesa di S. Sebastiano in Ovindoli. (034U1963)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1963. R. decreto 11 ottobre 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita dell'Assunta nella Chiesa di San Sebastiano, in Ovindoli (Aquila).   
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 27 novembre 1934 - Anno XIII
+1963.
+
+R. decreto 11 ottobre 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita dell'Assunta nella Chiesa di San Sebastiano, in Ovindoli (Aquila). 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 27 novembre 1934 - Anno XIII

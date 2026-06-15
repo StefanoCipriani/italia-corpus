@@ -1,15 +1,13 @@
-REGIO DECRETO 16 maggio 1940 n. 612
+---
+tipo: REGIO DECRETO
+numero: 612
+data: 1940-05-16
+titolo: "Modificazioni all'art. 334 del regolamento per l'amministrazione del patrimonio e la contabilita' generale dello Stato. (040U0612)"
+urn: urn:nir:stato:regio.decreto:1940-05-16;612
+codice_redazionale: 040U0612
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 maggio 1940 n. 612
-===================================
-
-Modificazioni all'art. 334 del regolamento per l'amministrazione del patrimonio e la contabilita' generale dello Stato. (040U0612)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/07/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

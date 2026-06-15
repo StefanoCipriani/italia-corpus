@@ -1,20 +1,17 @@
-REGIO DECRETO 04 dicembre 1930 n. 1713
+---
+tipo: REGIO DECRETO
+numero: 1713
+data: 1930-12-04
+titolo: "Trattamento economico ai ricevitori dei generi di monopolio distaccati ad uffici diversi dagli uffici-vendita. (030U1713)"
+urn: urn:nir:stato:regio.decreto:1930-12-04;1713
+codice_redazionale: 030U1713
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1930 n. 1713
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Trattamento economico ai ricevitori dei generi di monopolio distaccati ad uffici diversi dagli uffici-vendita. (030U1713)
--------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/01/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,16 +1,14 @@
-REGIO DECRETO 20 febbraio 1881 n. LXX
-
-
-REGIO DECRETO 20 febbraio 1881 n. LXX
-=====================================
-
-Che erige in corpo morale la istituzione Pellei fondata in Acquapendente (Roma). (8100070R)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1881
+---
+tipo: REGIO DECRETO
+numero: LXX
+data: 1881-02-20
+titolo: "Che erige in corpo morale la istituzione Pellei fondata in Acquapendente (Roma). (8100070R)"
+urn: urn:nir:stato:regio.decreto:1881-02-20;70
+codice_redazionale: 8100070R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,22 @@ Vista la legge 3 agosto 1862 sull'amministrazione delle opere pie;
 
 Udito il parere del consiglio di Stato;
 
-Ritenuto
---------
+Ritenuto che la istituzione Pellei ha il carattere di opera pia e non puo' rivestire quello di un fidecommesso, inquantoche' la disposizione testamentaria estende il beneficio del lascito anche a persone estranee alla famiglia e ridonda eventualmente, a vantaggio della popolazione dei due paesi sovrindicati; Abbiamo decretato e decretiamo:
 
-che la istituzione Pellei ha il carattere di opera pia e non puo' rivestire quello di un fidecommesso, inquantoche' la disposizione testamentaria estende il beneficio del lascito anche a persone estranee alla famiglia e ridonda eventualmente, a vantaggio della popolazione dei due paesi sovrindicati; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La istituzione fondata come sopra dal fu monsignore Giambattista Pellei in Acquapendente e' costituita in corpo morale con i caratteri di opera pia, e la sua amministrazione resta affidata ai due esecutori testamentari designati dal pio fondatore.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 febbraio 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 14 marzo 1881   
-  
-Reg. 112 Atti del Governo a f. 149. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli. T. Villa.   
-  
-Depretis.   
+La istituzione fondata come sopra dal fu monsignore Giambattista Pellei in Acquapendente e' costituita in corpo morale con i caratteri di opera pia, e la sua amministrazione resta affidata ai due esecutori testamentari designati dal pio fondatore. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 febbraio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 14 marzo 1881 
+ 
+ Reg. 112 Atti del Governo a f. 149. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli. T. Villa. 
+ 
+ Depretis.

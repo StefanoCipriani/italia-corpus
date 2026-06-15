@@ -1,15 +1,13 @@
-REGIO DECRETO 07 giugno 1934 n. 1041
+---
+tipo: REGIO DECRETO
+numero: 1041
+data: 1934-06-07
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Suore Benedettine della SS. Annunziata, in Rosano, comune di Rignano sull'Arno. (034U1041)"
+urn: urn:nir:stato:regio.decreto:1934-06-07;1041
+codice_redazionale: 034U1041
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 giugno 1934 n. 1041
-====================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Suore Benedettine della SS. Annunziata, in Rosano, comune di Rignano sull'Arno. (034U1041)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,25 +1,21 @@
-REGIO DECRETO 22 luglio 1932 n. 949
+---
+tipo: REGIO DECRETO
+numero: 949
+data: 1932-07-22
+titolo: "Scioglimento dell'Istituto per le case popolari di Marsala e nomina del liquidatore. (032U0949)"
+urn: urn:nir:stato:regio.decreto:1932-07-22;949
+codice_redazionale: 032U0949
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 luglio 1932 n. 949
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Scioglimento dell'Istituto per le case popolari di Marsala e nomina del liquidatore. (032U0949)
------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 31/08/1932
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 11 ottobre 1938 n. 1811
+---
+tipo: REGIO DECRETO
+numero: 1811
+data: 1938-10-11
+titolo: "Erezione in ente morale della Fondazione «Casa di riposo Giuseppe Gasparini», in Pieve Dugliara. (038U1811)"
+urn: urn:nir:stato:regio.decreto:1938-10-11;1811
+codice_redazionale: 038U1811
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 ottobre 1938 n. 1811
-=====================================
-
-Erezione in ente morale della Fondazione «Casa di riposo Giuseppe Gasparini», in Pieve Dugliara. (038U1811)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,15 +1,13 @@
-REGIO DECRETO 13 agosto 1932 n. 1907
+---
+tipo: REGIO DECRETO
+numero: 1907
+data: 1932-08-13
+titolo: "Annullamento dei contributi scolastici gia' consolidati a carico dei comuni di Suna e Cavandona col R. decreto 17 gennaio 1915, n. 328. (032U1907)"
+urn: urn:nir:stato:regio.decreto:1932-08-13;1907
+codice_redazionale: 032U1907
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1932 n. 1907
-====================================
-
-Annullamento dei contributi scolastici gia' consolidati a carico dei comuni di Suna e Cavandona col R. decreto 17 gennaio 1915, n. 328. (032U1907)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/02/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

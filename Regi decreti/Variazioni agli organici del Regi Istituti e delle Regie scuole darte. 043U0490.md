@@ -1,15 +1,13 @@
-REGIO DECRETO 22 aprile 1943 n. 490
+---
+tipo: REGIO DECRETO
+numero: 490
+data: 1943-04-22
+titolo: "Variazioni agli organici del Regi Istituti e delle Regie scuole d'arte. (043U0490)"
+urn: urn:nir:stato:regio.decreto:1943-04-22;490
+codice_redazionale: 043U0490
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 aprile 1943 n. 490
-===================================
-
-Variazioni agli organici del Regi Istituti e delle Regie scuole d'arte. (043U0490)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,21 +1,21 @@
-REGIO DECRETO 05 settembre 1935 n. 1754
+---
+tipo: REGIO DECRETO
+numero: 1754
+data: 1935-09-05
+titolo: "Riconoscimento della personalita' giuridica del Collegio francescano di S. Maria del Gesu', in Artena (Roma). (035U1754)"
+urn: urn:nir:stato:regio.decreto:1935-09-05;1754
+codice_redazionale: 035U1754
+vigente: true
+---
 
-
-REGIO DECRETO 05 settembre 1935 n. 1754
-=======================================
-
-Riconoscimento della personalita' giuridica del Collegio francescano di S. Maria del Gesu', in Artena (Roma). (035U1754)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1754. R. decreto 5 settembre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Collegio francescano di S. Maria del Gesu' in Artena (Roma), e viene autorizzato il trasferimento a favore del medesimo di immobili del complessivo valore approssimativo di L. 280.000, da esso posseduti da epoca anteriore al Concordato con la Santa Sede.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 7 ottobre 1935 - Anno XIII.
+1754.
+
+R. decreto 5 settembre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Collegio francescano di S. Maria del Gesu' in Artena (Roma), e viene autorizzato il trasferimento a favore del medesimo di immobili del complessivo valore approssimativo di L. 280.000, da esso posseduti da epoca anteriore al Concordato con la Santa Sede. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 7 ottobre 1935 - Anno XIII.

@@ -1,15 +1,13 @@
-REGIO DECRETO 28 febbraio 1935 n. 245
+---
+tipo: REGIO DECRETO
+numero: 245
+data: 1935-02-28
+titolo: "Soppressione del Deposito-vendita generi di monopolio di Salerno ed Istituzione, nella stessa sede, di un Ufficio-vendita, di 1ª classe. (035U0245)"
+urn: urn:nir:stato:regio.decreto:1935-02-28;245
+codice_redazionale: 035U0245
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 febbraio 1935 n. 245
-=====================================
-
-Soppressione del Deposito-vendita generi di monopolio di Salerno ed Istituzione, nella stessa sede, di un Ufficio-vendita, di 1ª classe. (035U0245)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 14 ottobre 1938 n. 1679
+---
+tipo: REGIO DECRETO
+numero: 1679
+data: 1938-10-14
+titolo: "Radiazione dal quadro del regio naviglio della Regia torpediniera «Insidioso». (038U1679)"
+urn: urn:nir:stato:regio.decreto:1938-10-14;1679
+codice_redazionale: 038U1679
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 ottobre 1938 n. 1679
-=====================================
-
-Radiazione dal quadro del regio naviglio della Regia torpediniera «Insidioso». (038U1679)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

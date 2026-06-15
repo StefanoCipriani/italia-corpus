@@ -1,15 +1,13 @@
-REGIO DECRETO 24 ottobre 1941 n. 1302
+---
+tipo: REGIO DECRETO
+numero: 1302
+data: 1941-10-24
+titolo: "Autorizzazione alla Regia universita' di Bologna ad accettare una donazione. (041U1302)"
+urn: urn:nir:stato:regio.decreto:1941-10-24;1302
+codice_redazionale: 041U1302
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 ottobre 1941 n. 1302
-=====================================
-
-Autorizzazione alla Regia universita' di Bologna ad accettare una donazione. (041U1302)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

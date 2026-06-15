@@ -1,20 +1,17 @@
-REGIO DECRETO 30 marzo 1936 n. 925
+---
+tipo: REGIO DECRETO
+numero: 925
+data: 1936-03-30
+titolo: "Indennita' di carica agli ufficiali aventi comando di truppa indigena in Africa Orientale. (036U0925)"
+urn: urn:nir:stato:regio.decreto:1936-03-30;925
+codice_redazionale: 036U0925
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 marzo 1936 n. 925
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Indennita' di carica agli ufficiali aventi comando di truppa indigena in Africa Orientale. (036U0925)
------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/03/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

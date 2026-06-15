@@ -1,15 +1,13 @@
-REGIO DECRETO 04 luglio 1941 n. 727
+---
+tipo: REGIO DECRETO
+numero: 727
+data: 1941-07-04
+titolo: "Autorizzazione alla Regia universita' dl Roma ad accettare una donazione. (041U0727)"
+urn: urn:nir:stato:regio.decreto:1941-07-04;727
+codice_redazionale: 041U0727
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 luglio 1941 n. 727
-===================================
-
-Autorizzazione alla Regia universita' dl Roma ad accettare una donazione. (041U0727)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

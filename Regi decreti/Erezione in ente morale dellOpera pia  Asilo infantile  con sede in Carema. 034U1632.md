@@ -1,15 +1,13 @@
-REGIO DECRETO 28 giugno 1934 n. 1632
+---
+tipo: REGIO DECRETO
+numero: 1632
+data: 1934-06-28
+titolo: "Erezione in ente morale dell'Opera pia « Asilo infantile », con sede in Carema. (034U1632)"
+urn: urn:nir:stato:regio.decreto:1934-06-28;1632
+codice_redazionale: 034U1632
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1934 n. 1632
-====================================
-
-Erezione in ente morale dell'Opera pia « Asilo infantile », con sede in Carema. (034U1632)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

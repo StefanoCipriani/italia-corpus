@@ -1,21 +1,21 @@
-REGIO DECRETO 22 febbraio 1937 n. 538
+---
+tipo: REGIO DECRETO
+numero: 538
+data: 1937-02-22
+titolo: "Dichiarazione formale dei fini della Confraternita di Santa Maria del Carmine di S. Andrea Apostolo, con sede in Minervino Murge. (037U0538)"
+urn: urn:nir:stato:regio.decreto:1937-02-22;538
+codice_redazionale: 037U0538
+vigente: true
+---
 
-
-REGIO DECRETO 22 febbraio 1937 n. 538
-=====================================
-
-Dichiarazione formale dei fini della Confraternita di Santa Maria del Carmine di S. Andrea Apostolo, con sede in Minervino Murge. (037U0538)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-538. R. decreto 22 febbraio 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita di Santa Maria del Carmine e di S. Andrea Apostolo, con sede in Minervino Murge (Bari).   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 12 aprile 1937 - Anno XV
+538.
+
+R. decreto 22 febbraio 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita di Santa Maria del Carmine e di S. Andrea Apostolo, con sede in Minervino Murge (Bari). 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 12 aprile 1937 - Anno XV

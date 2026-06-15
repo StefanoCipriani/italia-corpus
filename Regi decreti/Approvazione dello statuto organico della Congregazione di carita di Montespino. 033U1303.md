@@ -1,15 +1,13 @@
-REGIO DECRETO 31 agosto 1933 n. 1303
+---
+tipo: REGIO DECRETO
+numero: 1303
+data: 1933-08-31
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Montespino. (033U1303)"
+urn: urn:nir:stato:regio.decreto:1933-08-31;1303
+codice_redazionale: 033U1303
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 agosto 1933 n. 1303
-====================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Montespino. (033U1303)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

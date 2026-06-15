@@ -1,21 +1,21 @@
-REGIO DECRETO 14 gennaio 1938 n. 239
+---
+tipo: REGIO DECRETO
+numero: 239
+data: 1938-01-14
+titolo: "Dichiarazione formale dei fini di n. 9 Confraternite in provincia di Perugia. (038U0239)"
+urn: urn:nir:stato:regio.decreto:1938-01-14;239
+codice_redazionale: 038U0239
+vigente: true
+---
 
-
-REGIO DECRETO 14 gennaio 1938 n. 239
-====================================
-
-Dichiarazione formale dei fini di n. 9 Confraternite in provincia di Perugia. (038U0239)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/04/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-239. R. decreto 14 gennaio 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi di n. 9 Confraternite in provincia di Perugia.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 12 marzo 1938 - Anno XVI
+239.
+
+R. decreto 14 gennaio 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi di n. 9 Confraternite in provincia di Perugia. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 12 marzo 1938 - Anno XVI

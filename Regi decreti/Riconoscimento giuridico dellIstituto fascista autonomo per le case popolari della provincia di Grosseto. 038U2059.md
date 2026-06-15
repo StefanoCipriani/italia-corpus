@@ -1,20 +1,17 @@
-REGIO DECRETO 22 dicembre 1938 n. 2059
+---
+tipo: REGIO DECRETO
+numero: 2059
+data: 1938-12-22
+titolo: "Riconoscimento giuridico dell'Istituto fascista autonomo per le case popolari della provincia di Grosseto. (038U2059)"
+urn: urn:nir:stato:regio.decreto:1938-12-22;2059
+codice_redazionale: 038U2059
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 dicembre 1938 n. 2059
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Riconoscimento giuridico dell'Istituto fascista autonomo per le case popolari della provincia di Grosseto. (038U2059)
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/02/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

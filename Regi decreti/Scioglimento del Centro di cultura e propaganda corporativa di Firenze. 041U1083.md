@@ -1,15 +1,13 @@
-REGIO DECRETO 25 luglio 1941 n. 1083
+---
+tipo: REGIO DECRETO
+numero: 1083
+data: 1941-07-25
+titolo: "Scioglimento del Centro di cultura e propaganda corporativa di Firenze. (041U1083)"
+urn: urn:nir:stato:regio.decreto:1941-07-25;1083
+codice_redazionale: 041U1083
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 luglio 1941 n. 1083
-====================================
-
-Scioglimento del Centro di cultura e propaganda corporativa di Firenze. (041U1083)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

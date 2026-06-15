@@ -1,15 +1,13 @@
-REGIO DECRETO 11 dicembre 1930 n. 1803
+---
+tipo: REGIO DECRETO
+numero: 1803
+data: 1930-12-11
+titolo: "Approvazione del nuovo statuto della Cassa di risparmio di Viterbo. (030U1803)"
+urn: urn:nir:stato:regio.decreto:1930-12-11;1803
+codice_redazionale: 030U1803
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1930 n. 1803
-======================================
-
-Approvazione del nuovo statuto della Cassa di risparmio di Viterbo. (030U1803)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

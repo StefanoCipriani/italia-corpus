@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1937 n. 2181
-
-
-REGIO DECRETO 22 novembre 1937 n. 2181
-======================================
-
-Nuova denominazione della Biblioteca del Risorgimento in Roma che assume il titolo di «R. Biblioteca di Storia moderna e contemporanea». (037U2181)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1938
+---
+tipo: REGIO DECRETO
+numero: 2181
+data: 1937-11-22
+titolo: "Nuova denominazione della Biblioteca del Risorgimento in Roma che assume il titolo di «R. Biblioteca di Storia moderna e contemporanea». (037U2181)"
+urn: urn:nir:stato:regio.decreto:1937-11-22;2181
+codice_redazionale: 037U2181
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,36 +28,27 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Biblioteca del Risorgimento in Roma assume il titolo di «R.
+Biblioteca di Storia moderna e contemporanea».
 
-  
-  
-La Biblioteca del Risorgimento in Roma assume il titolo di «R.  
-Biblioteca di Storia moderna e contemporanea».   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La denominazione del posto di «Conservatore della Biblioteca del Risorgimento», previsto dal ruolo organico del personale di gruppo A delle biblioteche governative, di cui alla tabella annessa al R. decreto 2 giugno 1932-X, n. 690, e' sostituita con quella di «Conservatore della R. Biblioteca di Storia moderna e contemporanea».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - BOTTAI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 3 gennaio 1938 - Anno XVI   
-  
-Atti del Governo, registro 393, foglio 2. - MANCINI.   
+La denominazione del posto di «Conservatore della Biblioteca del Risorgimento», previsto dal ruolo organico del personale di gruppo A delle biblioteche governative, di cui alla tabella annessa al R. decreto 2 giugno 1932-X, n. 690, e' sostituita con quella di «Conservatore della R. Biblioteca di Storia moderna e contemporanea». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - BOTTAI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 3 gennaio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 393, foglio 2. - MANCINI.

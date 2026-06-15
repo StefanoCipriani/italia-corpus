@@ -1,16 +1,14 @@
-REGIO DECRETO 02 giugno 1904 n. 241
-
-
-REGIO DECRETO 02 giugno 1904 n. 241
-===================================
-
-Col quale si distaccano dal Comune di Cerro al Lambro le frazioni di Sabbiona e Lunetta e si aggregano a quello di San Zenone al Lambro. (004U0241)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1904
+---
+tipo: REGIO DECRETO
+numero: 241
+data: 1904-06-02
+titolo: "Col quale si distaccano dal Comune di Cerro al Lambro le frazioni di Sabbiona e Lunetta e si aggregano a quello di San Zenone al Lambro. (004U0241)"
+urn: urn:nir:stato:regio.decreto:1904-06-02;241
+codice_redazionale: 004U0241
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,43 +26,28 @@ Veduta la pianta topografica redatta in data 20 agosto 1903 dall'ufficio del Gen
 
 Veduto l'articolo 115 della legge comunale e provinciale;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° luglio prossimo le frazioni di Sabbiona e Lunetta sono distaccate dal Comune di Cerro al Lambro ed aggregate a quello di San Zenone al Lambro.
 
-  
-  
-A cominciare dal 1° luglio prossimo le frazioni di Sabbiona e Lunetta sono distaccate dal Comune di Cerro al Lambro ed aggregate a quello di San Zenone al Lambro.   
-  
+## Art. 2.
 
-Art. 2
-------
+I confini territoriali fra i Comuni di Cerro al Lambro e San Zenone al Lambro, in dipendenza del suddetto distacco ed aggregazione delle due frazioni, sono quelli che risultano dalla pianta topografica del 20 agosto 1903 compilata dall'ufficio del Genio civile di Milano e firmata dai Sindaci dei due Comuni in data 11 aprile 1904. 
+ 
+ Tale pianta sara', d'ordine Nostro, munita di visto dal Ministro proponente.
 
-  
-  
-I confini territoriali fra i Comuni di Cerro al Lambro e San Zenone al Lambro, in dipendenza del suddetto distacco ed aggregazione delle due frazioni, sono quelli che risultano dalla pianta topografica del 20 agosto 1903 compilata dall'ufficio del Genio civile di Milano e firmata dai Sindaci dei due Comuni in data 11 aprile 1904.   
-  
-Tale pianta sara', d'ordine Nostro, munita di visto dal Ministro proponente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I rapporti patrimoniali connessi alla nuova circoscrizione territoriale sono regolati e definiti secondo la Convenzione approvata dai Consigli comunali di Cerro al Lambro e San Zenone al Lambro rispettivamente con deliberazioni in data 10 marzo 1904 e 26 febbraio 1904.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 giugno 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+I rapporti patrimoniali connessi alla nuova circoscrizione territoriale sono regolati e definiti secondo la Convenzione approvata dai Consigli comunali di Cerro al Lambro e San Zenone al Lambro rispettivamente con deliberazioni in data 10 marzo 1904 e 26 febbraio 1904. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 giugno 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

@@ -1,30 +1,25 @@
-REGIO DECRETO 06 dicembre 1934 n. 2197
+---
+tipo: REGIO DECRETO
+numero: 2197
+data: 1934-12-06
+titolo: "Ammissione alla verificazione delle bilance automatiche per liquidi. (034U2197)"
+urn: urn:nir:stato:regio.decreto:1934-12-06;2197
+codice_redazionale: 034U2197
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 dicembre 1934 n. 2197
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Ammissione alla verificazione delle bilance automatiche per liquidi. (034U2197)
--------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/02/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

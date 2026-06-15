@@ -1,21 +1,21 @@
-REGIO DECRETO 29 marzo 1934 n. 732
+---
+tipo: REGIO DECRETO
+numero: 732
+data: 1934-03-29
+titolo: "Riconoscimento della personalita' giuridica della provincia di Palermo dell'Ordine dei Frati Minori cappuccini. (034U0732)"
+urn: urn:nir:stato:regio.decreto:1934-03-29;732
+codice_redazionale: 034U0732
+vigente: true
+---
 
-
-REGIO DECRETO 29 marzo 1934 n. 732
-==================================
-
-Riconoscimento della personalita' giuridica della provincia di Palermo dell'Ordine dei Frati Minori cappuccini. (034U0732)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-732. R. decreto 29 marzo 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della provincia di Palermo dell'Ordine dei Frati Minori Cappuccini, e viene autorizzato il trasferimento alla stessa dei beni immobili, in suo possesso da epoca anteriore al Concordato ed attualmente intestati a terzi.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte del conti, addi' 27 aprile 1934 - Anno XII.
+732.
+
+R. decreto 29 marzo 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della provincia di Palermo dell'Ordine dei Frati Minori Cappuccini, e viene autorizzato il trasferimento alla stessa dei beni immobili, in suo possesso da epoca anteriore al Concordato ed attualmente intestati a terzi. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte del conti, addi' 27 aprile 1934 - Anno XII.

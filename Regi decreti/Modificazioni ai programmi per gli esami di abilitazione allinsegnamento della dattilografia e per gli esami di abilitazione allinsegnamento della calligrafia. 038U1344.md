@@ -1,20 +1,17 @@
-REGIO DECRETO 12 agosto 1938 n. 1344
+---
+tipo: REGIO DECRETO
+numero: 1344
+data: 1938-08-12
+titolo: "Modificazioni ai programmi per gli esami di abilitazione all'insegnamento della dattilografia e per gli esami di abilitazione all'insegnamento della calligrafia. (038U1344)"
+urn: urn:nir:stato:regio.decreto:1938-08-12;1344
+codice_redazionale: 038U1344
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 agosto 1938 n. 1344
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni ai programmi per gli esami di abilitazione all'insegnamento della dattilografia e per gli esami di abilitazione all'insegnamento della calligrafia. (038U1344)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 21/09/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

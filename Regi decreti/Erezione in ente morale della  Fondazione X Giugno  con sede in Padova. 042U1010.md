@@ -1,15 +1,13 @@
-REGIO DECRETO 11 luglio 1942 n. 1010
+---
+tipo: REGIO DECRETO
+numero: 1010
+data: 1942-07-11
+titolo: "Erezione in ente morale della « Fondazione X Giugno », con sede in Padova. (042U1010)"
+urn: urn:nir:stato:regio.decreto:1942-07-11;1010
+codice_redazionale: 042U1010
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 luglio 1942 n. 1010
-====================================
-
-Erezione in ente morale della « Fondazione X Giugno », con sede in Padova. (042U1010)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

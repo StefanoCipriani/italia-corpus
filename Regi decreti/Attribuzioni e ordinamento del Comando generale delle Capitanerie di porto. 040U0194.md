@@ -1,25 +1,21 @@
-REGIO DECRETO 19 febbraio 1940 n. 194
+---
+tipo: REGIO DECRETO
+numero: 194
+data: 1940-02-19
+titolo: "Attribuzioni e ordinamento del Comando generale delle Capitanerie di porto. (040U0194)"
+urn: urn:nir:stato:regio.decreto:1940-02-19;194
+codice_redazionale: 040U0194
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1940 n. 194
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Attribuzioni e ordinamento del Comando generale delle Capitanerie di porto. (040U0194)
---------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/03/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

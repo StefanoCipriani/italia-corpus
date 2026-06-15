@@ -1,15 +1,13 @@
-REGIO DECRETO 11 gennaio 1934 n. 12
+---
+tipo: REGIO DECRETO
+numero: 12
+data: 1934-01-11
+titolo: "Restituzione dei diritti di confine sulle conterie e sui lavori di conterie. (034U0012)"
+urn: urn:nir:stato:regio.decreto:1934-01-11;12
+codice_redazionale: 034U0012
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1934 n. 12
-===================================
-
-Restituzione dei diritti di confine sulle conterie e sui lavori di conterie. (034U0012)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

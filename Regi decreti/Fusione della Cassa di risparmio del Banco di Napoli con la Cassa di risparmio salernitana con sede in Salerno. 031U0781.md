@@ -1,25 +1,21 @@
-REGIO DECRETO 07 maggio 1931 n. 781
+---
+tipo: REGIO DECRETO
+numero: 781
+data: 1931-05-07
+titolo: "Fusione della Cassa di risparmio del Banco di Napoli con la Cassa di risparmio salernitana con sede in Salerno. (031U0781)"
+urn: urn:nir:stato:regio.decreto:1931-05-07;781
+codice_redazionale: 031U0781
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 maggio 1931 n. 781
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Fusione della Cassa di risparmio del Banco di Napoli con la Cassa di risparmio salernitana con sede in Salerno. (031U0781)
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/07/1931
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

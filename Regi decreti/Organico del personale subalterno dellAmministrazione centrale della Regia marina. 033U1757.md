@@ -1,25 +1,21 @@
-REGIO DECRETO 30 novembre 1933 n. 1757
+---
+tipo: REGIO DECRETO
+numero: 1757
+data: 1933-11-30
+titolo: "Organico del personale subalterno dell'Amministrazione centrale della Regia marina. (033U1757)"
+urn: urn:nir:stato:regio.decreto:1933-11-30;1757
+codice_redazionale: 033U1757
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 novembre 1933 n. 1757
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Organico del personale subalterno dell'Amministrazione centrale della Regia marina. (033U1757)
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/01/1934
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

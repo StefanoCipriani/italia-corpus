@@ -1,21 +1,21 @@
-REGIO DECRETO 06 febbraio 1939 n. 435
+---
+tipo: REGIO DECRETO
+numero: 435
+data: 1939-02-06
+titolo: "Approvazione dello statuto della Societa' per le belle arti ed esposizione permanente, con sede in Milano. (039U0435)"
+urn: urn:nir:stato:regio.decreto:1939-02-06;435
+codice_redazionale: 039U0435
+vigente: true
+---
 
-
-REGIO DECRETO 06 febbraio 1939 n. 435
-=====================================
-
-Approvazione dello statuto della Societa' per le belle arti ed esposizione permanente, con sede in Milano. (039U0435)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/03/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-425. R. decreto 6 febbraio 1939, col quale, sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, viene approvato il nuovo statuto della Societa' per le belle arti ed esposizione permanente, con sede in Milano.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 27 febbraio 1939-XVII
+425.
+
+R. decreto 6 febbraio 1939, col quale, sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, viene approvato il nuovo statuto della Societa' per le belle arti ed esposizione permanente, con sede in Milano. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 27 febbraio 1939-XVII

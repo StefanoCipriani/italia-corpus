@@ -1,15 +1,13 @@
-REGIO DECRETO 06 marzo 1939 n. 506
+---
+tipo: REGIO DECRETO
+numero: 506
+data: 1939-03-06
+titolo: "Nomina del presidente generale del Reale Automobile Circolo d'Italia. (039U0506)"
+urn: urn:nir:stato:regio.decreto:1939-03-06;506
+codice_redazionale: 039U0506
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 marzo 1939 n. 506
-==================================
-
-Nomina del presidente generale del Reale Automobile Circolo d'Italia. (039U0506)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

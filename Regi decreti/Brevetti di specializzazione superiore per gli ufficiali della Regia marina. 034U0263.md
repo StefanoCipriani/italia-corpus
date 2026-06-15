@@ -1,20 +1,17 @@
-REGIO DECRETO 05 febbraio 1934 n. 263
+---
+tipo: REGIO DECRETO
+numero: 263
+data: 1934-02-05
+titolo: "Brevetti di specializzazione superiore per gli ufficiali della Regia marina. (034U0263)"
+urn: urn:nir:stato:regio.decreto:1934-02-05;263
+codice_redazionale: 034U0263
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 febbraio 1934 n. 263
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Brevetti di specializzazione superiore per gli ufficiali della Regia marina. (034U0263)
----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

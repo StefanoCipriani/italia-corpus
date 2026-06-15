@@ -1,40 +1,34 @@
-REGIO DECRETO 05 febbraio 1934 n. 439
+---
+tipo: REGIO DECRETO
+numero: 439
+data: 1934-02-05
+titolo: "Modificazioni alle disposizioni sui concorsi a posti di direttore didattico governativo contenute nel regolamento generale sui servizi della istruzione elementare. (034U0439)"
+urn: urn:nir:stato:regio.decreto:1934-02-05;439
+codice_redazionale: 034U0439
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 febbraio 1934 n. 439
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Modificazioni alle disposizioni sui concorsi a posti di direttore didattico governativo contenute nel regolamento generale sui servizi della istruzione elementare. (034U0439)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 13/04/1934
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

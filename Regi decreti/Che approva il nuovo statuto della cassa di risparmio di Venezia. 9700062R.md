@@ -1,16 +1,14 @@
-REGIO DECRETO 11 febbraio 1897 n. LXII
-
-
-REGIO DECRETO 11 febbraio 1897 n. LXII
-======================================
-
-Che approva il nuovo statuto della cassa di risparmio di Venezia. (9700062R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1897
+---
+tipo: REGIO DECRETO
+numero: LXII
+data: 1897-02-11
+titolo: "Che approva il nuovo statuto della cassa di risparmio di Venezia. (9700062R)"
+urn: urn:nir:stato:regio.decreto:1897-02-11;62
+codice_redazionale: 9700062R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Veduti i voti emessi dal consiglio di amministrazione della cassa di risparmio d
 
 Veduto l'art. 63 dello statuto organico di essa approvato con regio decreto 6 agosto 1891, n. CCXCII (parte supplementare);
 
-Veduta la [legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546) (seria 3ª);
+Veduta la [legge 15 luglio 1888, n. 5546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (seria 3ª);
 
 Sentito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo;
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato il nuovo statuto organico della cassa di risparmio di Venezia, composto di sessantasette articoli, visto, d'ordine Nostro, dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 febbraio 1897.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 6 marzo 1897.   
-  
-Reg. 209. Atti del Governo a f. 172. G. Cappiello.   
-  
-Luogo del Sigillo V. Il Guardasigilli G. Costa.   
-  
-Guicciardini.   
+E' approvato il nuovo statuto organico della cassa di risparmio di Venezia, composto di sessantasette articoli, visto, d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 febbraio 1897. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 6 marzo 1897. 
+ 
+ Reg. 209. Atti del Governo a f. 172. G. Cappiello. 
+ 
+ Luogo del Sigillo V. Il Guardasigilli G. Costa. 
+ 
+ Guicciardini.

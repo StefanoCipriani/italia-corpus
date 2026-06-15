@@ -1,21 +1,21 @@
-REGIO DECRETO 21 ottobre 1937 n. 2491
+---
+tipo: REGIO DECRETO
+numero: 2491
+data: 1937-10-21
+titolo: "Dichiarazione formale dei fini di n. 4 Confraternite con sede in Trino (Vercelli). (037U2491)"
+urn: urn:nir:stato:regio.decreto:1937-10-21;2491
+codice_redazionale: 037U2491
+vigente: true
+---
 
-
-REGIO DECRETO 21 ottobre 1937 n. 2491
-=====================================
-
-Dichiarazione formale dei fini di n. 4 Confraternite con sede in Trino (Vercelli). (037U2491)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2491. R. decreto 21 ottobre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi di n. 4 Confraternite con sede in Trino (Vercelli).   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 26 gennaio 1938 - Anno XVI
+2491.
+
+R. decreto 21 ottobre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi di n. 4 Confraternite con sede in Trino (Vercelli). 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 26 gennaio 1938 - Anno XVI

@@ -1,15 +1,13 @@
-REGIO DECRETO 19 febbraio 1931 n. 295
+---
+tipo: REGIO DECRETO
+numero: 295
+data: 1931-02-19
+titolo: "Erezione in ente morale dell'Opera pia dotalizia «Michele Conte», con sede in Frigento. (031U0295)"
+urn: urn:nir:stato:regio.decreto:1931-02-19;295
+codice_redazionale: 031U0295
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1931 n. 295
-=====================================
-
-Erezione in ente morale dell'Opera pia dotalizia «Michele Conte», con sede in Frigento. (031U0295)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

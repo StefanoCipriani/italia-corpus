@@ -1,15 +1,13 @@
-REGIO DECRETO 11 aprile 1938 n. 656
+---
+tipo: REGIO DECRETO
+numero: 656
+data: 1938-04-11
+titolo: "Disposizioni relative ad alcuni Uffici consolari all'estero. (038U0656)"
+urn: urn:nir:stato:regio.decreto:1938-04-11;656
+codice_redazionale: 038U0656
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 aprile 1938 n. 656
-===================================
-
-Disposizioni relative ad alcuni Uffici consolari all'estero. (038U0656)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

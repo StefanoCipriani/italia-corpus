@@ -1,25 +1,21 @@
-REGIO DECRETO 05 dicembre 1935 n. 2147
+---
+tipo: REGIO DECRETO
+numero: 2147
+data: 1935-12-05
+titolo: "Amnistia per i reati commessi in occasione o a causa degli incidenti religiosi nell'isola di Calimno. (035U2147)"
+urn: urn:nir:stato:regio.decreto:1935-12-05;2147
+codice_redazionale: 035U2147
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1935 n. 2147
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Amnistia per i reati commessi in occasione o a causa degli incidenti religiosi nell'isola di Calimno. (035U2147)
-----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/12/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

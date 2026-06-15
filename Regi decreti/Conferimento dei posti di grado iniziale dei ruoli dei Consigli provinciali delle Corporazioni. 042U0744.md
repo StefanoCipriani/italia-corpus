@@ -1,25 +1,21 @@
-REGIO DECRETO 12 maggio 1942 n. 744
+---
+tipo: REGIO DECRETO
+numero: 744
+data: 1942-05-12
+titolo: "Conferimento dei posti di grado iniziale dei ruoli dei Consigli provinciali delle Corporazioni. (042U0744)"
+urn: urn:nir:stato:regio.decreto:1942-05-12;744
+codice_redazionale: 042U0744
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 maggio 1942 n. 744
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Conferimento dei posti di grado iniziale dei ruoli dei Consigli provinciali delle Corporazioni. (042U0744)
-----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/07/1942
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

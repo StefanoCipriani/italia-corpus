@@ -1,15 +1,13 @@
-REGIO DECRETO 13 novembre 1942 n. 1457
+---
+tipo: REGIO DECRETO
+numero: 1457
+data: 1942-11-13
+titolo: "Autorizzazione alla Regia universita' di Padova ad accettare una donazione. (042U1457)"
+urn: urn:nir:stato:regio.decreto:1942-11-13;1457
+codice_redazionale: 042U1457
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 novembre 1942 n. 1457
-======================================
-
-Autorizzazione alla Regia universita' di Padova ad accettare una donazione. (042U1457)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

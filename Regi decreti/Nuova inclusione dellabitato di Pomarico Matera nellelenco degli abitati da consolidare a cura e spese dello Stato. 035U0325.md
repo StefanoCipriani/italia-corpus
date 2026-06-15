@@ -1,15 +1,13 @@
-REGIO DECRETO 14 febbraio 1935 n. 325
+---
+tipo: REGIO DECRETO
+numero: 325
+data: 1935-02-14
+titolo: "Nuova inclusione dell'abitato di Pomarico (Matera) nell'elenco degli abitati da consolidare a cura e spese dello Stato. (035U0325)"
+urn: urn:nir:stato:regio.decreto:1935-02-14;325
+codice_redazionale: 035U0325
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 febbraio 1935 n. 325
-=====================================
-
-Nuova inclusione dell'abitato di Pomarico (Matera) nell'elenco degli abitati da consolidare a cura e spese dello Stato. (035U0325)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/04/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

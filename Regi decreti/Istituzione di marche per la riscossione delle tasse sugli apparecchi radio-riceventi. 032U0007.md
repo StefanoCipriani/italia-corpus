@@ -1,20 +1,17 @@
-REGIO DECRETO 11 gennaio 1932 n. 7
+---
+tipo: REGIO DECRETO
+numero: 7
+data: 1932-01-11
+titolo: "Istituzione di marche per la riscossione delle tasse sugli apparecchi radio-riceventi. (032U0007)"
+urn: urn:nir:stato:regio.decreto:1932-01-11;7
+codice_redazionale: 032U0007
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1932 n. 7
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Istituzione di marche per la riscossione delle tasse sugli apparecchi radio-riceventi. (032U0007)
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/02/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

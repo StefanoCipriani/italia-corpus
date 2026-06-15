@@ -1,20 +1,17 @@
-REGIO DECRETO 01 giugno 1939 n. 2217
+---
+tipo: REGIO DECRETO
+numero: 2217
+data: 1939-06-01
+titolo: "Modificazioni alle norme vigenti in Libia sull'assicurazione contro la tubercolosi. (039U2217)"
+urn: urn:nir:stato:regio.decreto:1939-06-01;2217
+codice_redazionale: 039U2217
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 giugno 1939 n. 2217
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni alle norme vigenti in Libia sull'assicurazione contro la tubercolosi. (039U2217)
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/03/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

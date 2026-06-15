@@ -1,15 +1,13 @@
-REGIO DECRETO 21 marzo 1935 n. 488
+---
+tipo: REGIO DECRETO
+numero: 488
+data: 1935-03-21
+titolo: "Autorizzazione al Regio commissario dell'Istituto dei ciechi di Torino ad accettare un legato. (035U0488)"
+urn: urn:nir:stato:regio.decreto:1935-03-21;488
+codice_redazionale: 035U0488
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 marzo 1935 n. 488
-==================================
-
-Autorizzazione al Regio commissario dell'Istituto dei ciechi di Torino ad accettare un legato. (035U0488)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,15 +1,13 @@
-REGIO DECRETO 09 maggio 1939 n. 717
+---
+tipo: REGIO DECRETO
+numero: 717
+data: 1939-05-09
+titolo: "Variazioni allo stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1938-39, per restituzioni e rimborsi. (039U0717)"
+urn: urn:nir:stato:regio.decreto:1939-05-09;717
+codice_redazionale: 039U0717
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 maggio 1939 n. 717
-===================================
-
-Variazioni allo stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1938-39, per restituzioni e rimborsi. (039U0717)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

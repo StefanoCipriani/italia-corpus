@@ -1,20 +1,17 @@
-REGIO DECRETO 02 ottobre 1942 n. 1453
+---
+tipo: REGIO DECRETO
+numero: 1453
+data: 1942-10-02
+titolo: "Conseguimento del titolo e decorrenza dell'esperimento di Stato Maggiore per gli ufficiali diplomati dei corsi pressa l'Istituto superiore di guerra. (042U1453)"
+urn: urn:nir:stato:regio.decreto:1942-10-02;1453
+codice_redazionale: 042U1453
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 ottobre 1942 n. 1453
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Conseguimento del titolo e decorrenza dell'esperimento di Stato Maggiore per gli ufficiali diplomati dei corsi pressa l'Istituto superiore di guerra. (042U1453)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

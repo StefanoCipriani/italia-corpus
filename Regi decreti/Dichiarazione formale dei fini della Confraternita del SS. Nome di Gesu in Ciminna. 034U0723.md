@@ -1,21 +1,21 @@
-REGIO DECRETO 15 marzo 1934 n. 723
+---
+tipo: REGIO DECRETO
+numero: 723
+data: 1934-03-15
+titolo: "Dichiarazione formale dei fini della Confraternita del SS. Nome di Gesu', in Ciminna. (034U0723)"
+urn: urn:nir:stato:regio.decreto:1934-03-15;723
+codice_redazionale: 034U0723
+vigente: true
+---
 
-
-REGIO DECRETO 15 marzo 1934 n. 723
-==================================
-
-Dichiarazione formale dei fini della Confraternita del SS. Nome di Gesu', in Ciminna. (034U0723)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-723. R. decreto 15 marzo 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita del SS. Nome di Gesu', in Ciminna (Palermo).   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 27 aprile 1934 - Anno XII.
+723.
+
+R. decreto 15 marzo 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita del SS. Nome di Gesu', in Ciminna (Palermo). 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 27 aprile 1934 - Anno XII.

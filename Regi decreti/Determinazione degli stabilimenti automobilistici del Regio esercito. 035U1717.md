@@ -1,20 +1,17 @@
-REGIO DECRETO 05 settembre 1935 n. 1717
+---
+tipo: REGIO DECRETO
+numero: 1717
+data: 1935-09-05
+titolo: "Determinazione degli stabilimenti automobilistici del Regio esercito. (035U1717)"
+urn: urn:nir:stato:regio.decreto:1935-09-05;1717
+codice_redazionale: 035U1717
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 settembre 1935 n. 1717
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Determinazione degli stabilimenti automobilistici del Regio esercito. (035U1717)
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/10/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

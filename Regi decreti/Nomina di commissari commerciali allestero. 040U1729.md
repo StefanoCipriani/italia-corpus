@@ -1,25 +1,21 @@
-REGIO DECRETO 16 dicembre 1940 n. 1729
+---
+tipo: REGIO DECRETO
+numero: 1729
+data: 1940-12-16
+titolo: "Nomina di commissari commerciali all'estero. (040U1729)"
+urn: urn:nir:stato:regio.decreto:1940-12-16;1729
+codice_redazionale: 040U1729
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 dicembre 1940 n. 1729
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Nomina di commissari commerciali all'estero. (040U1729)
--------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 31/12/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,20 +1,17 @@
-REGIO DECRETO 16 dicembre 1941 n. 1562
+---
+tipo: REGIO DECRETO
+numero: 1562
+data: 1941-12-16
+titolo: "Norme per il conferimento, durante l'attuale stato di guerra, della carica di Ammiraglio di Squadra designato d'Armata. (041U1562)"
+urn: urn:nir:stato:regio.decreto:1941-12-16;1562
+codice_redazionale: 041U1562
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 dicembre 1941 n. 1562
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Norme per il conferimento, durante l'attuale stato di guerra, della carica di Ammiraglio di Squadra designato d'Armata. (041U1562)
-----------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/02/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

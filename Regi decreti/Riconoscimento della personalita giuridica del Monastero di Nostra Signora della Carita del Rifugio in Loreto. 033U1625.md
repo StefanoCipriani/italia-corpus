@@ -1,21 +1,21 @@
-REGIO DECRETO 26 ottobre 1933 n. 1625
+---
+tipo: REGIO DECRETO
+numero: 1625
+data: 1933-10-26
+titolo: "Riconoscimento della personalita' giuridica del Monastero di Nostra Signora della Carita' del Rifugio, in Loreto. (033U1625)"
+urn: urn:nir:stato:regio.decreto:1933-10-26;1625
+codice_redazionale: 033U1625
+vigente: true
+---
 
-
-REGIO DECRETO 26 ottobre 1933 n. 1625
-=====================================
-
-Riconoscimento della personalita' giuridica del Monastero di Nostra Signora della Carita' del Rifugio, in Loreto. (033U1625)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1625. R. decreto 26 ottobre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Nostra Signora della Carita' del Rifugio, in Loreto, ed e' autorizzato il trasferimento in favore dello stesso degli immobili da esso posseduti anteriormente al Concordato ed attualmente intestati a terzi.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 24 novembre 1933 - Anno XII
+1625.
+
+R. decreto 26 ottobre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Nostra Signora della Carita' del Rifugio, in Loreto, ed e' autorizzato il trasferimento in favore dello stesso degli immobili da esso posseduti anteriormente al Concordato ed attualmente intestati a terzi. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 24 novembre 1933 - Anno XII

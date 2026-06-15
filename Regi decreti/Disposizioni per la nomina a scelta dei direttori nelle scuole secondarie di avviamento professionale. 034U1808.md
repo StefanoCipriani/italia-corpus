@@ -1,58 +1,49 @@
-REGIO DECRETO 18 ottobre 1934 n. 1808
+---
+tipo: REGIO DECRETO
+numero: 1808
+data: 1934-10-18
+titolo: "Disposizioni per la nomina a scelta dei direttori nelle scuole secondarie di avviamento professionale. (034U1808)"
+urn: urn:nir:stato:regio.decreto:1934-10-18;1808
+codice_redazionale: 034U1808
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 ottobre 1934 n. 1808
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Disposizioni per la nomina a scelta dei direttori nelle scuole secondarie di avviamento professionale. (034U1808)
------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/11/1934
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

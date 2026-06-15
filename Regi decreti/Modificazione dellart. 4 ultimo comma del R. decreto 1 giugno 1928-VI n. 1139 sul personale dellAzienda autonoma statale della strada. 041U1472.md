@@ -1,15 +1,13 @@
-REGIO DECRETO 08 dicembre 1941 n. 1472
+---
+tipo: REGIO DECRETO
+numero: 1472
+data: 1941-12-08
+titolo: "Modificazione dell'art. 4, ultimo comma, del R. decreto 1° giugno 1928-VI, n. 1139, sul personale dell'Azienda autonoma statale della strada. (041U1472)"
+urn: urn:nir:stato:regio.decreto:1941-12-08;1472
+codice_redazionale: 041U1472
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 dicembre 1941 n. 1472
-======================================
-
-Modificazione dell'art. 4, ultimo comma, del R. decreto 1° giugno 1928-VI, n. 1139, sul personale dell'Azienda autonoma statale della strada. (041U1472)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

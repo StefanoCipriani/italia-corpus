@@ -1,15 +1,13 @@
-REGIO DECRETO 26 ottobre 1933 n. 1823
+---
+tipo: REGIO DECRETO
+numero: 1823
+data: 1933-10-26
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Noventa di Piave. (033U1823)"
+urn: urn:nir:stato:regio.decreto:1933-10-26;1823
+codice_redazionale: 033U1823
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 ottobre 1933 n. 1823
-=====================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Noventa di Piave. (033U1823)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

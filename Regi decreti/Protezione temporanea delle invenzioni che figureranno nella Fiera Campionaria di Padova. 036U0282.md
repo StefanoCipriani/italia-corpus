@@ -1,15 +1,13 @@
-REGIO DECRETO 10 febbraio 1936 n. 282
+---
+tipo: REGIO DECRETO
+numero: 282
+data: 1936-02-10
+titolo: "Protezione temporanea delle invenzioni che figureranno nella Fiera Campionaria di Padova. (036U0282)"
+urn: urn:nir:stato:regio.decreto:1936-02-10;282
+codice_redazionale: 036U0282
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 febbraio 1936 n. 282
-=====================================
-
-Protezione temporanea delle invenzioni che figureranno nella Fiera Campionaria di Padova. (036U0282)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

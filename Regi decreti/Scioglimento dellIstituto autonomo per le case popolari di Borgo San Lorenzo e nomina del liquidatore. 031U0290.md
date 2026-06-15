@@ -1,25 +1,21 @@
-REGIO DECRETO 02 marzo 1931 n. 290
+---
+tipo: REGIO DECRETO
+numero: 290
+data: 1931-03-02
+titolo: "Scioglimento dell'Istituto autonomo per le case popolari di Borgo San Lorenzo e nomina del liquidatore. (031U0290)"
+urn: urn:nir:stato:regio.decreto:1931-03-02;290
+codice_redazionale: 031U0290
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 marzo 1931 n. 290
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Scioglimento dell'Istituto autonomo per le case popolari di Borgo San Lorenzo e nomina del liquidatore. (031U0290)
-------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/04/1931
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

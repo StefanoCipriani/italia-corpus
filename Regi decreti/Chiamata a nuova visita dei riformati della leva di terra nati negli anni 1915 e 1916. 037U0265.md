@@ -1,25 +1,21 @@
-REGIO DECRETO 22 febbraio 1937 n. 265
+---
+tipo: REGIO DECRETO
+numero: 265
+data: 1937-02-22
+titolo: "Chiamata a nuova visita dei riformati della leva di terra nati negli anni 1915 e 1916. (037U0265)"
+urn: urn:nir:stato:regio.decreto:1937-02-22;265
+codice_redazionale: 037U0265
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 febbraio 1937 n. 265
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Chiamata a nuova visita dei riformati della leva di terra nati negli anni 1915 e 1916. (037U0265)
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 06/04/1937
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 26 gennaio 1942 n. 119
+---
+tipo: REGIO DECRETO
+numero: 119
+data: 1942-01-26
+titolo: "Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una donazione. (042U0119)"
+urn: urn:nir:stato:regio.decreto:1942-01-26;119
+codice_redazionale: 042U0119
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 gennaio 1942 n. 119
-====================================
-
-Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una donazione. (042U0119)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

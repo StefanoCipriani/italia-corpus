@@ -1,20 +1,17 @@
-REGIO DECRETO 26 settembre 1935 n. 1895
+---
+tipo: REGIO DECRETO
+numero: 1895
+data: 1935-09-26
+titolo: "Esenzione dall'imposta fabbricati in Somalia. (035U1895)"
+urn: urn:nir:stato:regio.decreto:1935-09-26;1895
+codice_redazionale: 035U1895
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1935 n. 1895
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Esenzione dall'imposta fabbricati in Somalia. (035U1895)
---------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/11/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

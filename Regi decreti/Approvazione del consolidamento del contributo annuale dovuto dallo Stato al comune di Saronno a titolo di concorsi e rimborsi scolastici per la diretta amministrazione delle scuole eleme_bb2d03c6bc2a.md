@@ -1,21 +1,13 @@
-REGIO DECRETO 18 febbraio 1932 n. 526
+---
+tipo: REGIO DECRETO
+numero: 526
+data: 1932-02-18
+titolo: "Approvazione del consolidamento del contributo annuale dovuto dallo Stato al comune di Saronno, a titolo di concorsi e rimborsi scolastici, per la diretta amministrazione delle scuole elementari del comune aggregato di Origgio. (032U0526)"
+urn: urn:nir:stato:regio.decreto:1932-02-18;526
+codice_redazionale: 032U0526
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 febbraio 1932 n. 526
-=====================================
-
-Approvazione del consolidamento del contributo annuale dovuto dallo Stato al comune di Saronno, a titolo di concorsi e rimborsi scolastici, per la diretta amministrazione delle scuole elementari del comune aggregato di Origgio. (032U0526)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Contributi
-
- Contributi  
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

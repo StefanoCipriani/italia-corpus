@@ -1,18 +1,17 @@
-REGIO DECRETO 20 maggio 1946 n. 371
+---
+tipo: REGIO DECRETO
+numero: 371
+data: 1946-05-20
+titolo: "Determinazione del contributo dovuto alla Cassa per l'integrazione dei guadagni degli operai dell'industria."
+urn: urn:nir:stato:regio.decreto:1946-05-20;371
+codice_redazionale: 046U0371
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 maggio 1946 n. 371
-===================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Determinazione del contributo dovuto alla Cassa per l'integrazione dei guadagni degli operai dell'industria.
-------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

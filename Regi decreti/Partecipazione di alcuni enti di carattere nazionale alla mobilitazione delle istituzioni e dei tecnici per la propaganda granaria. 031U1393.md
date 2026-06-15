@@ -1,15 +1,13 @@
-REGIO DECRETO 15 ottobre 1931 n. 1393
+---
+tipo: REGIO DECRETO
+numero: 1393
+data: 1931-10-15
+titolo: "Partecipazione di alcuni enti di carattere nazionale alla mobilitazione delle istituzioni e dei tecnici per la propaganda granaria. (031U1393)"
+urn: urn:nir:stato:regio.decreto:1931-10-15;1393
+codice_redazionale: 031U1393
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 ottobre 1931 n. 1393
-=====================================
-
-Partecipazione di alcuni enti di carattere nazionale alla mobilitazione delle istituzioni e dei tecnici per la propaganda granaria. (031U1393)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

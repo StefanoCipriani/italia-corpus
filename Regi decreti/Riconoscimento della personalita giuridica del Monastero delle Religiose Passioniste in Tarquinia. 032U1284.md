@@ -1,15 +1,13 @@
-REGIO DECRETO 02 settembre 1932 n. 1284
+---
+tipo: REGIO DECRETO
+numero: 1284
+data: 1932-09-02
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Religiose Passioniste in Tarquinia. (032U1284)"
+urn: urn:nir:stato:regio.decreto:1932-09-02;1284
+codice_redazionale: 032U1284
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 settembre 1932 n. 1284
-=======================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Religiose Passioniste in Tarquinia. (032U1284)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

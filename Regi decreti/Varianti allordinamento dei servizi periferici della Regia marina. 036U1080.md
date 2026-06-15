@@ -1,25 +1,21 @@
-REGIO DECRETO 18 maggio 1936 n. 1080
+---
+tipo: REGIO DECRETO
+numero: 1080
+data: 1936-05-18
+titolo: "Varianti all'ordinamento dei servizi periferici della Regia marina. (036U1080)"
+urn: urn:nir:stato:regio.decreto:1936-05-18;1080
+codice_redazionale: 036U1080
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 maggio 1936 n. 1080
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Varianti all'ordinamento dei servizi periferici della Regia marina. (036U1080)
-------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/06/1936
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 17 agosto 1941 n. 1000
+---
+tipo: REGIO DECRETO
+numero: 1000
+data: 1941-08-17
+titolo: "Autorizzazione al comune di Malcesine a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa della classe superiore G. (041U1000)"
+urn: urn:nir:stato:regio.decreto:1941-08-17;1000
+codice_redazionale: 041U1000
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 agosto 1941 n. 1000
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Autorizzazione al comune di Malcesine a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa della classe superiore G. (041U1000)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/10/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

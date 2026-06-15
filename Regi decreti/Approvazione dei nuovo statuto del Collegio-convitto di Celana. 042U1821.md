@@ -1,15 +1,13 @@
-REGIO DECRETO 07 novembre 1942 n. 1821
+---
+tipo: REGIO DECRETO
+numero: 1821
+data: 1942-11-07
+titolo: "Approvazione dei nuovo statuto del Collegio-convitto di Celana. (042U1821)"
+urn: urn:nir:stato:regio.decreto:1942-11-07;1821
+codice_redazionale: 042U1821
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 novembre 1942 n. 1821
-======================================
-
-Approvazione dei nuovo statuto del Collegio-convitto di Celana. (042U1821)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

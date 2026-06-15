@@ -1,21 +1,13 @@
-REGIO DECRETO 13 luglio 1933 n. 1264
+---
+tipo: REGIO DECRETO
+numero: 1264
+data: 1933-07-13
+titolo: "Approvazione di alcune modifiche agli statuti della Confederazione nazionale fascista della gente del mare e dell'aria e delle Associazioni ad essa aderenti. (033U1264)"
+urn: urn:nir:stato:regio.decreto:1933-07-13;1264
+codice_redazionale: 033U1264
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1933 n. 1264
-====================================
-
-Approvazione di alcune modifiche agli statuti della Confederazione nazionale fascista della gente del mare e dell'aria e delle Associazioni ad essa aderenti. (033U1264)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Modifiche agli statuti
-
- Modifiche agli statuti   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 29 ottobre 1936 n. 2202
+---
+tipo: REGIO DECRETO
+numero: 2202
+data: 1936-10-29
+titolo: "Erezione in ente morale dell'Opera pia «Vianelli» con sede in Roma. (036U2202)"
+urn: urn:nir:stato:regio.decreto:1936-10-29;2202
+codice_redazionale: 036U2202
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 ottobre 1936 n. 2202
-=====================================
-
-Erezione in ente morale dell'Opera pia «Vianelli» con sede in Roma. (036U2202)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 04 dicembre 1939 n. 2210
+---
+tipo: REGIO DECRETO
+numero: 2210
+data: 1939-12-04
+titolo: "Approvazione di alcune modifiche agli statuti della Confederazione fascista dei lavoratori del commercio o delle Associazioni aderenti. (039U2210)"
+urn: urn:nir:stato:regio.decreto:1939-12-04;2210
+codice_redazionale: 039U2210
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1939 n. 2210
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Approvazione di alcune modifiche agli statuti della Confederazione fascista dei lavoratori del commercio o delle Associazioni aderenti. (039U2210)
---------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/03/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

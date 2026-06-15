@@ -1,30 +1,25 @@
-REGIO DECRETO 19 settembre 1935 n. 1999
+---
+tipo: REGIO DECRETO
+numero: 1999
+data: 1935-09-19
+titolo: "Iscrizione di rendita pubblica a favore del Fondo per il culto. (035U1999)"
+urn: urn:nir:stato:regio.decreto:1935-09-19;1999
+codice_redazionale: 035U1999
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 settembre 1935 n. 1999
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Iscrizione di rendita pubblica a favore del Fondo per il culto. (035U1999)
---------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/12/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

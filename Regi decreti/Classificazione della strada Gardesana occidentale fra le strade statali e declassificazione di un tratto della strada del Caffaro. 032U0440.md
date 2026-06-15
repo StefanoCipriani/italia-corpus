@@ -1,15 +1,13 @@
-REGIO DECRETO 11 aprile 1932 n. 440
+---
+tipo: REGIO DECRETO
+numero: 440
+data: 1932-04-11
+titolo: "Classificazione della strada Gardesana occidentale fra le strade statali e declassificazione di un tratto della strada del Caffaro. (032U0440)"
+urn: urn:nir:stato:regio.decreto:1932-04-11;440
+codice_redazionale: 032U0440
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 aprile 1932 n. 440
-===================================
-
-Classificazione della strada Gardesana occidentale fra le strade statali e declassificazione di un tratto della strada del Caffaro. (032U0440)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

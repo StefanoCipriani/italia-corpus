@@ -1,15 +1,13 @@
-REGIO DECRETO 29 maggio 1937 n. 1314
+---
+tipo: REGIO DECRETO
+numero: 1314
+data: 1937-05-29
+titolo: "Autorizzazione all'Opera nazionale Dopolavoro ad accettare una donazione. (037U1314)"
+urn: urn:nir:stato:regio.decreto:1937-05-29;1314
+codice_redazionale: 037U1314
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 maggio 1937 n. 1314
-====================================
-
-Autorizzazione all'Opera nazionale Dopolavoro ad accettare una donazione. (037U1314)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

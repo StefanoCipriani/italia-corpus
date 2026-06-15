@@ -1,15 +1,13 @@
-REGIO DECRETO 30 dicembre 1942 n. 1841
+---
+tipo: REGIO DECRETO
+numero: 1841
+data: 1942-12-30
+titolo: "Trasformazione del fine della Fondazione Pia «Lorenzo Scillitani», con sede in Foggia. (042U1841)"
+urn: urn:nir:stato:regio.decreto:1942-12-30;1841
+codice_redazionale: 042U1841
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 dicembre 1942 n. 1841
-======================================
-
-Trasformazione del fine della Fondazione Pia «Lorenzo Scillitani», con sede in Foggia. (042U1841)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 248))

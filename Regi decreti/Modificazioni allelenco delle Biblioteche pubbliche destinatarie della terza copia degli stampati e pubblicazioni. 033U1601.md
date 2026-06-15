@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1933 n. 1601
+---
+tipo: REGIO DECRETO
+numero: 1601
+data: 1933-11-16
+titolo: "Modificazioni all'elenco delle Biblioteche pubbliche destinatarie della terza copia degli stampati e pubblicazioni. (033U1601)"
+urn: urn:nir:stato:regio.decreto:1933-11-16;1601
+codice_redazionale: 033U1601
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 novembre 1933 n. 1601
-======================================
-
-Modificazioni all'elenco delle Biblioteche pubbliche destinatarie della terza copia degli stampati e pubblicazioni. (033U1601)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

@@ -1,15 +1,13 @@
-REGIO DECRETO 07 marzo 1940 n. 341
+---
+tipo: REGIO DECRETO
+numero: 341
+data: 1940-03-07
+titolo: "Modificazione dell'articolo 72 del regolamento per l'esecuzione della legge 17 aprile 1930-VIII, n. 479, sulla riforma del tiro a segno nazionale. (040U0341)"
+urn: urn:nir:stato:regio.decreto:1940-03-07;341
+codice_redazionale: 040U0341
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 marzo 1940 n. 341
-==================================
-
-Modificazione dell'articolo 72 del regolamento per l'esecuzione della legge 17 aprile 1930-VIII, n. 479, sulla riforma del tiro a segno nazionale. (040U0341)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

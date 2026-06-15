@@ -1,15 +1,13 @@
-REGIO DECRETO 20 gennaio 1936 n. 199
+---
+tipo: REGIO DECRETO
+numero: 199
+data: 1936-01-20
+titolo: "Erezione in ente morale della «Fondazione 1° Reggimento Fanteria Savoia». (036U0199)"
+urn: urn:nir:stato:regio.decreto:1936-01-20;199
+codice_redazionale: 036U0199
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1936 n. 199
-====================================
-
-Erezione in ente morale della «Fondazione 1° Reggimento Fanteria Savoia». (036U0199)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

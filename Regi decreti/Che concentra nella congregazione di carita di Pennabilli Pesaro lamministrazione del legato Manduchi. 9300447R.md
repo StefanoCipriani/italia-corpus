@@ -1,16 +1,14 @@
-REGIO DECRETO 23 luglio 1893 n. CCCCXLVII
-
-
-REGIO DECRETO 23 luglio 1893 n. CCCCXLVII
-=========================================
-
-Che concentra nella congregazione di carita' di Pennabilli (Pesaro) l'amministrazione del legato Manduchi. (9300447R)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/12/1893
+---
+tipo: REGIO DECRETO
+numero: CCCCXLVII
+data: 1893-07-23
+titolo: "Che concentra nella congregazione di carita' di Pennabilli (Pesaro) l'amministrazione del legato Manduchi. (9300447R)"
+urn: urn:nir:stato:regio.decreto:1893-07-23;447
+codice_redazionale: 9300447R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Viste le deliberazioni della congregazione di carita' e del consiglio comunale d
 
 Vista la relativa decisione della giunta provinciale amministrativa di Pesaro;
 
-Vista la [legge del 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
+Vista la [legge del 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'amministrazione del legato Manduchi viene concentrata nella congregazione di carita' di Pennabilli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 luglio 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 21 novembre 1893.   
-  
-Reg. 193. Atti del Governo a f. 177. E. Angelotti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Armo'.   
-  
-G. Giolitti.   
+L'amministrazione del legato Manduchi viene concentrata nella congregazione di carita' di Pennabilli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 luglio 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 21 novembre 1893. 
+ 
+ Reg. 193. Atti del Governo a f. 177. E. Angelotti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Armo'. 
+ 
+ G. Giolitti.

@@ -1,26 +1,17 @@
-REGIO DECRETO 18 febbraio 1932 n. 326
+---
+tipo: REGIO DECRETO
+numero: 326
+data: 1932-02-18
+titolo: "Rettifica dei contributi gia' consolidati a carico dei comuni di Celleno e Graffignano, della provincia di Viterbo, a norma dell'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare. (032U0326)"
+urn: urn:nir:stato:regio.decreto:1932-02-18;326
+codice_redazionale: 032U0326
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 febbraio 1932 n. 326
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Rettifica dei contributi gia' consolidati a carico dei comuni di Celleno e Graffignano, della provincia di Viterbo, a norma dell'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare. (032U0326)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 05/05/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Elenco
-
- Elenco   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

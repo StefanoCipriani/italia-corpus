@@ -1,15 +1,13 @@
-REGIO DECRETO 20 aprile 1942 n. 1443
+---
+tipo: REGIO DECRETO
+numero: 1443
+data: 1942-04-20
+titolo: "Conferma, per un quinquennio, del contributo annuo governativo al Consorzio di rimboschimento fra lo Stato e la provincia di Cuneo. (042U1443)"
+urn: urn:nir:stato:regio.decreto:1942-04-20;1443
+codice_redazionale: 042U1443
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 aprile 1942 n. 1443
-====================================
-
-Conferma, per un quinquennio, del contributo annuo governativo al Consorzio di rimboschimento fra lo Stato e la provincia di Cuneo. (042U1443)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,25 +1,21 @@
-REGIO DECRETO 24 luglio 1936 n. 1641
+---
+tipo: REGIO DECRETO
+numero: 1641
+data: 1936-07-24
+titolo: "Temporanea deroga per l'Africa Orientale Italiana ad alcune norme dell'ordinamento per l'esecuzione delle opere pubbliche e di quello amministrativo contabile per le Colonie. (036U1641)"
+urn: urn:nir:stato:regio.decreto:1936-07-24;1641
+codice_redazionale: 036U1641
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1936 n. 1641
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Temporanea deroga per l'Africa Orientale Italiana ad alcune norme dell'ordinamento per l'esecuzione delle opere pubbliche e di quello amministrativo contabile per le Colonie. (036U1641)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/07/1936
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

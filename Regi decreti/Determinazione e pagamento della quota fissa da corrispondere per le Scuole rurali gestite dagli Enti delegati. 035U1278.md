@@ -1,15 +1,13 @@
-REGIO DECRETO 20 giugno 1935 n. 1278
+---
+tipo: REGIO DECRETO
+numero: 1278
+data: 1935-06-20
+titolo: "Determinazione e pagamento della quota fissa da corrispondere per le Scuole rurali gestite dagli Enti delegati. (035U1278)"
+urn: urn:nir:stato:regio.decreto:1935-06-20;1278
+codice_redazionale: 035U1278
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 giugno 1935 n. 1278
-====================================
-
-Determinazione e pagamento della quota fissa da corrispondere per le Scuole rurali gestite dagli Enti delegati. (035U1278)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 17 novembre 1932 n. 2006
+---
+tipo: REGIO DECRETO
+numero: 2006
+data: 1932-11-17
+titolo: "Fissazione dei contributi scolastici dei comuni di Bitonto e di Modugno. (032U2006)"
+urn: urn:nir:stato:regio.decreto:1932-11-17;2006
+codice_redazionale: 032U2006
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 novembre 1932 n. 2006
-======================================
-
-Fissazione dei contributi scolastici dei comuni di Bitonto e di Modugno. (032U2006)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/03/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

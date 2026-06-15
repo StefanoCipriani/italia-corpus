@@ -1,15 +1,13 @@
-REGIO DECRETO 12 dicembre 1940 n. 2068
+---
+tipo: REGIO DECRETO
+numero: 2068
+data: 1940-12-12
+titolo: "Autorizzazione alla Regia universita' di Parma ad accettare una donazione. (040U2068)"
+urn: urn:nir:stato:regio.decreto:1940-12-12;2068
+codice_redazionale: 040U2068
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 dicembre 1940 n. 2068
-======================================
-
-Autorizzazione alla Regia universita' di Parma ad accettare una donazione. (040U2068)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

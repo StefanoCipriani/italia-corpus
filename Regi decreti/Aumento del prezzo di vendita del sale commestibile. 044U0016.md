@@ -1,25 +1,21 @@
-REGIO DECRETO 03 gennaio 1944 n. 16
+---
+tipo: REGIO DECRETO
+numero: 16
+data: 1944-01-03
+titolo: "Aumento del prezzo di vendita del sale commestibile. (044U0016)"
+urn: urn:nir:stato:regio.decreto:1944-01-03;16
+codice_redazionale: 044U0016
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 gennaio 1944 n. 16
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Aumento del prezzo di vendita del sale commestibile. (044U0016)
----------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 13/02/1944
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

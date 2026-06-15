@@ -1,15 +1,13 @@
-REGIO DECRETO 18 gennaio 1932 n. 22
+---
+tipo: REGIO DECRETO
+numero: 22
+data: 1932-01-18
+titolo: "Nomina dell'on. prof. Arrigo Serpieri a presidente dell'Associazione nazionale fra i consorzi di bonifica e d'irrigazione. (032U0022)"
+urn: urn:nir:stato:regio.decreto:1932-01-18;22
+codice_redazionale: 032U0022
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 gennaio 1932 n. 22
-===================================
-
-Nomina dell'on. prof. Arrigo Serpieri a presidente dell'Associazione nazionale fra i consorzi di bonifica e d'irrigazione. (032U0022)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

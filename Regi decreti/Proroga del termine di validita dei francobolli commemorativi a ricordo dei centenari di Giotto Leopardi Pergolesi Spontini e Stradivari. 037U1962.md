@@ -1,15 +1,13 @@
-REGIO DECRETO 27 ottobre 1937 n. 1962
+---
+tipo: REGIO DECRETO
+numero: 1962
+data: 1937-10-27
+titolo: "Proroga del termine di validita' dei francobolli commemorativi a ricordo dei centenari di Giotto, Leopardi, Pergolesi, Spontini e Stradivari. (037U1962)"
+urn: urn:nir:stato:regio.decreto:1937-10-27;1962
+codice_redazionale: 037U1962
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1937 n. 1962
-=====================================
-
-Proroga del termine di validita' dei francobolli commemorativi a ricordo dei centenari di Giotto, Leopardi, Pergolesi, Spontini e Stradivari. (037U1962)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

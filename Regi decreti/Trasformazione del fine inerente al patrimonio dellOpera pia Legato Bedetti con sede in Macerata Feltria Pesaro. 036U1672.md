@@ -1,21 +1,21 @@
-REGIO DECRETO 24 luglio 1936 n. 1672
+---
+tipo: REGIO DECRETO
+numero: 1672
+data: 1936-07-24
+titolo: "Trasformazione del fine inerente al patrimonio dell'Opera pia «Legato Bedetti», con sede in Macerata Feltria (Pesaro). (036U1672)"
+urn: urn:nir:stato:regio.decreto:1936-07-24;1672
+codice_redazionale: 036U1672
+vigente: true
+---
 
-
-REGIO DECRETO 24 luglio 1936 n. 1672
-====================================
-
-Trasformazione del fine inerente al patrimonio dell'Opera pia «Legato Bedetti», con sede in Macerata Feltria (Pesaro). (036U1672)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1672. R. decreto 24 luglio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene trasformato il fine inerente al patrimonio dell'Opera pia «Legato Bedetti», con sede in Macerata Feltria.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 10 settembre 1936 - Anno XIV.
+1672.
+
+R. decreto 24 luglio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene trasformato il fine inerente al patrimonio dell'Opera pia «Legato Bedetti», con sede in Macerata Feltria. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 10 settembre 1936 - Anno XIV.

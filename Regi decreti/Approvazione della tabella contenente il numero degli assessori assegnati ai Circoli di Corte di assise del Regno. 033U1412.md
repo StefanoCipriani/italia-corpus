@@ -1,21 +1,13 @@
-REGIO DECRETO 26 ottobre 1933 n. 1412
+---
+tipo: REGIO DECRETO
+numero: 1412
+data: 1933-10-26
+titolo: "Approvazione della tabella contenente il numero degli assessori assegnati ai Circoli di Corte di assise del Regno. (033U1412)"
+urn: urn:nir:stato:regio.decreto:1933-10-26;1412
+codice_redazionale: 033U1412
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 ottobre 1933 n. 1412
-=====================================
-
-Approvazione della tabella contenente il numero degli assessori assegnati ai Circoli di Corte di assise del Regno. (033U1412)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

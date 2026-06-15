@@ -1,15 +1,13 @@
-REGIO DECRETO 19 gennaio 1942 n. 62
+---
+tipo: REGIO DECRETO
+numero: 62
+data: 1942-01-19
+titolo: "Autorizzazione alla Regia universita' di Torino ad accettare una donazione. (042U0062)"
+urn: urn:nir:stato:regio.decreto:1942-01-19;62
+codice_redazionale: 042U0062
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 gennaio 1942 n. 62
-===================================
-
-Autorizzazione alla Regia universita' di Torino ad accettare una donazione. (042U0062)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

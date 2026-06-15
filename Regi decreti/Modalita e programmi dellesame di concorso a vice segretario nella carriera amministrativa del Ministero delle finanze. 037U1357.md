@@ -1,25 +1,21 @@
-REGIO DECRETO 14 luglio 1937 n. 1357
+---
+tipo: REGIO DECRETO
+numero: 1357
+data: 1937-07-14
+titolo: "Modalita' e programmi dell'esame di concorso a vice segretario nella carriera amministrativa del Ministero delle finanze. (037U1357)"
+urn: urn:nir:stato:regio.decreto:1937-07-14;1357
+codice_redazionale: 037U1357
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 luglio 1937 n. 1357
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modalita' e programmi dell'esame di concorso a vice segretario nella carriera amministrativa del Ministero delle finanze. (037U1357)
-------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/08/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

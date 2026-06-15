@@ -1,15 +1,13 @@
-REGIO DECRETO 11 novembre 1938 n. 2006
+---
+tipo: REGIO DECRETO
+numero: 2006
+data: 1938-11-11
+titolo: "Istituzione e soppressione di posti di cancelliere presso Regi Consolati generali in Vienna e Berlino. (038U2006)"
+urn: urn:nir:stato:regio.decreto:1938-11-11;2006
+codice_redazionale: 038U2006
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 novembre 1938 n. 2006
-======================================
-
-Istituzione e soppressione di posti di cancelliere presso Regi Consolati generali in Vienna e Berlino. (038U2006)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

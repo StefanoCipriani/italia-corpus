@@ -1,25 +1,21 @@
-REGIO DECRETO 19 giugno 1940 n. 894
+---
+tipo: REGIO DECRETO
+numero: 894
+data: 1940-06-19
+titolo: "Determinazione del contributo annuo a carico dei revisori ufficiali dei conti. (040U0894)"
+urn: urn:nir:stato:regio.decreto:1940-06-19;894
+codice_redazionale: 040U0894
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 giugno 1940 n. 894
-===================================
+((PROVVEDIMENTO ABROGATO DALLA L. 13 MAGGIO 1997, N. 132))
 
-Determinazione del contributo annuo a carico dei revisori ufficiali dei conti. (040U0894)
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/08/1940
+((PROVVEDIMENTO ABROGATO DALLA L. 13 MAGGIO 1997, N. 132))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 13 MAGGIO 1997, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 13 MAGGIO 1997, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 13 MAGGIO 1997, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132)))
+((PROVVEDIMENTO ABROGATO DALLA L. 13 MAGGIO 1997, N. 132))

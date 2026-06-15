@@ -1,15 +1,13 @@
-REGIO DECRETO 23 ottobre 1930 n. 1743
+---
+tipo: REGIO DECRETO
+numero: 1743
+data: 1930-10-23
+titolo: "Soppressione dell'ufficio di conciliazione dell'ex comune di Giano Vetusto. (030U1743)"
+urn: urn:nir:stato:regio.decreto:1930-10-23;1743
+codice_redazionale: 030U1743
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 ottobre 1930 n. 1743
-=====================================
-
-Soppressione dell'ufficio di conciliazione dell'ex comune di Giano Vetusto. (030U1743)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

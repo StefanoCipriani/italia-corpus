@@ -1,15 +1,13 @@
-REGIO DECRETO 16 giugno 1932 n. 842
+---
+tipo: REGIO DECRETO
+numero: 842
+data: 1932-06-16
+titolo: "Pareggiamento del Liceo musicale «G. Rossini» di Bolzano ai Conservatori musicali governativi. (032U0842)"
+urn: urn:nir:stato:regio.decreto:1932-06-16;842
+codice_redazionale: 032U0842
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1932 n. 842
-===================================
-
-Pareggiamento del Liceo musicale «G. Rossini» di Bolzano ai Conservatori musicali governativi. (032U0842)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

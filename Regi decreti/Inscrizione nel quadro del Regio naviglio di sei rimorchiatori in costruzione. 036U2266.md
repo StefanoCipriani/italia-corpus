@@ -1,15 +1,13 @@
-REGIO DECRETO 21 dicembre 1936 n. 2266
+---
+tipo: REGIO DECRETO
+numero: 2266
+data: 1936-12-21
+titolo: "Inscrizione nel quadro del Regio naviglio di sei rimorchiatori in costruzione. (036U2266)"
+urn: urn:nir:stato:regio.decreto:1936-12-21;2266
+codice_redazionale: 036U2266
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1936 n. 2266
-======================================
-
-Inscrizione nel quadro del Regio naviglio di sei rimorchiatori in costruzione. (036U2266)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

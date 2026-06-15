@@ -1,25 +1,21 @@
-REGIO DECRETO 05 dicembre 1935 n. 2311
+---
+tipo: REGIO DECRETO
+numero: 2311
+data: 1935-12-05
+titolo: "Varianti al R. decreto 28 settembre 1934-XII, n. 1728, sul divieto della divulgazione di notizie di interesse militare. (035U2311)"
+urn: urn:nir:stato:regio.decreto:1935-12-05;2311
+codice_redazionale: 035U2311
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1935 n. 2311
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Varianti al R. decreto 28 settembre 1934-XII, n. 1728, sul divieto della divulgazione di notizie di interesse militare. (035U2311)
-----------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/02/1936
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

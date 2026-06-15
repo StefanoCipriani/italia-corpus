@@ -1,25 +1,21 @@
-REGIO DECRETO 26 settembre 1935 n. 1843
+---
+tipo: REGIO DECRETO
+numero: 1843
+data: 1935-09-26
+titolo: "Concessioni ai benemeriti della Causa nazionale nei concorsi a cattedre di insegnamento presso le Regie scuole e i Regi corsi secondari di avviamento professionale. (035U1843)"
+urn: urn:nir:stato:regio.decreto:1935-09-26;1843
+codice_redazionale: 035U1843
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1935 n. 1843
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Concessioni ai benemeriti della Causa nazionale nei concorsi a cattedre di insegnamento presso le Regie scuole e i Regi corsi secondari di avviamento professionale. (035U1843)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/11/1935
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

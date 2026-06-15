@@ -1,15 +1,13 @@
-REGIO DECRETO 07 settembre 1942 n. 1489
+---
+tipo: REGIO DECRETO
+numero: 1489
+data: 1942-09-07
+titolo: "Autorizzazione all'Istituto dei ciechi Rittmeyer di Trieste ad accettare un legato. (042U1489)"
+urn: urn:nir:stato:regio.decreto:1942-09-07;1489
+codice_redazionale: 042U1489
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 settembre 1942 n. 1489
-=======================================
-
-Autorizzazione all'Istituto dei ciechi Rittmeyer di Trieste ad accettare un legato. (042U1489)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

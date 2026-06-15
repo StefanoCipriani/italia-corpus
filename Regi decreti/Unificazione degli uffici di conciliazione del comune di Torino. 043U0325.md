@@ -1,15 +1,13 @@
-REGIO DECRETO 08 aprile 1943 n. 325
+---
+tipo: REGIO DECRETO
+numero: 325
+data: 1943-04-08
+titolo: "Unificazione degli uffici di conciliazione del comune di Torino. (043U0325)"
+urn: urn:nir:stato:regio.decreto:1943-04-08;325
+codice_redazionale: 043U0325
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 aprile 1943 n. 325
-===================================
-
-Unificazione degli uffici di conciliazione del comune di Torino. (043U0325)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

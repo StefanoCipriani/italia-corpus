@@ -1,25 +1,21 @@
-REGIO DECRETO 16 novembre 1942 n. 1412
+---
+tipo: REGIO DECRETO
+numero: 1412
+data: 1942-11-16
+titolo: "Modificazione delle circoscrizioni degli Uffici di conciliazione del Governatorato di Roma. (042U1412)"
+urn: urn:nir:stato:regio.decreto:1942-11-16;1412
+codice_redazionale: 042U1412
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 novembre 1942 n. 1412
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazione delle circoscrizioni degli Uffici di conciliazione del Governatorato di Roma. (042U1412)
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/01/1943
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

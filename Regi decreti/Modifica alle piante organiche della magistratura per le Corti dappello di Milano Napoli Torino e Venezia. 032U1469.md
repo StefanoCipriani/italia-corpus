@@ -1,21 +1,13 @@
-REGIO DECRETO 10 novembre 1932 n. 1469
+---
+tipo: REGIO DECRETO
+numero: 1469
+data: 1932-11-10
+titolo: "Modifica alle piante organiche della magistratura per le Corti d'appello di Milano, Napoli, Torino e Venezia. (032U1469)"
+urn: urn:nir:stato:regio.decreto:1932-11-10;1469
+codice_redazionale: 032U1469
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 novembre 1932 n. 1469
-======================================
-
-Modifica alle piante organiche della magistratura per le Corti d'appello di Milano, Napoli, Torino e Venezia. (032U1469)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/12/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,16 +1,14 @@
-REGIO DECRETO 17 febbraio 1881 n. LXVIII
-
-
-REGIO DECRETO 17 febbraio 1881 n. LXVIII
-========================================
-
-Che autorizza l'inversione parziale del monte frumentario di Montesilvano (Teramo) in un istituto di prestiti. (8100068R)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1881
+---
+tipo: REGIO DECRETO
+numero: LXVIII
+data: 1881-02-17
+titolo: "Che autorizza l'inversione parziale del monte frumentario di Montesilvano (Teramo) in un istituto di prestiti. (8100068R)"
+urn: urn:nir:stato:regio.decreto:1881-02-17;68
+codice_redazionale: 8100068R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Visto il voto della deputazione provinciale;
 
 Vista la legge 3 agosto 1862 sulle opere pie;
 
-Udito
------
+Udito il parere del consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del consiglio di Stato; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata l'inversione di meta' del capitale del monte frumentario di Montesilvano per la fondazione di un istituto di prestiti nello stesso comune.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 febbraio 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 14 marzo 1881   
-  
-Reg. 112 Atti del Governo a f. 148. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli. T. Villa.   
-  
-Depretis.   
+E' autorizzata l'inversione di meta' del capitale del monte frumentario di Montesilvano per la fondazione di un istituto di prestiti nello stesso comune. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 febbraio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 14 marzo 1881 
+ 
+ Reg. 112 Atti del Governo a f. 148. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli. T. Villa. 
+ 
+ Depretis.

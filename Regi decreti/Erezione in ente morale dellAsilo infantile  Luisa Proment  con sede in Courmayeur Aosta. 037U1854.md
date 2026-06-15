@@ -1,15 +1,13 @@
-REGIO DECRETO 25 giugno 1937 n. 1854
+---
+tipo: REGIO DECRETO
+numero: 1854
+data: 1937-06-25
+titolo: "Erezione in ente morale dell'Asilo infantile « Luisa Proment », con sede in Courmayeur (Aosta). (037U1854)"
+urn: urn:nir:stato:regio.decreto:1937-06-25;1854
+codice_redazionale: 037U1854
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1937 n. 1854
-====================================
-
-Erezione in ente morale dell'Asilo infantile « Luisa Proment », con sede in Courmayeur (Aosta). (037U1854)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

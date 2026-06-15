@@ -1,21 +1,21 @@
-REGIO DECRETO 15 giugno 1933 n. 961
+---
+tipo: REGIO DECRETO
+numero: 961
+data: 1933-06-15
+titolo: "Riconoscimento della personalita' giuridica della Chiesa della Madonna di Giubino, in Calatafimi. (033U0961)"
+urn: urn:nir:stato:regio.decreto:1933-06-15;961
+codice_redazionale: 033U0961
+vigente: true
+---
 
-
-REGIO DECRETO 15 giugno 1933 n. 961
-===================================
-
-Riconoscimento della personalita' giuridica della Chiesa della Madonna di Giubino, in Calatafimi. (033U0961)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/08/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-961. R. decreto 15 giugno 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della Madonna di Giubino con l'annessa chiesetta extra moenia denominata Santuario, in Calatafimi.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 8 luglio 1933 - Anno XI
+961.
+
+R. decreto 15 giugno 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della Madonna di Giubino con l'annessa chiesetta extra moenia denominata Santuario, in Calatafimi. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 8 luglio 1933 - Anno XI

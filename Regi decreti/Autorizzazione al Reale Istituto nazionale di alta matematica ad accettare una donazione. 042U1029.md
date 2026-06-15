@@ -1,15 +1,13 @@
-REGIO DECRETO 24 luglio 1942 n. 1029
+---
+tipo: REGIO DECRETO
+numero: 1029
+data: 1942-07-24
+titolo: "Autorizzazione al Reale Istituto nazionale di alta matematica ad accettare una donazione. (042U1029)"
+urn: urn:nir:stato:regio.decreto:1942-07-24;1029
+codice_redazionale: 042U1029
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1942 n. 1029
-====================================
-
-Autorizzazione al Reale Istituto nazionale di alta matematica ad accettare una donazione. (042U1029)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

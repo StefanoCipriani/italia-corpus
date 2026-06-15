@@ -1,15 +1,13 @@
-REGIO DECRETO 05 settembre 1938 n. 1564
+---
+tipo: REGIO DECRETO
+numero: 1564
+data: 1938-09-05
+titolo: "Durata del ciclo di operazioni militari aeronautiche nelle Colonie. (038U1564)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1564
+codice_redazionale: 038U1564
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 settembre 1938 n. 1564
-=======================================
-
-Durata del ciclo di operazioni militari aeronautiche nelle Colonie. (038U1564)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

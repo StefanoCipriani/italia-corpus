@@ -1,21 +1,21 @@
-REGIO DECRETO 13 giugno 1935 n. 1426
+---
+tipo: REGIO DECRETO
+numero: 1426
+data: 1935-06-13
+titolo: "Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa dell'Immacolata Concezione detta la « Rotonda », in Noto. (035U1426)"
+urn: urn:nir:stato:regio.decreto:1935-06-13;1426
+codice_redazionale: 035U1426
+vigente: true
+---
 
-
-REGIO DECRETO 13 giugno 1935 n. 1426
-====================================
-
-Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa dell'Immacolata Concezione detta la « Rotonda », in Noto. (035U1426)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1426. R. decreto 13 giugno 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Noto in data 3 aprile 1926 con postilla in data 19 febbraio 1935, relativo alla erezione in parrocchia della Chiesa dell'Immacolata Concezione detta la « Rotonda », in Noto (Siracusa).   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 29 luglio 1935 - Anno XIII
+1426.
+
+R. decreto 13 giugno 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Noto in data 3 aprile 1926 con postilla in data 19 febbraio 1935, relativo alla erezione in parrocchia della Chiesa dell'Immacolata Concezione detta la « Rotonda », in Noto (Siracusa). 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 29 luglio 1935 - Anno XIII

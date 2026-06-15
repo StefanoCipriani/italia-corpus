@@ -1,15 +1,13 @@
-REGIO DECRETO 06 febbraio 1936 n. 465
+---
+tipo: REGIO DECRETO
+numero: 465
+data: 1936-02-06
+titolo: "Agevolazioni tributarie nelle colonie a favore dell'«Azienda Generale Italiana Petroli» (A.G.I.P.). (036U0465)"
+urn: urn:nir:stato:regio.decreto:1936-02-06;465
+codice_redazionale: 036U0465
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 febbraio 1936 n. 465
-=====================================
-
-Agevolazioni tributarie nelle colonie a favore dell'«Azienda Generale Italiana Petroli» (A.G.I.P.). (036U0465)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

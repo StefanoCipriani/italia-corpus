@@ -1,31 +1,21 @@
-REGIO DECRETO 03 ottobre 1941 n. 1233
+---
+tipo: REGIO DECRETO
+numero: 1233
+data: 1941-10-03
+titolo: "Indennita' da corrispondere al personale della Regia marina in caso di sinistro marittimo per perdita di vestiario, di strumenti nautici, scientifici e chirurgici. (041U1233)"
+urn: urn:nir:stato:regio.decreto:1941-10-03;1233
+codice_redazionale: 041U1233
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 ottobre 1941 n. 1233
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Indennita' da corrispondere al personale della Regia marina in caso di sinistro marittimo per perdita di vestiario, di strumenti nautici, scientifici e chirurgici. (041U1233)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/12/1941
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

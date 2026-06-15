@@ -1,15 +1,13 @@
-REGIO DECRETO 06 dicembre 1937 n. 2338
+---
+tipo: REGIO DECRETO
+numero: 2338
+data: 1937-12-06
+titolo: "Modificazione della composizione della Commissione esaminatrice dei concorsi per l'avanzamento degli ufficiali delle Capitanerie di porto. (037U2338)"
+urn: urn:nir:stato:regio.decreto:1937-12-06;2338
+codice_redazionale: 037U2338
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 dicembre 1937 n. 2338
-======================================
-
-Modificazione della composizione della Commissione esaminatrice dei concorsi per l'avanzamento degli ufficiali delle Capitanerie di porto. (037U2338)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

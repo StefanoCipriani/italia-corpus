@@ -1,15 +1,13 @@
-REGIO DECRETO 18 giugno 1936 n. 1421
+---
+tipo: REGIO DECRETO
+numero: 1421
+data: 1936-06-18
+titolo: "Revoca della esenzione dalle tasse postali concessa al Consorzio nazionale per le biblioteche di Torino. (036U1421)"
+urn: urn:nir:stato:regio.decreto:1936-06-18;1421
+codice_redazionale: 036U1421
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1936 n. 1421
-====================================
-
-Revoca della esenzione dalle tasse postali concessa al Consorzio nazionale per le biblioteche di Torino. (036U1421)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,31 +1,21 @@
-REGIO DECRETO 24 settembre 1931 n. 1325
+---
+tipo: REGIO DECRETO
+numero: 1325
+data: 1931-09-24
+titolo: "Tributo delle popolazioni eritree per l'esercizio 1931-32. (031U1325)"
+urn: urn:nir:stato:regio.decreto:1931-09-24;1325
+codice_redazionale: 031U1325
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 settembre 1931 n. 1325
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Tributo delle popolazioni eritree per l'esercizio 1931-32. (031U1325)
----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/11/1931
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabella
-
- Tabella   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 21 dicembre 1936 n. 2529
+---
+tipo: REGIO DECRETO
+numero: 2529
+data: 1936-12-21
+titolo: "Trattamento economico di personali militari e assimilati delle Forze armate dello Stato. (036U2529)"
+urn: urn:nir:stato:regio.decreto:1936-12-21;2529
+codice_redazionale: 036U2529
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1936 n. 2529
-======================================
-
-Trattamento economico di personali militari e assimilati delle Forze armate dello Stato. (036U2529)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

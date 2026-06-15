@@ -1,15 +1,13 @@
-REGIO DECRETO 27 ottobre 1937 n. 1893
+---
+tipo: REGIO DECRETO
+numero: 1893
+data: 1937-10-27
+titolo: "Radiazione della Regia nave « Livenza » dal quadro del navigilo da guerra dello Stato. (037U1893)"
+urn: urn:nir:stato:regio.decreto:1937-10-27;1893
+codice_redazionale: 037U1893
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1937 n. 1893
-=====================================
-
-Radiazione della Regia nave « Livenza » dal quadro del navigilo da guerra dello Stato. (037U1893)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/12/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 09 ottobre 1942 n. 1727
+---
+tipo: REGIO DECRETO
+numero: 1727
+data: 1942-10-09
+titolo: "Modificazioni al R. decreto 12 aprile 11939-XVII, n. 2243, che estende alla Libia le norme per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali. (042U1727)"
+urn: urn:nir:stato:regio.decreto:1942-10-09;1727
+codice_redazionale: 042U1727
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 ottobre 1942 n. 1727
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni al R. decreto 12 aprile 11939-XVII, n. 2243, che estende alla Libia le norme per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali. (042U1727)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/02/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

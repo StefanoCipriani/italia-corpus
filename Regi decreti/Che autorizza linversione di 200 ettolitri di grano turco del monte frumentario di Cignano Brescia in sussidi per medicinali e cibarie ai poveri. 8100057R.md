@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1881 n. LVII
-
-
-REGIO DECRETO 13 febbraio 1881 n. LVII
-======================================
-
-Che autorizza l'inversione di 200 ettolitri di grano turco del monte frumentario di Cignano (Brescia) in sussidi per medicinali e cibarie ai poveri. (8100057R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1881
+---
+tipo: REGIO DECRETO
+numero: LVII
+data: 1881-02-13
+titolo: "Che autorizza l'inversione di 200 ettolitri di grano turco del monte frumentario di Cignano (Brescia) in sussidi per medicinali e cibarie ai poveri. (8100057R)"
+urn: urn:nir:stato:regio.decreto:1881-02-13;57
+codice_redazionale: 8100057R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Veduto il voto della deputazione provinciale;
 
 Udito il parere del consiglio di Stato;
 
-Veduti
-------
+Veduti la legge 3 agosto 1862, ed il corrispondente regolamento 27 novembre stesso anno; Abbiamo decretato e decretiamo:
 
-la legge 3 agosto 1862, ed il corrispondente regolamento 27 novembre stesso anno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la inversione dei predetti duecento ettolitri di grano turco del monte frumentario di Cignano (Brescia) in danaro, per destinarne il reddito in sussidi per medicinali e cibarie ai poveri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 3 marzo 1881   
-  
-Reg. 112 Atti del Governo a f. 128. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli. T. Villa.   
-  
-Depretis.   
+E' autorizzata la inversione dei predetti duecento ettolitri di grano turco del monte frumentario di Cignano (Brescia) in danaro, per destinarne il reddito in sussidi per medicinali e cibarie ai poveri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 3 marzo 1881 
+ 
+ Reg. 112 Atti del Governo a f. 128. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli. T. Villa. 
+ 
+ Depretis.

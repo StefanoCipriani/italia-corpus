@@ -1,15 +1,13 @@
-REGIO DECRETO 11 agosto 1939 n. 1467
+---
+tipo: REGIO DECRETO
+numero: 1467
+data: 1939-08-11
+titolo: "Autorizzazione all'Istituto dei ciechi di Milano ad accettare un'eredita'. (039U1467)"
+urn: urn:nir:stato:regio.decreto:1939-08-11;1467
+codice_redazionale: 039U1467
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 agosto 1939 n. 1467
-====================================
-
-Autorizzazione all'Istituto dei ciechi di Milano ad accettare un'eredita'. (039U1467)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/10/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

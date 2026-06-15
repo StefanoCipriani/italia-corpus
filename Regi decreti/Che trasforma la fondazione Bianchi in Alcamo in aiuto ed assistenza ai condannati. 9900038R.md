@@ -1,20 +1,17 @@
-REGIO DECRETO 12 febbraio 1899 n. XXXVIII
+---
+tipo: REGIO DECRETO
+numero: XXXVIII
+data: 1899-02-12
+titolo: "Che trasforma la fondazione Bianchi in Alcamo in aiuto ed assistenza ai condannati. (9900038R)"
+urn: urn:nir:stato:regio.decreto:1899-02-12;38
+codice_redazionale: 9900038R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1899 n. XXXVIII
-=========================================
-
-Che trasforma la fondazione Bianchi in Alcamo in aiuto ed assistenza ai condannati. (9900038R)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1899
-
-Art. 1
-------
-
-  
-Col quale la fondazione dei Bianchi in Alcamo, gia' istituita per prestare aiuto ed assistenza ai condannati a morte, e' trasformata allo scopo di sussidiare: 1° le famiglie povere di detenuti in carcere con preferenza a quelle di coloro che hanno una piu' lunga pena da espiare; 2° coloro che uscissero dal carcere prosciolti dall'imputazione o per compiuta espiazione della pena e fossero sprovvisti di utile occupazione. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 27 febbraio 1899.   
-  
-Reg. 218. Atti del Governo a f. 201.   
+Col quale la fondazione dei Bianchi in Alcamo, gia' istituita per prestare aiuto ed assistenza ai condannati a morte, e' trasformata allo scopo di sussidiare: 1° le famiglie povere di detenuti in carcere con preferenza a quelle di coloro che hanno una piu' lunga pena da espiare; 2° coloro che uscissero dal carcere prosciolti dall'imputazione o per compiuta espiazione della pena e fossero sprovvisti di utile occupazione. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 27 febbraio 1899. 
+ 
+ Reg. 218. Atti del Governo a f. 201.

@@ -1,15 +1,13 @@
-REGIO DECRETO 02 aprile 1936 n. 853
+---
+tipo: REGIO DECRETO
+numero: 853
+data: 1936-04-02
+titolo: "Approvazione del nuovo statuto della Fondazione Annibale Caretta. (036U0853)"
+urn: urn:nir:stato:regio.decreto:1936-04-02;853
+codice_redazionale: 036U0853
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 aprile 1936 n. 853
-===================================
-
-Approvazione del nuovo statuto della Fondazione Annibale Caretta. (036U0853)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,15 +1,13 @@
-REGIO DECRETO 10 agosto 1934 n. 2085
+---
+tipo: REGIO DECRETO
+numero: 2085
+data: 1934-08-10
+titolo: "Disposizioni riguardanti i servizi del Genio militare. (034U2085)"
+urn: urn:nir:stato:regio.decreto:1934-08-10;2085
+codice_redazionale: 034U2085
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 agosto 1934 n. 2085
-====================================
-
-Disposizioni riguardanti i servizi del Genio militare. (034U2085)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

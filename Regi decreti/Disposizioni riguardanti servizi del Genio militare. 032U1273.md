@@ -1,15 +1,13 @@
-REGIO DECRETO 28 luglio 1932 n. 1273
+---
+tipo: REGIO DECRETO
+numero: 1273
+data: 1932-07-28
+titolo: "Disposizioni riguardanti servizi del Genio militare. (032U1273)"
+urn: urn:nir:stato:regio.decreto:1932-07-28;1273
+codice_redazionale: 032U1273
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 luglio 1932 n. 1273
-====================================
-
-Disposizioni riguardanti servizi del Genio militare. (032U1273)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,45 +1,37 @@
-REGIO DECRETO 25 gennaio 1943 n. 4
+---
+tipo: REGIO DECRETO
+numero: 4
+data: 1943-01-25
+titolo: "Istituzione presso il Ministero dell'interno dell'Intendenza generale per i servizi di guerra. (043U0004)"
+urn: urn:nir:stato:regio.decreto:1943-01-25;4
+codice_redazionale: 043U0004
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1943 n. 4
-==================================
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Istituzione presso il Ministero dell'interno dell'Intendenza generale per i servizi di guerra. (043U0004)
----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/02/1943
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 6.
 
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 5
-------
+## Art. 7.
 
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 6
-------
-
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 7
-------
-
-((IL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

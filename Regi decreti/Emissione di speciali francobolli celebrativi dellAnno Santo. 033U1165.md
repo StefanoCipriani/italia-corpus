@@ -1,25 +1,21 @@
-REGIO DECRETO 21 luglio 1933 n. 1165
+---
+tipo: REGIO DECRETO
+numero: 1165
+data: 1933-07-21
+titolo: "Emissione di speciali francobolli celebrativi dell'Anno Santo. (033U1165)"
+urn: urn:nir:stato:regio.decreto:1933-07-21;1165
+codice_redazionale: 033U1165
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 luglio 1933 n. 1165
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Emissione di speciali francobolli celebrativi dell'Anno Santo. (033U1165)
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/10/1933
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

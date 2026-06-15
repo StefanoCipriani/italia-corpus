@@ -1,15 +1,13 @@
-REGIO DECRETO 05 dicembre 1938 n. 2121
+---
+tipo: REGIO DECRETO
+numero: 2121
+data: 1938-12-05
+titolo: "Erezione in ente morale della Fondazione «Giacomo Galluzzo» con sede in Montelepre (Palermo). (038U2121)"
+urn: urn:nir:stato:regio.decreto:1938-12-05;2121
+codice_redazionale: 038U2121
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1938 n. 2121
-======================================
-
-Erezione in ente morale della Fondazione «Giacomo Galluzzo» con sede in Montelepre (Palermo). (038U2121)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

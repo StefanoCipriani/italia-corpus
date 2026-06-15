@@ -1,15 +1,13 @@
-REGIO DECRETO 14 gennaio 1937 n. 282
+---
+tipo: REGIO DECRETO
+numero: 282
+data: 1937-01-14
+titolo: "Riduzione a Regio consolato del Regio consolato generale in Canton, istituzione di un Regio vice consolato in Kiukiang, e soppressione dell'assegno al titolare del Regio vice consolato in Koritza. (037U0282)"
+urn: urn:nir:stato:regio.decreto:1937-01-14;282
+codice_redazionale: 037U0282
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 gennaio 1937 n. 282
-====================================
-
-Riduzione a Regio consolato del Regio consolato generale in Canton, istituzione di un Regio vice consolato in Kiukiang, e soppressione dell'assegno al titolare del Regio vice consolato in Koritza. (037U0282)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

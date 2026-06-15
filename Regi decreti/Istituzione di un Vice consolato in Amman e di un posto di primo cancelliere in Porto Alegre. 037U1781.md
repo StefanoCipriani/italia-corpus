@@ -1,15 +1,13 @@
-REGIO DECRETO 07 ottobre 1937 n. 1781
+---
+tipo: REGIO DECRETO
+numero: 1781
+data: 1937-10-07
+titolo: "Istituzione di un Vice consolato in Amman e di un posto di primo cancelliere in Porto Alegre. (037U1781)"
+urn: urn:nir:stato:regio.decreto:1937-10-07;1781
+codice_redazionale: 037U1781
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 ottobre 1937 n. 1781
-=====================================
-
-Istituzione di un Vice consolato in Amman e di un posto di primo cancelliere in Porto Alegre. (037U1781)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 30 novembre 1942 n. 1586
+---
+tipo: REGIO DECRETO
+numero: 1586
+data: 1942-11-30
+titolo: "Modificazioni al R. decreto 11 dicembre 1941-XX, n. 1608, concernente l'aumento del numero dei posti di addetto stampa presso le Regie prefetture del Regno. (042U1586)"
+urn: urn:nir:stato:regio.decreto:1942-11-30;1586
+codice_redazionale: 042U1586
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 novembre 1942 n. 1586
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni al R. decreto 11 dicembre 1941-XX, n. 1608, concernente l'aumento del numero dei posti di addetto stampa presso le Regie prefetture del Regno. (042U1586)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/01/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

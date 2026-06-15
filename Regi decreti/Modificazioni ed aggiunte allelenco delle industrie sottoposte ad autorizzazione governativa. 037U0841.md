@@ -1,20 +1,17 @@
-REGIO DECRETO 12 aprile 1937 n. 841
+---
+tipo: REGIO DECRETO
+numero: 841
+data: 1937-04-12
+titolo: "Modificazioni ed aggiunte all'elenco delle industrie sottoposte ad autorizzazione governativa. (037U0841)"
+urn: urn:nir:stato:regio.decreto:1937-04-12;841
+codice_redazionale: 037U0841
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 aprile 1937 n. 841
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni ed aggiunte all'elenco delle industrie sottoposte ad autorizzazione governativa. (037U0841)
----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/07/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

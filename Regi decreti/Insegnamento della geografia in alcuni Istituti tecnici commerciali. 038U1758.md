@@ -1,20 +1,17 @@
-REGIO DECRETO 05 settembre 1938 n. 1758
+---
+tipo: REGIO DECRETO
+numero: 1758
+data: 1938-09-05
+titolo: "Insegnamento della geografia in alcuni Istituti tecnici commerciali. (038U1758)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1758
+codice_redazionale: 038U1758
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 settembre 1938 n. 1758
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Insegnamento della geografia in alcuni Istituti tecnici commerciali. (038U1758)
--------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/12/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 23 gennaio 1936 n. 136
+---
+tipo: REGIO DECRETO
+numero: 136
+data: 1936-01-23
+titolo: "Soppressione dell'Archivio notarile mandamentale di Marsiconuovo. (036U0136)"
+urn: urn:nir:stato:regio.decreto:1936-01-23;136
+codice_redazionale: 036U0136
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1936 n. 136
-====================================
-
-Soppressione dell'Archivio notarile mandamentale di Marsiconuovo. (036U0136)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

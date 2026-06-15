@@ -1,15 +1,13 @@
-REGIO DECRETO 09 ottobre 1930 n. 1948
+---
+tipo: REGIO DECRETO
+numero: 1948
+data: 1930-10-09
+titolo: "Classificazione in 1ª categoria delle opere occorrenti per la bonifica delle basse valli del fiume Sangro e dell'affluente Aventino, in provincia di Chieti. (030U1948)"
+urn: urn:nir:stato:regio.decreto:1930-10-09;1948
+codice_redazionale: 030U1948
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 ottobre 1930 n. 1948
-=====================================
-
-Classificazione in 1ª categoria delle opere occorrenti per la bonifica delle basse valli del fiume Sangro e dell'affluente Aventino, in provincia di Chieti. (030U1948)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

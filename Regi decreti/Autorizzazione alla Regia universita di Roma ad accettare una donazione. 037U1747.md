@@ -1,15 +1,13 @@
-REGIO DECRETO 09 settembre 1937 n. 1747
+---
+tipo: REGIO DECRETO
+numero: 1747
+data: 1937-09-09
+titolo: "Autorizzazione alla Regia universita' di Roma ad accettare una donazione. (037U1747)"
+urn: urn:nir:stato:regio.decreto:1937-09-09;1747
+codice_redazionale: 037U1747
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 settembre 1937 n. 1747
-=======================================
-
-Autorizzazione alla Regia universita' di Roma ad accettare una donazione. (037U1747)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

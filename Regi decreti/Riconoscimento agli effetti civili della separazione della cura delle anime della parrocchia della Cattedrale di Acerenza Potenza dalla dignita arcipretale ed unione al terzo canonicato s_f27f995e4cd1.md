@@ -1,21 +1,21 @@
-REGIO DECRETO 04 maggio 1942 n. 715
+---
+tipo: REGIO DECRETO
+numero: 715
+data: 1942-05-04
+titolo: "Riconoscimento, agli effetti civili, della separazione della cura delle anime della parrocchia della Cattedrale di Acerenza (Potenza) dalla dignita' arcipretale ed unione al terzo canonicato semplice. (042U0715)"
+urn: urn:nir:stato:regio.decreto:1942-05-04;715
+codice_redazionale: 042U0715
+vigente: true
+---
 
-
-REGIO DECRETO 04 maggio 1942 n. 715
-===================================
-
-Riconoscimento, agli effetti civili, della separazione della cura delle anime della parrocchia della Cattedrale di Acerenza (Potenza) dalla dignita' arcipretale ed unione al terzo canonicato semplice. (042U0715)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-715. R. decreto 4 maggio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il Motu Proprio di Sua Santita' il Sommo Pontefice Pio XII in data 25 giugno 1940-XVIII relativo alla separazione della cura delle anime della parrocchia della Cattedrale di Acerenza (Potenza) dalla dignita' arcipretale ed unione al terzo canonicato semplice presso lo stesso capitolo cattedrale.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registralo alla Corte dei conti, addi' 11 giugno 1942-XX
+715.
+
+R. decreto 4 maggio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il Motu Proprio di Sua Santita' il Sommo Pontefice Pio XII in data 25 giugno 1940-XVIII relativo alla separazione della cura delle anime della parrocchia della Cattedrale di Acerenza (Potenza) dalla dignita' arcipretale ed unione al terzo canonicato semplice presso lo stesso capitolo cattedrale. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registralo alla Corte dei conti, addi' 11 giugno 1942-XX

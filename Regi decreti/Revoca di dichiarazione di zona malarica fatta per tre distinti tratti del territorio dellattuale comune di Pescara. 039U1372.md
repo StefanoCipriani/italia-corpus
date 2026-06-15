@@ -1,15 +1,13 @@
-REGIO DECRETO 21 aprile 1939 n. 1372
+---
+tipo: REGIO DECRETO
+numero: 1372
+data: 1939-04-21
+titolo: "Revoca di dichiarazione di zona malarica fatta per tre distinti tratti del territorio dell'attuale comune di Pescara. (039U1372)"
+urn: urn:nir:stato:regio.decreto:1939-04-21;1372
+codice_redazionale: 039U1372
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1939 n. 1372
-====================================
-
-Revoca di dichiarazione di zona malarica fatta per tre distinti tratti del territorio dell'attuale comune di Pescara. (039U1372)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

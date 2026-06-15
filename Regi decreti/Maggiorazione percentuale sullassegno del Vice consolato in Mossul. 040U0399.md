@@ -1,15 +1,13 @@
-REGIO DECRETO 08 aprile 1940 n. 399
+---
+tipo: REGIO DECRETO
+numero: 399
+data: 1940-04-08
+titolo: "Maggiorazione percentuale sull'assegno del Vice consolato in Mossul. (040U0399)"
+urn: urn:nir:stato:regio.decreto:1940-04-08;399
+codice_redazionale: 040U0399
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 aprile 1940 n. 399
-===================================
-
-Maggiorazione percentuale sull'assegno del Vice consolato in Mossul. (040U0399)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/06/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

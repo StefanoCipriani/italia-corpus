@@ -1,15 +1,13 @@
-REGIO DECRETO 11 gennaio 1937 n. 212
+---
+tipo: REGIO DECRETO
+numero: 212
+data: 1937-01-11
+titolo: "Modificazione degli statuti dei Sindacati interprovinciali fascisti dei chimici, dei dottori in economia e commercio e delle belle arti, con sede in Reggio Calabria. (037U0212)"
+urn: urn:nir:stato:regio.decreto:1937-01-11;212
+codice_redazionale: 037U0212
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1937 n. 212
-====================================
-
-Modificazione degli statuti dei Sindacati interprovinciali fascisti dei chimici, dei dottori in economia e commercio e delle belle arti, con sede in Reggio Calabria. (037U0212)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

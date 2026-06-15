@@ -1,15 +1,13 @@
-REGIO DECRETO 08 settembre 1939 n. 1549
+---
+tipo: REGIO DECRETO
+numero: 1549
+data: 1939-09-08
+titolo: "Autorizzazione al Regio politecnico di Milano ad accettare una donazione. (039U1549)"
+urn: urn:nir:stato:regio.decreto:1939-09-08;1549
+codice_redazionale: 039U1549
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 settembre 1939 n. 1549
-=======================================
-
-Autorizzazione al Regio politecnico di Milano ad accettare una donazione. (039U1549)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 26 ottobre 1939 n. 1733
+---
+tipo: REGIO DECRETO
+numero: 1733
+data: 1939-10-26
+titolo: "Proroga di anni cinque del termine assegnato per l'attuazione dei piani particolareggiati relativi alle zone della Citta' vecchia di Trieste. (039U1733)"
+urn: urn:nir:stato:regio.decreto:1939-10-26;1733
+codice_redazionale: 039U1733
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 ottobre 1939 n. 1733
-=====================================
-
-Proroga di anni cinque del termine assegnato per l'attuazione dei piani particolareggiati relativi alle zone della Citta' vecchia di Trieste. (039U1733)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

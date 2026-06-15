@@ -1,16 +1,14 @@
-REGIO DECRETO 30 gennaio 1881 n. XXXI
-
-
-REGIO DECRETO 30 gennaio 1881 n. XXXI
-=====================================
-
-Che erige in corpo morale l'asilo infantile Giorgio Pallavicino Trivulzio, istituito in San Fiorano (Milano). (8100031R)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/03/1881
+---
+tipo: REGIO DECRETO
+numero: XXXI
+data: 1881-01-30
+titolo: "Che erige in corpo morale l'asilo infantile Giorgio Pallavicino Trivulzio, istituito in San Fiorano (Milano). (8100031R)"
+urn: urn:nir:stato:regio.decreto:1881-01-30;31
+codice_redazionale: 8100031R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,22 @@ Vista la deliberazione 5 novembre 1880 della deputazione provinciale di Milano;
 
 Vista la legge 3 agosto 1862 sulle opere pie;
 
-Udito
------
+Udito il parere del consiglio di Stato; Abbiamo decretato e decretiamo;
 
-il parere del consiglio di Stato; Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'asilo infantile, Giorgio Pallavicino Trivulzio istituito come sopra in S. Fiorano (Milano) e' eretto in corpo morale.   
-  
-Ordiniamo che il presente decreto, munito del dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 gennaio 1881.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 16 febbraio 1881   
-  
-Reg. 112 Atti del Governo a foglio 72. Ayres.   
-  
-Luogo del Sigillo. V. il Guardasigilli T. Villa.   
-  
-Depretis.   
+L'asilo infantile, Giorgio Pallavicino Trivulzio istituito come sopra in S. Fiorano (Milano) e' eretto in corpo morale. 
+ 
+ Ordiniamo che il presente decreto, munito del dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 gennaio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 16 febbraio 1881 
+ 
+ Reg. 112 Atti del Governo a foglio 72. Ayres. 
+ 
+ Luogo del Sigillo. V. il Guardasigilli T. Villa. 
+ 
+ Depretis.

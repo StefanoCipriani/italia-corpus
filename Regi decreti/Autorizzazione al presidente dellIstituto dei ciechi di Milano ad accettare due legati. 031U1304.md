@@ -1,15 +1,13 @@
-REGIO DECRETO 14 agosto 1931 n. 1304
+---
+tipo: REGIO DECRETO
+numero: 1304
+data: 1931-08-14
+titolo: "Autorizzazione al presidente dell'Istituto dei ciechi di Milano ad accettare due legati. (031U1304)"
+urn: urn:nir:stato:regio.decreto:1931-08-14;1304
+codice_redazionale: 031U1304
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 agosto 1931 n. 1304
-====================================
-
-Autorizzazione al presidente dell'Istituto dei ciechi di Milano ad accettare due legati. (031U1304)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

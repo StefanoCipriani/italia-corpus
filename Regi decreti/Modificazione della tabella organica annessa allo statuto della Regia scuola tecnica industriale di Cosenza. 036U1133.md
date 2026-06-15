@@ -1,20 +1,17 @@
-REGIO DECRETO 18 maggio 1936 n. 1133
+---
+tipo: REGIO DECRETO
+numero: 1133
+data: 1936-05-18
+titolo: "Modificazione della tabella organica annessa allo statuto della Regia scuola tecnica industriale di Cosenza. (036U1133)"
+urn: urn:nir:stato:regio.decreto:1936-05-18;1133
+codice_redazionale: 036U1133
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 maggio 1936 n. 1133
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazione della tabella organica annessa allo statuto della Regia scuola tecnica industriale di Cosenza. (036U1133)
------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/07/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

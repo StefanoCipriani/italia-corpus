@@ -1,15 +1,13 @@
-REGIO DECRETO 29 ottobre 1931 n. 1412
+---
+tipo: REGIO DECRETO
+numero: 1412
+data: 1931-10-29
+titolo: "Erezione in ente morale della Fondazione « Michele Conte», con sede in Roma. (031U1412)"
+urn: urn:nir:stato:regio.decreto:1931-10-29;1412
+codice_redazionale: 031U1412
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 ottobre 1931 n. 1412
-=====================================
-
-Erezione in ente morale della Fondazione « Michele Conte», con sede in Roma. (031U1412)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

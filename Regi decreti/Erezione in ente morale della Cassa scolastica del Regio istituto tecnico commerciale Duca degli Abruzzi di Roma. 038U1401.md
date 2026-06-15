@@ -1,15 +1,13 @@
-REGIO DECRETO 17 marzo 1938 n. 1401
+---
+tipo: REGIO DECRETO
+numero: 1401
+data: 1938-03-17
+titolo: "Erezione in ente morale della Cassa scolastica del Regio istituto tecnico commerciale «Duca degli Abruzzi» di Roma. (038U1401)"
+urn: urn:nir:stato:regio.decreto:1938-03-17;1401
+codice_redazionale: 038U1401
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1938 n. 1401
-===================================
-
-Erezione in ente morale della Cassa scolastica del Regio istituto tecnico commerciale «Duca degli Abruzzi» di Roma. (038U1401)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

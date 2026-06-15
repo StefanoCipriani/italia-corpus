@@ -1,15 +1,13 @@
-REGIO DECRETO 14 ottobre 1932 n. 1417
+---
+tipo: REGIO DECRETO
+numero: 1417
+data: 1932-10-14
+titolo: "Istituzione di un ufficio di conciliazione in Segarin, frazione del comune di Furtei. (032U1417)"
+urn: urn:nir:stato:regio.decreto:1932-10-14;1417
+codice_redazionale: 032U1417
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 ottobre 1932 n. 1417
-=====================================
-
-Istituzione di un ufficio di conciliazione in Segarin, frazione del comune di Furtei. (032U1417)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

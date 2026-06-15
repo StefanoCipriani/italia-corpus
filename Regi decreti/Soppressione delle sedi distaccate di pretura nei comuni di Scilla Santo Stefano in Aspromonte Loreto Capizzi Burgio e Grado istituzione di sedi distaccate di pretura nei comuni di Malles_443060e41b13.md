@@ -1,25 +1,21 @@
-REGIO DECRETO 28 aprile 1932 n. 564
+---
+tipo: REGIO DECRETO
+numero: 564
+data: 1932-04-28
+titolo: "Soppressione delle sedi distaccate di pretura nei comuni di Scilla, Santo Stefano in Aspromonte, Loreto, Capizzi, Burgio e Grado; istituzione di sedi distaccate di pretura nei comuni di Malles, Ultimo, San Martino in Badia, Ortisei, Stenico, Con. divo e Montecarotto, e aggregazione del comune di Milocca alla sede distaccata di pretura in Serradifalco. (032U0564)"
+urn: urn:nir:stato:regio.decreto:1932-04-28;564
+codice_redazionale: 032U0564
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 aprile 1932 n. 564
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Soppressione delle sedi distaccate di pretura nei comuni di Scilla, Santo Stefano in Aspromonte, Loreto, Capizzi, Burgio e Grado; istituzione di sedi distaccate di pretura nei comuni di Malles, Ultimo, San Martino in Badia, Ortisei, Stenico, Con. divo e Montecarotto, e aggregazione del comune di Milocca alla sede distaccata di pretura in Serradifalco. (032U0564)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/06/1932
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

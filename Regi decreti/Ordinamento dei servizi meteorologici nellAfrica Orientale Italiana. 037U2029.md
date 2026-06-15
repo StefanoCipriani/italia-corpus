@@ -1,25 +1,21 @@
-REGIO DECRETO 30 settembre 1937 n. 2029
+---
+tipo: REGIO DECRETO
+numero: 2029
+data: 1937-09-30
+titolo: "Ordinamento dei servizi meteorologici nell'Africa Orientale Italiana. (037U2029)"
+urn: urn:nir:stato:regio.decreto:1937-09-30;2029
+codice_redazionale: 037U2029
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 settembre 1937 n. 2029
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Ordinamento dei servizi meteorologici nell'Africa Orientale Italiana. (037U2029)
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/12/1937
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

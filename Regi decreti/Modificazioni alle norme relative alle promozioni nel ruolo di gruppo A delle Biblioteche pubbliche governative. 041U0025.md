@@ -1,25 +1,21 @@
-REGIO DECRETO 09 gennaio 1941 n. 25
+---
+tipo: REGIO DECRETO
+numero: 25
+data: 1941-01-09
+titolo: "Modificazioni alle norme relative alle promozioni nel ruolo di gruppo A delle Biblioteche pubbliche governative. (041U0025)"
+urn: urn:nir:stato:regio.decreto:1941-01-09;25
+codice_redazionale: 041U0025
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 gennaio 1941 n. 25
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni alle norme relative alle promozioni nel ruolo di gruppo A delle Biblioteche pubbliche governative. (041U0025)
----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/02/1941
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

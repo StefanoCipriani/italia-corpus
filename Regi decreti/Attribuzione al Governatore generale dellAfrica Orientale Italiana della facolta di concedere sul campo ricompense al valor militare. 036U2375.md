@@ -1,20 +1,17 @@
-REGIO DECRETO 19 novembre 1936 n. 2375
+---
+tipo: REGIO DECRETO
+numero: 2375
+data: 1936-11-19
+titolo: "Attribuzione al Governatore generale dell'Africa Orientale Italiana della facolta' di concedere sul campo ricompense al valor militare. (036U2375)"
+urn: urn:nir:stato:regio.decreto:1936-11-19;2375
+codice_redazionale: 036U2375
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 novembre 1936 n. 2375
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Attribuzione al Governatore generale dell'Africa Orientale Italiana della facolta' di concedere sul campo ricompense al valor militare. (036U2375)
---------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/02/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,15 +1,13 @@
-REGIO DECRETO 10 giugno 1937 n. 1131
+---
+tipo: REGIO DECRETO
+numero: 1131
+data: 1937-06-10
+titolo: "Aggiunta dell'abitato di Cellere in provincia di Viterbo a quelli da consolidare a totale carico dello Stato. (037U1131)"
+urn: urn:nir:stato:regio.decreto:1937-06-10;1131
+codice_redazionale: 037U1131
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1937 n. 1131
-====================================
-
-Aggiunta dell'abitato di Cellere in provincia di Viterbo a quelli da consolidare a totale carico dello Stato. (037U1131)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

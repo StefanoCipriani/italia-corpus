@@ -1,15 +1,13 @@
-REGIO DECRETO 13 aprile 1939 n. 750
+---
+tipo: REGIO DECRETO
+numero: 750
+data: 1939-04-13
+titolo: "Nomina di un membro della Rappresentanza italiana nella Delegazione internazionale per gli affari relativi alla Ferrovia del Sempione. (039U0750)"
+urn: urn:nir:stato:regio.decreto:1939-04-13;750
+codice_redazionale: 039U0750
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 aprile 1939 n. 750
-===================================
-
-Nomina di un membro della Rappresentanza italiana nella Delegazione internazionale per gli affari relativi alla Ferrovia del Sempione. (039U0750)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/06/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

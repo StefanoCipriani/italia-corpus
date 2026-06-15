@@ -1,15 +1,13 @@
-REGIO DECRETO 11 dicembre 1933 n. 1836
+---
+tipo: REGIO DECRETO
+numero: 1836
+data: 1933-12-11
+titolo: "Autorizzazione ad accettare la donazione della collezione di curiosita' ed opere d'arte fatta allo Stato dalla signora Enrichetta Tower vedova Wurts. (033U1836)"
+urn: urn:nir:stato:regio.decreto:1933-12-11;1836
+codice_redazionale: 033U1836
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1933 n. 1836
-======================================
-
-Autorizzazione ad accettare la donazione della collezione di curiosita' ed opere d'arte fatta allo Stato dalla signora Enrichetta Tower vedova Wurts. (033U1836)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

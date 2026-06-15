@@ -1,20 +1,17 @@
-REGIO DECRETO 22 dicembre 1932 n. 1820
+---
+tipo: REGIO DECRETO
+numero: 1820
+data: 1932-12-22
+titolo: "Numero delle onorificenze degli Ordini Mauriziano e della Corona d'Italia che potranno conferirsi nell'anno 1933. (032U1820)"
+urn: urn:nir:stato:regio.decreto:1932-12-22;1820
+codice_redazionale: 032U1820
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 dicembre 1932 n. 1820
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Numero delle onorificenze degli Ordini Mauriziano e della Corona d'Italia che potranno conferirsi nell'anno 1933. (032U1820)
-----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/02/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

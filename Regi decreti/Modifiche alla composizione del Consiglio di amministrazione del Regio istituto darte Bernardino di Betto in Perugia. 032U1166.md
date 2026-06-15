@@ -1,15 +1,13 @@
-REGIO DECRETO 13 agosto 1932 n. 1166
+---
+tipo: REGIO DECRETO
+numero: 1166
+data: 1932-08-13
+titolo: "Modifiche alla composizione del Consiglio di amministrazione del Regio istituto d'arte «Bernardino di Betto» in Perugia. (032U1166)"
+urn: urn:nir:stato:regio.decreto:1932-08-13;1166
+codice_redazionale: 032U1166
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1932 n. 1166
-====================================
-
-Modifiche alla composizione del Consiglio di amministrazione del Regio istituto d'arte «Bernardino di Betto» in Perugia. (032U1166)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/10/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

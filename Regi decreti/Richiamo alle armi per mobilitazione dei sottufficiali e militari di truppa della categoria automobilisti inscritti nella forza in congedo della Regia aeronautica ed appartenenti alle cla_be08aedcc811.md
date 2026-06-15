@@ -1,20 +1,17 @@
-REGIO DECRETO 24 febbraio 1936 n. 467
+---
+tipo: REGIO DECRETO
+numero: 467
+data: 1936-02-24
+titolo: "Richiamo alle armi per mobilitazione dei sottufficiali e militari di truppa, della categoria automobilisti, inscritti nella forza in congedo della Regia aeronautica ed appartenenti alle classi 1911 e 1912. (036U0467)"
+urn: urn:nir:stato:regio.decreto:1936-02-24;467
+codice_redazionale: 036U0467
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 febbraio 1936 n. 467
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi per mobilitazione dei sottufficiali e militari di truppa, della categoria automobilisti, inscritti nella forza in congedo della Regia aeronautica ed appartenenti alle classi 1911 e 1912. (036U0467)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/04/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

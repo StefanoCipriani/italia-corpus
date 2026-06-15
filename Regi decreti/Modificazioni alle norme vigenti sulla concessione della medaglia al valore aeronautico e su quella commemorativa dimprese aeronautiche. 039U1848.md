@@ -1,30 +1,25 @@
-REGIO DECRETO 20 ottobre 1939 n. 1848
+---
+tipo: REGIO DECRETO
+numero: 1848
+data: 1939-10-20
+titolo: "Modificazioni alle norme vigenti sulla concessione della medaglia al valore aeronautico e su quella commemorativa d'imprese aeronautiche. (039U1848)"
+urn: urn:nir:stato:regio.decreto:1939-10-20;1848
+codice_redazionale: 039U1848
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1939 n. 1848
-=====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Modificazioni alle norme vigenti sulla concessione della medaglia al valore aeronautico e su quella commemorativa d'imprese aeronautiche. (039U1848)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 05/01/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

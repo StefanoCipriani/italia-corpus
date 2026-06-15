@@ -1,25 +1,21 @@
-REGIO DECRETO 07 dicembre 1942 n. 1590
+---
+tipo: REGIO DECRETO
+numero: 1590
+data: 1942-12-07
+titolo: "Estensione alla Regia guardia di finanza del regolamento sullo stato dei sottufficiali del Regio esercito ed abrogazione del R. decreto 4 dicembre 1930-IX, n. 1669. (042U1590)"
+urn: urn:nir:stato:regio.decreto:1942-12-07;1590
+codice_redazionale: 042U1590
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 dicembre 1942 n. 1590
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alla Regia guardia di finanza del regolamento sullo stato dei sottufficiali del Regio esercito ed abrogazione del R. decreto 4 dicembre 1930-IX, n. 1669. (042U1590)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/01/1943
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

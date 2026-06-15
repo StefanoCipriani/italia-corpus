@@ -1,20 +1,17 @@
-REGIO DECRETO 26 luglio 1935 n. 1618
+---
+tipo: REGIO DECRETO
+numero: 1618
+data: 1935-07-26
+titolo: "Estensione alle Colonie delle norme riflettenti le notizie militari delle quali e' vietata la divulgazione. (035U1618)"
+urn: urn:nir:stato:regio.decreto:1935-07-26;1618
+codice_redazionale: 035U1618
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 luglio 1935 n. 1618
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione alle Colonie delle norme riflettenti le notizie militari delle quali e' vietata la divulgazione. (035U1618)
-----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/09/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

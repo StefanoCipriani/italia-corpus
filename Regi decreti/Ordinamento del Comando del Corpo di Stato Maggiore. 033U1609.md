@@ -1,15 +1,13 @@
-REGIO DECRETO 20 novembre 1933 n. 1609
+---
+tipo: REGIO DECRETO
+numero: 1609
+data: 1933-11-20
+titolo: "Ordinamento del Comando del Corpo di Stato Maggiore. (033U1609)"
+urn: urn:nir:stato:regio.decreto:1933-11-20;1609
+codice_redazionale: 033U1609
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 novembre 1933 n. 1609
-======================================
-
-Ordinamento del Comando del Corpo di Stato Maggiore. (033U1609)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

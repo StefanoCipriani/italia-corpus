@@ -1,15 +1,13 @@
-REGIO DECRETO 29 luglio 1931 n. 1110
+---
+tipo: REGIO DECRETO
+numero: 1110
+data: 1931-07-29
+titolo: "Approvazione del nuovo statuto organico della Cassa di risparmio di Volterra. (031U1110)"
+urn: urn:nir:stato:regio.decreto:1931-07-29;1110
+codice_redazionale: 031U1110
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 luglio 1931 n. 1110
-====================================
-
-Approvazione del nuovo statuto organico della Cassa di risparmio di Volterra. (031U1110)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

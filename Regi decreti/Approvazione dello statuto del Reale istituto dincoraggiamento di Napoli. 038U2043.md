@@ -1,15 +1,13 @@
-REGIO DECRETO 01 dicembre 1938 n. 2043
+---
+tipo: REGIO DECRETO
+numero: 2043
+data: 1938-12-01
+titolo: "Approvazione dello statuto del Reale istituto d'incoraggiamento di Napoli. (038U2043)"
+urn: urn:nir:stato:regio.decreto:1938-12-01;2043
+codice_redazionale: 038U2043
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 dicembre 1938 n. 2043
-======================================
-
-Approvazione dello statuto del Reale istituto d'incoraggiamento di Napoli. (038U2043)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

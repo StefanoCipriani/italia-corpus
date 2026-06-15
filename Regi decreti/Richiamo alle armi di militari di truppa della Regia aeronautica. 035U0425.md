@@ -1,25 +1,21 @@
-REGIO DECRETO 21 marzo 1935 n. 425
+---
+tipo: REGIO DECRETO
+numero: 425
+data: 1935-03-21
+titolo: "Richiamo alle armi di militari di truppa della Regia aeronautica. (035U0425)"
+urn: urn:nir:stato:regio.decreto:1935-03-21;425
+codice_redazionale: 035U0425
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 marzo 1935 n. 425
-==================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Richiamo alle armi di militari di truppa della Regia aeronautica. (035U0425)
-----------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/02/1935
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

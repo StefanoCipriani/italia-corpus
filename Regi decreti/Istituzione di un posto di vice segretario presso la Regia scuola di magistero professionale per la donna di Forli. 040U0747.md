@@ -1,15 +1,13 @@
-REGIO DECRETO 06 maggio 1940 n. 747
+---
+tipo: REGIO DECRETO
+numero: 747
+data: 1940-05-06
+titolo: "Istituzione di un posto di vice segretario presso la Regia scuola di magistero professionale per la donna di Forli'. (040U0747)"
+urn: urn:nir:stato:regio.decreto:1940-05-06;747
+codice_redazionale: 040U0747
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 maggio 1940 n. 747
-===================================
-
-Istituzione di un posto di vice segretario presso la Regia scuola di magistero professionale per la donna di Forli'. (040U0747)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

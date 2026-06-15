@@ -1,20 +1,17 @@
-REGIO DECRETO 08 luglio 1937 n. 1523
+---
+tipo: REGIO DECRETO
+numero: 1523
+data: 1937-07-08
+titolo: "Modificazione alle norme relative all'assegnazione di personali di altre Amministrazioni presso il Ministero dell'Africa Italiana. (037U1523)"
+urn: urn:nir:stato:regio.decreto:1937-07-08;1523
+codice_redazionale: 037U1523
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1937 n. 1523
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazione alle norme relative all'assegnazione di personali di altre Amministrazioni presso il Ministero dell'Africa Italiana. (037U1523)
----------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/06/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,20 +1,17 @@
-REGIO DECRETO 08 maggio 1933 n. 576
+---
+tipo: REGIO DECRETO
+numero: 576
+data: 1933-05-08
+titolo: "Caratteristiche e termini di validita' delle cartoline postali pro Milizia volontaria sicurezza nazionale. (033U0576)"
+urn: urn:nir:stato:regio.decreto:1933-05-08;576
+codice_redazionale: 033U0576
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 maggio 1933 n. 576
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Caratteristiche e termini di validita' delle cartoline postali pro Milizia volontaria sicurezza nazionale. (033U0576)
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/06/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

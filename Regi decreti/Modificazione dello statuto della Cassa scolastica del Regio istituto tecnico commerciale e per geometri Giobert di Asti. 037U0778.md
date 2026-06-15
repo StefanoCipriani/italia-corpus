@@ -1,15 +1,13 @@
-REGIO DECRETO 08 aprile 1937 n. 778
+---
+tipo: REGIO DECRETO
+numero: 778
+data: 1937-04-08
+titolo: "Modificazione dello statuto della Cassa scolastica del Regio istituto tecnico commerciale e per geometri «Giobert» di Asti. (037U0778)"
+urn: urn:nir:stato:regio.decreto:1937-04-08;778
+codice_redazionale: 037U0778
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 aprile 1937 n. 778
-===================================
-
-Modificazione dello statuto della Cassa scolastica del Regio istituto tecnico commerciale e per geometri «Giobert» di Asti. (037U0778)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

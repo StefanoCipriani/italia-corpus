@@ -1,15 +1,13 @@
-REGIO DECRETO 06 novembre 1940 n. 1686
+---
+tipo: REGIO DECRETO
+numero: 1686
+data: 1940-11-06
+titolo: "Autorizzazione alla Regia universita' di Padova ad accettare una donazione. (040U1686)"
+urn: urn:nir:stato:regio.decreto:1940-11-06;1686
+codice_redazionale: 040U1686
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 novembre 1940 n. 1686
-======================================
-
-Autorizzazione alla Regia universita' di Padova ad accettare una donazione. (040U1686)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

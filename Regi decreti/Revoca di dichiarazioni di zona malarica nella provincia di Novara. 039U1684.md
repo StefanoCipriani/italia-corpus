@@ -1,15 +1,13 @@
-REGIO DECRETO 05 ottobre 1939 n. 1684
+---
+tipo: REGIO DECRETO
+numero: 1684
+data: 1939-10-05
+titolo: "Revoca di dichiarazioni di zona malarica nella provincia di Novara. (039U1684)"
+urn: urn:nir:stato:regio.decreto:1939-10-05;1684
+codice_redazionale: 039U1684
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 ottobre 1939 n. 1684
-=====================================
-
-Revoca di dichiarazioni di zona malarica nella provincia di Novara. (039U1684)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

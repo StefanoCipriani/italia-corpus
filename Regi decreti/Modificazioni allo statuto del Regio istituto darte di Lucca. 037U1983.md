@@ -1,25 +1,21 @@
-REGIO DECRETO 05 novembre 1937 n. 1983
+---
+tipo: REGIO DECRETO
+numero: 1983
+data: 1937-11-05
+titolo: "Modificazioni allo statuto del Regio istituto d'arte di Lucca. (037U1983)"
+urn: urn:nir:stato:regio.decreto:1937-11-05;1983
+codice_redazionale: 037U1983
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 novembre 1937 n. 1983
-======================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Modificazioni allo statuto del Regio istituto d'arte di Lucca. (037U1983)
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/12/1937
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

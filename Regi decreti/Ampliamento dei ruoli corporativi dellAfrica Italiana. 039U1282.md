@@ -1,37 +1,21 @@
-REGIO DECRETO 28 luglio 1939 n. 1282
+---
+tipo: REGIO DECRETO
+numero: 1282
+data: 1939-07-28
+titolo: "Ampliamento dei ruoli corporativi dell'Africa Italiana. (039U1282)"
+urn: urn:nir:stato:regio.decreto:1939-07-28;1282
+codice_redazionale: 039U1282
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 luglio 1939 n. 1282
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Ampliamento dei ruoli corporativi dell'Africa Italiana. (039U1282)
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/09/1939
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabelle-Tabella A
-
- Tabelle-Tabella A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Tabelle-Tabella B
-
- Tabelle-Tabella B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

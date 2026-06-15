@@ -1,15 +1,13 @@
-REGIO DECRETO 16 febbraio 1933 n. 128
+---
+tipo: REGIO DECRETO
+numero: 128
+data: 1933-02-16
+titolo: "Autorizzazione al comune di Cosenza ad applicare le imposte di consumo con la tariffa della classe D. (033U0128)"
+urn: urn:nir:stato:regio.decreto:1933-02-16;128
+codice_redazionale: 033U0128
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 febbraio 1933 n. 128
-=====================================
-
-Autorizzazione al comune di Cosenza ad applicare le imposte di consumo con la tariffa della classe D. (033U0128)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

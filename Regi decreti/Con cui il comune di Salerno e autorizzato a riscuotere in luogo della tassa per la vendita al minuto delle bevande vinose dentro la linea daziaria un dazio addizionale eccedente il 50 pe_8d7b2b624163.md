@@ -1,22 +1,19 @@
-REGIO DECRETO 02 gennaio 1896 n. VII
+---
+tipo: REGIO DECRETO
+numero: VII
+data: 1896-01-02
+titolo: "Con cui il comune di Salerno e' autorizzato a riscuotere, in luogo della tassa per la vendita al minuto delle bevande vinose dentro la linea daziaria, un dazio addizionale, eccedente il 50 per cento di quello governativo, per l'introduzione in essa linea di dette bevande, dell'uva e del mosto. (9600007R)"
+urn: urn:nir:stato:regio.decreto:1896-01-02;7
+codice_redazionale: 9600007R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 gennaio 1896 n. VII
-====================================
-
-Con cui il comune di Salerno e' autorizzato a riscuotere, in luogo della tassa per la vendita al minuto delle bevande vinose dentro la linea daziaria, un dazio addizionale, eccedente il 50 per cento di quello governativo, per l'introduzione in essa linea di dette bevande, dell'uva e del mosto. (9600007R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1896
-
-Art. 1
-------
-
-  
-Con cui il comune di Salerno e' autorizzato a riscuotere, in luogo della tassa per la vendita al minuto delle bevande vinose dentro la linea daziaria, un dazio addizionale, eccedente il 50 per % di quello governativo, per l'introduzione in essa linea di dette bevande, dell'uva e del mosto conforme alla seguente tariffa:   
-  
-Vino ed aceto in fusti ettol. L. 3. - Vinello, mezzo vino, posca ed agresto ettol. L. 1.75. - Mosto ettol. L. 2.80. - Uva in quantita' maggiore di 5 chilogrammi quintale L. 1.75. - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 17 gennaio 1896.   
-  
-Reg. 204. Atti del Governo a f. 42.   
+Con cui il comune di Salerno e' autorizzato a riscuotere, in luogo della tassa per la vendita al minuto delle bevande vinose dentro la linea daziaria, un dazio addizionale, eccedente il 50 per % di quello governativo, per l'introduzione in essa linea di dette bevande, dell'uva e del mosto conforme alla seguente tariffa: 
+ 
+ Vino ed aceto in fusti ettol. L. 3. - Vinello, mezzo vino, posca ed agresto ettol. L. 1.75. - Mosto ettol. L. 2.80. - Uva in quantita' maggiore di 5 chilogrammi quintale L. 1.75. - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 17 gennaio 1896. 
+ 
+ Reg. 204. Atti del Governo a f. 42.

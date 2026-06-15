@@ -1,15 +1,13 @@
-REGIO DECRETO 30 gennaio 1941 n. 212
+---
+tipo: REGIO DECRETO
+numero: 212
+data: 1941-01-30
+titolo: "Erezione in ente morale della Fondazione intitolata «Ricovero di mendicita' S. Teresa del Bambino Gesu'», in Campobello di Licata (Agrigento). (041U0212)"
+urn: urn:nir:stato:regio.decreto:1941-01-30;212
+codice_redazionale: 041U0212
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 gennaio 1941 n. 212
-====================================
-
-Erezione in ente morale della Fondazione intitolata «Ricovero di mendicita' S. Teresa del Bambino Gesu'», in Campobello di Licata (Agrigento). (041U0212)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

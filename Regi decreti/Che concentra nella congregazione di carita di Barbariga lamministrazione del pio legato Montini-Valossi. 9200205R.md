@@ -1,16 +1,14 @@
-REGIO DECRETO 07 aprile 1892 n. CCV
-
-
-REGIO DECRETO 07 aprile 1892 n. CCV
-===================================
-
-Che concentra nella congregazione di carita' di Barbariga l'amministrazione del pio legato Montini-Valossi. (9200205R)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1892
+---
+tipo: REGIO DECRETO
+numero: CCV
+data: 1892-04-07
+titolo: "Che concentra nella congregazione di carita' di Barbariga l'amministrazione del pio legato Montini-Valossi. (9200205R)"
+urn: urn:nir:stato:regio.decreto:1892-04-07;205
+codice_redazionale: 9200205R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,32 +20,26 @@ Veduta le deliberazione della giunta provinciale amministrativa 19 dicembre 1891
 
 Vedute la deliberazioni in proposito adottate dalla congregazione di carita' addi' 18 agosto 1891 e del consiglio comunale addi' 5 ottobre stesso anno;
 
-Veduta la [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e il relativo regolamento;
+Veduta la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e il relativo regolamento;
 
 Udito il parere del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'amministrazione del pio legato Montini-Valossi e' concentrata nella congregazione di carita' del comune di Barbariga, con obbligo alla stessa di provvedere in breve termine alla esecuzione del disposto dell'articolo 55 della precitata legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 aprile 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 19 aprile 1892.   
-  
-Reg. 185. Atti del Governo a f. 7. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Nicotera.   
+L'amministrazione del pio legato Montini-Valossi e' concentrata nella congregazione di carita' del comune di Barbariga, con obbligo alla stessa di provvedere in breve termine alla esecuzione del disposto dell'articolo 55 della precitata legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 19 aprile 1892. 
+ 
+ Reg. 185. Atti del Governo a f. 7. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Nicotera.

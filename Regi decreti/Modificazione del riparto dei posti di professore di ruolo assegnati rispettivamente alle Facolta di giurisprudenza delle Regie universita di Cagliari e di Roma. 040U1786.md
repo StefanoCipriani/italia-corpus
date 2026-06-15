@@ -1,15 +1,13 @@
-REGIO DECRETO 12 dicembre 1940 n. 1786
+---
+tipo: REGIO DECRETO
+numero: 1786
+data: 1940-12-12
+titolo: "Modificazione del riparto dei posti di professore di ruolo assegnati rispettivamente alle Facolta' di giurisprudenza delle Regie universita' di Cagliari e di Roma. (040U1786)"
+urn: urn:nir:stato:regio.decreto:1940-12-12;1786
+codice_redazionale: 040U1786
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 dicembre 1940 n. 1786
-======================================
-
-Modificazione del riparto dei posti di professore di ruolo assegnati rispettivamente alle Facolta' di giurisprudenza delle Regie universita' di Cagliari e di Roma. (040U1786)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

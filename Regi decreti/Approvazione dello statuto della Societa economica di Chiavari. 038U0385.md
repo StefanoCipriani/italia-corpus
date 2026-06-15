@@ -1,15 +1,13 @@
-REGIO DECRETO 07 marzo 1938 n. 385
+---
+tipo: REGIO DECRETO
+numero: 385
+data: 1938-03-07
+titolo: "Approvazione dello statuto della «Societa' economica di Chiavari». (038U0385)"
+urn: urn:nir:stato:regio.decreto:1938-03-07;385
+codice_redazionale: 038U0385
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 marzo 1938 n. 385
-==================================
-
-Approvazione dello statuto della «Societa' economica di Chiavari». (038U0385)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

@@ -1,21 +1,21 @@
-REGIO DECRETO 02 settembre 1937 n. 1860
+---
+tipo: REGIO DECRETO
+numero: 1860
+data: 1937-09-02
+titolo: "Dichiarazione formale dei fini della Confraternita di San Giuseppe, in Pignataro Maggiore (Napoli). (037U1860)"
+urn: urn:nir:stato:regio.decreto:1937-09-02;1860
+codice_redazionale: 037U1860
+vigente: true
+---
 
-
-REGIO DECRETO 02 settembre 1937 n. 1860
-=======================================
-
-Dichiarazione formale dei fini della Confraternita di San Giuseppe, in Pignataro Maggiore (Napoli). (037U1860)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1860. R. decreto 2 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'Interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita di S. Giuseppe, in Pignataro Maggiore (Napoli).   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 27 ottobre 1937 - Anno XV.
+1860.
+
+R. decreto 2 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'Interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita di S. Giuseppe, in Pignataro Maggiore (Napoli). 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 27 ottobre 1937 - Anno XV.

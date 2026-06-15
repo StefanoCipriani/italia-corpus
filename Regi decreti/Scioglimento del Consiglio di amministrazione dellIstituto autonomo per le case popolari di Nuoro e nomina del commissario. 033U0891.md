@@ -1,20 +1,17 @@
-REGIO DECRETO 06 luglio 1933 n. 891
+---
+tipo: REGIO DECRETO
+numero: 891
+data: 1933-07-06
+titolo: "Scioglimento del Consiglio di amministrazione dell'Istituto autonomo per le case popolari di Nuoro e nomina del commissario. (033U0891)"
+urn: urn:nir:stato:regio.decreto:1933-07-06;891
+codice_redazionale: 033U0891
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 luglio 1933 n. 891
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Scioglimento del Consiglio di amministrazione dell'Istituto autonomo per le case popolari di Nuoro e nomina del commissario. (033U0891)
----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 11/08/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

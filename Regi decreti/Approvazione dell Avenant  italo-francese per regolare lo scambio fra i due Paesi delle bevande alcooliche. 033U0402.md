@@ -1,26 +1,17 @@
-REGIO DECRETO 09 maggio 1933 n. 402
+---
+tipo: REGIO DECRETO
+numero: 402
+data: 1933-05-09
+titolo: "Approvazione dell'« Avenant » italo-francese per regolare lo scambio fra i due Paesi delle bevande alcooliche. (033U0402)"
+urn: urn:nir:stato:regio.decreto:1933-05-09;402
+codice_redazionale: 033U0402
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 maggio 1933 n. 402
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Approvazione dell'« Avenant » italo-francese per regolare lo scambio fra i due Paesi delle bevande alcooliche. (033U0402)
--------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/05/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Avenant
-
- Avenant   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

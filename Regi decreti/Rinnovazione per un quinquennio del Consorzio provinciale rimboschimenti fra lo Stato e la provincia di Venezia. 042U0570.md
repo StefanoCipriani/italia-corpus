@@ -1,20 +1,17 @@
-REGIO DECRETO 20 aprile 1942 n. 570
+---
+tipo: REGIO DECRETO
+numero: 570
+data: 1942-04-20
+titolo: "Rinnovazione per un quinquennio del Consorzio provinciale rimboschimenti fra lo Stato e la provincia di Venezia. (042U0570)"
+urn: urn:nir:stato:regio.decreto:1942-04-20;570
+codice_redazionale: 042U0570
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 aprile 1942 n. 570
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Rinnovazione per un quinquennio del Consorzio provinciale rimboschimenti fra lo Stato e la provincia di Venezia. (042U0570)
----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/06/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

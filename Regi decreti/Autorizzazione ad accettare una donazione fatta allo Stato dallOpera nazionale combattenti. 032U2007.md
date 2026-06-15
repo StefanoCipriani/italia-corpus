@@ -1,15 +1,13 @@
-REGIO DECRETO 22 dicembre 1932 n. 2007
+---
+tipo: REGIO DECRETO
+numero: 2007
+data: 1932-12-22
+titolo: "Autorizzazione ad accettare una donazione fatta allo Stato dall'Opera nazionale combattenti. (032U2007)"
+urn: urn:nir:stato:regio.decreto:1932-12-22;2007
+codice_redazionale: 032U2007
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 dicembre 1932 n. 2007
-======================================
-
-Autorizzazione ad accettare una donazione fatta allo Stato dall'Opera nazionale combattenti. (032U2007)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1933
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

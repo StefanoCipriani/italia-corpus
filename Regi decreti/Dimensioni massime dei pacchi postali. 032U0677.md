@@ -1,20 +1,17 @@
-REGIO DECRETO 23 maggio 1932 n. 677
+---
+tipo: REGIO DECRETO
+numero: 677
+data: 1932-05-23
+titolo: "Dimensioni massime dei pacchi postali. (032U0677)"
+urn: urn:nir:stato:regio.decreto:1932-05-23;677
+codice_redazionale: 032U0677
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 maggio 1932 n. 677
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Dimensioni massime dei pacchi postali. (032U0677)
--------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/07/1932
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

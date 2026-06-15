@@ -1,21 +1,21 @@
-REGIO DECRETO 11 maggio 1933 n. 735
+---
+tipo: REGIO DECRETO
+numero: 735
+data: 1933-05-11
+titolo: "Raggruppamento delle Opere pie «Scuola di carita' delle ragazze povere di S. Agata» e «Legato Farinati». (033U0735)"
+urn: urn:nir:stato:regio.decreto:1933-05-11;735
+codice_redazionale: 033U0735
+vigente: true
+---
 
-
-REGIO DECRETO 11 maggio 1933 n. 735
-===================================
-
-Raggruppamento delle Opere pie «Scuola di carita' delle ragazze povere di S. Agata» e «Legato Farinati». (033U0735)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-735. R. decreto 11 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, le Opere pie «Scuola di carita' delle ragazze povere di S. Agata» e «Legato Farinati» sono raggruppate sotto unica amministrazione, e ne e' approvato, con alcune modifiche, il regolamento organico.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 20 giugno 1933 - Anno XI
+735.
+
+R. decreto 11 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, le Opere pie «Scuola di carita' delle ragazze povere di S. Agata» e «Legato Farinati» sono raggruppate sotto unica amministrazione, e ne e' approvato, con alcune modifiche, il regolamento organico. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 20 giugno 1933 - Anno XI

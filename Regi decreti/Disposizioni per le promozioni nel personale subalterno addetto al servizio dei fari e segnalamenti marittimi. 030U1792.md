@@ -1,15 +1,13 @@
-REGIO DECRETO 05 dicembre 1930 n. 1792
+---
+tipo: REGIO DECRETO
+numero: 1792
+data: 1930-12-05
+titolo: "Disposizioni per le promozioni nel personale subalterno addetto al servizio dei fari e segnalamenti marittimi. (030U1792)"
+urn: urn:nir:stato:regio.decreto:1930-12-05;1792
+codice_redazionale: 030U1792
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1930 n. 1792
-======================================
-
-Disposizioni per le promozioni nel personale subalterno addetto al servizio dei fari e segnalamenti marittimi. (030U1792)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1931
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

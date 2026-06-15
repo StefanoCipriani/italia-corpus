@@ -1,151 +1,141 @@
-REGIO DECRETO 25 agosto 1940 n. 1411
+---
+tipo: REGIO DECRETO
+numero: 1411
+data: 1940-08-25
+titolo: "Testo delle disposizioni legislative in materia di brevetti per modelli industriali. (040U1411)"
+urn: urn:nir:stato:regio.decreto:1940-08-25;1411
+codice_redazionale: 040U1411
+vigente: true
+---
 
+## Disposizione generale.
 
-REGIO DECRETO 25 agosto 1940 n. 1411
-====================================
+TITOLO I.
 
-Testo delle disposizioni legislative in materia di brevetti per modelli industriali. (040U1411)
------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 05/11/1940
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-CAPO I TITOLO I. Disposizione generale.
----------------------------------------
+## Brevetto per modelli di utilita'.
 
-### Art. 1
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 2.
 
-CAPO II TITOLO II Brevetto per modelli di utilita'.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 4
+## Brevetto per modelli e disegni ornamentali.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+TITOLO III.
 
-CAPO III TITOLO III. Brevetto per modelli e disegni ornamentali.
-----------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 5-bis.
 
-### Art. 5-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 5-ter.
 
-### Art. 5-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 5-quater.
 
-### Art. 5-quater
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 5-quinquies.
 
-### Art. 5-quinquies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 7-bis.
 
-### Art. 7-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8-bis.
 
-### Art. 8-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8-ter.
 
-### Art. 8-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8-quater.
 
-### Art. 8-quater
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8-quinquies.
 
-### Art. 8-quinquies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8-sexies.
 
-### Art. 8-sexies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 8-septies.
 
-### Art. 8-septies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Disposizioni comuni al brevetto per modelli di utilita' e al brevetto per modelli e disegni ornamentali.
 
-CAPO IV TITOLO IV. Disposizioni comuni al brevetto per modelli di utilita' e al brevetto per modelli e disegni ornamentali.
----------------------------------------------------------------------------------------------------------------------------
+TITOLO IV.
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-CAPO V TITOLO V. Disposizioni transitorie.
-------------------------------------------
+## Disposizioni transitorie.
 
-### Art. 14
+TITOLO V.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 14.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+### Art. 17.
 
-Tabella A
-
-Tabella A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
-
-Tabella B
-
-Tabella B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2005, N. 30))

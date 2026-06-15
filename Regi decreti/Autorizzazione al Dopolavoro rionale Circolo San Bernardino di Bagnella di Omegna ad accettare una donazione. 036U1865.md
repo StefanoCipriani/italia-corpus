@@ -1,15 +1,13 @@
-REGIO DECRETO 26 giugno 1936 n. 1865
+---
+tipo: REGIO DECRETO
+numero: 1865
+data: 1936-06-26
+titolo: "Autorizzazione al Dopolavoro rionale «Circolo San Bernardino» di Bagnella di Omegna ad accettare una donazione. (036U1865)"
+urn: urn:nir:stato:regio.decreto:1936-06-26;1865
+codice_redazionale: 036U1865
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 giugno 1936 n. 1865
-====================================
-
-Autorizzazione al Dopolavoro rionale «Circolo San Bernardino» di Bagnella di Omegna ad accettare una donazione. (036U1865)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

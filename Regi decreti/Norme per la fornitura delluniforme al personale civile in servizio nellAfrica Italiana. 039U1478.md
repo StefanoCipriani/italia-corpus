@@ -1,25 +1,21 @@
-REGIO DECRETO 04 agosto 1939 n. 1478
+---
+tipo: REGIO DECRETO
+numero: 1478
+data: 1939-08-04
+titolo: "Norme per la fornitura dell'uniforme al personale civile in servizio nell'Africa Italiana. (039U1478)"
+urn: urn:nir:stato:regio.decreto:1939-08-04;1478
+codice_redazionale: 039U1478
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 agosto 1939 n. 1478
-====================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Norme per la fornitura dell'uniforme al personale civile in servizio nell'Africa Italiana. (039U1478)
------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/10/1939
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

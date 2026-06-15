@@ -1,20 +1,17 @@
-REGIO DECRETO 19 aprile 1941 n. 279
+---
+tipo: REGIO DECRETO
+numero: 279
+data: 1941-04-19
+titolo: "Proroga della concessione ad esercitare il credito fondiario a favore dell'Istituto italiano di credito fondiario. (041U0279)"
+urn: urn:nir:stato:regio.decreto:1941-04-19;279
+codice_redazionale: 041U0279
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 aprile 1941 n. 279
-===================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Proroga della concessione ad esercitare il credito fondiario a favore dell'Istituto italiano di credito fondiario. (041U0279)
------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/05/1941
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

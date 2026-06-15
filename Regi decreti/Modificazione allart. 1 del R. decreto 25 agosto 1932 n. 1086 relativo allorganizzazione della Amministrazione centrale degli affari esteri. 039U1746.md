@@ -1,16 +1,14 @@
-REGIO DECRETO 05 ottobre 1939 n. 1746
+---
+tipo: REGIO DECRETO
+numero: 1746
+data: 1939-10-05
+titolo: "Modificazione all'art. 1 del R. decreto 25 agosto 1932, n. 1086, relativo all'organizzazione della Amministrazione centrale degli affari esteri. (039U1746)"
+urn: urn:nir:stato:regio.decreto:1939-10-05;1746
+codice_redazionale: 039U1746
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 ottobre 1939 n. 1746
-=====================================
-
-Modificazione all'art. 1 del R. decreto 25 agosto 1932, n. 1086, relativo all'organizzazione della Amministrazione centrale degli affari esteri. (039U1746)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

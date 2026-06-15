@@ -1,15 +1,13 @@
-REGIO DECRETO 07 dicembre 1933 n. 2087
+---
+tipo: REGIO DECRETO
+numero: 2087
+data: 1933-12-07
+titolo: "Inclusione degli abitati di Pergola (capoluogo) e della frazione Monterolo tra quelli da consolidare a cura e spese dello Stato. (033U2087)"
+urn: urn:nir:stato:regio.decreto:1933-12-07;2087
+codice_redazionale: 033U2087
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 dicembre 1933 n. 2087
-======================================
-
-Inclusione degli abitati di Pergola (capoluogo) e della frazione Monterolo tra quelli da consolidare a cura e spese dello Stato. (033U2087)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

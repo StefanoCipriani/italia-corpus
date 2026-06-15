@@ -1,15 +1,13 @@
-REGIO DECRETO 05 febbraio 1934 n. 344
+---
+tipo: REGIO DECRETO
+numero: 344
+data: 1934-02-05
+titolo: "Modifica dei contributi spettanti ai Regi istituti di medicina veterinaria di Bologna e di Sassari. (034U0344)"
+urn: urn:nir:stato:regio.decreto:1934-02-05;344
+codice_redazionale: 034U0344
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 febbraio 1934 n. 344
-=====================================
-
-Modifica dei contributi spettanti ai Regi istituti di medicina veterinaria di Bologna e di Sassari. (034U0344)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

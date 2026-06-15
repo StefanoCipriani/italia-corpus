@@ -1,21 +1,21 @@
-REGIO DECRETO 07 giugno 1934 n. 1048
+---
+tipo: REGIO DECRETO
+numero: 1048
+data: 1934-06-07
+titolo: "Riconoscimento della personalita' giuridica della Provincia italiana dell'Istituto delle Suore Rave di S. Elisabetta, con sede in Roma. (034U1048)"
+urn: urn:nir:stato:regio.decreto:1934-06-07;1048
+codice_redazionale: 034U1048
+vigente: true
+---
 
-
-REGIO DECRETO 07 giugno 1934 n. 1048
-====================================
-
-Riconoscimento della personalita' giuridica della Provincia italiana dell'Istituto delle Suore Rave di S. Elisabetta, con sede in Roma. (034U1048)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1048. R. decreto 7 giugno 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana dell'Istituto delle Suore Rave di S. Elisabetta, con sede in Roma, via dell'Olmata, 9.   
-  
-Visto il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 3 luglio 1934 - Anno XII
+1048.
+
+R. decreto 7 giugno 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana dell'Istituto delle Suore Rave di S. Elisabetta, con sede in Roma, via dell'Olmata, 9. 
+ 
+ Visto il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 3 luglio 1934 - Anno XII
