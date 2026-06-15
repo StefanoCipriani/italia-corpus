@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
 
-Visto l'[articolo 4, comma 57 della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com57), che istituisce presso gli uffici dell'Agenzia delle dogane lo sportello unico doganale, per semplificare le operazioni di importazione ed esportazione e per concentrare i termini delle attivita' istruttorie, anche di competenza di amministrazioni diverse, connesse alle predette operazioni;
+Visto l'[articolo 4, comma 57 della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), che istituisce presso gli uffici dell'Agenzia delle dogane lo sportello unico doganale, per semplificare le operazioni di importazione ed esportazione e per concentrare i termini delle attivita' istruttorie, anche di competenza di amministrazioni diverse, connesse alle predette operazioni;
 
 Visto l'articolo 4, comma 58, della medesima [legge n. 350 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003;350), che prevede: «Ferme tutte le competenze di legge, lo sportello unico doganale concentra tutte le istanze inviate anche in via telematica dagli operatori interessati e inoltra i dati, cosi' raccolti, alle amministrazioni interessate per un coordinato svolgimento dei rispettivi procedimenti ed attivita'»;
 
 Visto l'articolo 4, comma 59 della medesima [legge n. 350 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003;350), che prevede: «Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, d'intesa con i Ministri interessati e con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, sono definiti i termini di conclusione dei procedimenti amministrativi, che concorrono per l'assolvimento delle operazioni doganali di importazione ed esportazione, validi fino a quando le amministrazioni interessate non provvedono a stabilirli, in una durata comunque non superiore, con i regolamenti di cui all'[articolo 2 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2)»;
 
-Visto l'[articolo 2, comma 5, del decreto-legge 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203#art_2-com5), convertito con modificazioni dalla [legge 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), che prevede: «Le intese di cui al [comma 59 dell'articolo 4 della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com59), finalizzate all'adozione del decreto del Presidente del Consiglio dei Ministri previsto nella medesima norma, devono intervenire nel termine di tre mesi dalla data di entrata in vigore del presente decreto. In mancanza le stesse si intendono positivamente acquisite»;
+Visto l'[articolo 2, comma 5, del decreto-legge 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203#art_2-com5), convertito con modificazioni dalla [legge 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), che prevede: «Le intese di cui al [comma 59 dell'articolo 4 della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), finalizzate all'adozione del decreto del Presidente del Consiglio dei Ministri previsto nella medesima norma, devono intervenire nel termine di tre mesi dalla data di entrata in vigore del presente decreto. In mancanza le stesse si intendono positivamente acquisite»;
 
 Visto l'[articolo 2 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2), concernente i termini di conclusione dei procedimenti amministrativi;
 
@@ -47,7 +47,7 @@ Adotta il seguente regolamento:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-12-29;235) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 2. — Termini di conclusione dei procedimenti amministrativi che concorrono all'assolvimento delle operazioni doganali
 
@@ -99,7 +99,7 @@ Note all'art. 4:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-12-29;235) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 6.
 
@@ -110,7 +110,7 @@ Il [D.P.R. 29 dicembre 2021, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-12-29;235) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 7.
 
@@ -121,7 +121,7 @@ Il [D.P.R. 29 dicembre 2021, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-12-29;235) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 8. — Aggiornamento periodico delle Tabelle A e B
 

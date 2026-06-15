@@ -14,7 +14,7 @@ DEL CONSIGLIO DEI MINISTRI
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), recante ordinamento dell'amministrazione degli affari esteri, e, in particolare l'articolo 106;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), recante ordinamento dell'amministrazione degli affari esteri, e, in particolare l'articolo 106;
 
 Visto il [decreto del Presidente del Consiglio dei ministri 20 luglio 2007, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-07-20;153), recante regolamento di riordino della disciplina delle modalita' di valutazione periodica dei funzionari diplomatici appartenenti ai gradi di segretario di legazione e consigliere di legazione;
 
@@ -42,7 +42,7 @@ Il procedimento di valutazione richiede la diretta conoscenza del valutato da pa
 
 3.
 
-La scheda di valutazione e' redatta al 31 dicembre di ogni anno su un modulo informatico, redatto in conformita' alle disposizioni del [Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md) di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante gli elementi indicati all'allegato A, per i funzionari del grado di segretario di legazione e all'allegato B, per i funzionari del grado di consigliere di legazione. Essa contiene gli elementi indicati dall'[articolo 106 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_106). La valutazione si effettua sulla base del provvedimento di attribuzione della responsabilita' di almeno un progetto o programma, contenente uno o piu' obiettivi chiaramente definiti e, laddove possibile, misurabili, preferibilmente connessi ai settori di prevalente impiego del valutato e comunicato a questi dal superiore gerarchico all'inizio dell'anno solare cui la valutazione si riferisce, ovvero all'inizio della collaborazione con il valutato. Il superiore gerarchico comunica il provvedimento di attribuzione all'inizio dell'anno solare ovvero all'inizio della collaborazione con il valutato.
+La scheda di valutazione e' redatta al 31 dicembre di ogni anno su un modulo informatico, redatto in conformita' alle disposizioni del [Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md) di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante gli elementi indicati all'allegato A, per i funzionari del grado di segretario di legazione e all'allegato B, per i funzionari del grado di consigliere di legazione. Essa contiene gli elementi indicati dall'[articolo 106 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). La valutazione si effettua sulla base del provvedimento di attribuzione della responsabilita' di almeno un progetto o programma, contenente uno o piu' obiettivi chiaramente definiti e, laddove possibile, misurabili, preferibilmente connessi ai settori di prevalente impiego del valutato e comunicato a questi dal superiore gerarchico all'inizio dell'anno solare cui la valutazione si riferisce, ovvero all'inizio della collaborazione con il valutato. Il superiore gerarchico comunica il provvedimento di attribuzione all'inizio dell'anno solare ovvero all'inizio della collaborazione con il valutato.
 
 4.
 
@@ -55,7 +55,7 @@ La direzione generale che attende alla gestione delle risorse umane verifica, in
 N O T E 
  
  Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - Si riporta il testo dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.: 
  «Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare: 
@@ -78,7 +78,7 @@ N O T E
  
  Note all'[art. 1: 
  - Il decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) recante: «[Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)» e' pubblicato nella Gazzetta Ufficiale del 16 maggio 2005, n. 112 (S.O. n. 93). 
- - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18) reca: «Ordinamento dell'Amministrazione degli affari esteri».
+ - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) reca: «Ordinamento dell'Amministrazione degli affari esteri».
 
 ## Art. 2. — Elementi forniti dal funzionario valutato
 
@@ -94,7 +94,7 @@ La valutazione di primo grado e' effettuata mediante compilazione delle relative
 
 2.
 
-In caso di mancanza del valutatore di primo grado individuato secondo i criteri indicati all'articolo 106, secondo comma, primo periodo, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), la valutazione di cui al comma 1 e' redatta, per il personale in servizio all'estero, dal capo della rappresentanza diplomatica competente per territorio e, nei restanti casi, dal segretario generale.
+In caso di mancanza del valutatore di primo grado individuato secondo i criteri indicati all'articolo 106, secondo comma, primo periodo, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), la valutazione di cui al comma 1 e' redatta, per il personale in servizio all'estero, dal capo della rappresentanza diplomatica competente per territorio e, nei restanti casi, dal segretario generale.
 
 3.
 
@@ -108,7 +108,7 @@ Il funzionario valutato prende visione degli elementi e dei giudizi del valutato
 
 1.
 
-Nell'integrazione del giudizio di primo grado, il funzionario preposto all'ufficio di livello dirigenziale generale di cui all'articolo 106, secondo comma, terzo periodo, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), che e' il valutatore di secondo grado, si avvale degli elementi in suo possesso e, per i funzionari in servizio presso gli uffici consolari e per i titolari di cancelleria consolare, di quelli forniti dalla Direzione generale per gli italiani all'estero e le politiche migratorie.
+Nell'integrazione del giudizio di primo grado, il funzionario preposto all'ufficio di livello dirigenziale generale di cui all'articolo 106, secondo comma, terzo periodo, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), che e' il valutatore di secondo grado, si avvale degli elementi in suo possesso e, per i funzionari in servizio presso gli uffici consolari e per i titolari di cancelleria consolare, di quelli forniti dalla Direzione generale per gli italiani all'estero e le politiche migratorie.
 
 2.
 
@@ -119,7 +119,7 @@ L'integrazione del giudizio comporta la verifica della corrispondenza fra i dati
 Se riscontra elementi suscettibili di modificare significativamente la valutazione di primo grado, il valutatore di secondo grado lo attesta nell'apposita sezione della scheda di valutazione.
 
 Note all'art. 4: 
- - Si riporta il testo dell'art. 106 del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18): 
+ - Si riporta il testo dell'art. 106 del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md): 
  «Art. 106 (Valutazione periodica dei funzionari diplomatici appartenenti ai gradi di segretario di legazione e consigliere di legazione). - Per i funzionari diplomatici appartenenti ai gradi di segretario di legazione e consigliere di legazione viene redatta al 31 dicembre di ogni anno una scheda di valutazione, secondo le modalita' stabilite con regolamento da emanarsi, ai sensi dell'[art. 17, comma 3 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), e successive modificazioni ed integrazioni, con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro degli affari esteri, dirette ad assicurare, nel rispetto dei principi generali vigenti in tale materia, la massima trasparenza ed oggettivita' delle valutazioni. La scheda contiene, tra l'altro, una dettagliata descrizione delle funzioni svolte dall'interessato, della situazione di carattere ambientale e delle difficolta' affrontate, l'indicazione dei risultati raggiunti rispetto agli obbiettivi assegnati, nonche' una valutazione circa l'attitudine ad assumere maggiori responsabilita' ed a svolgere le funzioni del grado superiore. 
  La redazione della scheda di valutazione e' effettuata per il personale in servizio a Roma dal funzionario preposto all'ufficio di livello dirigenziale presso il quale il servizio e' prestato; per il personale in servizio in un ufficio all'estero dal capo dell'ufficio stesso. Il redattore della scheda tiene conto di una relazione presentata dall'interessato sulle attivita' da lui svolte durante l'anno in esame, che rimane allegata alla scheda stessa. Il giudizio e' integrato per il personale in servizio a Roma dal funzionario preposto all'ufficio di livello dirigenziale generale in cui il servizio e' prestato; per il personale in servizio all'estero dal funzionario preposto alla direzione generale geografica competente per il Paese in cui il servizio e' svolto, oppure, qualora il servizio sia effettuato in una rappresentanza diplomatica permanente presso una organizzazione internazionale, dal funzionario preposto alla direzione generale che cura i rapporti con l'organizzazione stessa. Il giudizio complessivo viene attribuito dal consiglio di amministrazione.».
 
@@ -169,10 +169,10 @@ Il programma informatico assicura la custodia degli originali informatici delle 
 
 2.
 
-A conclusione del procedimento di valutazione, una copia dichiarata conforme all'originale dal competente ufficio della direzione generale che attende alla gestione delle risorse umane e' inserita nel fascicolo personale del valutato, conformemente all'[articolo 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_55).
+A conclusione del procedimento di valutazione, una copia dichiarata conforme all'originale dal competente ufficio della direzione generale che attende alla gestione delle risorse umane e' inserita nel fascicolo personale del valutato, conformemente all'[articolo 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 Note all'art. 6: 
- - Si riporta il testo dell'[art. 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_55) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), pubblicato nella Gazzetta Ufficiale del 25 gennaio 1957, n. 22 (S.O. n. 220): 
+ - Si riporta il testo dell'[art. 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), pubblicato nella Gazzetta Ufficiale del 25 gennaio 1957, n. 22 (S.O. n. 220): 
  «Art. 55 (Fascicolo personale, stato matricolare e ruoli di anzianita'). - Per ogni impiegato sono tenuti, presso l'Ufficio del personale dell'amministrazione centrale, un fascicolo personale ed uno stato matricolare. 
  Il fascicolo personale deve contenere tutti i documenti che possono interessare la carriera. 
  Questi devono essere registrati, numerati e classificati senza discontinuita'. 
@@ -194,7 +194,7 @@ Le valutazioni dei segretari di legazione e dei consiglieri di legazione relativ
 
 Note all'[art. 7: 
  - Il decreto del Presidente del Consiglio dei ministri 20 luglio 2007, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-07-20;153#art_7), abrogato dal presente regolamento, recava: «Regolamento di riordino della disciplina delle modalita' di valutazione periodica dei funzionari diplomatici appartenenti ai gradi di segretario di legazione e di consigliere di legazione, ai sensi e per gli effetti di cui all'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3).». 
- - Per i riferimenti al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3) si veda nelle note all'art. 6.
+ - Per i riferimenti al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) si veda nelle note all'art. 6.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

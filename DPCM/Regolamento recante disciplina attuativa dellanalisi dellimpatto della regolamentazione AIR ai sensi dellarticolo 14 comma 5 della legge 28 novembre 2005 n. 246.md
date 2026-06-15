@@ -24,11 +24,11 @@ d) i criteri ed i contenuti generali della relazione al Parlamento di cui al com
 
 Visto l'[articolo 5, comma 2, della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_5-com2), recante "Delegificazione e testi unici di norme concernenti procedimenti amministrativi - Legge di semplificazione 1998", e successive modificazioni;
 
-Visto l'[articolo 6 del decreto legislativo 30 luglio 1999, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;303#art_6), recante "Ordinamento della Presidenza del Consiglio dei Ministri, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)";
+Visto l'[articolo 6 del decreto legislativo 30 luglio 1999, n. 303](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante "Ordinamento della Presidenza del Consiglio dei Ministri, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)";
 
 Viste le direttive del Presidente del Consiglio dei Ministri 27 marzo 2000, pubblicata nella Gazzetta Ufficiale n. 118 del 23 maggio 2000, e 21 settembre 2001, pubblicata nella Gazzetta Ufficiale n. 249 del 25 ottobre 2001;
 
-Visto l'[articolo 11, comma 2, della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_11-com2), recante "Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici", e successive modificazioni;
+Visto l'[articolo 11, comma 2, della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md), recante "Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici", e successive modificazioni;
 
 Visto il decreto del Presidente del Consiglio dei Ministri 23 luglio 2002, recante "Ordinamento delle strutture generali della Presidenza del Consiglio dei Ministri", ed in particolare l'articolo 17;
 

@@ -22,7 +22,7 @@ Vista la [legge 29 dicembre 1988, n. 554](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md), di conversione, con modifiche, del [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), con particolare riferimento all'art. 25, relativo al risanamento degli enti locali dissestati ed alla mobilita' del personale degli enti medesimi;
 
-Vista la [legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407), che ha prorogato per il 1991 la normativa di cui alla [legge n. 554/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;554);
+Vista la [legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), che ha prorogato per il 1991 la normativa di cui alla [legge n. 554/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;554);
 
 Visto l'[art. 13 del decreto-legge 12 gennaio 1991, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-01-12;6#art_13), convertito, con modificazioni, con [legge 15 marzo 1991, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20gennaio%201991%20n.%206%20recante%20disposizioni%20urgenti%20in%20favore%20degli%20enti%20locali%20per%20il%201991.md);
 
@@ -46,7 +46,7 @@ E M A N A il seguente regolamento:
 
 I dipendenti in esubero per riduzione della pianta organica delle amministrazioni provinciali e dei comuni dichiarati in dissesto, ai sensi dell'[art. 25 della legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md), che risultano tali a seguito delle procedure previste nel decreto del Presidente del Consiglio dei Ministri 15 gennaio 1991, sono sottoposti alla mobilita' d'ufficio.
  AVVERTENZA:
- Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
@@ -181,7 +181,7 @@ I dipendenti trasferiti partecipano ai corsi di riqualificazione che l'amministr
 
 2.
 
-Per l'attuazione dei predetti corsi si applicano le disposizioni di cui all'[art. 2 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-23;395#art_2).
+Per l'attuazione dei predetti corsi si applicano le disposizioni di cui all'[art. 2 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201988-90.md).
 
 Nota all'[art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988;395#art_7):
  - L'[art. 2 del D.P.R. n. 395/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988;395#art_2) cosi' recita:

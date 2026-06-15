@@ -16,7 +16,7 @@ Visto l'[art. 24, comma 4, della legge 7 agosto 1990, n. 241](https://www.normat
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-06-27;352#art_8);
+Visto l'[art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md);
 
 Udito il parere della commissione per l'accesso ai documenti amministrativi presso la Presidenza del Consiglio dei Ministri di cui all'[art. 27 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_27), espresso in data 16 febbraio 1993;
 
@@ -28,13 +28,13 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Il presente regolamento individua, in conformita' all'[art. 24, comma 4, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com4), le categorie di documenti formati o comunque rientranti nella disponibilita' del Consiglio di Stato, del consiglio di giustizia amministrativa della regione siciliana, dei tribunali amministrativi regionali e del tribunale regionale di giustizia amministrativa per il Trentino-Alto Adige, sottratti all'accesso ai sensi dell'art. 24, comma 2, della medesima [legge n. 241 del 1990 e dell'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) del [decreto del Presidente della Repubblica 27 giugno 1992, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-06-27;352).
+Il presente regolamento individua, in conformita' all'[art. 24, comma 4, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com4), le categorie di documenti formati o comunque rientranti nella disponibilita' del Consiglio di Stato, del consiglio di giustizia amministrativa della regione siciliana, dei tribunali amministrativi regionali e del tribunale regionale di giustizia amministrativa per il Trentino-Alto Adige, sottratti all'accesso ai sensi dell'art. 24, comma 2, della medesima [legge n. 241 del 1990 e dell'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) del [decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md).
 
 2.
 
 Nel presente regolamento, pertanto, il termine "Amministrazione" designa tutti gli organi di giustizia amministrativa suindicati, nell'esercizio di funzioni non rientranti fra quelle giurisdizionali o consultive.
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
  - Il testo dell'[art. 24 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_24) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi) e' il seguente:
@@ -78,7 +78,7 @@ Note alle premesse:
 
 1.
 
-Ai sensi dell'[art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-06-27;352#art_8-com5-letc), ed in relazione all'esigenza di salvaguardare la sicurezza e l'ordine pubblico, sono sottratte all'accesso le seguenti categorie di documenti:
+Ai sensi dell'[art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), ed in relazione all'esigenza di salvaguardare la sicurezza e l'ordine pubblico, sono sottratte all'accesso le seguenti categorie di documenti:
                         a)
                             atti e documenti concernenti gli impianti di sicurezza degli edifici destinati a sede dell'Amministrazione;
                         b)
@@ -96,7 +96,7 @@ Nota all'art. 2:
 
 1.
 
-Ai sensi dell'[art. 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), nonche' dell'[art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-06-27;352#art_8-com5-letd), ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
+Ai sensi dell'[art. 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), nonche' dell'[art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
                         a)
                             rapporti informativi sul personale dipendente, nonche' note caratteristiche a qualsiasi titolo compilate sul predetto personale;
                         b)
@@ -118,13 +118,13 @@ Ai sensi dell'[art. 24 della legge 7 agosto 1990, n. 241](https://www.normattiva
                         l)
                             documentazione relativa alla situazione finanziaria, economica e patrimoniale di persone, gruppi ed imprese comunque utilizzata ai fini dell'attivita' amministrativa;
                         m)
-                            dichiarazioni di riservatezza e relativi atti istruttori dei documenti conservati negli archivi di Stato concernenti situazioni puramente private di persone o processi penali, secondo quanto previsto dall'[art. 21 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_21);
+                            dichiarazioni di riservatezza e relativi atti istruttori dei documenti conservati negli archivi di Stato concernenti situazioni puramente private di persone o processi penali, secondo quanto previsto dall'[art. 21 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);
                         n)
                             rapporti alla procura generale ed alle procure regionali della Corte dei conti e richieste o relazioni di dette procure ove siano nominativamente individuati soggetti per i quali si appalesa la sussistenza di responsabilita' amministrative, contabili e penali;
                         o)
                             atti di promovimento di azioni di responsabilita' di fronte alla procura generale ed alle procure regionali della Corte dei conti nonche' alle competenti autorita' giudiziarie;
                         p)
-                            atti e documenti relativi alla concessione dei benefici assistenziali di cui all'[art. 15, lettera o), del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_15-leto);
+                            atti e documenti relativi alla concessione dei benefici assistenziali di cui all'[art. 15, lettera o), del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md);
                         q)
                             segnalazioni, atti o esposti informali di privati, di organizzazioni sindacali e di categorie o altre associazioni, fino a quando in ordine ad essi non sia conclusa la necessaria istruttoria.
 

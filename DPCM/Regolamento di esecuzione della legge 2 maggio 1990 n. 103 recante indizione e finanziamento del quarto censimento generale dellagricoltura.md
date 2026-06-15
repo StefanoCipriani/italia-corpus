@@ -20,9 +20,9 @@ ED I PROBLEMI ISTITUZIONALI
 
 Vista la [legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103), concernente indizione e finanziamento del quarto censimento generale dell'agricoltura;
 
-Visto il [decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322), recante norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24);
+Visto il [decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), recante norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24);
 
-Visto l'[art. 10 del decreto del Presidente della Repubblica 31 luglio 1978, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-31;1017#art_10), e il [decreto del Presidente della Repubblica 24 marzo 1981, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-24;228);
+Visto l'[art. 10 del decreto del Presidente della Repubblica 31 luglio 1978, n. 1017](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20artigianato%20incremento%20della%20produzione%20industriale%20cave%20e%20torbiere%20commercio%20fiere%20e%20mercati.md), e il [decreto del Presidente della Repubblica 24 marzo 1981, n. 228](../DPR/Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2031%20luglio%201978%20n.%201017%20concernente%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20arti_7ac239a1185d.md);
 
 Visti i regolamenti del Consiglio delle Comunita' europee n. 571/88 del 29 febbraio 1988, e successive modificazioni, e n. 357/79 del 5 febbraio 1979, e successive modificazioni;
 
@@ -52,7 +52,7 @@ Il quarto censimento generale dell'agricoltura ha luogo a partire dal 21 ottobre
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato di rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.
@@ -70,7 +70,7 @@ Note alle premesse:
  Il personale in servizio in tale ufficio alla data di entrata in vigore del presente decreto viene messo, a sua richiesta, a disposizione della provincia di Trento o di quella di Bolzano ed ha diritto a chiedere il trasferimento alla provincia cui sia stato messo a disposizione entro sessanta giorni dalla data di entrata in vigore della legge provinciale che, a seguito della soppressione del predetto ufficio, disciplini l'inquadramento del personale che abbia chiesto il trasferimento alla provincia stessa; la messa a disposizione ha luogo fino alla scadenza del termine per chiedere trasferimento e comunque, per il personale che ha chiesto il trasferimento fino all'inquadramento nel ruolo provinciale.
  Al personale trasferito e garantino il rispetto della posizione giuridico-economica acquisita.
  Le spese per il pagamento delle competenze al personale messo a disposizione delle province sono a carico del bilancio dell'istituto centrale di statistica, salvo rivalsa nei confronti delle province medesime".
- - Il [D.P.R. n. 228/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981;228), reca: "Modificazioni al [decreto del Presidente della Repubblica 31 luglio 1978, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-31;1017), concernente norme di attuazione dello statuto speciale della regione Trentino-Alto Adige in materia di artigianato, incremento della produzione industriale, cave e torbiere, commercio, fiere e mercati".
+ - Il [D.P.R. n. 228/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981;228), reca: "Modificazioni al [decreto del Presidente della Repubblica 31 luglio 1978, n. 1017](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20artigianato%20incremento%20della%20produzione%20industriale%20cave%20e%20torbiere%20commercio%20fiere%20e%20mercati.md), concernente norme di attuazione dello statuto speciale della regione Trentino-Alto Adige in materia di artigianato, incremento della produzione industriale, cave e torbiere, commercio, fiere e mercati".
  - Il regolamento CEE n. 571/88 reca: "Organizzazione di indagini comunitarie sulla struttura delle aziende agricole nel periodo 1988-1997" (Gazzetta Ufficiale - serie [L - n. 56 del 2 marzo 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-02;56)).
  - Il regolamento CEE n. 357/79 reca: "Indagini statistiche sulle superfici viticole" (Gazzetta Ufficiale - serie [L - n. 54 del 5 marzo 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-03-05;54)).
  - Il testo dell'[art. 1, comma 2, della legge n. 103/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;103#art_1-com2) e' il seguente:
@@ -155,7 +155,7 @@ L'Istituto nazionale di statistica (ISTAT), anche attraverso i propri uffici reg
 
 2.
 
-Per l'esecuzione del censimento l'ISTAT puo' avvalersi degli uffici di statistica di cui all'[art. 2 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_2), e richiedere la collaborazione delle amministrazioni da cui dipendono detti uffici e di ogni altro ente ed organismo pubblico.
+Per l'esecuzione del censimento l'ISTAT puo' avvalersi degli uffici di statistica di cui all'[art. 2 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e richiedere la collaborazione delle amministrazioni da cui dipendono detti uffici e di ogni altro ente ed organismo pubblico.
 
 3.
 
@@ -404,7 +404,7 @@ E' fatto divieto ai rilevatori nell'espletamento dell'incarico ricevuto di svolg
 
 1.
 
-Ai sensi di quanto disposto dall'[art. 9 della legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103#art_9), e' fatto obbligo ai conduttori delle aziende agricole, forestali e zootecniche ed in genere, alle persone che vi sono tenute, di rispondere con precisione ed esattezze alle domande contenute nei modelli di rilevazione. A coloro che non forniscono le notizie richieste, ovvero le forniscono scientemente errate o incomplete, vengono applicate, su iniziativa dell'ufficio comunale di censimento, le sanzioni amministrative pecuniarie di cui all'[art. 11 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_11), con il procedimento ivi previsto.
+Ai sensi di quanto disposto dall'[art. 9 della legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103#art_9), e' fatto obbligo ai conduttori delle aziende agricole, forestali e zootecniche ed in genere, alle persone che vi sono tenute, di rispondere con precisione ed esattezze alle domande contenute nei modelli di rilevazione. A coloro che non forniscono le notizie richieste, ovvero le forniscono scientemente errate o incomplete, vengono applicate, su iniziativa dell'ufficio comunale di censimento, le sanzioni amministrative pecuniarie di cui all'[art. 11 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), con il procedimento ivi previsto.
 
 2.
 
@@ -416,7 +416,7 @@ I conduttori di aziende agricole, forestali e zootecniche i quali, entro i termi
 
 Note all'art. 20:
  - Il testo dell'[art. 9 della legge n. 103/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;103#art_9), e' il seguente:
- "Art. 9. - 1. E' fatto obbligo, ai conduttori delle aziende agricole ed, in genere, alle persone che vi sono tenute di rispondere con precisione ed esattezza alle domande contenute nel modello di rilevazione. In caso di rifiuto o di comunicazione di notizie scientemente errate o incomplete si applicano le norme di cui agli articoli 7, comma 3, e 11 del [decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322)".
+ "Art. 9. - 1. E' fatto obbligo, ai conduttori delle aziende agricole ed, in genere, alle persone che vi sono tenute di rispondere con precisione ed esattezza alle domande contenute nel modello di rilevazione. In caso di rifiuto o di comunicazione di notizie scientemente errate o incomplete si applicano le norme di cui agli articoli 7, comma 3, e 11 del [decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md)".
  - Il testo dell'[art. 11 del D.Lgs n. 322/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322#art_11) e' il seguente:
  "Art. 11 (Sanzioni amministrative). - 1. Sanzioni amministrative pecuniarie, di cui all'art. 7, sono stabilite:
  a) nella misura minima di lire quattrocentomila e massima di lire quattromilioni per le violazioni da parte di persone fisiche;
@@ -495,11 +495,11 @@ E' fatto espresso divieto di utilizzare per la raccolta dei dati modelli diversi
 
 1.
 
-Ai sensi di quanto disposto dall'[art. 10 della legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103#art_10), sulle notizie raccolte in occasione del censimento si applicano le disposizioni in materia di segreto d'ufficio recate dall'[art. 8 del decreto legislativo 6 settembre 1989 n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8).
+Ai sensi di quanto disposto dall'[art. 10 della legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103#art_10), sulle notizie raccolte in occasione del censimento si applicano le disposizioni in materia di segreto d'ufficio recate dall'[art. 8 del decreto legislativo 6 settembre 1989 n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
 
 2.
 
-I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 
+I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 
 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 3.
@@ -508,11 +508,11 @@ Fatto salvo quanto disposto dall'art. 29, i dati raccolti in occasione del censi
 
 Note all'art. 26:
  - Il testo dell'[art. 10 della legge n. 103/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;103#art_10) e' il seguente:
- "Art. 10. - 1. Sulle notizie raccolte in occasione del censimento si applicano le disposizioni in materia di segreto di ufficio recate dall'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8).
- 2. I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+ "Art. 10. - 1. Sulle notizie raccolte in occasione del censimento si applicano le disposizioni in materia di segreto di ufficio recate dall'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
+ 2. I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
  - Il testo dell'[art. 8 del D.Lgs. n. 322/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322#art_8) e' il seguente:
  "Art. 8 (Segreto di ufficio degli addetti agli uffici di statistica). - 1. Le norme in materia di segreto d'ufficio previste dal vigente ordinamento dell'impiego civile dello Stato si applicano a tutti gli addetti agli uffici di statistica previsti dagli articoli 3, 4 e 5.
- 2. Resta fermo il disposto dell'[art. 15 del decreto del Presidente della Repubblica 2 novembre 1976, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-02;784#art_15)".
+ 2. Resta fermo il disposto dell'[art. 15 del decreto del Presidente della Repubblica 2 novembre 1976, n. 784](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernente%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_41a9a5474e04.md)".
  - Il testo dell'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 326 (Rilevazione di segreti di ufficio). - Il pubblico ufficiale o la persona incaricata di un pubblico servizio che, violando i doveri inerenti alle funzioni o al servizio, o comunque abusando della sua qualita', rivela notizie di ufficio, le quali debbano rimanere segrete, o ne agevola in qualsiasi modo la conoscenza, e' punito con la reclusione da sei mesi a tre anni.
  Se l'agevolazione e' soltanto colposa, si applica la reclusione fino a un anno".
@@ -552,7 +552,7 @@ I competenti organi della regione, il sindaco e il dirigente dell'ufficio provin
 
 1.
 
-Ai sensi dell'[art. 11 della legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103#art_11), l'ISTAT, una volta ultimate le necessarie operazioni di controllo, fornira' i dati, resi anonimi, relativi alle singole unita' di rilevazione agli uffici di statistica degli enti ed organismi di cui all'[art. 2 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_2), che ne facciano richiesta motivata in relazione ai compiti istituzionali dell'amministrazione di appartenenza ed al territorio di rispettiva competenza. I dati potranno essere utilizzati esclusivamente per elaborazioni statistiche.
+Ai sensi dell'[art. 11 della legge 2 maggio 1990, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;103#art_11), l'ISTAT, una volta ultimate le necessarie operazioni di controllo, fornira' i dati, resi anonimi, relativi alle singole unita' di rilevazione agli uffici di statistica degli enti ed organismi di cui all'[art. 2 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), che ne facciano richiesta motivata in relazione ai compiti istituzionali dell'amministrazione di appartenenza ed al territorio di rispettiva competenza. I dati potranno essere utilizzati esclusivamente per elaborazioni statistiche.
 
 2.
 
@@ -568,9 +568,9 @@ All'atto della richiesta dei dati, il responsabile dell'ufficio di statistica co
 
 Note all'art. 29:
  - Il testo dell'[art. 11 della legge n. 103/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;103#art_11) e' il seguente:
- "Art. 11. - 1. L'Istituto centrale di statistica e' tenuto a fornire agli uffici di statistica degli enti e organismi di cui all'[art. 2 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_2), che ne facciano richiesta in relazione alle proprie competenze, i dati resi anonimi, relativi alle singole unita' di rilevazione, da utilizzare esclusivamente per elaborazioni statistiche.
+ "Art. 11. - 1. L'Istituto centrale di statistica e' tenuto a fornire agli uffici di statistica degli enti e organismi di cui all'[art. 2 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), che ne facciano richiesta in relazione alle proprie competenze, i dati resi anonimi, relativi alle singole unita' di rilevazione, da utilizzare esclusivamente per elaborazioni statistiche.
  2. All'atto della richiesta, i dati sono trasmessi all'ufficio di statistica dall'ente richiedente. Qualora tale ufficio non sia ancora costituito, le amministrazioni di cui al comma 1 comunicano il nominativo di un proprio funzionario responsabile della utilizzazione dei dati.
- 3. I dati di cui sopra devono essere utilizzati nella osservanza delle norme di cui al [decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322).
+ 3. I dati di cui sopra devono essere utilizzati nella osservanza delle norme di cui al [decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
  4. Le modalita' per la fornitura, la conservazione e l'utilizzazione dei dati saranno disciplinate nel regolamento di esecuzione di cui al comma 2 dell'art. 1".
  - Per il testo dell'[art. 2 del D.Lgs. n. 322/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322#art_2) si veda la precedente nota all'art. 6.
 

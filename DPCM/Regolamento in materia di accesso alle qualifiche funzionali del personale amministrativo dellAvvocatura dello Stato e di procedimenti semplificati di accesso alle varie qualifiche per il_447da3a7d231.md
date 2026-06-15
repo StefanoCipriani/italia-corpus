@@ -12,19 +12,19 @@ IL PRESIDENTE
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3);
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077);
+Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 
 Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
 
 Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93);
 
-Vista la [legge 11 dicembre 1984, n. 839, nonche' l'art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-11;839#art_15) del [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092);
+Vista la [legge 11 dicembre 1984, n. 839, nonche' l'art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-11;839#art_15) del [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md);
 
-Visto il [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-29;1219);
+Visto il [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md);
 
 Visto il [decreto-legge 28 gennaio 1986, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-01-28;9), convertito, con modificazioni, dalla [legge 24 marzo 1986, n. 78](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20gennaio%201986%20n.%209%20concernente%20interpretazione%20autentica%20del%20quarto%20comma%20dellarticolo%204%20della%20legge%2011%20luglio%201980%20n.%20312.md);
 
@@ -32,9 +32,9 @@ Visto il decreto del Presidente del Consiglio dei Ministri 10 giugno 1986, pubbl
 
 Vista la [legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664);
 
-Visto il [decreto del Presidente della Repubblica 8 maggio 1987, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266);
+Visto il [decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md);
 
-Visto il [decreto del Presidente della Repubblica 17 settembre 1987, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-09-17;494);
+Visto il [decreto del Presidente della Repubblica 17 settembre 1987, n. 494](../DPR/Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md);
 
 Sulla proposta dell'Avvocato generale dello Stato;
 
@@ -62,7 +62,7 @@ I concorsi sono banditi su base nazionale, con possibilita' di previa ripartizio
 
 3.
 
-Le commissioni esaminatrici, composte secondo le disposizioni del presente capo, sono nominate con decreto dell'Avvocato generale dello Stato. Con il medesimo decreto, o successivo, sono nominati il presidente, i componenti e il segretario supplenti, nonche' gli eventuali membri aggiunti a norma dell'[art. 3, quinto comma, del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_3-com5).
+Le commissioni esaminatrici, composte secondo le disposizioni del presente capo, sono nominate con decreto dell'Avvocato generale dello Stato. Con il medesimo decreto, o successivo, sono nominati il presidente, i componenti e il segretario supplenti, nonche' gli eventuali membri aggiunti a norma dell'[art. 3, quinto comma, del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md).
 
 4.
 
@@ -75,7 +75,7 @@ Nota all'art. 1:
 
 1.
 
-I concorsi per l'accesso alle qualifiche settima e superiori possono essere per esami, per titoli ed esami o per corso-concorso, in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-29;1219).
+I concorsi per l'accesso alle qualifiche settima e superiori possono essere per esami, per titoli ed esami o per corso-concorso, in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
 2.
 
@@ -103,7 +103,7 @@ Il colloquio comprende inoltre, con diversa gradazione di difficolta' rispetto a
 
 8.
 
-Per i profili professionali diversi da quelli considerati nel precedente comma 5 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-29;1219).
+Per i profili professionali diversi da quelli considerati nel precedente comma 5 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
 9.
 
@@ -112,7 +112,7 @@ La commissione esaminatrice e' composta da un avvocato dello Stato almeno alla t
 Note all'art. 2:
  - Per il titolo del [D.P.R. n. 1219/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;1219) si veda nelle precedenti note alle premesse.
  - Il testo dell'[art. 7, settimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;312#art_7-com7) e [ottavo comma, della legge n. 312/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;312#art_7-com8) e' il seguente:
- "Le norme di cui all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-04-21;472#art_1), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-04-21;472#art_1)) e all'[art. 2 del decreto del Presidente della Repubblica 21 aprile 1972, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-04-21;472#art_2), relativi ai corsi di preparazione, con concessione di borse di studio per il reclutamento di impiegati continuano a trovare applicazione ai fini dell'accesso ai profili professionali ascritti alla settima e alla ottava qualifica funzionale.
+ "Le norme di cui all'[art. 1](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), [1](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md)) e all'[art. 2 del decreto del Presidente della Repubblica 21 aprile 1972, n. 472](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), relativi ai corsi di preparazione, con concessione di borse di studio per il reclutamento di impiegati continuano a trovare applicazione ai fini dell'accesso ai profili professionali ascritti alla settima e alla ottava qualifica funzionale.
  Le modalita' di ammissione ai corsi e del relativo svolgimento, i criteri per le prove di esame, la nomina e composizione delle commissioni esaminatrici, nonche' quanto altro occorra per la organizzazione e lo svolgimento dei corsi medesimi, saranno dettate con decreto del Presidente del Consiglio dei Ministri. L'accesso alle qualifiche avverra' indipendentemente dal tipo di diploma di laurea".
  - Il testo dell'[art. 1, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_1-com1-leta) e [b), della legge n. 664/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_1-com1-letb), e' il seguente:
  "1. Il personale amministrativo dell'Avvocatura dello Stato e' addetto ai servizi relativi:
@@ -124,7 +124,7 @@ Note all'art. 2:
 
 1.
 
-Fermo restando il disposto degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_27) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_28), cosi' come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-09-17;494#art_10), i concorsi per l'accesso alle qualifiche quinta e sesta sono per esami.
+Fermo restando il disposto degli [articoli 27](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), cosi' come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](../DPR/Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), i concorsi per l'accesso alle qualifiche quinta e sesta sono per esami.
 
 2.
 
@@ -132,7 +132,7 @@ Gli esami consistono in due prove scritte e un colloquio.
 
 3.
 
-Per i profili professionali comportanti l'espletamento di mansioni attinenti ai servizi di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-leta) e [b) dell'art. 1, comma 1, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-com1-letb), esclusi i profili comportanti specificamente l'espletamento di mansioni tecnico-contabili, la prima prova scritta concerne la risoluzione di tests bilanciati sulla conoscenza di nozioni delle seguenti materie, con diversa accentuazione secondo i profili professionali e secondo i diversi livelli: diritto costituzionale, diritto amministrativo, diritto privato, diritto processuale civile e penale. La seconda prova scritta, a carattere pratico o teorico-pratico, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-29;1219), in un saggio stanodattilografico ovvero nella risoluzione di tests bilanciati aventi per oggetto nozioni sullo stato giuridico degli impiegati civili dello Stato e sulla contabilita' generale dello Stato.
+Per i profili professionali comportanti l'espletamento di mansioni attinenti ai servizi di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-leta) e [b) dell'art. 1, comma 1, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-com1-letb), esclusi i profili comportanti specificamente l'espletamento di mansioni tecnico-contabili, la prima prova scritta concerne la risoluzione di tests bilanciati sulla conoscenza di nozioni delle seguenti materie, con diversa accentuazione secondo i profili professionali e secondo i diversi livelli: diritto costituzionale, diritto amministrativo, diritto privato, diritto processuale civile e penale. La seconda prova scritta, a carattere pratico o teorico-pratico, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md), in un saggio stanodattilografico ovvero nella risoluzione di tests bilanciati aventi per oggetto nozioni sullo stato giuridico degli impiegati civili dello Stato e sulla contabilita' generale dello Stato.
 
 4.
 
@@ -140,7 +140,7 @@ Il colloquio verte sulla conoscenza, a livello di nozioni, delle materie oggetto
 
 5.
 
-Per i profili professionali diversi da quelli considerati nel precedente comma 3 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-29;1219).
+Per i profili professionali diversi da quelli considerati nel precedente comma 3 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
 6.
 
@@ -157,7 +157,7 @@ Note all'art. 3:
 
 1.
 
-Fermo restando il disposto degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_27) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_28), come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-09-17;494#art_10), e fuori dei casi previsti dall'[art. 16 della legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56#art_16), e dal [decreto del Presidente del Consiglio dei Ministri 18 settembre 1987, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392), i concorsi per l'accesso alle qualifiche terza e quarta sono per esami.
+Fermo restando il disposto degli [articoli 27](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](../DPR/Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), e fuori dei casi previsti dall'[art. 16 della legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56#art_16), e dal [decreto del Presidente del Consiglio dei Ministri 18 settembre 1987, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392), i concorsi per l'accesso alle qualifiche terza e quarta sono per esami.
 
 2.
 
@@ -169,7 +169,7 @@ La prima prova concerne la risoluzione di tests bilanciati sulla conoscenza di n
 
 4.
 
-La seconda prova, a carattere pratico attitudinale, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-29;1219), in un saggio dattilografico ovvero in altra prova comunque finalizzata all'accertamento delle qualita' necessarie per le attivita' da svolgersi, secondo le indicazioni del bando di concorso.
+La seconda prova, a carattere pratico attitudinale, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md), in un saggio dattilografico ovvero in altra prova comunque finalizzata all'accertamento delle qualita' necessarie per le attivita' da svolgersi, secondo le indicazioni del bando di concorso.
 
 5.
 

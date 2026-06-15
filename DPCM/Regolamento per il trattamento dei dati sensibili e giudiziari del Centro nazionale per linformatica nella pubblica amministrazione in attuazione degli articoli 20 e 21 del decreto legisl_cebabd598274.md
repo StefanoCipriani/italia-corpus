@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
 
-Visto l'[articolo 5 del decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39#art_5);
+Visto l'[articolo 5 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
@@ -54,7 +54,7 @@ Avvertenza:
 
  Note alle premesse:
 
- - Si riporta il testo dell'[art. 5 del decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39#art_5) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421)), pubblicato nella Gazzetta Ufficiale n. 42 del 20 febbraio 1993:
+ - Si riporta il testo dell'[art. 5 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)), pubblicato nella Gazzetta Ufficiale n. 42 del 20 febbraio 1993:
  «Art. 5. - 1. Il Centro nazionale propone al Presidente del Consiglio dei Ministri l'adozione di regolamenti concernenti la sua organizzazione, il suo funzionamento, l'amministrazione del personale, l'ordinamento delle carriere, nonche' la gestione delle spese nei limiti previsti dal presente decreto.
  2. L'Autorita' provvede all'autonoma gestione delle spese per il proprio funzionamento e per la realizzazione dei progetti innovativi da essa direttamente gestiti, nei limiti dei fondi da iscriversi in due distinti capitoli dello stato di previsione della spesa della Presidenza del Consiglio dei Ministri. I fondi sono iscritti mediante variazione compensativa disposta con decreto del Ministro del tesoro. Detti capitoli sono destinati, rispettivamente, alle spese di funzionamento e alla realizzazione dei citati progetti innovativi. La gestione finanziaria e' sottoposta al controllo consuntivo della Corte dei conti.».
  - Si riporta il testo dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):

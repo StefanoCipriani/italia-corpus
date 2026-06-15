@@ -12,7 +12,7 @@ IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante la disciplina dell'attivita' di Governo e l'ordinamento della Presidenza del Consiglio dei Ministri e, in particolare, l'articolo 17, commi 3 e 4 e successive modificazioni e integrazioni;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;303), recante norme sul riordinamento della Presidenza del Consiglio dei Ministri e successive modificazioni e integrazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 303](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante norme sul riordinamento della Presidenza del Consiglio dei Ministri e successive modificazioni e integrazioni;
 
 Visto il [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante approvazione del «[Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)» (d'ora innanzi «Codice») e, in particolare, gli articoli 18 e seguenti che dettano i principi e le regole applicabili al trattamento di dati sensibili e giudiziari effettuati da soggetti pubblici;
 
@@ -52,7 +52,7 @@ Il presente regolamento, in attuazione del [decreto legislativo 30 giugno 2003, 
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
 Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse.
 

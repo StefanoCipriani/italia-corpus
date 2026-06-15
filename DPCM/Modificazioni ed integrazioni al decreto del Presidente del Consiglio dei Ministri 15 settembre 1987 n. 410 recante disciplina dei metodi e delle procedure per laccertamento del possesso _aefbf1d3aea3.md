@@ -26,7 +26,7 @@ Vista la [legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'art. 11, comma 4, della stessa legge, che prevede la emanazione di apposito decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro delle poste e delle telecomunicazioni, per la disciplina dei metodi e delle procedure per l'accertamento del possesso dei requisiti per l'accesso alle provvidenze di cui allo stesso articolo e per la verifica periodica della persistenza dei requisiti stessi;
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1983, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-02-15;49), recante norme di attuazione dell'[art. 28 della legge 5 agosto 1981, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416#art_28), in materia di tariffe telefoniche, telegrafiche, postali e dei trasporti;
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1983, n. 49](../DPR/Norme%20di%20attuazione%20dellart.%2028%20della%20legge%205%20agosto%201981%20n.%20416%20concernente%20disciplina%20delle%20imprese%20editrici%20e%20provvidenze%20per%20leditoria%20in%20materia%20di%20tariffe%20telefoniche%20telegrafiche%20p_17e7ea1afc85.md), recante norme di attuazione dell'[art. 28 della legge 5 agosto 1981, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416#art_28), in materia di tariffe telefoniche, telegrafiche, postali e dei trasporti;
 
 Visto il decreto del Presidente del Consiglio dei Ministri, di
 
@@ -49,7 +49,7 @@ Considerata, altresi', l'esigenza di procedere ad alcune rettifiche del testo de
 Il [comma 2 dell'art. 1 del decreto del Presidente del Consiglio dei Ministri 15 settembre 1987, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-15;410#art_1-com2), e' sostituito dal seguente:
  "2. Le domande devono essere spedite entro la data del 10 settembre 1987 per le provvidenze relative all'anno 1986 ed entro la data del 31 marzo di ciascun anno successivo a quello di riferimento dei contributi per gli anni successivi".
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Nota all'art. 1:
  Il testo vigente dell'[art. 1 del D.P.C.M. 15 settembre 1987, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-15;410#art_1), e' il seguente:

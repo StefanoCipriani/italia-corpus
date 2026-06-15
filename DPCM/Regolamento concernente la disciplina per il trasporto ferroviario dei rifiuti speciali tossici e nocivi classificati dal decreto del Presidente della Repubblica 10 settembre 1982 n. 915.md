@@ -20,7 +20,7 @@ Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di 
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-06-19;306), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
+Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
 
 Vista la [legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
 
@@ -32,7 +32,7 @@ Sentito il comitato tecnico-scientifico di cui all'[art. 15 della legge 29 ottob
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Sulla proposta del Ministro dell'ambiente, sentiti i Ministri della sanita' e dei trasporti, nonche' la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, come ridisciplinata dal [decreto legislativo 16 dicembre 1989, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-12-16;418);
+Sulla proposta del Ministro dell'ambiente, sentiti i Ministri della sanita' e dei trasporti, nonche' la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, come ridisciplinata dal [decreto legislativo 16 dicembre 1989, n. 418](../Decreti%20Legislativi/Riordinamento%20delle%20funzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20e%20degli%20organismi%20a%20composizione%20mista%20Stato-reg_1120106d199c.md);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 25 marzo 1991;
 
@@ -159,7 +159,7 @@ L'osservanza delle disposizioni del presente regolamento e' soggetta al controll
 
 Nota all'art. 6:
  - Il testo dell'[art. 7 del D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_7) (per il titolo si veda la nota precedente) e' il seguente:
- "Art. 7 (Competenze delle province). - In attuazione al disposto dell'[art. 104, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_104-com2), le province sono preposte al controllo dello smaltimento dei rifiuti.
+ "Art. 7 (Competenze delle province). - In attuazione al disposto dell'[art. 104, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le province sono preposte al controllo dello smaltimento dei rifiuti.
  Esse si avvalgono dei servizi di igiene ambientale e medicina del lavoro delle competenti unita' sanitarie locali nonche' dei servizi e presidi multizonali di cui all'[art. 22 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_22), e, ove questi ultimi non siano ancora istituiti, dei laboratori provinciali di igiene e profilassi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
