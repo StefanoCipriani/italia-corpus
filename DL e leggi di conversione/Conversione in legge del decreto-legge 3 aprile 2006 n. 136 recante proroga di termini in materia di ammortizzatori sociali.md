@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 3 aprile 2006, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-04-03;136), recante proroga di termini in materia di ammortizzatori sociali.
+E' convertito in legge il [decreto-legge 3 aprile 2006, n. 136](../DL%20proroghe/Proroga%20di%20termini%20in%20materia%20di%20ammortizzatori%20sociali.md), recante proroga di termini in materia di ammortizzatori sociali.
 
 2.
 

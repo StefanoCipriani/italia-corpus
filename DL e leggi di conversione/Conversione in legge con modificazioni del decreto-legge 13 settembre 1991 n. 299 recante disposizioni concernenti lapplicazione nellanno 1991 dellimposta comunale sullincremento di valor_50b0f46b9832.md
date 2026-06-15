@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il [decreto-legge 13 settembre 1991, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-09-13;299), recante disposizioni concernenti l'applicazione nell'anno 1991 dell'imposta comunale sull'incremento di valore degli immobili di cui all'[articolo 3 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;643#art_3), i versamenti dovuti a seguito delle dichiarazioni sostitutive in aumento del reddito dei fabbricati e l'accertamento di tali redditi, nonche' altre disposizioni tributarie urgenti, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 13 settembre 1991, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-09-13;299), recante disposizioni concernenti l'applicazione nell'anno 1991 dell'imposta comunale sull'incremento di valore degli immobili di cui all'[articolo 3 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](../DPR/Istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md), i versamenti dovuti a seguito delle dichiarazioni sostitutive in aumento del reddito dei fabbricati e l'accertamento di tali redditi, nonche' altre disposizioni tributarie urgenti, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

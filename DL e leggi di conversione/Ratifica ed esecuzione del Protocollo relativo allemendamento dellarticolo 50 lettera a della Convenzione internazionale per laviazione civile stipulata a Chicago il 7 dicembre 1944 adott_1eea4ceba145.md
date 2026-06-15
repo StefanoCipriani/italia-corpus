@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo adottato a Montreal il 21 giugno 1961, relativo all'emendamento dell'articolo 50, lettera a), della Convenzione internazionale per l'aviazione civile stipulata a Chicago il 7 dicembre 1944, resa esecutiva con [decreto legislativo 6 marzo 1948, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-06;616).
+Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo adottato a Montreal il 21 giugno 1961, relativo all'emendamento dell'articolo 50, lettera a), della Convenzione internazionale per l'aviazione civile stipulata a Chicago il 7 dicembre 1944, resa esecutiva con [decreto legislativo 6 marzo 1948, n. 616](../Decreti%20Legislativi/Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md).
 
 ## Art. 2.
 

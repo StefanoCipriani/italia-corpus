@@ -18,11 +18,11 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 29 dicembre 2011, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-29;216), recante proroga di termini previsti da disposizioni legislative, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 29 dicembre 2011, n. 216](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2011G0260.md), recante proroga di termini previsti da disposizioni legislative, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 
-Il termine per l'esercizio della delega di cui all'[articolo 2, comma 1, della legge 4 novembre 2010, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-11-04;183#art_2-com1), limitatamente agli enti, istituti e societa' vigilati dal Ministero della salute, e' differito al 30 giugno 2012. Ai fini di cui al presente comma, sono compresi tra i principi e criteri direttivi per l'esercizio della delega quelli di sussidiarieta' e di valorizzazione dell'originaria volonta' istitutiva, ove rinvenibile. ((1))
+Il termine per l'esercizio della delega di cui all'[articolo 2, comma 1, della legge 4 novembre 2010, n. 183](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Deleghe%20al%20Governo%20in%20materia%20di%20lavori%20usuranti%20di%20riorganizzazione%20di%20enti%20di%20congedi%20aspettative%20e%20permessi%20di%20ammortizzatori%20sociali%20di%20servizi%20per%20limpiego%20di%20incentivi%20alloccupazion_2fbcb692cb82.md), limitatamente agli enti, istituti e societa' vigilati dal Ministero della salute, e' differito al 30 giugno 2012. Ai fini di cui al presente comma, sono compresi tra i principi e criteri direttivi per l'esercizio della delega quelli di sussidiarieta' e di valorizzazione dell'originaria volonta' istitutiva, ove rinvenibile. ((1))
 
 3.
 
@@ -37,7 +37,7 @@ La presente legge entra in vigore il giorno successivo a quello della sua pubbli
 
 AGGIORNAMENTO (1)
 
-La [L. 7 agosto 2012, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;131) ha disposto (con l'art. 1, comma 2) che "Al fine di coordinare la riforma dell'associazione della Croce Rossa Italiana (CRI) con gli interventi per la funzionalita' del Corpo nazionale dei vigili del fuoco e con il riordino del Servizio nazionale della protezione civile, nell'intento di realizzare un compiuto sistema nazionale di gestione delle emergenze, il termine di cui all'[articolo 1, comma 2, della legge 24 febbraio 2012, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-02-24;14#art_1-com2), e' differito al 30 settembre 2012".
+La [L. 7 agosto 2012, n. 131](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20giugno%202012%20n.%2079%20recante%20misure%20urgenti%20per%20garantire%20la%20sicurezza%20dei%20cittadini%20per%20assicurare%20la%20funzionalita%20del%20Corpo%20nazi_00f303993ac2.md) ha disposto (con l'art. 1, comma 2) che "Al fine di coordinare la riforma dell'associazione della Croce Rossa Italiana (CRI) con gli interventi per la funzionalita' del Corpo nazionale dei vigili del fuoco e con il riordino del Servizio nazionale della protezione civile, nell'intento di realizzare un compiuto sistema nazionale di gestione delle emergenze, il termine di cui all'[articolo 1, comma 2, della legge 24 febbraio 2012, n. 14](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202011%20n.%20216%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Differimento%20di%20termini%20relativi%20alleserc_73061fff38d8.md), e' differito al 30 settembre 2012".
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

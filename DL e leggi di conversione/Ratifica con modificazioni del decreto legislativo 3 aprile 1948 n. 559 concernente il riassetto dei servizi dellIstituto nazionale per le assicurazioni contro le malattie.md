@@ -16,11 +16,11 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 3 aprile 1948, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-03;559), e' ratificato, a norma dell'[art. 6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_6) - salvi gli effetti degli atti legislativi di modifica o di abrogazione del decreto anzidetto - con le modificazioni di cui agli articoli seguenti.
+Il [decreto legislativo 3 aprile 1948, n. 559](../Decreti%20Legislativi/Riassetto%20dei%20servizi%20dellIstituto%20nazionale%20per%20lassicurazione%20contro%20le%20malattie.md), e' ratificato, a norma dell'[art. 6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md) - salvi gli effetti degli atti legislativi di modifica o di abrogazione del decreto anzidetto - con le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 
-Per il personale dell'Istituto nazionale per l'assicurazione contro le malattie, trattenuto in servizio ai sensi dell'art. 2, ultimo comma, del [decreto legislativo 3 aprile 1948, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-03;559), sono istituiti due ruoli speciali ad estinzione, di cui uno amministrativo e l'altro sanitario, classificati di gruppo A e ripartiti in gradi corrispondenti ai primi sei dei ruoli organici ordinari contemplati dalla tabella A, annessa al regolamento organico dell'Ente, approvato con decreto interministeriale del 18 marzo 1950.
+Per il personale dell'Istituto nazionale per l'assicurazione contro le malattie, trattenuto in servizio ai sensi dell'art. 2, ultimo comma, del [decreto legislativo 3 aprile 1948, n. 559](../Decreti%20Legislativi/Riassetto%20dei%20servizi%20dellIstituto%20nazionale%20per%20lassicurazione%20contro%20le%20malattie.md), sono istituiti due ruoli speciali ad estinzione, di cui uno amministrativo e l'altro sanitario, classificati di gruppo A e ripartiti in gradi corrispondenti ai primi sei dei ruoli organici ordinari contemplati dalla tabella A, annessa al regolamento organico dell'Ente, approvato con decreto interministeriale del 18 marzo 1950.
 
 ## Art. 3.
 

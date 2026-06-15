@@ -14,7 +14,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato; Il Preside
 
 ## Articolo unico.
 
-Il [decreto legislativo 5 febbraio 1948, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-05;100), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949, con le seguenti modificazioni:
+Il [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949, con le seguenti modificazioni:
  All'art. 1, primo comma, dopo le parole: o parti di armi, aggiungere le parole: atte all'impiego.
  All'art. 2, dopo le parole: o parti di esse, aggiungere le parole: atte all'impiego.
  L'art. 3 e' soppresso.
@@ -28,8 +28,8 @@ Il [decreto legislativo 5 febbraio 1948, n. 100](https://www.normattiva.it/uri-r
  L'art. 9 e' sostituito col seguente:
  "Sino al 30 giugno 1949 non si applicano le disposizioni degli articoli 420, 695, primo comma, 698 e 699 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le altre norme incompatibili con quelle della presente legge".
  L'art. 10 e' soppresso.
- Le disposizioni piu' favorevoli della presente legge si applicano anche ai fatti commessi sotto l'imperio del [decreto legislativo 5 febbraio 1948, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-05;100), salvo che sia stata pronunciata sentenza irrevocabile.
- Il Governo e' autorizzato a pubblicare in testo unico le disposizioni della presente legge e del [decreto legislativo 5 febbraio 1948, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-05;100).
+ Le disposizioni piu' favorevoli della presente legge si applicano anche ai fatti commessi sotto l'imperio del [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), salvo che sia stata pronunciata sentenza irrevocabile.
+ Il Governo e' autorizzato a pubblicare in testo unico le disposizioni della presente legge e del [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md).
  La presente legge entra in vigore nel giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

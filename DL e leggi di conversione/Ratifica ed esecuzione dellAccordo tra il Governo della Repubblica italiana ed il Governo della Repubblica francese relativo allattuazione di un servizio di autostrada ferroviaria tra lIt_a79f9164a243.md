@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrer
 
 1.
 
-Agli oneri derivanti dalla presente legge, si provvede mediante utilizzo delle risorse gia' stanziate, per le medesime finalita', dall'[articolo 1, comma 654, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com654).
+Agli oneri derivanti dalla presente legge, si provvede mediante utilizzo delle risorse gia' stanziate, per le medesime finalita', dall'[articolo 1, comma 654, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).
 
 2.
 

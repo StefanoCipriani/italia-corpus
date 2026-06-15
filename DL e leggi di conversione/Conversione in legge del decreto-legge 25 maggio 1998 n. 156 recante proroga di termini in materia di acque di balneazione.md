@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 25 maggio 1998, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1998-05-25;156), recante proroga di termini in materia di acque di balneazione.
+E' convertito in legge il [decreto-legge 25 maggio 1998, n. 156](../DL%20proroghe/Proroga%20di%20termini%20in%20materia%20di%20acque%20di%20balneazione.md), recante proroga di termini in materia di acque di balneazione.
 
 2.
 

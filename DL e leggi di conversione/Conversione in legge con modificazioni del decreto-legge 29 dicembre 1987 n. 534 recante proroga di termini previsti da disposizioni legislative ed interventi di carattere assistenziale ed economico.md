@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il [decreto-legge 29 dicembre 1987, n. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-29;534), recante proroga di termini previsti da disposizioni legislative ed interventi di carattere assistenziale ed economico, e' convertito in legge con le seguenti modificazioni:
+Il [decreto-legge 29 dicembre 1987, n. 534](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20ed%20interventi%20di%20carattere%20assistenziale%20ed%20economico.md), recante proroga di termini previsti da disposizioni legislative ed interventi di carattere assistenziale ed economico, e' convertito in legge con le seguenti modificazioni:
  Dopo l'articolo 4 e' inserito il seguente:
  "Art. 4-bis. - 1. La Cassa depositi e prestiti e' autorizzata a concedere, nell'arco triennale 1988-1990, ai comuni ed alle amministrazioni provinciali mutui per seicento miliardi annui da impiegare esclusivamente nell'adeguamento degli edifici di proprieta' demaniale utilizzati per servizi pubblici".
  All'articolo 5:
@@ -44,7 +44,7 @@ Il [decreto-legge 29 dicembre 1987, n. 534](https://www.normattiva.it/uri-res/N2
  4. All'onere derivante dall'applicazione dei commi 1 e 3, pari rispettivamente a lire 100 miliardi per l'anno 1987 e a lire 50 miliardi per l'anno 1988, si provvede, quanto a lire 100 miliardi per l'anno 1987, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno medesimo utilizzando l'accantonamento 'Riforma della [legge n. 46 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;46) e partecipazione a programmi internazionali di ricerca e innovazione' e, quanto a lire 50 miliardi per l'anno 1988, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per il medesimo anno finanziario, utilizzando parzialmente l'accantonamento 'Interventi a favore della regione Calabria'.
  5. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
  Dopo l'articolo 21 e' inserito il seguente:
- "Art. 21-bis. - 1. L'esenzione fiscale di cui agli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613#art_34) e [68 della legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613#art_68), e all'[articolo 40, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_40-com6), e' prorogata fino al 31 dicembre 1988, alle condizioni e con le modalita' indicate nei citati articoli".
+ "Art. 21-bis. - 1. L'esenzione fiscale di cui agli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613#art_34) e [68 della legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613#art_68), e all'[articolo 40, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md), e' prorogata fino al 31 dicembre 1988, alle condizioni e con le modalita' indicate nei citati articoli".
 
 2.
 

@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA Promulga la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 2 settembre 2002, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-02;192), recante proroga di termini nel settore dell'editoria.
+E' convertito in legge il [decreto-legge 2 settembre 2002, n. 192](../DL%20proroghe/Proroga%20di%20termini%20nel%20settore%20delleditoria.md), recante proroga di termini nel settore dell'editoria.
 
 2.
 

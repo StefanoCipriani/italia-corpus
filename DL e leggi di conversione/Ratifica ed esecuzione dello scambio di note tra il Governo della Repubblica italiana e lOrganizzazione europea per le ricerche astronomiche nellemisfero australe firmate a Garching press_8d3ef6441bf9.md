@@ -24,7 +24,7 @@ Piena ed intera esecuzione e' data agli atti di cui all'articolo precedente a de
 
 ## Art. 3.
 
-Le cessioni di beni e le prestazioni di servizi d'importo superiore a lire centomila, effettuate nei confronti dell'Organizzazione europea per le ricerche astronomiche nell'emisfero australe per l'esercizio delle funzioni istituzionali dell'Organizzazione stessa, sono equiparate, agli effetti dell'IVA, alle operazioni di cui al [terzo comma dell'articolo 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_2-com3) e al [quarto comma dell'articolo 3 del decreto del Presidente della Repubblica del 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_3-com4), e successive modifiche.
+Le cessioni di beni e le prestazioni di servizi d'importo superiore a lire centomila, effettuate nei confronti dell'Organizzazione europea per le ricerche astronomiche nell'emisfero australe per l'esercizio delle funzioni istituzionali dell'Organizzazione stessa, sono equiparate, agli effetti dell'IVA, alle operazioni di cui al [terzo comma dell'articolo 2](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e al [quarto comma dell'articolo 3 del decreto del Presidente della Repubblica del 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modifiche.
  Nel limite di detto importo non sono soggette all'IVA le importazioni di beni effettuate dall'Organizzazione europea per le ricerche astronomiche nell'emisfero australe, nell'esercizio delle proprie funzioni istituzionali.
 
 ## Art. 4.

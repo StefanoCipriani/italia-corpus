@@ -53,7 +53,7 @@ Il notaio, entro dieci giorni da quando roga o riceve in deposito o comunque par
 
 1.
 
-L'obbligo di iscrizione puo' essere assolto anche mediante trasmissione in via telematica, direttamente al registro generale dei testamenti, dei dati previsti dall'articolo 5 e dal relativo regolamento di esecuzione di cui al [decreto del Presidente della Repubblica 18 dicembre 1984, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-18;956); in tal caso l'imposta di bollo, dovuta per ogni richiesta di iscrizione, e' corrisposta in modo virtuale.
+L'obbligo di iscrizione puo' essere assolto anche mediante trasmissione in via telematica, direttamente al registro generale dei testamenti, dei dati previsti dall'articolo 5 e dal relativo regolamento di esecuzione di cui al [decreto del Presidente della Repubblica 18 dicembre 1984, n. 956](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20maggio%201981%20n.%20307%20recante%20norme%20sul%20registro%20generale%20dei%20testamenti.md); in tal caso l'imposta di bollo, dovuta per ogni richiesta di iscrizione, e' corrisposta in modo virtuale.
 
 2. Con regolamento del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono adottate norme di attuazione del presente articolo che assicurino l'invarianza del gettito erariale))
 
@@ -119,7 +119,7 @@ L'[articolo 8 della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-
 
 ## Art. 17.
 
-I posti di funzione di direttore di divisione e di conservatore capo di archivio notarile, previsti dal quadro G della tabella IV dell'allegato II al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), sono portati rispettivamente a 3 ed a 11.
+I posti di funzione di direttore di divisione e di conservatore capo di archivio notarile, previsti dal quadro G della tabella IV dell'allegato II al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), sono portati rispettivamente a 3 ed a 11.
 
 ## Art. 18.
 

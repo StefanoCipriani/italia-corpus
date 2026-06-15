@@ -28,7 +28,7 @@ Gli emolumenti e le altre remunerazioni corrisposte dal Fondo comune per i prodo
 
 ## Art. 4.
 
-Le cessioni di beni e le prestazioni di servizi di importo superiore al limite stabilito dall'articolo 72, ultimo comma, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni, effettuate nei confronti del Fondo comune, per l'esercizio delle proprie funzioni istituzionali, sono equiparate, agli effetti dell'IVA, alle operazioni di cui agli articoli 8 e 9 del citato decreto presidenziale. Non sono altresi' soggette all'IVA le importazioni di beni di valore superiore al suddetto limite effettuate dal Fondo comune nell'esercizio delle proprie funzioni istituzionali.
+Le cessioni di beni e le prestazioni di servizi di importo superiore al limite stabilito dall'articolo 72, ultimo comma, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, effettuate nei confronti del Fondo comune, per l'esercizio delle proprie funzioni istituzionali, sono equiparate, agli effetti dell'IVA, alle operazioni di cui agli articoli 8 e 9 del citato decreto presidenziale. Non sono altresi' soggette all'IVA le importazioni di beni di valore superiore al suddetto limite effettuate dal Fondo comune nell'esercizio delle proprie funzioni istituzionali.
 
 ## Art. 5.
 

@@ -56,7 +56,7 @@ Chiunque alla data del 3 dicembre 1976 possiede all'estero direttamente o indire
 
 AGGIORNAMENTO (2)
 
-La [L. 8 ottobre 1976, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-10-08;689), ha disposto (con l'art. 4, comma 2) che "E' tuttavia escluso, relativamente ai titoli depositati entro il 20 settembre 1976, l'obbligo di vendita di cui all'[articolo 2, lettera b) della legge 30 aprile 1976, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;159#art_2-letb)".
+La [L. 8 ottobre 1976, n. 689](Conversione%20in%20legge%20del%20decreto-legge%2010%20agosto%201976%20n.%20543%20concernente%20modifica%20dellarticolo%202%20della%20legge%2030%20aprile%201976%20n.%20159%20nella%20quale%20e%20stato%20convertito%20con%20modificazioni%20il%20decr_59856c711cd2.md), ha disposto (con l'art. 4, comma 2) che "E' tuttavia escluso, relativamente ai titoli depositati entro il 20 settembre 1976, l'obbligo di vendita di cui all'[articolo 2, lettera b) della legge 30 aprile 1976, n. 159](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201976%20n.%2031%20contenente%20disposizioni%20penali%20in%20materia%20di%20infrazioni%20valutarie.md)".
 
 ## Art. 2-bis.
 

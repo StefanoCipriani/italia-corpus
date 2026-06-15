@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 11 maggio 1999, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999-05-11;127), recante proroga di termini in materia di acque di balneazione.
+E' convertito in legge il [decreto-legge 11 maggio 1999, n. 127](../DL%20proroghe/Proroga%20di%20termini%20in%20materia%20di%20acque%20di%20balneazione_2.md), recante proroga di termini in materia di acque di balneazione.
 
 2.
 

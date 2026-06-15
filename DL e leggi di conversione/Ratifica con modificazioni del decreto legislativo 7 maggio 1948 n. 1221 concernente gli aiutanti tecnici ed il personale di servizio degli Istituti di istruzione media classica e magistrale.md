@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 7 maggio 1948, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1221), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 7 maggio 1948, n. 1221](../Decreti%20Legislativi/Norme%20concernenti%20gli%20aiutanti%20tecnici%20e%20il%20personale%20di%20servizio%20degli%20istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md), e' ratificato con le seguenti modificazioni:
  Art. 6. - Dopo il terzo comma e' aggiunto il seguente:
  "Il ruolo del personale di cui ai precedenti commi e' unificato".
  Dopo l'ultimo comma sono aggiunti i seguenti:

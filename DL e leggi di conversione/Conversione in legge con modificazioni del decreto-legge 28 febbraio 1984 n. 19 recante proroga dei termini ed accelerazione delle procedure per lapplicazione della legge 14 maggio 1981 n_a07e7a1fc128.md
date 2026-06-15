@@ -119,7 +119,7 @@ Il [D.L. 26 maggio 1984, n. 159](../Atti%20normativi%20abrogati%20%28in%20origin
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 28 febbraio 1986, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-28;48), convertito con modificazioni dalla [L. 18 aprile 1986, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-18;119), ha disposto che e' prorogato al 31 dicembre 1986 il termine contenuto nel comma ottavo del presente articolo, limitatamente alle convenzioni stipulate dagli enti locali ai sensi dell'[articolo 60 della legge 14 maggio 1981, n. 219](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive modificazioni, in scadenza al 31 dicembre 1985.
+Il [D.L. 28 febbraio 1986, n. 48](../DL%20proroghe/Proroga%20di%20termini%20e%20interventi%20urgenti%20per%20la%20rinascita%20delle%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata_2.md), convertito con modificazioni dalla [L. 18 aprile 1986, n. 119](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201986%20n.%2048%20recante%20proroga%20di%20termini%20e%20interventi%20urgenti%20per%20la%20rinascita%20delle%20zone%20terremotate%20della%20Campania%20e%20de_e668b7d080c4.md), ha disposto che e' prorogato al 31 dicembre 1986 il termine contenuto nel comma ottavo del presente articolo, limitatamente alle convenzioni stipulate dagli enti locali ai sensi dell'[articolo 60 della legge 14 maggio 1981, n. 219](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive modificazioni, in scadenza al 31 dicembre 1985.
 
 ## Art. 3. — Immobili danneggiati da piu' eventi sismici
 
@@ -161,7 +161,7 @@ Nei comuni dichiarati disastrati ai sensi del decreto del Presidente del Consigl
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 28 febbraio 1986, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-28;48), convertito con modificazioni dalla [L. 18 aprile 1986, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-18;119), ha disposto che e' prorogato al 31 dicembre 1986 il termine contenuto nel penultimo comma del presente articolo , in materia di occupazioni temporanee ed entro la stessa data i comuni definiscono il procedimento espropriativo di cui al terzo comma dello stesso articolo 6;
+Il [D.L. 28 febbraio 1986, n. 48](../DL%20proroghe/Proroga%20di%20termini%20e%20interventi%20urgenti%20per%20la%20rinascita%20delle%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata_2.md), convertito con modificazioni dalla [L. 18 aprile 1986, n. 119](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201986%20n.%2048%20recante%20proroga%20di%20termini%20e%20interventi%20urgenti%20per%20la%20rinascita%20delle%20zone%20terremotate%20della%20Campania%20e%20de_e668b7d080c4.md), ha disposto che e' prorogato al 31 dicembre 1986 il termine contenuto nel penultimo comma del presente articolo , in materia di occupazioni temporanee ed entro la stessa data i comuni definiscono il procedimento espropriativo di cui al terzo comma dello stesso articolo 6;
 
 ## Art. 7. — Canone di locazione
 

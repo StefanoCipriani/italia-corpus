@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 21 aprile 1948, n. 948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-21;948), e' ratificato con la seguente modificazione:
+Il [decreto legislativo 21 aprile 1948, n. 948](../Decreti%20Legislativi/Regolazione%20dei%20rapporti%20tra%20lo%20Stato%20e%20lAzienda%20Nazionale%20Idrogenazione%20Combustibili%20A.N.I.C.md), e' ratificato con la seguente modificazione:
  Art. 1. Dopo le parole: "le somme versate", sono aggiunte le parole: "e da versare".
 
 ## Art. 2.
 
-Il [decreto legislativo 7 maggio 1948, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1032), e' ratificato.
+Il [decreto legislativo 7 maggio 1948, n. 1032](../Decreti%20Legislativi/Disposizioni%20complementari%20per%20la%20regolazione%20di%20rapporti%20tra%20lo%20Stato%20e%20lAzienda%20Nazionale%20Idrogenazione%20Combustibili%20A.N.I.C.md), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-E' convalidato il [decreto del Presidente della Repubblica 18 marzo 1972, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-03-18;134), concernente il prelevamento di lire 1.000.000.000 dal fondo di riserva per le spese impreviste per l'anno finanziario 1972.
+E' convalidato il [decreto del Presidente della Repubblica 18 marzo 1972, n. 134](../DPR/Prelevamento%20di%20lire%201%20miliardo%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lanno%20finanziario%201972.md), concernente il prelevamento di lire 1.000.000.000 dal fondo di riserva per le spese impreviste per l'anno finanziario 1972.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

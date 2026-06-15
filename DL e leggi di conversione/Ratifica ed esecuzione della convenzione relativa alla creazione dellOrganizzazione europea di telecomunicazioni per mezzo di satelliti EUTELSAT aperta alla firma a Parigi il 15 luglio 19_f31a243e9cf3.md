@@ -24,7 +24,7 @@ Piena ed intera esecuzione e' data alla convenzione di cui all'articolo preceden
 
 ## Art. 3.
 
-Le cessioni di beni e le prestazioni di servizi, d'importo superiore al limite stabilito dall'articolo 72, ultimo comma, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni, effettuate nei confronti dell'EUTELSAT, per l'esercizio delle proprie funzioni istituzionali, sono equiparate, agli effetti dell'imposta sul valore aggiunto, alle operazioni di cui agli articoli 8 e 9 del citato decreto presidenziale. Non sono soggette, altresi', all'imposta sul valore aggiunto le importazioni di beni di valore superiore al suddetto limite effettuate dall'EUTELSAT nell'esercizio delle proprie funzioni istituzionali.
+Le cessioni di beni e le prestazioni di servizi, d'importo superiore al limite stabilito dall'articolo 72, ultimo comma, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, effettuate nei confronti dell'EUTELSAT, per l'esercizio delle proprie funzioni istituzionali, sono equiparate, agli effetti dell'imposta sul valore aggiunto, alle operazioni di cui agli articoli 8 e 9 del citato decreto presidenziale. Non sono soggette, altresi', all'imposta sul valore aggiunto le importazioni di beni di valore superiore al suddetto limite effettuate dall'EUTELSAT nell'esercizio delle proprie funzioni istituzionali.
 
 ## Art. 4.
 

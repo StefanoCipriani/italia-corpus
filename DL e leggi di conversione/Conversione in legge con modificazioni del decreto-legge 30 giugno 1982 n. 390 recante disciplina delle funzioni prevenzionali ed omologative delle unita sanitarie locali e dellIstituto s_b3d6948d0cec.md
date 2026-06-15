@@ -35,7 +35,7 @@ E' convertito in legge il [decreto-legge 30 giugno 1982, n. 390](https://www.nor
  All'articolo 4: 
  al secondo comma, la parola: "autonomo" e' sostituita con le altre: "dotato di autonomia funzionale e contabile"; 
  al terzo comma, sono aggiunte, in fine, le parole: 
- "e dei lavoratori autonomi, nonche' un rappresentante delle associazioni sindacali dei quadri e dirigenti di azienda, designati dal Consiglio sanitario nazionale, ai sensi dell'articolo 6, lettera c), del predetto [decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619)"; 
+ "e dei lavoratori autonomi, nonche' un rappresentante delle associazioni sindacali dei quadri e dirigenti di azienda, designati dal Consiglio sanitario nazionale, ai sensi dell'articolo 6, lettera c), del predetto [decreto del Presidente della Repubblica 31 luglio 1980, n. 619](../DPR/Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md)"; 
  al quarto comma, sono aggiunte, in fine, le parole: 
  "e dei lavoratori autonomi, nonche' da un rappresentante dell'ANCI". 
  Dopo l'articolo 4, e' aggiunto il seguente: 

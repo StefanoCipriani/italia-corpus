@@ -24,7 +24,7 @@ Il Presidente della Repubblica e' autorizzato a ratificare l'atto finale della C
 
 Piena ed intera esecuzione e' data alla Convenzione di cui al comma 1, di seguito denominata "Convenzione", a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 12 della Convenzione stessa.
  Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Cooperazione amministrativa
@@ -76,7 +76,7 @@ La richiesta di restituzione dei beni culturali rubati e' formulata, dinanzi all
 
 2.
 
-Qualora i beni rubati siano sottoposti alla disciplina prevista dalla [legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), ovvero dal [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409), la richiesta di restituzione puo' essere altresi' formulata dal Ministero per i beni e le attivita' culturali, d'intesa con il Ministero degli affari esteri.
+Qualora i beni rubati siano sottoposti alla disciplina prevista dalla [legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), ovvero dal [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), la richiesta di restituzione puo' essere altresi' formulata dal Ministero per i beni e le attivita' culturali, d'intesa con il Ministero degli affari esteri.
 
 3.
 
@@ -84,7 +84,7 @@ La richiesta di ritorno dei beni culturali illecitamente esportati e' formulata 
 
 Note all'[art. 5:
  - La legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), reca: "Tutela delle cose d'interesse artistico".
- - Il [D.P.R. 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409), reca: "Norme relative all'ordinamento ed al personale degli archivi di Stato".
+ - Il [D.P.R. 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), reca: "Norme relative all'ordinamento ed al personale degli archivi di Stato".
 
 ## Art. 6. — Custodia, consegna o acquisizione del bene
 

@@ -32,17 +32,17 @@ Per giornali periodici, di cui all'[articolo 22 della legge 25 febbraio 1987, n.
 
 2.
 
-Il regime previsto dall'[articolo 74, primo comma, lettera c), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74-com1-letc), come modificato dall'[articolo 34 del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_34), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2069%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20persone%20fisiche%20e%20versamento%20di%20acconto%20de_946bfc2c101b.md), per le cessioni congiunte di periodici e di altri beni si applica anche alle operazioni effettuate anteriormente al 1 gennaio 1990.
+Il regime previsto dall'[articolo 74, primo comma, lettera c), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), come modificato dall'[articolo 34 del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_34), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2069%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20persone%20fisiche%20e%20versamento%20di%20acconto%20de_946bfc2c101b.md), per le cessioni congiunte di periodici e di altri beni si applica anche alle operazioni effettuate anteriormente al 1 gennaio 1990.
 
 3.
 
-Non si da' luogo a rimborsi, ne' e' consentita la variazione di cui all'[articolo 26 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_26), e successive modificazioni.
+Non si da' luogo a rimborsi, ne' e' consentita la variazione di cui all'[articolo 26 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni.
 
 ## Art. 3.
 
 1.
 
-Nel [primo comma dell'articolo 4 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627#art_4-com1), il [numero 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;6)) e' sostituito dal seguente:
+Nel [primo comma dell'articolo 4 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), il [numero 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;6)) e' sostituito dal seguente:
  "6) ai trasporti relativi a pane, latte sfuso, acqua, barbabietole destinate a zuccherifici, giornali quotidiani, libri e periodici, campioni gratuiti, generi di monopolio, sale per uso alimentare per una quantita' non superiore a cinque chilogrammi, e a quelli relativi alla raccolta di pelli grezze ed altri sottoprodotti della macellazione, nonche' ai trasporti di 'pacchetti stampa sotto fascia e campioni' spediti a mezzo posta".
 
 2.

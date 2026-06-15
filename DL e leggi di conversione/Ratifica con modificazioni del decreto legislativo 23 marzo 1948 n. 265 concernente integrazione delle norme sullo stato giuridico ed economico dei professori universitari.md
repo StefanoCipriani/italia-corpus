@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), e' ratificato con le modificazioni seguenti:
+Il [decreto legislativo 23 marzo 1948, n. 265](../Decreti%20Legislativi/Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), e' ratificato con le modificazioni seguenti:
  Art. 2. - E' sostituito dal seguente:
  "Dopo non meno di quattro anni di permanenza nella classe II, grado 4°, i professori sono assegnati alla classe I, grado 3°, cui sono attribuiti 80 posti di ruolo.
  "I posti che si vengano rendendo disponibili, sui detti 80, in dipendenza di collocamento fuori ruolo, sono attribuiti a professori di ruolo della classe II, grado 4°".
@@ -27,7 +27,7 @@ Il [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res
  I commi secondo e terzo sono soppressi.
  Sono aggiunti i seguenti commi:
  "Le disposizioni del primo e del secondo comma del presente articolo si applicano anche ai professori fuori ruolo, trattenuti in servizio ai sensi del [regio decreto-legge 16 marzo 1944, n. 114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattenimento%20in%20servizio%20dei%20professori%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore%20fino%20al%20compimento%20del%2075%20anno%20di%20eta.%20044U0114.md), e del [decreto legislativo 4 gennaio 1947, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-04;22), i quali possono inoltre conseguire l'assegnazione al grado superiore durante il periodo di trattenimento in servizio, qualora abbiano maturato l'anzianita' richiesta dalle disposizioni all'epoca vigenti.
- "I professori gia' allontanati dal servizio per ragioni politiche o razziali e successivamente reintegrati ai sensi degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_19) e [20 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_20), e del [regio decreto legislativo 27 maggio 1946, n. 535](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riassunzione%20in%20ruolo%20di%20professori%20universitari%20gia%20dispensati%20per%20motivi%20politici%20o%20razziali.md), ed i professori reintegrati senza limiti di eta' in base a speciali provvedimenti legislativi, sono assegnati, in soprannumero, alla classe I, grado 3°, quando vengano a trovarsi nelle condizioni previste dal precedente art. 2".
+ "I professori gia' allontanati dal servizio per ragioni politiche o razziali e successivamente reintegrati ai sensi degli [articoli 19](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md) e [20 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), e del [regio decreto legislativo 27 maggio 1946, n. 535](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riassunzione%20in%20ruolo%20di%20professori%20universitari%20gia%20dispensati%20per%20motivi%20politici%20o%20razziali.md), ed i professori reintegrati senza limiti di eta' in base a speciali provvedimenti legislativi, sono assegnati, in soprannumero, alla classe I, grado 3°, quando vengano a trovarsi nelle condizioni previste dal precedente art. 2".
  Art. 3-bis (nuovo). - "I professori di grado 4°, con quattro anni di anzianita' nel grado medesimo, collocati fuori ruolo con decorrenza dal 1 novembre 1947, dal 1 novembre 1948 e dal 1 novembre 1949, sono assegnati, seguendo l'ordine di anzianita', al grado 3° in soprannumero, con le decorrenze rispettivamente sopra indicate, sempre che alla data della ratifica del [decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1947, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-26;1251), siano tuttora in servizio".
 
 ## Art. 2.
@@ -37,7 +37,7 @@ All'onere derivante dall'applicazione della presente legge, che fara' carico sul
 
 ## Art. 3.
 
-Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso.
+Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](../Decreti%20Legislativi/Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

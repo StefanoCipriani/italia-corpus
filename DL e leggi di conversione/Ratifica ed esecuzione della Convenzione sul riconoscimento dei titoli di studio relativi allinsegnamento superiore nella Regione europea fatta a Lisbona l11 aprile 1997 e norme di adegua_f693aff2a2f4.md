@@ -56,7 +56,7 @@ Il Ministero dell'istruzione, dell'universita' e della ricerca, di concerto con 
 
 1.
 
-Il Ministero dell'istruzione, dell'universita' e della ricerca, nell'ambito del dipartimento e dei servizi previsti dall'articolo 4 del regolamento di cui al [decreto del Presidente della Repubblica 1 dicembre 1999, n. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md), ed ai sensi dell'[articolo 4, comma 4, del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_4-com4), provvede all'istituzione del centro nazionale di informazione, di cui all'articolo IX.2 della Convenzione.
+Il Ministero dell'istruzione, dell'universita' e della ricerca, nell'ambito del dipartimento e dei servizi previsti dall'articolo 4 del regolamento di cui al [decreto del Presidente della Repubblica 1 dicembre 1999, n. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md), ed ai sensi dell'[articolo 4, comma 4, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), provvede all'istituzione del centro nazionale di informazione, di cui all'articolo IX.2 della Convenzione.
 
 2.
 
@@ -64,7 +64,7 @@ Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca sono 
 
 3.
 
-Il Ministro dell'istruzione, dell'universita' e della ricerca puo' destinare alle attivita' del centro nazionale di informazione di cui al comma 1 fino a tre esperti per le esigenze operative che necessitino di specifiche capacita' professionali. Ai predetti esperti si applicano le disposizioni di cui all'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_7-com6).
+Il Ministro dell'istruzione, dell'universita' e della ricerca puo' destinare alle attivita' del centro nazionale di informazione di cui al comma 1 fino a tre esperti per le esigenze operative che necessitino di specifiche capacita' professionali. Ai predetti esperti si applicano le disposizioni di cui all'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 4.
 

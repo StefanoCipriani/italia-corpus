@@ -54,8 +54,8 @@ L'Amministrazione finanziaria ha facolta' di esonerare dal predetto obbligo i so
  il secondo comma e' sostituito con il seguente: 
  "Per le cessioni e importazioni di benzina, di gas di petrolio liquefatto e di metano destinati all'autotrazione, l'aliquota dell'imposta sul valore aggiunto e' stabilita nella misura del 12 per cento"; 
  alla fine, sono aggiunti i seguenti commi: 
- "Gli aumenti di aliquote previsti nei commi primo e terzo non si applicano alle cessioni di beni e alle prestazioni di servizi fatte allo Stato e agli enti e istituti indicati nell'ultimo comma dell'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_6), e successive modificazioni, in base a contratti conclusi prima dell'entrata in vigore del presente decreto. 
- Al n. 16 della tabella B allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni, la parola "500" e' sostituita con la parola "350"".
+ "Gli aumenti di aliquote previsti nei commi primo e terzo non si applicano alle cessioni di beni e alle prestazioni di servizi fatte allo Stato e agli enti e istituti indicati nell'ultimo comma dell'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, in base a contratti conclusi prima dell'entrata in vigore del presente decreto. 
+ Al n. 16 della tabella B allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, la parola "500" e' sostituita con la parola "350"".
 
 ## Art. 2.
 

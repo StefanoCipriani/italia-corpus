@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 24 giugno 2004, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-06-24;158), concernente permanenza in carica degli attuali consigli degli ordini professionali e proroga di termini in materia di difesa d'ufficio e procedimenti civili davanti al tribunale per i minorenni, nonche' di protezione dei dati personali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 24 giugno 2004, n. 158](../DL%20proroghe/Permanenza%20in%20carica%20degli%20attuali%20consigli%20degli%20ordini%20professionali%20e%20proroga%20di%20termini%20in%20materia%20di%20difesa%20dufficio%20e%20procedimenti%20civili%20davanti%20al%20tribunale%20per%20i%20minorenni%20nonche_2a2eca096f20.md), concernente permanenza in carica degli attuali consigli degli ordini professionali e proroga di termini in materia di difesa d'ufficio e procedimenti civili davanti al tribunale per i minorenni, nonche' di protezione dei dati personali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

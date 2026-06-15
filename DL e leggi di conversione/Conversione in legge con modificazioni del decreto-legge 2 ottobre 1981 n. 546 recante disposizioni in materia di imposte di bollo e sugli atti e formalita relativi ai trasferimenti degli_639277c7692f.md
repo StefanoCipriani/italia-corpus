@@ -38,7 +38,7 @@ Il [decreto-legge 2 ottobre 1981, n. 546](https://www.normattiva.it/uri-res/N2Ls
  All'articolo 2, nell'ultimo comma, dopo le parole: 
  "per le cambiali e per i vaglia cambiari" sono aggiunte le seguenti: "di cui ai precedenti commi"; 
  L'articolo 7 e' sostituito dal seguente: 
- "Art. 7. - Nella tariffa allegato A, annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642), e successive modificazioni ed integrazioni, e' aggiunto, dopo l'articolo 20, il seguente articolo 20-bis. 
+ "Art. 7. - Nella tariffa allegato A, annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni ed integrazioni, e' aggiunto, dopo l'articolo 20, il seguente articolo 20-bis. 
  
 
  Parte di provvedimento in formato grafico
@@ -48,7 +48,7 @@ Il [decreto-legge 2 ottobre 1981, n. 546](https://www.normattiva.it/uri-res/N2Ls
  
 Dopo l'articolo 7, sono aggiunti i seguenti: 
  
-"Art. 7-bis. - La [lettera a) del secondo comma dell'articolo 39 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642#art_39-com2-leta), e' sostituita con decorrenza 1 gennaio 1982 dalla seguente: 
+"Art. 7-bis. - La [lettera a) del secondo comma dell'articolo 39 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e' sostituita con decorrenza 1 gennaio 1982 dalla seguente: 
  
 "a) rivenditori di generi di monopolio: 
  
@@ -139,12 +139,12 @@ La misura delle tasse previste dal [primo](https://www.normattiva.it/uri-res/N2L
 
 ## Art. 7.
 
-Nei confronti delle persone fisiche e delle societa' ed associazioni di cui all'[articolo 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_5), aventi domicilio fiscale nei comuni disastrati indicati nel decreto del Presidente del Consiglio dei Ministri del 30 aprile 1981, non si applicano, per l'anno 1981, le disposizioni della [legge 23 marzo 1977, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-03-23;97), e successive modificazioni, e del [decreto-legge 23 dicembre 1977, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-23;936), convertito nella [legge 23 febbraio 1978, n. 38](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201977%20n.%20936%20concernente%20misure%20fiscali%20urgenti.md), e successive modificazioni, concernenti i versamenti d'acconto ai fini dell'imposta sul reddito delle persone fisiche e dell'imposta locale sui redditi.
+Nei confronti delle persone fisiche e delle societa' ed associazioni di cui all'[articolo 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), aventi domicilio fiscale nei comuni disastrati indicati nel decreto del Presidente del Consiglio dei Ministri del 30 aprile 1981, non si applicano, per l'anno 1981, le disposizioni della [legge 23 marzo 1977, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-03-23;97), e successive modificazioni, e del [decreto-legge 23 dicembre 1977, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-23;936), convertito nella [legge 23 febbraio 1978, n. 38](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201977%20n.%20936%20concernente%20misure%20fiscali%20urgenti.md), e successive modificazioni, concernenti i versamenti d'acconto ai fini dell'imposta sul reddito delle persone fisiche e dell'imposta locale sui redditi.
  Nei confronti dei soggetti passivi dell'imposta sul reddito delle persone giuridiche aventi domicilio fiscale nei comuni disastrati di cui al decreto del Presidente del Consiglio dei Ministri indicato nel comma precedente, i quali hanno beneficiato della proroga al 30 novembre 1981 per la presentazione della dichiarazione dei redditi il cui termine scadeva tra il 23 novembre 1980 e il 29 novembre 1981, non si applicano per l'anno 1981, ovvero per il periodo d'imposta in corso alla data del 30 novembre 1981, le disposizioni della [legge 23 marzo 1977, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-03-23;97), e successive modificazioni, e le disposizioni di cui al [decreto-legge 23 dicembre 1977, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-23;936), convertito nella [legge 23 febbraio 1978, n. 38](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201977%20n.%20936%20concernente%20misure%20fiscali%20urgenti.md), e successive modificazioni, concernenti i versamenti d'acconto ai fini dell'imposta sul reddito delle persone giuridiche e dell'imposta locale sui redditi.
 
 ## Art. 8.
 
-All'[articolo 48 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_48), sono apportate le seguenti modificazioni: 
+All'[articolo 48 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), sono apportate le seguenti modificazioni: 
  nel primo comma le parole: "31 dicembre 1981" e "31 dicembre 1982" sono sostituite, rispettivamente, dalle seguenti: "31 dicembre 1982" e "31 dicembre 1983"; 
  nel terzo comma le parole: "31 dicembre 1982" sono sostituite dalle seguenti: "31 dicembre 1983".
 

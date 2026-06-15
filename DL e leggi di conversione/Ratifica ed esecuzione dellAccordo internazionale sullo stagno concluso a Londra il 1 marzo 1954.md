@@ -24,7 +24,7 @@ Piena ed intera esecuzione e' data all'Accordo suddetto a decorrere dalla data d
 
 ## Art. 3.
 
-All'onere derivante dall'applicazione della presente legge, valutato in lire 2.000.000 annui, sara' fatto fronte, per l'esercizio 1954-1955, con una corrispondente aliquota del provento dell'aumento dei prezzi di vendita di taluni tipi di tabacchi lavorati disposto con [decreto del Presidente della Repubblica 18 giugno 1954, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-18;292).
+All'onere derivante dall'applicazione della presente legge, valutato in lire 2.000.000 annui, sara' fatto fronte, per l'esercizio 1954-1955, con una corrispondente aliquota del provento dell'aumento dei prezzi di vendita di taluni tipi di tabacchi lavorati disposto con [decreto del Presidente della Repubblica 18 giugno 1954, n. 292](../DPR/Modificazioni%20alla%20tariffa%20di%20vendita%20al%20pubblico%20di%20alcuni%20tipi%20di%20tabacchi%20lavorati.md).
  Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle occorrenti variazioni di bilancio.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

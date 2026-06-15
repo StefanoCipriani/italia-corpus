@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 7 maggio 1948, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;940), e' ratificato.
+Il [decreto legislativo 7 maggio 1948, n. 940](../Decreti%20Legislativi/Modificazioni%20degli%20organici%20degli%20operai%20di%20ruolo%20delle%20Forze%20armate.md), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

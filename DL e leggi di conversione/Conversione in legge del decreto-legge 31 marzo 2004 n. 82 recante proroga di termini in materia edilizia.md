@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 31 marzo 2004, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-03-31;82), recante proroga di termini in materia edilizia.
+E' convertito in legge il [decreto-legge 31 marzo 2004, n. 82](../DL%20proroghe/Proroga%20di%20termini%20in%20materia%20edilizia.md), recante proroga di termini in materia edilizia.
 
 2.
 

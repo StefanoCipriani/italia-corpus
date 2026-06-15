@@ -26,7 +26,7 @@ trattenimento o il richiamo in servizio di alcune categorie di personale della P
 
 ## Art. 1.
 
-[decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335), e' sostituito dal seguente: 
+[decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituito dal seguente: 
  "I primi dirigenti allorche' abbiano compiuto trenta anni di 
 effettivo servizio nei ruoli dei commissari e dei dirigenti della Polizia di Stato e dieci nella qualifica rivestita, incluso il periodo trascorso nella posizione di vice questore dei ruoli ad esaurimento, possono chiedere di essere collocati a riposo. 
  La relativa domanda deve essere prodotta entro e non oltre 
@@ -42,7 +42,7 @@ successivo a quello nel quale si sono verificate le vacanze ed e' conferita seco
 conferimento di posti disponibili alla data di entrata in vigore della legge di conversione del presente decreto". 
  L'articolo 2 e' sostituito dal seguente: 
  "Art. 2. - L'[articolo 59 del decreto del Presidente della 
-Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_59), e' sostituito dal seguente: 
+Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituito dal seguente: 
  "Per speciali esigenze di servizio della Polizia di Stato e nei 
 limiti delle vacanze dei ruoli del personale che espleta funzioni di polizia, il Ministro dell'interno puo', sentiti gli interessati, richiamare coloro che abbiano prestato servizio nei ruoli degli agenti ed assistenti e dei sovrintendenti. 
  Il richiamo in servizio e' disposto con decreto del Ministro 
@@ -55,12 +55,12 @@ ricollocamento a riposo del personale richiamato anche prima della scadenza annu
 posizione di richiamo al compimento del 62° anno di eta'. 
  Nei confronti del personale richiamato possono essere disposte 
 promozioni per merito straordinario e continuano ad applicarsi le norme relative allo stato giuridico vigente per i ruoli di appartenenza. 
- Il personale del ruolo dei sovrintendenti cui spetta la promozione alla qualifica di vice ispettore o di ispettore ai sensi dell'[articolo 15 del decreto del Presidente della Repubblica 24 aprile 1982, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;336#art_15), puo' essere richiamato in servizio rispettivamente con la qualifica di sovrintendente principale o di sovrintendente capo. In tal caso le disposizioni di cui all'articolo 15 del citato [decreto del Presidente della Repubblica 24 aprile 1982, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;336), si applicano dal giorno precedente a quello della cessazione del richiamo". 
+ Il personale del ruolo dei sovrintendenti cui spetta la promozione alla qualifica di vice ispettore o di ispettore ai sensi dell'[articolo 15 del decreto del Presidente della Repubblica 24 aprile 1982, n. 336](../DPR/Inquadramento%20nei%20ruoli%20della%20Polizia%20di%20Stato%20del%20personale%20che%20espleta%20funzioni%20di%20polizia.md), puo' essere richiamato in servizio rispettivamente con la qualifica di sovrintendente principale o di sovrintendente capo. In tal caso le disposizioni di cui all'articolo 15 del citato [decreto del Presidente della Repubblica 24 aprile 1982, n. 336](../DPR/Inquadramento%20nei%20ruoli%20della%20Polizia%20di%20Stato%20del%20personale%20che%20espleta%20funzioni%20di%20polizia.md), si applicano dal giorno precedente a quello della cessazione del richiamo". 
  Dopo l'articolo 2 e' inserito il seguente: 
  - "Art. 2-bis. - 1. Il personale che riveste la qualifica di vice 
 questore aggiunto dei ruoli ad esaurimento dei commissari della Polizia di Stato e' collocato a riposo d'ufficio al compimento del sessantesimo anno di eta'. 
  2. La tabella B allegata al [decreto del Presidente della Repubblica 
-24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335), e' sostituita dalla seguente: 
+24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituita dalla seguente: 
  
  TABELLA B 
 Limiti di eta' per il collocamento a riposo del personale della 
@@ -73,7 +73,7 @@ Ruolo dei dirigenti: al compimento degli anni 60".
  
  All'articolo 3, il comma 2 e' sostituito con il seguente: 
  "2. Al [quinto comma dell'articolo 44 del decreto del Presidente 
-della Repubblica 24 aprile 1982, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;336#art_44-com5), le parole "per due anni" sono sostituite dalle seguenti: 
+della Repubblica 24 aprile 1982, n. 336](../DPR/Inquadramento%20nei%20ruoli%20della%20Polizia%20di%20Stato%20del%20personale%20che%20espleta%20funzioni%20di%20polizia.md), le parole "per due anni" sono sostituite dalle seguenti: 
  "fino al 65° anno di eta', per il personale richiamato ed 
 inquadrato nei ruoli ad esaurimento dei dirigenti e dei commissari, e fino al 62° anno di eta' per il personale richiamato ed inquadrato nei ruoli ad esaurimento dei sovrintendenti, assistenti ed agenti"". 
  All'articolo 4, dopo le parole: "di cui al citato articolo 85", 
@@ -84,13 +84,13 @@ della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  2. I vincitori del concorso sono assegnati ad uffici aventi sede 
 nella regione o nella provincia per la quale sono stati messi a concorso i posti e non possono essere trasferiti prima di quattro anni di effettivo servizio. 
  3. Si applicano le disposizioni dell'[articolo 55 del decreto del 
-Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_55). 
+Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md). 
  Art. 4-ter. - 1. I posti disponibili dopo l'inquadramento del 
 personale in servizio, da effettuarsi nelle qualifiche della tabella II annessa al [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), secondo quanto previsto dall'articolo 30 dello stesso decreto, possono essere coperti, anche in deroga alle vigenti disposizioni, mediante pubblici concorsi a carattere nazionale o regionale, stabilendo per ciascuno di essi i posti da conferire. 
  2. Salvo quanto diversamente stabilito nel presente articolo, per l'espletamento dei concorsi indicati nel comma precedente si osservano le disposizioni previste dal regolamento di cui all'[articolo 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md). 
  3. Ciascun concorso consiste in un esame-colloquio ovvero, tenuto conto dei compiti connessi alla qualifica da conferire, in una prova pratica professionale vertente sulle materie previste, rispettivamente per ciascuna qualifica, dal regolamento di cui al comma precedente. Il Ministro dell'interno, con proprio decreto, determina la composizione e provvede alla costituzione delle commissioni giudicatrici dei concorsi. 
  4. I vincitori dei concorsi possono essere trasferiti dalla regione 
-cui sono assegnati, o comunque essere comandati a prestare servizio fuori della stessa, non prima di avere svolto quattro anni di effettivo servizio, salvo che ricorrano le situazioni indicate nell'articolo 55, penultimo comma, del [decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335). 
+cui sono assegnati, o comunque essere comandati a prestare servizio fuori della stessa, non prima di avere svolto quattro anni di effettivo servizio, salvo che ricorrano le situazioni indicate nell'articolo 55, penultimo comma, del [decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md). 
  Art. 4-quater. - All'eventuale maggiore onere derivante 
 dall'applicazione del presente decreto nell'anno 1985 si provvede a carico del capitolo 2501 dello stato di previsione della spesa del Ministero dell'interno per il medesimo anno finanziario".
 

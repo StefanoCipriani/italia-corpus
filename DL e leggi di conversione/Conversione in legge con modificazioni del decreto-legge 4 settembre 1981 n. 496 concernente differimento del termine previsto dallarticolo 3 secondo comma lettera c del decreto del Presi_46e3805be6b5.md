@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-E' convertito in legge il [decreto-legge 4 settembre 1981 n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-09-04;496), concernente differimento del termine previsto dall'[articolo 3, secondo comma, lettera c), del decreto del Presidente della Repubblica 12 novembre 1976 n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-12;1000#art_3-com2-letc), per l'adeguamento alle disposizioni comunitarie sulla macellazione ed eviscerazione dei volatili da cortile, con le seguenti modificazioni:
+E' convertito in legge il [decreto-legge 4 settembre 1981 n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-09-04;496), concernente differimento del termine previsto dall'[articolo 3, secondo comma, lettera c), del decreto del Presidente della Repubblica 12 novembre 1976 n. 1000](../DPR/Modificazioni%20agli%20articoli%209%20e%2014%20e%20inserimento%20dellarticolo%2013-bis%20nel%20decreto%20del%20Presidente%20della%20Repubblica%2010%20agosto%201972%20n.%20967%20concernente%20norme%20sulla%20disciplina%20sanitaria%20della%20p_908d541d0d44.md), per l'adeguamento alle disposizioni comunitarie sulla macellazione ed eviscerazione dei volatili da cortile, con le seguenti modificazioni:
 
  All'articolo 1 e' aggiunto, in fine, il seguente comma:
  La proroga di cui al comma precedente non si applica alle carcasse di volatili macellati per essere destinati ai laboratori di sezionamento o di preparazione dei prodotti a base di carne e agli esercizi di somministrazione, a qualsiasi titolo, di sostanze alimentari.
@@ -24,14 +24,14 @@ E' convertito in legge il [decreto-legge 4 settembre 1981 n. 496](https://www.no
  L'articolo 2 e' sostituito dal seguente:
  I volatili da cortile macellati, oltre che rispondere alle condizioni di cui al decreto ministeriale 25 luglio 1979, pubblicato nella Gazzetta Ufficiale n. 216 dell'8 agosto 1979, debbono essere sottoposti ad ispezione veterinaria completa per partite omogenee per eta', origine, provenienza, peso, per ogni giornata di macellazione nella misura di almeno cinque capi per partita fino a cinquecento animali e in misura proporzionalmente maggiorata per le partite superiori a cinquecento animali.
 
- Dopo l'articolo 2, e' aggiunto il seguente [articolo 2-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-10;967#art_2bis):
- Il [primo comma dell'articolo 5 del decreto del Presidente della Repubblica 10 agosto 1972, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-10;967#art_5-com1), e' sostituito dai seguenti:
+ Dopo l'articolo 2, e' aggiunto il seguente [articolo 2-bis](../DPR/Disciplina%20sanitaria%20della%20produzione%20e%20del%20commercio%20dei%20volatili%20dei%20conigli%20allevati%20e%20della%20selvaggina.md):
+ Il [primo comma dell'articolo 5 del decreto del Presidente della Repubblica 10 agosto 1972, n. 967](../DPR/Disciplina%20sanitaria%20della%20produzione%20e%20del%20commercio%20dei%20volatili%20dei%20conigli%20allevati%20e%20della%20selvaggina.md), e' sostituito dai seguenti:
  "Gli animali debbono giungere al mattatoio accompagnati da un certificato di origine e sanita', rilasciato per partite omogenee per eta', origine, provenienza, peso per ogni giornata di spedizione degli animali, non piu' di 24 ore prima dal veterinario competente della unita' sanitaria locale dove ha sede l'allevamento, redatto nel modello conforme al modello A, nel quale deve essere dichiarato che e' stata effettuata la visita ante mortem e che gli animali sono stati riconosciuti sani ed in buone condizioni di nutrizione.
  Nel certificato stesso deve essere, altresi', attestato che a seguito dell'attivita' di vigilanza e dei controlli di laboratorio eseguiti a sondaggio e' stato possibile constatare che nell'allevamento di provenienza vengono rispettati i previsti periodi di sospensione prima della macellazione per quanto concerne la somministrazione di integratori semplici e medicinali e di mangimi integrati o medicati e che nell'allevamento stesso non sono state impiegate sostanze ad azione estrogena.
  In caso contrario il veterinario addetto alla ispezione e alla vigilanza sanitaria nel macello provvede per la visita ante mortem e dispone per i pertinenti controlli di laboratorio sistematici o a sondaggio per escludere la presenza nelle carni di residui nocivi".
 
  Dopo l'articolo 2-bis, e' aggiunto il seguente articolo 2-ter:
- L'allegato A del [decreto del Presidente della Repubblica 10 agosto 1972, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-10;967), e' sostituito dal seguente:
+ L'allegato A del [decreto del Presidente della Repubblica 10 agosto 1972, n. 967](../DPR/Disciplina%20sanitaria%20della%20produzione%20e%20del%20commercio%20dei%20volatili%20dei%20conigli%20allevati%20e%20della%20selvaggina.md), e' sostituito dal seguente:
 
 
  ALLEGATO A 

@@ -18,7 +18,7 @@ IL PRESIDENTE DELLA REPUBBLICA Promulga la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 3 maggio 2001, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-05-03;159), recante proroga di termini in materia di acque di balneazione.
+E' convertito in legge il [decreto-legge 3 maggio 2001, n. 159](../DL%20proroghe/Proroga%20di%20termini%20in%20materia%20di%20acque%20di%20balneazione_3.md), recante proroga di termini in materia di acque di balneazione.
 
 2.
 

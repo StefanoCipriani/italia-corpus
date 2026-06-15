@@ -44,7 +44,7 @@ Il servizio prestato dagli ufficiali dell'Arma dei carabinieri e della Guardia d
 
 1.
 
-Restano ferme le disposizioni previste dalle [leggi 31 dicembre 1996, n. 675, e n. 676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;676), per quanto riguarda la protezione dei dati trattati in attuazione della convenzione di cui all'articolo 1 della presente legge.
+Restano ferme le disposizioni previste dalle [leggi 31 dicembre 1996, n. 675, e n. 676](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), per quanto riguarda la protezione dei dati trattati in attuazione della convenzione di cui all'articolo 1 della presente legge.
 
 2.
 

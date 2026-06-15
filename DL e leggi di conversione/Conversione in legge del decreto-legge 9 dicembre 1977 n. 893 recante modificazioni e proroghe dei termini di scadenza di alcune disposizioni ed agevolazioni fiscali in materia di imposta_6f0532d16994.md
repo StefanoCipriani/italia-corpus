@@ -20,7 +20,7 @@ E' convertito in legge il [decreto-legge 9 dicembre 1977, n. 893](https://www.no
 
 ## Art. 2.
 
-L'aliquota dell'imposta sugli spettacoli cinematografici di cui al n. 1 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640), e' fissata nella misura del 2 per cento per i prezzi netti di importo fino a L. 862 e nella misura del 21 per cento per i prezzi netti di importo non inferiore a L. 2.100.
+L'aliquota dell'imposta sugli spettacoli cinematografici di cui al n. 1 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), e' fissata nella misura del 2 per cento per i prezzi netti di importo fino a L. 862 e nella misura del 21 per cento per i prezzi netti di importo non inferiore a L. 2.100.
  Per i prezzi intermedi, da fissarsi in ogni caso a lire intere, l'aliquota e' stabilita in base alla seguente formula:
 
  y = 0,0153473 x - 11,2293

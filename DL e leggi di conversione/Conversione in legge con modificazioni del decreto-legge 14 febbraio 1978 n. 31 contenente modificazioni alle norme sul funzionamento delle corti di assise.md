@@ -33,7 +33,7 @@ E' convertito in legge il [decreto-legge 14 febbraio 1978, n. 31](https://www.no
 
 ## Art. 2.
 
-Il numero dei giudici popolari da comprendere nelle liste generali per le corti di assise e per le corti di assise d'appello, stabilito dalla tabella allegata al [decreto del Presidente della Repubblica 27 giugno 1957, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-27;465), e successive varianti, e' triplicato.
+Il numero dei giudici popolari da comprendere nelle liste generali per le corti di assise e per le corti di assise d'appello, stabilito dalla tabella allegata al [decreto del Presidente della Repubblica 27 giugno 1957, n. 465](../DPR/Determinazione%20del%20numero%20dei%20giudici%20popolari%20delle%20Corti%20di%20assise%20e%20delle%20Corti%20di%20assise%20di%20appello.md), e successive varianti, e' triplicato.
  L'aumento sara' attuato entro un anno dall'entrata in vigore della presente legge di conversione. Di esso non si terra' conto per i giudizi per i quali sono gia' convocate le corti di assise e le corti di assise di appello.
 
 ## Art. 3.

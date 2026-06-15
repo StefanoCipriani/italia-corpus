@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 7 maggio 1948, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;861), e' ratificato con le modificazioni seguenti:
+Il [decreto legislativo 7 maggio 1948, n. 861](../Decreti%20Legislativi/Adeguamento%20delle%20norme%20del%20decreto%20legislativo%20luogotenenziale%2031%20agosto%201945%20n.%20571%20alla%20condizione%20dei%20professori%20universitari.md), e' ratificato con le modificazioni seguenti:
  Art. 2. - Il secondo comma e' sostituito dal seguente:
  "Qualora, entro il termine anzidetto, la competente Facolta' non formuli la proposta di apertura del concorso, il Ministro, su parere conforme della stessa Facolta', provvede, nei due anni successivi, alla nomina di una Commissione di cinque membri eletti dalle Facolta' universitarie secondo la procedura prevista dall'[articolo 4 del decreto legislativo 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-04-05;238#art_4), ai fini ed ai sensi dell'art. 78, comma secondo, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592)".
  Art. 3. - Il primo comma e' sostituito dal seguente:

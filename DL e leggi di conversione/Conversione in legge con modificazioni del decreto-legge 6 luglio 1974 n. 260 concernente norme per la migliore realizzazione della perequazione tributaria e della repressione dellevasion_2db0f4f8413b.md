@@ -20,12 +20,12 @@ E' convertito in legge il [decreto-legge 6 luglio 1974, n. 260](https://www.norm
 
  All'articolo 2, il primo comma e' sostituito dal seguente:
 
- Il secondo periodo del [primo comma dell'articolo 21 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_21-com1), e' soppresso ed il quarto comma del predetto articolo 21 e' sostituito dal seguente: "La fattura deve essere emessa in duplice esemplare, dal soggetto che effettua la cessione o la prestazione, al momento di effettuazione dell'operazione determinata a norma dell'articolo 6 ed uno degli esemplari deve essere consegnato o spedito all'altra parte.
+ Il secondo periodo del [primo comma dell'articolo 21 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' soppresso ed il quarto comma del predetto articolo 21 e' sostituito dal seguente: "La fattura deve essere emessa in duplice esemplare, dal soggetto che effettua la cessione o la prestazione, al momento di effettuazione dell'operazione determinata a norma dell'articolo 6 ed uno degli esemplari deve essere consegnato o spedito all'altra parte.
 Per le cessioni di beni la cui consegna o spedizione risulti da documento di trasporto o da altro documento idoneo a identificare i soggetti tra i quali e' effettuata l'operazione ed avente le caratteristiche determinate con decreto del Ministro per le finanze, la fattura puo' essere emessa entro il mese successivo a quello della consegna o spedizione e deve contenere anche l'indicazione della data e del numero dei documenti stessi. In tale caso puo' essere emessa una sola fattura per le cessioni effettuate nel corso di un mese solare fra le stesse parti. Con lo stesso decreto sono determinate le modalita' per la tenuta e la conservazione dei predetti documenti".
 
  Dopo l'articolo 2, e' aggiunto il seguente:
 
- Art. 2-bis. - All'[articolo 73 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_73), al primo comma, dopo la parola: "operazioni", sono aggiunte le seguenti:
+ Art. 2-bis. - All'[articolo 73 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), al primo comma, dopo la parola: "operazioni", sono aggiunte le seguenti:
  "Lo stesso Ministro, con propri decreti, puo' altresi' determinare, per gli esercenti arti e professioni, le modalita' ed i termini per l'emissione, la numerazione, la registrazione e la conservazione delle fatture relativamente ad operazioni per le quali si rende particolarmente onerosa e complessa l'osservanza degli obblighi di cui al titolo II del presente decreto".
 
  Gli articoli 3, 4 e 5 sono soppressi.
@@ -33,7 +33,7 @@ Per le cessioni di beni la cui consegna o spedizione risulti da documento di tra
  L'articolo 6 e' sostituito con il seguente:
 
  Nelle fatture o nei documenti equipollenti emessi ai sensi delle norme concernenti l'imposta sul valore aggiunto deve essere indicato il numero di codice fiscale dei soggetti tra i quali e' effettuata l'operazione.
- Negli allegati indicati nell'[articolo 29 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_29), deve essere indicato il numero di codice fiscale dei cessionari dei beni o dei committenti dei servizi e degli altri soggetti indicati negli allegati stessi.
+ Negli allegati indicati nell'[articolo 29 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), deve essere indicato il numero di codice fiscale dei cessionari dei beni o dei committenti dei servizi e degli altri soggetti indicati negli allegati stessi.
 
  All'articolo 8 e' aggiunto, in fine, il seguente comma:
 
@@ -59,14 +59,14 @@ Per le cessioni di beni la cui consegna o spedizione risulti da documento di tra
 
 ## Art. 2.
 
-I termini previsti nel secondo e nel [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), gia' prorogati con l'articolo 2, ultimo comma, della [legge 24 luglio 1972, n. 321](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), sono ulteriormente prorogati rispettivamente al 31 dicembre 1975 ed al 31 dicembre 1977.
- Con i provvedimenti da emanare a norma del predetto [articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17), sara' disciplinata, con effetto dal 1 gennaio 1975, l'applicazione dell'imposta sul valore aggiunto nei confronti dei soggetti che nell'anno solare precedente hanno realizzato un volume di affari non superiore a 120 milioni di lire, in base ai seguenti principi e criteri direttivi, sostitutivi di quelli contenuti nel punto 11 dell'articolo 5 della citata legge:
+I termini previsti nel secondo e nel [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), gia' prorogati con l'articolo 2, ultimo comma, della [legge 24 luglio 1972, n. 321](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), sono ulteriormente prorogati rispettivamente al 31 dicembre 1975 ed al 31 dicembre 1977.
+ Con i provvedimenti da emanare a norma del predetto [articolo 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), sara' disciplinata, con effetto dal 1 gennaio 1975, l'applicazione dell'imposta sul valore aggiunto nei confronti dei soggetti che nell'anno solare precedente hanno realizzato un volume di affari non superiore a 120 milioni di lire, in base ai seguenti principi e criteri direttivi, sostitutivi di quelli contenuti nel punto 11 dell'articolo 5 della citata legge:
  1) pagamento a titolo d'imposta di una somma in misura fissa o in misura proporzionale al volume d'affari o a quello degli acquisti, versamento dell'imposta con la dichiarazione annuale ed esonero dagli obblighi di fatturazione, di registrazione e delle dichiarazioni periodiche, per i soggetti con volume d'affari annuo da considerare di modesta entita' tenuto conto degli orientamenti della Comunita' Economica Europea ed a quanto praticato dagli altri Paesi membri della Comunita' medesima;
  2) semplificazione delle modalita' relative agli obblighi di fatturazione, registrazione, dichiarazioni e versamento graduata in rapporto all'entita' del volume d'affari annuo.
 
 ## Art. 3.
 
-Le disposizioni di cui al [primo comma dell'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;605#art_17-com1), avranno effetto anziche' il 1 ottobre 1974 con decorrenza dal 1 aprile 1975.
+Le disposizioni di cui al [primo comma dell'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 605](../DPR/Disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20codice%20fiscale%20dei%20contribuenti.md), avranno effetto anziche' il 1 ottobre 1974 con decorrenza dal 1 aprile 1975.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

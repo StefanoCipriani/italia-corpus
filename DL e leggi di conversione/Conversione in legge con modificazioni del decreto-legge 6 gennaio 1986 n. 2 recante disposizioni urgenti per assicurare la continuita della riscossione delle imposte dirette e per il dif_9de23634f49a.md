@@ -22,7 +22,7 @@ Il [decreto-legge 6 gennaio 1986, n. 2](https://www.normattiva.it/uri-res/N2Ls?u
  
  Dopo l'articolo 1, e' aggiunto il seguente: 
  
- "Art. 1-bis. - 1. Per le somme riscosse a partire dal 1 aprile 1986 mediante versamenti diretti, la misura dell'aggio di riscossione di cui all'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;603#art_3-com2), e' pari al 52,5 per cento dell'aggio per la riscossione mediante ruoli. 
+ "Art. 1-bis. - 1. Per le somme riscosse a partire dal 1 aprile 1986 mediante versamenti diretti, la misura dell'aggio di riscossione di cui all'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 603](../DPR/Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), e' pari al 52,5 per cento dell'aggio per la riscossione mediante ruoli. 
  2. Gli esattori, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, possono chiedere al prefetto la risoluzione del contratto con effetto dal 1 luglio 1986". 
  All'articolo 5, comma 1, le parole: "dal 1 gennaio 1986 fino al 30 giugno 1986" sono sostituite con le seguenti: "dal 1 gennaio 1986 fino alla data di entrata in vigore della [legge 29 gennaio 1986, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-29;25),". 
  All'articolo 6 sono aggiunte, in fine, le parole: ", salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso". 

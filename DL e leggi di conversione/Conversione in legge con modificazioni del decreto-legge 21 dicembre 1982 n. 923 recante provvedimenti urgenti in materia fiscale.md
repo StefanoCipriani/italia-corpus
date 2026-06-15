@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 E' convertito in legge il [decreto-legge 21 dicembre 1982, n. 923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-21;923), recante provvedimenti urgenti in materia fiscale, con le seguenti modificazioni:
  All'articolo 1, e' aggiunto il seguente comma:
- "All'articolo 7, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), e successive modificazioni, e' soppressa la parola:
+ "All'articolo 7, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e' soppressa la parola:
  " diretta "".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

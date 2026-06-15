@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 Il [decreto-legge 6 luglio 1974, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-06;254), recante alcune maggiorazioni di aliquota in materia di imposizione indiretta, e' convertito in legge con le seguenti modificazioni:
 
  All'articolo 1 sono aggiunti i seguenti commi:
- "Per le operazioni soggette all'aliquota del 30 per cento, la percentuale di cui al [quarto comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com4), e' stabilita nel 23,05 per cento.
+ "Per le operazioni soggette all'aliquota del 30 per cento, la percentuale di cui al [quarto comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' stabilita nel 23,05 per cento.
  Per le cessioni e le importazioni di tabacchi lavorati l'imposta sul valore aggiunto e' dovuta nella misura indicata nelle tabelle allegato A, B, C, D, E al [decreto-legge 22 febbraio 1974, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-22;18), convertito nella [legge 3 aprile 1974, n. 106](Conversione%20in%20legge%20del%20decreto-legge%2022%20febbraio%201974%20n.%2018%20che%20modifica%20le%20tabelle%20allegate%20A%20B%20C%20D%20ed%20E%20al%20decreto-legge%2018%20dicembre%201972%20n.%20787%20convertito%20con%20modificazioni%20nella%20leg_be4eb8b42330.md)".
  All'articolo 3,
  le parole: "frattaglie e parti commestibili" sono sostituite dalle altre: "e parti commestibili, escluse le frattaglie", e dopo le parole: "della specie bovina" sono inserite le altre: "compresi quelli del genere bufalo";
@@ -36,7 +36,7 @@ Il [decreto-legge 6 luglio 1974, n. 254](https://www.normattiva.it/uri-res/N2Ls?
  "L'elevazione dell'aliquota non riguarda il settore dell'edilizia residenziale pubblica".
 
  Dopo l'articolo 5 e' inserito il seguente:
- "Art. 5-bis. - La riduzione all'1 per cento dell'aliquota dell'imposta sul valore aggiunto prevista dall'[articolo 78, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_78-com1), e' prorogata al 31 dicembre 1975.
+ "Art. 5-bis. - La riduzione all'1 per cento dell'aliquota dell'imposta sul valore aggiunto prevista dall'[articolo 78, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' prorogata al 31 dicembre 1975.
  La riduzione al 3 per cento dell'aliquota IVA prevista dall'[articolo 2 della legge 23 dicembre 1972, n. 821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-23;821#art_2), e' prorogata al 31 dicembre 1975".
 
  All'articolo 6,
@@ -49,7 +49,7 @@ Il [decreto-legge 6 luglio 1974, n. 254](https://www.normattiva.it/uri-res/N2Ls?
  dopo il numero 26) e' aggiunto il seguente: "27) gin e acqueviti, escluse quelle di vino, di vinacce e di frutta";
 
  sono aggiunti i seguenti commi:
- "Per gli acquisti e le importazioni dei prodotti indicati ai numeri 14), 22), 23), 24), 25) e 26) del precedente comma, la detrazione dell'imposta, prevista dall'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_19), e' ammessa anche quando i prodotti medesimi sono destinati dall'acquirente o dall'importatore ad essere utilizzati come beni strumentali nella attivita' propria dell'impresa. La detrazione e', altresi', ammessa quando l'acquisto o l'importazione dei prodotti stessi sono effettuati per il diretto impiego, come beni strumentali, nell'esercizio di un'arte o professione.
+ "Per gli acquisti e le importazioni dei prodotti indicati ai numeri 14), 22), 23), 24), 25) e 26) del precedente comma, la detrazione dell'imposta, prevista dall'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' ammessa anche quando i prodotti medesimi sono destinati dall'acquirente o dall'importatore ad essere utilizzati come beni strumentali nella attivita' propria dell'impresa. La detrazione e', altresi', ammessa quando l'acquisto o l'importazione dei prodotti stessi sono effettuati per il diretto impiego, come beni strumentali, nell'esercizio di un'arte o professione.
  I prodotti di cui ai numeri 22), 23), 24), 25) e 26), se acquistati o importati direttamente dall'utilizzatore, sono esclusi dai previsti aumenti, sempreche' destinati all'uso di scuole elementari e medie, di ospedali e di istituti di ricerca e comunque destinati a scopi scientifici e pedagogici.
  Sono altresi' esclusi dagli aumenti i consumi di metalli e di minerali, i fossili, gli insetti, i pesci, gli animali conservati o impagliati, gli scheletri, gusci e altre parti di animali che siano destinati alle raccolte delle scuole di ogni ordine e grado, alle universita' ed agli istituti di ricerca e comunque impiegati a scopi di studio e pedagogici".
  All'articolo 7,

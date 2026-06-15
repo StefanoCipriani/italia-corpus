@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 24 dicembre 2003, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-12-24;355), recante proroga di termini previsti da disposizioni legislative, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 24 dicembre 2003, n. 355](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), recante proroga di termini previsti da disposizioni legislative, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

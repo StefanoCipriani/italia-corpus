@@ -65,7 +65,7 @@ E' convertito in legge il [decreto-legge 3 febbraio 1970, n. 7](https://www.norm
  "Qualora il Ministro non si pronunci entro un anno, il ricorso si intende accolto". 
  All'articolo 18, secondo comma, dopo le parole "sono prorogate fino al 31 dicembre 1970" sono aggiunte le parole "e costituiscono titolo valido per il conseguimento da parte dei lavoratori delle prestazioni fino al 31 dicembre 1971". 
  E' aggiunto, in fine, il seguente comma: 
- "Le funzioni delle commissioni di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75), e successive modificazioni, vengono demandate alle commissioni locali per la manodopera agricola di cui al precedente articolo 6". 
+ "Le funzioni delle commissioni di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md), e successive modificazioni, vengono demandate alle commissioni locali per la manodopera agricola di cui al precedente articolo 6". 
  All'articolo 19, ultimo comma, le parole "agli articoli - 4, 5, 6, 8, 9, 10 e 11" sono sostituite con le parole "agli articoli 6, 8, 9, 10 e 11. 
  All'articolo 20, quarto comma, le parole "Sezione di collocamento" sono sostituite con le parole "Sezione dell'ufficio del lavoro". 
  Sono aggiunti, in fine, i seguenti commi: 
@@ -76,7 +76,7 @@ E' convertito in legge il [decreto-legge 3 febbraio 1970, n. 7](https://www.norm
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito con modificazioni dalla [L. 6 agosto 2008 n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) come modificato dall'[art. 38, comma 4 del D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_38-com4) non dispone piu' (con l'art. 24) l'abrogazione dell'intero provvedimento.
+Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito con modificazioni dalla [L. 6 agosto 2008 n. 133](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md) come modificato dall'[art. 38, comma 4 del D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_38-com4) non dispone piu' (con l'art. 24) l'abrogazione dell'intero provvedimento.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

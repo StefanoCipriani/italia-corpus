@@ -73,7 +73,7 @@ Rimane impregiudicata l'azione dell'ufficio delle imposte per l'accertamento rel
  All'articolo 11, primo comma, dopo le parole "dell'articolo precedente" sono inserite le seguenti "o all'esibizione della domanda di definizione vistata dall'ufficio finanziario a cui e' stata presentata" e sono aggiunte, in fine, le parole "restando compensate le spese di giudizio". 
  All'articolo 12, primo comma, le parole "Per il periodo di tre mesi a decorrere dalla data di entrata in vigore del presente decreto restano sospese l'azione di accertamento" sono sostituite con le seguenti "Fino alla data del 28 febbraio 1974 restano sospesi l'accertamento". 
  All'articolo 13, dopo il secondo comma, e' inserito il seguente: 
- "E' fatto salvo il disposto dell'[articolo 19, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;638#art_19-com1)".
+ "E' fatto salvo il disposto dell'[articolo 19, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](../DPR/Disposizioni%20per%20lattribuzione%20di%20somme%20agli%20enti%20indicati%20nellart.%2014%20della%20legge%209%20ottobre%201971%20n.%20825%20in%20sostituzione%20di%20tributi%20contributi%20e%20compartecipazioni%20e%20norme%20per%20la%20delegabil_3fbd056216dc.md)".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

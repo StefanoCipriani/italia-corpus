@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 12 aprile 1948, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;662), e' ratificato.
+Il [decreto legislativo 12 aprile 1948, n. 662](../Decreti%20Legislativi/Provvidenze%20in%20favore%20della%20produzione%20bacologica%20nella%20campagna%20serica%201947.md), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

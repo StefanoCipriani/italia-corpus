@@ -41,7 +41,7 @@ L'[articolo 24 della legge 24 maggio 1977, n. 227](https://www.normattiva.it/uri
 ## Art. 4.
 
 All'ultimo comma dell'[articolo 32 della legge 24 marzo 1977, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-03-24;227#art_32), e' aggiunto il seguente comma:
- "Alle operazioni di provvista all'estero destinate al finanziamento di esportazioni, assistite dal contributo del Mediocredito centrale, di cui all'articolo 23 - con o senza garanzia statale - e all'articolo 24 della presente legge, non si applica la disciplina prevista dallo [articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_26), e successive modificazioni ed integrazioni".
+ "Alle operazioni di provvista all'estero destinate al finanziamento di esportazioni, assistite dal contributo del Mediocredito centrale, di cui all'articolo 23 - con o senza garanzia statale - e all'articolo 24 della presente legge, non si applica la disciplina prevista dallo [articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni ed integrazioni".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

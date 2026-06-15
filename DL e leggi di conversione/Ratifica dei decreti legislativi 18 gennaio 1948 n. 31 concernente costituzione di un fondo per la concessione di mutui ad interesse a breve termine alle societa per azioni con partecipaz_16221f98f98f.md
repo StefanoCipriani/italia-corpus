@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-I [decreti legislativi 18 gennaio 1948, n. 31, e 21 aprile 1948, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-21;1073), sono ratificati.
+I [decreti legislativi 18 gennaio 1948, n. 31, e 21 aprile 1948, n. 1073](../Decreti%20Legislativi/Autorizzazione%20alla%20vendita%20di%20un%20complesso%20immobiliare%20dello%20Stato%20e%20aumento%20del%20fondo%20di%20cui%20al%20decreto%20legislativo%2018%20gennaio%201948%20n.%2031.md), sono ratificati.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

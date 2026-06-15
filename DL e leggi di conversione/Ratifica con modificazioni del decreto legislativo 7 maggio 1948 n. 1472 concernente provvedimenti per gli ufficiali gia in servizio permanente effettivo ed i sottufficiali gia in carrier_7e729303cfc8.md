@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 7 maggio 1948, n. 1472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1472), e' ratificato con la modificazione di cui al seguente art. 2.
+Il [decreto legislativo 7 maggio 1948, n. 1472](../Decreti%20Legislativi/Provvedimenti%20per%20gli%20ufficiali%20gia%20in%20servizio%20permanente%20effettivo%20ed%20i%20sottufficiali%20gia%20in%20carriera%20continuativa%20mutilati%20ed%20invalidi%20della%20guerra%201940-45.md), e' ratificato con la modificazione di cui al seguente art. 2.
 
 ## Art. 2.
 

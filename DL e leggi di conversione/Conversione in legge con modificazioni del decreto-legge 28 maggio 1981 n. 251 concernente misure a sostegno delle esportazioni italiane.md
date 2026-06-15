@@ -48,7 +48,7 @@ Il [decreto-legge 28 maggio 1981, n. 251](https://www.normattiva.it/uri-res/N2Ls
  Gli articoli 12, 13, 15, 16, 17, 18 e 19 sono soppressi;
  All'articolo 20:
  il primo comma e' sostituito dal seguente:
- "Oltre alla facolta' di avvalersi dell'istituto previsto dall'[articolo 56 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_56), per il raggiungimento delle finalita' previste dal presente decreto il Ministro del commercio con l'estero e' autorizzato ad utilizzare, per le sopravvenute eccezionali esigenze di servizio, personale di enti pubblici compresi quelli economici, nonche' di istituti di credito di diritto pubblico, nei limiti di un contingente di cinque unita'. Detto personale rimane a carico degli enti di provenienza";
+ "Oltre alla facolta' di avvalersi dell'istituto previsto dall'[articolo 56 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per il raggiungimento delle finalita' previste dal presente decreto il Ministro del commercio con l'estero e' autorizzato ad utilizzare, per le sopravvenute eccezionali esigenze di servizio, personale di enti pubblici compresi quelli economici, nonche' di istituti di credito di diritto pubblico, nei limiti di un contingente di cinque unita'. Detto personale rimane a carico degli enti di provenienza";
  il secondo comma e' soppresso;
  L'articolo 21 e' soppresso;
  All'articolo 22 sono aggiunti, in fine, i seguenti commi:

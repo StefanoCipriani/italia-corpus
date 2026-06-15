@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 19 dicembre 1997, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-19;438), recante proroga di termini per assicurare il finanziamento di progetti in materia di prevenzione e recupero dalle tossicodipendenze, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 19 dicembre 1997, n. 438](../DL%20proroghe/Proroga%20di%20termini%20per%20assicurare%20il%20finanziamento%20di%20progetti%20in%20materia%20di%20prevenzione%20e%20recupero%20dalle%20tossicodipendenze.md), recante proroga di termini per assicurare il finanziamento di progetti in materia di prevenzione e recupero dalle tossicodipendenze, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 
