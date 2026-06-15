@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 4 AGOSTO 1993, N. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-04;271)
+ DALLA [L. 4 AGOSTO 1993, N. 271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20giugno%201993%20n.%20169%20recante%20disposizioni%20urgenti%20per%20i%20lavoratori%20del%20settore%20dellamianto.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 4 AGOSTO 1993, N. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-04;271)
+ DALLA [L. 4 AGOSTO 1993, N. 271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20giugno%201993%20n.%20169%20recante%20disposizioni%20urgenti%20per%20i%20lavoratori%20del%20settore%20dellamianto.md)

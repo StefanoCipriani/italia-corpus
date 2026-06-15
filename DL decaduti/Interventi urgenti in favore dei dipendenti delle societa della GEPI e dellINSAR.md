@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 4 DICEMBRE 1993, N. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;501)
+ DALLA [L. 4 DICEMBRE 1993, N. 501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201993%20n.%20404%20recante%20interventi%20urgenti%20in%20favore%20dei%20dipendenti%20delle%20societa%20della%20GEPI%20e%20dellINSAR.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 4 DICEMBRE 1993, N. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;501)
+ DALLA [L. 4 DICEMBRE 1993, N. 501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201993%20n.%20404%20recante%20interventi%20urgenti%20in%20favore%20dei%20dipendenti%20delle%20societa%20della%20GEPI%20e%20dellINSAR.md)

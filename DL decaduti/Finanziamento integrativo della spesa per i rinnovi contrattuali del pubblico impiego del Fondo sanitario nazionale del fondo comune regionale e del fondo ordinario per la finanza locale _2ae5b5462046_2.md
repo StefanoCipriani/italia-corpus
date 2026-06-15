@@ -11,24 +11,24 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 26 OTTOBRE 1987, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-26;434)
+ [L. 26 OTTOBRE 1987, N. 434](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201987%20n.%20355%20recante%20finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sani_68cb8eab6c93.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 26 OTTOBRE 1987, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-26;434)
+ [L. 26 OTTOBRE 1987, N. 434](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201987%20n.%20355%20recante%20finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sani_68cb8eab6c93.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 26 OTTOBRE 1987, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-26;434)
+ [L. 26 OTTOBRE 1987, N. 434](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201987%20n.%20355%20recante%20finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sani_68cb8eab6c93.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 26 OTTOBRE 1987, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-26;434)
+ [L. 26 OTTOBRE 1987, N. 434](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201987%20n.%20355%20recante%20finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sani_68cb8eab6c93.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 26 OTTOBRE 1987, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-26;434)
+ [L. 26 OTTOBRE 1987, N. 434](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201987%20n.%20355%20recante%20finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sani_68cb8eab6c93.md)

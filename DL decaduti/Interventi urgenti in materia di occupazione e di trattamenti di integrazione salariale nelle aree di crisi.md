@@ -11,24 +11,24 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 27 DICEMBRE 1997, N. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449)
+ [L. 27 DICEMBRE 1997, N. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 27 DICEMBRE 1997, N. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449)
+ [L. 27 DICEMBRE 1997, N. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 27 DICEMBRE 1997, N. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449)
+ [L. 27 DICEMBRE 1997, N. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 27 DICEMBRE 1997, N. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449)
+ [L. 27 DICEMBRE 1997, N. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 27 DICEMBRE 1997, N. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449)
+ [L. 27 DICEMBRE 1997, N. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md)

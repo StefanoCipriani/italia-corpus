@@ -11,39 +11,39 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 7.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
 ## Art. 8.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 23 DICEMBRE 1996, N. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
+ [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md)
 
 ## Art. 2.
 

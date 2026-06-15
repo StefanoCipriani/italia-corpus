@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 21 OTTOBRE 1994, N. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-21;593)
+ [L. 21 OTTOBRE 1994, N. 593](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20agosto%201994%20n.%20524%20recante%20interventi%20straordinari%20per%20il%20completamento%20del%20palazzo%20di%20giustizia%20di%20Napoli%20e%20per%20lorganizzazione%20e%20lo%20svolgimento_a057697f434f.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 21 OTTOBRE 1994, N. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-21;593)
+ [L. 21 OTTOBRE 1994, N. 593](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20agosto%201994%20n.%20524%20recante%20interventi%20straordinari%20per%20il%20completamento%20del%20palazzo%20di%20giustizia%20di%20Napoli%20e%20per%20lorganizzazione%20e%20lo%20svolgimento_a057697f434f.md)

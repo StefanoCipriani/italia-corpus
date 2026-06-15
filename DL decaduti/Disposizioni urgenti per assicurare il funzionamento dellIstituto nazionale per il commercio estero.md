@@ -11,24 +11,24 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-28;600)
+ SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20agosto%201994%20n.%20522%20recante%20disposizioni%20urgenti%20per%20assicurare%20il%20funzionamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-28;600)
+ SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20agosto%201994%20n.%20522%20recante%20disposizioni%20urgenti%20per%20assicurare%20il%20funzionamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-28;600)
+ SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20agosto%201994%20n.%20522%20recante%20disposizioni%20urgenti%20per%20assicurare%20il%20funzionamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-28;600)
+ SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20agosto%201994%20n.%20522%20recante%20disposizioni%20urgenti%20per%20assicurare%20il%20funzionamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-28;600)
+ SONO STATI FATTI SALVI DALLA [L. 28 OTTOBRE 1994 N. 600](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20agosto%201994%20n.%20522%20recante%20disposizioni%20urgenti%20per%20assicurare%20il%20funzionamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md)

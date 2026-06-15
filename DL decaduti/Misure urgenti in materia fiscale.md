@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 3 AGOSTO 2007, N. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;127)
+ [L. 3 AGOSTO 2007, N. 127](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20luglio%202007%20n.%2081%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 3 AGOSTO 2007, N. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;127)
+ [L. 3 AGOSTO 2007, N. 127](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20luglio%202007%20n.%2081%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria.md)

@@ -11,29 +11,29 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 14 NOVEMBRE 1987, N. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468)
+ [L. 14 NOVEMBRE 1987, N. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 14 NOVEMBRE 1987, N. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468)
+ [L. 14 NOVEMBRE 1987, N. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 14 NOVEMBRE 1987, N. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468)
+ [L. 14 NOVEMBRE 1987, N. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 14 NOVEMBRE 1987, N. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468)
+ [L. 14 NOVEMBRE 1987, N. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 14 NOVEMBRE 1987, N. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468)
+ [L. 14 NOVEMBRE 1987, N. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md)
 
 ## Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 14 NOVEMBRE 1987, N. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468)
+ [L. 14 NOVEMBRE 1987, N. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md)

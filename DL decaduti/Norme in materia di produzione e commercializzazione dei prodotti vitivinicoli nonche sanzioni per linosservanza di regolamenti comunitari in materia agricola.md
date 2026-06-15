@@ -11,34 +11,34 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)
 
 ## Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)
 
 ## Art. 7.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 4 NOVEMBRE 1987, N. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460)
+ [L. 4 NOVEMBRE 1987, N. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md)

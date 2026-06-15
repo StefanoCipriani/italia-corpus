@@ -11,34 +11,34 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)
 
 ## Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)
 
 ## Art. 7.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
- DALLA [L. 31 MAGGIO 1995, N. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;206)
+ DALLA [L. 31 MAGGIO 1995, N. 206](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2096%20recante%20interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20de_c39a03c134fb.md)

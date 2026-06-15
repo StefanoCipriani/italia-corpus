@@ -11,29 +11,29 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)
 
 ## Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)

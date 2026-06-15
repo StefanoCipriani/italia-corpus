@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 22 MARZO 1995, N. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;84)
+ SONO STATI FATTI SALVI DALLA [L. 22 MARZO 1995, N. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20gennaio%201995%20n.%2021%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI 
- SONO STATI FATTI SALVI DALLA [L. 22 MARZO 1995, N. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;84)
+ SONO STATI FATTI SALVI DALLA [L. 22 MARZO 1995, N. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20gennaio%201995%20n.%2021%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md)

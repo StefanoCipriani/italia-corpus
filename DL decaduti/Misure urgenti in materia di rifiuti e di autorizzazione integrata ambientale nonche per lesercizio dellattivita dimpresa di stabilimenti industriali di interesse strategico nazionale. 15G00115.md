@@ -10,15 +10,15 @@ vigente: true
 
 ## Art. 1.
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 6 AGOSTO 2015, N. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;125)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 6 AGOSTO 2015, N. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md)
 
 ## Art. 2.
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 6 AGOSTO 2015, N. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;125)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 6 AGOSTO 2015, N. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md)
 
 ## Art. 3.
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 6 AGOSTO 2015, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;132) 
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 6 AGOSTO 2015, N. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202015%20n.%2083%20recante%20misure%20urgenti%20in%20materia%20fallimentare%20civile%20e%20processuale%20civile%20e%20di%20organizzazione%20e%20funzionament_f6cc9b6d644d.md) 
  
  ((3))
 

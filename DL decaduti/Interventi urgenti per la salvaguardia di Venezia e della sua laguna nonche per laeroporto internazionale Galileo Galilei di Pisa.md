@@ -11,14 +11,14 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI
- SONO STATI FATTI SALVI DALLA [L. 4 OTTOBRE 1996, N. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-04;515)
+ SONO STATI FATTI SALVI DALLA [L. 4 OTTOBRE 1996, N. 515](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20agosto%201996%20n.%20408%20recante%20interventi%20urgenti%20per%20la%20salvaguardia%20di%20Venezia%20e%20della%20sua%20laguna%20nonche%20per%20laeroporto%20internazio_3592f487ca35.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI
- SONO STATI FATTI SALVI DALLA [L. 4 OTTOBRE 1996, N. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-04;515)
+ SONO STATI FATTI SALVI DALLA [L. 4 OTTOBRE 1996, N. 515](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20agosto%201996%20n.%20408%20recante%20interventi%20urgenti%20per%20la%20salvaguardia%20di%20Venezia%20e%20della%20sua%20laguna%20nonche%20per%20laeroporto%20internazio_3592f487ca35.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI
- SONO STATI FATTI SALVI DALLA [L. 4 OTTOBRE 1996, N. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-04;515)
+ SONO STATI FATTI SALVI DALLA [L. 4 OTTOBRE 1996, N. 515](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20agosto%201996%20n.%20408%20recante%20interventi%20urgenti%20per%20la%20salvaguardia%20di%20Venezia%20e%20della%20sua%20laguna%20nonche%20per%20laeroporto%20internazio_3592f487ca35.md)

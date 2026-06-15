@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 1 AGOSTO 2003, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;200)
+ [L. 1 AGOSTO 2003, N. 200](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202003%20n.%20147%20recante%20proroga%20di%20termini%20e%20disposizioni%20urgenti%20ordinamentali.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 1 AGOSTO 2003, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;200)
+ [L. 1 AGOSTO 2003, N. 200](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202003%20n.%20147%20recante%20proroga%20di%20termini%20e%20disposizioni%20urgenti%20ordinamentali.md)

@@ -11,22 +11,22 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
- SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873)
+ SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
- SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873)
+ SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO
- SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873)
+ SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO
- SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873)
+ SONO STATI FATTI SALVI DALLA [L. 27 NOVEMBRE 1982, N. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md)
 
 ## Art. 5.
 

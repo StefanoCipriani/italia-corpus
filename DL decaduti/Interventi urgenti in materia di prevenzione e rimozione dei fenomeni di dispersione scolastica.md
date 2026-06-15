@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 1 DICEMBRE 1993, N. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-01;484)
+ DALLA [L. 1 DICEMBRE 1993, N. 484](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201993%20n.%20391%20recante%20interventi%20urgenti%20in%20materia%20di%20prevenzione%20e%20rimozione%20dei%20fenomeni%20di%20dispersione%20scolastica.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 1 DICEMBRE 1993, N. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-01;484)
+ DALLA [L. 1 DICEMBRE 1993, N. 484](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201993%20n.%20391%20recante%20interventi%20urgenti%20in%20materia%20di%20prevenzione%20e%20rimozione%20dei%20fenomeni%20di%20dispersione%20scolastica.md)

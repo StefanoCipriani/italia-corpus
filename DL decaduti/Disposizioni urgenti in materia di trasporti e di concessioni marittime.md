@@ -15,17 +15,17 @@ Capo I
 ### Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 5 MAGGIO 1989, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
 ### Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 5 MAGGIO 1989, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
 ### Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 5 MAGGIO 1989, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
 ## NORME IN MATERIA DI TRASPORTI MARITTIMI E CONCESSIONI DEMANIALI MARITTIME
 
@@ -34,14 +34,14 @@ Capo II
 ### Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 5 MAGGIO 1989, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
 ### Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 5 MAGGIO 1989, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
 ### Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 5 MAGGIO 1989, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)

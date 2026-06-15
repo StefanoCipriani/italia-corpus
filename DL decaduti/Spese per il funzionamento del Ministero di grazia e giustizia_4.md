@@ -11,24 +11,24 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 20 NOVEMBRE 1992, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-20;451)
+ [L. 20 NOVEMBRE 1992, N. 451](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20settembre%201992%20n.%20387%20recante%20spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 20 NOVEMBRE 1992, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-20;451)
+ [L. 20 NOVEMBRE 1992, N. 451](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20settembre%201992%20n.%20387%20recante%20spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 20 NOVEMBRE 1992, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-20;451)
+ [L. 20 NOVEMBRE 1992, N. 451](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20settembre%201992%20n.%20387%20recante%20spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 20 NOVEMBRE 1992, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-20;451)
+ [L. 20 NOVEMBRE 1992, N. 451](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20settembre%201992%20n.%20387%20recante%20spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 20 NOVEMBRE 1992, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-20;451)
+ [L. 20 NOVEMBRE 1992, N. 451](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20settembre%201992%20n.%20387%20recante%20spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia.md)

@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 1 GIUGNO 1993, N. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-01;178)
+ [L. 1 GIUGNO 1993, N. 178](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201993%20n.%20102%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20del%20consiglio%20di%20amministrazione%20delle%20poste%20e%20delle%20telecomunicazioni.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
- [L. 1 GIUGNO 1993, N. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-01;178)
+ [L. 1 GIUGNO 1993, N. 178](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201993%20n.%20102%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20del%20consiglio%20di%20amministrazione%20delle%20poste%20e%20delle%20telecomunicazioni.md)

@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 24 FEBBRAIO 1992, N. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;173)
+ DALLA [L. 24 FEBBRAIO 1992, N. 173](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20dicembre%201991%20n.%20418%20recante%20modifica%20del%20termine%20in%20materia%20di%20giudizio%20disciplinare%20nei%20confronti%20di%20magistrati%20ordinari.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 24 FEBBRAIO 1992, N. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;173)
+ DALLA [L. 24 FEBBRAIO 1992, N. 173](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20dicembre%201991%20n.%20418%20recante%20modifica%20del%20termine%20in%20materia%20di%20giudizio%20disciplinare%20nei%20confronti%20di%20magistrati%20ordinari.md)

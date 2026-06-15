@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 30 MAGGIO 1985, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-30;211)
+ [L. 30 MAGGIO 1985, N. 211](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20aprile%201985%20n.%20114%20recante%20provvedimenti%20in%20favore%20della%20popolazione%20di%20Zafferana%20Etnea%20ed%20altre%20disposizioni%20in%20materia%20di%20calamita%20naturali.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 30 MAGGIO 1985, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-30;211)
+ [L. 30 MAGGIO 1985, N. 211](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20aprile%201985%20n.%20114%20recante%20provvedimenti%20in%20favore%20della%20popolazione%20di%20Zafferana%20Etnea%20ed%20altre%20disposizioni%20in%20materia%20di%20calamita%20naturali.md)

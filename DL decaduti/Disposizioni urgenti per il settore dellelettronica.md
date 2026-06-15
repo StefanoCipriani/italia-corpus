@@ -11,19 +11,19 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 22 MAGGIO 1993, N. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
+ DALLA [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 22 MAGGIO 1993, N. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
+ DALLA [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 22 MAGGIO 1993, N. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
+ DALLA [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 22 MAGGIO 1993, N. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
+ DALLA [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)

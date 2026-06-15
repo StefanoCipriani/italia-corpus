@@ -11,9 +11,9 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI
- SONO STATI FATTI SALVI DALLA [L. 16 FEBBRAIO 1996, N. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-16;71)
+ SONO STATI FATTI SALVI DALLA [L. 16 FEBBRAIO 1996, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201995%20n.%20573%20recante%20disposizioni%20urgenti%20concernenti%20il%20differimento%20dei%20termini%20di%20cui%20allarticolo%201%20commi%201%20e%203%20del%20_88c970f9612a.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI
- SONO STATI FATTI SALVI DALLA [L. 16 FEBBRAIO 1996, N. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-16;71)
+ SONO STATI FATTI SALVI DALLA [L. 16 FEBBRAIO 1996, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201995%20n.%20573%20recante%20disposizioni%20urgenti%20concernenti%20il%20differimento%20dei%20termini%20di%20cui%20allarticolo%201%20commi%201%20e%203%20del%20_88c970f9612a.md)

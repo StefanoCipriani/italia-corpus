@@ -11,29 +11,29 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 29 MARZO 1995, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95)
+ DALLA [L. 29 MARZO 1995, N. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 29 MARZO 1995, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95)
+ DALLA [L. 29 MARZO 1995, N. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 29 MARZO 1995, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95)
+ DALLA [L. 29 MARZO 1995, N. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 29 MARZO 1995, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95)
+ DALLA [L. 29 MARZO 1995, N. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md)
 
 ## Art. 5.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 29 MARZO 1995, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95)
+ DALLA [L. 29 MARZO 1995, N. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md)
 
 ## Art. 6.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
- DALLA [L. 29 MARZO 1995, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95)
+ DALLA [L. 29 MARZO 1995, N. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md)

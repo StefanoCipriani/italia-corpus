@@ -11,19 +11,19 @@ vigente: true
 ## Art. 1.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 8 AGOSTO 1995, N. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;343)
+ [L. 8 AGOSTO 1995, N. 343](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20luglio%201995%20n.%20287%20recante%20misure%20straordinarie%20ed%20urgenti%20in%20favore%20del%20settore%20portuale%20e%20delle%20imprese%20navalmeccaniche%20ed%20armatoriali.md)
 
 ## Art. 2.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 8 AGOSTO 1995, N. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;343)
+ [L. 8 AGOSTO 1995, N. 343](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20luglio%201995%20n.%20287%20recante%20misure%20straordinarie%20ed%20urgenti%20in%20favore%20del%20settore%20portuale%20e%20delle%20imprese%20navalmeccaniche%20ed%20armatoriali.md)
 
 ## Art. 3.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 8 AGOSTO 1995, N. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;343)
+ [L. 8 AGOSTO 1995, N. 343](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20luglio%201995%20n.%20287%20recante%20misure%20straordinarie%20ed%20urgenti%20in%20favore%20del%20settore%20portuale%20e%20delle%20imprese%20navalmeccaniche%20ed%20armatoriali.md)
 
 ## Art. 4.
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
- [L. 8 AGOSTO 1995, N. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;343)
+ [L. 8 AGOSTO 1995, N. 343](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20luglio%201995%20n.%20287%20recante%20misure%20straordinarie%20ed%20urgenti%20in%20favore%20del%20settore%20portuale%20e%20delle%20imprese%20navalmeccaniche%20ed%20armatoriali.md)

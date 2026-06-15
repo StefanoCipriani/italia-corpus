@@ -31,7 +31,7 @@ DECRETO DECADUTO
 ### Art. 4.
 
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
- SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
+ SONO STATI FATTI SALVI DALLA [L. 19 MARZO 1993, N. 70](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%2011%20recante%20rivalutazione%20delle%20pensioni%20erogate%20dai%20fondi%20speciali%20gestiti%20dallINPS.md)
 
 ## NORME IN MATERIA DI LAVORO
 
@@ -56,7 +56,7 @@ Capo IV
 ### Art. 8.
 
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
- SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;292)
+ SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%201993%20n.%20198%20recante%20norme%20urgenti%20sullaccertamento%20definitivo%20del%20capitale%20iniziale%20degli%20enti%20pubblici%20trasformati%20in%20s_4fb3d9971802.md)
 
 ## DISPOSIZIONI DIVERSE
 
