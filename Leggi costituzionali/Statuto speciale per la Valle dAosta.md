@@ -247,7 +247,7 @@ Il ((Presidente della Regione)) , la Giunta e gli assessori che la compongono so
 
 AGGIORNAMENTO (2)
 
-La [L. Costituzionale 31 gennaio 2001, n.2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-01-31;2) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 33 dello Statuto speciale per la Valle d'Aosta continuano ad applicarsi sino alla data di entrata in vigore della legge regionale che disciplina le modalita' di elezione del Presidente della Regione e degli assessori, di cui al secondo comma dell'articolo 15 del medesimo Statuto, come modificato dal comma 1 del presente articolo."
+La [L. Costituzionale 31 gennaio 2001, n.2](Disposizioni%20concernenti%20lelezione%20diretta%20dei%20presidenti%20delle%20regioni%20a%20statuto%20speciale%20e%20delle%20province%20autonome%20di%20Trento%20e%20di%20Bolzano.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 33 dello Statuto speciale per la Valle d'Aosta continuano ad applicarsi sino alla data di entrata in vigore della legge regionale che disciplina le modalita' di elezione del Presidente della Regione e degli assessori, di cui al secondo comma dell'articolo 15 del medesimo Statuto, come modificato dal comma 1 del presente articolo."
 
 ### Art. 34.
 
