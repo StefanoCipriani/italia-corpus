@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
+Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
-Visti gli articoli 60 e 62 della predetta [legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5);
+Visti gli articoli 60 e 62 della predetta [legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Visto il [decreto del Presidente della Repubblica 5 aprile 1949, n. 172](Norme%20di%20attuazione%20di%20alcune%20disposizioni%20finanziarie%20contenute%20nello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), concernente le norme di attuazione di alcune disposizioni finanziarie contenute nello Statuto speciale per il Trentino-Alto Adige;
 
@@ -43,7 +43,7 @@ Il gettito dei tributi e degli altri proventi, di cui agli articoli 1 e 2 del pr
 
 ## Art. 4.
 
-Le altre norme di attuazione dello Statuto speciale per il Trentino-Alto Adige saranno emanate con successivi decreti a termini dell'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95).
+Le altre norme di attuazione dello Statuto speciale per il Trentino-Alto Adige saranno emanate con successivi decreti a termini dell'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

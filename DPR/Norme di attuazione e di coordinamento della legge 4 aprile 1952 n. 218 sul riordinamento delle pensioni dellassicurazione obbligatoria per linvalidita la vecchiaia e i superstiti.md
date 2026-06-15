@@ -62,8 +62,8 @@ I contributi dovuti alle assicurazioni obbligatorie per la invalidita', la vecch
 -----------------
  
 AGGIORNAMENTO (26) 
- Il [D.L. 30 gennaio 1979, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;20), convertito con modificazioni dalla [L. 31 marzo 1979, n. 92](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201979%20n.%2020%20concernente%20proroga%20al%2030%20giugno%201979%20delle%20disposizioni%20relative%20al%20contenimento%20del%20costo%20del%20lavoro%20nonch_15fcc93cd66c.md), ha disposto (con l'art.3) che " Il termine per il versamento dei contributi di cui all'[art. 6, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_6-com1) e [secondo comma, del decreto del Presidente della Repubblica 26 aprile 1957, n. 
-818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_6-com2), e' fissato al venticinquesimo giorno del mese successivo a quello nel quale e' compresa la scadenza dei periodi di paga ai quali 
+ Il [D.L. 30 gennaio 1979, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;20), convertito con modificazioni dalla [L. 31 marzo 1979, n. 92](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201979%20n.%2020%20concernente%20proroga%20al%2030%20giugno%201979%20delle%20disposizioni%20relative%20al%20contenimento%20del%20costo%20del%20lavoro%20nonch_15fcc93cd66c.md), ha disposto (con l'art.3) che " Il termine per il versamento dei contributi di cui all'[art. 6, primo](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md) e [secondo comma, del decreto del Presidente della Repubblica 26 aprile 1957, n. 
+818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), e' fissato al venticinquesimo giorno del mese successivo a quello nel quale e' compresa la scadenza dei periodi di paga ai quali 
 i contributi si riferiscono."
 
 ### Art. 7.
@@ -87,7 +87,7 @@ Le marche assicurative relative a periodi anteriori di oltre 5 anni alla data di
 
 AGGIORNAMENTO (10)
 
-La Corte Costituzionale con sentenza 10 aprile 1962, n. 38 (in G.U. 1a s.s. 10/4/1962, n. 110) ha dichiarato l'illegittimita' costituzionale "dell'[art. 9 del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_9), in relazione all'art. 37 della legge 4 aprile 1952. n. 218. e con riferimento agli artt. 76 e 77 della Costituzione."
+La Corte Costituzionale con sentenza 10 aprile 1962, n. 38 (in G.U. 1a s.s. 10/4/1962, n. 110) ha dichiarato l'illegittimita' costituzionale "dell'[art. 9 del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'art. 37 della legge 4 aprile 1952. n. 218. e con riferimento agli artt. 76 e 77 della Costituzione."
 
 ### Art. 10.
 
@@ -98,12 +98,12 @@ I periodi di cui all'[art. 56, lett. a), numeri 1](https://www.normattiva.it/uri
 ----------------
  
 AGGIORNAMENTO (5) 
- La Corte Costituzionale con sentenza 28 febbraio-11 marzo 1961, n. 2 (in G.U. 1a s.s. 18/3/1961, n. 70) ha dichiarato l'illegittimita' "costituzionale dell'[art. 10, secondo comma, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_10-com2), in relazione agli [artt. 56 del R.D.L. 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_56), e [4, quarto comma, della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_4-com4), - secondo il quale "l'assicurato deve inoltre far valere un anno di contribuzione nell'assicurazione per l'invalidita'... nel quinquennio antecedente... ciascun periodo di degenza sanatoriale" - in riferimento agli [artt. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e 76 della Costituzione;". 
+ La Corte Costituzionale con sentenza 28 febbraio-11 marzo 1961, n. 2 (in G.U. 1a s.s. 18/3/1961, n. 70) ha dichiarato l'illegittimita' "costituzionale dell'[art. 10, secondo comma, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione agli [artt. 56 del R.D.L. 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_56), e [4, quarto comma, della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_4-com4), - secondo il quale "l'assicurato deve inoltre far valere un anno di contribuzione nell'assicurazione per l'invalidita'... nel quinquennio antecedente... ciascun periodo di degenza sanatoriale" - in riferimento agli [artt. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e 76 della Costituzione;". 
  
 -------------------
  
 AGGIORNAMENTO (23) 
- La Corte Costituzionale con sentenza 24 giugno-9 luglio, n. 125 (in G.U. 1a s.s. 15/7/1970, n. 177) ha dichiarato l'illegittimita' costituzionale dell'art. 10, ultimo comma, del [D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818), contenente norme di attuazione e di coordinamento della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, nella parte in cui esclude il riconoscimento del periodo di servizio militare prestato dal 25 maggio 1915 al 1 luglio 1920 quando sia computabile per le pensioni a carico di altre forme di previdenza, anziche' escluderlo solo quando per tali pensioni sia 
+ La Corte Costituzionale con sentenza 24 giugno-9 luglio, n. 125 (in G.U. 1a s.s. 15/7/1970, n. 177) ha dichiarato l'illegittimita' costituzionale dell'art. 10, ultimo comma, del [D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), contenente norme di attuazione e di coordinamento della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, nella parte in cui esclude il riconoscimento del periodo di servizio militare prestato dal 25 maggio 1915 al 1 luglio 1920 quando sia computabile per le pensioni a carico di altre forme di previdenza, anziche' escluderlo solo quando per tali pensioni sia 
 stato effettivamente computato."
 
 ### Art. 11.
@@ -114,7 +114,7 @@ Per ottenere il riconoscimento dei periodi di malattia di cui all'[art. 56, lett
 ----------------
  
 AGGIORNAMENTO (5) 
- La Corte Costituzionale con sentenza 28 febbraio-11 marzo 1961, n. 2 (in G.U. 1a s.s. 18/3/1961, n. 70) ha dichiarato l'illegittimita' "costituzionale dell'art. 11, parte ultima, del [D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818), in relazione all'[art. 38, comma primo, del R. D. 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422#art_38-com1) - secondo il quale "non sono riconosciute ai fini predetti (dei contributi assicurativi) le malattie di durata inferiore ai quindici giorni" - in riferimento agli [artt. 37 della 
+ La Corte Costituzionale con sentenza 28 febbraio-11 marzo 1961, n. 2 (in G.U. 1a s.s. 18/3/1961, n. 70) ha dichiarato l'illegittimita' "costituzionale dell'art. 11, parte ultima, del [D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'[art. 38, comma primo, del R. D. 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422#art_38-com1) - secondo il quale "non sono riconosciute ai fini predetti (dei contributi assicurativi) le malattie di durata inferiore ai quindici giorni" - in riferimento agli [artt. 37 della 
 legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e 76 della Costituzione;"
 
 ### Art. 12.
@@ -128,14 +128,14 @@ I periodi di interruzione obbligatoria del lavoro durante lo stato di gravidanza
 AGGIORNAMENTO (12)
 
 La Corte Costituzionale con sentenza 5-12 febbraio, n. 4 (in G.U.
-1a s.s. 16/2/1963, n. 45) ha dichiarato l'illegittimita' costituzionale " della norma contenuta nell'[art. 12, comma secondo, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_12-com2), in relazione agli [artt. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;56#art_22) e [37 della legge 4 aprile 1952, n. 218, 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;56#art_37), lett. a, n. 3, [lett. b](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_letb) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_lete) [c, del R.D.L. 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_letc), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), ed in riferimento all'art. 76 della Costituzione."
+1a s.s. 16/2/1963, n. 45) ha dichiarato l'illegittimita' costituzionale " della norma contenuta nell'[art. 12, comma secondo, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione agli [artt. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;56#art_22) e [37 della legge 4 aprile 1952, n. 218, 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;56#art_37), lett. a, n. 3, [lett. b](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_letb) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_lete) [c, del R.D.L. 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_letc), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), ed in riferimento all'art. 76 della Costituzione."
 
 ------------------
 
 AGGIORNAMENTO (19)
 
 La Corte Costituzionale con sentenza 12-15 dicembre 1967, n. 152
-(in G.U. 1a s.s. 23/12/1967, n. 321) ha dichiarato l'illegittimita' costituzionale "dell'[art. 12, primo comma, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_12-com1) (che detta norma di attuazione e di coordinamento della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti) in relazione agli artt. 56, lett. a, n. 3 del [R.D.L. 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), e 37 della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), ed in riferimento all'art. 76 della costituzione."
+(in G.U. 1a s.s. 23/12/1967, n. 321) ha dichiarato l'illegittimita' costituzionale "dell'[art. 12, primo comma, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md) (che detta norma di attuazione e di coordinamento della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti) in relazione agli artt. 56, lett. a, n. 3 del [R.D.L. 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), e 37 della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), ed in riferimento all'art. 76 della costituzione."
 
 ### Art. 13.
 
@@ -147,7 +147,7 @@ L'importo dei contributi che possono essere riconosciuti per i periodi di cui ag
 
 AGGIORNAMENTO (15)
 
-La Corte Costituzionale con sentenza 27 giugno-3 luglio 1963, n. 112 (in G.U. 1a s.s. 6/7/1963, n. 180) ha dichiarato l'illegittimita' costituzionale "dell'[art. 13, terzo comma, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_13-com3), in relazione agli [artt. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_4),[27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_27) e [37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), ed in riferimento agli artt. 76 e 77 della Costituzione."
+La Corte Costituzionale con sentenza 27 giugno-3 luglio 1963, n. 112 (in G.U. 1a s.s. 6/7/1963, n. 180) ha dichiarato l'illegittimita' costituzionale "dell'[art. 13, terzo comma, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione agli [artt. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_4),[27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_27) e [37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), ed in riferimento agli artt. 76 e 77 della Costituzione."
 
 ### Art. 14.
 
@@ -163,7 +163,7 @@ L'assicurato ammesso alla contribuzione volontaria deve risultare in possesso al
 
 AGGIORNAMENTO (7)
 
-La Corte Costituzionale con sentenza 21-30 dicembre 1961, n. 75 (in G.U. 1a s.s. 5/1/1962, n. 5) ha dichiarato l'illegittimita' costituzionale "dell'[art. 15 del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_15), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e con 
+La Corte Costituzionale con sentenza 21-30 dicembre 1961, n. 75 (in G.U. 1a s.s. 5/1/1962, n. 5) ha dichiarato l'illegittimita' costituzionale "dell'[art. 15 del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e con 
 riferimento all'art. 76 della Costituzione."
 
 ### Art. 16.
@@ -174,7 +174,7 @@ I contributi volontari per l'assicurazione per l'invalidita', la vecchiaia e i s
 ----------------
  
  AGGIORNAMENTO (3) 
-La Corte Costituzionale con sentenza 24-31 maggio 1960, n. 35 (in G.U. 1a s.s. 4/6/1960, n. 137) ha dichiarato l'illegittimita' costituzionale "dell'[art. 16, comma primo, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_16-com1), nella parte in cui stabilisce che "i contributi volontari per l'assicurazione per la invalidita' la vecchiaia e i superstiti non possono essere versati per i periodi durante i quali l'assicurato sia iscritto a forme di previdenza sostitutive dell'assicurazione o per periodi che comportino diritto ad altro trattamento obbligatorio di pensione" in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), 
+La Corte Costituzionale con sentenza 24-31 maggio 1960, n. 35 (in G.U. 1a s.s. 4/6/1960, n. 137) ha dichiarato l'illegittimita' costituzionale "dell'[art. 16, comma primo, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), nella parte in cui stabilisce che "i contributi volontari per l'assicurazione per la invalidita' la vecchiaia e i superstiti non possono essere versati per i periodi durante i quali l'assicurato sia iscritto a forme di previdenza sostitutive dell'assicurazione o per periodi che comportino diritto ad altro trattamento obbligatorio di pensione" in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), 
 e in riferimento all'art. 76 della Costituzione."
 
 -----------------
@@ -182,7 +182,7 @@ e in riferimento all'art. 76 della Costituzione."
 AGGIORNAMENTO (11)
 
 La Corte Costituzionale con sentenza 5-12 febbraio 1963, n. 3 (in
-G.U. 1a s.s. 16/2/1963, n. 45) ha dichiarato l'illegittimita' costituzionale "del primo comma, secondo periodo, dell'[art. 16 del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_16), in relazione agli artt. 5, terzo comma, e 37 della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), ed in riferimento all'art. 76 della Costituzione."
+G.U. 1a s.s. 16/2/1963, n. 45) ha dichiarato l'illegittimita' costituzionale "del primo comma, secondo periodo, dell'[art. 16 del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione agli artt. 5, terzo comma, e 37 della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), ed in riferimento all'art. 76 della Costituzione."
 
 ## CAPO 1° - Prestazioni per la invalidita', la vecchiaia e i superstiti.
 
@@ -204,7 +204,7 @@ Ai fini del raggiungimento dei requisiti di contribuzione previsti dal primo com
 AGGIORNAMENTO (14)
 
 La Corte Costituzionale con sentenza 25 maggio-o giugno 1963, n. 84
-(in G.U. 15/6/1963, n. 159) l'illegittimita' costituzionale " dell'[art. 17, primo comma, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_17-com1), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e all'art. 9, ultimo comma, del [R.D.L. 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), modificato dall'art. 2 della stessa legge ed in riferimento all'art. 76 della Costituzione."
+(in G.U. 15/6/1963, n. 159) l'illegittimita' costituzionale " dell'[art. 17, primo comma, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e all'art. 9, ultimo comma, del [R.D.L. 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), modificato dall'art. 2 della stessa legge ed in riferimento all'art. 76 della Costituzione."
 
 ### Art. 18.
 
@@ -216,7 +216,7 @@ La Corte Costituzionale con sentenza 25 maggio-o giugno 1963, n. 84
 
 AGGIORNAMENTO (19)
 
-Il [D.P.R. 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488), ha disposto (con l'art.18) che la modifica ha effetto dal 1 maggio 1968.
+Il [D.P.R. 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), ha disposto (con l'art.18) che la modifica ha effetto dal 1 maggio 1968.
 
 ### Art. 19.
 
@@ -234,7 +234,7 @@ contributi volontari.((15))
 
 AGGIORNAMENTO (15)
 
-La Corte Costituzionale con sentenza 28 giugno-9 luglio 1963, n. 124 (in G.U. 1a.s.s. 13/7/1963, n. 187) ha dichiarato l'illegittimita' costituzionale "dell'[art. 20, secondo comma, del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_20-com2), in relazione agli [artt. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_25) e [37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), ed in riferimento agli artt. 76 e 77 della Costituzione."
+La Corte Costituzionale con sentenza 28 giugno-9 luglio 1963, n. 124 (in G.U. 1a.s.s. 13/7/1963, n. 187) ha dichiarato l'illegittimita' costituzionale "dell'[art. 20, secondo comma, del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione agli [artt. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_25) e [37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), ed in riferimento agli artt. 76 e 77 della Costituzione."
 
 ### Art. 21.
 
@@ -244,7 +244,7 @@ La Corte Costituzionale con sentenza 28 giugno-9 luglio 1963, n. 124 (in G.U. 1a
 
 AGGIORNAMENTO (16)
 
-La Corte Costituzionale con snetenza 26 febbraio-14 marzo, n. 18 (in G.U. 1a s.s. 21/3/1964, n. 73) ha dichiarato l'illegittimita' costituzionale " della norma contenuta nell'art. 21, seconda parte del [terzo comma, del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_com3), in relazione all'articolo 27 della legge di delegazione 4 aprile 1952, n. 218, ed in riferimento all'art. 77 
+La Corte Costituzionale con snetenza 26 febbraio-14 marzo, n. 18 (in G.U. 1a s.s. 21/3/1964, n. 73) ha dichiarato l'illegittimita' costituzionale " della norma contenuta nell'art. 21, seconda parte del [terzo comma, del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'articolo 27 della legge di delegazione 4 aprile 1952, n. 218, ed in riferimento all'art. 77 
 della Costituzione."
 
 ### Art. 22.
@@ -270,7 +270,7 @@ La disposizione di cui al [primo comma dell'art. 72 del regio decreto-legge 4 ot
 
 AGGIORNAMENTO (13)
 
-La Corte Costituzionale con snetenza 7-10 maggio 1963, n. 65 (in G.U. 1a s.s. 18/5/1963, n. 132) ha dichiarato l'illegittimita' costituzionale "del [secondo comma del l'art. 25 del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_25-com2), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e in riferimento all'art. 76 della Costituzione."
+La Corte Costituzionale con snetenza 7-10 maggio 1963, n. 65 (in G.U. 1a s.s. 18/5/1963, n. 132) ha dichiarato l'illegittimita' costituzionale "del [secondo comma del l'art. 25 del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e in riferimento all'art. 76 della Costituzione."
 
 ### Art. 26.
 
@@ -285,7 +285,7 @@ giorni dalla data stessa.((1))
 AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza 18 aprile-5 maggio 1959, n. 24
-(in G.U. 1a s.s. 9/5/1959, n. 110) ha dichiarato l'illegittimita' " costituzionale dell'[art. 26 del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_26), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e in riferimento agli artt. 70 e 76 della Costituzione. Cosi' deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 18 aprile 1959."
+(in G.U. 1a s.s. 9/5/1959, n. 110) ha dichiarato l'illegittimita' " costituzionale dell'[art. 26 del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e in riferimento agli artt. 70 e 76 della Costituzione. Cosi' deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 18 aprile 1959."
 
 ### Art. 27.
 
@@ -298,7 +298,7 @@ Ove trattisi di contributi relativi a periodi di lavoro effettuati successivamen
 -----------------
  
 AGGIORNAMENTO (6) 
-La Corte Costituzionale con sentenza 23-27 maggio 1961, n. 28 (in G.U. 1a s.s. 3/6/1961, n. 135) ha dichiarato l'illegittimita' costituzionale " dell'[articolo 27 del D.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_27), sul riordinamento delle pensioni dell'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti, in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e con riferimento all'art. 76 
+La Corte Costituzionale con sentenza 23-27 maggio 1961, n. 28 (in G.U. 1a s.s. 3/6/1961, n. 135) ha dichiarato l'illegittimita' costituzionale " dell'[articolo 27 del D.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), sul riordinamento delle pensioni dell'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti, in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e con riferimento all'art. 76 
 della Costituzione."
 
 ### Art. 28.
@@ -318,7 +318,7 @@ dall'art. 1 della legge stessa.((17))
 AGGIORNAMENTO (17)
 
 La Corte Costituzionale con sentenza 26 febbraio-14 marzo n. 19 (in
-G.U. 1a.s.s. 21/3/1964, n. 73) ha dichiarato l'illegittimita' costituzionale "della norma contenuta nel [primo comma dell'art. 29 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_29-com1), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e in riferimento all'art. 77 della Costituzione."
+G.U. 1a.s.s. 21/3/1964, n. 73) ha dichiarato l'illegittimita' costituzionale "della norma contenuta nel [primo comma dell'art. 29 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), in relazione all'[art. 37 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_37), e in riferimento all'art. 77 della Costituzione."
 
 ### Art. 30.
 
@@ -337,7 +337,7 @@ L'importo dell'indennita' di disoccupazione e del sussidio straordinario di diso
 ------------------
  
 AGGIORNAMENTO (4) 
- La [L. 20 ottobre 1960, n. 1237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20prestazioni%20per%20la%20disoccupazione%20involontaria.md) ha disposto (con l'art.1) che " Con effetto dal giorno della entrata in vigore della presente legge, l'importo della indennita' e del sussidio straordinario di disoccupazione di cui all'[articolo 31 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_31), e' elevato per tutti gli assicurati a lire 300 giornaliere e l'importo della maggiorazione per ciascun familiare, per il quale essa compete secondo le vigenti 
+ La [L. 20 ottobre 1960, n. 1237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20prestazioni%20per%20la%20disoccupazione%20involontaria.md) ha disposto (con l'art.1) che " Con effetto dal giorno della entrata in vigore della presente legge, l'importo della indennita' e del sussidio straordinario di disoccupazione di cui all'[articolo 31 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md), e' elevato per tutti gli assicurati a lire 300 giornaliere e l'importo della maggiorazione per ciascun familiare, per il quale essa compete secondo le vigenti 
 disposizioni, e' elevato a lire 120 giornaliere."
 
 ----------------
@@ -400,7 +400,7 @@ I periodi riconosciuti come periodi di contribuzione a norma dei precedenti arti
 -----------------
  
 AGGIORNAMENTO (24) 
- Il [D.P.R. 31 dicembre 1971, n. 1432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-12-31;1432), ha disposto (con l'art.16) che e' abrogato l'art.37 per le parti concernenti la prosecuzione volontaria.
+ Il [D.P.R. 31 dicembre 1971, n. 1432](Riordinamento%20della%20prosecuzione%20volontaria%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20ed%20i%20superstiti%20e%20per%20la%20tubercolosi.md), ha disposto (con l'art.16) che e' abrogato l'art.37 per le parti concernenti la prosecuzione volontaria.
 
 ### Art. 38.
 
@@ -411,13 +411,13 @@ Per il diritto alle prestazioni delle assicurazioni obbligatorie per l'invalidit
 
 AGGIORNAMENTO (27)
 
-La Corte Costituzionale con sentenza 12-20 maggio 1999, n. 180 (in G.U. 1a s.s. 26/5/1999) ha dichiarato l'illegittimita' "costituzionale dell'[art. 38 del d.P.R. 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_38) (Norme di attuazione e di coordinamento della [legge 4 aprile 1952, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;118), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti), nella parte in cui non include tra i soggetti ivi elencati anche i minori dei quali risulti provata la vivenza a carico degli ascendenti."
+La Corte Costituzionale con sentenza 12-20 maggio 1999, n. 180 (in G.U. 1a s.s. 26/5/1999) ha dichiarato l'illegittimita' "costituzionale dell'[art. 38 del d.P.R. 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md) (Norme di attuazione e di coordinamento della [legge 4 aprile 1952, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;118), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti), nella parte in cui non include tra i soggetti ivi elencati anche i minori dei quali risulti provata la vivenza a carico degli ascendenti."
 
 ------------
 
 AGGIORNAMENTO (30)
 
-La Corte Costituzionale, con sentenza 9 febbraio - 5 aprile 2022, n. 88 (in G.U. 1ª s.s. 6/04/2022, n. 14), ha dichiarato "l'illegittimita' costituzionale dell'[art. 38 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-26;818#art_38) (Norme di attuazione e di coordinamento della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti), nella parte in cui non include tra i destinatari diretti ed immediati della pensione di reversibilita' i nipoti maggiorenni orfani riconosciuti inabili al lavoro e viventi a carico degli ascendenti assicurati".
+La Corte Costituzionale, con sentenza 9 febbraio - 5 aprile 2022, n. 88 (in G.U. 1ª s.s. 6/04/2022, n. 14), ha dichiarato "l'illegittimita' costituzionale dell'[art. 38 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%204%20aprile%201952%20n.%20218%20sul%20riordinamento%20delle%20pensioni%20dellassicurazione%20obbligatoria%20per%20linvalidita%20la%20vecchiaia%20e%20i%20superstiti.md) (Norme di attuazione e di coordinamento della [legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218), sul riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti), nella parte in cui non include tra i destinatari diretti ed immediati della pensione di reversibilita' i nipoti maggiorenni orfani riconosciuti inabili al lavoro e viventi a carico degli ascendenti assicurati".
 
 ### Art. 39.
 

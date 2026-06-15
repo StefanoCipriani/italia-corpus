@@ -50,11 +50,11 @@ Il Ministro per l'agricoltura e le foreste, con proprio decreto, provvedera' al 
 
 ## Art. 5.
 
-Ai soli fini dell'attribuzione delle qualifiche di ufficiale o di agente di polizia giudiziaria e di agente di pubblica sicurezza previste per i membri del Corpo forestale dello Stato dall'[art. 13 del decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804#art_13), il sorvegliante capo e' equiparato al sottufficiale del Corpo forestale dello Stato e il sorvegliante di 1ª classe, il sorvegliante di 2° classe e il sorvegliante di 38 classe sono equiparati alle guardie scelte e alle guardie di detto Corpo.
+Ai soli fini dell'attribuzione delle qualifiche di ufficiale o di agente di polizia giudiziaria e di agente di pubblica sicurezza previste per i membri del Corpo forestale dello Stato dall'[art. 13 del decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), il sorvegliante capo e' equiparato al sottufficiale del Corpo forestale dello Stato e il sorvegliante di 1ª classe, il sorvegliante di 2° classe e il sorvegliante di 38 classe sono equiparati alle guardie scelte e alle guardie di detto Corpo.
 
 ## Art. 6.
 
-Al personale iscritto nel ruolo transitorio sono applicabili, per tutto quanto non espressamente disposto col presente decreto, tutte le disposizioni previste dalle vigenti norme sullo stato giuridico, sull'ordinamento gerarchico e sul trattamento economico degli impiegati civili dello Stato e quelle contemplate nel [decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804).
+Al personale iscritto nel ruolo transitorio sono applicabili, per tutto quanto non espressamente disposto col presente decreto, tutte le disposizioni previste dalle vigenti norme sullo stato giuridico, sull'ordinamento gerarchico e sul trattamento economico degli impiegati civili dello Stato e quelle contemplate nel [decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md).
 
 ## Art. 7.
 

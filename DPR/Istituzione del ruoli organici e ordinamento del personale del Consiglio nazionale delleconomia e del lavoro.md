@@ -128,7 +128,7 @@ Fermo il limite di ottanta posti di cui alla [legge 4 novembre 1965, n. 1246](..
 ### Art. 18.
 
 Il personale che, ai sensi dei precedenti articoli, ottiene l'inquadramento nei ruoli organici istituiti con il presente decreto, ha la facolta' di riscattare, ai fini del trattamento di quiescenza, il servizio prestato alle dipendenze del Consiglio nazionale dell'economia e del lavoro anteriormente al detto inquadramento.
- Per tale riscatto si applicano le disposizioni contenute nell'[art. 9 del decreto legislativo 7 aprile 1948, numero 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_9).
+ Per tale riscatto si applicano le disposizioni contenute nell'[art. 9 del decreto legislativo 7 aprile 1948, numero 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md).
  Il predetto riscatto non e' ammesso per i periodi di servizio che abbiano concorso a determinare un trattamento di pensione a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti, ovvero un trattamento sostitutivo, per legge, di quello derivante dalla assicurazione generale obbligatoria.
  Per il riscatto del servizio agli effetti della indennita' di buonuscita, di cui al testo unico approvato con [regio decreto 28 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-28;619), e successive modificazioni, sono applicabili le vigenti disposizioni.
 

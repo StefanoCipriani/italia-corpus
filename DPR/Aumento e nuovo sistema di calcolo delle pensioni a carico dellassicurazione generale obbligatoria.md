@@ -30,7 +30,7 @@ A decorrere dal 1 maggio 1968, le pensioni ordinarie e supplementari a carico de
 
 AGGIORNAMENTO (7)
 
-La Corte Costituzionale con sentenza 29 aprile-19 giugno 1981, n. 101 (in G.U. 1a s.s 24/06/1981 n. 172) ha dichiarato "l'illegittimita' costituzionale dell'[art. 1 del d.P.R. 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_1) (Aumento e nuovo sistema di calcolo delle pensioni a carico dell'assicurazione generale obbligatoria), nella parte in cui, prevedendo per le pensioni supplementari l'aumento nella misura di lire 2.400 mensili, lo limita a quelle aventi decorrenza anteriore al 1 maggio 1968 e non lo estende a quelle, egualmente liquidate con il sistema contributivo, aventi decorrenza posteriore al 30 aprile 1968".
+La Corte Costituzionale con sentenza 29 aprile-19 giugno 1981, n. 101 (in G.U. 1a s.s 24/06/1981 n. 172) ha dichiarato "l'illegittimita' costituzionale dell'[art. 1 del d.P.R. 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md) (Aumento e nuovo sistema di calcolo delle pensioni a carico dell'assicurazione generale obbligatoria), nella parte in cui, prevedendo per le pensioni supplementari l'aumento nella misura di lire 2.400 mensili, lo limita a quelle aventi decorrenza anteriore al 1 maggio 1968 e non lo estende a quelle, egualmente liquidate con il sistema contributivo, aventi decorrenza posteriore al 30 aprile 1968".
 
 ### Art. 2.
 
@@ -41,7 +41,7 @@ Gli importi dei trattamenti minimi delle pensioni liquidate a carico dell'assicu
 
 AGGIORNAMENTO (1)
 
-La [L. 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153) ha disposto (con l'art. 7, comma 1) che "A decorrere dal 1 gennaio 1969, gli importi mensili dei trattamenti minimi di pensione a carico dell'assicurazione generale obbligatoria dei lavoratori dipendenti, previsti dall'[articolo 2 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_2), sono elevati a: lire 23.000 mensili, per i titolari di eta' inferiore a 65 anni; lire 25.000 mensili, per i titolari che abbiano compiuto i 65 anni di eta'."
+La [L. 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153) ha disposto (con l'art. 7, comma 1) che "A decorrere dal 1 gennaio 1969, gli importi mensili dei trattamenti minimi di pensione a carico dell'assicurazione generale obbligatoria dei lavoratori dipendenti, previsti dall'[articolo 2 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), sono elevati a: lire 23.000 mensili, per i titolari di eta' inferiore a 65 anni; lire 25.000 mensili, per i titolari che abbiano compiuto i 65 anni di eta'."
 
 ### Art. 3.
 
@@ -52,7 +52,7 @@ A decorrere dal 1 maggio 1968, gli importi mensili delle pensioni ordinarie e su
 
 AGGIORNAMENTO (1)
 
-La [L. 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153) ha disposto (con l'art. 7, comma 2) che a decorrere dal 1 gennaio 1969 "gli importi mensili dei trattamenti minimi di pensione a carico delle gestioni speciali per i coltivatori diretti, mezzadri e coloni, per gli artigiani e per gli esercenti attivita' commerciali, previsti dall'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_3-com2), sono elevati, per tutte le categorie di pensione, a lire 18.000 mensili."
+La [L. 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153) ha disposto (con l'art. 7, comma 2) che a decorrere dal 1 gennaio 1969 "gli importi mensili dei trattamenti minimi di pensione a carico delle gestioni speciali per i coltivatori diretti, mezzadri e coloni, per gli artigiani e per gli esercenti attivita' commerciali, previsti dall'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), sono elevati, per tutte le categorie di pensione, a lire 18.000 mensili."
 
 ### Art. 4.
 
@@ -79,7 +79,7 @@ Ferme restando le vigenti disposizioni sulla contribuzione figurativa, nonche' q
 
 AGGIORNAMENTO (13)
 
-La [L. 27 dicembre 2006, n.296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 7777) che "L'[articolo 5, secondo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_5-com2), e successive modificazioni, si interpreta nel senso che, in caso di trasferimento presso l'assicurazione generale obbligatoria italiana dei contributi versati ad enti previdenziali di Paesi esteri in conseguenza di convenzioni ed accordi internazionali di sicurezza sociale, la retribuzione pensionabile relativa ai periodi di lavoro svolto nei Paesi esteri e' determinata moltiplicando l'importo dei contributi trasferiti per cento e dividendo il risultato per l'aliquota contributiva per invalidita', vecchiaia e superstiti in vigore nel periodo cui i contributi si riferiscono. Sono fatti salvi i trattamenti pensionistici piu' favorevoli gia' liquidati alla data di entrata in vigore della presente legge."
+La [L. 27 dicembre 2006, n.296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 7777) che "L'[articolo 5, secondo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), e successive modificazioni, si interpreta nel senso che, in caso di trasferimento presso l'assicurazione generale obbligatoria italiana dei contributi versati ad enti previdenziali di Paesi esteri in conseguenza di convenzioni ed accordi internazionali di sicurezza sociale, la retribuzione pensionabile relativa ai periodi di lavoro svolto nei Paesi esteri e' determinata moltiplicando l'importo dei contributi trasferiti per cento e dividendo il risultato per l'aliquota contributiva per invalidita', vecchiaia e superstiti in vigore nel periodo cui i contributi si riferiscono. Sono fatti salvi i trattamenti pensionistici piu' favorevoli gia' liquidati alla data di entrata in vigore della presente legge."
 
 ### Art. 6.
 
@@ -131,13 +131,13 @@ Le pensioni a carico dell'assicurazione generale obbligatoria per l'invalidita',
 
 AGGIORNAMENTO (1)
 
-La [L. 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153) ha disposto (con l'art. 54, comma 1) che "La facolta' di opzione di cui al [primo comma dell'articolo 14 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_14-com1), puo' essere esercitata fino al 31 dicembre 1971."
+La [L. 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153) ha disposto (con l'art. 54, comma 1) che "La facolta' di opzione di cui al [primo comma dell'articolo 14 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), puo' essere esercitata fino al 31 dicembre 1971."
 
 --------------
 
 AGGIORNAMENTO (2a)
 
-Il D.P.R. 31 dicembre 1971 (in G.U. 04/04/1972, n. 88) ha disposto (con l'art. 1, comma 1) che "Il termine per l'esercizio della facolta' di opzione di cui all'[art. 14, primo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_14-com1), differito dallo [art. 54 della legge 30 aprile 1969, n. 153, al 31 dicembre 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-31;153#art_54), e' ulteriormente prorogato al 31 luglio 1976".
+Il D.P.R. 31 dicembre 1971 (in G.U. 04/04/1972, n. 88) ha disposto (con l'art. 1, comma 1) che "Il termine per l'esercizio della facolta' di opzione di cui all'[art. 14, primo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), differito dallo [art. 54 della legge 30 aprile 1969, n. 153, al 31 dicembre 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-31;153#art_54), e' ulteriormente prorogato al 31 luglio 1976".
 
 ### Art. 15.
 
@@ -189,7 +189,7 @@ Non sono cumulabili, nella misura del 50 per cento del loro importo, con la retr
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 11 - 22 dicembre 1969, n. 155 (in G.U. 1a s.s 24/12/1969 n. 324)" dichiara l'illegittimita' costituzionale dell'[art. 20, lett. a](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_20-leta) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_20-lete) [b, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_20-letb), nella parte in cui dispongono che le pensioni di vecchiaia non sono cumulabili con la retribuzione, nonche' l'illegittimita' costituzionale degli artt. 21 e 23 dello stesso decreto nelle parti in cui si riferiscono alla pensione di vecchiaia."
+La Corte Costituzionale con sentenza 11 - 22 dicembre 1969, n. 155 (in G.U. 1a s.s 24/12/1969 n. 324)" dichiara l'illegittimita' costituzionale dell'[art. 20, lett. a](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md) [e](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md) [b, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), nella parte in cui dispongono che le pensioni di vecchiaia non sono cumulabili con la retribuzione, nonche' l'illegittimita' costituzionale degli artt. 21 e 23 dello stesso decreto nelle parti in cui si riferiscono alla pensione di vecchiaia."
 
 ---------------
 
@@ -201,7 +201,7 @@ Il [D.L. 30 giugno 1972, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (6)
 
-La Corte Costituzionale con sentenza 21 - 28 aprile 1976, n. 97 (in G.U. 1a s.s 05/05/1976 n. 118) ha dichiarato "l'illegittimita' costituzionale dell'[art. 20, comma primo, lett. c, del d.P.R. 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_20-com1-letc), nella parte in cui non prevede che la pensione di anzianita' sia equiparata a tutti gli effetti alla pensione di vecchiaia, quando il titolare di essa compia l'eta' stabilita per il pensionamento di vecchiaia."
+La Corte Costituzionale con sentenza 21 - 28 aprile 1976, n. 97 (in G.U. 1a s.s 05/05/1976 n. 118) ha dichiarato "l'illegittimita' costituzionale dell'[art. 20, comma primo, lett. c, del d.P.R. 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), nella parte in cui non prevede che la pensione di anzianita' sia equiparata a tutti gli effetti alla pensione di vecchiaia, quando il titolare di essa compia l'eta' stabilita per il pensionamento di vecchiaia."
 
 ### Art. 21.
 
@@ -213,7 +213,7 @@ Per l'applicazione del precedente articolo 20 il lavoratore e' tenuto a dichiara
 
 AGGIORNAMENTO (9)
 
-La Corte Costituzionale con sentenza 26 maggio-8 giugno 1994, n. 221 (in G.U. 1a s.s 15/06/1994 n. 25) ha dichiarato "l'illegittimita' costituzionale dell'[art. 21 del d.P.R. 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_21) (Aumento e nuovo sistema di calcolo delle pensioni a carico dell'assicurazione generale obbligatoria), cosi' come modificato dall'[art. 20 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_20) (Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale), nella parte in cui non prevede che nel caso di lavoro a tempo parziale svolto da pensionati l'ammontare della detrazione da effettuare per settimana di lavoro sia determinato dividendo l'importo della trattenuta settimanale relativo all'orario normale per il numero delle ore corrispondenti a tal orario, e moltiplicando il risultato per il numero delle ore effettivamente lavorate nella settimana."
+La Corte Costituzionale con sentenza 26 maggio-8 giugno 1994, n. 221 (in G.U. 1a s.s 15/06/1994 n. 25) ha dichiarato "l'illegittimita' costituzionale dell'[art. 21 del d.P.R. 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md) (Aumento e nuovo sistema di calcolo delle pensioni a carico dell'assicurazione generale obbligatoria), cosi' come modificato dall'[art. 20 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_20) (Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale), nella parte in cui non prevede che nel caso di lavoro a tempo parziale svolto da pensionati l'ammontare della detrazione da effettuare per settimana di lavoro sia determinato dividendo l'importo della trattenuta settimanale relativo all'orario normale per il numero delle ore corrispondenti a tal orario, e moltiplicando il risultato per il numero delle ore effettivamente lavorate nella settimana."
 
 ### Art. 22.
 
@@ -266,7 +266,7 @@ A decorrere dal 1 agosto 1968 e fino al 31 dicembre 1970, i contributi base dell
 
 AGGIORNAMENTO (5)
 
-Il [D.L. 1 luglio 1972, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20delle%20norme%20transitorie%20per%20la%20compilazione%20degli%20elenchi%20nominativi%20per%20i%20lavoratori%20agricoli%20di%20cui%20allart.%2018%20del%20decreto-legge%203%20febbraio%201970%20n.%207%20convertito%20con%20modifiche%20ne_b5cabfb85097.md), convertito, con modificazioni dalla [L. 8 agosto 1972, n. 459](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201972%20n.%20287%20concernente%20la%20proroga%20delle%20norme%20transitorie%20per%20la%20compilazione%20degli%20elenchi%20nominativi%20per%20i%20lavoratori%20_f800f8fb027f.md) ha disposto (con l'art. 8) che "Le disposizioni dell'[articolo 28 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_28), continuano ad avere efficacia anche dopo il 31 dicembre 1970".
+Il [D.L. 1 luglio 1972, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20delle%20norme%20transitorie%20per%20la%20compilazione%20degli%20elenchi%20nominativi%20per%20i%20lavoratori%20agricoli%20di%20cui%20allart.%2018%20del%20decreto-legge%203%20febbraio%201970%20n.%207%20convertito%20con%20modifiche%20ne_b5cabfb85097.md), convertito, con modificazioni dalla [L. 8 agosto 1972, n. 459](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201972%20n.%20287%20concernente%20la%20proroga%20delle%20norme%20transitorie%20per%20la%20compilazione%20degli%20elenchi%20nominativi%20per%20i%20lavoratori%20_f800f8fb027f.md) ha disposto (con l'art. 8) che "Le disposizioni dell'[articolo 28 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), continuano ad avere efficacia anche dopo il 31 dicembre 1970".
 
 ### Art. 29.
 
@@ -329,14 +329,14 @@ Sono apportate le seguenti modifiche agli articoli 6, 7 e 9 del testo unico dell
 
  Il [terzo comma dell'art. 21 della legge 21 luglio 1965, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-21;903#art_21-com3), e' sostituito dal seguente:
  "L'aumento previsto alle lettere a) e b) del primo comma spetta anche alla moglie a carico del pensionato o ali marito, a carico della pensionata, invalido al lavoro ai sensi del [primo comma dell'art. 10 del regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636#art_10-com1), convertito, con modificazioni, nella [legge 6 luglio 1939, n. 1272](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20aprile%201939-XVII%20n.%20636%20sulle%20assicurazioni%20obbligatorie%20per%20linvalidita%20e%20la%20vecchiaia%20per%20la%20tubercolosi%20e%20per%20la%20disoccup_59ee77548f3d.md), purche' essi non abbiano proventi di qualsiasi natura superiori nel complesso a L. 18.700 mensili o a L. 26.950 mensili ove si tratti di redditi derivanti esclusivamente da trattamento di pensione".((6a))
- Ai fini di quanto previsto dall'art. 3, ultimo comma, del [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722), e successive modificazioni ed estensioni, non si considerano i redditi costituiti da pensioni della assicurazione obbligatoria per l'invalidita' la vecchiaia ed i superstiti nei casi in cui le pensioni stesse non superino i limiti stabiliti dall'articolo 2 del presente decreto.
+ Ai fini di quanto previsto dall'art. 3, ultimo comma, del [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e successive modificazioni ed estensioni, non si considerano i redditi costituiti da pensioni della assicurazione obbligatoria per l'invalidita' la vecchiaia ed i superstiti nei casi in cui le pensioni stesse non superino i limiti stabiliti dall'articolo 2 del presente decreto.
  I miglioramenti stabiliti dal presente decreto non sono computabili ai fini dei limiti di reddito di cui all'[art. 12, terzo comma, della legge 15 febbraio 1958, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-15;46#art_12-com3).
 
 ---------------
 
 AGGIORNAMENTO (6a)
 
-La Corte Costituzionale con sentenza 21 - 28 maggio 1975, n. 128 (in G.U. 1a s.s. 04/06/1975, n. 145) ha dichiarato l'illegittimita' costituzionale dell'[art. 36, secondo comma, del d.P.R. 27 aprile 1968, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-27;488#art_36-com2) nella parte in cui, per l'ipotesi di redditi del coniuge a carico non derivanti esclusivamente da pensione, stabilisce un limite ostativo all'aumento delle pensioni dell'Istituto nazionale della previdenza sociale diverso da quello previsto per i redditi derivanti da pensione.
+La Corte Costituzionale con sentenza 21 - 28 maggio 1975, n. 128 (in G.U. 1a s.s. 04/06/1975, n. 145) ha dichiarato l'illegittimita' costituzionale dell'[art. 36, secondo comma, del d.P.R. 27 aprile 1968, n. 488](Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md) nella parte in cui, per l'ipotesi di redditi del coniuge a carico non derivanti esclusivamente da pensione, stabilisce un limite ostativo all'aumento delle pensioni dell'Istituto nazionale della previdenza sociale diverso da quello previsto per i redditi derivanti da pensione.
 
 ### Art. 37.
 

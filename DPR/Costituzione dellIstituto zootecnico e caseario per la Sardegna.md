@@ -20,11 +20,11 @@ Visto il [regio decreto 5 giugno 1939, n. 1254](../Atti%20normativi%20abrogati%2
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417);
+Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3);
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Vista la, deliberazione dell'Alto Commissario per la Sardegna con la quale si assegnano L. 100.000.000 per la istituzione dell'Istituto zootecnico e caseario per la Sardegna;
 
@@ -103,7 +103,7 @@ Il personale appartenente, alla data del presente decreto, all'istituto zootecni
 
 ## Art. 12.
 
-Con successivo provvedimento i poteri di vigilanza attualmente spettanti al Ministero dell'agricoltura e delle foreste potranno essere delegati agli organi della Regione, da costituirsi ai sensi dello statuto speciale per la Sardegna approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3).
+Con successivo provvedimento i poteri di vigilanza attualmente spettanti al Ministero dell'agricoltura e delle foreste potranno essere delegati agli organi della Regione, da costituirsi ai sensi dello statuto speciale per la Sardegna approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

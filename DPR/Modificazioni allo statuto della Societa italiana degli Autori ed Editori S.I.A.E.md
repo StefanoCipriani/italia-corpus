@@ -14,7 +14,7 @@ Visto il titolo V della [legge 22 aprile 1941, n. 633](https://www.normattiva.it
 
 Visto il [regio decreto 24 agosto 1942, n. 1799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A..%20042U1799.md), col quale fu approvato lo statuto dell'Ente italiano per il Diritto di Autore (E.I.D.A.);
 
-Visto il [decreto legislativo luogotenenziale 20 luglio 1945, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-20;433), che modifica la denominazione dell'Ente italiano per il Diritto di Autore (E.I.D.A.) in "Societa' italiana degli Autori ed Editori" (S.I.A.E.);
+Visto il [decreto legislativo luogotenenziale 20 luglio 1945, n. 433](../Decreti%20legislativi%20luogotenenziali/Modificazione%20della%20denominazione%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A.%20in%20quella%20di%20Societa%20Italiana%20degli%20Autori%20ed%20Editori%20S.I.A.E..%20045U0433.md), che modifica la denominazione dell'Ente italiano per il Diritto di Autore (E.I.D.A.) in "Societa' italiana degli Autori ed Editori" (S.I.A.E.);
 
 Visto il regio decreto 25 maggio 1946, concernente la nomina del presidente della Societa' italiana degli Autori ed Editori;
 

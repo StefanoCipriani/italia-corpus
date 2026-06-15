@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Visto l'[articolo 4 della legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977#art_4);
 
@@ -36,7 +36,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina il procedimento di autorizzazione all'impiego di minori in lavori nei settori dello spettacolo di cui all'[art. 4 secondo comma della legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977#art_4-com2) di competenza dell'Ispettorato provinciale del lavoro, inserito nell'elenco n. 4 della [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537).
+Il presente regolamento disciplina il procedimento di autorizzazione all'impiego di minori in lavori nei settori dello spettacolo di cui all'[art. 4 secondo comma della legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977#art_4-com2) di competenza dell'Ispettorato provinciale del lavoro, inserito nell'elenco n. 4 della [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -90,7 +90,7 @@ Nota all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:199
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento, e' abrogato l'[articolo 4, terzo comma, della legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977#art_4-com3).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento, e' abrogato l'[articolo 4, terzo comma, della legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977#art_4-com3).
 
 Note all'art. 3:
  - Per il testo dell'[articolo 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

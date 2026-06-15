@@ -35,7 +35,7 @@ I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato
 
 AGGIORNAMENTO (1)
 
-La Corte costituzionale, con sentenza 18 - 27 dicembre 1973, n. 188 (in G.U. 1a s.s. 02/01/1974, n. 2)ha dichiarato l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 16 gennaio 1961, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-16;153): "Norme sul trattamento economico e normativo dei giornalisti", che rende esecutivo erga omnes il contratto collettivo nazionale per i giornalisti 10 gennaio 1959, limitatamente all'art. 27, terzo comma, di detto contratto, nella parte in cui riduce l'indennita' di anzianita' nella misura del cinquanta per cento, in caso di dimissioni, ai giornalisti che non abbiano superato i cinque anni di servizio.
+La Corte costituzionale, con sentenza 18 - 27 dicembre 1973, n. 188 (in G.U. 1a s.s. 02/01/1974, n. 2)ha dichiarato l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 16 gennaio 1961, n. 153](Norme%20sul%20trattamento%20economico%20e%20normativo%20dei%20giornalisti.md): "Norme sul trattamento economico e normativo dei giornalisti", che rende esecutivo erga omnes il contratto collettivo nazionale per i giornalisti 10 gennaio 1959, limitatamente all'art. 27, terzo comma, di detto contratto, nella parte in cui riduce l'indennita' di anzianita' nella misura del cinquanta per cento, in caso di dimissioni, ai giornalisti che non abbiano superato i cinque anni di servizio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

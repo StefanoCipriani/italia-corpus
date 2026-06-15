@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante lo Statuto speciale della Regione Friuli-Venezia Giulia;
+ Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante lo Statuto speciale della Regione Friuli-Venezia Giulia;
  Vista la [legge 3 febbraio 1964, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20elezione%20e%20la%20convocazione%20del%20primo%20Consiglio%20regionale%20del%20Friuli-Venezia%20Giulia%20e%20disciplina%20delle%20cause%20di%20ineleggibilita%20ed%20incompatibilita%20e%20del%20contenzioso%20elettorale.md), recante norme per la elezione e la convocazione del primo Consiglio regionale del Friuli-Venezia Giulia e disciplina delle cause di ineleggibilita' ed incompatibilita' e del contenzioso elettorale;
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per l'interno;

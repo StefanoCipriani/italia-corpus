@@ -70,7 +70,7 @@ Contributo "una tantum" per spese
 
 AGGIORNAMENTO (1)
 
-Il Decreto 4 novembre 1985 (in G.U. 12/11/1985, n. 266) ha disposto (con l'art. 4, comma 1) che "Le tariffe per il servizio teletex previste all'art. 1, punto 2 del [decreto del Presidente della Repubblica 5 marzo 1983, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-03-05;94), sono sostituite con quelle fissate nell'annessa tabella 4 al punto 8.2, lettere a) e b)". 
+Il Decreto 4 novembre 1985 (in G.U. 12/11/1985, n. 266) ha disposto (con l'art. 4, comma 1) che "Le tariffe per il servizio teletex previste all'art. 1, punto 2 del [decreto del Presidente della Repubblica 5 marzo 1983, n. 94](Determinazione%20dei%20canoni%20delle%20tariffe%20e%20dei%20contributi%20per%20il%20servizio%20sperimentale%20di%20trasmissione%20su%20rete%20pubblica%20per%20dati%20a%20commutazione%20di%20circuito.md), sono sostituite con quelle fissate nell'annessa tabella 4 al punto 8.2, lettere a) e b)". 
  Si riporta di seguito la citata tabella: 
  
  Parte di provvedimento in formato grafico

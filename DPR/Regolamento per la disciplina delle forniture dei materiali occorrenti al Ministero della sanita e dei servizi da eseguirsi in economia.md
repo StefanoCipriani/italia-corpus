@@ -46,7 +46,7 @@ vigente: true
 
 ## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 FEBBRAIO 1985, N. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-07;90)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 FEBBRAIO 1985, N. 90](Approvazione%20del%20regolamento%20concernente%20le%20spese%20da%20farsi%20in%20economia%20da%20parte%20del%20Ministero%20della%20sanita.md)))
 
 ## Art. 11.
 

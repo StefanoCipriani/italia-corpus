@@ -36,7 +36,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2698), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20il%20Macchioni-Gotti%20Sabatino%20di%20Giuseppe%20in%20comune%20_4d65bf193b9b.md), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2698), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20il%20Macchioni-Gotti%20Sabatino%20di%20Giuseppe%20in%20comune%20_4d65bf193b9b.md), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
 
 ## Art. 3.
 
@@ -56,7 +56,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni in
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2698), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20il%20Macchioni-Gotti%20Sabatino%20di%20Giuseppe%20in%20comune%20_4d65bf193b9b.md), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ L'elenco dei terreni sopramenzionato, con l'indicazione della relativa indennita
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2698), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 22 giugno-11 luglio 1966, n. 97 (in G.U. 1a s.s. 16/07/1966, n. 175), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 29 novembre 1952, n. 2698](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20il%20Macchioni-Gotti%20Sabatino%20di%20Giuseppe%20in%20comune%20_4d65bf193b9b.md), in quanto per la formazione del piano di espropriazione fu tenuto conto dei dati del nuovo catasto entrato in attuazione, nella zona, successivamente al 15 novembre 1949."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

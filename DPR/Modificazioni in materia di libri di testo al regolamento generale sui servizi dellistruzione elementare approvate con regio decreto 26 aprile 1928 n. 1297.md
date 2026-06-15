@@ -16,7 +16,7 @@ Visto il Regolamento generale approvato con [regio decreto 26 aprile 1928, n. 12
 
 Visto il [decreto luogotenenziale 24 maggio 1945, numero 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-24;459);
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;714);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 714](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20della%20legge%207%20gennaio%201929%20n.%205%20relativa%20al%20libro%20di%20testo%20unico%20di%20Stato%20per%20le%20scuole%20elementari%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20is_f590b43f8d17.md);
 
 Visto il [decreto luogotenenziale 31 agosto 1945, numero 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;765);
 

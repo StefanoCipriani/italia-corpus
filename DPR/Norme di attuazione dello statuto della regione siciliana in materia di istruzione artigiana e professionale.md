@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo statuto della regione autonoma siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo statuto della regione autonoma siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Viste le determinazioni della commissione paritetica prevista dall'art. 43 dello statuto della regione;
 
@@ -67,7 +67,7 @@ Per l'esercizio dei compiti attribuiti alla regione con il presente decreto l'am
 
 ## Art. 8.
 
-Fino a quando sara' provveduto alla globale revisione della vigente normativa di attuazione dello statuto in materia finanziaria, in relazione anche a quanto previsto dall'art. 12, punto 4, della [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), e' assicurata alla regione la corresponsione della quota - gia' a carico del soppresso fondo per l'addestramento professionale dei lavoratori - di cui allo [art. 17 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 10](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20istruzione%20artigiana%20e%20professionale%20e%20del%20relativo%20personale.md), nonche' la continuita' degli interventi finanziari disposti dallo Stato in Sicilia nelle materie oggetto del presente decreto, mediante l'accreditamento alla regione di somme pari alla media risultante da quanto erogato in Sicilia nel triennio antecedente alla entrata in vigore del presente decreto, aumentata del 10% annuo.
+Fino a quando sara' provveduto alla globale revisione della vigente normativa di attuazione dello statuto in materia finanziaria, in relazione anche a quanto previsto dall'art. 12, punto 4, della [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e' assicurata alla regione la corresponsione della quota - gia' a carico del soppresso fondo per l'addestramento professionale dei lavoratori - di cui allo [art. 17 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 10](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20istruzione%20artigiana%20e%20professionale%20e%20del%20relativo%20personale.md), nonche' la continuita' degli interventi finanziari disposti dallo Stato in Sicilia nelle materie oggetto del presente decreto, mediante l'accreditamento alla regione di somme pari alla media risultante da quanto erogato in Sicilia nel triennio antecedente alla entrata in vigore del presente decreto, aumentata del 10% annuo.
 
 ## Art. 9.
 

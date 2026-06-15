@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 15 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_15), che prevede la delega al Governo per l'emanazione di norme dirette a potenziare le strutture dell'Ufficio centrale della programmazione sanitaria presso il Ministero della sanita';
+Visto l'[art. 15 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md), che prevede la delega al Governo per l'emanazione di norme dirette a potenziare le strutture dell'Ufficio centrale della programmazione sanitaria presso il Ministero della sanita';
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 luglio 1982;
 
@@ -45,13 +45,13 @@ L'Ufficio centrale della programmazione sanitaria del Ministero della sanita', i
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 30 giugno 1993, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266) ha disposto (con l'art. 10, comma 1) l'abrogazione del presente comma; ha inoltre disposto (con l'art. 10, comma 2) che "L'abrogazione di cui al comma 1 ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994".
+Il [D.Lgs. 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 10, comma 1) l'abrogazione del presente comma; ha inoltre disposto (con l'art. 10, comma 2) che "L'abrogazione di cui al comma 1 ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 30 giugno 1993, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266), come modificato dal [D.L. 23 ottobre 1996, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;542), convertito con modificazioni dalla [L. 23 dicembre 1996, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20542%20recante%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20interventi%20in%20campo%20econ_40e910ec3e7f.md), ha disposto (con l'art. 10, comma 2) che l'abrogazione del comma 1 del presente articolo "ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza".
+Il [D.Lgs. 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [D.L. 23 ottobre 1996, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;542), convertito con modificazioni dalla [L. 23 dicembre 1996, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20542%20recante%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20interventi%20in%20campo%20econ_40e910ec3e7f.md), ha disposto (con l'art. 10, comma 2) che l'abrogazione del comma 1 del presente articolo "ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza".
 
 ### Art. 2.
 

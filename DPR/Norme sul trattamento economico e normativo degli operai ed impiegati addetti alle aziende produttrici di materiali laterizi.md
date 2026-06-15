@@ -46,4 +46,4 @@ Atti del Governo, registro n. 129, foglio n. 49. - VILLA
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 11-17 febbraio 1971, n. 18 (in G.U. 1a s.s. 17/02/1971, n. 49)ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 14 luglio 1960, n. 1028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-14;1028), nella parte in cui attribuisce efficacia erga omnes all'art. 53, terzo comma, del contratto collettivo nazionale 18 dicembre 1957 per gli operai dipendenti dalle aziende produttrici di materiali laterizi".
+La Corte Costituzionale con sentenza 11-17 febbraio 1971, n. 18 (in G.U. 1a s.s. 17/02/1971, n. 49)ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 14 luglio 1960, n. 1028](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20operai%20ed%20impiegati%20addetti%20alle%20aziende%20produttrici%20di%20materiali%20laterizi.md), nella parte in cui attribuisce efficacia erga omnes all'art. 53, terzo comma, del contratto collettivo nazionale 18 dicembre 1957 per gli operai dipendenti dalle aziende produttrici di materiali laterizi".

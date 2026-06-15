@@ -47,7 +47,7 @@ La fabbricazione, anche come semplice montaggio, l'importazione e la distribuzio
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 30 agosto 1993, n.331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito con modificazioni dalla [L. 29 ottobre 1993, n.427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), ha disposto (con l'art. 35, comma 5) che a decorrere dalla data di entrata in vigore del presente decreto sono soppresse le licenze previste all'[articolo 3 del decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-01;1198#art_3).
+Il [D.L. 30 agosto 1993, n.331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito con modificazioni dalla [L. 29 ottobre 1993, n.427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), ha disposto (con l'art. 35, comma 5) che a decorrere dalla data di entrata in vigore del presente decreto sono soppresse le licenze previste all'[articolo 3 del decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](Regime%20fiscale%20degli%20accendigas%20per%20uso%20domestico.md).
 
 ## Art. 4. — (Importazione di un accendigas per uso domestico senza licenza a mezzo di pacco postale)
 
@@ -83,7 +83,7 @@ E' punito con la multa da cinque a venti volte l'imposta o la sovrimposta dovuta
 
 AGGIORNAMENTO (2)
 
-La [L. 28 dicembre 1993, n.561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561) ha disposto (con l'art. 1, comma 1, lettera f)) che non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le violazioni previste dall' [articolo 8 del decreto del Presidente della Repubblica 1° ottobre 1971, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-01;1198#art_8), in materia di regime fiscale degli accendigas per uso domestico.
+La [L. 28 dicembre 1993, n.561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561) ha disposto (con l'art. 1, comma 1, lettera f)) che non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le violazioni previste dall' [articolo 8 del decreto del Presidente della Repubblica 1° ottobre 1971, n. 1198](Regime%20fiscale%20degli%20accendigas%20per%20uso%20domestico.md), in materia di regime fiscale degli accendigas per uso domestico.
 
 ## Art. 9. — (Modalita' di attuazione)
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1);
 
-Vista la [legge 8 maggio 1952, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-08;427), concernente la delega al Governo per l'emanazione di testi unici per il coordinamento con modifiche delle norme vigenti in materia di organizzazione e di servizi dell'Amministrazione delle poste e delle telecomunicazioni e della Azienda di Stato per i servizi telefonici;
+Vista la [legge 8 maggio 1952, n. 427](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20dei%20testi%20unici%20in%20materia%20di%20organizzazione%20e%20di%20servizi%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), concernente la delega al Governo per l'emanazione di testi unici per il coordinamento con modifiche delle norme vigenti in materia di organizzazione e di servizi dell'Amministrazione delle poste e delle telecomunicazioni e della Azienda di Stato per i servizi telefonici;
 
 Visto l'[art. 123 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656](Approvazione%20delle%20norme%20di%20coordinamento%20e%20modificazione%20delle%20disposizioni%20in%20materia%20di%20ricevitorie%20postali%20e%20telegrafiche%20agenzie%20collettorie%20e%20servizi%20di%20portalettere%20rurale.md), che ha approvato le norme di coordinamento e modificazione delle disposizioni in materia di ricevitorie postali e telegrafiche, agenzie, collettorie e servizi di portalettere rurale;
 

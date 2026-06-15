@@ -490,7 +490,7 @@ In attuazione dell'[art. 24, comma 5, della legge 5 febbraio 1992, n. 104](https
 Spetta all'amministrazione cui e' demandata l'approvazione del progetto, l'accertamento e l'attestazione di conformita'; l'eventuale attestazione di non conformita' del progetto o il mancato accoglimento di eventuali deroghe o soluzioni tecniche alternative devono essere motivati.
 
 Nota all'art. 21:
- - Il testo del [comma 5 dell'art. 24 della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_24-com5) (Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate), e' il seguente: "5. Nel caso di opere pubbliche, fermi restando il divieto di finanziamento di cui all'[art. 32, comma 20, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_32-com20), e l'obbligo della dichiarazione del progettista, l'accertamento di conformita' alla normativa vigente in materia di eliminazione delle barriere architettoniche spetta all'amministrazione competente, che ne da' atto in sede di approvazione del progetto".
+ - Il testo del [comma 5 dell'art. 24 della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_24-com5) (Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate), e' il seguente: "5. Nel caso di opere pubbliche, fermi restando il divieto di finanziamento di cui all'[art. 32, comma 20, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e l'obbligo della dichiarazione del progettista, l'accertamento di conformita' alla normativa vigente in materia di eliminazione delle barriere architettoniche spetta all'amministrazione competente, che ne da' atto in sede di approvazione del progetto".
 
 ### Art. 22. — Aggiornamento e modifica delle prescrizioni
 
@@ -703,7 +703,7 @@ Nota all'[art. 32:
  Visto l'[art. 1 della legge 9 gennaio 1989, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-09;13#art_1); 
  Visto l'[art. 27 della legge 30 marzo 1971, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20gennaio%201971%20n.%205%20e%20nuove%20norme%20in%20favore%20dei%20mutilati%20ed%20invalidi%20civili.md); 
  Visto il [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md); 
- Visto l'[art. 32 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_32); 
+ Visto l'[art. 32 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md); 
  Visto l'[art. 31 della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_31); 
  Udito il parere del Consiglio di Stato, ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17); 
  

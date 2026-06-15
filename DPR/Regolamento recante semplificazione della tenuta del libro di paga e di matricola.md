@@ -14,7 +14,7 @@ Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Visto l'[articolo 22 del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md);
 
@@ -24,7 +24,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere della competente commissione della Camera dei deputati;
 
-Considerato che il termine per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), e' scaduto in data 23 marzo 1994;
+Considerato che il termine per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' scaduto in data 23 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 marzo 1994;
 
@@ -96,7 +96,7 @@ Nota all'art. 2:
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento e' abrogato l'[articolo 22 del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento e' abrogato l'[articolo 22 del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md).
 
 Note all'articolo 3:
  - Per il testo dell'[articolo 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

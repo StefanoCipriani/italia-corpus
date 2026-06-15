@@ -74,7 +74,7 @@ Sono organi dell'Istituto:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 6. — Composizione e funzionamento del comitato amministrativo
 
@@ -101,15 +101,15 @@ Il comitato amministrativo e' nominato dal Ministro della sanita' che lo presied
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Il comitato amministrativo dell'ISPESL di cui all'[articolo 6 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619#art_6), e' integrato dai seguenti componenti:
+Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Il comitato amministrativo dell'ISPESL di cui all'[articolo 6 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md), e' integrato dai seguenti componenti:
  un rappresentante del Ministero del tesoro, un rappresentante del Ministero dell'industria, del commercio e dell'artigianato e un rappresentante del Ministero delle partecipazioni statali, designati dai rispettivi Ministri;
- tre rappresentanti delle associazioni imprenditoriali, tra cui quelle delle aziende a partecipazione statale e dei lavoratori autonomi, nonche' un rappresentante delle associazioni sindacali dei quadri e dirigenti di azienda, designati dal Consiglio sanitario nazionale, ai sensi dell'articolo 6, lettera c), del predetto [decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619)."
+ tre rappresentanti delle associazioni imprenditoriali, tra cui quelle delle aziende a partecipazione statale e dei lavoratori autonomi, nonche' un rappresentante delle associazioni sindacali dei quadri e dirigenti di azienda, designati dal Consiglio sanitario nazionale, ai sensi dell'articolo 6, lettera c), del predetto [decreto del Presidente della Repubblica 31 luglio 1980, n. 619](Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md)."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 7. — Funzioni del comitato amministrativo
 
@@ -128,7 +128,7 @@ Il comitato amministrativo esercita le seguenti funzioni:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 8. — Composizione e funzionamento del comitato esecutivo
 
@@ -154,14 +154,14 @@ Il comitato esecutivo e' composto:
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Il comitato esecutivo dell'ISPESL di cui all'[articolo 8 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619#art_8), e' integrato dai membri del comitato amministrativo rappresentanti, rispettivamente, il Ministero della sanita', il Ministero del tesoro e il Ministero delle partecipazioni statali, nonche' da due dei rappresentanti delle associazioni imprenditoriali e dei lavoratori autonomi, nonche' da un 
+Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Il comitato esecutivo dell'ISPESL di cui all'[articolo 8 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md), e' integrato dai membri del comitato amministrativo rappresentanti, rispettivamente, il Ministero della sanita', il Ministero del tesoro e il Ministero delle partecipazioni statali, nonche' da due dei rappresentanti delle associazioni imprenditoriali e dei lavoratori autonomi, nonche' da un 
 rappresentante dell'ANCI."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 9. — Comitato tecnico-scientifico
 
@@ -185,7 +185,7 @@ Il comitato tecnico-scientifico e' nominato con decreto del Ministro della sanit
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Il comitato tecnico-scientifico dell'ISPESL, di cui all'[articolo 9 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619#art_9), e' integrato dai seguenti componenti:
+Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Il comitato tecnico-scientifico dell'ISPESL, di cui all'[articolo 9 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md), e' integrato dai seguenti componenti:
  un rappresentante del Ministero dell'industria, del commercio e dell'artigianato;
  un esperto designato dall'ENEL;
  un esperto designato dall'ENI;
@@ -195,7 +195,7 @@ Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 10. — Compiti del comitato tecnico-scientifico
 
@@ -209,7 +209,7 @@ Il comitato tecnico-scientifico esercita la consulenza scientifica in ordine all
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 11. — Attribuzioni del direttore dell'Istituto
 
@@ -224,7 +224,7 @@ Il direttore dell'Istituto e' responsabile dell'attuazione dei piani di attivita
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 12. — Commissione permanente del comitato amministrativo
 
@@ -238,7 +238,7 @@ Ferme restando le modalita' di collaborazione con le regioni, previste dal [quin
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 13. — Nomina del direttore dell'Istituto
 
@@ -251,7 +251,7 @@ L'ufficio del direttore dell'Istituto e' conferito con decreto del Presidente de
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ## ORGANIZZAZIONE INTERNA DELL'ISTITUTO
 
@@ -269,14 +269,14 @@ L'Istituto e' organizzato in dipartimenti operativi, tra loro coordinati, che de
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Ad integrazione dell'[articolo 14 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619#art_14) e' istituito un dipartimento dotato di autonomia funzionale e contabile per l'esercizio delle attivita' di 
+Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390) convertito con modificazioni dalla [L. 12 agosto 1982, n.597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md) ha disposto (con l'art 4) che "Ad integrazione dell'[articolo 14 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md) e' istituito un dipartimento dotato di autonomia funzionale e contabile per l'esercizio delle attivita' di 
 omologazione di cui al precedente articolo 2, primo comma."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ## GESTIONE FINANZIARIA
 
@@ -292,13 +292,13 @@ Per la gestione finanziaria dell'Istituto si applicano le norme vigenti sulla co
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) come modificato dall'avviso di rettifica (in G.U 06/12/1993, n. 286) ha disposto (con l'art 5) l'abrogazione del comma 1 presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a 
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) come modificato dall'avviso di rettifica (in G.U 06/12/1993, n. 286) ha disposto (con l'art 5) l'abrogazione del comma 1 presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a 
 decorrere dal 1 gennaio 1994."
 
 ## TRATTAMENTO DEL PERSONALE
@@ -318,7 +318,7 @@ Il trattamento del personale dell'Istituto e' regolato in conformita' della disc
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ## NORME TRANSITORIE
 
@@ -335,13 +335,13 @@ Con decreto del Ministro della sanita', di concerto con il Ministro del lavoro e
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 30 aprile 1981, n.169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-04-30;169) convertito con modificazioni dalla [L. 27 giugno 1981, n. 332](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%201981%20n.%20169%20concernente%20attuazione%20della%20legge%2023%20dicembre%201978%20n.%20833%20in%20materia%20di%20trasferimento%20delle%20funzioni%20svolte_b626e0068168.md) ha disposto (con l'art. 1-bis) che "Il termine di cui all'[articolo 17, secondo comma, del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;619#art_17-com2), previsto per il personale tecnico e sanitario degli ispettorati del lavoro, e' prorogato fino al 31 luglio 1981".
+Il [D.L. 30 aprile 1981, n.169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-04-30;169) convertito con modificazioni dalla [L. 27 giugno 1981, n. 332](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%201981%20n.%20169%20concernente%20attuazione%20della%20legge%2023%20dicembre%201978%20n.%20833%20in%20materia%20di%20trasferimento%20delle%20funzioni%20svolte_b626e0068168.md) ha disposto (con l'art. 1-bis) che "Il termine di cui all'[articolo 17, secondo comma, del decreto del Presidente della Repubblica 31 luglio 1980, n. 619](Istituzione%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro%20art.%2023%20della%20legge%20n.%20833%20del%201978.md), previsto per il personale tecnico e sanitario degli ispettorati del lavoro, e' prorogato fino al 31 luglio 1981".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 18. — Conferimento degli incarichi per il primo triennio
 
@@ -351,7 +351,7 @@ Il primo conferimento degli incarichi di direzione dei dipartimenti e di coordin
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 19. — Assegnazione di beni dei disciolti E.N.P.I. ed A.N.C.C.
 
@@ -375,7 +375,7 @@ Con decreto del Ministro della sanita', di concerto con il Ministro del tesoro, 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;268) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 21. — Coordinamento degli interventi per la Radioprotezione dei lavoratori e delle popolazioni
 

@@ -22,7 +22,7 @@ Visto il [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determina
 
 Visto il [decreto del Presidente della Repubblica 1 febbraio 1986, n. 13](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201985-87.md), contenente norme risultanti dalla disciplina prevista dall'accordo intercompartimentale, di cui all'art. 12 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, relativo al triennio 1985-1987;
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1987, con la quale (respinte o ritenute inammissibili le osservazioni formulate dalle organizzazioni sindacali dissenzienti o che abbiano dichiarato di non partecipare alla trattativa) e' stata autorizzata, previa verifica delle compatibilita' finanziarie, la sottoscrizione dell'ipotesi di accordo per il triennio 1985-1987 riguardante il comparto del personale dipendente dai Ministeri di cui all'[art. 2 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determinazione%20e%20composizione%20dei%20comparti%20di%20contrattazione%20collettiva%20di%20cui%20allart.%205%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093.md), raggiunta in data 7 gennaio 1987 fra la delegazione di parte pubblica composta come previsto dal citato art. 2 e le confederazioni sindacali CGIL, CISL, UIL, CIDA, CISNAL, CISAL, CONFSAL, CISAS, USPPI, le Organizzazioni sindacali di categoria ad esse aderenti e l'Unione nazionale dei segretari comunali e provinciali; accordo cui hanno aderito successivamente le seguenti organizzazioni sindacali non partecipanti alle trattative: la CONFILL in data 26 febbraio 1987 e la CILDI in data 9 marzo 1987;
 
@@ -767,11 +767,11 @@ Note all'[art. 26, comma 1:
 
 ### Art. 27.
 
-(( IL [D.LGS. 30 MARZO 2001, N.165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
+(( IL [D.LGS. 30 MARZO 2001, N.165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
 ### Art. 28.
 
-(( IL [D.LGS. 30 MARZO 2001, N.165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
+(( IL [D.LGS. 30 MARZO 2001, N.165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
 ### Art. 29. — Mutamento di mansioni per inidoneita' fisica
 
@@ -849,14 +849,14 @@ Con pari periodicita' saranno fornite analoghe informazioni alle organizzazioni 
 
 1.
 
-Salvo quanto disposto dall'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_49-com2), in ciascuna unita' amministrativa con almeno duecento dipendenti e' consentito, alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile all'interno della struttura.
+Salvo quanto disposto dall'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), in ciascuna unita' amministrativa con almeno duecento dipendenti e' consentito, alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile all'interno della struttura.
 
 2.
 
 Nelle unita' amministrative con un numero inferiore di dipendenti le organizzazioni sindacali maggiormente rappresentative hanno diritto ad usufruire, ove ne facciano richiesta, di un locale idoneo per le loro riunioni, se sia disponibile nell'ambito della struttura.
 
-Nota all'[art. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_33):
- L'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_49-com2), e' del seguente tenore:
+Nota all'[art. 33](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md):
+ L'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e' del seguente tenore:
  "A ciascuna delle organizzazioni sindacali a carattere nazionale maggiormente rappresentative e', altresi', concesso nella sede centrale dei singoli Ministeri e delle aziende autonome, l'uso gratuito di un locale da adibire ad ufficio sindacale, tenuto conto delle disponibilita' obiettive e secondo le modalita' che saranno determinate dalle amministrazioni interessate, sentite le organizzazioni sindacali".
 
 ### Art. 34. — Attivita' culturali ricreative ed assistenziali
@@ -1166,7 +1166,7 @@ Con decorrenza 1 gennaio 1987 sara' accantonato annualmente un importo non infer
 
 6.
 
-Il sopraindicato importo sara' portato in detrazione del fondo di cui all'[art. 3 della legge 22 luglio 1978, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-22;385#art_3), il cui ammontare resta stabilito nel limite fissato dalla [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), senza ulteriori incrementi, comprendendovi tutte le fattispecie sopra richiamate.
+Il sopraindicato importo sara' portato in detrazione del fondo di cui all'[art. 3 della legge 22 luglio 1978, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-22;385#art_3), il cui ammontare resta stabilito nel limite fissato dalla [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), senza ulteriori incrementi, comprendendovi tutte le fattispecie sopra richiamate.
 
 7.
 
@@ -1210,7 +1210,7 @@ Nota all'art. 49, comma 2:
  "Art. 2. - Per gli uffici o servizi la cui attivita' richieda prestazioni straordinarie di assoluta indilazionabilita', in eccedenza ai limiti di cui al precedente art. 1, possono essere autorizzati, con apposito motivato decreto del Presidente del Consiglio dei Ministri di concerto con il Ministro per il tesoro e sentite le organizzazioni sindacali a carattere nazionale maggiormente rappresentative, particolari limiti per determinati contingenti di personale e per periodi non eccedenti l'anno finanziario; potra' essere, altresi', assegnato un numero globale di ore di lavoro straordinario da utilizzare, se espressamente autorizzato, anche con il sistema del cottimo, per particolari lavori una tantum quantitativamente definibili. Per il personale di cui all'art. 1, ultimo comma, della [legge 22 dicembre 1969, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-22;967), i predetti limiti saranno stabiliti con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro.
  I decreti di cui al precedente comma dovranno contenere i motivi per i quali le prestazioni stesse sono rese l'entita' del personale impiegato, compreso il titolare delle unita' organiche al quale fanno capo i suindicati uffici o servizi, il periodo di tempo per il quale viene richiesta l'esecuzione del lavoro straordinario, il numero di ore riconosciute indispensabili per corrispondere alle straordinarie indilazionabili esigenze di lavoro, nonche' l'ammontare della spesa.
  Al termine di ogni periodo autorizzato, il titolare di ogni singola unita' organica presentera' una circostanziata relazione finale in ordine all'effettivo risultato conseguito che, a cura dell'amministrazione centrale competente, verra' trasmessa alla Presidenza del Consiglio dei Ministri, al Ministero del tesoro ed al Consiglio superiore della pubblica amministrazione".
- - La [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910) (Legge finanziaria 1987), e' stata pubblicata nel suppl. ord. n. 1 alla Gazzetta Ufficiale n. 301 del 30 dicembre 1986.
+ - La [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md) (Legge finanziaria 1987), e' stata pubblicata nel suppl. ord. n. 1 alla Gazzetta Ufficiale n. 301 del 30 dicembre 1986.
 
 ### Art. 50. — Fondo di incentivazione, progetti di produttivita', efficienza del lavoro
 

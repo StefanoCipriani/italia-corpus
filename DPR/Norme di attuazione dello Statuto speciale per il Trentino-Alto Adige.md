@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA.
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
+Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -72,7 +72,7 @@ TITOLO II
 
 ### Art. 12.
 
-Qualora il presidente della Giunta provinciale ometta di prendere i provvedimenti previsti dal [secondo comma dell'art. 46 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_46-com2), la facolta' di prendere i provvedimenti stessi spetta al Commissario del Governo.
+Qualora il presidente della Giunta provinciale ometta di prendere i provvedimenti previsti dal [secondo comma dell'art. 46 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), la facolta' di prendere i provvedimenti stessi spetta al Commissario del Governo.
  In caso di inadempienza del sindaco, provvede il presidente della Giunta provinciale.
 
 ## Delle leggi e dei regolamenti regionali e provinciali.

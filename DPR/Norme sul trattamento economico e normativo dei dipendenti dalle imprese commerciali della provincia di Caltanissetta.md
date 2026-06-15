@@ -36,7 +36,7 @@ I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 14-29 dicembre 1972, n. 206 (in G.U.1a s.s. 3/3/1973, n. 3) ha dichiarato "la illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;414), recante "Norme sul trattamento economico e normativo dei dipendenti dalle imprese commerciali della provincia di Caltanissetta".
+La Corte Costituzionale con sentenza 14-29 dicembre 1972, n. 206 (in G.U.1a s.s. 3/3/1973, n. 3) ha dichiarato "la illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 414](Norme%20sul%20trattamento%20economico%20e%20normativo%20dei%20dipendenti%20dalle%20imprese%20commerciali%20della%20provincia%20di%20Caltanissetta.md), recante "Norme sul trattamento economico e normativo dei dipendenti dalle imprese commerciali della provincia di Caltanissetta".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

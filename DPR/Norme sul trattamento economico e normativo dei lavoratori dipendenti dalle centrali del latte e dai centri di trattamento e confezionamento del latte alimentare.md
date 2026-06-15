@@ -35,7 +35,7 @@ I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 7 - 29 giugno 1963, n. 106 (in G.U. 1a s.s. 02/07/1963, n. 175) ha dichiarato "l'illegittimita' costituzionale del [D.P.R. 16 gennaio 1961, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-16;105)".
+La Corte Costituzionale, con sentenza 7 - 29 giugno 1963, n. 106 (in G.U. 1a s.s. 02/07/1963, n. 175) ha dichiarato "l'illegittimita' costituzionale del [D.P.R. 16 gennaio 1961, n. 105](Norme%20sul%20trattamento%20economico%20e%20normativo%20dei%20lavoratori%20dipendenti%20dalle%20centrali%20del%20latte%20e%20dai%20centri%20di%20trattamento%20e%20confezionamento%20del%20latte%20alimentare.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

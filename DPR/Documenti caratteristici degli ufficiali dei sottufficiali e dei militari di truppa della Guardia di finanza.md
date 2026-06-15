@@ -35,8 +35,8 @@ I documenti caratteristici hanno lo scopo di registrare tempestivamente il giudi
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 2.
 
@@ -52,8 +52,8 @@ I documenti caratteristici per gli ufficiali sono i seguenti:
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 3.
 
@@ -73,8 +73,8 @@ Con la scheda valutativa viene espresso il giudizio su ogni servizio prestato, s
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 4.
 
@@ -87,8 +87,8 @@ Prima di esprimere il giudizio nei riguardi degli ufficiali impiegati in mansion
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 5.
 
@@ -110,8 +110,8 @@ Il periodo minimo per la compilazione della scheda valutativa e' di 150 giorni.
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 6.
 
@@ -133,8 +133,8 @@ I documenti caratteristici sono compilati dall'autorita' dalla quale l'ufficiale
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 7.
 
@@ -145,8 +145,8 @@ I documenti caratteristici non devono contenere alcun riferimento a fatti specif
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 8.
 
@@ -162,8 +162,8 @@ Per gli ufficiali sospesi precauzionalmente dall'impiego sono formati i document
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 9.
 
@@ -181,8 +181,8 @@ Non possono compilare o revisionare documenti caratteristici:
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 10.
 
@@ -197,8 +197,8 @@ I documenti caratteristici sono redatti in duplica esemplare di cui uno e' custo
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 11.
 
@@ -210,8 +210,8 @@ Allorche' un ufficiale passa a prestare servizio alle dipendenze di autorita' ch
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 12.
 
@@ -224,8 +224,8 @@ Nessuna autorita' puo' rilasciare copie di documenti caratteristici, tranne che 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 13.
 
@@ -238,8 +238,8 @@ Le disposizioni contenute nel presente regolamento si applicano anche in tempo d
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 14.
 
@@ -250,8 +250,8 @@ Le norme contenute nel presente regolamento si applicano, in quanto compatibili 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ## Documenti caratteristici per i sottufficiali
 
@@ -270,8 +270,8 @@ I documenti caratteristici per i sottufficiali sono i seguenti:
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 16.
 
@@ -286,13 +286,13 @@ I documenti caratteristici dei sottufficiali sono redatti in duplice esemplare e
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 17.
 
 I documenti caratteristici sono compilati dall'autorita' dalla quale il sottufficiale dipende per il servizio e sono sottoposti alla revisione di non piu' di due autorita' gerarchiche superiori nella stessa linea di servizio. 
- COMMA SOPPRESSO DAL [D.P.R. 18 APRILE 2008, N. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2008-04-18;91). 
+ COMMA SOPPRESSO DAL [D.P.R. 18 APRILE 2008, N. 91](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2013%20febbraio%201967%20n.%20429%20in%20materia%20di%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottoufficiali%20e%20dei%20militari%20d_322de4df5e90.md). 
  La revisione del documento caratteristico compete agli ufficiali o funzionari civili dell'organizzazione della guardia di finanza diretti superiori in carica. 
  Non si fa luogo a revisione o a seconda revisione nei casi in cui il compilatore o il primo revisore siano il comandante di corpo o, comunque, ufficiali che rivestano il grado di colonnello o generale, ovvero autorita' civili che rivestano qualifica di direttore di divisione o qualifiche superiori. 
  ((7))
@@ -301,8 +301,8 @@ I documenti caratteristici sono compilati dall'autorita' dalla quale il sottuffi
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 18.
 
@@ -316,8 +316,8 @@ Per quant'altro riguarda la compilazione e la revisione dei documenti caratteris
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ## Documenti caratteristici per i militari di truppa
 
@@ -342,8 +342,8 @@ Per i militari di truppa sono compilati:
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 ### Art. 20.
 
@@ -367,8 +367,8 @@ Il periodo minimo per la compilazione dello specchio valutativo e' di 150 giorni
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 27 dicembre 2019, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;172) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
- b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-13;429)".
+Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20commi%202%20e%203%20della%20legge%201%20dicembre%202018%20n.%20132%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20_ec3a0710cd49.md) ha disposto (con l'art. 42, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'[articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono abrogati:[...] 
+ b) il [decreto del Presidente della Repubblica 13 febbraio 1967, n. 429](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

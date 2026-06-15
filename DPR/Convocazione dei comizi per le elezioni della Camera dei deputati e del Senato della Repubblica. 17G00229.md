@@ -15,8 +15,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il proprio decreto in data odierna, che dispone lo scioglimento della Camera dei deputati e del Senato della Repubblica; 
  Visti gli [articoli 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_61) e [87, terzo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com3); 
  Visto il testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md); 
- Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;533), e successive modificazioni; 
- Visto l'[articolo 1, comma 399, della legge 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147#art_1-com399); 
+ Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e successive modificazioni; 
+ Visto l'[articolo 1, comma 399, della legge 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md); 
  Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 28 dicembre 2017; 
  Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'interno; 
  

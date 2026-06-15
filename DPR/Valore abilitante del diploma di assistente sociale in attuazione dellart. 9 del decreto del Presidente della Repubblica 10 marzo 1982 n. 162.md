@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vista la [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
@@ -58,7 +58,7 @@ L'efficacia giuridica di cui al presente decreto e' riconosciuta di diritto ai d
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 5 luglio 1989, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-07-05;280) ha disposto (con l'art. 1, comma 1) che alle scuole universitarie per assistenti sociali e di servizio sociale,e' aggiunta la scuola diretta a fini speciali di servizio sociale, istituita presso l'Universita' di Cagliari con [decreto del Presidente della Repubblica 28 ottobre 1983, n. 1215](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Cagliari_128.md).
+Il [D.P.R. 5 luglio 1989, n. 280](Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20gennaio%201987%20n.%2014%20concernente%20il%20valore%20abilitante%20del%20diploma%20di%20assistente%20sociale.md) ha disposto (con l'art. 1, comma 1) che alle scuole universitarie per assistenti sociali e di servizio sociale,e' aggiunta la scuola diretta a fini speciali di servizio sociale, istituita presso l'Universita' di Cagliari con [decreto del Presidente della Repubblica 28 ottobre 1983, n. 1215](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Cagliari_128.md).
 
 ## Art. 4.
 
@@ -88,7 +88,7 @@ Gli interessati dovranno presentare alla scuola che effettua l'esame di convalid
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 5 luglio 1989, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-07-05;280) ha disposto (con l'art. 3, comma 1) che il termine di tre anni previsto dal presente articolo, comma 1, per la convalida dei titoli rilasciati nel precedente ordinamento e' prorogato per un ulteriore periodo di un anno.
+Il [D.P.R. 5 luglio 1989, n. 280](Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20gennaio%201987%20n.%2014%20concernente%20il%20valore%20abilitante%20del%20diploma%20di%20assistente%20sociale.md) ha disposto (con l'art. 3, comma 1) che il termine di tre anni previsto dal presente articolo, comma 1, per la convalida dei titoli rilasciati nel precedente ordinamento e' prorogato per un ulteriore periodo di un anno.
 
 ## Art. 6.
 

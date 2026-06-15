@@ -36,7 +36,7 @@ I rapporti di lavoro costituiti per l'attivita', per la quale e' stato stipulato
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 15-22 gennaio 1976, n. 19 (in G.U. 1a s.s. 28/01/1976, n. 25) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;538), recante "Norme sul trattamento economico e normativo per i lavoratori dipendenti dagli istituti di cura privati della provincia di Caserta"".
+La Corte Costituzionale con sentenza 15-22 gennaio 1976, n. 19 (in G.U. 1a s.s. 28/01/1976, n. 25) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 538](Norme%20sul%20trattamento%20economico%20e%20normativo%20per%20i%20lavoratori%20dipendenti%20dagli%20Istituiti%20di%20cura%20privati%20della%20provincia%20di%20Caserta.md), recante "Norme sul trattamento economico e normativo per i lavoratori dipendenti dagli istituti di cura privati della provincia di Caserta"".
 
 Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

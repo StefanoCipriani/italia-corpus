@@ -49,7 +49,7 @@ Croce sull'Arno; ((3))
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 6 giugno 1957, n. 1480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-06;1480) ha disposto (con l'art. 1, comma 1) che "A decorrere dal 1 ottobre 1957 la Scuola tecnica industriale per chimici conciari di Santa Croce sull'Arno, e' soppressa."
+Il [D.P.R. 6 giugno 1957, n. 1480](Soppressione%20della%20Scuola%20tecnica%20industriale%20per%20chimici%20conciari%20di%20Santa%20Croce%20sullArno.md) ha disposto (con l'art. 1, comma 1) che "A decorrere dal 1 ottobre 1957 la Scuola tecnica industriale per chimici conciari di Santa Croce sull'Arno, e' soppressa."
 
 ## Art. 2.
 

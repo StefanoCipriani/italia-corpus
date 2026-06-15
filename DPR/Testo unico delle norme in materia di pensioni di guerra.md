@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87); 
- Visto l'[art. 13 della legge 29 novembre 1977, n. 875](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-11-29;875#art_13); 
+ Visto l'[art. 13 della legge 29 novembre 1977, n. 875](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Miglioramenti%20economici%20a%20favore%20dei%20pensionati%20di%20guerra%20e%20delega%20al%20Governo%20per%20il%20riordinamento%20delle%20pensioni%20di%20guerra.md); 
  Udito il parere della speciale Commissione parlamentare di cui al predetto art. 13; 
  Sentito il Consiglio dei Ministri; 
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro; 

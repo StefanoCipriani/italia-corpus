@@ -22,7 +22,7 @@ Visto il [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determina
 
 Visto il [decreto del Presidente della Repubblica 1 febbraio 1986, n. 13](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201985-87.md), concernente norme risultanti dalla disciplina prevista dall'accordo intercompartimentale, di cui all'art. 12 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, relativo al triennio 1985-87;
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Viste le deliberazioni del Consiglio dei Ministri con le quali sono state autorizzate le sottoscrizioni delle ipotesi di accordo riguardanti i comparti del personale dei Ministeri, degli enti pubblici non economici, degli enti locali e delle aziende e delle amministrazioni autonome dello Stato, della sanita' e della scuola;
 

@@ -25,4 +25,4 @@ Visto, il Guardasigilli: BONIFACIO
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 giugno - 7 luglio 1988, n. 770 (in G.U. 1ª s.s. 13/07/1988, n. 28), "Dichiara che spetta alla Provincia autonoma di Bolzano istituire nel Comune di Vipiteno un istituto professionale di Stato e, conseguentemente, annulla il [d.P.R. 14 settembre 1976, n. 1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-14;1144)."
+La Corte Costituzionale, con sentenza 22 giugno - 7 luglio 1988, n. 770 (in G.U. 1ª s.s. 13/07/1988, n. 28), "Dichiara che spetta alla Provincia autonoma di Bolzano istituire nel Comune di Vipiteno un istituto professionale di Stato e, conseguentemente, annulla il [d.P.R. 14 settembre 1976, n. 1144](Istituzione%20di%20un%20istituto%20professionale%20di%20Stato%20per%20il%20commercio%20in%20lingua%20tedesca%20in%20Vipiteno.md)."

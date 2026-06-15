@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 6 marzo 1948, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-06;466);
+Visto il [decreto legislativo 6 marzo 1948, n. 466](../Decreti%20Legislativi/Approvazione%20degli%20Accordi%20finanziari%20conclusi%20a%20Roma%20tra%20il%20Governo%20italiano%20ed%20il%20Governo%20del%20Regno%20Unito%20il%2017%20aprile%201947.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -137,7 +137,7 @@ Per l'insegnamento nelle scuole elementari della provincia di Bolzano sono previ
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 4 dicembre 1981, n.761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-04;761) ha disposto (con l'art. 9, comma 1) la soppressione e la sostituzione degli articoli 15 e 16 con il presente articolo.
+Il [D.P.R. 4 dicembre 1981, n.761](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2020%20gennaio%201973%20n.%20116%20in%20materia%20di%20ordinamento%20scolast_ef5d7ec2b9f1.md) ha disposto (con l'art. 9, comma 1) la soppressione e la sostituzione degli articoli 15 e 16 con il presente articolo.
 
 ## Art. 16.
 
@@ -156,7 +156,7 @@ Il [D.P.R. 4 dicembre 1981, n.761](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 4 dicembre 1981, n.761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-04;761) ha disposto (con l'art. 9, comma 1) la soppressione e la sostituzione degli articoli 15 e 16 con il presente articolo.
+Il [D.P.R. 4 dicembre 1981, n.761](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2020%20gennaio%201973%20n.%20116%20in%20materia%20di%20ordinamento%20scolast_ef5d7ec2b9f1.md) ha disposto (con l'art. 9, comma 1) la soppressione e la sostituzione degli articoli 15 e 16 con il presente articolo.
 
 ## Art. 17.
 

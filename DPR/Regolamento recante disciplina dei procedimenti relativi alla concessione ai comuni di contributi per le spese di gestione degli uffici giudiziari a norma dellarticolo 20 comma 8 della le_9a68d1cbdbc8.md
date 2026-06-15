@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), allegato 1, n. 2;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, n. 2;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
@@ -24,19 +24,19 @@ Vista la [legge 15 febbraio 1957, n. 26](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 29 del decreto-legge 14 aprile 1978, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111#art_29), convertito, con modificazioni, dalla [legge 10 giugno 1978, n. 271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20aprile%201978%20n.%20111%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20della%20giustizia.md);
 
-Visto l'[articolo 28 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_28);
+Visto l'[articolo 28 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md);
 
 Visto l'[articolo 19 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_19);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 dicembre 1997;
 
-Sentita la conferenza Statocitta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_9-com3);
+Sentita la conferenza Statocitta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Acquisito il parere della competente commissione della Camera dei deputati;
 
 Essendo decorso inutilmente il termine per l'espressione del parere della competente commissione del Senato della Repubblica;
 
-Considerato che, ai sensi dell'[articolo 20, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com3), e' scaduto il termine per l'emissione del parere della competente commissione parlamentare del Senato della Repubblica;
+Considerato che, ai sensi dell'[articolo 20, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' scaduto il termine per l'emissione del parere della competente commissione parlamentare del Senato della Repubblica;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 9 marzo 1998;
 
@@ -130,7 +130,7 @@ Il parere previsto al comma 3 e' espresso dal presidente della corte d'appello s
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 18 agosto 2015, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2015-08-18;133) ha disposto (con l'art. 3, comma 7) che per effetto di quanto disposto dall'[articolo 1, comma 526, della legge 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190#art_1-com526), sono soppresse, a far data dal 1° settembre 2015, le Commissioni di manutenzione di cui al presente articolo.
+Il [D.P.R. 18 agosto 2015, n. 133](Regolamento%20sulle%20misure%20organizzative%20a%20livello%20centrale%20e%20periferico%20per%20lattuazione%20delle%20disposizioni%20dei%20commi%20527%20528%20529%20e%20530%20dellarticolo%201%20della%20legge%2023%20dicembre%202014%20n.%20190.%2015G00148.md) ha disposto (con l'art. 3, comma 7) che per effetto di quanto disposto dall'[articolo 1, comma 526, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), sono soppresse, a far data dal 1° settembre 2015, le Commissioni di manutenzione di cui al presente articolo.
 
 ## Art. 4. — Disposizioni transitorie
 

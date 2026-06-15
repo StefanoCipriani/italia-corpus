@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262);
+Veduto il [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md);
 
 Veduto il [decreto legislativo 7 maggio 1948, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20di%20ruoli%20speciali%20transitori%20per%20gli%20insegnanti%20degli%20istituti%20e%20scuole%20di%20Istruzione%20media%20classica%20scientifica%20magistrale%20tecnica%20artistica%20di%20avviamento%20professionale%20ed%20elementare.md), ratificato con emendamenti con la [legge 24 dicembre 1951, n. 1634](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201127%20concernente%20Costituzione%20di%20ruoli%20speciali%20transitori%20per%20gli%20insegnanti%20degli%20istituti%20e%20scuole%20di%20Istruzione%20med_cf03b7294a58.md);
 

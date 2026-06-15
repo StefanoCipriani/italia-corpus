@@ -266,7 +266,7 @@ Salvo quanto diversamente disposto dalle norme di attuazione dello statuto che d
 2.
 
 Nel caso in cui l'esercizio delle predette funzioni delegate comporti l'acquisizione di diritti, la regione ovvero le province provvedono ad acquisire al proprio bilancio le entrate conseguenti.
-Di tali entrate si tiene conto ai fini della determinazione dei rimborsi spettanti alla regione ovvero alle provincie autonome ai sensi dell'[articolo 14 del decreto legislativo 16 marzo 1992, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268#art_14), e successive modifiche ed integrazioni.
+Di tali entrate si tiene conto ai fini della determinazione dei rimborsi spettanti alla regione ovvero alle provincie autonome ai sensi dell'[articolo 14 del decreto legislativo 16 marzo 1992, n. 268](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20finanza%20regionale%20e%20provinciale.md), e successive modifiche ed integrazioni.
 
 ))
 

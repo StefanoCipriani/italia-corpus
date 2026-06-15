@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 2, n. 12, della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_2-num12);
+Visto l'[art. 2, n. 12, della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
-Udita la Commissione parlamentare di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3) e [11 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_11);
+Udita la Commissione parlamentare di cui agli [articoli 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md) e [11 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ A decorrere dal 1 luglio 1955 e fino al 30 giugno 1956 e' corrisposto al persona
 
 ## Art. 2.
 
-Per il periodo di cui all'articolo precedente non si applicano le disposizioni del [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-01-07;5#art_1-com2) e [terzo comma dell'art. 1 della legge 7 gennaio 1949, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-01-07;5#art_1-com3), e secondo comma dell'art. 3 della stessa legge, l'[art. 1 della legge 23 aprile 1952, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-23;528#art_1), per la parte riguardante il compenso per lavoro straordinario, l'[art. 3 del decreto legislativo 11 marzo 1948, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-11;240#art_3), e l'[art. 4 della legge 15 giugno 1950, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-15;447#art_4).
+Per il periodo di cui all'articolo precedente non si applicano le disposizioni del [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-01-07;5#art_1-com2) e [terzo comma dell'art. 1 della legge 7 gennaio 1949, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-01-07;5#art_1-com3), e secondo comma dell'art. 3 della stessa legge, l'[art. 1 della legge 23 aprile 1952, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-23;528#art_1), per la parte riguardante il compenso per lavoro straordinario, l'[art. 3 del decreto legislativo 11 marzo 1948, n. 240](../Decreti%20Legislativi/Miglioramenti%20economici%20al%20personale%20direttivo%20insegnante%20ed%20educativo%20degli%20Istituti%20di%20istruzione%20e%20di%20educazione.md), e l'[art. 4 della legge 15 giugno 1950, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-15;447#art_4).
 
 ## Art. 3.
 

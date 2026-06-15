@@ -240,7 +240,7 @@ Il D.P.R. 28 novembre 1974 (in G.U. 14/03/1975, n. 72) ha disposto (con l'art. 1
 
 AGGIORNAMENTO (2)
 
-Il D.P.R. 21 dicembre 1978 (in G.U. 01/04/1979, n. 91) ha disposto (con l'art. 1, comma 1) che "A modifica di quanto stabilito dall'[art. 2 del decreto del Presidente della Repubblica 30 ottobre 1955, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-30;1269#art_2), la denominazione del formaggio «Asiago» e' riconosciuta come denominazione di origine e, pertanto non e' piu' da considerare «tipica»".
+Il D.P.R. 21 dicembre 1978 (in G.U. 01/04/1979, n. 91) ha disposto (con l'art. 1, comma 1) che "A modifica di quanto stabilito dall'[art. 2 del decreto del Presidente della Repubblica 30 ottobre 1955, n. 1269](Riconoscimento%20delle%20denominazioni%20circa%20i%20metodi%20di%20lavorazione%20caratteristiche%20merceologiche%20e%20zone%20di%20produzione%20dei%20formaggi.md), la denominazione del formaggio «Asiago» e' riconosciuta come denominazione di origine e, pertanto non e' piu' da considerare «tipica»".
 
 ## Art. 3.
 

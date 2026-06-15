@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545), e successive modificazioni, ed in particolare gli articoli 36, 39 e 41, i quali prevedono che con regolamento siano emanate norme di attuazione delle disposizioni ivi contenute;
+Visto il [decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), e successive modificazioni, ed in particolare gli articoli 36, 39 e 41, i quali prevedono che con regolamento siano emanate norme di attuazione delle disposizioni ivi contenute;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -33,20 +33,20 @@ Capo I
 
 1.
 
-Il centro informativo del Dipartimento delle entrate del Ministero delle finanze opera, per lo svolgimento dei compiti previsti dall'[articolo 36, comma 1, del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_36-com1), sulla base del sistema informativo gia' attivo presso le commissioni tributarie di primo e secondo grado e presso la commissione tributaria centrale, le cui attivita' di segreteria sono state automatizzate secondo i piani tecnici di automazione del Ministero delle finanze.
+Il centro informativo del Dipartimento delle entrate del Ministero delle finanze opera, per lo svolgimento dei compiti previsti dall'[articolo 36, comma 1, del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), sulla base del sistema informativo gia' attivo presso le commissioni tributarie di primo e secondo grado e presso la commissione tributaria centrale, le cui attivita' di segreteria sono state automatizzate secondo i piani tecnici di automazione del Ministero delle finanze.
 
 2.
 
 Il centro informativo di cui al comma 1:
                             a)
-                                provvede al completamento dell'automazione degli uffici di segreteria delle commissioni tributarie provinciali e regionali istituite ai sensi dell'[articolo 1 del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_1), nonche' alla conduzione del sistema informativo operante presso la commissione tributaria centrale fino alla cessazione del suo funzionamento;
+                                provvede al completamento dell'automazione degli uffici di segreteria delle commissioni tributarie provinciali e regionali istituite ai sensi dell'[articolo 1 del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), nonche' alla conduzione del sistema informativo operante presso la commissione tributaria centrale fino alla cessazione del suo funzionamento;
                             b)
                                 sulla base delle direttive impartite dalla direzione centrale per gli affari giuridici e per il contenzioso tributario presso il Dipartimento delle entrate del Ministero delle finanze di cui all'[articolo 37 del decreto legislativo n. 545 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_37), cura l'evoluzione delle procedure e l'adeguamento delle stesse alle disposizioni sul processo tributario di cui al [decreto legislativo 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), collabora all'addestramento del personale di segreteria per l'utilizzo delle procedure ed all'aggiornamento dello stesso in materia informatica.
  AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Nota al titolo:
- - Si riporta il testo degli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_36), [39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_39) e [41 del D.Lgs. n. 545/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_41), recante ordinamento degli organi speciali di giurisdizione tributaria ed organizzazione degli uffici di collaborazione in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30):
+ - Si riporta il testo degli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_36), [39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_39) e [41 del D.Lgs. n. 545/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_41), recante ordinamento degli organi speciali di giurisdizione tributaria ed organizzazione degli uffici di collaborazione in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md):
  "Art. 36 (Servizi automatizzati). - 1. E' istituito il servizio automatizzato per la gestione delle attivita' degli uffici di segreteria delle commissioni tributarie e del consiglio di presidenza e per le rilevazioni statistiche sull'andamento dei processi comprese la formazione e la tenuta dei ruoli.
  2. Al servizio automatizzato di cui al comma 1 e' preposto il centro informativo del dipartimento delle entrate di cui all'[art. 49 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
  3. Le modalita' di gestione dei servizi automatizzati sono stabiliti con regolamento".
@@ -92,7 +92,7 @@ Il centro informativo di cui all'articolo 1, comma 1, fornisce annualmente alla 
 
 Note all'art. 2:
  - Per il testo dell'[art. 39 del D.Lgs. n. 545/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_39) si veda in nota al titolo.
- - Il [D.Lgs. n. 546/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;546) reca disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30).
+ - Il [D.Lgs. n. 546/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;546) reca disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md).
 
 ### Art. 3. — Rilevazione delle controversie definite
  con provvedimento diverso dalla sentenza
@@ -106,7 +106,7 @@ Il centro informativo del Dipartimento delle entrate comunica annualmente alla d
 
 1.
 
-Le rilevazioni di cui al presente titolo sono trasmesse tramite il centro informativo di cui all'articolo 1, comma 1, al consiglio di presidenza della giustizia tributaria per la predisposizione degli elementi posti a base della relazione che il Ministro delle finanze presenta al Parlamento ai sensi dell'[articolo 29, comma 2, del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_29-com2).
+Le rilevazioni di cui al presente titolo sono trasmesse tramite il centro informativo di cui all'articolo 1, comma 1, al consiglio di presidenza della giustizia tributaria per la predisposizione degli elementi posti a base della relazione che il Ministro delle finanze presenta al Parlamento ai sensi dell'[articolo 29, comma 2, del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md).
 
 Nota all'art. 4:
  - Si riporta il testo dell'[art. 29 del D.Lgs. n. 545/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_29) citato in nota al titolo:
@@ -122,7 +122,7 @@ Capo III
 
 1.
 
-I corsi di aggiornamento di cui all'[articolo 41, comma 1, del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_41-com1), possono essere organizzati e svolti, oltre che presso la sede centrale e le sedi decentrate della scuola centrale tributaria, anche presso le direzioni regionali delle entrate.
+I corsi di aggiornamento di cui all'[articolo 41, comma 1, del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), possono essere organizzati e svolti, oltre che presso la sede centrale e le sedi decentrate della scuola centrale tributaria, anche presso le direzioni regionali delle entrate.
 
 Nota all'art. 5:
  - Per il testo dell'[art. 41 del D.Lgs. n. 545/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_41) si veda in nota al titolo.
@@ -131,7 +131,7 @@ Nota all'art. 5:
 
 1.
 
-I programmi di insegnamento, la durata e le modalita' di esecuzione dei corsi di cui all'articolo 5, sono stabiliti d'intesa con la direzione centrale di cui all'[articolo 37, comma 1, del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_37-com1), e con il consiglio di presidenza della giustizia tributaria, dal rettore della scuola centrale tributaria.
+I programmi di insegnamento, la durata e le modalita' di esecuzione dei corsi di cui all'articolo 5, sono stabiliti d'intesa con la direzione centrale di cui all'[articolo 37, comma 1, del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), e con il consiglio di presidenza della giustizia tributaria, dal rettore della scuola centrale tributaria.
 
 2.
 
@@ -139,7 +139,7 @@ Ai componenti di commissione tributaria non si applica la disposizione di cui al
 
 3.
 
-La partecipazione ai corsi costituisce giustificato motivo di assenza dalle sedute delle commissioni tributarie, ai sensi dell'[articolo 12, comma 1, lettera e), del decreto legislativo n. 545 del 31 dicembre 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_12-com1-lete).
+La partecipazione ai corsi costituisce giustificato motivo di assenza dalle sedute delle commissioni tributarie, ai sensi dell'[articolo 12, comma 1, lettera e), del decreto legislativo n. 545 del 31 dicembre 1992](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md).
 
 4.
 

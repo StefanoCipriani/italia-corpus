@@ -96,7 +96,7 @@ all'[art. 27 della legge 29 novembre 1971, n. 1073](../Atti%20di%20recepimento%2
 
 AGGIORNAMENTO (3)
 
-La Corte Costituzionale, con sentenza 27 ottobre - 15 novembre 1988, n. 1034 (in G.U. 1ª s.s. 23/11/1988, n. 47), "dichiara [...] che non spetta allo Stato indicare gli uffici ai quali deve essere presentato il rapporto previsto dall'[art. 17, primo comma, della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17-com1), in conseguenza delle infrazioni a obblighi o divieti posti dalle seguenti disposizioni: [...] e annulla, conseguentemente, in parte qua, l'[art. 1 del d.P.R. 29 luglio 1982, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-29;571#art_1)".
+La Corte Costituzionale, con sentenza 27 ottobre - 15 novembre 1988, n. 1034 (in G.U. 1ª s.s. 23/11/1988, n. 47), "dichiara [...] che non spetta allo Stato indicare gli uffici ai quali deve essere presentato il rapporto previsto dall'[art. 17, primo comma, della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17-com1), in conseguenza delle infrazioni a obblighi o divieti posti dalle seguenti disposizioni: [...] e annulla, conseguentemente, in parte qua, l'[art. 1 del d.P.R. 29 luglio 1982, n. 571](Norme%20per%20lattuazione%20degli%20articoli%2015%20ultimo%20comma%20e%2017%20penultimo%20comma%20della%20legge%2024%20novembre%201981%20n.%20689%20concernente%20modifiche%20al%20sistema%20penale.md)".
 
 ### Art. 2.
 

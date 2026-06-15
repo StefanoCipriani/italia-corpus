@@ -70,7 +70,7 @@ Nell'ambito dei criteri di cui ai commi 2, 3 e 4, i documenti amministrativi pos
 
  
 AGGIORNAMENTO (3) 
- Il [D.P.R. 12 aprile 2006, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-12;184) ha disposto (con l'art. 15, comma 1) che "E' altresi' abrogato l'articolo 8 di detto decreto dalla data entrata in vigore del regolamento di cui all'articolo 24, comma 6, della legge."
+ Il [D.P.R. 12 aprile 2006, n. 184](Regolamento%20recante%20disciplina%20in%20materia%20di%20accesso%20ai%20documenti%20amministrativi.md) ha disposto (con l'art. 15, comma 1) che "E' altresi' abrogato l'articolo 8 di detto decreto dalla data entrata in vigore del regolamento di cui all'articolo 24, comma 6, della legge."
 
 ## Art. 9.
 

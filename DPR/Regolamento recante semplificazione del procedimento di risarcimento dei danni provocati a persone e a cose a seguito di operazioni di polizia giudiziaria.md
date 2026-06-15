@@ -14,7 +14,7 @@ Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Visto l'[articolo 14 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_14);
 
@@ -24,7 +24,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere della competente commissione della Camera dei deputati;
 
-Considerato che i termini per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), e' scaduto in data 6 aprile 1994;
+Considerato che i termini per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' scaduto in data 6 aprile 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 24 marzo 1994;
 

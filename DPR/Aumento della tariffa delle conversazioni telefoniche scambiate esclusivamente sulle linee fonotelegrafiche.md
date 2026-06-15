@@ -14,7 +14,7 @@ Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato col [regi
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 15 settembre 1947, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-15;896);
 
-Visto il [decreto legislativo 1 aprile 1948, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-01;485);
+Visto il [decreto legislativo 1 aprile 1948, n. 485](../Decreti%20Legislativi/Aumento%20della%20tariffa%20per%20le%20conversazioni%20telefoniche%20scambiate%20esclusivamente%20sulle%20linee%20fonotelegrafiche.md);
 
 Visto il [decreto Presidenziale 1 settembre 1948, n. 1153](Tariffe%20telefoniche%20interurbane.md), che apporta modifiche alle tariffe telefoniche interurbane;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico.
 
-La tariffa, delle conversazioni telefoniche scambiate esclusivamente sulle linee fonotelegrafiche, stabilita col [decreto legislativo 1 aprile 1948, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-01;485), e' aumentata come segue dal 1 maggio 1949:
+La tariffa, delle conversazioni telefoniche scambiate esclusivamente sulle linee fonotelegrafiche, stabilita col [decreto legislativo 1 aprile 1948, n. 485](../Decreti%20Legislativi/Aumento%20della%20tariffa%20per%20le%20conversazioni%20telefoniche%20scambiate%20esclusivamente%20sulle%20linee%20fonotelegrafiche.md), e' aumentata come segue dal 1 maggio 1949:
  L. 16 su linee fino a 3 chilometri;
  L. 32 su linee da oltre 3 chilometri fino a 25 chilometri;
  L. 47 su linee oltre i 25 chilometri.

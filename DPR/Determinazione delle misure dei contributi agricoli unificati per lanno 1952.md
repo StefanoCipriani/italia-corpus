@@ -18,7 +18,7 @@ Visto l'[art. 2 della legge 22 novembre 1949, n. 861](https://www.normattiva.it/
 
 Visto il [decreto del Presidente della Repubblica 9 gennaio 1951, n. 16](Determinazione%20delle%20misure%20dei%20contributi%20agricoli%20unificati%20per%20lanno%201951.md);
 
-Sentita la Commissione centrale di cui ai [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75);
+Sentita la Commissione centrale di cui ai [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md);
 
 Sentito il Consiglio dei Ministri;
 

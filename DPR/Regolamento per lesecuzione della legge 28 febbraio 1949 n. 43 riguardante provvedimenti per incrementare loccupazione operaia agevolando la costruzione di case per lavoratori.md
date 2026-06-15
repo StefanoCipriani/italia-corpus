@@ -264,7 +264,7 @@ I piani tecnico-finanziari per la costruzione degli alloggi, ivi compresi quelli
 
 Le aree occorrenti per la esecuzione dei programmi di costruzione nelle singole localita' devono essere scelte preferenzialmente tra quelle offerte gratuitamente od a condizioni di particolare favore.
  Le aree necessarie devono essere scelte fra quelle gia' ben provvedute dei normali servizi pubblici esistenti nelle localita'. Le delimitate da, pubbliche strade o comunque comodamente allacciate alle pubbliche strade.
- Nei Comuni danneggiati a seguito di eventi bellici, per i quali esista un piano di ricostruzione regolarmente approvato ai sensi del [decreto luogotenenziale 1 marzo 1945, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;154), saranno utilizzate possibilmente le aree ricadenti nella zona che, secondo il piano di ricostruzione, e' destinata alla espansione dell'abitato, sempreche' dette aree rispondano ai requisiti richiesti.
+ Nei Comuni danneggiati a seguito di eventi bellici, per i quali esista un piano di ricostruzione regolarmente approvato ai sensi del [decreto luogotenenziale 1 marzo 1945, n. 154](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20i%20piani%20di%20ricostruzione%20degli%20abitati%20danneggiati%20dalla%20guerra.%20045U0154.md), saranno utilizzate possibilmente le aree ricadenti nella zona che, secondo il piano di ricostruzione, e' destinata alla espansione dell'abitato, sempreche' dette aree rispondano ai requisiti richiesti.
 
 ### Art. 32.
 

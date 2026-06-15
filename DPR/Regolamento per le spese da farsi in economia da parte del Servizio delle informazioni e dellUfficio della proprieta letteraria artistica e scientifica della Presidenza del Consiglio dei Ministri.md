@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 8 aprile 1948, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-08;274), e successive modificazioni e integrazioni;
+Visto il [decreto legislativo 8 aprile 1948, n. 274](../Decreti%20Legislativi/Sistemazione%20del%20servizi%20stampa%20spettacolo%20e%20del%20Commissariato%20del%20turismo%20nonche%20dei%20relativi%20ruoli%20organici.md), e successive modificazioni e integrazioni;
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni;
 

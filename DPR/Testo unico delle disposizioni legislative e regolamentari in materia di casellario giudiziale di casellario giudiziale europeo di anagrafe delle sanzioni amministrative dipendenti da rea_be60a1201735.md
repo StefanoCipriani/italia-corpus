@@ -16,7 +16,7 @@ Visti gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leg
 
 Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), come modificato dall'[articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-letd) ed [e), della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-lete);
 
-Visti gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20) e [20-bis della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20bis);
+Visti gli [articoli 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [20-bis della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Visti i numeri 8 e 55 dell'allegato n. 1 della [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
 
@@ -62,11 +62,11 @@ Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
                             b)
                                 "casellario dei carichi pendenti" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari riferiti a soggetti determinati che hanno la qualita' di imputato;
                             c)
-                                "anagrafe delle sanzioni amministrative dipendenti da reato" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari che applicano, agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, le sanzioni amministrative dipendenti da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "anagrafe delle sanzioni amministrative dipendenti da reato" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari che applicano, agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, le sanzioni amministrative dipendenti da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             d)
-                                "anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari riferiti agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, cui e' stato contestato l'illecito amministrativo dipendente da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari riferiti agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, cui e' stato contestato l'illecito amministrativo dipendente da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             e)
-                                "ente" e' l'ente fornito di personalita' giuridica, la societa' e l'associazione, anche priva di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "ente" e' l'ente fornito di personalita' giuridica, la societa' e l'associazione, anche priva di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             e-bis)
                                 «procedimento penale» e' il procedimento, sia nella fase delle indagini preliminari che nelle fasi successive all'esercizio dell'azione penale;
                             f)
@@ -127,7 +127,7 @@ Nel casellario giudiziale si iscrivono per estratto:
                             g)
                                 i provvedimenti giudiziari definitivi di condanna alle pene sostitutive e i provvedimenti di conversione di cui agli [articoli 66, terzo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_66-com3), e [72, quarto comma, della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_72-com4);
                             g-bis)
-                                i provvedimenti di conversione di cui agli [articoli 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_71), [102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_102), [103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_103) e [108 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_108), e di cui all'[articolo 55 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_55);
+                                i provvedimenti di conversione di cui agli [articoli 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_71), [102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_102), [103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_103) e [108 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_108), e di cui all'[articolo 55 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md);
                             h)
                                 i provvedimenti giudiziari del pubblico ministero previsti dagli [articoli 656, comma 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_656-com5), [657](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_656-com657) e [663 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_656-com663);
                             i)
@@ -147,11 +147,11 @@ Nel casellario giudiziale si iscrivono per estratto:
                             p)
                                 i provvedimenti giudiziari definitivi di interdizione e inabilitazione e quelli di revoca, nonche' i decreti che istituiscono, modificano o revocano l'amministrazione di sostegno;
                             q)
-                                LETTERA ABROGATA DAL [D.LGS. 12 SETTEMBRE 2007, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-09-12;169).
+                                LETTERA ABROGATA DAL [D.LGS. 12 SETTEMBRE 2007, N. 169](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20regio%20decreto%2016%20marzo%201942%20n.%20267%20nonche%20al%20decreto%20legislativo%209%20gennaio%202006%20n.%205%20in%20materia%20di%20disciplina%20del%20fallimento%20del%20concordato%20preven_de5dc85ee768.md).
                             r)
-                                i provvedimenti giudiziari relativi all'espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione, ai sensi dell'[articolo 16 del decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286#art_16), come sostituito dall'[art. 15 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_15);
+                                i provvedimenti giudiziari relativi all'espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione, ai sensi dell'[articolo 16 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), come sostituito dall'[art. 15 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_15);
                             s)
-                                i provvedimenti amministrativi di espulsione e i provvedimenti giudiziari che decidono il ricorso avverso i primi, ai sensi dell'[articolo 13 del decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286#art_13), come modificato dall'[art. 12 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_12);
+                                i provvedimenti amministrativi di espulsione e i provvedimenti giudiziari che decidono il ricorso avverso i primi, ai sensi dell'[articolo 13 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), come modificato dall'[art. 12 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_12);
                             t)
                                 i provvedimenti di correzione, a norma di legge, dei provvedimenti gia' iscritti;
                             u)
@@ -170,7 +170,7 @@ La [L. 28 aprile 2014, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 4.
 
@@ -202,7 +202,7 @@ L'estratto del provvedimento giudiziario penale contiene, inoltre, secondo il ti
                             a)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato;
                             b)
-                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, misure alternative alla detenzione, con riferimento a ciascun reato, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6, del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_6);
+                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, misure alternative alla detenzione, con riferimento a ciascun reato, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6, del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md);
                             c)
                                 misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere. 
  
@@ -236,7 +236,7 @@ Sono, inoltre, eliminate le iscrizioni relative:
                             h)
                                 ai provvedimenti giudiziari di condanna relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati, trascorsi cinque anni dal giorno in cui la sanzione e' stata eseguita se e' stata inflitta la pena pecuniaria, o dieci anni se e' stata inflitta una pena diversa, se nei periodi indicati non e' stato commesso un ulteriore reato;
                             i)
-                                LETTERA ABROGATA DAL [D.LGS. 12 SETTEMBRE 2007, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-09-12;169);
+                                LETTERA ABROGATA DAL [D.LGS. 12 SETTEMBRE 2007, N. 169](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20regio%20decreto%2016%20marzo%201942%20n.%20267%20nonche%20al%20decreto%20legislativo%209%20gennaio%202006%20n.%205%20in%20materia%20di%20disciplina%20del%20fallimento%20del%20concordato%20preven_de5dc85ee768.md);
                             l)
                                 ai provvedimenti amministrativi di espulsione, quando sono annullati con provvedimento giudiziario o amministrativo definitivo;
                             l-bis)
@@ -257,7 +257,7 @@ Le iscrizioni di provvedimenti giudiziari relativi a minori di eta' sono elimina
 
 AGGIORNAMENTO (4)
 
-La Corte Costituzionale, con sentenza 4 - 8 ottobre 2010, n. 287 (in G.U. 1a s.s. 13/10/2010 n. 41) ha dichiarato l'illegittimita' costituzionale dell'[art. 5, comma 2, lettera d), del d.P.R. 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313#art_5-com2-letd) (Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti), limitatamente all'inciso "salvo che sia stato concesso alcuno dei benefici di cui agli [articoli 163](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+La Corte Costituzionale, con sentenza 4 - 8 ottobre 2010, n. 287 (in G.U. 1a s.s. 13/10/2010 n. 41) ha dichiarato l'illegittimita' costituzionale dell'[art. 5, comma 2, lettera d), del d.P.R. 14 novembre 2002, n. 313](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md) (Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti), limitatamente all'inciso "salvo che sia stato concesso alcuno dei benefici di cui agli [articoli 163](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 -------------
 
@@ -270,7 +270,7 @@ La [L. 28 aprile 2014, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ## Casellario giudiziale europeo))
 
@@ -336,7 +336,7 @@ Titolo III
 
 Nel casellario dei carichi pendenti si iscrivono per estratto:
                             a)
-                                i provvedimenti giudiziari di cui all'[articolo 60, comma 1, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_60-com1), il provvedimento di revoca della sentenza di non luogo a procedere, il decreto di citazione di cui all'[articolo 636, comma 1, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_636-com1), i provvedimenti giudiziari di cui all'[articolo 3 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_3);
+                                i provvedimenti giudiziari di cui all'[articolo 60, comma 1, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_60-com1), il provvedimento di revoca della sentenza di non luogo a procedere, il decreto di citazione di cui all'[articolo 636, comma 1, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_636-com1), i provvedimenti giudiziari di cui all'[articolo 3 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md);
                             b)
                                 ogni altro provvedimento giudiziario che decide sull'imputazione, emesso nelle fasi e nei gradi successivi.
 
@@ -361,14 +361,14 @@ Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il t
                             e)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato;
                             f)
-                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_6);
+                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md);
                             g)
                                 misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere.
 
 (estensione [art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 r.d. n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7))
 
 Note all'art. 7:
- - Per il testo dell'[art. 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[art. 6 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_6), vedi note all'art. 4.
+ - Per il testo dell'[art. 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[art. 6 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), vedi note all'art. 4.
  - Per il testo degli articoli 6 e 7 del citato [regio decreto n. 778 del 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778), vedi note all'art. 4.
 
 ### Art. 8.
@@ -387,7 +387,7 @@ Le iscrizioni nel casellario dei carichi pendenti sono eliminate:
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ## Anagrafe delle sanzioni amministrative dipendenti da reato
 
@@ -401,7 +401,7 @@ Titolo IV
 
 Nell'anagrafe delle sanzioni amministrative dipendenti da reato si iscrivono per estratto:
                             a)
-                                i provvedimenti giudiziari definitivi che applicano agli enti le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                i provvedimenti giudiziari definitivi che applicano agli enti le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             b)
                                 i provvedimenti giudiziari definitivi relativi all'esecuzione delle stesse sanzioni;
                             c)
@@ -410,7 +410,7 @@ Nell'anagrafe delle sanzioni amministrative dipendenti da reato si iscrivono per
 (art. 80, c. 2, [d.lgs. n. 231/2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;231))
 
 Note all'art. 9:
- - Per il titolo del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), vedi nota all'art. 2.
+ - Per il titolo del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), vedi nota all'art. 2.
  - Per il testo dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), vedi note alle premesse.
  - Per completezza di informazione si riporta il testo dell'[art. 80 del decreto legislativo n. 231/2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;231#art_80), abrogato a decorrere dall'entrata in vigore del testo unico qui pubblicato:
  "Art. 80 (Anagrafe nazionale delle sanzioni amministrative). - 1. Presso il casellario giudiziale centrale e' istituita l'anagrafe nazionale delle sanzioni amministrative di cui al capo II.
@@ -437,12 +437,12 @@ Ogni provvedimento giudiziario e' iscritto per estratto contenente i seguenti da
                             f)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
                             g)
-                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231#art_21).
+                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md).
 
 (estensione [artt. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 r.d. n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7))
 
 Note all'art. 10:
- - Si riporta il testo dell'art. 21 del citato [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231):
+ - Si riporta il testo dell'art. 21 del citato [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md):
  "Art. 21 (Pluralita' di illeciti). - 1. Quando l'ente e' responsabile in relazione ad una pluralita' di reati commessi con una unica azione od omissione ovvero commessi nello svolgimento di una medesima attivita' e prima che per uno di essi sia stata pronunciata sentenza anche non definitiva, si applica la sanzione pecuniaria prevista per l'illecito piu' grave aumentata fino al triplo. Per effetto di detto aumento, l'ammontare della sanzione pecuniaria non puo' comunque essere superiore alla somma delle sanzioni applicabili per ciascun illecito.
  2. Nei casi previsti dal comma 1, quando in relazione a uno o piu' degli illeciti ricorrono le condizioni per l'applicazione delle sanzioni interdittive, si applica quella prevista per l'illecito piu' grave.".
  - Per gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 del regio decreto n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7), vedi note all'art. 4.
@@ -457,7 +457,7 @@ Le iscrizioni nell'anagrafe delle sanzioni amministrative sono eliminate trascor
  (art. 80, c. 2, [d.lgs. n. 231/2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;231))
 
 Note all'art. 11:
- - Per l'art. 80, comma 2, del citato [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), vedi note all'art. 9.
+ - Per l'art. 80, comma 2, del citato [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), vedi note all'art. 9.
 
 ## Anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato
 
@@ -478,7 +478,7 @@ Nell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da r
 (art. 110, c. 1, [lett. c), d.lgs. n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271#art_letc), e raccordo con gli [artt. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;231#art_36) e [59 d.lgs. n. 231/2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;231#art_59))
 
 Note all'art. 12:
- - Per completezza di informazione si riporta il testo degli articoli 36 e 59 del citato [decreto legislativo 8 giugno 2001, n. 231; per l'art. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231#art_110) del [decreto legislativo n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271) vedi note all'art. 6:
+ - Per completezza di informazione si riporta il testo degli articoli 36 e 59 del citato [decreto legislativo 8 giugno 2001, n. 231; per l'art. 110](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md) del [decreto legislativo n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271) vedi note all'art. 6:
  "Art. 36 (Attribuzioni del giudice penale). - 1. La competenza a conoscere gli illeciti amministrativi dell'ente appartiene al giudice penale competente per i reati dai quali gli stessi dipendono.
  2. Per il procedimento di accertamento dell'illecito amministrativo dell'ente si osservano le disposizioni sulla composizione del tribunale e le disposizioni processuali collegate relative ai reati dai quali l'illecito amministrativo dipende.".
  "Art. 59 (Contestazione dell'illecito amministrativo).
@@ -505,12 +505,12 @@ Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il t
                             f)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
                             g)
-                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231#art_21).
+                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md).
 
 (estensione [artt. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 r.d. n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7))
 
 Note all'art. 13:
- - Per il testo dell'art. 21 del citato [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), vedi note all'art. 10.
+ - Per il testo dell'art. 21 del citato [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), vedi note all'art. 10.
  - Per gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 del regio decreto n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7), vedi note all'art. 4.
 
 ### Art. 14.
@@ -572,7 +572,7 @@ L'ufficio iscrizione se riscontra contrasti tra il provvedimento da iscrivere e 
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 16.
 
@@ -592,14 +592,14 @@ L'ufficio territoriale rilascia i certificati, esclusi quelli richiesti da autor
  ([art. 51 d.lgs. n. 274/2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_51) e [art. 20 d.m. n. 204/2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2001;204#art_20))
 
 Note all'art. 17:
- - Per completezza di informazione si riporta il testo dell'art. 51 del citato [decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274), come modificato dal testo unico qui pubblicato:
+ - Per completezza di informazione si riporta il testo dell'art. 51 del citato [decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), come modificato dal testo unico qui pubblicato:
  "Art. 51 (Disposizioni regolamentari e sulla tenuta dei registri). - 1. Con regolamento emanato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro centocinquanta giorni dalla pubblicazione del presente decreto legislativo, il Ministro della giustizia adotta le disposizioni regolamentari relative ai procedimenti penali davanti al giudice di pace, che concernono:
  a) le modalita' di formazione e tenuta dei fascicoli degli uffici giudiziari;
  b) (lettera abrogata);
  c) le altre attivita' necessarie per l'attuazione del presente decreto legislativo.
  2. Il parere del Consiglio di Stato sul regolamento previsto nel comma 1 e' reso entro trenta giorni dalla richiesta.
  3. La disciplina sulla tenuta in forma automatizzata dei registri e delle altre forme di registrazione in materia penale e' adottata con decreto del Ministro della giustizia.".
- - Per completezza di informazione si riporta il testo dell'[art. 20 del decreto ministeriale 6 aprile 2001, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2001-04-06;204#art_20) (Regolamento di esecuzione del [decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274), recante disposizioni sulla competenza penale del giudice di pace), abrogato a decorrere dall'entrata in vigore del testo unico qui pubblicato.
+ - Per completezza di informazione si riporta il testo dell'[art. 20 del decreto ministeriale 6 aprile 2001, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2001-04-06;204#art_20) (Regolamento di esecuzione del [decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), recante disposizioni sulla competenza penale del giudice di pace), abrogato a decorrere dall'entrata in vigore del testo unico qui pubblicato.
  "Art. 20. - 1. I certificati del casellario giudiziale di cui all'[art. 689 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_689) possono essere richiesti e ritirati presso la cancelleria del giudice di pace. Con decreto del Ministro della giustizia vengono disciplinate le attivita' dirette al rilascio dei certificati.".
 
 ### Art. 18.
@@ -677,7 +677,7 @@ L'Ufficio centrale svolge, altresi', i seguenti compiti:
                             f)
                                 risponde alle richieste di informazioni sul casellario giudiziale europeo formulate da un cittadino italiano ovvero risponde alla richiesta di informazioni sulle condanne presentata da un cittadino di altro Stato membro rivolgendo istanza all'autorita' centrale dello Stato membro di cittadinanza di quest'ultimo;
                             f-bis)
-                                risponde alle richieste di informazioni sul casellario giudiziale formulate da un cittadino di Paese terzo, da una persona di cui non e' nota la cittadinanza e da un apolide alle condizioni e secondo le modalita' previste dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_6) e [7 del decreto legislativo 12 maggio 2016, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_7);
+                                risponde alle richieste di informazioni sul casellario giudiziale formulate da un cittadino di Paese terzo, da una persona di cui non e' nota la cittadinanza e da un apolide alle condizioni e secondo le modalita' previste dagli [articoli 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md) e [7 del decreto legislativo 12 maggio 2016, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md);
                             g)
                                 risponde alle richieste di informazioni sulle condanne formulate dalle autorita' centrali di altri Stati membri, per fini diversi da un procedimento penale.
 
@@ -697,7 +697,7 @@ L'ufficio centrale, infine, svolge le seguenti attivita' di supporto:
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 20.
 
@@ -803,7 +803,7 @@ Nel certificato sono riportate le iscrizioni esistenti nel casellario giudiziale
                             m-ter)
                                 alle sentenze che ai sensi dell'[articolo 464-septies del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_464septies) dichiarano estinto il reato per esito positivo della messa alla prova; (11)
                             n)
-                                LETTERA ABROGATA DAL [D.LGS. 12 SETTEMBRE 2007, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-09-12;169). (3) (11a)
+                                LETTERA ABROGATA DAL [D.LGS. 12 SETTEMBRE 2007, N. 169](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20regio%20decreto%2016%20marzo%201942%20n.%20267%20nonche%20al%20decreto%20legislativo%209%20gennaio%202006%20n.%205%20in%20materia%20di%20disciplina%20del%20fallimento%20del%20concordato%20preven_de5dc85ee768.md). (3) (11a)
 
 1-bis.
 
@@ -820,29 +820,29 @@ Se e' stata dichiarata la riabilitazione speciale ai sensi dell'[articolo 24 del
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 settembre 2007, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-09-12;169) ha disposto (con l'art. 21, comma 2) che "Per le procedure concorsuali aperte a far data dal 16 gennaio 2006, il richiamo alla riabilitazione civile del fallito disposta con sentenza definitiva, nell'articolo 24 (L), comma 1, lettera n), e nell'articolo 26 (L), comma 1, lettera b), del citato [decreto del Presidente della Repubblica n. 313 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;313), si intende riferito al decreto definitivo di chiusura del fallimento."
+Il [D.Lgs. 12 settembre 2007, n. 169](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20regio%20decreto%2016%20marzo%201942%20n.%20267%20nonche%20al%20decreto%20legislativo%209%20gennaio%202006%20n.%205%20in%20materia%20di%20disciplina%20del%20fallimento%20del%20concordato%20preven_de5dc85ee768.md) ha disposto (con l'art. 21, comma 2) che "Per le procedure concorsuali aperte a far data dal 16 gennaio 2006, il richiamo alla riabilitazione civile del fallito disposta con sentenza definitiva, nell'articolo 24 (L), comma 1, lettera n), e nell'articolo 26 (L), comma 1, lettera b), del citato [decreto del Presidente della Repubblica n. 313 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;313), si intende riferito al decreto definitivo di chiusura del fallimento."
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ---------------
 
 AGGIORNAMENTO (11a)
 
-La Corte Costituzionale, con sentenza 7 novembre - 7 dicembre 2018, n. 231 (in G.U. 1ª s.s. 12/12/2018, n. 49), ha dichiarato "l'illegittimita' costituzionale degli [artt. 24, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313#art_24-com1), e [25, comma 1, del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313#art_25-com1), recante «Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti (Testo A)», nel testo anteriore alle modifiche, non ancora efficaci, recate dal [decreto legislativo 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) (Disposizioni per la revisione della disciplina del casellario giudiziale, in attuazione della delega di cui all'[articolo 1, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com18) e [19, della legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com19)), nella parte in cui non prevedono che nel certificato generale e nel certificato penale del casellario giudiziale richiesti dall'interessato non siano riportate le iscrizioni dell'ordinanza di sospensione del processo con messa alla prova dell'imputato ai sensi dell'[art. 464-quater, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_464quater) e della sentenza che dichiara l'estinzione del reato ai sensi dell'[art. 464-septies, cod. proc. pen.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_464septies)".
+La Corte Costituzionale, con sentenza 7 novembre - 7 dicembre 2018, n. 231 (in G.U. 1ª s.s. 12/12/2018, n. 49), ha dichiarato "l'illegittimita' costituzionale degli [artt. 24, comma 1](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md), e [25, comma 1, del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md), recante «Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti (Testo A)», nel testo anteriore alle modifiche, non ancora efficaci, recate dal [decreto legislativo 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) (Disposizioni per la revisione della disciplina del casellario giudiziale, in attuazione della delega di cui all'[articolo 1, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com18) e [19, della legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com19)), nella parte in cui non prevedono che nel certificato generale e nel certificato penale del casellario giudiziale richiesti dall'interessato non siano riportate le iscrizioni dell'ordinanza di sospensione del processo con messa alla prova dell'imputato ai sensi dell'[art. 464-quater, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_464quater) e della sentenza che dichiara l'estinzione del reato ai sensi dell'[art. 464-septies, cod. proc. pen.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_464septies)".
 
 ---------------
 
 AGGIORNAMENTO (12)
 
-La Corte Costituzionale, con sentenza 24 giugno - 30 luglio 2020, n. 179 (in G.U. 1ª s.s. 5/8/2020, n. 32), ha dichiarato "l'illegittimita' costituzionale dell'[art. 24 del d.P.R. 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313#art_24), recante «Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di casellario giudiziale europeo, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti (Testo A)», nella parte in cui non prevede, tanto nella versione antecedente, quanto in quella successiva alle modifiche intervenute ad opera del [decreto legislativo 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) (Disposizioni per la revisione della disciplina del casellario giudiziale in attuazione della delega di cui all'[articolo 1, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com18) e [19, della legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com19)), che nel certificato del casellario giudiziale richiesto dall'interessato non siano riportate le iscrizioni della sentenza di condanna per uno dei reati di cui all'[art. 186 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)) che sia stato dichiarato estinto in seguito al positivo svolgimento del lavoro di pubblica utilita', nonche' dell'ordinanza che dichiara l'estinzione del reato medesimo ai sensi dell'[art. 186, comma 9-bis, cod. strada](../Codici/Nuovo%20codice%20della%20strada.md)".
+La Corte Costituzionale, con sentenza 24 giugno - 30 luglio 2020, n. 179 (in G.U. 1ª s.s. 5/8/2020, n. 32), ha dichiarato "l'illegittimita' costituzionale dell'[art. 24 del d.P.R. 14 novembre 2002, n. 313](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md), recante «Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di casellario giudiziale europeo, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti (Testo A)», nella parte in cui non prevede, tanto nella versione antecedente, quanto in quella successiva alle modifiche intervenute ad opera del [decreto legislativo 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) (Disposizioni per la revisione della disciplina del casellario giudiziale in attuazione della delega di cui all'[articolo 1, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com18) e [19, della legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103#art_1-com19)), che nel certificato del casellario giudiziale richiesto dall'interessato non siano riportate le iscrizioni della sentenza di condanna per uno dei reati di cui all'[art. 186 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)) che sia stato dichiarato estinto in seguito al positivo svolgimento del lavoro di pubblica utilita', nonche' dell'ordinanza che dichiara l'estinzione del reato medesimo ai sensi dell'[art. 186, comma 9-bis, cod. strada](../Codici/Nuovo%20codice%20della%20strada.md)".
 
 ### Art. 25.
 
-ARTICOLO ABROGATO DAL [D.LGS. 2 OTTOBRE 2018, N. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ((12))
+ARTICOLO ABROGATO DAL [D.LGS. 2 OTTOBRE 2018, N. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ((12))
 
 ---------------
 
@@ -862,7 +862,7 @@ Certificato ((...)) del casellario giudiziale richiesto dal datore di lavoro ((1
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 25-ter. — (Certificato del casellario giudiziale europeo richiesto dall'interessato)
 
@@ -878,13 +878,13 @@ Il certificato di cui al comma 1 contiene anche l'attestazione relativa alla sus
 
 Il cittadino di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale acquisisce da esso le informazioni relative alle condanne pronunciate nello Stato membro di cittadinanza e a quelle dallo stesso ricevute e conservate, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
 
-((2-bis. Il cittadino di Paese terzo, la persona di cui non e' nota la cittadinanza e l'apolide che rivolge richiesta di informazioni all'Ufficio centrale acquisiscono da esso le informazioni relative alle condanne pronunciate nei loro confronti nei limiti previsti dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_6) e [7 del decreto legislativo 12 maggio 2016, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_7).))
+((2-bis. Il cittadino di Paese terzo, la persona di cui non e' nota la cittadinanza e l'apolide che rivolge richiesta di informazioni all'Ufficio centrale acquisiscono da esso le informazioni relative alle condanne pronunciate nei loro confronti nei limiti previsti dagli [articoli 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md) e [7 del decreto legislativo 12 maggio 2016, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md).))
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 26.
 
@@ -918,7 +918,7 @@ Nel certificato sono riportate le iscrizioni esistenti nel casellario dei carich
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 28.
 
@@ -983,7 +983,7 @@ In caso di comunicazione prevista dall'articolo 20, comma 3, i certificati conte
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 28-bis. — (Certificato del casellario giudiziale europeo richiesto dalla pubblica amministrazione)
 
@@ -1003,7 +1003,7 @@ Nella risposta alla richiesta di informazioni da parte della pubblica amministra
 
 2-bis.
 
-Nella risposta alla richiesta di informazioni da parte della pubblica amministrazione in ordine ad un cittadino di Paese terzo, ad una persona di cui non e' nota la cittadinanza e ad un apolide sono riportate le informazioni sulle condanne acquisite alle condizioni e secondo le modalita' previste dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_6) e [7 del decreto legislativo 12 maggio 2016, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_7).
+Nella risposta alla richiesta di informazioni da parte della pubblica amministrazione in ordine ad un cittadino di Paese terzo, ad una persona di cui non e' nota la cittadinanza e ad un apolide sono riportate le informazioni sulle condanne acquisite alle condizioni e secondo le modalita' previste dagli [articoli 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md) e [7 del decreto legislativo 12 maggio 2016, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md).
 
 ))
 
@@ -1015,13 +1015,13 @@ La pubblica amministrazione di altro Stato membro dell'Unione europea che rivolg
                             b)
                                 nel casellario giudiziale europeo, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
 
-((3-bis. La pubblica amministrazione di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale nei confronti di un cittadino di Paese terzo, di una persona di cui non e' nota la cittadinanza e di un apolide cittadino italiano acquisisce da esso le informazioni relative alle condanne acquisite alle condizioni e secondo le modalita' previste dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_6) e [7 del decreto legislativo 12 maggio 2016, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-12;74#art_7).))
+((3-bis. La pubblica amministrazione di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale nei confronti di un cittadino di Paese terzo, di una persona di cui non e' nota la cittadinanza e di un apolide cittadino italiano acquisisce da esso le informazioni relative alle condanne acquisite alle condizioni e secondo le modalita' previste dagli [articoli 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md) e [7 del decreto legislativo 12 maggio 2016, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-315-GAI%20relativa%20allorganizzazione%20e%20al%20contenuto%20degli%20scambi%20fra%20gli%20Stati%20membri%20di%20informazioni%20estratte%20dal%20casellario%20giudiziario.%2016G00090.md).))
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 29.
 
@@ -1097,7 +1097,7 @@ amministrativi dipendenti da reato acquisito dall'autorita' giudiziaria)
  (art. 81, c. 1, primo periodo, c. 2, [d.lgs. n. 231/2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;231))
 
 Note all'art. 30:
- - Per completezza di informazione si riporta il testo dell'art. 81 del citato [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), abrogato dall'entrata in vigore del testo unico qui pubblicato:
+ - Per completezza di informazione si riporta il testo dell'art. 81 del citato [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), abrogato dall'entrata in vigore del testo unico qui pubblicato:
  "Art. 81 (Certificati dell'anagrafe). - 1. Ogni organo avente giurisdizione, ai sensi del presente decreto legislativo, in ordine all'illecito amministrativo dipendente da reato ha diritto di ottenere, per ragioni di giustizia, il certificato di tutte le iscrizioni esistenti nei confronti dell'ente. Uguale diritto appartiene a tutte le pubbliche amministrazioni e agli enti incaricati di pubblici servizi quando il certificato e' necessario per provvedere ad un atto delle loro funzioni, in relazione all'ente cui il certificato stesso si riferisce.
  2. Il pubblico ministero puo' richiedere, per ragioni di giustizia, il predetto certificato dell'ente sottoposto a procedimento di accertamento della responsabilita' amministrativa dipendente da reato.
  3. L'ente al quale le iscrizioni si riferiscono ha diritto di ottenere il relativo certificato senza motivare la domanda.
@@ -1160,7 +1160,7 @@ Gli altri uffici abilitati sono individuati con le modalita' di cui all'articolo
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 34.
 
@@ -1255,7 +1255,7 @@ La consultazione del sistema da parte dell'autorita' giudiziaria, ai fini dell'a
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ## Garanzie giurisdizionali
 
@@ -1288,7 +1288,7 @@ Note all'art. 40:
  9. Il verbale di udienza e' redatto soltanto in forma riassuntiva a norma dell'art. 140, comma 2.".
  - Per completezza di informazione si riporta il testo dell'[art. 690 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_690):
  "Art. 690 (Questioni concernenti le iscrizioni e i certificati). - 1. Sulle questioni concernenti le iscrizioni e i certificati decide, in composizione monocratica e con le forme stabilite dall'art. 666, il tribunale del luogo dove ha sede l'ufficio del casellario giudiziale.".
- - Per completezza di informazione si riporta il testo dell'art. 82 del citato [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), abrogato a decorrere dall'entrata in vigore del testo unico qui pubblicato:
+ - Per completezza di informazione si riporta il testo dell'art. 82 del citato [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), abrogato a decorrere dall'entrata in vigore del testo unico qui pubblicato:
  "Art. 82 (Questioni concernenti le iscrizioni e i certificati). - 1. Sulle questioni relative alle iscrizioni e ai certificati dell'anagrafe e' competente il tribunale di Roma, che decide in composizione monocratica osservando le disposizioni di cui all'art. 78.".
 
 ## Sistema informativo
@@ -1396,7 +1396,7 @@ L'ufficio centrale elimina dal sistema tutte le iscrizioni esistenti incompatibi
 
 1.
 
-Le iscrizioni relative ai reati di cui all'[articolo 4, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_4-com1) e [2, del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_4-com2), commessi prima del 2 gennaio 2002, non sono riportate nei certificati ((di cui agli articoli 24 e 27)), e sono eliminate secondo le previsioni dell'articolo 5, comma 2, lettere e), g) ed h). ((11)) 
+Le iscrizioni relative ai reati di cui all'[articolo 4, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md) e [2, del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), commessi prima del 2 gennaio 2002, non sono riportate nei certificati ((di cui agli articoli 24 e 27)), e sono eliminate secondo le previsioni dell'articolo 5, comma 2, lettere e), g) ed h). ((11)) 
  
  (art. 63, c. 2, [d.lgs. n. 274/2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274) e raccordo con l'art. 64, c. 2, [d.lgs. n. 274/2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274), nella parte in cui rinvia all'art. 63, c. 2, stesso d.lgs.)
 
@@ -1404,7 +1404,7 @@ Le iscrizioni relative ai reati di cui all'[articolo 4, commi 1](https://www.nor
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 46.
 
@@ -1441,7 +1441,7 @@ Per le persone nate all'estero, o delle quali non si e' potuto accertare il luog
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 48.
 
@@ -1469,11 +1469,11 @@ All'[articolo 46, comma 1, del decreto del Presidente della Repubblica 28 dicemb
                             a)
                                 alla lettera aa) dopo le parole: "che riguardano l'applicazione" sono aggiunte le seguenti: "di misure di sicurezza e";
                             b)
-                                dopo la lettera bb) e' inserita la seguente: "bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001,n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);".
+                                dopo la lettera bb) e' inserita la seguente: "bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001,n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);".
 
 Note all'art. 49:
  - Per il testo dell'[art. 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), vedi note all'art. 39.
- - Per il titolo [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), vedi note all'art. 2.
+ - Per il titolo [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), vedi note all'art. 2.
 
 ### Art. 50.
 
@@ -1499,7 +1499,7 @@ Ogni richiamo delle norme relative al casellario giudiziale, all'anagrafe delle 
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 ottobre 2018, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;122) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+Il [D.Lgs. 2 ottobre 2018, n. 122](../Decreti%20Legislativi/Disposizioni%20per%20la%20revisione%20della%20disciplina%20del%20casellario%20giudiziale%20in%20attuazione%20della%20delega%20di%20cui%20allarticolo%201%20commi%2018%20e%2019%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00148.md) ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
 
 ### Art. 52.
 
@@ -1519,18 +1519,18 @@ Dalla data di entrata in vigore del presente testo unico sono o restano abrogate
 - gli [articoli da 685](Approvazione%20del%20codice%20di%20procedura%20penale.md) [a 690 del decreto del Presidente della Repubblica 22 settembre 1988, n. 447](Approvazione%20del%20codice%20di%20procedura%20penale.md);
 - gli [articoli 14](Approvazione%20delle%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md) e [15 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448](Approvazione%20delle%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md);
 - l'[articolo 10, comma 2, della legge 21 febbraio 1989, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-21;99#art_10-com2);
-- del [decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), gli articoli: 110, [comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;272#art_com2), [da 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;272#art_com194) [a 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;272#art_com197) e [237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;272#art_com237);
-- gli [articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;272#art_18) e [19 del decreto legislativo 28 luglio 1989, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;272#art_19);
-- del [decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274), gli articoli: 45; 46; 51, comma 1, lettera b); 63, comma 2; 64, comma 2, limitatamente alle parole: " e 2" e, conseguentemente, la parola:
+- del [decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), gli articoli: 110, [comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20448%20recante%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md), [da 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20448%20recante%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md) [a 197](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20448%20recante%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md) e [237](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20448%20recante%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md);
+- gli [articoli 18](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20448%20recante%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md) e [19 del decreto legislativo 28 luglio 1989, n. 272](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20448%20recante%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md);
+- del [decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), gli articoli: 45; 46; 51, comma 1, lettera b); 63, comma 2; 64, comma 2, limitatamente alle parole: " e 2" e, conseguentemente, la parola:
  "commi" e' sostituita dalla seguente: "comma";
-- del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), gli articoli: 80, 81, 82 e 85, comma 1, lettera b).
+- del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), gli articoli: 80, 81, 82 e 85, comma 1, lettera b).
 
 Note all'art. 52:
  - Si riporta il testo dell'[art. 17 del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_17) (Disciplina del fallimento del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa), come modificato dal testo unico qui pubblicato:
  "Art. 17 (Comunicazione e pubblicazione della sentenza dichiarativa di fallimento). - La sentenza che dichiara il fallimento e' comunicata per estratto, a norma dell'[art. 136 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_136), al debitore, al curatore e al creditore richiedente, non piu' tardi del giorno successivo alla sua data. L'estratto deve contenere il nome delle parti, il dispositivo e la data della sentenza.
  Nello stesso termine, uguale estratto e' affisso a cura del cancelliere alla porta esterna del tribunale e comunicato al pubblico ministero, all'ufficio del registro delle imprese per l'iscrizione da farsi non oltre il giorno successivo al ricevimento, e alla cancelleria del tribunale nella cui giurisdizione il debitore e' nato o la societa' fu costituita.
  L'estratto della sentenza e' inoltre pubblicato nel foglio degli annunzi legali della provincia a cura del cancel1iere.".
- - Si riporta il testo dell'art. 85 del citato [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), come modificato dal testo unico qui pubblicato:
+ - Si riporta il testo dell'art. 85 del citato [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), come modificato dal testo unico qui pubblicato:
  "Art. 85 (Disposizioni regolamentari). - 1. Con regolamento emanato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro sessanta giorni dalla data di pubblicazione del presente decreto legislativo, il Ministro della giustizia adotta le disposizioni regolamentari relative al procedimento di accertamento dell'illecito amministrativo che concernono:
  a) le modalita' di formazione e tenuta dei fascicoli degli uffici giudiziari;
  b) (abrogata);

@@ -18,7 +18,7 @@ Visto il [decreto del Capo provvisorio dello Stato 20 settembre 1947, n. 1820](h
 
 Considerata l'opportunita' di sopprimere l'ulteriore corso di un anno per elettricisti istituto con l'anzidetto [regio decreto 28 settembre 1933, n. 2076](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20laboratorio-scuola%20di%20Tivoli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2076.md);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1277), con il quale, fra l'altro, i capi officina assumono la qualifica di insegnanti tecnici pratici;
+Visto il [decreto legislativo 7 maggio 1948, n. 1277](../Decreti%20Legislativi/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20degli%20istituti%20e%20delle%20scuole%20di%20istruzione%20tecnica.md), con il quale, fra l'altro, i capi officina assumono la qualifica di insegnanti tecnici pratici;
 
 Sulla proposta del Ministro Segretario di Stato per la pubblica, istruzione, di concerto con il Ministro Segretario di Stato per il tesoro; Decreta:
 

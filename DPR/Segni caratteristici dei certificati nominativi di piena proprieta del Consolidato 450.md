@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398), approvato con [regio decreto 17 luglio 1910, n. 536](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e successive modificazioni;
+Visto il [testo unico delle leggi sul Debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [regio decreto 17 luglio 1910, n. 536](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e successive modificazioni;
 
 Visto che i titoli nominativi di piena proprieta' del Consolidato quattro e mezzo per cento, creato con la [legge 22 luglio 1894, n. 339](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), allegato L, rimarranno privi di tagliandi di ricevuta con la riscossione della rata trimestrale di interessi di scadenza 1 aprile 1959;
 

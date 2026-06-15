@@ -14,7 +14,7 @@ Visto l'[art. 48 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it
 
 Visto l'[art. 9 della legge 23 marzo 1981, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;93#art_9), concernente disposizioni integrative della [legge 3 dicembre 1971, n. 1102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-03;1102), recante nuove norme per lo sviluppo della montagna, che ha integrato la suddetta delegazione con i rappresentanti designati dall'Unione nazionale comuni e comunita' enti montani (UNCEM), in rappresentanza delle comunita' montane che hanno assunto funzione di unita' sanitarie locali;
 
-Visto l'art. 24, ultimo comma, della [legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730);
+Visto l'art. 24, ultimo comma, della [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md);
 
 Vista la [legge 12 giugno 1990, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146), recante norme sull'esercizio del diritto di sciopero nei servizi pubblici essenziali e sulla salvaguardia dei diritti della persona costituzionalmente tutelati.
 

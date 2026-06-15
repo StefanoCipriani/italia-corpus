@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
 
-Sentito il parere della commissione paritetica prevista dall'[art. 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56-com1) del Consiglio, regionale della regione autonoma della Sardegna;
+Sentito il parere della commissione paritetica prevista dall'[art. 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md) del Consiglio, regionale della regione autonoma della Sardegna;
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ TITOLO I
 
 ### Art. 1.
 
-Il presente decreto attua il trasferimento alla regione autonoma della Sardegna delle funzioni amministrative nelle materie indicate dagli articoli 3, 4 e 5 dello statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), ancora esercitate dagli organi centrali e periferici dello Stato e da enti pubblici nazionali, e la delega alla stessa regione dell'esercizio di altre funzioni amministrative ai sensi dell'art. 6 di detto statuto.
+Il presente decreto attua il trasferimento alla regione autonoma della Sardegna delle funzioni amministrative nelle materie indicate dagli articoli 3, 4 e 5 dello statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), ancora esercitate dagli organi centrali e periferici dello Stato e da enti pubblici nazionali, e la delega alla stessa regione dell'esercizio di altre funzioni amministrative ai sensi dell'art. 6 di detto statuto.
  Negli articoli seguenti e' usata per indicare la regione autonoma della Sardegna la sola parola "regione".
 
 ### Art. 2.

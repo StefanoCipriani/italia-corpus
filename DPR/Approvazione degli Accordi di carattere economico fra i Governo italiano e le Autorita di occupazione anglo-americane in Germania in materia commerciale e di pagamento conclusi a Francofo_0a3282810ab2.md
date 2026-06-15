@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 10 aprile 1948, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-10;885);
+Visto il [decreto legislativo 10 aprile 1948, n. 885](../Decreti%20Legislativi/Accordi%20fra%20il%20Governo%20italiano%20e%20le%20Amministrazioni%20militari%20sovietica%20ed%20anglo-americana%20in%20Germania%20in%20materia%20commerciale%20e%20di%20pagamento%20stipulati%20in%20Berlino%20il%2028%20giugno-3%20luglio%201947.md);
 
 Sentito il Consiglio dei Ministri;
 

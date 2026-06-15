@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Vista la [legge 23 novembre 1939, n. 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1966);
 
@@ -28,7 +28,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere della competente commissione della Camera dei deputati;
 
-Considerato che i termini per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), e' scaduto in data 9 marzo 1994;
+Considerato che i termini per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' scaduto in data 9 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 aprile 1994;
 
@@ -42,11 +42,11 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina il procedimento di autorizzazione all'esercizio dell'attivita' fiduciaria e di revisione di competenza del Ministero dell'industria, del commercio e dell'artigianato, inserito nell'elenco n. 4 della [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537).
+Il presente regolamento disciplina il procedimento di autorizzazione all'esercizio dell'attivita' fiduciaria e di revisione di competenza del Ministero dell'industria, del commercio e dell'artigianato, inserito nell'elenco n. 4 della [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 2.
 
-Esso disciplina, altresi', i procedimenti, ad esso connessi ai sensi dell'[art. 2, comma 7, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com7), di revoca e sospensione dell'autorizzazione delle societa' fiduciarie e di revisione.
+Esso disciplina, altresi', i procedimenti, ad esso connessi ai sensi dell'[art. 2, comma 7, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), di revoca e sospensione dell'autorizzazione delle societa' fiduciarie e di revisione.
 
 3.
 

@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Presupposto dell'imposta locale sui redditi e' il possesso di redditi in denaro 
 
 AGGIORNAMENTO (4)
 
-La Corte Costituzionale con sentenza 25 - 26 marzo 1980, n. 42 (in G.U. 1a s.s. del 02.04.1980 n.92) ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, n. 1, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_4-num1), e dell'[art. 1, secondo comma, del d.P.R. 29 settembre 1973, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;599#art_1-com2), in quanto non escludono i redditi di lavoro autonomo, che non siano assimilabili ai redditi d'impresa, dall'imposta locale sui redditi"
+La Corte Costituzionale con sentenza 25 - 26 marzo 1980, n. 42 (in G.U. 1a s.s. del 02.04.1980 n.92) ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, n. 1, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e dell'[art. 1, secondo comma, del d.P.R. 29 settembre 1973, n. 599](Istituzione%20e%20disciplina%20dellimposta%20locale%20sui%20redditi.md), in quanto non escludono i redditi di lavoro autonomo, che non siano assimilabili ai redditi d'impresa, dall'imposta locale sui redditi"
 
 ## Art. 2. — Soggetti passivi
 
@@ -75,7 +75,7 @@ L'imposta e' dovuta per periodi d'imposta, a ciascuno dei quali corrisponde un'o
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 24 dicembre 1976, n.920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-12-24;920) ha disposto (con l'art. 4 comma 2) che "la disposizione concernente l'[art. 6 del decreto del Presidente della Repubblica 29 settembre 1973, numero 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;599#art_6), si applica dal 1 gennaio 1976."
+Il [D.P.R. 24 dicembre 1976, n.920](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20numeri%20599%20600%20e%20602%20concernenti%20limposta%20locale%20sui%20redditi%20laccertamento%20e%20la%20riscoss_2ec2caf72b94.md) ha disposto (con l'art. 4 comma 2) che "la disposizione concernente l'[art. 6 del decreto del Presidente della Repubblica 29 settembre 1973, numero 599](Istituzione%20e%20disciplina%20dellimposta%20locale%20sui%20redditi.md), si applica dal 1 gennaio 1976."
 
 ## Art. 7. — Deduzione dai redditi agrari, d'impresa e di lavoro autonomo
 
@@ -88,7 +88,7 @@ Nei confronti delle persone fisiche e' dedotta, dal reddito d'impresa, dal reddi
 
 ## Art. 8. — Accertamento, riscossione e attribuzione dell'imposta
 
-L'imposta locale sui redditi e' accertata a cura degli uffici delle imposte secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, numero 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), ed e' riscossa secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+L'imposta locale sui redditi e' accertata a cura degli uffici delle imposte secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, numero 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), ed e' riscossa secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
  Il gettito dell'imposta e' attribuito direttamente ai comuni, alle province, alle regioni, alle camere di commercio, industria, agricoltura e artigianato ed alle aziende autonome di cura, soggiorno o turismo nella cui circoscrizione il reddito e' prodotto. Si applicano le disposizioni del testo unico delle leggi sui servizi per la riscossione delle imposte dirette, approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), e successive modificazioni e integrazioni.
 
 ## Art. 9. — Aliquote
@@ -126,7 +126,7 @@ Ai fini dell'attribuzione del gettito dell'imposta e della determinazione delle 
 
 Se il reddito e' prodotto in piu' comuni il contribuente deve indicare nella dichiarazione annuale, sulla base dei criteri di cui all'art. 11, le quote di reddito prodotte in ciascun comune.
  L'ufficio delle imposte di domicilio fiscale del contribuente, anche ai fini delle iscrizioni previste dall'[art. 15 del decreto del Presidente della Repubblica 20 settembre 1973, n. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-20;602#art_15), comunica agli uffici competenti per la formazione dei ruoli la quota di reddito prodotta nei comuni dei rispettivi distretti, notificando il riparto agli enti destinatari del gettito.
- L'ufficio delle imposte di domicilio fiscale del contribuente, entro i termini previsti dall'[art. 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_43), puo' rettificare la ripartizione di cui al primo comma o procedere al riparto quando il contribuente non abbia indicato nella dichiarazione le quote di cui al primo comma o abbia omesso la dichiarazione. Il provvedimento deve essere notificato al contribuente e agli enti interessati.
+ L'ufficio delle imposte di domicilio fiscale del contribuente, entro i termini previsti dall'[art. 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), puo' rettificare la ripartizione di cui al primo comma o procedere al riparto quando il contribuente non abbia indicato nella dichiarazione le quote di cui al primo comma o abbia omesso la dichiarazione. Il provvedimento deve essere notificato al contribuente e agli enti interessati.
  Le notifiche di cui ai precedenti commi sono eseguite a cura del comune di domicilio fiscale del contribuente.
  Contro i provvedimenti di ripartizione del reddito, gli enti interessati ed il contribuente possono ricorrere al Ministro per le finanze.
  Il provvedimento del Ministro e' impugnabile dinanzi al tribunale amministrativo regionale o dinanzi al Consiglio di Stato a seconda che gli enti interessati appartengano alla stessa o a diverse regioni.

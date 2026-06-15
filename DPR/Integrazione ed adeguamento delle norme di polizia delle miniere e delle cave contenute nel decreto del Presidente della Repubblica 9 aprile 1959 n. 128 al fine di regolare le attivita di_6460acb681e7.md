@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 25 ottobre 1978, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-10-25;682), relativa alla delega al Governo per la integrazione e la modifica delle norme contenute nel [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), concernente norme di polizia delle miniere e delle cave, ai fini dell'adeguamento delle norme stesse alle attivita' di prospezione, di ricerca e di coltivazione degli idrocarburi nel mare territoriale e nella piattaforma continentale;
+Vista la [legge 25 ottobre 1978, n. 682](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20integrazione%20e%20la%20modifica%20delle%20norme%20contenute%20nel%20decreto%20del%20Presidente%20della%20Repubblica%209%20aprile%201959%20n.%20128%20concernente%20norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), relativa alla delega al Governo per la integrazione e la modifica delle norme contenute nel [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), concernente norme di polizia delle miniere e delle cave, ai fini dell'adeguamento delle norme stesse alle attivita' di prospezione, di ricerca e di coltivazione degli idrocarburi nel mare territoriale e nella piattaforma continentale;
 
 Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 
@@ -671,7 +671,7 @@ Le piattaforme fisse di produzione e strutture assimilabili gia' installate devo
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 14 maggio 2007, n.78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;78) ha disposto (con l'art. 1, comma 1) che "E' istituita, presso la Direzione generale per l'energia e le risorse minerarie, la Commissione per gli idrocarburi e le risorse minerarie," nella quale e' accorpata la Commissione Consultiva di cui al presente articolo.
+Il [D.P.R. 14 maggio 2007, n.78](Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dello%20sviluppo%20economico%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazio_c9fc371d5802.md) ha disposto (con l'art. 1, comma 1) che "E' istituita, presso la Direzione generale per l'energia e le risorse minerarie, la Commissione per gli idrocarburi e le risorse minerarie," nella quale e' accorpata la Commissione Consultiva di cui al presente articolo.
 
 ## DIFFIDE - DENUNCE INTERVENTI AMMINISTRATIVI VARI - RICORSI
 

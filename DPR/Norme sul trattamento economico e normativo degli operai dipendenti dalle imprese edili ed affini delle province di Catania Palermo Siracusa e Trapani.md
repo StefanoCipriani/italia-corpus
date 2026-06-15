@@ -63,25 +63,25 @@ sono regolati da norme giuridiche uniformi alle clausole del contratto e degli a
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 18 marzo-2 aprile 1964, n. 31 (in G.U. 1a s.s. 11/04/1964 n. 91) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 11 dicembre 1961, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1642), per la parte in cui rende obbligatorio erga omnes la clausola 9 dell'accordo di lavoro del 30 settembre 1959 per la Provincia di Palermo, in relazione all'[art. 1 della legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741#art_1), per violazione degli artt. 76 e 77, primo comma, della Costituzione."
+La Corte Costituzionale, con sentenza 18 marzo-2 aprile 1964, n. 31 (in G.U. 1a s.s. 11/04/1964 n. 91) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 11 dicembre 1961, n. 1642](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20operai%20dipendenti%20dalle%20imprese%20edili%20ed%20affini%20delle%20province%20di%20Catania%20Palermo%20Siracusa%20e%20Trapani.md), per la parte in cui rende obbligatorio erga omnes la clausola 9 dell'accordo di lavoro del 30 settembre 1959 per la Provincia di Palermo, in relazione all'[art. 1 della legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741#art_1), per violazione degli artt. 76 e 77, primo comma, della Costituzione."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 23 ottobre-12 novembre 1964, n. 78 (in G.U. 1a s.s. 14/11/1964 n. 282) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 11 dicembre 1961, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1642), per la parte in cui dichiara obbligatorie erga omnes le clausole 9 e 13 dell'accordo di lavoro del 30 settembre 1959 per la Provincia di Palermo, in relazione all'[art. 1 della legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741#art_1), per violazione degli artt. 76 e 77, primo comma, della Costituzione."
+La Corte Costituzionale, con sentenza 23 ottobre-12 novembre 1964, n. 78 (in G.U. 1a s.s. 14/11/1964 n. 282) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 11 dicembre 1961, n. 1642](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20operai%20dipendenti%20dalle%20imprese%20edili%20ed%20affini%20delle%20province%20di%20Catania%20Palermo%20Siracusa%20e%20Trapani.md), per la parte in cui dichiara obbligatorie erga omnes le clausole 9 e 13 dell'accordo di lavoro del 30 settembre 1959 per la Provincia di Palermo, in relazione all'[art. 1 della legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741#art_1), per violazione degli artt. 76 e 77, primo comma, della Costituzione."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-La Corte Costituzionale, con sentenza 26 maggio-9 giugno 1965, n. 43 (in G.U. 1a s.s. 19/06/1965 n. 151) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 11 dicembre 1961, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1642), per la parte in cui rende obbligatoria erga omnes la clausola 10 dell'accordo integrativo provinciale di lavoro 30 settembre 1959 per gli operai addetti alle industrie edilizia ed affini della Provincia di Palermo."
+La Corte Costituzionale, con sentenza 26 maggio-9 giugno 1965, n. 43 (in G.U. 1a s.s. 19/06/1965 n. 151) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 11 dicembre 1961, n. 1642](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20operai%20dipendenti%20dalle%20imprese%20edili%20ed%20affini%20delle%20province%20di%20Catania%20Palermo%20Siracusa%20e%20Trapani.md), per la parte in cui rende obbligatoria erga omnes la clausola 10 dell'accordo integrativo provinciale di lavoro 30 settembre 1959 per gli operai addetti alle industrie edilizia ed affini della Provincia di Palermo."
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-La Corte Costituzionale, con sentenza 5 - 11 maggio 1971, n. 101 (in G.U. 1a s.s. 12/05/1971 n. 119) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 11 dicembre 1961, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1642), nella parte in cui rende efficace erga omnes l'art. 12, terzo comma, dell'accordo collettivo 8 novembre 1957 per gli operai edili della provincia di Siracusa, modificato dal comma b dell'accordo collettivo 26 febbraio 1959."
+La Corte Costituzionale, con sentenza 5 - 11 maggio 1971, n. 101 (in G.U. 1a s.s. 12/05/1971 n. 119) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 11 dicembre 1961, n. 1642](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20operai%20dipendenti%20dalle%20imprese%20edili%20ed%20affini%20delle%20province%20di%20Catania%20Palermo%20Siracusa%20e%20Trapani.md), nella parte in cui rende efficace erga omnes l'art. 12, terzo comma, dell'accordo collettivo 8 novembre 1957 per gli operai edili della provincia di Siracusa, modificato dal comma b dell'accordo collettivo 26 febbraio 1959."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

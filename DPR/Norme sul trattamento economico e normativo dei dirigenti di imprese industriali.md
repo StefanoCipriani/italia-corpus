@@ -66,7 +66,7 @@ Sono regolati da norme giuridiche uniformi alle clausole del contratto e degli a
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 12-20 gennaio 1971, n. 7 (in G.U. 1a s.s. 27/1/1971, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 2 gennaio 1962, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;483): "Norme sul trattamento economico e normativo dei dirigenti di imprese industriali", che rende esecutivo erga omnes il contratto collettivo per i dirigenti di aziende industriali 31 dicembre 1948, limitatamente all'art. 12 di detto contratto, nella parte in cui esclude che siano dovute al dirigente dimissionario le indennita' di anzianita'".
+La Corte Costituzionale con sentenza 12-20 gennaio 1971, n. 7 (in G.U. 1a s.s. 27/1/1971, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 2 gennaio 1962, n. 483](Norme%20sul%20trattamento%20economico%20e%20normativo%20dei%20dirigenti%20di%20imprese%20industriali.md): "Norme sul trattamento economico e normativo dei dirigenti di imprese industriali", che rende esecutivo erga omnes il contratto collettivo per i dirigenti di aziende industriali 31 dicembre 1948, limitatamente all'art. 12 di detto contratto, nella parte in cui esclude che siano dovute al dirigente dimissionario le indennita' di anzianita'".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

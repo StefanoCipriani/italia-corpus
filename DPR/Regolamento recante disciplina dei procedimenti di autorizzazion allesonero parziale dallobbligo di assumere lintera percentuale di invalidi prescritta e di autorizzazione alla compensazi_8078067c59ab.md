@@ -16,13 +16,13 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Vista la [legge 2 aprile 1968, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 marzo 1994;
 
@@ -162,10 +162,10 @@ Il Ministero del lavoro e della previdenza sociale stabilisce gli uffici e gli o
 
 1.
 
-Ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), dalla entrata in vigore del presente regolamento, sono abrogati l'articolo 13, commi 5 e 6; 17, comma 1, lettera f); 21 e 22 della [legge 2 aprile 1968, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md).
+Ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla entrata in vigore del presente regolamento, sono abrogati l'articolo 13, commi 5 e 6; 17, comma 1, lettera f); 21 e 22 della [legge 2 aprile 1968, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md).
 
 Note all'[art. 7:
- - Per la legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_7), si vedano le precedenti note alle premesse.
+ - Per la legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si vedano le precedenti note alle premesse.
  - Il testo dell'[articolo 13, commi 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md) e [6 della legge 2 aprile 1968, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), e' il seguente:
  "Art. 13 (Esclusioni, esoneri).
  (Omissis).

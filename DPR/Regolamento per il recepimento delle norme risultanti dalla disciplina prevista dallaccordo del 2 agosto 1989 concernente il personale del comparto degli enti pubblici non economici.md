@@ -28,7 +28,7 @@ Vista la circolare del Ministro per la funzione pubblica in data 28 ottobre 1988
 
 Visto il decreto del Ministro per la funzione pubblica in data 20 dicembre 1988, pubblicato nella Gazzetta Ufficiale n. 304 del 29 dicembre 1988, che ha designato i componenti delle delegazioni trattanti l'accordo sindacale per il personale del comparto degli enti pubblici non economici;
 
-Viste le [leggi 11 marzo 1988, n. 67 e 24 dicembre 1988, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-24;541), recanti disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (leggi finanziarie 1988 e 1989);
+Viste le [leggi 11 marzo 1988, n. 67 e 24 dicembre 1988, n. 541](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201989.md), recanti disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (leggi finanziarie 1988 e 1989);
 
 Visto l'[art. 27 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), in materia di oneri a carico dei bilanci degli enti del settore pubblico allargato;
 

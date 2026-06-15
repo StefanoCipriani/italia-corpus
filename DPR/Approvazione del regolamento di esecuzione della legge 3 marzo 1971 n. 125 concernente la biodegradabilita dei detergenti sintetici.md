@@ -10,4 +10,4 @@ vigente: true
 
 ## Art. 1.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 APRILE 1989, N.250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-04-05;250)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 APRILE 1989, N.250](Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20aprile%201983%20n.%20136%20concernente%20la%20biodegradabilita%20dei%20detergenti%20sintetici%20nonche%20abrogazione%20del%20regolamento%20di%20esecuzione%20dell_0241a249c359.md)))

@@ -91,7 +91,7 @@ Il dirigente generale medico e' nominato tra i dirigenti superiori medici del ru
 ## Art. 19. — Organi competenti alla compilazione del rapporto informativo per il personale in servizio presso il Dipartimento della pubblica sicurezza
 
 Il rapporto informativo, redatto a norma degli [articoli 62](Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md) e [63 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), per il personale di cui al presente decreto in servizio presso il Dipartimento della pubblica sicurezza e' compilato: 
- a) LETTERA SOPPRESSA DAL [D.LGS. 29 MAGGIO 2017, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;95); 
+ a) LETTERA SOPPRESSA DAL [D.LGS. 29 MAGGIO 2017, N. 95](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20dei%20ruoli%20delle%20Forze%20di%20polizia%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20riorganizzazione%20delle%20ammin_5572a7d1051a.md); 
  ((b) per il medico principale e il medico veterinario principale, dal direttore della divisione o ufficio equiparato da cui dipendono.
 Il giudizio complessivo e' espresso dal direttore centrale di sanita';)) 
  c) ((LETTERA ABROGATA DAL D.LGS 5 OTTOBRE 2018, N. 126)).
@@ -105,7 +105,7 @@ Il [D.L. 4 ottobre 1990, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 ## Art. 20. — Organi competenti alla compilazione del rapporto informativo per il personale in servizio presso gli uffici sanitari periferici.
 
 Il rapporto informativo del personale di cui al presente decreto legislativo in servizio presso gli uffici e reparti periferici, e' compilato: 
- a) LETTERA SOPPRESSA DAL [D.LGS. 29 MAGGIO 2017, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;95); 
+ a) LETTERA SOPPRESSA DAL [D.LGS. 29 MAGGIO 2017, N. 95](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20dei%20ruoli%20delle%20Forze%20di%20polizia%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20riorganizzazione%20delle%20ammin_5572a7d1051a.md); 
  b) per ((...)) i medici principali, per ((...)) i medici veterinari principali, rispettivamente, dal primo dirigente medico o dal primo dirigente medico veterinario dal quale direttamente dipendono. Nel caso in cui il personale stesso non dipenda da un primo dirigente medico o da un primo dirigente medico veterinario, il rapporto informativo e' compilato dal vice questore vicario, per il personale in servizio in questura, e, negli altri casi, dal dirigente dell'ufficio o reparto presso il quale presta servizio, previa acquisizione degli elementi di valutazione professionale forniti dal competente dirigente medico o medico veterinario, individuati con il regolamento di semplificazione previsto dall'[articolo 1 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_1). ((Il giudizio complessivo e' espresso dal direttore della direzione centrale di sanita'.)) Fino all'emanazione del suddetto regolamento, le modalita' di attuazione di cui alla presente lettera sono individuate con decreto del capo della polizia-direttore generale della pubblica sicurezza.
 
 ## Art. 21. — Ruoli ad esaurimento dei sanitari della Polizia di Stato

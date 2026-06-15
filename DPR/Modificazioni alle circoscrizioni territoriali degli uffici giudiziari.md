@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [77, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista, la [legge 27 dicembre 1956, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1443), con la quale il Governo della Repubblica e' stato delegato ad emanare norme relative alle circoscrizioni giudiziarie;
+Vista, la [legge 27 dicembre 1956, n. 1443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20alle%20circoscrizioni%20territoriali%20e%20alle%20piante%20organiche%20degli%20uffici%20giudiziari.md), con la quale il Governo della Repubblica e' stato delegato ad emanare norme relative alle circoscrizioni giudiziarie;
 
-Viste le [leggi 26 luglio 1961, n. 713, 16 agosto 1962, n. 1344, e 21 febbraio 1963, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-21;305), relative al rinnovo ed alla proroga della delega stessa;
+Viste le [leggi 26 luglio 1961, n. 713, 16 agosto 1962, n. 1344, e 21 febbraio 1963, n. 305](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20alle%20circoscrizioni%20giudiziarie.md), relative al rinnovo ed alla proroga della delega stessa;
 
 Visto l'[art. 10 della legge 24 marzo 1955, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-03-24;195#art_10), sulla costituzione e sul funzionamento del Consiglio superiore della magistratura;
 

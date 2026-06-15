@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 6 aprile 1930, n. 443](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20tipo%20del%20martello%20governativo%20a%20guisa%20di%20accetta%20in%20uso%20nellAmministrazione%20forestale%20dello%20Stato.%20030U0443.md), con il quale i martelli governativi, a guisa di accetta, in uso nell'Amministrazione forestale dello Stato, sono stati rinnovati in forma identica per tutte le province del territorio nazionale;
 
-Visto il [decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804), recante norme di attuazione per il ripristino del Corpo forestale dello Stato;
+Visto il [decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), recante norme di attuazione per il ripristino del Corpo forestale dello Stato;
 
-Visto il [decreto legislativo 5 maggio 1948, n. 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;535);
+Visto il [decreto legislativo 5 maggio 1948, n. 535](../Decreti%20Legislativi/Foggia%20ed%20uso%20dellemblema%20dello%20Stato.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

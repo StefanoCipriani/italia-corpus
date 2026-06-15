@@ -31,7 +31,7 @@ All'esproprio degli immobili nonche' dei diritti immobiliari all'uopo occorrente
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 31 gennaio 1957, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-31;109) ha disposto (con l'articolo unico) che il termine previsto dal primo comma del presente articolo e' prorogato di mesi diciotto.
+Il [D.P.R. 31 gennaio 1957, n. 109](Proroga%20di%20mesi%20diciotto%20al%20termine%20entro%20il%20quale%20dovranno%20aver%20luogo%20le%20espropriazioni%20di%20cui%20al%20primo%20comma%20dellart.%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%20n.%20647%20in%20data%2028%20giugno%201955.md) ha disposto (con l'articolo unico) che il termine previsto dal primo comma del presente articolo e' prorogato di mesi diciotto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

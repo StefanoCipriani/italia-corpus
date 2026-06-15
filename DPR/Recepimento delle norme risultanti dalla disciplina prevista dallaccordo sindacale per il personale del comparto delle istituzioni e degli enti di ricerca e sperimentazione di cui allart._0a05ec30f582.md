@@ -34,7 +34,7 @@ Vista la [legge 8 marzo 1985, n. 72](../DL%20e%20leggi%20di%20conversione/Conver
 
 Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), concernente il riordinamento della docenza universitaria, relativa fascia di formazione nonche' sperimentazione organizzativa e didattica;
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Visto l'[art. 27 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), in materia di oneri a carico dei bilanci degli enti del settore pubblico allargato;
 
@@ -897,7 +897,7 @@ Le disposizioni di cui al comma 1 si applicano fino alla fine dell'anno successi
 
 1.
 
-Fermo restando quanto disposto dall'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_49-com2), e le situazioni piu' favorevoli esistenti, in ciascuna unita' operativa con almeno 100 dipendenti e' consentito alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile, all'interno della struttura.
+Fermo restando quanto disposto dall'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e le situazioni piu' favorevoli esistenti, in ciascuna unita' operativa con almeno 100 dipendenti e' consentito alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile, all'interno della struttura.
 
 2.
 
@@ -1139,11 +1139,11 @@ Per ciascun ente o istituto del comparto e' fatta salva, in attesa di completa o
 
 1.
 
-All'onere derivante dall'applicazione del presente decreto, valutato in lire 52 miliardi per l'anno 1987, ivi compreso quello relativo all'anno 1986, in lire 71 miliardi per l'anno 1988 e in lire 79 miliardi per l'anno 1989 provvedono gli enti pubblici interessati, all'uopo parzialmente utilizzando, oltre a quanto previsto dall'[art. 8, comma 9, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_8-com9), le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato, o quelle affluite nei propri bilanci in relazione alle specifiche attivita' svolte dagli enti stessi.
+All'onere derivante dall'applicazione del presente decreto, valutato in lire 52 miliardi per l'anno 1987, ivi compreso quello relativo all'anno 1986, in lire 71 miliardi per l'anno 1988 e in lire 79 miliardi per l'anno 1989 provvedono gli enti pubblici interessati, all'uopo parzialmente utilizzando, oltre a quanto previsto dall'[art. 8, comma 9, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato, o quelle affluite nei propri bilanci in relazione alle specifiche attivita' svolte dagli enti stessi.
 
 Nota all'[art. 56:
  La legge n. 910/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;910#art_56) (suppl. ord. n. 1 alla Gazzetta Ufficiale n. 30 del 30 dicembre 1986) reca "Disposizioni per formazione del bilancio annuale e pluriennale dello Stato (Legge finanziaria 1987)". Il testo dell'art. 8, comma 9, e' il seguente:
- "9. Le economie di cui all'[art. 23 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_23), sono utilizzate dagli enti pubblici per il finanziamento del fondo di incentivazione da destinare alla promozione di una piu' razionale ed efficace utilizzazione del lavoro, nonche' a favorire i necessari processi di innovazione e riorganizzazione dei servizi".
+ "9. Le economie di cui all'[art. 23 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), sono utilizzate dagli enti pubblici per il finanziamento del fondo di incentivazione da destinare alla promozione di una piu' razionale ed efficace utilizzazione del lavoro, nonche' a favorire i necessari processi di innovazione e riorganizzazione dei servizi".
 
 ### Art. 57. — Entrata in vigore
 

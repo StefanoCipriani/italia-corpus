@@ -18,7 +18,7 @@ Visto il [decreto luogotenenziale 5 settembre 1944, n. 202](https://www.normatti
 
 Visto l'[art. 3 del decreto luogotenenziale 31 agosto 1945, n. 532](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20transitoria%20presso%20il%20Ministero%20del%20tesoro%20della%20Direzione%20generale%20per%20il%20risarcimento%20dei%20danni%20di%20guerra.%20045U0532.md), che estende, al personale del Ministero del tesoro le disposizioni regolamentari approvate dal [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 
-Visto l'[art. 19 del decreto legislativo 26 febbraio 1948, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-26;111#art_19);
+Visto l'[art. 19 del decreto legislativo 26 febbraio 1948, n. 111](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -29,7 +29,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 ## Articolo unico.
 
 All'art. 114 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), ed esteso al personale del [Ministero del tesoro con decreto luogotenenziale 31 agosto 1945, n. 532](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20transitoria%20presso%20il%20Ministero%20del%20tesoro%20della%20Direzione%20generale%20per%20il%20risarcimento%20dei%20danni%20di%20guerra.%20045U0532.md), sono aggiunti i seguenti commi:
- "Le Commissioni giudicatrici dei concorsi per titoli per l'assunzione al rado iniziale del ruolo dell'Ispettorato generale di finanza (grado 8° - gruppo A) di cui alla tabella B dell'allegato V al [decreto legislativo 26 febbraio 1948, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-26;111), sono composte:
+ "Le Commissioni giudicatrici dei concorsi per titoli per l'assunzione al rado iniziale del ruolo dell'Ispettorato generale di finanza (grado 8° - gruppo A) di cui alla tabella B dell'allegato V al [decreto legislativo 26 febbraio 1948, n. 111](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro.md), sono composte:
  di un presidente di sezione o consigliere di Stato, presidente;
  di un consigliere della Corte dei conti;
  di un funzionario di grado 4° e di uno di grado 50 dei ruoli della Ragioneria generale dello Stato;

@@ -22,7 +22,7 @@ Visto il [decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N
 
 Vista la [legge 16 dicembre 1991, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-16;398);
 
-Vista la [legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413);
+Vista la [legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md);
 
 Visto il decreto del Ministro delle finanze del 9 aprile 1993, pubblicato nella Gazzetta Ufficiale n. 80 del 6 aprile 1993;
 
@@ -30,7 +30,7 @@ Visto il [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-re
 
 Visto il [decreto-legge 23 febbraio 1995, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica%20e%20per%20loccupazione%20nelle%20aree%20depresse.md);
 
-Visto l'[articolo 3, comma 137, lettera b), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com137-letb), che autorizza il Governo all'emanazione di un regolamento concernente il riordino della disciplina delle opzioni, unificando i termini e semplificando le modalita' di esercizio e di comunicazione agli uffici delle stesse, e delle relative revoche, anche tramite servizio postale, l'eliminazione dell'obbligo di esercizio dell'opzione nei casi in cui le modalita' di determinazione e di assolvimento delle imposte risultino agevolmente comprensibili dalle scritture contabili o da atti e comportamenti concludenti;
+Visto l'[articolo 3, comma 137, lettera b), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), che autorizza il Governo all'emanazione di un regolamento concernente il riordino della disciplina delle opzioni, unificando i termini e semplificando le modalita' di esercizio e di comunicazione agli uffici delle stesse, e delle relative revoche, anche tramite servizio postale, l'eliminazione dell'obbligo di esercizio dell'opzione nei casi in cui le modalita' di determinazione e di assolvimento delle imposte risultino agevolmente comprensibili dalle scritture contabili o da atti e comportamenti concludenti;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza della Sezione consultiva per gli atti normativi del 14 luglio 1997;
 
@@ -55,7 +55,7 @@ In presenza di fusione o scissione di societa' il regime di determinazione dell'
 
 AGGIORNAMENTO (1)
 
-La [L. 21 novembre 2000,n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 4, comma 1) che il presente articolo "si intende applicabile anche ai comportamenti concludenti tenuti dal contribuente anteriormente alla data di entrata in vigore del citato decreto n. 442 del 1997. Non si fa luogo a restituzione di imposte, soprattasse e pene pecuniarie gia' pagate".
+La [L. 21 novembre 2000,n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 4, comma 1) che il presente articolo "si intende applicabile anche ai comportamenti concludenti tenuti dal contribuente anteriormente alla data di entrata in vigore del citato decreto n. 442 del 1997. Non si fa luogo a restituzione di imposte, soprattasse e pene pecuniarie gia' pagate".
 
 ## Art. 2. — Obbligo di comunicazione
 

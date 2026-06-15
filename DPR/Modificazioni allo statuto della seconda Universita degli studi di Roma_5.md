@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.i
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduta la [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md);
 

@@ -28,13 +28,13 @@ A decorrere dal 1 gennaio 1980, i contributi sociali di malattia nonche' quelli 
 
 AGGIORNAMENTO (1)
 
-La [L. 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181) ha disposto (con l'art. 14 comma 4) che "a decorrere dal 1 gennaio 1982 la misura della maggiorazione del contributo dovuto dai liberi professionisti di cui all'articolo 1, ultimo comma, del [decreto del Presidente della Repubblica 8 luglio 1980, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-08;538), e' elevata dal 2 al 3 per cento."
+La [L. 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md) ha disposto (con l'art. 14 comma 4) che "a decorrere dal 1 gennaio 1982 la misura della maggiorazione del contributo dovuto dai liberi professionisti di cui all'articolo 1, ultimo comma, del [decreto del Presidente della Repubblica 8 luglio 1980, n. 538](Adeguamento%20dei%20contributi%20sociali%20di%20malattia%20dovuti%20dagli%20artigiani%20dagli%20esercenti%20delle%20attivita%20commerciali%20dai%20coltivatori%20diretti%20e%20dai%20liberi%20professionisti.md), e' elevata dal 2 al 3 per cento."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730) ha disposto (con l'art. 33 comma 3) che "a decorrere dal 1 gennaio 1984 la misura della maggiorazione del contributo dovuto dai liberi professionisti di cui all'articolo 1, ultimo comma, del [decreto del Presidente della Repubblica 8 luglio 1980, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-08;538), gia' elevata dall'[articolo 14, quarto comma, della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_14-com4), e' ulteriormente elevata dal tre al quattro per cento."
+La [L. 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md) ha disposto (con l'art. 33 comma 3) che "a decorrere dal 1 gennaio 1984 la misura della maggiorazione del contributo dovuto dai liberi professionisti di cui all'articolo 1, ultimo comma, del [decreto del Presidente della Repubblica 8 luglio 1980, n. 538](Adeguamento%20dei%20contributi%20sociali%20di%20malattia%20dovuti%20dagli%20artigiani%20dagli%20esercenti%20delle%20attivita%20commerciali%20dai%20coltivatori%20diretti%20e%20dai%20liberi%20professionisti.md), gia' elevata dall'[articolo 14, quarto comma, della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md), e' ulteriormente elevata dal tre al quattro per cento."
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268);
+Vista la [legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Gli stipendi dei magistrati ordinari, distinti per funzioni, dei magistrati del 
 
 ## Art. 2.
 
-Fermo quanto disposto all'[art. 6, comma terzo, della legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268#art_6-com3), le nuove misure degli stipendi risultanti dall'applicazione del precedente articolo 1, sono utili per gli effetti contemplati dall'[articolo 2 del decreto del Presidente della Repubblica 21 aprile 1965, n. 373](Conglobamento%20dellassegno%20temporaneo%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20della%20legge%205%20dicembre%201964%20n.%201268.md), concernente il conglobamento dell'assegno temporaneo negli stipendi, paglie e retribuzioni del personale statale. Valgono, in quanto applicabili le restanti disposizioni contenute nello stesso decreto.
+Fermo quanto disposto all'[art. 6, comma terzo, della legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md), le nuove misure degli stipendi risultanti dall'applicazione del precedente articolo 1, sono utili per gli effetti contemplati dall'[articolo 2 del decreto del Presidente della Repubblica 21 aprile 1965, n. 373](Conglobamento%20dellassegno%20temporaneo%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20della%20legge%205%20dicembre%201964%20n.%201268.md), concernente il conglobamento dell'assegno temporaneo negli stipendi, paglie e retribuzioni del personale statale. Valgono, in quanto applicabili le restanti disposizioni contenute nello stesso decreto.
 
 ## Art. 3.
 

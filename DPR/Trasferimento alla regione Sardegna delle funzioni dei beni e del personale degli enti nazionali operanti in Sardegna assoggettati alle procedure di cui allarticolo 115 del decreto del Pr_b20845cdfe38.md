@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
 
 Visti i decreti del Presidente della Repubblica 23 dicembre 1978, pubblicati nella Gazzetta Ufficiale n. 62 del 3 marzo 1979, i decreti del Presidente della Repubblica 31 marzo 1979, pubblicati nella Gazzetta Ufficiale n. 125 del 9 maggio 1979 e il decreto del Presidente della Repubblica 31 marzo 1979, pubblicato nella Gazzetta Ufficiale n. 135 del 18 maggio 1979, concernenti la perdita della personalita' giuridica di diritto pubblico, rispettivamente, dell'Associazione nazionale tra mutilati e invalidi di guerra (ANMIG), della Unione italiana ciechi (UIC), dell'Ente nazionale per la protezione e l'assistenza dei sordomuti (ENS), dell'Associazione nazionale tra mutilati ed invalidi del lavoro (ANMIL) e dell'Associazione nazionale famiglie dei caduti e dei dispersi di guerra, che continuano a sussistere come persone giuridiche di diritto privato;
 

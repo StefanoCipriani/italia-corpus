@@ -35,7 +35,7 @@ finanziamenti concessi dalla Sezione stessa a
 ditte, societa ed enti operanti per lo sviluppo 
 industriale della sicilia ([art. 19 del decreto 
 legislativo luogotenenziale 28 dicembre 1944, 
- n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_19)).......................................... L. 3.000.000 
+ n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md)).......................................... L. 3.000.000 
  
  Ministero dell'interno: 
  Cap. n. 12. - Compensi speciali in eccedenza ai 

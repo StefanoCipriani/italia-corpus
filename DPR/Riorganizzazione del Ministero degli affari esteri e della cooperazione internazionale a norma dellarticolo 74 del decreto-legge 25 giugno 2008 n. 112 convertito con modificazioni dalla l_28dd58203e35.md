@@ -14,9 +14,9 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), e successive modificazioni, ed in particolare l'articolo 17, comma 4-bis e l'articolo 5, comma 3, lettere a) e a-bis);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e successive modificazioni;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni;
 
-Vista la [legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ed in particolare l'articolo 1, comma 404;
+Vista la [legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ed in particolare l'articolo 1, comma 404;
 
 Visto l'[articolo 74 del decreto-legge 25 giugno 2008, n.112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_74), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md);
 
@@ -24,15 +24,15 @@ Vista la [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286);
+Visto il [decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), e successive modificazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
 Visto il [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), e successive modificazioni;
 
-Visto il [decreto legislativo 27 ottobre 2009, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150), di attuazione della [legge 4 marzo 2009, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-04;15);
+Visto il [decreto legislativo 27 ottobre 2009, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), di attuazione della [legge 4 marzo 2009, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md);
 
 Vista la [legge 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125);
 
@@ -95,7 +95,7 @@ Ciascun Direttore generale e' coadiuvato da ((uno o piu')) Vice direttori genera
 
 3.
 
-Nell'ambito della Direzione generale per le risorse e ((la formazione)) viene conferito, ai sensi dell'[articolo 19, comma 10, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_19-com10), e successive modificazioni, un incarico dirigenziale di prima fascia di coordinatore delle attivita' di programmazione economico-finanziaria e di bilancio. Tale incarico viene conferito a dirigenti di prima fascia appartenenti ai ruoli del Ministero, fermo restando quanto previsto dalla specifica normativa in materia di conferimento di incarichi dirigenziali di livello generale in qualita' di consiglieri ministeriali.
+Nell'ambito della Direzione generale per le risorse e ((la formazione)) viene conferito, ai sensi dell'[articolo 19, comma 10, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni, un incarico dirigenziale di prima fascia di coordinatore delle attivita' di programmazione economico-finanziaria e di bilancio. Tale incarico viene conferito a dirigenti di prima fascia appartenenti ai ruoli del Ministero, fermo restando quanto previsto dalla specifica normativa in materia di conferimento di incarichi dirigenziali di livello generale in qualita' di consiglieri ministeriali.
 
 4.
 
@@ -109,7 +109,7 @@ All'individuazione degli uffici di livello dirigenziale non generale, nel numero
 
 1.
 
-Nell'ambito delle funzioni previste dall'articolo 6, ((comma 1, terzo periodo)), del [decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), il Segretario generale coadiuva direttamente il Ministro ai fini dell'elaborazione degli indirizzi e dei programmi del Ministero; sovrintende all'azione dell'Amministrazione e ne assicura la continuita' delle funzioni, coordinandone gli uffici e le attivita'.
+Nell'ambito delle funzioni previste dall'articolo 6, ((comma 1, terzo periodo)), del [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), il Segretario generale coadiuva direttamente il Ministro ai fini dell'elaborazione degli indirizzi e dei programmi del Ministero; sovrintende all'azione dell'Amministrazione e ne assicura la continuita' delle funzioni, coordinandone gli uffici e le attivita'.
 
 2.
 
@@ -125,7 +125,7 @@ La funzione di coordinamento e' volta ad assicurare, sotto i diversi aspetti, l'
 
 3-bis.
 
-Nell'ambito della Segreteria generale, opera l'Autorita' nazionale - UAMA di cui all'[articolo 7-bis della legge 9 luglio 1990, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_7bis), che attende al rilascio delle autorizzazioni per l'interscambio di armamenti e dei certificati per le imprese e agli altri compiti previsti dalla predetta legge e successive modificazioni; nonche' segue, d'intesa con le altre competenti amministrazioni dello Stato, le questioni di competenza del Ministero degli affari esteri e della cooperazione internazionale attinenti alla politica di esportazione ed importazione dei materiali a duplice uso e ad altri regimi di controllo conformemente al [decreto legislativo 15 dicembre 2017, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;221).
+Nell'ambito della Segreteria generale, opera l'Autorita' nazionale - UAMA di cui all'[articolo 7-bis della legge 9 luglio 1990, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_7bis), che attende al rilascio delle autorizzazioni per l'interscambio di armamenti e dei certificati per le imprese e agli altri compiti previsti dalla predetta legge e successive modificazioni; nonche' segue, d'intesa con le altre competenti amministrazioni dello Stato, le questioni di competenza del Ministero degli affari esteri e della cooperazione internazionale attinenti alla politica di esportazione ed importazione dei materiali a duplice uso e ad altri regimi di controllo conformemente al [decreto legislativo 15 dicembre 2017, n. 221](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20delega%20al%20Governo%20di%20cui%20allarticolo%207%20della%20legge%2012%20agosto%202016%20n.%20170%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20della%20normativa%20europea%20ai%20fini%20del%20_d12333656018.md).
 
 4.
 
@@ -222,9 +222,9 @@ La Direzione generale per ((l'Africa subsahariana, l'America latina, l'Asia e l'
                         d-bis)
                             tratta le questioni relative alle organizzazioni e istituzioni internazionali competenti per le materie di cui alle lettere ((a), c) e d);))
                         e)
-                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2016-12-29;260);
+                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
                         f)
-                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2016-12-29;260);
+                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
                         g)
                             promuove, d'intesa con le altre Direzioni generali competenti, le relazioni bilaterali di natura politica, economica, culturale e in ogni altro settore, attende ai relativi negoziati, cura l'analisi, la definizione e l'attuazione dell'azione diplomatica con i Paesi dell'Asia centro - meridionale e sud-orientale, dell'Estremo Oriente e Oceania, dell'America centrale e meridionale, dell'Africa sub-sahariana, salve ((le competenze della Direzione generale di cui al comma 1 e)) le modifiche che potranno essere disposte con riguardo a singoli Paesi o gruppi di Paesi individuati con decreto ministeriale;
                         h)
@@ -274,11 +274,11 @@ La Direzione generale per la ((crescita e la promozione delle esportazioni)) att
                         f)
                             adotta le opportune iniziative per agevolare l'attivita' presso universita' ed enti di ricerca italiani di docenti e ricercatori stranieri, nonche' l'attivita' presso universita' ed enti di ricerca straniera di docenti e ricercatori italiani;
                         g)
-                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-11-19;211);
+                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
                         h)
                             promuove, d'intesa con le competenti amministrazioni pubbliche, la collaborazione internazionale e bilaterale nel settore dello sport;
                         i)
-                            LETTERA SOPPRESSA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2016-12-29;260).
+                            LETTERA SOPPRESSA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md).
 
 6.
 
@@ -328,7 +328,7 @@ La Direzione generale per la cooperazione allo sviluppo attende ai compiti ad es
 
 8-bis.
 
-PERIODO SOPPRESSO DAL [D.P.C.M. 25 SETTEMBRE 2023, N. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-09-25;163). I servizi di segretariato di cui al comma 8, lettera g), sono posti alle dipendenze di dirigenti o di funzionari della carriera diplomatica di grado non inferiore a consigliere di legazione. Nello svolgimento dei compiti di cui al comma 8 la Direzione generale opera in raccordo con l'Agenzia italiana per la cooperazione allo sviluppo con modalita' stabilite nella convenzione stipulata tra il Ministro e la predetta Agenzia ai sensi dell'[articolo 8, comma 4, lettera e), del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_8-com4-lete).
+PERIODO SOPPRESSO DAL [D.P.C.M. 25 SETTEMBRE 2023, N. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-09-25;163). I servizi di segretariato di cui al comma 8, lettera g), sono posti alle dipendenze di dirigenti o di funzionari della carriera diplomatica di grado non inferiore a consigliere di legazione. Nello svolgimento dei compiti di cui al comma 8 la Direzione generale opera in raccordo con l'Agenzia italiana per la cooperazione allo sviluppo con modalita' stabilite nella convenzione stipulata tra il Ministro e la predetta Agenzia ai sensi dell'[articolo 8, comma 4, lettera e), del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 8-ter.
 
@@ -369,7 +369,7 @@ La Direzione generale per le risorse e ((la formazione)) attende ai seguenti com
                         m)
                             cura le relazioni sindacali e la contrattazione collettiva integrativa;
                         n)
-                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-11-19;211);
+                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
                         o)
                             provvede alla formazione ed al perfezionamento professionale del personale del Ministero degli affari esteri, avvalendosi d'intesa con la Scuola nazionale dell'amministrazione con cui segue la preparazione degli aspiranti alla carriera diplomatica.
 
@@ -397,7 +397,7 @@ La Direzione generale per ((il patrimonio e l'amministrazione)) attende ai segue
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-11-19;211).
+COMMA ABROGATO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md).
 
 2.
 
@@ -500,13 +500,13 @@ Note all'art. 9:
  Le funzioni di capo sezione sono conferite a funzionari diplomatici con il grado di consigliere di legazione o segretario di legazione. 
  Le funzioni di capo della segreteria dei Sottosegretari di Stato e dei direttori generali sono conferite a funzionari diplomatici di grado non inferiore a consigliere di legazione. Per straordinarie e temporanee esigenze di servizio, sulla base dei criteri generali di cui al settimo comma, possono essere incaricati di svolgere tali funzioni anche i segretari di legazione. 
  Gli incarichi previsti nei commi terzo, quarto, quinto, sesto, settimo e ottavo del presente articolo sono conferiti con decreto del Ministro degli affari esteri. 
- Con il regolamento previsto dall'[articolo 2 della legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266#art_2), si provvede alla disciplina del conferimento delle funzioni indicate nei commi quinto, settimo, ottavo e nono del presente articolo, non attribuibili a funzionari della carriera diplomatica
+ Con il regolamento previsto dall'[articolo 2 della legge 28 luglio 1999, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md), si provvede alla disciplina del conferimento delle funzioni indicate nei commi quinto, settimo, ottavo e nono del presente articolo, non attribuibili a funzionari della carriera diplomatica
 
 ## Art. 9-bis. — (Funzioni attribuibili a dirigenti)
 
 1.
 
-Al personale dirigente di cui all'[articolo 15 del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_15), sono attribuiti incarichi presso l'amministrazione centrale e posti-funzione presso uffici all'estero nel rispetto della dotazione organica di cui alla tabella 1 allegata al presente decreto e dei seguenti limiti complessivi:
+Al personale dirigente di cui all'[articolo 15 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), sono attribuiti incarichi presso l'amministrazione centrale e posti-funzione presso uffici all'estero nel rispetto della dotazione organica di cui alla tabella 1 allegata al presente decreto e dei seguenti limiti complessivi:
                         a)
                             otto unita' di livello dirigenziale generale;
                         b)
@@ -528,7 +528,7 @@ Le funzioni di cui al comma 1, lettera a) sono individuate fra le seguenti posiz
                         c)
                             non piu' di tre posti funzione di capo di consolato generale;
                         d)
-                            non piu' di un posto-funzione di esperto amministrativo capo presso uffici all'estero o di responsabile di servizio amministrativo decentrato di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_9) e [10 della legge 6 febbraio 1985, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_10) o di responsabile di centro interservizi amministrativi di cui all'[articolo 5 del decreto legislativo 15 dicembre 2006, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-12-15;307#art_5), anche con competenza estesa su piu' Paesi.
+                            non piu' di un posto-funzione di esperto amministrativo capo presso uffici all'estero o di responsabile di servizio amministrativo decentrato di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_9) e [10 della legge 6 febbraio 1985, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_10) o di responsabile di centro interservizi amministrativi di cui all'[articolo 5 del decreto legislativo 15 dicembre 2006, n. 307](../Decreti%20Legislativi/Riassetto%20normativo%20in%20materia%20di%20gestione%20amministrativa%20e%20contabile%20degli%20Uffici%20allestero%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%204%20della%20legge%2028%20novembre%202005%20n.%20246.md), anche con competenza estesa su piu' Paesi.
 
 3.
 
@@ -542,7 +542,7 @@ Le funzioni di cui al comma 1, lettera b) sono individuate tra le seguenti posiz
                         d)
                             non piu' di dodici posti-funzione di capo di consolato generale o di consolato o di collaborazione nei consolati generali;
                         e)
-                            non piu' di dieci posti-funzione di esperto amministrativo presso uffici all'estero o di responsabile di servizio amministrativo decentrato di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_9) e [10 della legge 6 febbraio 1985, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_10) o di responsabile di centro interservizi amministrativi di cui all'[articolo 5 del decreto legislativo 15 dicembre 2006, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-12-15;307#art_5).
+                            non piu' di dieci posti-funzione di esperto amministrativo presso uffici all'estero o di responsabile di servizio amministrativo decentrato di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_9) e [10 della legge 6 febbraio 1985, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-06;15#art_10) o di responsabile di centro interservizi amministrativi di cui all'[articolo 5 del decreto legislativo 15 dicembre 2006, n. 307](../Decreti%20Legislativi/Riassetto%20normativo%20in%20materia%20di%20gestione%20amministrativa%20e%20contabile%20degli%20Uffici%20allestero%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%204%20della%20legge%2028%20novembre%202005%20n.%20246.md).
 
 4.
 
@@ -560,13 +560,13 @@ Gli incarichi dirigenziali presso l'amministrazione centrale di cui ai commi 2, 
 
 6.
 
-Fermo restando quanto previsto dal [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) relativamente al conferimento di incarichi presso l'amministrazione centrale, la destinazione a funzioni presso uffici all'estero di cui al presente articolo resta disciplinata dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), ed in particolare dagli articoli 34, 110 e 110-bis, primo comma, del precitato decreto.
+Fermo restando quanto previsto dal [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) relativamente al conferimento di incarichi presso l'amministrazione centrale, la destinazione a funzioni presso uffici all'estero di cui al presente articolo resta disciplinata dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), ed in particolare dagli articoli 34, 110 e 110-bis, primo comma, del precitato decreto.
 
 ------------
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 3 settembre 2025, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2025-09-03;160), ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 2 del presente articolo "alla lettera b), numero 2), le parole: «l'innovazione e la Direzione generale l'amministrazione, l'informatica e le comunicazioni» sono sostituite dalle seguenti: «la formazione e la Direzione generale per il patrimonio e l'amministrazione»".
+Il [D.P.R. 3 settembre 2025, n. 160](Regolamento%20concernente%20modifiche%20al%20regolamento%20di%20organizzazione%20del%20Ministero%20degli%20affari%20esteri%20e%20della%20cooperazione%20internazionale%20di%20cui%20al%20decreto%20del%20Presidente%20della%20Repubblica%20_0d49561ded3a.md), ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 2 del presente articolo "alla lettera b), numero 2), le parole: «l'innovazione e la Direzione generale l'amministrazione, l'informatica e le comunicazioni» sono sostituite dalle seguenti: «la formazione e la Direzione generale per il patrimonio e l'amministrazione»".
 
 ## Art. 10.
 
@@ -578,7 +578,7 @@ Il [D.P.R. 3 settembre 2025, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 1.
 
-Ferme restando le disposizioni di cui all'[articolo 6, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_6-com3) e [4, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_6-com4), le dotazioni organiche del personale del Ministero degli affari esteri e della cooperazione internazionale sono rideterminate secondo la Tabella 1 allegata al presente decreto.
+Ferme restando le disposizioni di cui all'[articolo 6, commi 3](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), le dotazioni organiche del personale del Ministero degli affari esteri e della cooperazione internazionale sono rideterminate secondo la Tabella 1 allegata al presente decreto.
 
 ))
 
@@ -595,13 +595,13 @@ Al fine di assicurare la continuita' dell'azione amministrativa, fino all'entrat
 Con effetto dalla data di entrata in vigore del presente regolamento, e' abrogato il [decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md), ad eccezione dell'articolo 12. Sono altresi' fatti salvi gli effetti abrogativi di cui all'articolo 13 del citato decreto.
 
 Note all'art. 13: 
- - Il testo dell'[articolo 12 del decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) (Regolamento concernente la riorganizzazione del Ministero degli affari esteri, a norma dell'[articolo 1, comma 404, della L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com404)) e' il seguente: 
+ - Il testo dell'[articolo 12 del decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) (Regolamento concernente la riorganizzazione del Ministero degli affari esteri, a norma dell'[articolo 1, comma 404, della L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md)) e' il seguente: 
  «Art. 12 (Ristrutturazione della rete diplomatica, consolare e degli istituti di cultura). - 1. In considerazione del mutato contesto geopolitico, soprattutto in Europa, si provvede: 
  a) all'accorpamento in Missione diplomatica unificata di rappresentanze permanenti presso enti o organizzazioni internazionali aventi sede nella stessa citta' estera. Ai funzionari che, in aggiunta al capo della missione diplomatica, sono accreditati con titolo e rango di ambasciatore, e' riconosciuto il diritto a residenza di servizio nei termini stabiliti dal [secondo comma dell'articolo 177 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md); 
  b) alla ristrutturazione della rete diplomatica e consolare, anche attraverso accorpamento di uffici, istituzione di cancellerie consolari e modifica di circoscrizioni consolari; 
  c) alla ristrutturazione della rete degli istituti di cultura, anche in funzione della possibilita' di ricondurne le attivita' all'interno di rappresentanze diplomatiche o uffici consolari nello Stato di accreditamento; a tal fine, e' consentita l'assegnazione del personale dell'area della promozione culturale presso le rappresentanze diplomatiche o gli uffici consolari interessati. 
  2. Dalla rideterminazione del numero delle sedi della rete diplomatica, consolare e degli istituti di cultura, conseguente all'attuazione delle misure di cui al comma 1, deve derivare un risparmio di spesa non inferiore a euro 234.000 per l'anno 2007, euro 1.258.000 per l'anno 2008 ed euro 1.652.000 dall'anno 2009». 
- - Il testo dell'[articolo 13 del decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) (Regolamento concernente la riorganizzazione del Ministero degli affari esteri, a norma dell'[articolo 1, comma 404, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com404)) e' il seguente: 
+ - Il testo dell'[articolo 13 del decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) (Regolamento concernente la riorganizzazione del Ministero degli affari esteri, a norma dell'[articolo 1, comma 404, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md)) e' il seguente: 
  «Art. 13 (Abrogazioni). - 1. Con effetto dalla data di entrata in vigore del presente regolamento, sono abrogati il [decreto del Presidente della Repubblica 11 maggio 1999, n. 267](Regolamento%20recante%20norme%20per%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20generale%20nonche%20delle%20relative%20funzioni%20dellAmministrazione%20centrale%20del%20Ministero%20degli%20affari%20esteri.md), il [decreto del Presidente della Repubblica 24 giugno 2002, n. 157](Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2011%20maggio%201999%20n.%20267%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20generale%20no_ebc79e432c10.md), ed i seguenti articoli del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md): 6, 13, 14, 18, 21, 22, 24, 26, 27 e 29».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

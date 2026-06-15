@@ -66,7 +66,7 @@ gli esami nelle scuole ed istituti governa-
 tivi di istruzione tecnica, ai sensi del de
 creto legislativo del [Capo provvisorio dello
 Stato 24 ottobre 1946, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato::1946-10-24;381), del [decreto
-legislativo 7 maggio 1948, n. 1076](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1076), della
+legislativo 7 maggio 1948, n. 1076](../Decreti%20Legislativi/Indennita%20da%20corrispondere%20ai%20componenti%20le%20Commissioni%20al%20personale%20di%20segreteria%20tecnico%20e%20subalterno%20per%20gli%20esami%20negli%20Istituti%20e%20nelle%20Scuole%20di%20istruzione%20media%20classica%20scientific_b5218888da9e.md), della
 [legge 10 marzo 1955, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulle%20indennita%20da%20corrispondere%20ai%20componenti%20le%20Commissioni%20per%20gli%20esami%20di%20maturita%20nei%20Licei%20classici%20scientifici%20ed%20artistici%20di%20abilitazione%20negli%20Istituti%20magistrali%20e_84e4c9d0a110.md) e della [legge 2
 febbraio 1959, n. 30](../Atti%20normativi%20abrogati%20%28in%20originale%29/Indennita%20da%20corrispondere%20ai%20componenti%20le%20Commissioni%20degli%20esami%20di%20ammissione%20di%20licenza%20di%20idoneita%20e%20di%20promozione%20negli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20magistrale_28eadb998814.md)........................ L. 515.000.000
  ------------- L. 1.198.000.000

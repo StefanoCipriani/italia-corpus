@@ -22,7 +22,7 @@ Sulla proposta del Ministro di grazia e giustizia, di concerto con il Ministro d
 
 1.
 
-E' concessa amnistia per i reati previsti in materia di imposte dirette e di imposta sul valore aggiunto, commessi fino al 30 settembre 1991 e riferibili ai periodi di imposta che possono essere definiti secondo le disposizioni del titolo VI della [legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413).
+E' concessa amnistia per i reati previsti in materia di imposte dirette e di imposta sul valore aggiunto, commessi fino al 30 settembre 1991 e riferibili ai periodi di imposta che possono essere definiti secondo le disposizioni del titolo VI della [legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md).
 
 2.
 
@@ -31,7 +31,7 @@ L'amnistia si applica, indipendentemente dalla definizione dell'intero periodo d
                         a)
                             relativamente ai reati di cui al primo e al [secondo comma dell'art. 1 e al numero 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com2-num7) dell'[art. 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516, nonche' alla lettera f) del comma 1 dell'art. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md) del predetto decreto nel testo modificato dal [decreto-legge 16 marzo 1991, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-16;83), convertito, con modificazioni, dalla [legge 15 maggio 1991, n. 154, e al primo comma dell'art. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20marzo%201991%20n.%2083%20recante%20modifiche%20al%20decreto-legge%2010%20luglio%201982%20n.%20429%20convertito%20con%20modificazioni%20dalla%20legge%207%20agosto%20198_7f4e8138fb8e.md) del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), nei limiti degli importi integrativamente dichiarati o versati;
                         b)
-                            relativamente alle altre contravvenzioni, se la dichiarazione integrativa reca l'impegno a versare gli importi minimi previsti dai [commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_38-com3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_38-com4) e [5 dell'art. 38 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_38-com5).
+                            relativamente alle altre contravvenzioni, se la dichiarazione integrativa reca l'impegno a versare gli importi minimi previsti dai [commi 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), [4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) e [5 dell'art. 38 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md).
 
 3.
 
@@ -39,7 +39,7 @@ Per i reati commessi dai sostituti d'imposta l'amnistia si applica a condizione 
 
 4.
 
-Nei confronti delle persone che si trovano nelle condizioni previste dal [comma 6 dell'art. 57 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_57-com6), l'amnistia si applica altresi' per ciascun periodo di imposta cui i reati si riferiscono, se e' presentata l'istanza di cui allo stesso comma 6.
+Nei confronti delle persone che si trovano nelle condizioni previste dal [comma 6 dell'art. 57 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), l'amnistia si applica altresi' per ciascun periodo di imposta cui i reati si riferiscono, se e' presentata l'istanza di cui allo stesso comma 6.
 
 5.
 
@@ -106,7 +106,7 @@ L'amnistia non si applica anche se la sentenza di condanna di cui al comma 1, pe
 
 3.
 
-I procedimenti in corso per i reati di cui all'art. 1 sono sospesi fino alla scadenza del termine per la presentazione della dichiarazione integrativa o dell'istanza di cui al [comma 6 dell'art. 57 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_57-com6), e, se queste sono state presentate, fino a quando l'ufficio finanziario non avra' comunicato al giudice, evitando ogni ritardo, gli elementi necessari per valutare la sussistenza delle condizioni richieste per l'applicazione dell'amnistia.
+I procedimenti in corso per i reati di cui all'art. 1 sono sospesi fino alla scadenza del termine per la presentazione della dichiarazione integrativa o dell'istanza di cui al [comma 6 dell'art. 57 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), e, se queste sono state presentate, fino a quando l'ufficio finanziario non avra' comunicato al giudice, evitando ogni ritardo, gli elementi necessari per valutare la sussistenza delle condizioni richieste per l'applicazione dell'amnistia.
 
 4.
 

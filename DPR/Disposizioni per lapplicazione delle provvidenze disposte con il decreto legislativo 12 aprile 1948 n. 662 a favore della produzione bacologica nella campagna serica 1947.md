@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 11 del decreto legislativo 12 aprile 1948, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;662#art_11), contenente provvidenze a favore della produzione bacologica nella campagna serica 1947;
+Visto l'[art. 11 del decreto legislativo 12 aprile 1948, n. 662](../Decreti%20Legislativi/Provvidenze%20in%20favore%20della%20produzione%20bacologica%20nella%20campagna%20serica%201947.md), contenente provvidenze a favore della produzione bacologica nella campagna serica 1947;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](Norme%20esecutive%20del%20decreto%20legislativo%2012%20aprile%201945%20n.%20662%20recante%20provvidenze%20a%20favore%20della%20produzione%20baco%20logica%20nella%20campagna%20serica%201947.md) e [4 del decreto del Presidente della Repubblica 9 aprile 1949, n. 261](Norme%20esecutive%20del%20decreto%20legislativo%2012%20aprile%201945%20n.%20662%20recante%20provvidenze%20a%20favore%20della%20produzione%20baco%20logica%20nella%20campagna%20serica%201947.md), recante norme per l'esecuzione del citato [decreto legislativo 12 aprile 1948, numero 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;662);
+Visti gli [articoli 1](Norme%20esecutive%20del%20decreto%20legislativo%2012%20aprile%201945%20n.%20662%20recante%20provvidenze%20a%20favore%20della%20produzione%20baco%20logica%20nella%20campagna%20serica%201947.md) e [4 del decreto del Presidente della Repubblica 9 aprile 1949, n. 261](Norme%20esecutive%20del%20decreto%20legislativo%2012%20aprile%201945%20n.%20662%20recante%20provvidenze%20a%20favore%20della%20produzione%20baco%20logica%20nella%20campagna%20serica%201947.md), recante norme per l'esecuzione del citato [decreto legislativo 12 aprile 1948, numero 662](../Decreti%20Legislativi/Provvidenze%20in%20favore%20della%20produzione%20bacologica%20nella%20campagna%20serica%201947.md);
 
 Sentito il parere della Commissione di cui all'art. 7 dello stesso decreto;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste, 
 
 ## Art. 1.
 
-E' determinata in L. 50, per ogni chilogrammo a fresco, la misura dell'acconto da corrispondere sul contributo previsto dall'[art. 1, primo comma, del decreto legislativo 12 aprile 1948, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;662#art_1-com1), per i bozzoli prodotti nella campagna bacologica 1947.
+E' determinata in L. 50, per ogni chilogrammo a fresco, la misura dell'acconto da corrispondere sul contributo previsto dall'[art. 1, primo comma, del decreto legislativo 12 aprile 1948, n. 662](../Decreti%20Legislativi/Provvidenze%20in%20favore%20della%20produzione%20bacologica%20nella%20campagna%20serica%201947.md), per i bozzoli prodotti nella campagna bacologica 1947.
 
 ## Art. 2.
 

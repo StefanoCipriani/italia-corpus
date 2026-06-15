@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 16 maggio 1947, n. 512](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dellAccordo%20tra%20il%20Governo%20Italiano%20ed%20il%20Governo%20egiziano%20circa%20il%20risarcimento%20dei%20danni%20subiti%20dallEgitto%20per%20effetto%20delle%20operazioni%20militari%20svoltesi%20nel%20suo%20territorio_2f5b061c432f.md), relativa alla approvazione dell'Accordo concluso a Parigi il 10 settembre 1946 tra il Governo italiano ed il Governo egiziano circa il risarcimento dei danni subiti dall'Egitto per effetto delle operazioni militari svoltesi nel suo territorio ed il dissequestro dei beni italiani in Egitto;
 
-Visto il [decreto legislativo 1 aprile 1948, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-01;227), relativo alla approvazione degli scambi di Note effettuati al Cairo, tra l'Italia e l'Egitto, il 25 settembre 1947 ed il 10 marzo 1948, circa le modalita' di esecuzione dell'Accordo italo-egiziano sulle riparazioni firmato a Parigi il 10 settembre 1946;
+Visto il [decreto legislativo 1 aprile 1948, n. 227](../Decreti%20Legislativi/Approvazione%20degli%20scambi%20di%20Note%20effettuati%20fra%20lItalia%20e%20lEgitto%20per%20le%20Modalita%20di%20esecuzione%20dellAccordo%20italoegiziano%20sugli%20indennizzi.md), relativo alla approvazione degli scambi di Note effettuati al Cairo, tra l'Italia e l'Egitto, il 25 settembre 1947 ed il 10 marzo 1948, circa le modalita' di esecuzione dell'Accordo italo-egiziano sulle riparazioni firmato a Parigi il 10 settembre 1946;
 
 Sentito il Consiglio dei Ministri;
 

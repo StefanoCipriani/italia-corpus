@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;38), istitutivo dell'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.);
 
-Visto l'art. 3 comma c) del [decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547);
+Visto l'art. 3 comma c) del [decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md);
 
 Ritenuta. l'opportunita' di includere fra le strade statali il tratto di strada per complessivi km. 17,700, che dall'innesto con la S. S. n. 7-bis presso Avellino (Taverna del Pezzente), per Mercogliano ed Ospedaletto porta al Santuario di Montevergine;
 

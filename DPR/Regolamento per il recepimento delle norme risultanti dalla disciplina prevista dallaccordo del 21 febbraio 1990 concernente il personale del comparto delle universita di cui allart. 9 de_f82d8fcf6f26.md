@@ -26,7 +26,7 @@ Vista la circolare del Ministro per la funzione pubblica in data 28 ottobre 1988
 
 Visto il decreto del Ministro per la funzione pubblica in data 3 agosto 1989, pubblicato nella Gazzetta Ufficiale n. 184 dell'8 agosto 1989, che ha designato i componenti delle delegazioni trattanti l'accordo sindacale per il personale del comparto del personale delle universita';
 
-Viste le [leggi 11 marzo 1988, n. 67, e 24 dicembre 1988, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-24;541), recanti disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (leggi finanziarie 1988 e 1989);
+Viste le [leggi 11 marzo 1988, n. 67, e 24 dicembre 1988, n. 541](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201989.md), recanti disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (leggi finanziarie 1988 e 1989);
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), concernente la disciplina dell'attivita' di Governo e l'ordinamento della Presidenza del Consiglio dei Ministri;
 

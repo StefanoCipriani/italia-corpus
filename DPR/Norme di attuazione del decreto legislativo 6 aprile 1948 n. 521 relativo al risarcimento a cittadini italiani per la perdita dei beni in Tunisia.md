@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 12 del decreto legislativo 6 aprile 1948, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_12), relativo al risarcimento per la perdita di beni in Tunisia in applicazione dell'art. 79 del Trattato di pace;
+Visto l'[art. 12 del decreto legislativo 6 aprile 1948, n. 521](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md), relativo al risarcimento per la perdita di beni in Tunisia in applicazione dell'art. 79 del Trattato di pace;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-Le domande di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_1) e [3 del decreto legislativo 6 aprile 1948, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_3), debbono contenere l'indicazione del domicilio del danneggiato in Italia, ovvero l'elezione di speciale domicilio in Italia ai sensi dell'[art. 47 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_47), la completa descrizione del danno subito e del relativo ammontare, ragguagliato al valore venale in franchi francesi dei beni, diritti ed interessi cui si riferiscono.
+Le domande di cui agli [articoli 1](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md) e [3 del decreto legislativo 6 aprile 1948, n. 521](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md), debbono contenere l'indicazione del domicilio del danneggiato in Italia, ovvero l'elezione di speciale domicilio in Italia ai sensi dell'[art. 47 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_47), la completa descrizione del danno subito e del relativo ammontare, ragguagliato al valore venale in franchi francesi dei beni, diritti ed interessi cui si riferiscono.
 
 ## Art. 2.
 
@@ -31,16 +31,16 @@ Le domande debbono essere presentate alla Direzione generale del tesoro nel term
 
 ## Art. 3.
 
-Dopo l'espletamento dell'istruttoria preveduta nel [primo comma dell'art. 4 del decreto legislativo 6 aprile 1948, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_4-com1), la Direzione generale del tesoro, nei casi in cui la liquidazione definitiva non e' di competenza della Commissione costituita ai sensi del successivo art. 5, assegna al richiedente, mediante lettera raccomandata con avviso di ricevimento, il termine di un mese per l'eventuale presentazione di memorie e documenti. In caso contrario, rimette gli atti alla Commissione predetta.
+Dopo l'espletamento dell'istruttoria preveduta nel [primo comma dell'art. 4 del decreto legislativo 6 aprile 1948, n. 521](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md), la Direzione generale del tesoro, nei casi in cui la liquidazione definitiva non e' di competenza della Commissione costituita ai sensi del successivo art. 5, assegna al richiedente, mediante lettera raccomandata con avviso di ricevimento, il termine di un mese per l'eventuale presentazione di memorie e documenti. In caso contrario, rimette gli atti alla Commissione predetta.
  La Segreteria della commissione notifica all'interessato, nel modo previsto nel comma precedente, la data in cui avra' luogo l'esame della pratica e l'interessato, non oltre il quinto giorno antecedente a quello della adunanza, potra' presentare alla Commissione stessa memorie e documenti, e chiedere di essere sentito personalmente.
 
 ## Art. 4.
 
-Il pagamento dell'indennita', liquidata a norma dell'[art. 4 del decreto legislativo 6 aprile 1948, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_4), e delle disposizioni del presente decreto, e' disposto con decreto del Ministro per il tesoro.
+Il pagamento dell'indennita', liquidata a norma dell'[art. 4 del decreto legislativo 6 aprile 1948, n. 521](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md), e delle disposizioni del presente decreto, e' disposto con decreto del Ministro per il tesoro.
 
 ## Art. 5.
 
-Il decreto del Ministro, che dispone la concessione del mutuo previsto negli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_6) e [7 del decreto legislativo 6 aprile 1948, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-06;521#art_7), indica le condizioni, le modalita' e le eventuali garanzie che dovranno assistere l'operazione, secondo la deliberazione adottata al riguardo dalla Commissione.
+Il decreto del Ministro, che dispone la concessione del mutuo previsto negli [articoli 6](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md) e [7 del decreto legislativo 6 aprile 1948, n. 521](../Decreti%20Legislativi/Risarcimento%20per%20la%20perdita%20di%20beni%20in%20Tunisia%20in%20applicazione%20dellart.%2079%20del%20Trattato%20di%20pace.md), indica le condizioni, le modalita' e le eventuali garanzie che dovranno assistere l'operazione, secondo la deliberazione adottata al riguardo dalla Commissione.
  L'interessato, personalmente o a mezzo di procuratore munito di mandato speciale, in forma notarile dovra' sottoscrivere apposito atto di sottomissione, in conformita' al decreto di concessione.
 
 ## Art. 6.

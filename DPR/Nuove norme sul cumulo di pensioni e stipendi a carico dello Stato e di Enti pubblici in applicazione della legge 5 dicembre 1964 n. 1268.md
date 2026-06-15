@@ -28,7 +28,7 @@ E' ammesso il cumulo, salvo quanto disposto negli articoli seguenti, di una pens
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 2.
@@ -43,7 +43,7 @@ In luogo del cumulo dei trattamenti di cui al primo e al secondo comma dell'art.
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 3.
@@ -55,7 +55,7 @@ Nei casi di cumulo di un trattamento di quiescenza con un trattamento di attivit
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 4.
@@ -75,7 +75,7 @@ Il cumulo dei trattamenti di cui al primo comma dell'art. 1, non e' ammesso nei 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 5.
@@ -87,7 +87,7 @@ Nei confronti del personale che alla data da cui ha effetto il presente decreto 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 6.
@@ -98,7 +98,7 @@ In tutti i casi di ricongiunzione di servizi, ai fini della liquidazione o della
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 7.
@@ -109,7 +109,7 @@ E' ammesso il contemporaneo godimento di un trattamento di attivita' con una pen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 8.
@@ -121,7 +121,7 @@ Le disposizioni del presente decreto si applicano anche nei confronti del person
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 9.
@@ -133,7 +133,7 @@ Salvo il disposto del precedente articolo 5, tutte le disposizioni vigenti in ma
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 ## Art. 10.
@@ -148,7 +148,7 @@ Il presente decreto ha effetto dal 1 marzo
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel sopprimere il numero 552) dell'[art. 2268, comma 1 del D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 4)) il venir meno dell'abrogazione dell'intero provvedimento. 
  Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 2)) che riprende vigore l'intero provvedimento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

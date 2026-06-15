@@ -42,7 +42,7 @@ A decorrere dal 1 dicembre 1977 le misure dell'indennita' di trasferta dovute al
 AGGIORNAMENTO (1)
 
 Il Decreto 4 febbraio 1983 (in G.U. 24/03/1983, n. 82) ha disposto (con l'art. 1, comma 1, lettera a)) che "A decorrere dal 1° gennaio 1983 le misure dell'indennita' di trasferta e delle altre indennita' ad essa connesse sono rideterminate come segue: 
- a) l'indennita' di trasferta ([art. 1 della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_1) e [art. 1 del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-16;513#art_1)) e' elevata: 
+ a) l'indennita' di trasferta ([art. 1 della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_1) e [art. 1 del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](Trattamento%20economico%20di%20missione%20e%20di%20trasferimento%20dei%20dipendenti%20civili%20dello%20Stato.md)) e' elevata: 
  
 
  da L. 40.000 a L. 44.800
@@ -55,7 +55,7 @@ Il Decreto 4 febbraio 1983 (in G.U. 24/03/1983, n. 82) ha disposto (con l'art. 1
 
 AGGIORNAMENTO (2)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 213) che l'indennita' di trasferta di cui al comma 1 del presente articolo, e' soppressa.
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 213) che l'indennita' di trasferta di cui al comma 1 del presente articolo, e' soppressa.
 
 ## Art. 2.
 
@@ -85,9 +85,9 @@ La misura dell'indennita' chilometrica di cui al [primo comma dell'art. 15 della
 AGGIORNAMENTO (1)
 
 Il Decreto 4 febbraio 1983 (in G.U. 24/03/1983, n. 82) ha disposto (con l'art. 1, comma 1, lettere c), d), ed e)) che "A decorrere dal 1° gennaio 1983 le misure dell'indennita' di trasferta e delle altre indennita' ad essa connesse sono rideterminate come segue: 
- c) l'indennita' per percorsi o frazioni di percorso non serviti da servizi di linea ([art. 8, comma quinto, della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_8-com5) e [art. 5, comma quarto, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-16;513#art_5-com4)) e' elevata da L. 148 a L. 166; 
- d) l'indennita' per percorsi effettuati a piedi ([art. 8, comma quinto, della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_8-com5) e [art. 5, comma quarto, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-16;513#art_5-com4)) e' elevata da L. 222 a L. 249; 
- e) l'indennita' per il trasporto di mobili e masserizie su percorsi non serviti da ferrovia ([art. 8, comma sesto, della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_8-com6) e [art. 5, comma quinto, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-16;513#art_5-com5)) e' elevata da L. 222 a L. 249".
+ c) l'indennita' per percorsi o frazioni di percorso non serviti da servizi di linea ([art. 8, comma quinto, della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_8-com5) e [art. 5, comma quarto, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](Trattamento%20economico%20di%20missione%20e%20di%20trasferimento%20dei%20dipendenti%20civili%20dello%20Stato.md)) e' elevata da L. 148 a L. 166; 
+ d) l'indennita' per percorsi effettuati a piedi ([art. 8, comma quinto, della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_8-com5) e [art. 5, comma quarto, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](Trattamento%20economico%20di%20missione%20e%20di%20trasferimento%20dei%20dipendenti%20civili%20dello%20Stato.md)) e' elevata da L. 222 a L. 249; 
+ e) l'indennita' per il trasporto di mobili e masserizie su percorsi non serviti da ferrovia ([art. 8, comma sesto, della legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417#art_8-com6) e [art. 5, comma quinto, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](Trattamento%20economico%20di%20missione%20e%20di%20trasferimento%20dei%20dipendenti%20civili%20dello%20Stato.md)) e' elevata da L. 222 a L. 249".
 
 ## Art. 6.
 

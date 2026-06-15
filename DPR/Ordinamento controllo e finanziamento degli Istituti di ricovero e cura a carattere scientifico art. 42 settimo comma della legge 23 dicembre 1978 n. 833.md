@@ -36,7 +36,7 @@ Le disposizioni dettate dal presente decreto si applicano agli istituti che, sul
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ## ORDINAMENTO DEGLI ISTITUTI DI DIRITTO PUBBLICO
 
@@ -51,7 +51,7 @@ L'ordinamento interno degli istituti con personalita' giuridica di diritto pubbl
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 3.
 
@@ -70,7 +70,7 @@ Il consiglio di amministrazione e' composto da:
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 4.
 
@@ -81,7 +81,7 @@ Il consiglio di amministrazione e' nominato con decreto del Ministro della sanit
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 5.
 
@@ -96,7 +96,7 @@ Il consiglio di amministrazione si riunisce, su convocazione del presidente, alm
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 6.
 
@@ -108,7 +108,7 @@ Il consiglio di amministrazione puo' essere sciolto, con decreto del Ministro de
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 7.
 
@@ -119,7 +119,7 @@ L'ufficio di presidente dell'istituto e' conferito per decreto del Presidente de
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 8.
 
@@ -129,7 +129,7 @@ Il collegio dei revisori e' composto da un funzionario del Ministero del tesoro,
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 9.
 
@@ -140,7 +140,7 @@ Il collegio dei revisori e' nominato con decreto del Ministro della sanita', dur
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 10.
 
@@ -150,7 +150,7 @@ Il collegio dei revisori esercita funzioni di vigilanza sull'attivita' amministr
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 11.
 
@@ -160,7 +160,7 @@ Con decreto del Ministro della sanita', di concerto con quello del tesoro, senti
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 12.
 
@@ -179,7 +179,7 @@ Il comitato tecnico-scientifico e' composto:
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 13.
 
@@ -190,7 +190,7 @@ Il comitato tecnico-scientifico e' nominato con provvedimento del presidente del
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 14.
 
@@ -203,7 +203,7 @@ Il comitato tecnico-scientifico, oltre alle competenze previste dallo statuto, e
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 15.
 
@@ -215,7 +215,7 @@ Il comitato tecnico-scientifico si riunisce, su convocazione del proprio preside
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ## CONTROLLI
 
@@ -239,7 +239,7 @@ Sono soggette al controllo di legittimita' e di merito ai sensi degli articoli s
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 17.
 
@@ -249,7 +249,7 @@ Le deliberazioni indicate nell'articolo precedente non sono esecutive fino all'e
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 18.
 
@@ -263,13 +263,13 @@ Sono sottoposte al controllo del Ministro della sanita' le deliberazioni di cui 
 
 AGGIORNAMENTO (1)
 
-La [l. 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412), ha disposto (con l'art. 4) che il termine di trenta giorni previsto dal presente articolo e' modificato in quaranta giorni.
+La [l. 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), ha disposto (con l'art. 4) che il termine di trenta giorni previsto dal presente articolo e' modificato in quaranta giorni.
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 19.
 
@@ -282,7 +282,7 @@ Le regioni in cui hanno sede i presidi ospedalieri e di ricerca degli istituti d
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 20.
 
@@ -292,7 +292,7 @@ Le deliberazioni degli istituti con personalita' giuridica di diritto privato, c
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 21.
 
@@ -303,7 +303,7 @@ Il Ministero della sanita', nel rispetto delle competenze attribuite dall'[art. 
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ## PROGRAMMI DI RICERCA
 
@@ -365,7 +365,7 @@ Salvo quanto disposto dagli articoli seguenti, al personale degli istituti con p
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 34.
 
@@ -377,7 +377,7 @@ Il trattamento economico tabellare del personale degli istituti e' determinato, 
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 35.
 
@@ -389,7 +389,7 @@ L'incarico di direttore scientifico e' conferito, con deliberazione motivata dal
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 36.
 
@@ -402,7 +402,7 @@ Per l'attuazione dei programmi di ricerca finalizzata gli istituti di diritto pu
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 37.
 
@@ -416,7 +416,7 @@ Con deliberazione del consiglio di amministrazione i dipendenti degli istituti c
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 38.
 
@@ -427,7 +427,7 @@ Con deliberazione del consiglio di amministrazione il personale appartenente a r
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 39. — null
 
@@ -437,7 +437,7 @@ Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ### Art. 40.
 
@@ -447,7 +447,7 @@ Ai fini dell'ammissione agli esami di idoneita' ed ai fini della valutazione com
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza.
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
@@ -462,7 +462,7 @@ Gli attuali organi di amministrazione degli istituti con personalita' giuridica 
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
 
 ### Art. 42.
 
@@ -472,7 +472,7 @@ Sono abrogate le disposizioni legislative e regolamentari, nonche' quelle conten
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
 
 ### Art. 43.
 
@@ -484,7 +484,7 @@ Entro sei mesi dalla nomina dei nuovi consigli di amministrazione degli istituti
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
 
 ### Art. 44.
 
@@ -495,7 +495,7 @@ I nuovi regolamenti organici del personale degli istituti con personalita' giuri
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di 
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di 
 rispettiva competenza
 
 ### Art. 45.
@@ -506,7 +506,7 @@ Entro tre mesi dall'approvazione dei regolamenti organici di cui all'articolo pr
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
 
 ### Art. 46.
 
@@ -517,7 +517,7 @@ Entro sei mesi dalla nomina i nuovi consigli di amministrazione provvedono, in c
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
 
 ### Art. 47.
 
@@ -528,7 +528,7 @@ Entro un anno dalla data di entrata in vigore del presente decreto, gli istituti
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di rispettiva competenza
 
 ### Art. 48.
 
@@ -542,7 +542,7 @@ Il carattere scientifico e' attribuito, per gli enti che ne faranno istanza ai s
 
 AGGIORNAMENTO (2)
 
-Il [D.LGS. 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;617), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di 
+Il [D.LGS. 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ha disposto (con l'art. 8, commi 1 e 2) che e' abrogato il [D.P.R. 31 luglio 1980, n. 617](Ordinamento%20controllo%20e%20finanziamento%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20art.%2042%20settimo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833.md), con efficacia a decorrere dalla entrata in vigore dei regolamenti previsti dal predetto decreto, in relazione alle materie di 
 rispettiva competenza
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. ((2))

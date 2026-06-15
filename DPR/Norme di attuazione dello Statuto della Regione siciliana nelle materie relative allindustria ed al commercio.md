@@ -46,7 +46,7 @@ Per quanto concerne gli enti pubblici istituiti dallo Stato attualmente esistent
 ### Art. 6.
 
 Fino a quando non saranno emanate le norme sul passaggio del personale statale nei ruoli regionali, lo stato giuridico ed il trattamento economico del personale dell'Amministrazione dell'industria e del commercio, in servizio presso la Regione e presso gli enti e gli uffici previsti nel presente decreto, continuano ad essere regolati dalle norme in vigore.
- Salvo quanto disposto dal [decreto legislativo 12 aprile 1948, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;507), concernente la disciplina provvisoria dei rapporti finanziari fra lo Stato e la Regione siciliana, l'onere relativo al personale anzidetto passa direttamente a carico del bilancio della Regione.
+ Salvo quanto disposto dal [decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), concernente la disciplina provvisoria dei rapporti finanziari fra lo Stato e la Regione siciliana, l'onere relativo al personale anzidetto passa direttamente a carico del bilancio della Regione.
 
 ### Art. 7.
 

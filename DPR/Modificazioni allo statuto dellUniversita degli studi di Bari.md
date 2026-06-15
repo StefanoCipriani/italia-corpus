@@ -16,9 +16,9 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduto il [decreto legislativo 28 gennaio 1948, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-28;170), con il quale sono state istituite le Facolta' di lettere e filosofia, scienze matematiche, fisiche e naturali e d'ingegneria;
+Veduto il [decreto legislativo 28 gennaio 1948, n. 170](../Decreti%20Legislativi/Istituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20e%20legalizzazione%20dei%20corsi%20di%20insegnamento%20provvisori_59aedc6c9611.md), con il quale sono state istituite le Facolta' di lettere e filosofia, scienze matematiche, fisiche e naturali e d'ingegneria;
 
-Veduto il [decreto legislativo 7 maggio 1948, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;808), con il quale sono stati istituiti appositi Comitati tecnici per le predette tre Facolta' universitarie;
+Veduto il [decreto legislativo 7 maggio 1948, n. 808](../Decreti%20Legislativi/Norme%20concernenti%20le%20proposte%20relative%20allordinamento%20didattico%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20dellUniversita%20di%20Bari.md), con il quale sono stati istituiti appositi Comitati tecnici per le predette tre Facolta' universitarie;
 
 Vedute le proposte relative a modifiche da apportarsi allo statuto dell'Universita' anzidetta;
 
@@ -775,8 +775,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 luglio 1939, n. 1168](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Bari.%20039U1168.md), e modificato con [regio decreto 26 ottobre 1940, n. 2029](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20040U2029.md), e successivi;
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
- Veduto il [decreto legislativo 28 gennaio 1948, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-28;170), con il quale sono state istituite le Facolta' di lettere e filosofia, scienze matematiche, fisiche e naturali e d'ingegneria;
- Veduto il [decreto legislativo 7 maggio 1948, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;808), con il quale sono stati istituiti appositi Comitati tecnici per le predette tre Facolta' universitarie;
+ Veduto il [decreto legislativo 28 gennaio 1948, n. 170](../Decreti%20Legislativi/Istituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20e%20legalizzazione%20dei%20corsi%20di%20insegnamento%20provvisori_59aedc6c9611.md), con il quale sono state istituite le Facolta' di lettere e filosofia, scienze matematiche, fisiche e naturali e d'ingegneria;
+ Veduto il [decreto legislativo 7 maggio 1948, n. 808](../Decreti%20Legislativi/Norme%20concernenti%20le%20proposte%20relative%20allordinamento%20didattico%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20dellUniversita%20di%20Bari.md), con il quale sono stati istituiti appositi Comitati tecnici per le predette tre Facolta' universitarie;
  Vedute le proposte relative a modifiche da apportarsi allo statuto dell'Universita' anzidetta;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro per la pubblica istruzione;

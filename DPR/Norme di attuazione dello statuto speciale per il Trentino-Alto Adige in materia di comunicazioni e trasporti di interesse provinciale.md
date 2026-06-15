@@ -95,7 +95,7 @@ Relativamente ai servizi di cui al comma 6, le province autonome di Trento e di 
 
 Successivamente alla data del 31 dicembre 2003 le province stipulano, nel rispetto della normativa comunitaria e di quella provinciale emanata nei limiti di cui all'articolo 8 dello statuto di autonomia, nuovi contratti di servizio con imprese ferroviarie da individuare secondo la normativa medesima.
 
-10. Le province autonome di Trento e di Bolzano partecipano al riparto dei fondi di cui all'[articolo 20 del decreto legislativo 19 novembre 1997, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-19;422#art_20), e successive modificazioni, secondo i criteri stabiliti dal medesimo decreto per le regioni a statuto ordinario ))
+10. Le province autonome di Trento e di Bolzano partecipano al riparto dei fondi di cui all'[articolo 20 del decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, secondo i criteri stabiliti dal medesimo decreto per le regioni a statuto ordinario ))
 
 ## Art. 2.
 
@@ -122,7 +122,7 @@ L'esercizio delle attribuzioni in materia di linee ferroviarie in concessione ri
 4.
 
 Conseguentemente restano a carico dello Stato gli interventi integrativi previsti dalla [legge 8 giugno 1978, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-08;297), e successive modificazioni, per il ripianamento dei deficit di gestione delle societa' concessionarie relativi agli esercizi fino alla data di cui al comma 3, anche se disposti successivamente a tale data; restano anche a carico dello Stato gli interventi previsti dall'art. 10 della legge medesima limitatamente a quelli disposti fino alla stessa data.
-Restano altresi' a carico dello Stato gli interventi previsti dall'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_2-com3), per investimenti ferroviari.
+Restano altresi' a carico dello Stato gli interventi previsti dall'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), per investimenti ferroviari.
 
 5.
 
@@ -234,7 +234,7 @@ Fino a quando non sia diversamente disposto con legge provinciale, gli uffici pr
 
 1.
 
-La determinazione dei rimborsi spettanti alle province ai sensi dell'[art. 14 del decreto legislativo 16 marzo 1992, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268#art_14), per l'esercizio delle funzioni delegate, ai sensi dell'art. 4-bis del presente decreto, al netto dei proventi derivanti dalle operazioni svolte dagli uffici di cui all'art. 1 che affluiscono direttamente alle province, e' effettuata con cadenza triennale mediante intesa tra il Governo ed il presidente delle rispettive giunte provinciali, tenendo conto di quanto stabilito dal [comma 2 dell'art. 34 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_34-com2).
+La determinazione dei rimborsi spettanti alle province ai sensi dell'[art. 14 del decreto legislativo 16 marzo 1992, n. 268](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20finanza%20regionale%20e%20provinciale.md), per l'esercizio delle funzioni delegate, ai sensi dell'art. 4-bis del presente decreto, al netto dei proventi derivanti dalle operazioni svolte dagli uffici di cui all'art. 1 che affluiscono direttamente alle province, e' effettuata con cadenza triennale mediante intesa tra il Governo ed il presidente delle rispettive giunte provinciali, tenendo conto di quanto stabilito dal [comma 2 dell'art. 34 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md).
 
 ))
 
@@ -403,7 +403,7 @@ Entro novanta giorni dalla data di entrata in vigore del presente decreto, le am
 
 AGGIORNAMENTO (3)
 
-Il [D.lgs. 21 settembre 1995, n.429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-09-21;429) ha disposto (con l'art. 5 comma 4) che "Le disposizioni di cui agli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-11-19;527#art_13) e [14 del decreto del Presidente della Repubblica 19 novembre 1987, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-11-19;527#art_14), si applicano, in quanto compatibili, anche con riferimento alle funzioni amministrative delegate con il presente decreto, intendendosi sostituiti sia il termine di cui all'art. 13 sia la data del 31 dicembre 1988 di cui al secondo comma dell'art. 14 soprarichiamati con la data del 1 gennaio 1996."
+Il [D.lgs. 21 settembre 1995, n.429](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20recanti%20delega%20di%20funzioni%20amministrative%20alle%20province%20autonome%20di%20Trento%20e%20di%20Bolzano%20in%20materia%20di%20comunica_cffc1697d080.md) ha disposto (con l'art. 5 comma 4) che "Le disposizioni di cui agli [articoli 13](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20comunicazioni%20e%20trasporti%20di%20interesse%20provinciale.md) e [14 del decreto del Presidente della Repubblica 19 novembre 1987, n. 527](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20comunicazioni%20e%20trasporti%20di%20interesse%20provinciale.md), si applicano, in quanto compatibili, anche con riferimento alle funzioni amministrative delegate con il presente decreto, intendendosi sostituiti sia il termine di cui all'art. 13 sia la data del 31 dicembre 1988 di cui al secondo comma dell'art. 14 soprarichiamati con la data del 1 gennaio 1996."
 
 ## Art. 14.
 
@@ -419,7 +419,7 @@ Resta, altresi', fino alla data del 31 dicembre 1988, di competenza degli organi
 
 AGGIORNAMENTO (3)
 
-Il [D.lgs. 21 settembre 1995, n.429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-09-21;429) ha disposto (con l'art. 5 comma 4) che "Le disposizioni di cui agli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-11-19;527#art_13) e [14 del decreto del Presidente della Repubblica 19 novembre 1987, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-11-19;527#art_14), si applicano, in quanto compatibili, anche con riferimento alle funzioni amministrative delegate con il presente decreto, intendendosi sostituiti sia il termine di cui all'art. 13 sia la data del 31 dicembre 1988 di cui al secondo comma dell'art. 14 soprarichiamati con la data del 1 gennaio 1996."
+Il [D.lgs. 21 settembre 1995, n.429](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20recanti%20delega%20di%20funzioni%20amministrative%20alle%20province%20autonome%20di%20Trento%20e%20di%20Bolzano%20in%20materia%20di%20comunica_cffc1697d080.md) ha disposto (con l'art. 5 comma 4) che "Le disposizioni di cui agli [articoli 13](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20comunicazioni%20e%20trasporti%20di%20interesse%20provinciale.md) e [14 del decreto del Presidente della Repubblica 19 novembre 1987, n. 527](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20comunicazioni%20e%20trasporti%20di%20interesse%20provinciale.md), si applicano, in quanto compatibili, anche con riferimento alle funzioni amministrative delegate con il presente decreto, intendendosi sostituiti sia il termine di cui all'art. 13 sia la data del 31 dicembre 1988 di cui al secondo comma dell'art. 14 soprarichiamati con la data del 1 gennaio 1996."
 
 ## Art. 15.
 

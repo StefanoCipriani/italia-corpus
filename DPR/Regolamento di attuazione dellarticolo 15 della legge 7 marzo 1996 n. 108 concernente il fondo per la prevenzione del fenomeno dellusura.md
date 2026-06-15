@@ -55,9 +55,9 @@ Ai sensi del presente regolamento si intende:
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -106,9 +106,9 @@ Possono beneficiare dei contributi del "fondo":
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Note all'art. 2:
  - Il testo dell'[art. 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4) (Testo unico delle leggi in materia bancaria e creditizia) e' il seguente:
@@ -173,9 +173,9 @@ Il Ministro del tesoro dispone la cancellazione dall'elenco di cui al comma 1 qu
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Note all'art. 3:
  - Per il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), vedi in nota alle premesse.
@@ -248,9 +248,9 @@ La domanda deve essere inviata: per la prima applicazione del presente regolamen
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Nota all'art. 4:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
@@ -277,9 +277,9 @@ Il contributo erogabile a favore di ciascuno dei suddetti beneficiari non puo' c
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Nota all'art. 5:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
@@ -347,9 +347,9 @@ La domanda deve essere inviata: per la prima applicazione del presente regolamen
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Note all'art. 6:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
@@ -399,9 +399,9 @@ La garanzia del fondo speciale antiusura puo' essere deliberata dal confidi se v
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Nota all'art. 7:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
@@ -430,9 +430,9 @@ Il contributo erogabile a favore di ciascun confidi non puo' superare di dieci v
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Nota all'art. 8:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
@@ -468,9 +468,9 @@ Gli interessi derivanti dal deposito del contributo affluiscono nel fondo antius
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Nota all'art. 9:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
@@ -516,9 +516,9 @@ Entro sei mesi dalla cessazione dell'attivita', scioglimento, liquidazione o can
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 ## Art. 11. — Commissione per la gestione del fondo e l'assegnazione dei contributi
 
@@ -552,9 +552,9 @@ Il Ministero del tesoro e la commissione informano il commissario straordinario 
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 865, lettera c)) che "Le disposizioni di cui al comma 864 si applicano a decorrere dalla data di entrata in vigore del decreto di cui all'[articolo 15, comma 10-bis, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com10bis).
 A decorrere dalla stessa data sono abrogati: [...] 
- c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-11;315).
+ c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

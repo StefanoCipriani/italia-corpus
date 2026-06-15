@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica italiana;
- Visti i [decreti legislativi in data 25 marzo 1948, nn. 182, 183, 186, 188, 189 e 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;195);
+ Visti i [decreti legislativi in data 25 marzo 1948, nn. 182, 183, 186, 188, 189 e 195](../Decreti%20Legislativi/Stato%20di%20previsione%20dellentrata%20e%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201947-48.md);
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Ministro Segretario di Stato per il tesoro;
 

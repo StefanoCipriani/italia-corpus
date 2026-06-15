@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](Norme%
 
 Visto il decreto ministeriale 29 novembre 1978, recante norme di attuazione delle disposizioni di cui al citato decreto n. 627 del 1978, pubblicato nella Gazzetta Ufficiale n. 335 del 30 novembre 1978;
 
-Visto l'[art. 3, comma 147, lettera d), della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com147-letd), che ha previsto l'emanazione di un regolamento, ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), previo parere delle competenti commissioni parlamentari, per sopprimere l'obbligo della bolla di accompagnamento delle merci viaggianti e sostituirla con norme similari a quelle vigenti nell'Unione europea;
+Visto l'[art. 3, comma 147, lettera d), della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), che ha previsto l'emanazione di un regolamento, ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), previo parere delle competenti commissioni parlamentari, per sopprimere l'obbligo della bolla di accompagnamento delle merci viaggianti e sostituirla con norme similari a quelle vigenti nell'Unione europea;
 
 Considerato che nell'ambito dell'Unione europea non e' previsto l'obbligo di emissione di una documentazione fiscale di accompagnamento per i beni viaggianti;
 
@@ -40,7 +40,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Con effetto dalla data di entrata in vigore del presente regolamento cessano di avere efficacia, fatta eccezione per quanto riguarda la circolazione dei tabacchi e dei fiammiferi, nonche' dei prodotti sottoposti al regime delle accise, ad imposte di consumo od al regime di vigilanza fiscale di cui agli articoli 21, 27 e 62 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), le disposizioni riguardanti l'obbligo di emissione del documento di accompagnamento dei beni viaggianti contenute nel [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md).
+Con effetto dalla data di entrata in vigore del presente regolamento cessano di avere efficacia, fatta eccezione per quanto riguarda la circolazione dei tabacchi e dei fiammiferi, nonche' dei prodotti sottoposti al regime delle accise, ad imposte di consumo od al regime di vigilanza fiscale di cui agli articoli 21, 27 e 62 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), le disposizioni riguardanti l'obbligo di emissione del documento di accompagnamento dei beni viaggianti contenute nel [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md).
 
 1-bis.
 
@@ -62,7 +62,7 @@ Il decreto del Ministro delle finanze 18 gennaio 1996, pubblicato nella Gazzetta
 
 AGGIORNAMENTO (2)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 335) che la presente modifica si applica alle operazioni effettuate a partire dal 1° gennaio 2013.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 335) che la presente modifica si applica alle operazioni effettuate a partire dal 1° gennaio 2013.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

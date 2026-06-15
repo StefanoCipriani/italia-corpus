@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modifiche nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -321,7 +321,7 @@ Per la vendita di beni mobili e immobili fatta all'incanto in sede di espropriaz
 
 AGGIORNAMENTO (12)
 
-La Corte Costituzionale con sentenza 17 - 28 novembre 1983, n. 328 (in G.U. la s.s. 07/12/1983 n. 336) ha dichiarato "la illegittimita' costituzionale dell'[art. 42 d.P.R. 26 ottobre 1972, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;634#art_42) (Disciplina dell'imposta di registro), nella parte in cui non dispone che anche per le vendite forzate senza incanto, effettuate ai sensi degli [artt. 570 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_570), la base imponibile e' costituita dal prezzo di aggiudicazione".
+La Corte Costituzionale con sentenza 17 - 28 novembre 1983, n. 328 (in G.U. la s.s. 07/12/1983 n. 336) ha dichiarato "la illegittimita' costituzionale dell'[art. 42 d.P.R. 26 ottobre 1972, n. 634](Disciplina%20dellimposta%20di%20registro.md) (Disciplina dell'imposta di registro), nella parte in cui non dispone che anche per le vendite forzate senza incanto, effettuate ai sensi degli [artt. 570 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_570), la base imponibile e' costituita dal prezzo di aggiudicazione".
 
 ### Art. 43. — Rendite e pensioni
 
@@ -571,7 +571,7 @@ TITOLO NONO
 
 ### Art. 78. — Disposizioni transitorie in materia di agevolazioni
 
-Fermo restando il disposto degli articoli 5 e 38 le esenzioni e le agevolazioni in materia di imposta di registro, nonche' i regimi tributari sostitutivi di tale tributo o anche di esso, previsti da leggi vigenti alla data del 31 dicembre 1972, si applicano fino al termine che sara' stabilito con le disposizioni da emanare ai sensi del n. 6) dell'[art. 9 e del sesto comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_9-com6) dell'[art. 15 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_15) e, comunque, non oltre il 31 dicembre 1974.
+Fermo restando il disposto degli articoli 5 e 38 le esenzioni e le agevolazioni in materia di imposta di registro, nonche' i regimi tributari sostitutivi di tale tributo o anche di esso, previsti da leggi vigenti alla data del 31 dicembre 1972, si applicano fino al termine che sara' stabilito con le disposizioni da emanare ai sensi del n. 6) dell'[art. 9 e del sesto comma](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) dell'[art. 15 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) e, comunque, non oltre il 31 dicembre 1974.
 
 ### Art. 79. — Restituzione di imposte a societa' ed enti della Comunita' economica europea
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11) e [14 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_14);
+Visti gli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [14 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
-Visto l'[articolo 5 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_5), come modificato dall'[articolo 105 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_105);
+Visto l'[articolo 5 del decreto legislativo 29 ottobre 1999, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dall'[articolo 105 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri in data 23 maggio 2001, pubblicato nella Gazzetta Ufficiale n. 126 del 31 maggio 2002, con il quale e' stata applicata la misura di razionalizzazione di cui all'articolo 2, comma 1, lettera c), del predetto [decreto legislativo n. 419 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;419), consistente nell'unificazione strutturale della Giunta centrale per gli studi storici, dell'Istituto italiano di numismatica, dell'Istituto storico italiano per il medioevo, dell'Istituto storico italiano per l'eta' moderna e contemporanea, dell'Istituto italiano per la storia antica e dell'Istituto per la storia del risorgimento italiano;
 
@@ -49,7 +49,7 @@ La Giunta centrale per gli studi storici assume la denominazione di: «Giunta st
 2.
 
 La Giunta storica nazionale coordina l'attivita', e la gestione dei sottoelencati Istituti ed enti operanti nel campo della ricerca storica, inseriti nel sistema strutturato a rete ai sensi dell'[articolo 5, comma 2, del decreto legislativo 29 ottobre 1999, n. 
-419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_5-com2):
+419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md):
                         a)
                             Istituto italiano per la storia antica;
                         b)
@@ -85,7 +85,7 @@ La Giunta storica nazionale ha competenza ad adottare decisioni che investono qu
                         i)
                             cura i rapporti con le deputazioni e societa' di storia patria;
                         l)
-                            predispone e trasmette i piani di razionalizzazione secondo quanto previsto dall'[articolo 12 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_12).
+                            predispone e trasmette i piani di razionalizzazione secondo quanto previsto dall'[articolo 12 del decreto legislativo 29 ottobre 1999, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 ## Art. 2. — Organi della Giunta storica nazionale
 
@@ -290,7 +290,7 @@ Gli incarichi di presidente, consigliere di amministrazione, direttore di istitu
 
 1.
 
-Il rapporto di lavoro del personale operante presso l'attuale Giunta centrale per gli studi storici e presso gli Istituti storici di cui all'articolo 1 e' disciplinato dalle norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche di cui al [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165). Resta confermata l'applicazione del contratto collettivo nazionale di lavoro del personale degli enti pubblici non economici.
+Il rapporto di lavoro del personale operante presso l'attuale Giunta centrale per gli studi storici e presso gli Istituti storici di cui all'articolo 1 e' disciplinato dalle norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche di cui al [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). Resta confermata l'applicazione del contratto collettivo nazionale di lavoro del personale degli enti pubblici non economici.
 
 2.
 
@@ -301,7 +301,7 @@ Restano ferme le vigenti disposizioni relative al personale statale, comandato p
 Sono confermati allo stesso titolo i rapporti di lavoro dipendente del personale attualmente operante presso l'attuale Giunta centrale per gli studi storici e presso gli Istituti di cui all'articolo 1.
 
 Nota all'[art. 7:
- - Il decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_7), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche» e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, supplemento oridinario.
+ - Il decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche» e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, supplemento oridinario.
 
 ## Art. 8. — Vigilanza
 
@@ -316,7 +316,7 @@ Le delibere di rideterminazione delle dotazioni organiche sono sottoposte all'ap
 3.
 
 Il Ministero vigilante, inoltre, puo' disporre visite ispettive.
-Si applicano, infine, le disposizioni previste dall'[articolo 12 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_12).
+Si applicano, infine, le disposizioni previste dall'[articolo 12 del decreto legislativo 29 ottobre 1999, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 ## Art. 9.
 

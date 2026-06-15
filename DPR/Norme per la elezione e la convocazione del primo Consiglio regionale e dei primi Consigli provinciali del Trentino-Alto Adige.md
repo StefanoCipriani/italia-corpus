@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 93 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_93), concernente lo Statuto speciale per il Trentino-Alto Adige;
+Visto l'[art. 93 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), concernente lo Statuto speciale per il Trentino-Alto Adige;
 
 Sentito il Consiglio dei Ministri;
 
@@ -27,7 +27,7 @@ Il Consiglio regionale per il Trentino-Alto Adige e' eletto a suffragio universa
 
 Il territorio della Regione "Trentino-Alto Adige" e' ripartito in due collegi corrispondenti all'attuale circoscrizione delle province di Trento e di Bolzano.
  Il numero dei consiglieri regionali spettante a ciascun collegio e' stabilito, in ragione di un consigliere per ogni 15.000 abitanti, o frazione superiore a 7500, calcolati al 31 dicembre 1946, secondo i dati dell'Istituto centrale di statistica, come dalla tabella allegata al presente decreto e vistata dal Presidente del Consiglio dei Ministri.
- I consiglieri regionali eletti in ciascuna provincia costituiscono il Consiglio provinciale a norma dell'[art. 42, primo comma, della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_42-com1).
+ I consiglieri regionali eletti in ciascuna provincia costituiscono il Consiglio provinciale a norma dell'[art. 42, primo comma, della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md).
 
 ## Art. 3.
 

@@ -25,7 +25,7 @@ Nei confronti della Germania e delle persone fisiche e giuridiche tedesche cessa
 
 ## Art. 2.
 
-Restano fermi gli obblighi particolari che l'Italia ha assunto in base al Trattato di pace tra l'Italia e le Potenze Alleate ed Associate, firmato a Parigi il 10 febbraio 1947 e reso esecutivo col [decreto legislativo 28 novembre 1947, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-28;1430), ed al Memorandum d'intesa in merito ai beni tedeschi in Italia firmato a Washington tra la Francia, la Gran Bretagna, gli Stati Uniti di America e l'Italia il 14 agosto 1947 e reso esecutivo con [decreto legislativo 3 febbraio 1948, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-03;177).
+Restano fermi gli obblighi particolari che l'Italia ha assunto in base al Trattato di pace tra l'Italia e le Potenze Alleate ed Associate, firmato a Parigi il 10 febbraio 1947 e reso esecutivo col [decreto legislativo 28 novembre 1947, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-28;1430), ed al Memorandum d'intesa in merito ai beni tedeschi in Italia firmato a Washington tra la Francia, la Gran Bretagna, gli Stati Uniti di America e l'Italia il 14 agosto 1947 e reso esecutivo con [decreto legislativo 3 febbraio 1948, n. 177](../Decreti%20Legislativi/Approvazione%20del%20Memorandum%20dintesa%20fra%20i%20Governi%20di%20Francia%20del%20Regno%20Unito%20di%20Gran%20Bretagna%20e%20Nord%20Irlanda%20e%20gli%20Stati%20Uniti%20dAmerica%20da%20una%20parte%20ed%20il%20Governo%20dItalia%20dallaltra%20parte%20_c3e84776e71a.md).
 
 ## Art. 3.
 

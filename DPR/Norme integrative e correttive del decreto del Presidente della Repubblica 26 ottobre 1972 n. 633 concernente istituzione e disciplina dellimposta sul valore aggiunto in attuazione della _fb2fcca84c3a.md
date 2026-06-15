@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -26,9 +26,9 @@ Visto l'[art. 22 della legge 13 aprile 1977, n. 114](https://www.normattiva.it/u
 
 Visto l'[art. 7 della legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md);
 
-Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), concernente l'istituzione e la disciplina dell'imposta sul valore aggiunto;
+Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), concernente l'istituzione e la disciplina dell'imposta sul valore aggiunto;
 
-Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -59,13 +59,13 @@ I beni viaggianti debbono essere accompagnati, durante il trasporto, da bolla di
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 30 dicembre 1980 n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;897) ha disposto (con l'art. 45 comma 3) che le disposizioni previste dall'art. 29 del sopra citato D.P.R., limitatamente alle modifiche apportate all'art. 1, penultimo comma del [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627), hanno effetto dal 1 gennaio 1982.
+Il [D.P.R. 30 dicembre 1980 n. 897](Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%2029%20settembre%201973%20numeri%20597%20598%20600%20e%20601%20concernenti%20rispettivamente%20listituzione%20e%20la_780da1019e6b.md) ha disposto (con l'art. 45 comma 3) che le disposizioni previste dall'art. 29 del sopra citato D.P.R., limitatamente alle modifiche apportate all'art. 1, penultimo comma del [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), hanno effetto dal 1 gennaio 1982.
 
 ---------------
 
 AGGIORNAMENTO (10)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 335) che la presente modifica si applica alle operazioni effettuate a partire dal 1° gennaio 2013.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 335) che la presente modifica si applica alle operazioni effettuate a partire dal 1° gennaio 2013.
 
 ## Art. 2.
 
@@ -99,7 +99,7 @@ Le disposizioni di cui agli articoli 1 e 2 non si applicano:
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 30 dicembre 1981 n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;793) ha disposto (con l'art. 25) che "le modificazioni apportate dall'[art. 29 del decreto del Presidente della Repubblica 30 dicembre 1980, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;897#art_29), al [n. 4, dell'art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;4#art_4) del [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627)) sono soppresse con effetto dal 1 gennaio 1982".
+Il [D.P.R. 30 dicembre 1981 n. 793](Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20e%206%20ottobre%201978%20n.%20627%20concernenti%20rispettivamente%20listituzione%20e%20la%20disciplina%20dellimp_334296849399.md) ha disposto (con l'art. 25) che "le modificazioni apportate dall'[art. 29 del decreto del Presidente della Repubblica 30 dicembre 1980, n. 897](Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%2029%20settembre%201973%20numeri%20597%20598%20600%20e%20601%20concernenti%20rispettivamente%20listituzione%20e%20la_780da1019e6b.md), al [n. 4, dell'art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;4#art_4) del [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md)) sono soppresse con effetto dal 1 gennaio 1982".
 
 ## Art. 5.
 
@@ -134,7 +134,7 @@ Il mittente e' responsabile della mancata o inesatta compilazione dei documenti 
 
 AGGIORNAMENTO (3a)
 
-Il [D.P.R. 9 agosto 1982, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-09;525), ha disposto (con l'art. 1, comma 1) che "E' concessa amnistia per i reati previsti nell'[articolo 50 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), nell'[articolo 7 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627#art_7), nell'[articolo 8 della legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md), come integrato dalla [legge 13 marzo 1980, n. 71, negli articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-13;71#art_51), ultimo comma, e 56 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), nonche' per i reati concernenti le imposte abolite per effetto della riforma tributaria, commessi fino al 30 giugno 1982".
+Il [D.P.R. 9 agosto 1982, n. 525](Concessione%20di%20amnistia%20per%20reati%20tributari.md), ha disposto (con l'art. 1, comma 1) che "E' concessa amnistia per i reati previsti nell'[articolo 50 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), nell'[articolo 7 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), nell'[articolo 8 della legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md), come integrato dalla [legge 13 marzo 1980, n. 71, negli articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-13;71#art_51), ultimo comma, e 56 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), nonche' per i reati concernenti le imposte abolite per effetto della riforma tributaria, commessi fino al 30 giugno 1982".
 
 ## Art. 8.
 

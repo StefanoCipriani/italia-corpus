@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -26,7 +26,7 @@ TITOLO I
 
 ### Art. 1.
 
-Sono trasferite alla Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto, approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), le attribuzioni amministrative che i testi unici delle leggi comunali 4 febbraio 1915, n. 148, 3 marzo 1934, n. 383, e successive modificazioni, conferiscono agli organi statali, salvo quanto disposto dagli articoli seguenti.
+Sono trasferite alla Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto, approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), le attribuzioni amministrative che i testi unici delle leggi comunali 4 febbraio 1915, n. 148, 3 marzo 1934, n. 383, e successive modificazioni, conferiscono agli organi statali, salvo quanto disposto dagli articoli seguenti.
 
 ### Art. 2.
 
@@ -67,7 +67,7 @@ Le procedure in corso presso gli uffici statali, relative alla istituzione di nu
 
 ### Art. 8.
 
-Le attribuzioni degli organi dello Stato in materia di toponomastica sono esercitate nel territorio della Regione dalla Amministrazione regionale ai sensi e nei limiti dell'art. 8 dello Statuto approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1).
+Le attribuzioni degli organi dello Stato in materia di toponomastica sono esercitate nel territorio della Regione dalla Amministrazione regionale ai sensi e nei limiti dell'art. 8 dello Statuto approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md).
  Sino a quando non sara' diversamente disposto con legge regionale, restano ferme le attribuzioni consultive della Sovrintendenza ai monumenti e delle deputazioni provinciali di storia patria in materia di toponomastica nonche' le attribuzioni devolute, in base alle norme vigenti, al Ministero della pubblica istruzione, in ordine al mutamento del nome delle vecchie strade e piazze comunali, ed al Ministero dell'interno per le deroghe in materia di toponomastica stradale e monumenti a personaggi contemporanei.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

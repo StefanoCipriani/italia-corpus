@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
  Vista la tabella organica della Scuola di magistero professionale per la donna "Elena di Savoia" di Napoli, annessa al decreto del Capo provvisorio dello Stato n. 1860 del 20 settembre 1947, pubblicato nella Gazzetta Ufficiale n. 152 del 3 luglio 1948;
  Considerata l'opportunita' di trasformare, per esigenze di servizio, il posto di ruolo di maestra di laboratorio per il rammendo previsto dalla suddetta tabella organica, in posto di ruolo di maestra di laboratorio per la maglieria;
- Visto il [decreto legislativo 7 maggio 1948, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1277), con il quale, fra l'altro, le maestre di laboratorio assumono la qualifica di insegnanti tecniche-pratiche;
+ Visto il [decreto legislativo 7 maggio 1948, n. 1277](../Decreti%20Legislativi/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20degli%20istituti%20e%20delle%20scuole%20di%20istruzione%20tecnica.md), con il quale, fra l'altro, le maestre di laboratorio assumono la qualifica di insegnanti tecniche-pratiche;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 
  Decreta:

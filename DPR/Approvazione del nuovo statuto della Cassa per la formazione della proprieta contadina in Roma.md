@@ -14,7 +14,7 @@ N.
 
 1168.
 
-Decreto del Presidente della Repubblica 1° dicembre 1982, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto della Cassa per la formazione della proprieta' contadina, in Roma, istituita con [decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121). 
+Decreto del Presidente della Repubblica 1° dicembre 1982, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto della Cassa per la formazione della proprieta' contadina, in Roma, istituita con [decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md). 
  
 Visto, il Guardasigilli: DARIDA 
  Registrato alla Corte dei conti, addi' 13 aprile 1983 

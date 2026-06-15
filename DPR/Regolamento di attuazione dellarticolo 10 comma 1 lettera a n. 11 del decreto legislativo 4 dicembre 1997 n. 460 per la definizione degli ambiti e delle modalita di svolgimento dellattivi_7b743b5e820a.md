@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 10, comma 1, lettera a), n. 11), del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_10-com1-leta-num11), recante riordino della disciplina tributaria degli enti non commerciali e delle organizzazioni non lucrative di utilita' sociale;
+Visto l'[articolo 10, comma 1, lettera a), n. 11), del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), recante riordino della disciplina tributaria degli enti non commerciali e delle organizzazioni non lucrative di utilita' sociale;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -28,13 +28,13 @@ Emana il seguente regolamento:
 
 1.
 
-Il presente regolamento definisce gli ambiti e le modalita' di svolgimento dell'attivita' di ricerca scientifica di particolare interesse sociale da parte di fondazioni ai fini dell'applicabilita' delle disposizioni di cui agli [articoli 10 e seguenti del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_10).
+Il presente regolamento definisce gli ambiti e le modalita' di svolgimento dell'attivita' di ricerca scientifica di particolare interesse sociale da parte di fondazioni ai fini dell'applicabilita' delle disposizioni di cui agli [articoli 10 e seguenti del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md).
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvata con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - L'[art. 10, comma 1, lettera a), n. 11 del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_10-com1-leta-num11) (Riordino della disciplina tributaria degli enti non commerciali e delle organizzazioni non lucrative di utilita' sociale) prevede:
+ - L'[art. 10, comma 1, lettera a), n. 11 del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) (Riordino della disciplina tributaria degli enti non commerciali e delle organizzazioni non lucrative di utilita' sociale) prevede:
  «Art. 1. - Sono organizzazioni non lucrative di utilita' sociale (ONLUS) le associazioni, i comitati, le fondazioni, le societa' cooperative e gli altri enti di carattere privato, con o senza personalita' giuridica, i cui statuti o atti costitutivi, redatti nella forma dell'atto pubblico o della scrittura privata autenticata o registrata, prevedono espressamente:
  a) lo svolgimento di attivita' in uno o piu' dei seguenti settori:
  1) - 10) - (Omissis).
@@ -42,7 +42,7 @@ Avvertenza:
  - L'[art. 17, comma 1 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) cosi' recita:
  «1. - Il Governo della Repubblica e' composto del Presidente del Consiglio dei Ministri e dei Ministri, che costituiscono insieme il Consiglio dei Ministri.».
  Nota all'[art. 1:
- - Per il decreto legislativo n. 460 del 4 dicembre 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_1) si veda la nota alle premesse.
+ - Per il decreto legislativo n. 460 del 4 dicembre 1997](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) si veda la nota alle premesse.
 
 ## Art. 2. — Ricerca scientifica di particolare interesse sociale
 

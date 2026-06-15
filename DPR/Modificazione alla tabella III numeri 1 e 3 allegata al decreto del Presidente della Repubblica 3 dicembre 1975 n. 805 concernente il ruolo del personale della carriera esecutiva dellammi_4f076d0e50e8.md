@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 25, comma quarto, della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25-com4), cosi' come sostituito dall'[art. 17 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_17);
+Visto l'[art. 25, comma quarto, della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), cosi' come sostituito dall'[art. 17 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_17);
 
 Visto il [decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md), ed, in particolare, la tabella III, 1 e 3, allegata al decreto del Presidente della Repubblica medesimo concernente il ruolo del personale della carriera esecutiva dell'amministrazione centrale e periferica ed il ruolo degli operatori tecnici del personale della carriera esecutiva del Ministero per i beni culturali e ambientali;
 

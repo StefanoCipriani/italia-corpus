@@ -44,7 +44,7 @@ Ai sensi del primo comma dell'articolo 36 dello Statuto della Regione Siciliana,
 
 AGGIORNAMENTO (1)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 52, comma 6) che "A decorrere dalla data di entrata in vigore della presente legge cessano di avere applicazione le riserve all'erario statale gia' disposte ai sensi del [primo comma dell'articolo 2 del decreto del Presidente della Repubblica 26 luglio 1965, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-07-26;1074#art_2-com1), con leggi entrate in vigore anteriormente."
+La [L. 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 52, comma 6) che "A decorrere dalla data di entrata in vigore della presente legge cessano di avere applicazione le riserve all'erario statale gia' disposte ai sensi del [primo comma dell'articolo 2 del decreto del Presidente della Repubblica 26 luglio 1965, n. 1074](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20finanziaria.md), con leggi entrate in vigore anteriormente."
 
 ## Art. 3.
 
@@ -93,8 +93,8 @@ Con successive norme di attuazione saranno istituite in Sicilia, per gli affari 
 ## Art. 11.
 
 Il presente decreto entra in vigore dalla data di inizio dell'esercizio finanziario successivo alla sua pubblicazione. 
- Da tale data cessa di avere effetto l'[art. 2 del decreto legislativo 12 aprile 1948, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;507#art_2). 
- Resta fermo il disposto dell'[art. 8 del decreto legislativo 12 aprile 1948, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;507#art_8), relativo alle operazioni di conguaglio per i rapporti finanziari pregressi tra lo Stato e la Regione siciliana.
+ Da tale data cessa di avere effetto l'[art. 2 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md). 
+ Resta fermo il disposto dell'[art. 8 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), relativo alle operazioni di conguaglio per i rapporti finanziari pregressi tra lo Stato e la Regione siciliana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

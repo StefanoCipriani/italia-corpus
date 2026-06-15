@@ -30,7 +30,7 @@ Il personale delle forze di polizia indicate nell'[art. 16 della legge 1 aprile 
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 2. — Accertamento dell'invalidita'
 
@@ -41,7 +41,7 @@ L'invalidita', che non comporti l'inidoneita' assoluta ai servizi d'istituto, e'
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 3. — Destinazione
 
@@ -52,7 +52,7 @@ L'autorita' competente secondo gli ordinamenti delle singole forze di polizia, s
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 4. — Istituzione di una commissione consultiva
 
@@ -62,7 +62,7 @@ Presso i Ministeri o comandi competenti e' istituita una commissione, la quale, 
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 5. — Composizione della commissione consultiva
 
@@ -72,7 +72,7 @@ I criteri per la composizione e la nomina delle commissioni di cui all'articolo 
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 6. — Utilizzazione per le esigenze del Fondo assistenza della pubblica sicurezza
 
@@ -82,7 +82,7 @@ Il personale della Polizia di Stato, riconosciuto parzialmente inidoneo ai servi
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 7. — Stato giuridico - Trattamento - Indennita' speciale
 
@@ -94,7 +94,7 @@ Al personale di cui al presente decreto continuano ad applicarsi le norme sullo 
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 8. — Trasferimento del personale invalido
 
@@ -106,7 +106,7 @@ Le autorita' competenti secondo i vigenti ordinamenti, in relazione anche alla q
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 ## Art. 9. — Copertura dell'onere finanziario
 
@@ -116,7 +116,7 @@ Alle spese conseguenti all'applicazione dell'art. 7 del presente decreto si fara
 
 AGGIORNAMENTO (2)
 
-La [L. 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
+La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md) come modificata dalla [L. 29 marzo 2001, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art.6, comma 5).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -16,13 +16,13 @@ Vista la [legge 24 aprile 1941, n. 392](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 20, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), allegato 1, n. 2;
+Visto l'[articolo 20, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, n. 2;
 
 Visto il [decreto del Presidente della Repubblica 4 maggio 1998, n. 187](Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20alla%20concessione%20ai%20comuni%20di%20contributi%20per%20le%20spese%20di%20gestione%20degli%20uffici%20giudiziari%20a%20norma%20dellarticolo%2020%20comma%208%20della%20le_9a68d1cbdbc8.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 6 dicembre 2012;
 
-Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_9-com3);
+Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Acquisito il parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati;
 
@@ -63,7 +63,7 @@ Avvertenza:
  - Si riporta il testo vigente dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2) (Disciplina dell'attivita' di governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale del 12 settembre 1988, n. 214. 
  «Art. 17. (Regolamenti). - (Omissis). 
  2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme.». 
- - Il [decreto del Presidente della Repubblica del 4 maggio 1988, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-04;187) (Regolamento recante disciplina dei procedimenti relativi alla concessione ai comuni di contributi per le spese di gestione degli uffici giudiziari, a norma dell'[articolo 20, comma 8, della L. 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8)) e' stato pubblicato nella Gazzetta Ufficiale del 18 giugno 1998, n. 140, S.O. 
+ - Il [decreto del Presidente della Repubblica del 4 maggio 1988, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-04;187) (Regolamento recante disciplina dei procedimenti relativi alla concessione ai comuni di contributi per le spese di gestione degli uffici giudiziari, a norma dell'[articolo 20, comma 8, della L. 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)) e' stato pubblicato nella Gazzetta Ufficiale del 18 giugno 1998, n. 140, S.O. 
  
  Note all'art. 1: 
  - Si riporta il testo dell'articolo 1 del citato [decreto del Presidente della Repubblica 4 maggio 1988, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-04;187), come modificato dal presente decreto: 

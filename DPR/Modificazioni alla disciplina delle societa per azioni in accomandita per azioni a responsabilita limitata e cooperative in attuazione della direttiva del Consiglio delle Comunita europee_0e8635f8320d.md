@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 agosto 1985, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;412);
+Vista la [legge 8 agosto 1985, n. 412](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20dare%20attuazione%20alla%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2077-91%20del%2013%20dicembre%201976%20in%20materia%20di%20diritto%20delle%20societa.md);
 
 Sentite le competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
 

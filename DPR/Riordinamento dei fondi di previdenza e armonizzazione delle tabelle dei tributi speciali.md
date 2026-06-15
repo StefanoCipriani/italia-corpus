@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, numero 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -50,8 +50,8 @@ E' istituito il fondo di previdenza per il personale dell'amministrazione perife
 
 AGGIORNAMENTO (1a)
 
-Il [D.P.R. 17 marzo 1981, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-17;211), ha disposto (con l'art. 1) che "A decorrere dalla data di entrata in vigore del presente decreto i seguenti fondi di previdenza sono unificati in un unico ente di diritto pubblico, denominato fondo di previdenza per il personale del Ministero delle finanze:
- fondo di previdenza a favore del personale periferico dell'amministrazione delle imposte dirette, istituito con l'[art. 5 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;648#art_5)"
+Il [D.P.R. 17 marzo 1981, n. 211](Unificazione%20dei%20fondi%20di%20previdenza%20del%20personale%20del%20Ministero%20delle%20finanze.md), ha disposto (con l'art. 1) che "A decorrere dalla data di entrata in vigore del presente decreto i seguenti fondi di previdenza sono unificati in un unico ente di diritto pubblico, denominato fondo di previdenza per il personale del Ministero delle finanze:
+ fondo di previdenza a favore del personale periferico dell'amministrazione delle imposte dirette, istituito con l'[art. 5 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](Riordinamento%20dei%20fondi%20di%20previdenza%20e%20armonizzazione%20delle%20tabelle%20dei%20tributi%20speciali.md)"
 
 ## Art. 6. — (Fondo di previdenza per il personale del Ministero delle finanze e delle intendenze di finanza)
 
@@ -62,8 +62,8 @@ E' istituito il fondo di previdenza per il personale del Ministero delle finanze
 
 AGGIORNAMENTO (1a)
 
-Il [D.P.R. 17 marzo 1981, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-17;211), ha disposto (con l'art. 1) che "A decorrere dalla data di entrata in vigore del presente decreto i seguenti fondi di previdenza sono unificati in un unico ente di diritto pubblico, denominato fondo di previdenza per il personale del Ministero delle finanze:
- ondo di previdenza per il personale del Ministero delle finanze e delle intendenze di finanza, istituito con l'[art. 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;648#art_6)."
+Il [D.P.R. 17 marzo 1981, n. 211](Unificazione%20dei%20fondi%20di%20previdenza%20del%20personale%20del%20Ministero%20delle%20finanze.md), ha disposto (con l'art. 1) che "A decorrere dalla data di entrata in vigore del presente decreto i seguenti fondi di previdenza sono unificati in un unico ente di diritto pubblico, denominato fondo di previdenza per il personale del Ministero delle finanze:
+ ondo di previdenza per il personale del Ministero delle finanze e delle intendenze di finanza, istituito con l'[art. 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](Riordinamento%20dei%20fondi%20di%20previdenza%20e%20armonizzazione%20delle%20tabelle%20dei%20tributi%20speciali.md)."
 
 ## Art. 7. — (Regolamenti dei fondi di previdenza)
 
@@ -81,8 +81,8 @@ E' riconosciuta l'istituzione del fondo di previdenza a favore del personale per
 
 AGGIORNAMENTO (1a)
 
-Il [D.P.R. 17 marzo 1981, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-17;211), ha disposto (con l'art. 1) che "A decorrere dalla data di entrata in vigore del presente decreto i seguenti fondi di previdenza sono unificati in un unico ente di diritto pubblico, denominato fondo di previdenza per il personale del Ministero delle finanze:
- fondo di previdenza a favore del personale periferico delle tasse ed imposte indirette sugli affari, istituito con decreto ministeriale dell'11 febbraio 1952 e riconosciuto con l'[art. 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;648#art_8)."
+Il [D.P.R. 17 marzo 1981, n. 211](Unificazione%20dei%20fondi%20di%20previdenza%20del%20personale%20del%20Ministero%20delle%20finanze.md), ha disposto (con l'art. 1) che "A decorrere dalla data di entrata in vigore del presente decreto i seguenti fondi di previdenza sono unificati in un unico ente di diritto pubblico, denominato fondo di previdenza per il personale del Ministero delle finanze:
+ fondo di previdenza a favore del personale periferico delle tasse ed imposte indirette sugli affari, istituito con decreto ministeriale dell'11 febbraio 1952 e riconosciuto con l'[art. 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](Riordinamento%20dei%20fondi%20di%20previdenza%20e%20armonizzazione%20delle%20tabelle%20dei%20tributi%20speciali.md)."
 
 ## Art. 9.
 

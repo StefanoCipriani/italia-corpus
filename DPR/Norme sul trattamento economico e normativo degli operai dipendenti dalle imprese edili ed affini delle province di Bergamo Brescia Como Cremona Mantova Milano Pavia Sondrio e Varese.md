@@ -71,7 +71,7 @@ sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli a
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 27 febbraio-17 marzo 1969, n. 34 (in G.U. 1a s.s. 26/03/1969, n. 78), ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [decreto del Presidente della Repubblica 9 maggio 1961, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;740), nella parte in cui rende obbligatorio erga omnes il terzo comma dell'art. 7 dell'accordo collettivo 22 settembre 1959, integrativo del contratto collettivo nazionale di lavoro 24 luglio 1959, da valere per gli operai dipendenti dalle imprese delle industrie edilizia e affini della provincia di Milano."
+La Corte Costituzionale, con sentenza 27 febbraio-17 marzo 1969, n. 34 (in G.U. 1a s.s. 26/03/1969, n. 78), ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [decreto del Presidente della Repubblica 9 maggio 1961, n. 740](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20operai%20dipendenti%20dalle%20imprese%20edili%20ed%20affini%20delle%20province%20di%20Bergamo%20Brescia%20Como%20Cremona%20Mantova%20Milano%20Pavia%20Sondrio%20e%20Varese.md), nella parte in cui rende obbligatorio erga omnes il terzo comma dell'art. 7 dell'accordo collettivo 22 settembre 1959, integrativo del contratto collettivo nazionale di lavoro 24 luglio 1959, da valere per gli operai dipendenti dalle imprese delle industrie edilizia e affini della provincia di Milano."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

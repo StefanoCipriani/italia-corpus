@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -81,7 +81,7 @@ L'imposta e' commisurata al reddito complessivo imponibile con l'aliquota del 25
 
 AGGIORNAMENTO (1)
 
-La [L. 16 dicembre 1977, n.904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-16;904) ha disposto (con l'art. 6, comma 2) che "Sono abolite le riduzioni dell'aliquota dell'imposta sul reddito delle persone giuridiche previste per le societa' e gli enti finanziari nell'[articolo 7, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;598#art_7-com2)."
+La [L. 16 dicembre 1977, n.904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-16;904) ha disposto (con l'art. 6, comma 2) che "Sono abolite le riduzioni dell'aliquota dell'imposta sul reddito delle persone giuridiche previste per le societa' e gli enti finanziari nell'[articolo 7, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 598](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20giuridiche.md)."
 
 ### Art. 8. — Scomputo delle ritenute d'acconto
 
@@ -97,7 +97,7 @@ Dall'imposta determinata a norma dei precedenti articoli si scomputano le ritenu
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 30 dicembre 1980, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;897), ha disposto (con l'art. 45, comma 5) che le disposizioni dell'art. 39 (il quale ha modificato il presente articolo) si applicano dal periodo di imposta in corso alla data del 31 dicembre 1980.
+Il [D.P.R. 30 dicembre 1980, n. 897](Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%2029%20settembre%201973%20numeri%20597%20598%20600%20e%20601%20concernenti%20rispettivamente%20listituzione%20e%20la_780da1019e6b.md), ha disposto (con l'art. 45, comma 5) che le disposizioni dell'art. 39 (il quale ha modificato il presente articolo) si applicano dal periodo di imposta in corso alla data del 31 dicembre 1980.
 
 ### Art. 10. — Liquidazione delle societa' e degli enti
 
@@ -131,7 +131,7 @@ Nella determinazione del reddito imponibile delle societa' ed enti di cui alle l
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 30 dicembre 1980, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;897), ha disposto (con l'art. 45, comma 5) che le disposizioni dell'art. 39 (il quale ha modificato il presente articolo) si applicano dal periodo di imposta in corso alla data del 31 dicembre 1980.
+Il [D.P.R. 30 dicembre 1980, n. 897](Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%2029%20settembre%201973%20numeri%20597%20598%20600%20e%20601%20concernenti%20rispettivamente%20listituzione%20e%20la_780da1019e6b.md), ha disposto (con l'art. 45, comma 5) che le disposizioni dell'art. 39 (il quale ha modificato il presente articolo) si applicano dal periodo di imposta in corso alla data del 31 dicembre 1980.
 
 ### Art. 14. — Altri componenti negativi
 
@@ -191,7 +191,7 @@ Il [D.L. 1 ottobre 1982, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (6)
 
-Il [D.P.R. 28 dicembre 1982, n.954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-12-28;954) ha disposto (con l'art. 9, comma 1) che le modifiche apportate al presente articolo hanno effetto dal 1 gennaio 1974.
+Il [D.P.R. 28 dicembre 1982, n.954](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20e%2029%20settembre%201973%20n.%20598%20e%20successive%20modificazioni%20concernenti%20istituzione%20e%20di_395692244d43.md) ha disposto (con l'art. 9, comma 1) che le modifiche apportate al presente articolo hanno effetto dal 1 gennaio 1974.
 
 -----------------
 

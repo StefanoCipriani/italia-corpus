@@ -29,7 +29,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-25;1185), e [28 dicembre 1952, n. 4344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4344), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45.md), e [28 dicembre 1952, n. 4344](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45_2.md), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
 
 ## Art. 2.
 
@@ -39,7 +39,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-25;1185), e [28 dicembre 1952, n. 4344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4344), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45.md), e [28 dicembre 1952, n. 4344](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45_2.md), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
 
 ## Art. 3.
 
@@ -49,7 +49,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni in
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-25;1185), e [28 dicembre 1952, n. 4344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4344), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45.md), e [28 dicembre 1952, n. 4344](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45_2.md), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
 
 ## Art. 4.
 
@@ -59,7 +59,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-25;1185), e [28 dicembre 1952, n. 4344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4344), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei [decreti del Presidente della Repubblica 25 luglio 1952, n. 1185](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45.md), e [28 dicembre 1952, n. 4344](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Campani%20Dina%20di%20Luigi%20maritata%20Inghirami%20in%20com_d997c74c6a45_2.md), in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona, successivamente al 15 novembre 1949."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

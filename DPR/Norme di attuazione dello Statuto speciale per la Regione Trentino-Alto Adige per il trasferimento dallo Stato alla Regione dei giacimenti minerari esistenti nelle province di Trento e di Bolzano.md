@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_58) e [95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
+Visti gli [articoli 58](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md) e [95 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Sentito il Consiglio dei Ministri;
 

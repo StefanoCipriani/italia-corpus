@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_4), [5 della legge 13 luglio 1965, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_5), concernente delega al Governo per l'emanazione di norme relative all'ordinamento dell'Amministrazione degli affari esteri;
+Visti gli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [5 della legge 13 luglio 1965, n. 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), concernente delega al Governo per l'emanazione di norme relative all'ordinamento dell'Amministrazione degli affari esteri;
 
-Vista la [legge 25 luglio 1966, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;586), concernente la proroga della delega predetta;
+Vista la [legge 25 luglio 1966, n. 586](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri%20e%20per%20modificare%20e%20coordinare%20le%20norme%20vigenti%20in%20materia%20consolare.md), concernente la proroga della delega predetta;
 
-Udita la Commissione parlamentare di cui all'[art. 1 della legge 13 luglio 1965, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_1);
+Udita la Commissione parlamentare di cui all'[art. 1 della legge 13 luglio 1965, n. 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -96,14 +96,14 @@ CAPO II
 La carica di Segretario generale e' conferita ad un ambasciatore con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro degli affari esteri. 
  Con le modalita' indicate nel primo comma del presente articolo sono conferite ad un ambasciatore o ad un Ministro plenipotenziario le funzioni di vice Segretario generale, capo del cerimoniale diplomatico della Repubblica, direttore generale ((...)), ispettore generale del Ministero e degli uffici all'estero. ((Il presente comma non si applica al direttore generale competente per gli affari amministrativi e il patrimonio e al capo dell'ufficio dirigenziale generale di cui all'articolo 10, comma 2, del decreto legislativo 3 febbraio 2011, n. 71)). 
  Le funzioni di capo di gabinetto sono conferite ad un ambasciatore o ad un Ministro plenipotenziario. PERIODO SOPPRESSO DAL [D.L. 14 MARZO 2025, N. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-14;25), CONVERTITO CON MODIFICAZIONI DALLA [L. 9 MAGGIO 2025, N. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%202025%20n.%2025%20recante%20disposizioni%20urgenti%20in%20materia%20di%20reclutamento%20e%20funzionalita%20delle%20pubbliche%20amministrazioni.%2025G00076.md). PERIODO SOPPRESSO DAL [D.L. 14 MARZO 2025, N. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-14;25), CONVERTITO CON MODIFICAZIONI DALLA [L. 9 MAGGIO 2025, N. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%202025%20n.%2025%20recante%20disposizioni%20urgenti%20in%20materia%20di%20reclutamento%20e%20funzionalita%20delle%20pubbliche%20amministrazioni.%2025G00076.md). 
- Le funzioni di capo del servizio competente per gli affari giuridici e quelle di capo dell'ufficio legislativo possono essere temporaneamente conferite ad un dipendente dello Stato estraneo ai ruoli dei Ministero degli affari esteri. PERIODO SOPPRESSO DAL [D.P.R. 19 MAGGIO 2010, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-05-19;95). 
+ Le funzioni di capo del servizio competente per gli affari giuridici e quelle di capo dell'ufficio legislativo possono essere temporaneamente conferite ad un dipendente dello Stato estraneo ai ruoli dei Ministero degli affari esteri. PERIODO SOPPRESSO DAL [D.P.R. 19 MAGGIO 2010, N. 95](Riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20e%20della%20cooperazione%20internazionale%20a%20norma%20dellarticolo%2074%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20l_28dd58203e35.md). 
  Le funzioni di vice direttore generale, di capo del servizio competente per gli affari giuridici, di vice capo del cerimoniale, di vice ispettore generale e di capo delle unita' della segreteria generale sono conferite a ministri plenipotenziari. Per esigenze di servizio possono essere incaricati di svolgere temporaneamente tali funzioni anche consiglieri di ambasciata. 
  Le funzioni di vice capo di gabinetto, di vice capo servizio sono conferite a funzionari diplomatici di grado non inferiore a consigliere d'ambasciata. Per esigenze di servizio possono essere incaricati di svolgere temporaneamente le funzioni di vice capo servizio anche consiglieri di legazione. 
- Le funzioni di capo ufficio sono conferite a funzionari diplomatici di grado non inferiore a consigliere di ambasciata. Per esigenze di servizio possono essere incaricati di svolgere temporaneamente tali funzioni anche consiglieri di legazione. PERIODO SOPPRESSO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-11-19;211). 
+ Le funzioni di capo ufficio sono conferite a funzionari diplomatici di grado non inferiore a consigliere di ambasciata. Per esigenze di servizio possono essere incaricati di svolgere temporaneamente tali funzioni anche consiglieri di legazione. PERIODO SOPPRESSO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md). 
  Le funzioni di capo sezione sono conferite a funzionari diplomatici con il grado di consigliere di legazione o segretario di legazione. 
- Le funzioni di capo della segreteria dei Sottosegretari di Stato e dei direttori generali sono conferite a funzionari diplomatici di grado non inferiore a consigliere di legazione. PERIODO SOPPRESSO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-11-19;211). 
+ Le funzioni di capo della segreteria dei Sottosegretari di Stato e dei direttori generali sono conferite a funzionari diplomatici di grado non inferiore a consigliere di legazione. PERIODO SOPPRESSO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md). 
  Gli incarichi previsti nei commi terzo, quarto, quinto, sesto, settimo e ottavo del presente articolo sono conferiti con decreto del Ministro degli affari esteri. 
- Con il regolamento previsto dall'[articolo 2 della legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266#art_2), si provvede alla disciplina del conferimento delle funzioni indicate nei commi quinto, settimo, ottavo e nono del presente articolo, non attribuibili a funzionari della carriera diplomatica.
+ Con il regolamento previsto dall'[articolo 2 della legge 28 luglio 1999, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md), si provvede alla disciplina del conferimento delle funzioni indicate nei commi quinto, settimo, ottavo e nono del presente articolo, non attribuibili a funzionari della carriera diplomatica.
 
 ### Art. 17.
 
@@ -177,7 +177,7 @@ La [legge 6 febbraio 1992, n. 180](../Atti%20normativi%20abrogati%20%28in%20orig
 
 ### Art. 24.
 
-((IL [D.P.R. 19 DICEMBRE 2007, N.258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-19;258) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 19 DICEMBRE 2007, N.258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 25.
 
@@ -205,7 +205,7 @@ Ai fini della migliore conoscenza dei problemi che interessano le collettivita' 
 
 AGGIORNAMENTO (3)
 
-La [L. 15 dicembre 1971, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1221) ha disposto (con l'art. 1) che "L'[articolo 28 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_28), sull'ordinamento dell'Amministrazione degli affari esteri, e' sostituito dalle norme contenute negli articoli seguenti".
+La [L. 15 dicembre 1971, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1221) ha disposto (con l'art. 1) che "L'[articolo 28 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'Amministrazione degli affari esteri, e' sostituito dalle norme contenute negli articoli seguenti".
 
 ---------------
 
@@ -671,7 +671,7 @@ Qualora in immobili demaniali vi sia eccedenza di locali in relazione alle esige
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che le presenti modifiche hanno effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che le presenti modifiche hanno effetto dal 1° luglio 2015.
 
 ## ATTREZZATURE
 
@@ -761,7 +761,7 @@ Alle carriere, di cui al primo comma dell'art. 93, ed ai ruoli e alle qualifiche
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ha disposto (con l'art. 18, comma 3) che "Le disposizioni contenute nell'[articolo 94 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_94) (Accesso alle carriere, ai ruoli e alle qualifiche speciali) non si applicano per quanto riguarda l'accesso alla carriera diplomatica".
+Il [D.Lgs. 24 marzo 2000, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20carriera%20diplomatica%20a%20norma%20dellarticolo%201%20della%20legge%2028%20luglio%201999%20n.%20266.md) ha disposto (con l'art. 18, comma 3) che "Le disposizioni contenute nell'[articolo 94 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) (Accesso alle carriere, ai ruoli e alle qualifiche speciali) non si applicano per quanto riguarda l'accesso alla carriera diplomatica".
 
 ### Art. 95.
 
@@ -828,9 +828,9 @@ La carriera diplomatica, per la natura delle specifiche funzioni dirigenziali at
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 47, commi 1 e 2) che "I primi tre gradi della carriera diplomatica, indicati nell'[art. 101 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_101), sono unificati nel grado di segretario di legazione.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 47, commi 1 e 2) che "I primi tre gradi della carriera diplomatica, indicati nell'[art. 101 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sono unificati nel grado di segretario di legazione.
  I funzionari che rivestono il grado di secondo segretario di legazione, terzo segretario di legazione ed addetto di legazione sono inquadrati nel grado di segretario di legazione, nel quale conservano l'anzianita' e l'ordine di ruolo del grado di provenienza nonche' l'anzianita' di servizio complessivamente posseduta nel grado stesso ed in quelli inferiori della carriera".
- Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+ Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ### Art. 102. — (Formazione e aggiornamento professionale)
@@ -850,14 +850,14 @@ L'amministrazione degli affari esteri provvede alla formazione e all'aggiornamen
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ---------------
 
 AGGIORNAMENTO (31)
 
-Il [D.LGS. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85), come modificato dal [D.L. 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136) convertito, con modificazioni, dalla [L. 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), ha disposto (con l'art. 17, comma 7-bis) che "In deroga a quanto previsto dagli [articoli 102, primo comma, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_102-com1-letb), e [107, primo comma, lettera a), del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_107-com1-leta), i funzionari diplomatici entrati in servizio dal 1° gennaio 1999 al 31 dicembre 2003 possono essere promossi al grado di consigliere di legazione anche se non hanno frequentato il corso di aggiornamento di cui al medesimo articolo 102, primo comma, lettera b). I funzionari che sono stati promossi senza aver frequentato il corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata semestrale."
+Il [D.LGS. 24 marzo 2000, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20carriera%20diplomatica%20a%20norma%20dellarticolo%201%20della%20legge%2028%20luglio%201999%20n.%20266.md), come modificato dal [D.L. 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136) convertito, con modificazioni, dalla [L. 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), ha disposto (con l'art. 17, comma 7-bis) che "In deroga a quanto previsto dagli [articoli 102, primo comma, lettera b)](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e [107, primo comma, lettera a), del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), i funzionari diplomatici entrati in servizio dal 1° gennaio 1999 al 31 dicembre 2003 possono essere promossi al grado di consigliere di legazione anche se non hanno frequentato il corso di aggiornamento di cui al medesimo articolo 102, primo comma, lettera b). I funzionari che sono stati promossi senza aver frequentato il corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata semestrale."
 
 ### Art. 103. — (((Periodo di prova)
 
@@ -869,7 +869,7 @@ Il [D.LGS. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ### Art. 104.
@@ -889,15 +889,15 @@ Per l'avanzamento al grado superiore il funzionario diplomatico, oltre ad aver d
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 47, comma 9) che, in deroga a quanto disposto dalla modifica apportata al comma 2 del presente D.P.R., "per i funzionari diplomatici in servizio alla data del 31 dicembre 1970 il periodo di servizio richiesto per la promozione a consigliere di ambasciata rimane quello di due anni anteriormente prescritto dall'[art. 105 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_105)".
- Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha inoltre disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 47, comma 9) che, in deroga a quanto disposto dalla modifica apportata al comma 2 del presente D.P.R., "per i funzionari diplomatici in servizio alla data del 31 dicembre 1970 il periodo di servizio richiesto per la promozione a consigliere di ambasciata rimane quello di due anni anteriormente prescritto dall'[art. 105 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md)".
+ Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha inoltre disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ---------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ha disposto (con l'art. 17 comma 4) che "Nel corso dell'anno in cui entra in vigore il presente decreto le nomine ai gradi di ambasciatore e di Ministro plenipotenziario vengono effettuate in deroga alle disposizioni contenute nel [terzo comma, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_com3-leta), e [quarto comma dell'articolo 105 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_105-com4), come sostituito dall'articolo 5 del presente decreto."
+Il [D.Lgs. 24 marzo 2000, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20carriera%20diplomatica%20a%20norma%20dellarticolo%201%20della%20legge%2028%20luglio%201999%20n.%20266.md) ha disposto (con l'art. 17 comma 4) che "Nel corso dell'anno in cui entra in vigore il presente decreto le nomine ai gradi di ambasciatore e di Ministro plenipotenziario vengono effettuate in deroga alle disposizioni contenute nel [terzo comma, lettera a)](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e [quarto comma dell'articolo 105 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), come sostituito dall'articolo 5 del presente decreto."
 
 ### Art. 105-bis. — (((Commissioni per l'avanzamento nella carriera diplomatica)
 
@@ -918,7 +918,7 @@ Il [D.Lgs. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ### Art. 106-bis. — (Valutazione periodica dei funzionari diplomatici appartenenti ai gradi di consigliere di ambasciata e ministro plenipotenziario)
@@ -956,7 +956,7 @@ Il requisito di cui alla presente lettera e quello di cui alla lettera b), numer
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi. 
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi. 
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno 
 effetto dal 1 gennaio 1971."
 
@@ -964,14 +964,14 @@ effetto dal 1 gennaio 1971."
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ha disposto (con l'art. 17 comma 7) che "In deroga al [primo comma, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_com1-leta) e [b), dell'articolo 107 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_107-com1-letb), come sostituito dall'articolo 8 del presente decreto, i funzionari diplomatici gia' in servizio alla data del 31 dicembre 1998 possono essere promossi al grado di consigliere di legazione se hanno compiuto nove anni e mezzo di servizio effettivo nella carriera diplomatica ed anche se non hanno frequentato il corso di aggiornamento di cui al [primo comma, lettera b), dell'articolo 102 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_102-com1-letb), come sostituito dall'articolo 3 del presente decreto. Peraltro i funzionari che hanno conseguito la promozione al grado di consigliere di legazione senza aver frequentato il predetto corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata semestrale organizzato dall'Istituto 
+Il [D.Lgs. 24 marzo 2000, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20carriera%20diplomatica%20a%20norma%20dellarticolo%201%20della%20legge%2028%20luglio%201999%20n.%20266.md) ha disposto (con l'art. 17 comma 7) che "In deroga al [primo comma, lettere a)](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [b), dell'articolo 107 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), come sostituito dall'articolo 8 del presente decreto, i funzionari diplomatici gia' in servizio alla data del 31 dicembre 1998 possono essere promossi al grado di consigliere di legazione se hanno compiuto nove anni e mezzo di servizio effettivo nella carriera diplomatica ed anche se non hanno frequentato il corso di aggiornamento di cui al [primo comma, lettera b), dell'articolo 102 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), come sostituito dall'articolo 3 del presente decreto. Peraltro i funzionari che hanno conseguito la promozione al grado di consigliere di legazione senza aver frequentato il predetto corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata semestrale organizzato dall'Istituto 
 diplomatico."
 
 ---------------
 
 AGGIORNAMENTO (31)
 
-Il [D.LGS. 24 marzo 2000, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85), come modificato dal [D.L. 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136) convertito, con modificazioni, dalla [L. 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), ha disposto (con l'art. 17, comma 7-bis) che "In deroga a quanto previsto dagli [articoli 102, primo comma, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_102-com1-letb), e [107, primo comma, lettera a), del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_107-com1-leta), i funzionari diplomatici entrati in servizio dal 1° gennaio 1999 al 31 dicembre 2003 possono essere promossi al grado di consigliere di legazione anche se non hanno frequentato il corso di aggiornamento di cui al medesimo articolo 102, primo comma, lettera b). I funzionari che sono stati promossi senza aver frequentato il corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata 
+Il [D.LGS. 24 marzo 2000, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20carriera%20diplomatica%20a%20norma%20dellarticolo%201%20della%20legge%2028%20luglio%201999%20n.%20266.md), come modificato dal [D.L. 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136) convertito, con modificazioni, dalla [L. 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), ha disposto (con l'art. 17, comma 7-bis) che "In deroga a quanto previsto dagli [articoli 102, primo comma, lettera b)](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e [107, primo comma, lettera a), del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), i funzionari diplomatici entrati in servizio dal 1° gennaio 1999 al 31 dicembre 2003 possono essere promossi al grado di consigliere di legazione anche se non hanno frequentato il corso di aggiornamento di cui al medesimo articolo 102, primo comma, lettera b). I funzionari che sono stati promossi senza aver frequentato il corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata 
 semestrale."
 
 ### Art. 108. — (Promozione al grado di consigliere di ambasciata)
@@ -1030,14 +1030,14 @@ Con comunicazione diretta a tutti gli uffici a Roma ed all'estero, l'amministraz
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ---------------
 
 AGGIORNAMENTO (12a)
 
-La [L. 5 giugno 1984, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-05;208) ha disposto (con l'art. 2, comma 2) che "Per l'assegnazione alla delegazione di cui al precedente comma potranno essere collocati a disposizione con incarico, per tutta la durata della delegazione stessa, fino ad un massimo di tre funzionari della carriera diplomatica del Ministero degli affari esteri, in deroga a quanto previsto ed in aggiunta al contingente fissato dall'[articolo 111 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_111)."
+La [L. 5 giugno 1984, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-05;208) ha disposto (con l'art. 2, comma 2) che "Per l'assegnazione alla delegazione di cui al precedente comma potranno essere collocati a disposizione con incarico, per tutta la durata della delegazione stessa, fino ad un massimo di tre funzionari della carriera diplomatica del Ministero degli affari esteri, in deroga a quanto previsto ed in aggiunta al contingente fissato dall'[articolo 111 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md)."
 
 ---------------
 
@@ -1248,7 +1248,7 @@ I periodi di congedo ordinario e di ferie comprensivi degli aumenti di cui al pr
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ### Art. 144. — (Residenze disagiate)
 
@@ -1261,13 +1261,13 @@ Con decreto del Ministro degli affari esteri, di concerto con il Ministro del te
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
 
 ### Art. 145.
 
@@ -1321,68 +1321,68 @@ Le rappresentanze diplomatiche, gli uffici consolari di prima categoria, gli ist
 
 AGGIORNAMENTO (11)
 
-La [L. 13 agosto 1980, n. 462](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assunzione%20di%20impiegati%20a%20contratto%20per%20le%20esigenze%20delle%20rappresentanze%20diplomatiche%20e%20degli%20uffici%20consolari.md) ha disposto (con l'art. 1 comma 1) che "Il contingente indicato nel [primo comma dell'articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152-com1), e' aumentato a 1.450 unita'."
+La [L. 13 agosto 1980, n. 462](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assunzione%20di%20impiegati%20a%20contratto%20per%20le%20esigenze%20delle%20rappresentanze%20diplomatiche%20e%20degli%20uffici%20consolari.md) ha disposto (con l'art. 1 comma 1) che "Il contingente indicato nel [primo comma dell'articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato a 1.450 unita'."
 
 ---------------
 
 AGGIORNAMENTO (13a)
 
-La [L. 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470) ha disposto (con l'art. 17 comma 3) che "Per consentire alle rappresentanze diplomatiche ed agli uffici consolari di far fronte ai maggiori compiti derivanti dall'applicazione della presente legge, il contingente degli impiegati di cui all'articolo 152 del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e successive modificazioni, e' elevato di ottantacinque unita' da assumere ed assegnarsi prioritariamente agli uffici all'estero nelle cui circoscrizioni risiedano comunita' italiane particolarmente consistenti."
+La [L. 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470) ha disposto (con l'art. 17 comma 3) che "Per consentire alle rappresentanze diplomatiche ed agli uffici consolari di far fronte ai maggiori compiti derivanti dall'applicazione della presente legge, il contingente degli impiegati di cui all'articolo 152 del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni, e' elevato di ottantacinque unita' da assumere ed assegnarsi prioritariamente agli uffici all'estero nelle cui circoscrizioni risiedano comunita' italiane particolarmente consistenti."
 
 ---------------
 
 AGGIORNAMENTO (20)
 
-La [L. 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662) ha disposto (con l'art. 1 comma 133) che "Il contingente del personale assunto a contratto dagli uffici all'estero del Ministero degli affari esteri di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e successive modificazioni ed integrazioni, e' elevato di 160 unita'."
+La [L. 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 1 comma 133) che "Il contingente del personale assunto a contratto dagli uffici all'estero del Ministero degli affari esteri di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni ed integrazioni, e' elevato di 160 unita'."
 
 ---------------
 
 AGGIORNAMENTO (28)
 
-La [L. 21 dicembre 2001, n. 442](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20in%20materia%20di%20impiegati%20a%20contratto%20in%20servizio%20presso%20le%20Rappresentanze%20diplomatiche%20gli%20Uffici%20consolari%20e%20gli%20Istituti%20italiani%20di%20cultura%20allestero.md) ha disposto (con l'art. 2 comma 5) che "Il contingente di 1.827 impiegati a contratto di cui all'[articolo 152, primo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152-com1), come sostituito dall'[articolo 1 del decreto legislativo 7 aprile 2000, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-04-07;103#art_1), e' integrato delle unita' di personale a contratto assunte ai sensi dell'[articolo 7, comma 1, del decreto-legge 1° luglio 1996, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;347#art_7-com1), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20347%20recante%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20concernenti%20il%20Ministero%20degli%20affari%20es_ee161af0553a.md), la cui scadenza contrattuale e' stata prorogata al 31 dicembre 2001 dall'[articolo 6 della legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266#art_6), purche' in servizio alla data del 31 dicembre 2001, anche in sovrannumero fino al loro progressivo riassorbimento."
+La [L. 21 dicembre 2001, n. 442](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20in%20materia%20di%20impiegati%20a%20contratto%20in%20servizio%20presso%20le%20Rappresentanze%20diplomatiche%20gli%20Uffici%20consolari%20e%20gli%20Istituti%20italiani%20di%20cultura%20allestero.md) ha disposto (con l'art. 2 comma 5) che "Il contingente di 1.827 impiegati a contratto di cui all'[articolo 152, primo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), come sostituito dall'[articolo 1 del decreto legislativo 7 aprile 2000, n. 103](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20del%20personale%20assunto%20localmente%20dalle%20rappresentanze%20diplomatiche%20dagli%20uffici%20consolari%20e%20dagli%20istituti%20italiani%20di%20cultura%20allestero%20a%20norma%20dellarticolo%204%20della%20legge%2028%20l_ee3ffd427baa.md), e' integrato delle unita' di personale a contratto assunte ai sensi dell'[articolo 7, comma 1, del decreto-legge 1° luglio 1996, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;347#art_7-com1), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20347%20recante%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20concernenti%20il%20Ministero%20degli%20affari%20es_ee161af0553a.md), la cui scadenza contrattuale e' stata prorogata al 31 dicembre 2001 dall'[articolo 6 della legge 28 luglio 1999, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md), purche' in servizio alla data del 31 dicembre 2001, anche in sovrannumero fino al loro progressivo riassorbimento."
 
 ---------------
 
 AGGIORNAMENTO (29)
 
 Il [D.L. 31 marzo 2003, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-31;52) convertito con modificazioni dalla [L. 30 maggio 2003, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20marzo%202003%20n.%2052%20recante%20differimento%20dei%20termini%20relativi%20alle%20elezioni%20per%20il%20rinnovo%20dei%20Comitati%20degli%20italiani%20allestero.md) ha disposto (con l'art. 1-bis comma 2) che "Il proseguimento dei rapporti contrattuali di cui al comma 1 e' autorizzato caso per caso dall'amministrazione centrale, in base alle esigenze operative delle singole sedi, per un periodo massimo di dodici mesi a partire dalla scadenza dei diversi singoli contratti.
-Tali autorizzazioni sono accordate in deroga ai limiti del contingente di cui all'[articolo 152, primo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152-com1), e successive modificazioni. I relativi rapporti di impiego sono regolati dalle disposizioni del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18)."
+Tali autorizzazioni sono accordate in deroga ai limiti del contingente di cui all'[articolo 152, primo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni. I relativi rapporti di impiego sono regolati dalle disposizioni del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18)."
 
 ---------------
 
 AGGIORNAMENTO (37)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1 comma 1317) che "Per assicurare il rispetto degli obblighi derivanti dagli impegni assunti in sede europea finalizzati al contrasto della criminalita' organizzata e dell'immigrazione illegale, per le esigenze connesse alla componente nazionale del "Sistema d'informazione visti", nei limiti dell'autorizzazione di spesa di cui all'[articolo 1, comma 5, del decreto-legge 14 marzo 2005, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-03-14;35#art_1-com5), convertito, con modificazioni, dalla [legge 14 maggio 2005, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%202005%20n.%2035%20recante%20disposizioni%20urgenti%20nellambito%20del%20Piano%20di%20azione%20per%20lo%20sviluppo%20economico%20sociale%20e%20territoriale.%20_2088e331563c.md), il contingente degli impiegati a contratto degli uffici all'estero, di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e successive modificazioni, e' incrementato di non piu' di 65 unita'."
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1 comma 1317) che "Per assicurare il rispetto degli obblighi derivanti dagli impegni assunti in sede europea finalizzati al contrasto della criminalita' organizzata e dell'immigrazione illegale, per le esigenze connesse alla componente nazionale del "Sistema d'informazione visti", nei limiti dell'autorizzazione di spesa di cui all'[articolo 1, comma 5, del decreto-legge 14 marzo 2005, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-03-14;35#art_1-com5), convertito, con modificazioni, dalla [legge 14 maggio 2005, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%202005%20n.%2035%20recante%20disposizioni%20urgenti%20nellambito%20del%20Piano%20di%20azione%20per%20lo%20sviluppo%20economico%20sociale%20e%20territoriale.%20_2088e331563c.md), il contingente degli impiegati a contratto degli uffici all'estero, di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni, e' incrementato di non piu' di 65 unita'."
 
 ---------------
 
 AGGIORNAMENTO (37a)
 
-La [L. 27 dicembre 2007, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-27;246) ha disposto (con l'art. 14 comma 2) che "Per le esigenze connesse al supporto alla gestione in loco dei programmi promossi da fondi, banche e organismi internazionali, nonche' all'erogazione di servizi e atti consolari e alla riduzione dei tempi procedimentali, il contingente degli impiegati a contratto degli uffici all'estero, di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e successive modificazioni, e' incrementato di 150 unita', nel limite massimo di spesa di 1,52 milioni di euro per l'anno 2008 e di 4,56 milioni di euro a decorrere dall'anno 2009."
+La [L. 27 dicembre 2007, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-27;246) ha disposto (con l'art. 14 comma 2) che "Per le esigenze connesse al supporto alla gestione in loco dei programmi promossi da fondi, banche e organismi internazionali, nonche' all'erogazione di servizi e atti consolari e alla riduzione dei tempi procedimentali, il contingente degli impiegati a contratto degli uffici all'estero, di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni, e' incrementato di 150 unita', nel limite massimo di spesa di 1,52 milioni di euro per l'anno 2008 e di 4,56 milioni di euro a decorrere dall'anno 2009."
 
 ---------------
 
 AGGIORNAMENTO (47)
 
-Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito con modificazioni dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), ha disposto (con l'art. 41-bis, comma 4) che "Per le straordinarie esigenze di funzionamento delle rappresentanze diplomatiche e degli uffici consolari nella Repubblica popolare cinese, in via eccezionale, il contingente di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e successive modificazioni, e' incrementato di 40 unita'."
+Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito con modificazioni dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), ha disposto (con l'art. 41-bis, comma 4) che "Per le straordinarie esigenze di funzionamento delle rappresentanze diplomatiche e degli uffici consolari nella Repubblica popolare cinese, in via eccezionale, il contingente di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni, e' incrementato di 40 unita'."
 
 ------------
 
 AGGIORNAMENTO (51)
 
-Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 16-bis, comma 3) che "Il contingente di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e' rideterminato in 2.600 unita' per l'anno 2015, 2.650 unita' per l'anno 2016 e 2.700 unita' a decorrere dall'anno 2017, comprensive dei contingenti di cui all'[articolo 1, comma 1317, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com1317), all'[articolo 14, comma 2, della legge 27 dicembre 2007, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-27;246#art_14-com2), e all'[articolo 41-bis, comma 4, del decreto-legge 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83#art_41bis-com4), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md)".
+Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 16-bis, comma 3) che "Il contingente di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' rideterminato in 2.600 unita' per l'anno 2015, 2.650 unita' per l'anno 2016 e 2.700 unita' a decorrere dall'anno 2017, comprensive dei contingenti di cui all'[articolo 1, comma 1317, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), all'[articolo 14, comma 2, della legge 27 dicembre 2007, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-27;246#art_14-com2), e all'[articolo 41-bis, comma 4, del decreto-legge 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83#art_41bis-com4), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md)".
 
 ------------
 
 AGGIORNAMENTO (65)
 
-Il [D.L. 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13), convertito con modificazioni dalla [L. 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), ha disposto (con l'art. 14, comma 1) che "Per il potenziamento della rete diplomatica e consolare nel continente africano, il contingente di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e' incrementato di venti unita'".
+Il [D.L. 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13), convertito con modificazioni dalla [L. 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), ha disposto (con l'art. 14, comma 1) che "Per il potenziamento della rete diplomatica e consolare nel continente africano, il contingente di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' incrementato di venti unita'".
 
 ------------
 
 AGGIORNAMENTO (66)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 272, alinea) che le presenti modifiche decorrono dall'anno 2018.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 272, alinea) che le presenti modifiche decorrono dall'anno 2018.
 
 ### Art. 153. — (Assunzione di impiegati temporanei)
 
@@ -1462,7 +1462,7 @@ Gli assegni di cui ai commi 1, 2 e 5 non sono cumulabili con gli aumenti per sit
 
 7.
 
-Gli assegni di cui ai commi 1, 2 e 5 non concorrono alla formazione del reddito complessivo di cui all'articolo 8 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917).
+Gli assegni di cui ai commi 1, 2 e 5 non concorrono alla formazione del reddito complessivo di cui all'articolo 8 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 8. E' fatta salva l'applicazione della normativa locale, se piu' favorevole))
 
@@ -1616,102 +1616,102 @@ L'Amministrazione degli affari esteri puo' utilizzare negli uffici centrali o ne
  Resta fermo il posto corrispondente ai fini del trattamento economico a quello di primo consigliere, attualmente ricoperto dai singoli interessati, sino al termine definitivo del loro incarico, nonche' il posto di pari livello gia' istituito per gli esperti regionali di cui all'[articolo 58 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni.(21) 
  Gli incarichi di cui al presente articolo sono conferiti con decreto del Ministro per gli affari esteri, sentito il Consiglio di amministrazione del Ministero, di concerto con il Ministro per il tesoro e, per il personale di altre Amministrazioni o di Enti pubblici, anche con il Ministro competente o vigilante. Gli incarichi sono biennali. Alla stessa persona possono essere conferiti piu' incarichi purche', nel complesso, non superino gli otto anni. Gli incarichi sono revocabili in qualsiasi momento a giudizio del Ministro per gli affari esteri. 
  Gli esperti tratti dal personale dello Stato sono collocati fuori ruolo con le modalita' previste dai rispettivi ordinamenti. 
- COMMA ABROGATO DALLA [L. 30 DICEMBRE 2020, N. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178). 
- Gli esperti che il Ministero degli affari esteri e della cooperazione internazionale puo' utilizzare a norma del presente articolo non possono complessivamente superare il numero di centosettantadue con l'esclusione delle unita' riservate, ai sensi dell'articolo 11 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e dell'articolo 2, comma 6-duodecies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_2-com6duodecies), del [decreto-legge 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributaria%20e%20di%20sostegno%20alle%20imprese%20e%20alle%20famiglie.%2010G0251.md), convertito, con modificazioni, dalla [legge 26 febbraio 2011, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202010%20n.%20225%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributa_d5d5f921efa2.md), allo svolgimento di particolari compiti relativi alla tutela dell'ordine pubblico e della sicurezza nazionale nonche' al contrasto della criminalita' organizzata e di tutte le condotte illecite, anche transnazionali, ad essa riconducibili, delle unita' destinate, ai sensi dell'[articolo 36 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_36), alla prevenzione dell'immigrazione clandestina ((, delle unita' destinate ai sensi dell'articolo 2, secondo comma, della legge 5 giugno 1962, n. 616, allo svolgimento di attivita' di supporto e consulenza ai compiti di autorita' marittima svolti dall'autorita' consolare)) e delle unita' destinate, ai sensi dell'[articolo 4 del decreto legislativo 19 marzo 2001, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-19;68#art_4), all'accertamento delle violazioni in materia economica e finanziaria a tutela del bilancio dello Stato e dell'Unione europea. 
+ COMMA ABROGATO DALLA [L. 30 DICEMBRE 2020, N. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md). 
+ Gli esperti che il Ministero degli affari esteri e della cooperazione internazionale puo' utilizzare a norma del presente articolo non possono complessivamente superare il numero di centosettantadue con l'esclusione delle unita' riservate, ai sensi dell'articolo 11 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e dell'articolo 2, comma 6-duodecies](Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), del [decreto-legge 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributaria%20e%20di%20sostegno%20alle%20imprese%20e%20alle%20famiglie.%2010G0251.md), convertito, con modificazioni, dalla [legge 26 febbraio 2011, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202010%20n.%20225%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributa_d5d5f921efa2.md), allo svolgimento di particolari compiti relativi alla tutela dell'ordine pubblico e della sicurezza nazionale nonche' al contrasto della criminalita' organizzata e di tutte le condotte illecite, anche transnazionali, ad essa riconducibili, delle unita' destinate, ai sensi dell'[articolo 36 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_36), alla prevenzione dell'immigrazione clandestina ((, delle unita' destinate ai sensi dell'articolo 2, secondo comma, della legge 5 giugno 1962, n. 616, allo svolgimento di attivita' di supporto e consulenza ai compiti di autorita' marittima svolti dall'autorita' consolare)) e delle unita' destinate, ai sensi dell'[articolo 4 del decreto legislativo 19 marzo 2001, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dei%20compiti%20del%20Corpo%20della%20Guardia%20di%20finanza%20a%20norma%20dellarticolo%204%20della%20legge%2031%20marzo%202000%20n.%2078.md), all'accertamento delle violazioni in materia economica e finanziaria a tutela del bilancio dello Stato e dell'Unione europea. 
  Le disposizioni del presente articolo non si applicano al personale comandato o collocato fuori ruolo presso il Ministero degli affari esteri in virtu' di altre disposizioni ne' a quello inviato all'estero in missione temporanea. (14a) (15) (15a) (19) (27a) (28a) (46) (74) (75) (93)
 
 ---------------
 
 AGGIORNAMENTO (14a)
 
-La [L. 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685) come modificata dalla [L. 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162) ha disposto (con l'art. 6-quater, comma 2) che "A tali fini il contingenete previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e' aumentato di una quota di venti unita' riservata agli esperti del Servizio 
+La [L. 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685) come modificata dalla [L. 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162) ha disposto (con l'art. 6-quater, comma 2) che "A tali fini il contingenete previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato di una quota di venti unita' riservata agli esperti del Servizio 
 centrale antidroga."
 
 ---------------
 
 AGGIORNAMENTO (15)
 
-Il [D.P.R. 9 ottobre 1990, n.309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309) ha disposto (con l'art. 11) che "Il Dipartimento della pubblica sicurezza puo' destinare, fuori del territorio nazionale, secondo quanto disposto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e successive modificazioni, personale appartenente al Servizio centrale antidroga, che operera' presso le rappresentanze diplomatiche e gli uffici consolari in qualita' di esperti, per lo svolgimento di attivita' di studio, osservazione, consulenza e informazione in vista della promozione della cooperazione contro il traffico della droga. 
- A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e' aumentato di una quota di venti unita', riservata agli esperti del Servizio 
+Il [D.P.R. 9 ottobre 1990, n.309](Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md) ha disposto (con l'art. 11) che "Il Dipartimento della pubblica sicurezza puo' destinare, fuori del territorio nazionale, secondo quanto disposto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni, personale appartenente al Servizio centrale antidroga, che operera' presso le rappresentanze diplomatiche e gli uffici consolari in qualita' di esperti, per lo svolgimento di attivita' di studio, osservazione, consulenza e informazione in vista della promozione della cooperazione contro il traffico della droga. 
+ A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato di una quota di venti unita', riservata agli esperti del Servizio 
 centrale antidroga."
 
 ---------------
 
 AGGIORNAMENTO (15a)
 
-La [L. 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md) ha disposto (con l'art. 71, comma 1) che "Il contingente di cui all'articolo 168, penultimo comma, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e' aumentato di una unita' da destinare alla Rappresentanza permanente d'Italia presso le Comunita' economiche europee."
+La [L. 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md) ha disposto (con l'art. 71, comma 1) che "Il contingente di cui all'articolo 168, penultimo comma, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato di una unita' da destinare alla Rappresentanza permanente d'Italia presso le Comunita' economiche europee."
 
 ---------------
 
 AGGIORNAMENTO (18)
 
-La [L. 6 febbraio 1996, n.52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) ha disposto (con l'art. 58 comma 1) che "Fermo restando il contingente complessivo fissato dal penultimo comma dell'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), come modificato dall'[articolo 71 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il numero massimo degli esperti inviati ad occupare un posto in organico in rappresentanze permanenti presso Organismi internazionali e' elevato da venticinque a ventinove 
+La [L. 6 febbraio 1996, n.52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) ha disposto (con l'art. 58 comma 1) che "Fermo restando il contingente complessivo fissato dal penultimo comma dell'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), come modificato dall'[articolo 71 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il numero massimo degli esperti inviati ad occupare un posto in organico in rappresentanze permanenti presso Organismi internazionali e' elevato da venticinque a ventinove 
 unita'."
 
 ---------------
 
 AGGIORNAMENTO (20)
 
-La [L. 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662) ha disposto (con l'art. 1, comma 136) che "Il contingente di cui al [settimo comma dell'articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168-com7), e successive modificazioni ed integrazioni, e' diminuito a 78 unita'.
+La [L. 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 1, comma 136) che "Il contingente di cui al [settimo comma dell'articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni ed integrazioni, e' diminuito a 78 unita'.
 Il sub contingente presso le Rappresentanze permanenti presso organismi internazionali e' elevato a 37 unita', ferme restando le 4 unita' fissate dall'[articolo 58 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)."
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
 vigore del decreto stesso."
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-La [L. 6 febbraio 1996, n.52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) come modificato dalla [L. 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) ha disposto (con l'art. 58 comma 2) che "Presso la Rappresentanza permanente presso l'Unione europea e' istituito, con le procedure di cui all'[articolo 32 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_32), un ulteriore posto in organico, nel ruolo degli esperti di cui all'articolo 168 del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18), cui e' assegnato, in posizione di fuori ruolo, un funzionario della carriera direttiva appartenente ai ruoli di una regione o provincia autonoma, designato dalla Conferenza dei presidenti delle regioni e delle province 
+La [L. 6 febbraio 1996, n.52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) come modificato dalla [L. 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) ha disposto (con l'art. 58 comma 2) che "Presso la Rappresentanza permanente presso l'Unione europea e' istituito, con le procedure di cui all'[articolo 32 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), un ulteriore posto in organico, nel ruolo degli esperti di cui all'articolo 168 del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18), cui e' assegnato, in posizione di fuori ruolo, un funzionario della carriera direttiva appartenente ai ruoli di una regione o provincia autonoma, designato dalla Conferenza dei presidenti delle regioni e delle province 
 autonome."
 
 ---------------
 
 AGGIORNAMENTO (27)
 
-La [L. 26 maggio 2000, n.147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-05-26;147) ha disposto (con l'art. 5, comma 1) che "Il contingente di cui al [settimo comma dell'articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168-com7), e successive modificazioni ed integrazioni, e' elevato a ottantadue unita', di cui quattro da destinare a posti di addetto agricolo. Il subcontingente di esperti, tratti dal personale dello Stato da destinare alle rappresentanze permanenti presso organismi internazionali, e' elevato a quarantuno unita', comprese le quattro unita' fissate dall'[articolo 
+La [L. 26 maggio 2000, n.147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-05-26;147) ha disposto (con l'art. 5, comma 1) che "Il contingente di cui al [settimo comma dell'articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni ed integrazioni, e' elevato a ottantadue unita', di cui quattro da destinare a posti di addetto agricolo. Il subcontingente di esperti, tratti dal personale dello Stato da destinare alle rappresentanze permanenti presso organismi internazionali, e' elevato a quarantuno unita', comprese le quattro unita' fissate dall'[articolo 
 58 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni."
 
 ---------------
 
 AGGIORNAMENTO (27a)
 
-La [D.Lgs. 19 marzo 2001, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-19;68) ha disposto (con l'art. 4, comma 3) che "A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e' aumentato di una quota di dodici unita', riservata agli esperti del Corpo."
+La [D.Lgs. 19 marzo 2001, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dei%20compiti%20del%20Corpo%20della%20Guardia%20di%20finanza%20a%20norma%20dellarticolo%204%20della%20legge%2031%20marzo%202000%20n.%2078.md) ha disposto (con l'art. 4, comma 3) che "A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato di una quota di dodici unita', riservata agli esperti del Corpo."
 
 ---------------
 
 AGGIORNAMENTO (28a)
 
-La [L. 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189) ha disposto (con l'art. 36, comma 1) che "Nell'ambito delle strategie finalizzate alla prevenzione dell'immigrazione clandestina, il Ministero dell'interno, d'intesa con il Ministero degli affari esteri, puo' inviare presso le rappresentanze diplomatiche e gli uffici consolari funzionari della Polizia di Stato in qualita' di esperti nominati secondo le procedure e le modalita' previste dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168). A tali fini il contingente previsto dal citato articolo 168 e' aumentato sino ad un massimo di ulteriori undici unita', riservate agli esperti della Polizia di Stato, corrispondenti agli esperti nominati ai sensi del presente comma."
+La [L. 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189) ha disposto (con l'art. 36, comma 1) che "Nell'ambito delle strategie finalizzate alla prevenzione dell'immigrazione clandestina, il Ministero dell'interno, d'intesa con il Ministero degli affari esteri, puo' inviare presso le rappresentanze diplomatiche e gli uffici consolari funzionari della Polizia di Stato in qualita' di esperti nominati secondo le procedure e le modalita' previste dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). A tali fini il contingente previsto dal citato articolo 168 e' aumentato sino ad un massimo di ulteriori undici unita', riservate agli esperti della Polizia di Stato, corrispondenti agli esperti nominati ai sensi del presente comma."
 
 ---------------
 
 AGGIORNAMENTO (46)
 
-Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 14, comma 23) che "Per l'anno 2012 le unita' complessive di personale diplomatico e amministrativo e del contingente degli esperti di cui all'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168) inviate all'estero non possono essere superiori a quelle rispettivamente in servizio alla data di entrata in vigore del presente decreto".
+Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 14, comma 23) che "Per l'anno 2012 le unita' complessive di personale diplomatico e amministrativo e del contingente degli esperti di cui all'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) inviate all'estero non possono essere superiori a quelle rispettivamente in servizio alla data di entrata in vigore del presente decreto".
 
 --------------
 
 AGGIORNAMENTO (74)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) ha disposto (con l'art. 1, comma 298, lettera a)) che "Al fine di rafforzare la tutela degli interessi nazionali in ambito europeo e la promozione del sistema economico italiano all'estero, sono autorizzati i seguenti interventi: 
- a) il contingente di cui all'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e' incrementato di trenta unita'".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) ha disposto (con l'art. 1, comma 298, lettera a)) che "Al fine di rafforzare la tutela degli interessi nazionali in ambito europeo e la promozione del sistema economico italiano all'estero, sono autorizzati i seguenti interventi: 
+ a) il contingente di cui all'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' incrementato di trenta unita'".
 
 --------------
 
 AGGIORNAMENTO (75)
 
-Il [D.Lgs. 19 marzo 2001, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-19;68), come modificato dalla [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), ha disposto (con l'art. 4, comma 3) che "A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e' aumentato di una quota di venticinque unita', riservata agli esperti del Corpo".
+Il [D.Lgs. 19 marzo 2001, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dei%20compiti%20del%20Corpo%20della%20Guardia%20di%20finanza%20a%20norma%20dellarticolo%204%20della%20legge%2031%20marzo%202000%20n.%2078.md), come modificato dalla [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), ha disposto (con l'art. 4, comma 3) che "A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato di una quota di venticinque unita', riservata agli esperti del Corpo".
 
 --------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 19 marzo 2001, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-19;68), come modificato dalla [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), ha disposto (con l'art. 4, comma 3) che "A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_168), e' aumentato di una quota di trenta unita', riservata agli esperti del Corpo".
+Il [D.Lgs. 19 marzo 2001, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dei%20compiti%20del%20Corpo%20della%20Guardia%20di%20finanza%20a%20norma%20dellarticolo%204%20della%20legge%2031%20marzo%202000%20n.%2078.md), come modificato dalla [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md), ha disposto (con l'art. 4, comma 3) che "A tali fini il contingente previsto dall'[articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aumentato di una quota di trenta unita', riservata agli esperti del Corpo".
 
 ### Art. 169. — (Incarico della direzione di uffici consolari di I categoria)
 
@@ -1736,15 +1736,15 @@ Il personale dell'Amministrazione degli affari esteri, oltre allo stipendio e ag
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ---------------
 
 AGGIORNAMENTO (44)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 1-bis, comma 1) che "L'[articolo 170 del decreto del Presidente della Repubblica 5 gennaio 1967, n.18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_170), si interpreta nel senso che: 
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 1-bis, comma 1) che "L'[articolo 170 del decreto del Presidente della Repubblica 5 gennaio 1967, n.18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), si interpreta nel senso che: 
  a) il trattamento economico complessivamente spettante al personale dell'Amministrazione degli affari esteri nel periodo di servizio all'estero, anche con riferimento a "stipendio" e "assegni di carattere fisso e continuativo previsti per l'interno", non include ne' l'indennita' di amministrazione ne' l'indennita' integrativa speciale; 
- b) durante il periodo di servizio all'estero al suddetto personale possono essere attribuite soltanto le indennita' previste dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18)".
+ b) durante il periodo di servizio all'estero al suddetto personale possono essere attribuite soltanto le indennita' previste dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md)".
 
 ### Art. 171. — (Indennita' di servizio all'estero)
 
@@ -1790,13 +1790,13 @@ Le indennita' base di cui al comma 2 possono essere periodicamente aggiornate co
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
 
 ### Art. 171-bis.
 
@@ -1816,7 +1816,7 @@ La Commissione permanente di finanziamento, istituita presso il Ministero degli 
 
 AGGIORNAMENTO (7a)
 
-La [L. 27 dicembre 1973, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20uffici%20degli%20addetti%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20servizio%20allestero%20e%20trattamento%20economico%20del%20personale%20della%20Difesa%20ivi%20destinato.md) ha disposto (con l'art. 17, comma 1) che "Della commissione permanente di finanziamento e di quella per l'indennizzo dei danni, istituite presso il Ministero degli affari esteri ai sensi degli [articoli 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_172) e [208 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_208), fa parte anche un rappresentante del Ministero della difesa, che viene convocato ogni qual volta si discutano questioni concernenti il personale del Ministero stesso."
+La [L. 27 dicembre 1973, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20uffici%20degli%20addetti%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20servizio%20allestero%20e%20trattamento%20economico%20del%20personale%20della%20Difesa%20ivi%20destinato.md) ha disposto (con l'art. 17, comma 1) che "Della commissione permanente di finanziamento e di quella per l'indennizzo dei danni, istituite presso il Ministero degli affari esteri ai sensi degli [articoli 172](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [208 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), fa parte anche un rappresentante del Ministero della difesa, che viene convocato ogni qual volta si discutano questioni concernenti il personale del Ministero stesso."
 
 ### Art. 173. — (Aumenti per situazioni di famiglia)
 
@@ -1838,19 +1838,19 @@ Gli aumenti di cui ai commi 1, 2 e 3 non sono pagabili qualora i familiari per i
 
 5.
 
-La nozione di residenza stabile agli effetti delle disposizioni contenute nel comma 4, nonche' i casi e le condizioni in cui le disposizioni stesse trovano applicazione sono determinati dal regolamento di cui al [decreto del Presidente della Repubblica 3 luglio 1991, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-03;306), che potra' essere modificato con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica. (21)
+La nozione di residenza stabile agli effetti delle disposizioni contenute nel comma 4, nonche' i casi e le condizioni in cui le disposizioni stesse trovano applicazione sono determinati dal regolamento di cui al [decreto del Presidente della Repubblica 3 luglio 1991, n. 306](Regolamento%20concernente%20la%20residenza%20in%20sede%20dei%20familiari%20di%20dipendenti%20in%20servizio%20allestero.md), che potra' essere modificato con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica. (21)
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che le presenti modifiche hanno effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che le presenti modifiche hanno effetto dal 1° luglio 2015.
 
 ### Art. 174. — (Indennita' di servizio all'estero e indennita' personale - Decorrenza)
 
@@ -1863,7 +1863,7 @@ Ai fini del presente decreto si intende per "indennita' di servizio all'estero" 
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ### Art. 175. — (Indennita' di sistemazione)
 
@@ -1877,7 +1877,7 @@ Nel caso di trasferimento da Roma l'indennita' di sistemazione e' fissata nella 
 
 3.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190).
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md).
 
 ((4. L'indennita' di sistemazione spetta nella misura del 50 per cento al dipendente che condivide a qualsiasi titolo l'abitazione con altro dipendente nella maggior parte del primo anno dall'assunzione in servizio nella sede estera))
 
@@ -1898,20 +1898,20 @@ Tale ammontare non puo', comunque, superare la meta' della indennita'. (21) (45)
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ---------------
 
 AGGIORNAMENTO (45)
 
-La [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183), ha disposto (con l'art. 4, comma 6, lettera b)) che "Ai medesimi fini di cui al comma 2, si applicano altresi', limitatamente all'anno 2012, senza successivi recuperi, le seguenti misure temporanee e straordinarie in materia di trattamento economico del personale all'estero di cui alla parte terza del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18): 
- b) l'indennita' di sistemazione prevista dall'articolo 175 del citato [decreto del Presidente della Repubblica n. 18 del 1967, nonche' dall'articolo 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18#art_661) del testo unico di cui al [decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297), come sostituito dall'[articolo 29 del decreto legislativo 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62#art_29), e' corrisposta, per i casi di trasferimento del personale da sede estera ad altra sede estera, nella misura del 15 per cento rispetto all'importo attuale; inoltre la stessa indennita' e' ridotta del 50 per cento anziche' del 40 per cento limitatamente a coloro che fruiscono di residenze di servizio ai sensi dell'articolo 177 del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18)".
+La [L. 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), ha disposto (con l'art. 4, comma 6, lettera b)) che "Ai medesimi fini di cui al comma 2, si applicano altresi', limitatamente all'anno 2012, senza successivi recuperi, le seguenti misure temporanee e straordinarie in materia di trattamento economico del personale all'estero di cui alla parte terza del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md): 
+ b) l'indennita' di sistemazione prevista dall'articolo 175 del citato [decreto del Presidente della Repubblica n. 18 del 1967, nonche' dall'articolo 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18#art_661) del testo unico di cui al [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), come sostituito dall'[articolo 29 del decreto legislativo 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md), e' corrisposta, per i casi di trasferimento del personale da sede estera ad altra sede estera, nella misura del 15 per cento rispetto all'importo attuale; inoltre la stessa indennita' e' ridotta del 50 per cento anziche' del 40 per cento limitatamente a coloro che fruiscono di residenze di servizio ai sensi dell'articolo 177 del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18)".
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che le presenti modifiche hanno effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che le presenti modifiche hanno effetto dal 1° luglio 2015.
 
 ### Art. 176. — (Indennita' di richiamo dal servizio all'estero)
 
@@ -1929,20 +1929,20 @@ L'indennita' di richiamo e' corrisposta nella misura di quindici ottavi di un'in
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ---------------
 
 AGGIORNAMENTO (45)
 
-La [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183), ha disposto (con l'art. 4, comma 6, lettera c)) che "Ai medesimi fini di cui al comma 2, si applicano altresi', limitatamente all'anno 2012, senza successivi recuperi, le seguenti misure temporanee e straordinarie in materia di trattamento economico del personale all'estero di cui alla parte terza del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18): 
+La [L. 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), ha disposto (con l'art. 4, comma 6, lettera c)) che "Ai medesimi fini di cui al comma 2, si applicano altresi', limitatamente all'anno 2012, senza successivi recuperi, le seguenti misure temporanee e straordinarie in materia di trattamento economico del personale all'estero di cui alla parte terza del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md): 
  c) l'indennita' di richiamo dal servizio all'estero prevista dall'[articolo 176 del decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18#art_176) e' corrisposta nella misura del 20 per cento rispetto all'importo attuale".
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
 
 ### Art. 177. — (Residenze di servizio)
 
@@ -1954,8 +1954,8 @@ I capi delle rappresentanze diplomatiche hanno diritto, per se', per i familiari
 
 AGGIORNAMENTO (45)
 
-La [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183), ha disposto (con l'art. 4, comma 6, lettera a)) che "Ai medesimi fini di cui al comma 2, si applicano altresi', limitatamente all'anno 2012, senza successivi recuperi, le seguenti misure temporanee e straordinarie in materia di trattamento economico del personale all'estero di cui alla parte terza del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18): 
- a) con riferimento alle residenze di servizio, il canone dovuto ai sensi del comma secondo dell'articolo 177 del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18), dai funzionari che occupano posti di Ministro e Ministro Consigliere con funzioni vicarie presso le rappresentanze diplomatiche, nonche' dai titolari dei Consolati generali di prima classe e dai funzionari di cui all'articolo 12, comma 1, lettera a), del regolamento di cui al [decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-19;258), e' aumentato dal 15 al 20 per cento dell'indennita' personale".
+La [L. 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), ha disposto (con l'art. 4, comma 6, lettera a)) che "Ai medesimi fini di cui al comma 2, si applicano altresi', limitatamente all'anno 2012, senza successivi recuperi, le seguenti misure temporanee e straordinarie in materia di trattamento economico del personale all'estero di cui alla parte terza del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md): 
+ a) con riferimento alle residenze di servizio, il canone dovuto ai sensi del comma secondo dell'articolo 177 del citato [decreto del Presidente della Repubblica n. 18 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;18), dai funzionari che occupano posti di Ministro e Ministro Consigliere con funzioni vicarie presso le rappresentanze diplomatiche, nonche' dai titolari dei Consolati generali di prima classe e dai funzionari di cui all'articolo 12, comma 1, lettera a), del regolamento di cui al [decreto del Presidente della Repubblica 19 dicembre 2007, n. 258](Regolamento%20concernente%20la%20riorganizzazione%20del%20Ministero%20degli%20affari%20esteri%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md), e' aumentato dal 15 al 20 per cento dell'indennita' personale".
 
 ### Art. 178. — (( (Spese per abitazione) ))
 
@@ -1988,13 +1988,13 @@ L'amministrazione puo' versare le prime due rate al momento dell'assunzione di f
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 22, comma 1) che " Le disposizioni che modificano l'articolo 178 si applicano a coloro che assumono servizio all'estero dopo il 1 gennaio 1999. Per il personale che alla data predetta gia' beneficia di un contributo spese per abitazione, continuano ad applicarsi le disposizioni previste dalla precedente normativa finche' rimanga nella stessa sede."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 22, comma 1) che " Le disposizioni che modificano l'articolo 178 si applicano a coloro che assumono servizio all'estero dopo il 1 gennaio 1999. Per il personale che alla data predetta gia' beneficia di un contributo spese per abitazione, continuano ad applicarsi le disposizioni previste dalla precedente normativa finche' rimanga nella stessa sede."
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
 
 ### Art. 179. — (Provvidenze scolastiche)
 
@@ -2015,7 +2015,7 @@ Nell'ipotesi di cui al comma 1, il rimborso per un anno scolastico completo non 
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
 vigore del decreto stesso."
 
 ### Art. 180. — (Trattamento economico durante il congedo ordinario)
@@ -2079,7 +2079,7 @@ Alle lavoratrici madri in astensione dal lavoro ai sensi della [legge 30 dicembr
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ### Art. 184. — (Trattamento degli incaricati d'affari con lettere)
 
@@ -2112,7 +2112,7 @@ Se la reggenza e' assunta da personale che non goda di indennita' di servizio al
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ------------
 
@@ -2132,7 +2132,7 @@ Il personale che per ragioni di servizio dalle sedi all'estero venga chiamato te
 
 AGGIORNAMENTO (52)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
 
 ### Art. 187. — (Trattamento in caso di sospensione dell'indennita' personale)
 
@@ -2224,7 +2224,7 @@ Al personale incaricato del trasporto delle bolgette e dei plichi diplomatici sp
 
 AGGIORNAMENTO (7b)
 
-La [L. 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836) ha disposto (con l'art. 13, comma 3) che "E' abrogata la norma concernente l'assicurazione per i percorsi aerei contenuta nel [primo comma dell'articolo 198 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_198-com1)."
+La [L. 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836) ha disposto (con l'art. 13, comma 3) che "E' abrogata la norma concernente l'assicurazione per i percorsi aerei contenuta nel [primo comma dell'articolo 198 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md)."
 
 ### Art. 199. — (Contributo per il trasporto degli effetti)
 
@@ -2322,7 +2322,7 @@ Alle persone estranee all'Amministrazione degli affari esteri cui siano conferit
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
 vigore del decreto stesso."
 
 ### Art. 204. — (Trattamento dei componenti delle delegazioni diplomatiche speciali)
@@ -2335,7 +2335,7 @@ L'indennita' giornaliera prevista dal secondo comma dell'art. 186 e' calcolata, 
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ------------
 
@@ -2375,7 +2375,7 @@ Le indennita', i contributi e i rimborsi da corrispondere al personale in serviz
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ### Art. 210. — (((Controllo medico periodico) ))
 
@@ -2387,7 +2387,7 @@ Il personale in servizio all'estero, tenuto conto di quanto previsto dall'artico
 
 2.
 
-L'esame medico di controllo, disciplinato dalla normativa di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618), e successive modificazioni, viene di norma eseguito presso le strutture sanitarie operanti, ai sensi dell'articolo 3 del predetto decreto, nella sede del Ministero degli affari esteri, fatta salva la necessita' di ulteriori accertamenti presso le strutture del servizio sanitario nazionale.
+L'esame medico di controllo, disciplinato dalla normativa di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md), e successive modificazioni, viene di norma eseguito presso le strutture sanitarie operanti, ai sensi dell'articolo 3 del predetto decreto, nella sede del Ministero degli affari esteri, fatta salva la necessita' di ulteriori accertamenti presso le strutture del servizio sanitario nazionale.
 
 3. L'esame di cui al comma 2 puo' essere effettuato all'estero, qualora il personale o i familiari a carico non abbiano potuto godere in Italia del congedo ordinario o delle ferie spettanti))
 
@@ -2397,7 +2397,7 @@ L'esame medico di controllo, disciplinato dalla normativa di cui al [decreto del
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso."
 
 ### Art. 211. — (( (Assicurazioni). ))
 
@@ -2405,7 +2405,7 @@ Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 1.
 
-L'assistenza sanitaria al personale in servizio all'estero e ai familiari aventi diritto e' assicurata ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618).
+L'assistenza sanitaria al personale in servizio all'estero e ai familiari aventi diritto e' assicurata ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md).
 
 2.
 
@@ -2417,7 +2417,7 @@ Per il personale inviato in missione in Stato o territorio diverso da quello del
 
 4.
 
-Nei confronti del personale e dei familiari a carico, di cui ai commi 1, 2 e 3, trovano applicazione, nella misura in cui le prestazioni non sono coperte dalle polizze assicurative stipulate, l'assistenza sanitaria in forma indiretta prevista dall'[articolo 7 del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618#art_7), e dal regolamento adottato ai sensi dell'[articolo 1, comma 86, della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com86), nonche' l'istituto del trasferimento dell'infermo previsto dall'[articolo 6 del decreto del Presidente della Repubblica n. 618 del 1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;618#art_6).
+Nei confronti del personale e dei familiari a carico, di cui ai commi 1, 2 e 3, trovano applicazione, nella misura in cui le prestazioni non sono coperte dalle polizze assicurative stipulate, l'assistenza sanitaria in forma indiretta prevista dall'[articolo 7 del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md), e dal regolamento adottato ai sensi dell'[articolo 1, comma 86, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), nonche' l'istituto del trasferimento dell'infermo previsto dall'[articolo 6 del decreto del Presidente della Repubblica n. 618 del 1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;618#art_6).
 
 5. Il Ministero degli affari esteri e della cooperazione internazionale e' autorizzato a stipulare, in favore del personale di ruolo in servizio o inviato in missione all'estero, una o piu' polizze assicurative che coprono i rischi di morte, di invalidita' permanente o di altre gravi menomazioni, causati da atti di natura violenta o da eventi calamitosi di origine naturale o antropica occorsi all'estero. Le polizze prevedono un massimale di copertura non inferiore a 1 milione di euro in caso di morte e sono estese anche ai familiari a carico, purche' effettivamente conviventi nella stessa sede del dipendente))
 
@@ -2425,14 +2425,14 @@ Nei confronti del personale e dei familiari a carico, di cui ai commi 1, 2 e 3, 
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 27 febbraio 1998, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-27;62) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
+Il [D.Lgs. 27 febbraio 1998, n. 62](../Decreti%20Legislativi/Disciplina%20del%20trattamento%20economico%20per%20i%20dipendenti%20delle%20pubbliche%20amministrazioni%20in%20servizio%20allestero%20a%20norma%20dellarticolo%201%20commi%20da%20138%20a%20142%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 47, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in 
 vigore del decreto stesso."
 
 ### Art. 211-bis. — (Ricognizione di beni demaniali e relativi criteri di gestione)
 
 1.
 
-- Nell'ambito degli ordinari piani operativi delle attivita' di controllo e di ricognizione previste dal regolamento di cui al [decreto del Presidente della Repubblica 13 luglio 1998, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-13;367), il direttore dell'Agenzia del demanio dispone uno specifico intervento di verifica, d'intesa con i dirigenti dei competenti uffici delle Amministrazioni istituzionalmente tenute alla cura di interessi di rilievo internazionale, delle esigenze di consistenze immobiliari da concedere in uso ad enti o associazioni per lo svolgimento di attivita' di rappresentanza e culturali connesse al perseguimento dei predetti fini istituzionali e per la prestazione di servizi sociali al personale dipendente che rientrino nelle medesime finalita', al fine di ridefinire le condizioni, anche economiche, del titolo del predetto uso ((...)). Nella ridefinizione del predetto titolo si provvede altresi' a determinare le condizioni occorrenti per assicurare il vincolo di autosufficienza della gestione delle consistenze concesse in uso.
+- Nell'ambito degli ordinari piani operativi delle attivita' di controllo e di ricognizione previste dal regolamento di cui al [decreto del Presidente della Repubblica 13 luglio 1998, n. 367](Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20di%20presa%20in%20consegna%20di%20immobili%20e%20compiti%20di%20sorveglianza%20sugli%20immobili%20demaniali%20di%20cui%20al%20n.%206%20dellallegato%201%20della%20l_1b0dd06b992a.md), il direttore dell'Agenzia del demanio dispone uno specifico intervento di verifica, d'intesa con i dirigenti dei competenti uffici delle Amministrazioni istituzionalmente tenute alla cura di interessi di rilievo internazionale, delle esigenze di consistenze immobiliari da concedere in uso ad enti o associazioni per lo svolgimento di attivita' di rappresentanza e culturali connesse al perseguimento dei predetti fini istituzionali e per la prestazione di servizi sociali al personale dipendente che rientrino nelle medesime finalita', al fine di ridefinire le condizioni, anche economiche, del titolo del predetto uso ((...)). Nella ridefinizione del predetto titolo si provvede altresi' a determinare le condizioni occorrenti per assicurare il vincolo di autosufficienza della gestione delle consistenze concesse in uso.
 
 ## NORME TRANSITORIE, FINALI E DI ESECUZIONE  TITOLO I Norme transitorie  CAPO I NORME TRANSITORIE IN RELAZIONE ALLA PARTE I
 
@@ -2745,7 +2745,7 @@ della carriera direttiva amministrativa che puo' essere destinata all'estero e' 
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ### Art. 250. — (Particolare utilizzazione di personale proveniente dal ruolo speciale transitorio ad esaurimento)
@@ -2801,7 +2801,7 @@ Per un periodo di dieci anni dalla data di entrata in vigore del presente decret
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
+Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, commi 2 e 3) che " Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970, salvo quanto disposto dai successivi commi.
  Ferma restando alla predetta data del 1 luglio 1970 la decorrenza delle modifiche conseguenti alla fusione di piu' qualifiche in una, le nuove dotazioni organiche previste per le carriere inferiori a quella direttiva delle Aziende autonome indicate nel capo V hanno effetto dal 1 gennaio 1971."
 
 ### Art. 255. — (Qualifica transitoria di assistente tecnico per il servizio corrieri)
@@ -2831,8 +2831,8 @@ Gli impiegati del ruolo speciale transitorio ad esaurimento non inquadrati nei r
 
 AGGIORNAMENTO (10)
 
-La [L. 5 dicembre 1978, n.834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-05;834) ha disposto (con l'art. 6 comma 1) che "A parziale modifica di quanto disposto dal [secondo comma dell'articolo 257 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_257-com2), al personale del ruolo speciale transitorio ad esaurimento si applicano per quanto riguarda la durata ed il trattamento economico, le disposizioni sul congedo ordinario previste per il personale dei ruoli organici dal decreto del Presidente della Repubblica sopra citato."
- La [L. 5 dicembre 1978, n.834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-05;834) ha inoltre disposto (con l'art. 6 comma 2) che " In aggiunta a quanto previsto dal terzo comma dell'articolo 257 dello stesso [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), allo stesso personale si applicano le disposizioni degli articoli 207 e 208 del decreto del Presidente della Repubblica medesimo."
+La [L. 5 dicembre 1978, n.834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-05;834) ha disposto (con l'art. 6 comma 1) che "A parziale modifica di quanto disposto dal [secondo comma dell'articolo 257 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), al personale del ruolo speciale transitorio ad esaurimento si applicano per quanto riguarda la durata ed il trattamento economico, le disposizioni sul congedo ordinario previste per il personale dei ruoli organici dal decreto del Presidente della Repubblica sopra citato."
+ La [L. 5 dicembre 1978, n.834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-05;834) ha inoltre disposto (con l'art. 6 comma 2) che " In aggiunta a quanto previsto dal terzo comma dell'articolo 257 dello stesso [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), allo stesso personale si applicano le disposizioni degli articoli 207 e 208 del decreto del Presidente della Repubblica medesimo."
 
 ### Art. 258. — (Particolari norme in materia di trattamento economico al personale
 proveniente dal ruolo speciale transitorio ad esaurimento e a quello rimasto nel ruolo)
@@ -2911,7 +2911,7 @@ Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazz
 
 ### Art. 267. — (Ripartizione delle spese)
 
-Le spese derivanti dall'attuazione delle presenti norme e di quelle da emanare ai sensi dell'art. 3, punto 9, della [legge 13 luglio 1965, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891), sono stabilite in:
+Le spese derivanti dall'attuazione delle presenti norme e di quelle da emanare ai sensi dell'art. 3, punto 9, della [legge 13 luglio 1965, n. 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sono stabilite in:
  lire 4 miliardi: per l'anno 1967;
  lire 7 miliardi e 300 milioni: per l'anno 1968;
  lire 8 miliardi: per l'anno 1969;

@@ -16,13 +16,13 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Vista la [legge 1 dicembre 1986, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;870);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 marzo 1994;
 
@@ -124,7 +124,7 @@ Nota all'art. 6:
 Il servizio di controllo interno, istituito dall'[art. 20 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, compie annualmente rilevazioni sul numero complessivo dei procedimenti di rimborso non conclusi entro i termini indicati dai precedenti articoli o comunque determinati ai sensi dell'[art. 2 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2).
 
 Nota all'art. 7:
- - Il testo dell'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993 n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-18;470#art_6) e' il seguente:
+ - Il testo dell'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993 n. 470](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md) e' il seguente:
  "Art. 20 (Verifica dei risultati. Responsabilita' dirigenziali). - 1. I dirigenti generali ed i dirigenti sono responsabili dei risultato dell'attivita' svolta dagli uffici ai quali sono preposti, della realizzazione dei programmi e dei progetti loro affidati in relazione agli obiettivi dei rendimenti e dei risultati della gestione finanziaria, tecnica ed amministrativa, incluse le decisioni organizzative e di gestione del personale.
  All'inizio di ogni anno i dirigenti presentano al direttore generale, e questi al Ministro, una relazione sull'attivita' svolta nell'anno precedente.
  2. Nelle amministrazioni pubbliche, ove gia' non esistano, sono istituiti servizi di controllo interno o nuclei di valutazione, con il compito di verificare, mediante valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obiettivi, la corretta ed economica gestione delle risorse pubbliche, l'imparzialita' ed il buon andamento dell'azione amministrativa. I servizi o nuclei determinano almeno annualmente, anche su indicazione degli organi di vertice, i parametri di riferimento del controllo.

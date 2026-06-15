@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Vista la [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616);
 
@@ -107,7 +107,7 @@ Se l'autorizzazione riguarda apparecchiature radioelettriche, il Ministero d'int
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento e' abrogato l'[articolo 11, comma 7 della legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616#art_11-com7).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento e' abrogato l'[articolo 11, comma 7 della legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616#art_11-com7).
 
 Note all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_5):
  - Per l'[articolo 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alla premessa.

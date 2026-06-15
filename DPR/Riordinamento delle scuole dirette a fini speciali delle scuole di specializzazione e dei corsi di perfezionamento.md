@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 12, ultimo comma, della [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Visto l'art. 12, ultimo comma, della [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Sentite le competenti commissioni permanenti delle due Camere;
 
@@ -46,7 +46,7 @@ Il numero complessivo degli studenti da ammettere alle scuole dirette a fini spe
 
 AGGIORNAMENTO (2)
 
-Il [D.M. 21 luglio 1997, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-07-21;245) ha disposto (con l'art. 4) che "Dalla data di emanazione del decreto di cui al predetto articolo 2, comma 1, lettera b), sono abrogati i commi dal primo al quarto dell'[articolo 2 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-10;162#art_2)."
+Il [D.M. 21 luglio 1997, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-07-21;245) ha disposto (con l'art. 4) che "Dalla data di emanazione del decreto di cui al predetto articolo 2, comma 1, lettera b), sono abrogati i commi dal primo al quarto dell'[articolo 2 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md)."
 
 ### Art. 3. — Uniformita' di ordinamento delle scuole appartenenti alla stessa tipologia
 

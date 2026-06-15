@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istit
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), recante disposizioni comuni in materia di accertamento delle imposte sui redditi;
 
-Visto l'[articolo 3, comma 147, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com147), che delega al Governo l'emanazione di regolamenti, concernenti disposizioni in materia di adempimenti contabili secondo i seguenti principi e criteri direttivi contenuti nelle lettere a) e b) del medesimo comma:
+Visto l'[articolo 3, comma 147, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), che delega al Governo l'emanazione di regolamenti, concernenti disposizioni in materia di adempimenti contabili secondo i seguenti principi e criteri direttivi contenuti nelle lettere a) e b) del medesimo comma:
 
 semplificare le indicazioni da inserire nelle scritture contabili degli esercenti attivita' di lavoro autonomo o attivita' di impresa e dei sostituti di imposta, eliminando, per particolari categorie di contribuenti, gli adempimenti contabili e documentali di cui sia riconosciuta la scarsa utilita' rispetto ai costi di rilevazione;
 
@@ -179,7 +179,7 @@ Le operazioni per le quali e' rilasciato lo scontrino fiscale o la ricevuta fisc
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 2 SETTEMBRE 1997, N. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-09-02;313).
+COMMA ABROGATO DAL [D.LGS. 2 SETTEMBRE 1997, N. 313](../Decreti%20Legislativi/Norme%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto.md).
 
 6.
 
@@ -199,7 +199,7 @@ Non sussiste, ai fini dell'imposta sul valore aggiunto, l'obbligo di annotare le
 
 8.
 
-COMMA SOPPRESSO DAL [D.P.R. 5 OTTOBRE 2001, N. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-05;404).
+COMMA SOPPRESSO DAL [D.P.R. 5 OTTOBRE 2001, N. 404](Regolamento%20recante%20disposizioni%20in%20materia%20di%20utilizzo%20del%20servizio%20di%20collegamento%20telematico%20con%20lAgenzia%20delle%20entrate%20per%20la%20presentazione%20di%20documenti%20atti%20e%20istanze%20previsti%20dalle%20_6069edf6f07e.md).
 
 9.
 

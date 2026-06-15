@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto gli articoli 1, 2 punto 13 3 e 6 della [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visto gli articoli 1, 2 punto 13 3 e 6 della [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
 Visto i [decreti del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md) e [17 agosto 1955, n. 767](Conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio.md);
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ Alle norme che regolano il trattamento ordinario di quiescenza a carico dello St
 
 AGGIORNAMENTO (4)
 
-La [L. 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249) ha disposto (con l'art. 40) che "Nei riguardi del personale contemplato dall'[articolo 7 della legge 13 giugno 1952, n. 690](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20di%20quiescenza%20e%20previdenza%20degli%20insegnanti%20elementari.md), nonche' dall'[articolo 26 della legge 13 marzo 1953, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-13;165#art_26), dall'[articolo 7 della legge 16 luglio 1960, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-07-16;727#art_7) e dall'[articolo 1 della legge 20 dicembre 1962, n. 1743](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazione%20del%20trattamento%20di%20quiescenza%20degli%20insegnanti%20e%20capi%20di%20istituti%20della%20istruzione%20secondaria%20provenienti%20dalle%20scuole%20di%20avviamento%20dei%20Comuni%20ad%20autonomia%20scolastica.md), la differenza tra il trattamento di quiescenza dovuto secondo le norme dei regolamenti comunali e quello previsto dalle norme concernenti gli impiegati civili dello Stato resta a carico delle amministrazioni comunali ed e' determinata e corrisposta direttamente dalle stesse, agli aventi diritto, per le pensioni decorrenti dal 1 agosto 1954 in poi con effetto dalla stessa data."
+La [L. 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md) ha disposto (con l'art. 40) che "Nei riguardi del personale contemplato dall'[articolo 7 della legge 13 giugno 1952, n. 690](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20di%20quiescenza%20e%20previdenza%20degli%20insegnanti%20elementari.md), nonche' dall'[articolo 26 della legge 13 marzo 1953, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-13;165#art_26), dall'[articolo 7 della legge 16 luglio 1960, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-07-16;727#art_7) e dall'[articolo 1 della legge 20 dicembre 1962, n. 1743](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazione%20del%20trattamento%20di%20quiescenza%20degli%20insegnanti%20e%20capi%20di%20istituti%20della%20istruzione%20secondaria%20provenienti%20dalle%20scuole%20di%20avviamento%20dei%20Comuni%20ad%20autonomia%20scolastica.md), la differenza tra il trattamento di quiescenza dovuto secondo le norme dei regolamenti comunali e quello previsto dalle norme concernenti gli impiegati civili dello Stato resta a carico delle amministrazioni comunali ed e' determinata e corrisposta direttamente dalle stesse, agli aventi diritto, per le pensioni decorrenti dal 1 agosto 1954 in poi con effetto dalla stessa data."
 
 ### Art. 2.
 
@@ -46,7 +46,7 @@ Nella liquidazione dei trattamenti ordinari di quiescenza, si considera, quale b
 
 AGGIORNAMENTO (1)
 
-La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 7) che "Dal 19 luglio 1957, l'[art. 2 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_2), continua, fino a nuova disposizione, ad avere applicazione soltanto per quanto riguarda il secondo, terzo e quarto comma."
+La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 7) che "Dal 19 luglio 1957, l'[art. 2 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), continua, fino a nuova disposizione, ad avere applicazione soltanto per quanto riguarda il secondo, terzo e quarto comma."
 
 ### Art. 3.
 
@@ -61,7 +61,7 @@ Per ogni anno di servizio utile, oltre il ventesimo anno di servizio effettivo, 
 ----------------
  
 AGGIORNAMENTO (1) 
- La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
+ La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
 famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 
 ### Art. 5.
@@ -111,7 +111,7 @@ famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 ----------------
  
  AGGIORNAMENTO (1) 
- La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
+ La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
 famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 
 ### Art. 6.
@@ -146,7 +146,7 @@ Nei confronti dei salariati statali di ruolo e dei loro aventi diritto non si fa
 ----------------
  
 AGGIORNAMENTO (6) 
- La Corte Costituzionale con sentenza 2 - 8 maggio 1974 n. 117 (in G.U. 1a s.s. 15.05.1974 n. 126) ha dichiarato "l'illegittimita' costituzionale dell'[art. 10, commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_10-com2) e [terzo, del d.P.R. 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_10-com3) (Disposizioni sul trattamento di quiescenza del personale statale), nella parte in cui nei confronti dei salariati statali immessi nei ruoli anteriormente all'entrata in vigore della [legge 5 marzo 1961, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-03-05;90), e per il tempo di cessazione dal servizio, dispone il sub-ingresso dello Stato nei diritti dei salariati stessi e delle loro vedove e orfani alla pensione o quota di pensione relativa alla assicurazione obbligatoria invalidita', vecchiaia e superstiti per i servizi resi dal 1 gennaio 1926, con iscrizione all'assicurazione predetta, che sono valutati anche per la pensione statale."
+ La Corte Costituzionale con sentenza 2 - 8 maggio 1974 n. 117 (in G.U. 1a s.s. 15.05.1974 n. 126) ha dichiarato "l'illegittimita' costituzionale dell'[art. 10, commi secondo](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md) e [terzo, del d.P.R. 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md) (Disposizioni sul trattamento di quiescenza del personale statale), nella parte in cui nei confronti dei salariati statali immessi nei ruoli anteriormente all'entrata in vigore della [legge 5 marzo 1961, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-03-05;90), e per il tempo di cessazione dal servizio, dispone il sub-ingresso dello Stato nei diritti dei salariati stessi e delle loro vedove e orfani alla pensione o quota di pensione relativa alla assicurazione obbligatoria invalidita', vecchiaia e superstiti per i servizi resi dal 1 gennaio 1926, con iscrizione all'assicurazione predetta, che sono valutati anche per la pensione statale."
 
 ### Art. 11.
 
@@ -160,7 +160,7 @@ I salariati statali nominati in ruolo a partire dal 1° luglio 1956 non sono ass
 ### Art. 13.
 
 Il servizio prestato in qualita' di operaio temporaneo o di incaricato provvisorio dai salariati statali, che ottengano la nomina a posto di ruolo a partire dal 1° luglio 1956 in poi, puo' essere riscattato, ai fini del trattamento di quiescenza, per l'intera effettiva durata, alle condizioni e con le modalita' stabilite dalle vigenti norme per il riscatto dei servizi resi in qualita' di impiegato civile non di ruolo. 
- Per i servizi riscattati ai sensi del precedente comma si applicano gli ultimi due commi dell'[art. 9 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_9). 
+ Per i servizi riscattati ai sensi del precedente comma si applicano gli ultimi due commi dell'[art. 9 del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md). 
  Nulla e' innovato, anche per quanto concerne la misura della ritenuta in conto entrate del Tesoro, alle norme sul riconoscimento, agli effetti del trattamento di quiescenza, del servizio reso in qualita' di operaio temporaneo o di incaricato provvisorio dai salariati che abbiano ottenuto la nomina a posto di ruolo anteriormente alla predetta data del 1° luglio 1956.
 
 ### Art. 14.
@@ -173,7 +173,7 @@ Il servizio prestato in qualita' di operaio temporaneo o di incaricato provvisor
 
 AGGIORNAMENTO (1)
 
-La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
+La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
 famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 
 ### Art. 15.
@@ -185,7 +185,7 @@ Le competenze accessorie predette, da computare nella liquidazione delle pension
 ----------------
  
 AGGIORNAMENTO (1) 
- La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
+ La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
 famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 
 ### Art. 16.
@@ -197,7 +197,7 @@ famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 
 AGGIORNAMENTO (1)
 
-La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
+La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 1) che "Ferme restando per il periodo 1 luglio 1956-30 giugno 1957 le norme contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), per le cessazioni dal servizio aventi decorrenza dal 1 luglio 1957 in poi sono apportate alle norme predette che regolano il trattamento ordinario di quiescenza, a carico dello Stato o delle Amministrazioni indicate nell'art. 1 del decreto stesso, spettante agli impiegati civili, ai militari, ai salariati e alle loro 
 famiglie, le modificazioni di cui ai seguenti articoli da 2 a 6."
 
 ### Art. 17.
@@ -292,8 +292,8 @@ L'aumento di pensione del 50 per cento di cui alla [legge 19 maggio 1954, n. 268
  
 AGGIORNAMENTO (3a) 
  La [L. 31 dicembre 1962, n. 1841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20a%20favore%20dei%20titolari%20di%20pensione%20liquidata%20secondo%20le%20norme%20del%20cessato%20regime%20austro-ungarico%20dellex%20Stato%20libero%20di%20Fiume%20degli%20Enti%20locali%20ed%20Enti%20pubblici%20delle%20zone%20di_bd737272a111.md) ha disposto (con l'art. 1 comma 1 lettera b)) che "Sono aumentate in ragione del 10 per cento: 
- b) le pensioni spettanti ai cittadini italiani profughi, gia' gravanti sugli Enti locali e sugli Enti pubblici delle zone di confine passate sotto la sovranita' di altri Stati, assunti nel debito vitalizio dello Stato ai sensi degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_27) e [35 del 
-decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_35);"
+ b) le pensioni spettanti ai cittadini italiani profughi, gia' gravanti sugli Enti locali e sugli Enti pubblici delle zone di confine passate sotto la sovranita' di altri Stati, assunti nel debito vitalizio dello Stato ai sensi degli [articoli 27](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md) e [35 del 
+decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md);"
 
 ### Art. 28.
 
@@ -304,12 +304,12 @@ Le pensioni, le quote di pensioni e gli assegni indicati nell'[art. 20 della leg
 ----------------
  
 AGGIORNAMENTO (1) 
- La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 9 comma 1) che "Le pensioni tabellari dei graduati e militari di truppa e le pensioni e gli assegni delle categorie indicate all'[art. 28 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_28), gia' liquidati o da liquidarsi ai sensi del detto decreto, sono aumentati nella misura dei sei per cento con effetto dal 1 luglio 1957 e di un ulteriore sei per cento, da applicarsi sull'importo risultante dopo il primo aumento, con effetto dal 1 luglio 1958." 
+ La [L. 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734) ha disposto (con l'art. 9 comma 1) che "Le pensioni tabellari dei graduati e militari di truppa e le pensioni e gli assegni delle categorie indicate all'[art. 28 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), gia' liquidati o da liquidarsi ai sensi del detto decreto, sono aumentati nella misura dei sei per cento con effetto dal 1 luglio 1957 e di un ulteriore sei per cento, da applicarsi sull'importo risultante dopo il primo aumento, con effetto dal 1 luglio 1958." 
  
 ----------------
  
 AGGIORNAMENTO (4) 
- La [L. 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249) ha disposto (con l'art. 34 comma 1) che "Le pensioni, le quote di pensioni e gli assegni di cui al [primo comma dell'articolo 28 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_28-com1), sono aumentati, con effetto dal 1 marzo 1968, in 
+ La [L. 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md) ha disposto (con l'art. 34 comma 1) che "Le pensioni, le quote di pensioni e gli assegni di cui al [primo comma dell'articolo 28 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), sono aumentati, con effetto dal 1 marzo 1968, in 
 ragione del 65 per cento."
 
 ### Art. 29.
@@ -364,8 +364,8 @@ Le pensioni spettanti ai cittadini italiani profughi, gravanti sui Comuni, sulle
  
 AGGIORNAMENTO (3a) 
  La [L. 31 dicembre 1962, n. 1841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20a%20favore%20dei%20titolari%20di%20pensione%20liquidata%20secondo%20le%20norme%20del%20cessato%20regime%20austro-ungarico%20dellex%20Stato%20libero%20di%20Fiume%20degli%20Enti%20locali%20ed%20Enti%20pubblici%20delle%20zone%20di_bd737272a111.md) ha disposto (con l'art. 1 comma 1 lettera b)) che "Sono aumentate in ragione del 10 per cento: 
- b) le pensioni spettanti ai cittadini italiani profughi, gia' gravanti sugli Enti locali e sugli Enti pubblici delle zone di confine passate sotto la sovranita' di altri Stati, assunti nel debito vitalizio dello Stato ai sensi degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_27) e [35 del 
-decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20#art_35);"
+ b) le pensioni spettanti ai cittadini italiani profughi, gia' gravanti sugli Enti locali e sugli Enti pubblici delle zone di confine passate sotto la sovranita' di altri Stati, assunti nel debito vitalizio dello Stato ai sensi degli [articoli 27](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md) e [35 del 
+decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md);"
 
 ### Art. 36.
 

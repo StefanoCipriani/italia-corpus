@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 12 della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_12), concernente lo Statuto speciale per la Valle d'Aosta;
+Visto l'[art. 12 della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), concernente lo Statuto speciale per la Valle d'Aosta;
 
 Vista la [legge 31 luglio 1954, n. 612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;612), che approva lo stato di previsione dell'entrata e della spesa dei Ministero del tesoro per l'esercizio finanziario 1954-1955;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per l'intern
 
 ## Art. 1.
 
-Sono ceduti alla Regione Valle d'Aosta, ai sensi dell'[art. 12, quarto comma, della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_12-com4), i nove decimi dei canoni per le concessioni di derivazioni a scopo idroelettrico relativi all'anno 1954 da calcolarsi sui versamenti in conto competenza e residui affluiti in detto anno presso la Sezione di tesoreria provinciale di Aosta.
+Sono ceduti alla Regione Valle d'Aosta, ai sensi dell'[art. 12, quarto comma, della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), i nove decimi dei canoni per le concessioni di derivazioni a scopo idroelettrico relativi all'anno 1954 da calcolarsi sui versamenti in conto competenza e residui affluiti in detto anno presso la Sezione di tesoreria provinciale di Aosta.
 
 ## Art. 2.
 

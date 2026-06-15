@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e successive modificazioni;
 
 Visto l'[art. 8 della legge 8 aprile 1952, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-08;212#art_8);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per il tesoro di concerto con il Ministro per il lav
 
 ## Art. 1.
 
-Oltre che negli altri casi previsti dalle vigenti disposizioni, al personale femminile coniugato competono le quote complementari dell'indennita' di carovita di cui al [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722), e successive modificazioni, per la prole minorenne a carico, quando il marito disoccupato non fruisca di prestazioni ordinarie o straordinarie dell'assicurazione contro la disoccupazione involontaria e sia sprovvisto di risorse economiche a qualsiasi titolo per provvedere al mantenimento proprio e della famiglia.
+Oltre che negli altri casi previsti dalle vigenti disposizioni, al personale femminile coniugato competono le quote complementari dell'indennita' di carovita di cui al [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e successive modificazioni, per la prole minorenne a carico, quando il marito disoccupato non fruisca di prestazioni ordinarie o straordinarie dell'assicurazione contro la disoccupazione involontaria e sia sprovvisto di risorse economiche a qualsiasi titolo per provvedere al mantenimento proprio e della famiglia.
  Se il marito disoccupato e' provvisto di risorse economiche inadeguate per il mantenimento proprio e di tutti i figli minorenni, ma sufficienti per mantenere una parte di dette persone, competono le quote complementari dell'indennita' di carovita soltanto per il figlio o per i figli minorenni per il cui mantenimento Le risorse stesse non bastino. A tal fine si applicano le disposizioni dell'art. 3, ultimo comma, del citato [decreto legislativo 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-11-21;722), e successive modificazioni.
 
 ## Art. 2.

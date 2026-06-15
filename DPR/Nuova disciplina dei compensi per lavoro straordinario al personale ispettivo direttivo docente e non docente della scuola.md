@@ -49,7 +49,7 @@ Le ore di lavoro straordinario, da effettuarsi entro il limite dei fondi comples
 
 AGGIORNAMENTO (1)
 
-La [L. 11 luglio 1980, n.312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 54, comma 7) che a decorrere dal 1 aprile 1979, l'articolo 4 del presente [decreto del Presidente della Repubblica 14 settembre 1978, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-14;567), e' modificato
+La [L. 11 luglio 1980, n.312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 54, comma 7) che a decorrere dal 1 aprile 1979, l'articolo 4 del presente [decreto del Presidente della Repubblica 14 settembre 1978, n. 567](Nuova%20disciplina%20dei%20compensi%20per%20lavoro%20straordinario%20al%20personale%20ispettivo%20direttivo%20docente%20e%20non%20docente%20della%20scuola.md), e' modificato
 
 ## Art. 5.
 
@@ -114,7 +114,7 @@ Le ore di lavoro straordinario, da effettuarsi entro il limite dei fondi comples
 
 ## Art. 14.
 
-Per il periodo 1 gennaio 1978-30 settembre 1978 il compenso spettante, in base alle vigenti disposizioni, al personale docente della scuola secondaria ed artistica e della scuola elementare per le ore di insegnamento eccedenti l'orario d'obbligo, e' determinato rispettivamente in ragione di un diciottesimo e di un ventiquattresimo del solo stipendio tabellare in godimento, aumentato di un'aliquota pari al cinquanta per cento dell'assegno di cui all'[art. 12 della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_12).
+Per il periodo 1 gennaio 1978-30 settembre 1978 il compenso spettante, in base alle vigenti disposizioni, al personale docente della scuola secondaria ed artistica e della scuola elementare per le ore di insegnamento eccedenti l'orario d'obbligo, e' determinato rispettivamente in ragione di un diciottesimo e di un ventiquattresimo del solo stipendio tabellare in godimento, aumentato di un'aliquota pari al cinquanta per cento dell'assegno di cui all'[art. 12 della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md).
  Ferma restando l'attuale disciplina dell'orario di lavoro, la normativa di cui al precedente comma, si applica anche al personale indicato nella [legge 2 aprile 1968, n. 466](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20economiche%20per%20gli%20insegnanti%20elementari%20delle%20scuole%20speciali%20statali.md).
 
 ## Art. 15.

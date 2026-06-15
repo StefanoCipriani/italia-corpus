@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -22,7 +22,7 @@ Visto l'[art. 2 della legge 14 agosto 1974, n. 354](../DL%20e%20leggi%20di%20con
 
 Ritenuta la necessita' di emanare norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), concernente istituzione e disciplina dell'imposta sul valore aggiunto;
 
-Udito il parere della commissione parlamentare istituita a norma dell'[art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della commissione parlamentare istituita a norma dell'[art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -43,7 +43,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione
  d) le cessioni a titolo di sconto o premio previste nelle condizioni generali di vendita o nel contratto originario nonche' quelle pattuite successivamente anche a titolo di abbuono ed eseguite non oltre un anno dalla effettuazione dell'operazione o dell'ultima delle operazioni cui ineriscono; le cessioni di campioni gratuiti di modico valore appositamente contrassegnati;
  e) le cessioni di cui al n. 4) fatte a enti pubblici e quelle fatte ad associazioni riconosciute o a fondazioni aventi esclusivamente finalita' di assistenza, beneficenza, educazione, istruzione, studio o ricerca scientifica o a favore delle popolazioni colpite da calamita' naturali o catastrofi dichiarate tali ai sensi della [legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996);
  f) i conferimenti nelle societa' od enti di cui al n. 6) e i passaggi di beni in dipendenza di fusioni o trasformazioni;
- g) le assegnazioni di case di abitazione fatte ai soci da cooperative edilizie a norma del [regio decreto 29 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-29;1165), recante il [testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica, e successive modificazioni;
+ g) le assegnazioni di case di abitazione fatte ai soci da cooperative edilizie a norma del [regio decreto 29 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-29;1165), recante il [testo unico delle disposizioni sull'edilizia](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, e successive modificazioni;
  h) le cessioni che hanno per oggetto diritti di autore.
 
  Art. 3 - nel secondo comma:

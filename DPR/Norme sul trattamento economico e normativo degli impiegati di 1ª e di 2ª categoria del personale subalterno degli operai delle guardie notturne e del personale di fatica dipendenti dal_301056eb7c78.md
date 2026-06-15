@@ -65,7 +65,7 @@ I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulat
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 10 - 17 dicembre 1969, n. 153 (in G.U. 1a s.s. 24/12/1969, n. 324), ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 2 gennaio 1962, n. 912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;912), nella parte in cui rende obbligatorio erga omnes l'art. 36, comma nono, del contratto collettivo nazionale 28 febbraio 1941 per i dipendenti delle Casse di risparmio, dei Monti di credito su pegno di prima categoria e degli enti equiparati, nel testo modificato dall'art. 14 della Convenzione collettiva 14 ottobre 1953."
+La Corte Costituzionale, con sentenza 10 - 17 dicembre 1969, n. 153 (in G.U. 1a s.s. 24/12/1969, n. 324), ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [D.P.R. 2 gennaio 1962, n. 912](Norme%20sul%20trattamento%20economico%20e%20normativo%20degli%20impiegati%20di%201ª%20e%20di%202ª%20categoria%20del%20personale%20subalterno%20degli%20operai%20delle%20guardie%20notturne%20e%20del%20personale%20di%20fatica%20dipendenti%20dal_301056eb7c78.md), nella parte in cui rende obbligatorio erga omnes l'art. 36, comma nono, del contratto collettivo nazionale 28 febbraio 1941 per i dipendenti delle Casse di risparmio, dei Monti di credito su pegno di prima categoria e degli enti equiparati, nel testo modificato dall'art. 14 della Convenzione collettiva 14 ottobre 1953."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

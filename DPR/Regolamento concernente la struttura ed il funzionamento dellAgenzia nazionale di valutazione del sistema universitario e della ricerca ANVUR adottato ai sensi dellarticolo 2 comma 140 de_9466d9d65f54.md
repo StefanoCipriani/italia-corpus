@@ -20,9 +20,9 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
 
-Visto l'[articolo 5 del decreto legislativo 5 giugno 1998, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204#art_5);
+Visto l'[articolo 5 del decreto legislativo 5 giugno 1998, n. 204](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20coordinamento%20la%20programmazione%20e%20la%20valutazione%20della%20politica%20nazionale%20relativa%20alla%20ricerca%20scientifica%20e%20tecnologica%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20d%20del_1ce953a530de.md);
 
-Visto l'[articolo 2 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_2), e successive modificazioni;
+Visto l'[articolo 2 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
 Visto il [decreto-legge 16 maggio 2008, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-16;85), convertito, con modificazioni, dalla [legge 14 luglio 2008, n. 121](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%202008%20n.%2085%20recante%20disposizioni%20urgenti%20per%20ladeguamento%20delle%20strutture%20di%20Governo%20in%20applicazione%20dellarticolo%201%20commi_ecbc74756836.md);
 
@@ -32,7 +32,7 @@ Visto l'[articolo 2, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 Visto il [decreto del Presidente della Repubblica 21 febbraio 2008, n. 64](Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR.md);
 
-Visto l'[articolo 2, comma 634, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com634);
+Visto l'[articolo 2, comma 634, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 luglio 2009;
 
@@ -46,7 +46,7 @@ Ritenuto di non accogliere la predetta condizione considerando che la scelta del
 
 Considerato, altresi', che la VII Commissione della Camera dei deputati ha chiesto, quale condizione, di chiarire se il Direttore, di cui all'articolo 6, e il Comitato consultivo, di cui all'articolo 11, facciano parte degli organi dell'Agenzia;
 
-Ritenuto che il Direttore e il Comitato consultivo non debbano essere inclusi nel novero degli organi dell'Agenzia in attuazione del principio generale di separazione tra attivita' di indirizzo e attivita' di gestione affermato dall'[articolo 4 del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_4) , cui devono adeguarsi le pubbliche amministrazioni;
+Ritenuto che il Direttore e il Comitato consultivo non debbano essere inclusi nel novero degli organi dell'Agenzia in attuazione del principio generale di separazione tra attivita' di indirizzo e attivita' di gestione affermato dall'[articolo 4 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) , cui devono adeguarsi le pubbliche amministrazioni;
 
 Considerato che il Consiglio di Stato e la 1ª e la 7 ª Commissione del Senato hanno formulato osservazioni in ordine alla opportunita' di prevedere la diversificazione del mandato dei componenti del primo Consiglio direttivo, previsto dall'articolo 6, comma 4;
 
@@ -86,7 +86,7 @@ Agli effetti del presente regolamento si intendono:
 
 3.
 
-L'Agenzia ha personalita' giuridica di diritto pubblico ed ha sede in Roma. E' dotata di autonomia organizzativa, amministrativa e contabile, anche in deroga alle disposizioni sulla contabilita' generale dello Stato e opera ai sensi dell'[articolo 8, comma 1, del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_8-com1). E' sottoposta alla vigilanza del Ministro e al controllo sulla gestione da parte della Corte dei conti. ((Ai sensi dell'articolo 51-ter del decreto legislativo 30 luglio 1999, n. 300, il Ministero cura i rapporti con l'Agenzia.))
+L'Agenzia ha personalita' giuridica di diritto pubblico ed ha sede in Roma. E' dotata di autonomia organizzativa, amministrativa e contabile, anche in deroga alle disposizioni sulla contabilita' generale dello Stato e opera ai sensi dell'[articolo 8, comma 1, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md). E' sottoposta alla vigilanza del Ministro e al controllo sulla gestione da parte della Corte dei conti. ((Ai sensi dell'articolo 51-ter del decreto legislativo 30 luglio 1999, n. 300, il Ministero cura i rapporti con l'Agenzia.))
 
 4.
 
@@ -282,7 +282,7 @@ L'incarico di componente il Consiglio direttivo e' a tempo pieno ed e' incompati
 
 6.
 
-I dipendenti di universita' italiane, ((di istituzioni AFAM,)) di enti di ricerca o, comunque, di amministrazioni pubbliche che sono nominati componenti del Consiglio direttivo sono collocati, per tutta la durata del mandato, in aspettativa senza assegni, ai sensi dell'[articolo 23-bis, comma 1, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_23bis-com1), o, se professori o ricercatori universitari, ai sensi dell'[articolo 13, comma 1, numero 13, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md). In ogni caso, gli stessi cessano dalle cariche eventualmente ricoperte nelle universita' e negli enti di ricerca e ((...)) non possono essere assegnatari di finanziamenti statali di ricerca, ne' far parte di commissioni di valutazione per il reclutamento e le conferme in ruolo dei professori e dei ricercatori universitari e del personale degli enti di ricerca.
+I dipendenti di universita' italiane, ((di istituzioni AFAM,)) di enti di ricerca o, comunque, di amministrazioni pubbliche che sono nominati componenti del Consiglio direttivo sono collocati, per tutta la durata del mandato, in aspettativa senza assegni, ai sensi dell'[articolo 23-bis, comma 1, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), o, se professori o ricercatori universitari, ai sensi dell'[articolo 13, comma 1, numero 13, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md). In ogni caso, gli stessi cessano dalle cariche eventualmente ricoperte nelle universita' e negli enti di ricerca e ((...)) non possono essere assegnatari di finanziamenti statali di ricerca, ne' far parte di commissioni di valutazione per il reclutamento e le conferme in ruolo dei professori e dei ricercatori universitari e del personale degli enti di ricerca.
 
 7.
 
@@ -321,7 +321,7 @@ Il ((Direttore generale)) e' nominato con le modalita' previste dall'articolo 8,
 
 5.
 
-Il rapporto di lavoro del ((Direttore generale)) e' incompatibile, a pena di risoluzione immediata del contratto, con qualsiasi altro rapporto di lavoro, di opera professionale o di consulenza. Il Direttore non puo', altresi', ricoprire altri uffici pubblici di qualsiasi natura, ne' avere interessi diretti o indiretti nelle universita' e negli enti di ricerca. I dirigenti delle Amministrazioni pubbliche sono collocati in aspettativa ai sensi dell'[articolo 23-bis del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_23bis).
+Il rapporto di lavoro del ((Direttore generale)) e' incompatibile, a pena di risoluzione immediata del contratto, con qualsiasi altro rapporto di lavoro, di opera professionale o di consulenza. Il Direttore non puo', altresi', ricoprire altri uffici pubblici di qualsiasi natura, ne' avere interessi diretti o indiretti nelle universita' e negli enti di ricerca. I dirigenti delle Amministrazioni pubbliche sono collocati in aspettativa ai sensi dell'[articolo 23-bis del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 ### Art. 11. — Il comitato consultivo
 
@@ -368,7 +368,7 @@ L'organizzazione dell'Agenzia e' definita con regolamenti approvati dal Consigli
 
 2.
 
-Con riferimento a quanto previsto dall'[articolo 8 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_8), alla struttura direzionale generale e' preposto il ((Direttore generale)) di cui all'articolo 10; all'area amministrativo-contabile e alle aree di valutazione sono preposti tre dirigenti di seconda fascia di cui all'[articolo 23, comma 1, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_23-com1), uno per ciascuna area.
+Con riferimento a quanto previsto dall'[articolo 8 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), alla struttura direzionale generale e' preposto il ((Direttore generale)) di cui all'articolo 10; all'area amministrativo-contabile e alle aree di valutazione sono preposti tre dirigenti di seconda fascia di cui all'[articolo 23, comma 1, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), uno per ciascuna area.
 
 3.
 
@@ -384,7 +384,7 @@ La dotazione organica del personale dell'Agenzia e' stabilita nell'Allegato A, c
                             c)
                                 il trattamento giuridico ed economico del personale di cui all'Allegato A, in conformita' con quanto previsto dal CCNL del comparto Ministeri, ivi comprese le modalita' e procedure di copertura dei posti della ((dotazione)) organica, mediante il ricorso alle procedure di mobilita' previste dalla normativa vigente, ovvero mediante le ordinarie forme di reclutamento, ai sensi del [decreto legislativo 31 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-31;165);
                             d)
-                                la stipula, con il relativo trattamento economico, ai sensi dell'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_7-com6), e successive modificazioni, dei contratti con esperti della valutazione, che sono conferiti, previa delibera del Consiglio direttivo, dal ((Direttore generale)), ad esperti italiani e stranieri nei settori di competenza dell'Agenzia, nei limiti delle risorse finanziarie disponibili nel bilancio dell'Agenzia a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica;
+                                la stipula, con il relativo trattamento economico, ai sensi dell'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni, dei contratti con esperti della valutazione, che sono conferiti, previa delibera del Consiglio direttivo, dal ((Direttore generale)), ad esperti italiani e stranieri nei settori di competenza dell'Agenzia, nei limiti delle risorse finanziarie disponibili nel bilancio dell'Agenzia a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica;
                             e)
                                 l'amministrazione e la contabilita', anche in deroga alle disposizioni sulla contabilita' generale dello Stato e comunque nel rispetto dei relativi principi;
                             f)
@@ -434,7 +434,7 @@ A decorrere dalla data di entrata in vigore del presente regolamento, e' abrogat
 
 2.
 
-A decorrere dalla data di insediamento del Consiglio direttivo e della nomina del Presidente sono soppressi il Comitato nazionale per la valutazione del sistema universitario, il Comitato di indirizzo per la valutazione della ricerca ed i Comitati di valutazione di cui all'[articolo 10 del decreto legislativo 4 giugno 2003, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-04;127#art_10), ed all'[articolo 10 del decreto legislativo 4 giugno 2003, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-04;128#art_10).
+A decorrere dalla data di insediamento del Consiglio direttivo e della nomina del Presidente sono soppressi il Comitato nazionale per la valutazione del sistema universitario, il Comitato di indirizzo per la valutazione della ricerca ed i Comitati di valutazione di cui all'[articolo 10 del decreto legislativo 4 giugno 2003, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20Consiglio%20nazionale%20delle%20ricerche%20C.N.R.md), ed all'[articolo 10 del decreto legislativo 4 giugno 2003, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dellAgenzia%20spaziale%20italiana%20A.S.I.md).
 L'Agenzia subentra nei rapporti giuridici posti in essere dal Ministero per le attivita' dei soppressi Comitato nazionale per la valutazione del sistema universitario e Comitato di indirizzo per la valutazione della ricerca. E' assegnato all'Agenzia, nei limiti dell'organico di cui all'Allegato A, il personale di ruolo e non di ruolo che, a qualsiasi titolo, presta servizio nelle segreterie tecnico-amministrative dei predetti due Comitati, salvo il diritto del personale di ruolo a permanere nei ruoli del Ministero, previa opzione da esercitare entro 30 giorni dalla data indicata al primo periodo del presente comma e con contestuale riduzione della dotazione organica dell'amministrazione di provenienza. Sono altresi' assegnate all'Agenzia le risorse strumentali e materiali dei predetti due Comitati.
 
 3.

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia, emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia, emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -26,7 +26,7 @@ TITOLO I
 
 ### Art. 1.
 
-Salvo quanto disposto dagli articoli seguenti, le attribuzioni degli organi centrali e periferici dello Stato in materia di agricoltura e foreste, bonifiche, ordinamento delle minime unita' culturali e ricomposizione fondiaria, irrigazione, opere di miglioramento agrario e fondiario, zootecnia, ittica, economia montana, Corpo forestale, caccia e pesca, usi civici, sono esercitate nel territorio della Regione dalla Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1).
+Salvo quanto disposto dagli articoli seguenti, le attribuzioni degli organi centrali e periferici dello Stato in materia di agricoltura e foreste, bonifiche, ordinamento delle minime unita' culturali e ricomposizione fondiaria, irrigazione, opere di miglioramento agrario e fondiario, zootecnia, ittica, economia montana, Corpo forestale, caccia e pesca, usi civici, sono esercitate nel territorio della Regione dalla Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md).
 
 ### Art. 2.
 
@@ -63,7 +63,7 @@ TITOLO II
 
 ### Art. 8.
 
-Salvo quanto disposto dagli articoli seguenti, le attribuzioni degli organi centrali e periferici dello Stato in materia di industria e commercio, artigianato, mercati e fiere, acque minerali e termali, miniere cave e torbiere, sono esercitate nel territorio della Regione dall'Amministrazione regionale, ai sensi e nei limiti di cui all'art. 8 dello Statuto approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1).
+Salvo quanto disposto dagli articoli seguenti, le attribuzioni degli organi centrali e periferici dello Stato in materia di industria e commercio, artigianato, mercati e fiere, acque minerali e termali, miniere cave e torbiere, sono esercitate nel territorio della Regione dall'Amministrazione regionale, ai sensi e nei limiti di cui all'art. 8 dello Statuto approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md).
 
 ### Art. 9.
 
@@ -99,7 +99,7 @@ TITOLO III
 
 ### Art. 15.
 
-Salvo quanto disposto dagli articoli seguenti, le attribuzioni degli organi centrali e periferici dello Stato in materia di turismo e industria alberghiera, istituzioni ricreative e sportive, sono esercitate nel territorio della Regione dalla Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto, approvato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1).
+Salvo quanto disposto dagli articoli seguenti, le attribuzioni degli organi centrali e periferici dello Stato in materia di turismo e industria alberghiera, istituzioni ricreative e sportive, sono esercitate nel territorio della Regione dalla Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto, approvato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md).
 
 ### Art. 16.
 
@@ -113,7 +113,7 @@ Le attribuzioni gia' spettanti allo Stato in materia di riconoscimento e revoca 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 1975, n.902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-25;902) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-26;1116), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
+Il [D.P.R. 25 novembre 1975, n.902](Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20agricoltura%20e%20foreste%20industria%20e%20commercio%20turismo%20e%20industria%20alberghiera%20istituzioni%20ricrea_3c1224a3b943.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
 
 ### Art. 18.
 
@@ -124,7 +124,7 @@ Il regolamento del personale degli Enti provinciali per il turismo, di cui all'[
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 1975, n.902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-25;902) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-26;1116), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
+Il [D.P.R. 25 novembre 1975, n.902](Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20agricoltura%20e%20foreste%20industria%20e%20commercio%20turismo%20e%20industria%20alberghiera%20istituzioni%20ricrea_3c1224a3b943.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
 
 ### Art. 19.
 
@@ -135,7 +135,7 @@ I programmi di massima per la propaganda e le manifestazioni turistiche di inizi
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 1975, n.902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-25;902) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-26;1116), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
+Il [D.P.R. 25 novembre 1975, n.902](Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20agricoltura%20e%20foreste%20industria%20e%20commercio%20turismo%20e%20industria%20alberghiera%20istituzioni%20ricrea_3c1224a3b943.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
 
 ### Art. 20.
 
@@ -145,7 +145,7 @@ I provvedimenti gia' di competenza del Ministero del turismo e dello spettacolo 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 1975, n.902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-25;902) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-26;1116), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
+Il [D.P.R. 25 novembre 1975, n.902](Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 16, comma 1) che "Sono soppresse le limitazioni stabilite negli articoli 17, 18, 19, primo comma, e 20 del [decreto del Presidente della Repubblica 26 agosto 1965, n. 1116](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20agricoltura%20e%20foreste%20industria%20e%20commercio%20turismo%20e%20industria%20alberghiera%20istituzioni%20ricrea_3c1224a3b943.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Friuli-Venezia Giulia in materia di turismo e di industria alberghiera".
 
 ### Art. 21.
 

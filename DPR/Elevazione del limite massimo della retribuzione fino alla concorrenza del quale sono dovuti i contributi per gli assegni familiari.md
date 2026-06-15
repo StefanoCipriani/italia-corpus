@@ -22,7 +22,7 @@ Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Atti%20no
 
 Visto il [decreto legislativo 3 ottobre 1947, n. 1215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-03;1215), per la determinazione dell'importo della retribuzione rispetto alla quale e' dovuto il contributo degli assegni familiari nel settore dell'industria;
 
-Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;142), concernente una disciplina provvisoria del carico contributivo per determinate forme di previdenza e di assistenza sociale;
+Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](../Decreti%20legislativi%20luogotenenziali/Disciplina%20provvisoria%20del%20carico%20contributivo%20per%20le%20varie%20forme%20di%20previdenza%20e%20di%20assistenza%20sociale.md), concernente una disciplina provvisoria del carico contributivo per determinate forme di previdenza e di assistenza sociale;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

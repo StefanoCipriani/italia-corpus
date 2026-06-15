@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determina
 
 Visto il [decreto del Presidente della Repubblica 1 febbraio 1986, n. 13](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201985-87.md), concernente norme risultanti dalla disciplina prevista dall'accordo intercompartimentale, di cui all'art. 12 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, relativo al triennio 1985-1987;
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 marzo 1987, con la quale (respinte o ritenute inammissibili le osservazioni formulate dalle organizzazioni sindacali dissenzienti o che abbiano dichiarato di non partecipare alle trattative) e' stata autorizzata, previa verifica delle compatibilita' finanziarie, la sottoscrizione dell'ipotesi di accordo per il triennio 1985-1987 riguardante il personale del comparto scuola di cui all'[art. 8 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determinazione%20e%20composizione%20dei%20comparti%20di%20contrattazione%20collettiva%20di%20cui%20allart.%205%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093.md), raggiunto in data 9 febbraio 1987 fra la delegazione di parte pubblica composta come previsto dal citato art. 8 e le Confederazioni sindacali CGIL, CISL, UIL, CONFSAL, CIDA, CISNAL, CISAL, CISAS, USPPI e le organizzazioni sindacali di categoria ad esse aderenti (CGIL-Scuola, CISL-Scuola, CISL-SISM, CISL-SINASCEL, UIL-Scuola, CONFSAL-SNALS, CISNAL-Scuola, CISAL-Scuola, CISAS-Scuola, USPPI-Scuola), e le organizzazioni sindacali SNIA ed UNAMS; accordo cui hanno aderito successivamente le seguenti organizzazioni sindacali non partecipanti alle trattative: la CONFILL in data 26 febbraio 1987 e la CILDI in data 5 marzo 1987;
 
@@ -214,7 +214,7 @@ L'indennita' di istituto e' corrisposta su un fondo costituito dagli stanziament
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 23 agosto 1988, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-23;399), ha disposto (con l'art. 10) che il fondo di cui al presente comma, a decorrere dal 1 maggio 1990, e' incrementato di lire 1.500 milioni in ragione d'anno per la corresponsione al personale direttivo dell'indennita' di istituto prevista dalla stessa norma.
+Il [D.P.R. 23 agosto 1988, n. 399](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20per%20il%20triennio%201988-1990%20del%209%20giugno%201988%20relativo%20al%20personale%20del%20comparto%20scuola.md), ha disposto (con l'art. 10) che il fondo di cui al presente comma, a decorrere dal 1 maggio 1990, e' incrementato di lire 1.500 milioni in ragione d'anno per la corresponsione al personale direttivo dell'indennita' di istituto prevista dalla stessa norma.
 
 ### Art. 8. — (( (Indennita' di carica) ))
 
@@ -702,7 +702,7 @@ Capo VI
 
 1.
 
-Salvo quanto disposto dalla [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), in ciascuna unita' scolastica con almeno 200 dipendenti e' consentito alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile all'interno della struttura.
+Salvo quanto disposto dalla [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), in ciascuna unita' scolastica con almeno 200 dipendenti e' consentito alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile all'interno della struttura.
 
 2.
 

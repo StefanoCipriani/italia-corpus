@@ -16,7 +16,7 @@ Visto il [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20
 
 Visto il [decreto luogotenenziale 5 aprile 1946, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;438);
 
-Visto il [decreto legislativo 26 febbraio 1948, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-26;111);
+Visto il [decreto legislativo 26 febbraio 1948, n. 111](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro.md);
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica italiana;
 

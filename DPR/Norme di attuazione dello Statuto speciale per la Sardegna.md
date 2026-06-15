@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3);
+Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Visto le proposte presentate dalla Commissione paritetica di cui all'art. 56 dello Statuto predetto;
 
@@ -37,7 +37,7 @@ Il Consiglio regionale sardo si raduna in Cagliari in sessione ordinaria, nei me
 
 AGGIORNAMENTO(2)
 
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale della norma contenuta nel [primo comma dell'art. 1 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_1-com1) (Norme di attuazione dello Statuto speciale per la Sardegna)".
+La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale della norma contenuta nel [primo comma dell'art. 1 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md) (Norme di attuazione dello Statuto speciale per la Sardegna)".
 
 ### Art. 2.
 
@@ -119,7 +119,7 @@ Il Presidente della Giunta regionale:
 
 AGGIORNAMENTO(2)
 
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute nell'[art. 11, lettere a](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_11-leta), [c](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_11-letc) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_11-lete) [d del D.P.R. 19 maggio 1949, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_11-letd)".
+La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute nell'[art. 11, lettere a](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md), [c](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md) [e](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md) [d del D.P.R. 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md)".
 
 ### Art. 12.
 
@@ -149,7 +149,7 @@ La promulgazione delle leggi regionali ha luogo facendo precedere il testo delle
 
 ### Art. 16.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 19 MAGGIO 1950, N. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327))
+((ARTICOLO ABROGATO DAL [D.P.R. 19 MAGGIO 1950, N. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md))
 
 ### Art. 17.
 
@@ -177,7 +177,7 @@ La Regione ha un Segretario generale, il quale sovraintende al funzionamento di 
 
 AGGIORNAMENTO(2)
 
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute negli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_19) e [20 del D.P.R. 19 maggio 1949, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_20)".
+La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute negli [articoli 19](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md) e [20 del D.P.R. 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md)".
 
 ### Art. 20.
 
@@ -188,7 +188,7 @@ Alla nomina del Segretario generale della Regione si provvede mediante concorso 
 
 AGGIORNAMENTO(2)
 
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute negli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_19) e [20 del D.P.R. 19 maggio 1949, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_20)".
+La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute negli [articoli 19](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md) e [20 del D.P.R. 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md)".
 
 ### Art. 21.
 
@@ -224,7 +224,7 @@ CAPO VII
 
 ### Art. 27.
 
-Il Rappresentante del Governo, previsto dall'[art. 48 della legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_48), risiede in Cagliari.
+Il Rappresentante del Governo, previsto dall'[art. 48 della legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), risiede in Cagliari.
  Esso e' scelto tra i funzionari dello Stato di grado non inferiore al 4° ed e' nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri di concerto col Ministro per l'interno, sentito il Consiglio dei Ministri.
 
 ### Art. 28.
@@ -316,7 +316,7 @@ La Ragioneria regionale esercita le funzioni delle Ragionerie centrali per la ge
 
 AGGIORNAMENTO(2)
 
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute nell'[art. 44 del D.P.R. 19 maggio 1949, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_44)".
+La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute nell'[art. 44 del D.P.R. 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md)".
 
 ### Art. 45.
 
@@ -401,7 +401,7 @@ Il Comitato regionale di coordinamento trasporti deve essere sempre sentito per 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 19 giugno 1979, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-19;348) ha disposto (con l'art. 64, comma 3) l'abrogazione dell'[art. 58 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_58). Lo stesso decreto ha disposto (con l'art. 83, comma 3) che "le norme del presente decreto avranno effetto dalla data dell'entrata in vigore della legge di cui al primo comma, ad eccezione di quella contenuta nel precedente art. 24".
+Il [D.P.R. 19 giugno 1979, n. 348](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20in%20riferimento%20alla%20legge%2022%20luglio%201975%20n.%20382%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616.md) ha disposto (con l'art. 64, comma 3) l'abrogazione dell'[art. 58 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md). Lo stesso decreto ha disposto (con l'art. 83, comma 3) che "le norme del presente decreto avranno effetto dalla data dell'entrata in vigore della legge di cui al primo comma, ad eccezione di quella contenuta nel precedente art. 24".
 
 ### Art. 59. — null
 
@@ -414,11 +414,11 @@ L'Alto Commissario per la Sardegna esercitera' le attribuzioni demandategli dall
 ### Art. 61.
 
 Dalla data di cessazione dell'Alto Commissariato per la Sardegna e fino al 31 dicembre 1949, il Rappresentante del Governo esercita, anche per gli affari in corso, le attribuzioni amministrative gia' spettanti all'Alto Commissario e alla Consulta regionale ai sensi del [regio decreto 16 marzo 1944, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-03-16;90), e successive modificazioni.
- Nei riguardi delle funzioni di cui sopra la Ragioneria regionale e la Corte dei conti conserveranno le attribuzioni gia' esercitate presso l'Alto Commissariato, a norma dell'[art. 5 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417#art_5) e dei [decreti legislativi luogotenenziali 14 giugno 1945, nn. 414](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazioni%20della%20Corte%20dei%20conti%20istituite%20presso%20gli%20Alti%20Commissariati%20per%20la%20Sicilia%20e%20per%20la%20Sardegna.%20045U0414.md) e [428](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20amministrative%20per%20gli%20Alti%20Commissariati%20per%20la%20Sicilia%20e%20per%20la%20Sardegna.%20045U0428.md) e restera' ferma la competenza del Comitato tecnico amministrativo presso il Provveditorato alle opere pubbliche della Sardegna, prevista dalle disposizioni legislative vigenti.
+ Nei riguardi delle funzioni di cui sopra la Ragioneria regionale e la Corte dei conti conserveranno le attribuzioni gia' esercitate presso l'Alto Commissariato, a norma dell'[art. 5 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md) e dei [decreti legislativi luogotenenziali 14 giugno 1945, nn. 414](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazioni%20della%20Corte%20dei%20conti%20istituite%20presso%20gli%20Alti%20Commissariati%20per%20la%20Sicilia%20e%20per%20la%20Sardegna.%20045U0414.md) e [428](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20amministrative%20per%20gli%20Alti%20Commissariati%20per%20la%20Sicilia%20e%20per%20la%20Sardegna.%20045U0428.md) e restera' ferma la competenza del Comitato tecnico amministrativo presso il Provveditorato alle opere pubbliche della Sardegna, prevista dalle disposizioni legislative vigenti.
 
 ### Art. 62.
 
-Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56).
+Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md).
 
 ### Art. 63.
 

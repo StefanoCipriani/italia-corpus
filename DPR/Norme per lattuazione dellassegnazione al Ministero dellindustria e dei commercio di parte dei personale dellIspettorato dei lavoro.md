@@ -14,7 +14,7 @@ Visti gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decr
 
 Visto l'[art. 9 del decreto luogotenenziale 22 novembre 1945, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-22;830#art_9), sulla ripartizione del personale dell'Amministrazione centrale dei cessato Ministero dell'industria, del commercio e del lavoro fra il Ministero dell'industria e del commercio e il Ministero del lavoro e della previdenza sociale;
 
-Visto l'[art. 4 del decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381#art_4), sul riordinamento dei ruoli centrali e periferici del Ministero del lavoro e della previdenza sociale;
+Visto l'[art. 4 del decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), sul riordinamento dei ruoli centrali e periferici del Ministero del lavoro e della previdenza sociale;
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,11 +24,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Con effetto dalla data di entrata in vigore del presente decreto dai ruoli organici del personale di gruppo A, B e C, dell'Ispettorato del lavoro di cui alla tabella B annessa al [decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381), sono detratti, a norma dell'art. 4 del menzionato decreto, i posti indicati nella tabella I annessa al presente decreto vistata dai Ministri per il tesoro, per l'industria e il commercio e per il lavoro e la previdenza sociale. Detti posti a norma dello stesso [art. 4 del decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381#art_4), sono attribuiti al Ministero dell'industria e del commercio per la esplicazione delle funzioni rimaste al detto Ministero ai sensi dell'[art. 6 del decreto luogotenenziale 10 agosto 1945, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-10;474#art_6).
+Con effetto dalla data di entrata in vigore del presente decreto dai ruoli organici del personale di gruppo A, B e C, dell'Ispettorato del lavoro di cui alla tabella B annessa al [decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), sono detratti, a norma dell'art. 4 del menzionato decreto, i posti indicati nella tabella I annessa al presente decreto vistata dai Ministri per il tesoro, per l'industria e il commercio e per il lavoro e la previdenza sociale. Detti posti a norma dello stesso [art. 4 del decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), sono attribuiti al Ministero dell'industria e del commercio per la esplicazione delle funzioni rimaste al detto Ministero ai sensi dell'[art. 6 del decreto luogotenenziale 10 agosto 1945, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-10;474#art_6).
 
 ## Art. 2.
 
-I ruoli organici dell'ispettorato del lavoro di cui alla tabella B annessa al [decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381), restano fissati come nella unita tabella 11 vistata dai Ministri per il tesoro, per l'industria e il commercio e per il lavoro e la previdenza sociale.
+I ruoli organici dell'ispettorato del lavoro di cui alla tabella B annessa al [decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), restano fissati come nella unita tabella 11 vistata dai Ministri per il tesoro, per l'industria e il commercio e per il lavoro e la previdenza sociale.
 
 ## Art. 3.
 
@@ -44,7 +44,7 @@ L'assegnazione al Ministero dell'industria e del commercio del personale in atto
 
 ## Art. 5.
 
-Sino a quando non sara' provveduto alla ripartizione dei fondi inseriti in bilancio per il trattamento economico del personale di cui alla tabella B annessa al [decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381), nonche' alla determinazione della destinazione dei contributi previsti dagli articoli 16, secondo comma, e seguenti del [decreto-legge 28 dicembre 1931, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1931-12-28;1684), la spesa per il trattamento economico del personale assegnato a norma del presente decreto al Ministero dell'industria e del commercio continuera' a gravare sul bilancio del Ministero del lavoro e della previdenza sociale.
+Sino a quando non sara' provveduto alla ripartizione dei fondi inseriti in bilancio per il trattamento economico del personale di cui alla tabella B annessa al [decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), nonche' alla determinazione della destinazione dei contributi previsti dagli articoli 16, secondo comma, e seguenti del [decreto-legge 28 dicembre 1931, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1931-12-28;1684), la spesa per il trattamento economico del personale assegnato a norma del presente decreto al Ministero dell'industria e del commercio continuera' a gravare sul bilancio del Ministero del lavoro e della previdenza sociale.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -43,7 +43,7 @@ Nulla e' innovato alle attribuzioni degli organi dello Stato relative a:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 1975, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-25;902) ha disposto (con l'art. 12, comma 1) che "e riguardo al passaggio di funzioni amministrative dello Stato alla regione Friuli-Venezia Giulia in materia di trasporti su funivie e linee automobilistiche, tramviarie e filoviarie d'interesse regionale, sono soppresse le limitazioni stabilite nel primo comma, n. 3, dell'art. 3, relative all'approvazione dei progetti, alle operazioni di collaudo ed alla vigilanza tecnica."
+Il [D.P.R. 25 novembre 1975, n. 902](Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 12, comma 1) che "e riguardo al passaggio di funzioni amministrative dello Stato alla regione Friuli-Venezia Giulia in materia di trasporti su funivie e linee automobilistiche, tramviarie e filoviarie d'interesse regionale, sono soppresse le limitazioni stabilite nel primo comma, n. 3, dell'art. 3, relative all'approvazione dei progetti, alle operazioni di collaudo ed alla vigilanza tecnica."
 
 ## Art. 4.
 

@@ -434,7 +434,7 @@ Note all'art. 21:
  PROFESSIONI, ARTI E MESTIERI
  22 Iscrizioni riguardanti le voci della tariffa
  soppresse dall'[art. 3, comma 138, della legge
- 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com138), e precedentemente
+ 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), e precedentemente
  iscritte agli articoli sottoindicati della
  tariffa approvata con il decreto ministeriale
  20 agosto 1992, pubblicato nel supplemento
@@ -627,7 +627,7 @@ Note all'art. 29:
  4. Salvo che in materia elettorale e nel caso di cui all'art. 43, il ricorso al consiglio dell'ordine nazionale ha effetto sospensivo".
  - Si trascrive il testo dell'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-13;261#art_1) (Norme sulle tasse da corrispondersi all'Erario per la partecipazione agli esami forensi, per la nomina a revisori dei conti e per i ricorsi ai Consigli nazionali professionali):
  "Art. 1. - Le tasse da corrispondersi a favore dell'Erario nei casi sottoindicati sono cosi stabilite:
- a) per la presentazione dei ricorsi ai Consigli nazionali delle professioni indicate negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-23;382#art_1) e [18 del decreto legislativo luogotenenziale 23 novembre 1944, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-23;382#art_18), lire 800;
+ a) per la presentazione dei ricorsi ai Consigli nazionali delle professioni indicate negli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Norme%20sui%20Consigli%20degli%20ordini%20e%20collegi%20e%20sulle%20Commissioni%20centrali%20professionali.%20044U0382.md) e [18 del decreto legislativo luogotenenziale 23 novembre 1944, n. 382](../Decreti%20legislativi%20luogotenenziali/Norme%20sui%20Consigli%20degli%20ordini%20e%20collegi%20e%20sulle%20Commissioni%20centrali%20professionali.%20044U0382.md), lire 800;
  b) per gli esami di procuratore e di avvocato, lire 1600;
  c) per gli esami per l'iscrizione nell'albo speciale degli avvocati ammessi al patrocinio dinanzi alle giurisdizioni superiori, lire 2400;
  d) per l'iscrizione nell'albo speciale di cui alla lettera precedente, lire 2400;

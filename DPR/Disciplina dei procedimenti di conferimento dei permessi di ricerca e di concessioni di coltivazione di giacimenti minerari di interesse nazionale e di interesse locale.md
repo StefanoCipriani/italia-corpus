@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Visto il [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443);
 
@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 28 giugno 1955, n. 620](Decent
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 9 aprile 1994 e 6 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 9 aprile 1994 e 6 marzo 1994;
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 24 marzo 1994;
 
@@ -148,7 +148,7 @@ Nella conferenza di servizi di cui al comma 1 del presente articolo sono, altres
 
 3.
 
-Qualora nella conferenza di servizi non si raggiungano determinazioni concordate, e sia previsto l'accordo o l'atto di assenso comunque denominato delle pubbliche amministrazioni intervenute, si procede secondo l'[art. 14, comma 2-bis, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14-com2bis), cosi' come introdotto dall'[art. 2, comma 13, della legge 24 dicembre 1993 n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com13).
+Qualora nella conferenza di servizi non si raggiungano determinazioni concordate, e sia previsto l'accordo o l'atto di assenso comunque denominato delle pubbliche amministrazioni intervenute, si procede secondo l'[art. 14, comma 2-bis, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14-com2bis), cosi' come introdotto dall'[art. 2, comma 13, della legge 24 dicembre 1993 n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 Note all'art. 5:
  - Il testo dell'[art. 5, comma 2, del regio decreto n. 1443/1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927;1443#art_5-com2), come modificato dal [decreto del Presidente della Repubblica n. 620/1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955;620), e' il seguente:
@@ -342,7 +342,7 @@ L'ingegnere capo, per i giacimenti minerari di interesse locale, o il Ministero,
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento sono abrogati: gli [articoli 3](Decentramento%20dei%20servizi%20del%20Ministero%20dellindustria%20e%20del%20commercio.md) e [4 del decreto del Presidente della Repubblica 28 giugno 1955, n. 620](Decentramento%20dei%20servizi%20del%20Ministero%20dellindustria%20e%20del%20commercio.md); l'art. 4, limitatamente alle parole "da rilasciarsi con le modalita' stabilite dall'art. seguente", l'art. 5, l'art. 14, secondo comma, l'art. 15, primo e quarto comma, l'articolo 18, primo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 26, primo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 32, terzo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 39, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 41, primo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", del [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443).
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono abrogati: gli [articoli 3](Decentramento%20dei%20servizi%20del%20Ministero%20dellindustria%20e%20del%20commercio.md) e [4 del decreto del Presidente della Repubblica 28 giugno 1955, n. 620](Decentramento%20dei%20servizi%20del%20Ministero%20dellindustria%20e%20del%20commercio.md); l'art. 4, limitatamente alle parole "da rilasciarsi con le modalita' stabilite dall'art. seguente", l'art. 5, l'art. 14, secondo comma, l'art. 15, primo e quarto comma, l'articolo 18, primo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 26, primo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 32, terzo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 39, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", l'art. 41, primo comma, limitatamente alle parole "sentito il parere del Consiglio superiore delle miniere", del [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443).
 
 Note all'art. 17:
  - Per il testo dell'[art. 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

@@ -199,7 +199,7 @@ finanziamenti concessi dalla Sezione stessa a
 Ditte, Societa ed Enti operanti per lo sviluppo
 industriale della Sicilia ([art. 19 del decreto
 legislativo luogotenenziale 28 dicembre 1944, n.
-416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_19)),............................................ L. 4.500.000 Cap. n. 5257 (di nuova istituzione). - Oneri
+416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md)),............................................ L. 4.500.000 Cap. n. 5257 (di nuova istituzione). - Oneri
 derivanti dalla garanzia sussidiaria dello Stato
 sui mutui concessi ai Comuni per l'esecuzione di
 opere di edilizia scolastica ([art. 3 della legge

@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93);
 
-Visto l'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2);
+Visto l'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
 
@@ -48,7 +48,7 @@ Capo I
 
 1.
 
-L'assunzione a tempo determinato e indeterminato nelle amministrazioni pubbliche avviene mediante concorsi pubblici, orientati alla massima partecipazione e alla individuazione delle competenze qualificate, che si svolgono secondo le modalita' definite nel presente regolamento, nel rispetto delle disposizioni e dei criteri di cui agli [articoli 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35), [35-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter) e [35-quater del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35quater).
+L'assunzione a tempo determinato e indeterminato nelle amministrazioni pubbliche avviene mediante concorsi pubblici, orientati alla massima partecipazione e alla individuazione delle competenze qualificate, che si svolgono secondo le modalita' definite nel presente regolamento, nel rispetto delle disposizioni e dei criteri di cui agli [articoli 35](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), [35-ter](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [35-quater del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 2.
 
@@ -74,7 +74,7 @@ Ferma restando la possibilita' di ricorrere alla procedura di cui all'[articolo 
 
 6.
 
-Per le assunzioni del personale di cui all'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_3-com1), [1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_3-com1bis) e [2, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_3-com2), restano salve le disposizioni previste dai rispettivi ordinamenti. Le disposizioni del presente regolamento non si applicano al reclutamento del personale del Servizio sanitario nazionale e dei segretari comunali.
+Per le assunzioni del personale di cui all'[articolo 3, commi 1](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), [1-bis](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [2, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), restano salve le disposizioni previste dai rispettivi ordinamenti. Le disposizioni del presente regolamento non si applicano al reclutamento del personale del Servizio sanitario nazionale e dei segretari comunali.
 
 ))
 
@@ -86,7 +86,7 @@ Per le assunzioni del personale di cui all'[articolo 3, commi 1](https://www.nor
 
 Possono accedere agli impieghi nelle pubbliche amministrazioni i soggetti che posseggono i seguenti requisiti generali:
                             a)
-                                cittadinanza italiana o possesso dei requisiti previsti dall'[articolo 38, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_38-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_38-com2) e [3-bis, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_38-com3bis);
+                                cittadinanza italiana o possesso dei requisiti previsti dall'[articolo 38, commi 1](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), [2](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [3-bis, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md);
                             b)
                                 maggiore eta';
                             c)
@@ -114,11 +114,11 @@ L'amministrazione ha facolta' di sottoporre a visita medica di controllo i vinci
 
 6.
 
-Le amministrazioni individuano, per ciascun profilo professionale, il titolo di studio o l'abilitazione professionale richiesti per accedere al concorso, in coerenza con la disciplina vigente in materia di pubblico impiego e di quanto stabilito nella contrattazione collettiva del relativo comparto, nonche' con il sistema di classificazione adottato dall'amministrazione o dall'ente per le assunzioni, comprese quelle obbligatorie delle categorie protette. Per l'ammissione a particolari profili professionali di qualifica o categoria, gli ordinamenti delle singole amministrazioni possono prescrivere ulteriori requisiti. Ai fini delle assunzioni di personale presso la Presidenza del Consiglio dei ministri, il Ministero degli affari esteri e della cooperazione internazionale, le amministrazioni che esercitano competenze istituzionali in materia di difesa e sicurezza dello Stato, di polizia, di giustizia ordinaria, amministrativa, contabile e di difesa in giudizio dello Stato, si applica l'[articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35-com6).
+Le amministrazioni individuano, per ciascun profilo professionale, il titolo di studio o l'abilitazione professionale richiesti per accedere al concorso, in coerenza con la disciplina vigente in materia di pubblico impiego e di quanto stabilito nella contrattazione collettiva del relativo comparto, nonche' con il sistema di classificazione adottato dall'amministrazione o dall'ente per le assunzioni, comprese quelle obbligatorie delle categorie protette. Per l'ammissione a particolari profili professionali di qualifica o categoria, gli ordinamenti delle singole amministrazioni possono prescrivere ulteriori requisiti. Ai fini delle assunzioni di personale presso la Presidenza del Consiglio dei ministri, il Ministero degli affari esteri e della cooperazione internazionale, le amministrazioni che esercitano competenze istituzionali in materia di difesa e sicurezza dello Stato, di polizia, di giustizia ordinaria, amministrativa, contabile e di difesa in giudizio dello Stato, si applica l'[articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 7.
 
-Non possono essere assunti nelle pubbliche amministrazioni coloro che siano stati esclusi dall'elettorato politico attivo, nonche' coloro che siano stati destituiti o dispensati dall'impiego presso una pubblica amministrazione per persistente insufficiente rendimento, in forza di norme di settore, o licenziati per le medesime ragioni ovvero per motivi disciplinari ai sensi della vigente normativa di legge o contrattuale, ovvero dichiarati decaduti per aver conseguito la nomina o l'assunzione mediante la produzione di documenti falsi o viziati da nullita' insanabile, nonche' coloro che abbiano riportato condanne con sentenza passata in giudicato per reati che costituiscono un impedimento all'assunzione presso una pubblica amministrazione. Coloro che hanno in corso procedimenti penali, procedimenti amministrativi per l'applicazione di misure di sicurezza o di prevenzione o precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313#art_3), ne danno notizia al momento della candidatura, precisando la data del provvedimento e l'autorita' giudiziaria che lo ha emanato ovvero quella presso la quale penda un eventuale procedimento penale.
+Non possono essere assunti nelle pubbliche amministrazioni coloro che siano stati esclusi dall'elettorato politico attivo, nonche' coloro che siano stati destituiti o dispensati dall'impiego presso una pubblica amministrazione per persistente insufficiente rendimento, in forza di norme di settore, o licenziati per le medesime ragioni ovvero per motivi disciplinari ai sensi della vigente normativa di legge o contrattuale, ovvero dichiarati decaduti per aver conseguito la nomina o l'assunzione mediante la produzione di documenti falsi o viziati da nullita' insanabile, nonche' coloro che abbiano riportato condanne con sentenza passata in giudicato per reati che costituiscono un impedimento all'assunzione presso una pubblica amministrazione. Coloro che hanno in corso procedimenti penali, procedimenti amministrativi per l'applicazione di misure di sicurezza o di prevenzione o precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md), ne danno notizia al momento della candidatura, precisando la data del provvedimento e l'autorita' giudiziaria che lo ha emanato ovvero quella presso la quale penda un eventuale procedimento penale.
 
 8. I requisiti richiesti dal presente articolo sono posseduti sia alla data di scadenza del termine stabilito nel bando di concorso sia all'atto della sottoscrizione del contratto di lavoro.))
 
@@ -126,7 +126,7 @@ Non possono essere assunti nelle pubbliche amministrazioni coloro che siano stat
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 3), comma 1 del presente articolo.
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 3), comma 1 del presente articolo.
 
 ### Art. 3. — (( (Bando di concorso). ))
 
@@ -134,7 +134,7 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 1.
 
-Il bando di concorso e' pubblicato nel Portale unico del reclutamento, di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter). La pubblicazione delle procedure di reclutamento nei siti istituzionali e sul Portale unico del reclutamento esonera le amministrazioni pubbliche, inclusi gli enti locali, dall'obbligo di pubblicazione delle selezioni pubbliche nella Gazzetta Ufficiale.
+Il bando di concorso e' pubblicato nel Portale unico del reclutamento, di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). La pubblicazione delle procedure di reclutamento nei siti istituzionali e sul Portale unico del reclutamento esonera le amministrazioni pubbliche, inclusi gli enti locali, dall'obbligo di pubblicazione delle selezioni pubbliche nella Gazzetta Ufficiale.
 
 2.
 
@@ -144,7 +144,7 @@ Il bando di concorso deve contenere almeno:
                             b)
                                 i requisiti generali richiesti per l'assunzione e i requisiti particolari eventualmente richiesti dalla specifica posizione da coprire;
                             c)
-                                il numero e la tipologia delle prove previste, ivi compreso l'accertamento della conoscenza di almeno una lingua straniera ai sensi dell'[articolo 37, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_37), nonche' la struttura delle prove stesse, le competenze oggetto di verifica, ivi incluse quelle di cui all'articolo 7, comma 8, i punteggi attribuibili e il punteggio minimo richiesto per l'ammissione a eventuali successive fasi concorsuali e per il conseguimento dell'idoneita';
+                                il numero e la tipologia delle prove previste, ivi compreso l'accertamento della conoscenza di almeno una lingua straniera ai sensi dell'[articolo 37, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), nonche' la struttura delle prove stesse, le competenze oggetto di verifica, ivi incluse quelle di cui all'articolo 7, comma 8, i punteggi attribuibili e il punteggio minimo richiesto per l'ammissione a eventuali successive fasi concorsuali e per il conseguimento dell'idoneita';
                             d)
                                 i titoli stabiliti nel bando che danno luogo a precedenza o a preferenza a parita' di punteggio diversi da quelli di cui all'articolo 5, rispetto a questi anche prioritari, e comunque strettamente pertinenti ai posti banditi;
                             e)
@@ -183,17 +183,17 @@ Ciascuna amministrazione, inoltre, deve garantire un servizio di assistenza di t
 
 1.
 
-Alle procedure di concorso si partecipa esclusivamente previa registrazione nel Portale unico del reclutamento, di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter), di seguito denominato Portale, disponibile all'indirizzo www.InPA.gov.it sviluppato dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che ne cura la gestione. La registrazione allo stesso e' gratuita e puo' essere realizzata esclusivamente mediante i sistemi di identificazione SPID, CIE e CNS di cui all'articolo 64, commi 2-quater e 2-nonies, del [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ovvero mediante un'identita' digitale basata su credenziali di livello almeno significativo nell'ambito di un regime di identificazione elettronica oggetto di notifica, conclusa con esito positivo, ai sensi dell'articolo 9 del regolamento (UE), n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014.
+Alle procedure di concorso si partecipa esclusivamente previa registrazione nel Portale unico del reclutamento, di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), di seguito denominato Portale, disponibile all'indirizzo www.InPA.gov.it sviluppato dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che ne cura la gestione. La registrazione allo stesso e' gratuita e puo' essere realizzata esclusivamente mediante i sistemi di identificazione SPID, CIE e CNS di cui all'articolo 64, commi 2-quater e 2-nonies, del [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ovvero mediante un'identita' digitale basata su credenziali di livello almeno significativo nell'ambito di un regime di identificazione elettronica oggetto di notifica, conclusa con esito positivo, ai sensi dell'articolo 9 del regolamento (UE), n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014.
 
 2.
 
-All'atto della registrazione al Portale l'interessato compila il proprio curriculum vitae, con valore di dichiarazione sostitutiva di certificazione ai sensi dell'articolo 46 del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445), indicando:
+All'atto della registrazione al Portale l'interessato compila il proprio curriculum vitae, con valore di dichiarazione sostitutiva di certificazione ai sensi dell'articolo 46 del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), indicando:
                             a)
                                 il cognome, il nome, il codice fiscale;
                             b)
                                 il luogo e la data di nascita;
                             c)
-                                di essere cittadino italiano o di altro Stato membro dell'Unione europea, ai sensi dell'[articolo 38 del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_38), ovvero di essere titolare dello status di rifugiato ovvero dello status di protezione sussidiaria, o di essere cittadino di Paesi terzi in possesso del permesso di soggiorno UE per soggiornanti di lungo periodo e dei requisiti di cui all'articolo 2, comma 2;
+                                di essere cittadino italiano o di altro Stato membro dell'Unione europea, ai sensi dell'[articolo 38 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), ovvero di essere titolare dello status di rifugiato ovvero dello status di protezione sussidiaria, o di essere cittadino di Paesi terzi in possesso del permesso di soggiorno UE per soggiornanti di lungo periodo e dei requisiti di cui all'articolo 2, comma 2;
                             d)
                                 indirizzo di residenza o di domicilio, se diverso dalla residenza, il proprio indirizzo PEC o un domicilio digitale a lui intestato al quale intende ricevere le comunicazioni relative al concorso, unitamente a un recapito telefonico;
                             e)
@@ -207,7 +207,7 @@ All'atto della registrazione al Portale l'interessato compila il proprio curricu
                             i)
                                 le documentate esperienze professionali e gli altri titoli da valutare in base a quanto previsto dal bando e dalla normativa applicabile;
                             l)
-                                di non aver riportato condanne penali con sentenza passata in giudicato e di non avere in corso procedimenti penali, ne' procedimenti amministrativi per l'applicazione di misure di sicurezza o di prevenzione, nonche' precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313#art_3). In caso contrario, devono essere indicate le condanne, i procedimenti a carico e ogni eventuale precedente penale, precisando la data del provvedimento e l'autorita' giudiziaria che lo ha emanato ovvero quella presso la quale penda un eventuale procedimento penale.
+                                di non aver riportato condanne penali con sentenza passata in giudicato e di non avere in corso procedimenti penali, ne' procedimenti amministrativi per l'applicazione di misure di sicurezza o di prevenzione, nonche' precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md). In caso contrario, devono essere indicate le condanne, i procedimenti a carico e ogni eventuale precedente penale, precisando la data del provvedimento e l'autorita' giudiziaria che lo ha emanato ovvero quella presso la quale penda un eventuale procedimento penale.
 
 3.
 
@@ -219,7 +219,7 @@ Non si tiene conto delle iscrizioni che non contengano tutte le indicazioni circ
 
 5.
 
-Ferme restando le conseguenze sotto il profilo penale, civile, amministrativo delle dichiarazioni false o mendaci, ai sensi degli [articoli 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_75) e [76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_76), ivi compresa la perdita degli eventuali benefici conseguiti sulla base di dichiarazioni non veritiere, le amministrazioni che bandiscono le procedure selettive si riservano di verificare la veridicita' delle dichiarazioni rilasciate dai vincitori della procedura.
+Ferme restando le conseguenze sotto il profilo penale, civile, amministrativo delle dichiarazioni false o mendaci, ai sensi degli [articoli 75](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), ivi compresa la perdita degli eventuali benefici conseguiti sulla base di dichiarazioni non veritiere, le amministrazioni che bandiscono le procedure selettive si riservano di verificare la veridicita' delle dichiarazioni rilasciate dai vincitori della procedura.
 
 6.
 
@@ -227,7 +227,7 @@ Ogni comunicazione ai candidati concernente il concorso, compreso il calendario 
 
 7.
 
-Le modalita' di accesso e di utilizzo del Portale da parte delle regioni e degli enti locali sono disciplinate con il decreto di cui all'[articolo 35-ter, comma 4, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter-com4).
+Le modalita' di accesso e di utilizzo del Portale da parte delle regioni e degli enti locali sono disciplinate con il decreto di cui all'[articolo 35-ter, comma 4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 ))
 
@@ -259,13 +259,13 @@ p) minore eta' anagrafica.))
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni recate dal presente decreto si applicano a decorrere dal 1° gennaio 2022, ad esclusione di quelle di cui agli articoli 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 37 che si applicano a decorrere dal 31 dicembre 2023".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni recate dal presente decreto si applicano a decorrere dal 1° gennaio 2022, ad esclusione di quelle di cui agli articoli 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 37 che si applicano a decorrere dal 31 dicembre 2023".
 
 ---------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito con modificazioni dalla [L. 23 luglio 2021, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%202021%20n.%2073%20recante%20misure%20urgenti%20connesse%20allemergenza%20da%20COVID-19%20per%20le%20imprese%20il%20lavoro%20i%20giovani%20la%20salute%20e%20i%20ser_13e7058b54b2.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito con modificazioni dalla [L. 23 luglio 2021, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%202021%20n.%2073%20recante%20misure%20urgenti%20connesse%20allemergenza%20da%20COVID-19%20per%20le%20imprese%20il%20lavoro%20i%20giovani%20la%20salute%20e%20i%20ser_13e7058b54b2.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022".
 
 ### Art. 6. — (( (Equilibrio di genere). ))
 
@@ -341,7 +341,7 @@ Per i titoli non puo' essere attribuito un punteggio complessivo superiore a 10/
 
 3.
 
-Le prove di esame si svolgono secondo le modalita' di cui agli [articoli 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35), [35-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter) e [35-quater del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35quater).
+Le prove di esame si svolgono secondo le modalita' di cui agli [articoli 35](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), [35-ter](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [35-quater del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 ))
 
@@ -355,11 +355,11 @@ La votazione complessiva e' determinata sommando il voto conseguito nella valuta
 
 1.
 
-Le commissioni esaminatrici dei concorsi pubblici sono composte da tecnici esperti nelle materie oggetto del concorso, scelti tra dipendenti di ruolo delle amministrazioni, docenti ed estranei alle medesime. Delle predette commissioni possono fare parte come componenti aggiunti anche specialisti in psicologia e risorse umane. In ogni caso nella composizione delle commissioni esaminatrici si applica il principio della parita' di genere, secondo quanto previsto dall'[articolo 57, comma 1, lettera a), del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_57-com1-leta).
+Le commissioni esaminatrici dei concorsi pubblici sono composte da tecnici esperti nelle materie oggetto del concorso, scelti tra dipendenti di ruolo delle amministrazioni, docenti ed estranei alle medesime. Delle predette commissioni possono fare parte come componenti aggiunti anche specialisti in psicologia e risorse umane. In ogni caso nella composizione delle commissioni esaminatrici si applica il principio della parita' di genere, secondo quanto previsto dall'[articolo 57, comma 1, lettera a), del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 2.
 
-Per i concorsi di cui all'articolo 19 le amministrazioni pubblicano, attraverso il Portale di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter), specifici avvisi per la raccolta delle candidature a componente di commissione. Possono ricorrere a tale modalita' anche le amministrazioni diverse da quelle di cui all'articolo 35, comma 4, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165).
+Per i concorsi di cui all'articolo 19 le amministrazioni pubblicano, attraverso il Portale di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), specifici avvisi per la raccolta delle candidature a componente di commissione. Possono ricorrere a tale modalita' anche le amministrazioni diverse da quelle di cui all'articolo 35, comma 4, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 3.
 
@@ -459,7 +459,7 @@ Le commissioni esaminatrici, alla prima riunione, stabiliscono i criteri e le mo
 
 3.
 
-Gli obblighi di comunicazione ai controinteressati di cui all'[articolo 3, comma 1, del decreto del Presidente della Repubblica 12 aprile 2006, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-12;184#art_3-com1), e all'[articolo 5, comma 5, del decreto legislativo 14 marzo 2013, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33#art_5-com5), si intendono assolti mediante pubblicazione di un apposito avviso sul Portale di cui all'articolo 4 da parte dell'amministrazione cui e' indirizzata l'istanza di accesso agli atti e di accesso civico generalizzato.
+Gli obblighi di comunicazione ai controinteressati di cui all'[articolo 3, comma 1, del decreto del Presidente della Repubblica 12 aprile 2006, n. 184](Regolamento%20recante%20disciplina%20in%20materia%20di%20accesso%20ai%20documenti%20amministrativi.md), e all'[articolo 5, comma 5, del decreto legislativo 14 marzo 2013, n. 33](../Decreti%20Legislativi/Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md), si intendono assolti mediante pubblicazione di un apposito avviso sul Portale di cui all'articolo 4 da parte dell'amministrazione cui e' indirizzata l'istanza di accesso agli atti e di accesso civico generalizzato.
 
 ))
 
@@ -519,7 +519,7 @@ Sono dichiarati vincitori, nei limiti dei posti complessivamente messi a concors
 
 6.
 
-Le graduatorie dei concorsi di cui al presente regolamento, ivi incluse quelle dei concorsi delle regioni e degli enti locali, sono pubblicate contestualmente sul Portale di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35ter), e sul sito dell'amministrazione interessata. Dalla data di tale pubblicazione decorrono i termini per l'impugnativa.
+Le graduatorie dei concorsi di cui al presente regolamento, ivi incluse quelle dei concorsi delle regioni e degli enti locali, sono pubblicate contestualmente sul Portale di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e sul sito dell'amministrazione interessata. Dalla data di tale pubblicazione decorrono i termini per l'impugnativa.
 
 ))
 
@@ -555,7 +555,7 @@ I candidati appartenenti alle categorie previste dalla [legge 12 marzo 1999, n. 
 
 1.
 
-I candidati dichiarati vincitori e gli idonei in caso di scorrimento della graduatoria sono invitati dall'amministrazione procedente ad assumere servizio in via provvisoria, sotto riserva di accertamento del possesso dei titoli e dei requisiti prescritti per l'assunzione, e sono assunti in prova, la cui durata e' definita in sede di contrattazione collettiva. Per i cittadini di Stati terzi, e' obbligatoria la presentazione, prima dell'assunzione, dei documenti comprovanti tutte le dichiarazioni presentate, con le modalita' di cui all'articolo 3, comma 4, del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445), ferma restando la tutela accordata ai rifugiati e ai titolari di protezione sussidiaria.
+I candidati dichiarati vincitori e gli idonei in caso di scorrimento della graduatoria sono invitati dall'amministrazione procedente ad assumere servizio in via provvisoria, sotto riserva di accertamento del possesso dei titoli e dei requisiti prescritti per l'assunzione, e sono assunti in prova, la cui durata e' definita in sede di contrattazione collettiva. Per i cittadini di Stati terzi, e' obbligatoria la presentazione, prima dell'assunzione, dei documenti comprovanti tutte le dichiarazioni presentate, con le modalita' di cui all'articolo 3, comma 4, del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), ferma restando la tutela accordata ai rifugiati e ai titolari di protezione sussidiaria.
 
 2.
 
@@ -567,7 +567,7 @@ Le pubbliche amministrazioni comunicano alla Presidenza del Consiglio dei minist
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) ha disposto (con l'art. 71, comma 1) che "Ai sensi dell'art. 69, comma 1, secondo periodo, a seguito della stipulazione dei contratti collettivi per il quadriennio 1994-1997, cessano di produrre effetti per ciascun ambito di riferimento le norme di cui agli allegati A) e B) al presente decreto, con le decorrenze ivi previste, in quanto contenenti le disposizioni espressamente disapplicate dagli stessi contratti collettivi. Rimangono salvi gli effetti di quanto previsto dallo stesso comma 1 dell'articolo 69, con riferimento all'inapplicabilita' delle norme incompatibili con quanto disposto dalla contrattazione collettiva nazionale".
+Il [D.Lgs. 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) ha disposto (con l'art. 71, comma 1) che "Ai sensi dell'art. 69, comma 1, secondo periodo, a seguito della stipulazione dei contratti collettivi per il quadriennio 1994-1997, cessano di produrre effetti per ciascun ambito di riferimento le norme di cui agli allegati A) e B) al presente decreto, con le decorrenze ivi previste, in quanto contenenti le disposizioni espressamente disapplicate dagli stessi contratti collettivi. Rimangono salvi gli effetti di quanto previsto dallo stesso comma 1 dell'articolo 69, con riferimento all'inapplicabilita' delle norme incompatibili con quanto disposto dalla contrattazione collettiva nazionale".
 
 ### Art. 18. — (( (Compensi per le commissioni di concorso). ))
 
@@ -585,7 +585,7 @@ I compensi per i componenti interni ed esterni delle commissioni e delle sottoco
 
 1.
 
-Le regioni e gli enti locali si conformano alle disposizioni del presente regolamento ai sensi dell'[articolo 70, comma 13, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_70-com13).
+Le regioni e gli enti locali si conformano alle disposizioni del presente regolamento ai sensi dell'[articolo 70, comma 13, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 ))
 
@@ -599,11 +599,11 @@ Capo II
 
 1.
 
-Il reclutamento dei dirigenti e delle figure professionali comuni a tutte le amministrazioni pubbliche di cui all'articolo 35, comma 4, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), si svolge mediante concorsi pubblici unici, nonche' ai sensi di quanto previsto agli articoli 28 e 28-bis del medesimo decreto legislativo, nel rispetto dei principi di imparzialita', trasparenza e buon andamento, nonche' dei principi selettivi, delle finalita' e delle modalita', in quanto compatibili, di cui al capo I.
+Il reclutamento dei dirigenti e delle figure professionali comuni a tutte le amministrazioni pubbliche di cui all'articolo 35, comma 4, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), si svolge mediante concorsi pubblici unici, nonche' ai sensi di quanto previsto agli articoli 28 e 28-bis del medesimo decreto legislativo, nel rispetto dei principi di imparzialita', trasparenza e buon andamento, nonche' dei principi selettivi, delle finalita' e delle modalita', in quanto compatibili, di cui al capo I.
 
 2.
 
-Con le modalita' di cui all'articolo 35, comma 4, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), o previste dalla normativa vigente, le amministrazioni e gli enti ivi indicati possono essere autorizzati dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri a svolgere direttamente i concorsi pubblici per specifiche professionalita'.
+Con le modalita' di cui all'articolo 35, comma 4, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), o previste dalla normativa vigente, le amministrazioni e gli enti ivi indicati possono essere autorizzati dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri a svolgere direttamente i concorsi pubblici per specifiche professionalita'.
 
 3.
 
@@ -623,7 +623,7 @@ La commissione esaminatrice e le sottocommissioni possono svolgere i propri lavo
 
 7.
 
-Per le procedure di cui al presente articolo, i termini previsti dall'[articolo 34-bis, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_34bis-com2) e [4, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_34bis-com4), sono stabiliti, rispettivamente, in otto e venti giorni.
+Per le procedure di cui al presente articolo, i termini previsti dall'[articolo 34-bis, commi 2](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), sono stabiliti, rispettivamente, in otto e venti giorni.
 
 8.
 
@@ -655,7 +655,7 @@ I concorsi unici sono organizzati dal Dipartimento della funzione pubblica della
 
 2.
 
-Le amministrazioni pubbliche possono assumere personale solo attingendo alle nuove graduatorie di concorso predisposte presso il Dipartimento della funzione pubblica, fino al loro esaurimento, provvedendo a programmare le quote annuali di assunzioni. Restano ferme le disposizioni di cui all'[articolo 35, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35-com3) e [6, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_35-com6), e quelle in materia di corso-concorso bandito dalla Scuola nazionale dell'amministrazione ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 16 aprile 2013, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-16;70).
+Le amministrazioni pubbliche possono assumere personale solo attingendo alle nuove graduatorie di concorso predisposte presso il Dipartimento della funzione pubblica, fino al loro esaurimento, provvedendo a programmare le quote annuali di assunzioni. Restano ferme le disposizioni di cui all'[articolo 35, commi 3](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [6, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e quelle in materia di corso-concorso bandito dalla Scuola nazionale dell'amministrazione ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 16 aprile 2013, n. 70](Regolamento%20recante%20riordino%20del%20sistema%20di%20reclutamento%20e%20formazione%20dei%20dipendenti%20pubblici%20e%20delle%20Scuole%20pubbliche%20di%20formazione%20a%20norma%20dellarticolo%2011%20del%20decreto-legge%206%20luglio%20201_e23ff7df6cd9.md).
 
 ))
 
@@ -857,7 +857,7 @@ Le assunzioni obbligatorie presso le amministrazioni ed enti pubblici dei sogget
 
 1.
 
-I soggetti appartenenti alle categorie protette presentano domanda di iscrizione al centro per l'impiego ai sensi dell'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8), dichiarando il possesso dei requisiti generali di ammissione nelle amministrazioni pubbliche previsti dalla normativa vigente, secondo quanto previsto dal [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445).
+I soggetti appartenenti alle categorie protette presentano domanda di iscrizione al centro per l'impiego ai sensi dell'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8), dichiarando il possesso dei requisiti generali di ammissione nelle amministrazioni pubbliche previsti dalla normativa vigente, secondo quanto previsto dal [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
 
 2.
 

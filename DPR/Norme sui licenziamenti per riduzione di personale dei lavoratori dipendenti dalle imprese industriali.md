@@ -31,7 +31,7 @@ I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 3-8 febbraio 1966, n. 8 (in G.U. 1a s.s. 12/02/1966, n. 38) ha dichiarato l'illegittimita' costituzionale "del [D.P.R. 14 luglio 1960, n. 1019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-14;1019), concernente norme sui licenziamenti per riduzione di personale dei lavoratori dipendenti dalle imprese industriali, nella parte in cui prescrive l'obbligo di un previo procedimento di conciliazione fra le organizzazioni sindacali competenti, nel caso in cui il datore di lavoro dovesse ravvisare la necessita' di attuare quella riduzione"
+La Corte Costituzionale con sentenza 3-8 febbraio 1966, n. 8 (in G.U. 1a s.s. 12/02/1966, n. 38) ha dichiarato l'illegittimita' costituzionale "del [D.P.R. 14 luglio 1960, n. 1019](Norme%20sui%20licenziamenti%20per%20riduzione%20di%20personale%20dei%20lavoratori%20dipendenti%20dalle%20imprese%20industriali.md), concernente norme sui licenziamenti per riduzione di personale dei lavoratori dipendenti dalle imprese industriali, nella parte in cui prescrive l'obbligo di un previo procedimento di conciliazione fra le organizzazioni sindacali competenti, nel caso in cui il datore di lavoro dovesse ravvisare la necessita' di attuare quella riduzione"
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo o di farlo osservare.
 

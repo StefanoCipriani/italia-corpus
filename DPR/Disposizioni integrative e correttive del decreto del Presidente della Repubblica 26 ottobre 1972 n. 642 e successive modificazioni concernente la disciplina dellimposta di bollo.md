@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Vista la [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -28,13 +28,13 @@ Vista la [legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 13 novembre 1978, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;765);
 
-Vista la [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146);
+Vista la [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md);
 
 Vista la [legge 1 dicembre 1981, n. 692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20ottobre%201981%20n.%20546%20recante%20disposizioni%20in%20materia%20di%20imposte%20di%20bollo%20e%20sugli%20atti%20e%20formalita%20relativi%20ai%20trasferimenti%20degli_639277c7692f.md);
 
-Ritenuta la necessita' di emanare, ai sensi dell'art. 17 della suddetta [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md) e successive modificazioni, concernente la disciplina dell'imposta di bollo;
+Ritenuta la necessita' di emanare, ai sensi dell'art. 17 della suddetta [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md) e successive modificazioni, concernente la disciplina dell'imposta di bollo;
 
-Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1982;
 
@@ -257,7 +257,7 @@ L'art. 39 e' sostituito dal seguente:
 ## Art. 26.
 
 L'art. 40 e' sostituito dal seguente:
- "Disposizioni transitorie. - Salvo quanto disposto nella tariffa e nella tabella allegate al presente decreto, le esenzioni e le agevolazioni nonche' i regimi sostitutivi in materia di bollo, previsti dalle leggi in vigore alla data del 31 dicembre 1972, si applicano fino al termine che sara' stabilito con le disposizioni da emanare ai sensi del [numero 6 dell'art. 9 o del sesto comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_9-com6-num6) dell'[art. 15 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_15).
+ "Disposizioni transitorie. - Salvo quanto disposto nella tariffa e nella tabella allegate al presente decreto, le esenzioni e le agevolazioni nonche' i regimi sostitutivi in materia di bollo, previsti dalle leggi in vigore alla data del 31 dicembre 1972, si applicano fino al termine che sara' stabilito con le disposizioni da emanare ai sensi del [numero 6 dell'art. 9 o del sesto comma](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) dell'[art. 15 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md).
  Per le cambiali di cui al [primo comma dell'art. 41 della legge 28 febbraio 1967, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-28;131#art_41-com1), rimangono ferme le disposizioni di cui al secondo comma dello stesso articolo".
 
 ## Art. 27.
@@ -1691,7 +1691,7 @@ Alla tabella allegato B annessa al [decreto del Presidente della Repubblica 26 o
  Repertori, libri, registri ed elenchi prescritti dalle leggi tributarie ad esclusione dei repertori tenuti dai notai.
  Atti e copie relativi al procedimento esecutivo per la riscossione dei tributi, dei contributi e delle entrate extratributarie dello Stato, delle regioni, delle province, dei comuni e delle istituzioni pubbliche di beneficenza, dei contributi e delle entrate extratributarie di qualsiasi ente autorizzato per legge ad avvalersi dell'opera degli esattori e dei ricevitori con le forme ed i privilegi stabiliti per la riscossione delle imposte dirette.
  Istanze di rimborso e di sospensione del pagamento di qualsiasi tributo, nonche' documenti allegati alle istanze medesime.
- Delegazioni di pagamento e atti di delega di cui all'[art. 3 della legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843#art_3)".
+ Delegazioni di pagamento e atti di delega di cui all'[art. 3 della legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md)".
 
  Art. 6. - e' sostituito dal seguente:
  "Fatture ed altri documenti di cui agli articoli 19 e 20 della tariffa riguardanti il pagamento di corrispettivi di operazioni assoggettate ad imposta sul valore aggiunto.

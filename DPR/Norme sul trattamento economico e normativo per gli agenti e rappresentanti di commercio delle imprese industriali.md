@@ -35,7 +35,7 @@ I rapporti costituiti per le attivita' per le quali sono stati stipulati l'accor
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 24 giugno-9 luglio 1970, n. 127 (in G.U. 1a s.s. 15/7/1970, n. 177)ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [decreto del Presidente della Repubblica 16 gennaio 1961, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-16;145), nella parte in cui rende obbligatorio erga omnes il tentativo di conciliazione preveduto dall'art. 14 dell'accordo economico collettivo del 20 giugno 1956, per la disciplina del rapporto d'agenzia e rappresentanza commerciale".
+La Corte Costituzionale con sentenza 24 giugno-9 luglio 1970, n. 127 (in G.U. 1a s.s. 15/7/1970, n. 177)ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [decreto del Presidente della Repubblica 16 gennaio 1961, n. 145](Norme%20sul%20trattamento%20economico%20e%20normativo%20per%20gli%20agenti%20e%20rappresentanti%20di%20commercio%20delle%20imprese%20industriali.md), nella parte in cui rende obbligatorio erga omnes il tentativo di conciliazione preveduto dall'art. 14 dell'accordo economico collettivo del 20 giugno 1956, per la disciplina del rapporto d'agenzia e rappresentanza commerciale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

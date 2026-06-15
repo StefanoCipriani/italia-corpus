@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395), ed in particolare il comma 1 dell'art. 7;
 
-Visto l'[art. 23 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_23);
+Visto l'[art. 23 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md);
 
 Visto il regolamento sul servizio territoriale e di presidio, approvato con decreto del Ministro della difesa in data 19 maggio 1973;
 

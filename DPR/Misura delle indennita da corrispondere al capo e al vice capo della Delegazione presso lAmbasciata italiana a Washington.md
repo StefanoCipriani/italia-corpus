@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 5, comma secondo, della legge 22 novembre 1954, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-22;1127#art_5-com2), con il quale il Governo e' stato delegato a determinare per il periodo di due anni, a decorrere dalla entrata in vigore della predetta legge, le indennita' da corrispondere al capo e al vice-capo della Delegazione costituita presso l'Ambasciata italiana a Washington;
+Visto l'[art. 5, comma secondo, della legge 22 novembre 1954, n. 1127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Specificazione%20delle%20attribuzioni%20della%20Delegazione%20presso%20lAmbasciata%20italiana%20a%20Washington.md), con il quale il Governo e' stato delegato a determinare per il periodo di due anni, a decorrere dalla entrata in vigore della predetta legge, le indennita' da corrispondere al capo e al vice-capo della Delegazione costituita presso l'Ambasciata italiana a Washington;
 
 Sentito il Consiglio dei Ministri;
 

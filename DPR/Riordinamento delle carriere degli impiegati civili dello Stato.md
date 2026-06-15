@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
+Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
 
 Udito il parere della Commissione parlamentare di cui all'[articolo 21 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_21);
 
@@ -44,7 +44,7 @@ Il concorso e' indetto con decreto del Ministro da pubblicarsi nella Gazzetta Uf
 
 AGGIORNAMENTO (2a)
 
-Il [D.P.R. 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 4, comma 2) che "In deroga all'[art. 2 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_2), il termine per la presentazione delle domande di ammissione al concorso e' di venti giorni dalla data di pubblicazione del bando, nella Gazzetta Ufficiale" .
+Il [D.P.R. 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 4, comma 2) che "In deroga all'[art. 2 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), il termine per la presentazione delle domande di ammissione al concorso e' di venti giorni dalla data di pubblicazione del bando, nella Gazzetta Ufficiale" .
 
 ### Art. 3. — (Esami di ammissione)
 
@@ -65,7 +65,7 @@ Gli esami dei concorsi di ammissione in carriera consistono:
 
 AGGIORNAMENTO (2a)
 
-Il [D.P.R. 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 6, comma 3) che "In deroga all'[art. 3, primo comma, lettera c), del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_3-com1-letc), per i concorsi di cui al presente decreto e' prevista un'unica prova attitudinale consistente in una serie di esami obiettivi a risposta sintetica".
+Il [D.P.R. 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 6, comma 3) che "In deroga all'[art. 3, primo comma, lettera c), del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), per i concorsi di cui al presente decreto e' prevista un'unica prova attitudinale consistente in una serie di esami obiettivi a risposta sintetica".
 
 ### Art. 4. — (Commissioni esaminatrici)
 
@@ -77,7 +77,7 @@ I componenti delle commissioni esaminatrici, ad esclusione del presidente, posso
 
 AGGIORNAMENTO (11)
 
-La [L. 22 dicembre 1981, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-22;797) ha disposto (con l'art. 10, comma 2) che "Per i concorsi indetti dalle Aziende postelegrafoniche il numero minimo dei candidati, previsto dai [commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_4-com2) e [terzo dell'articolo 4 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_4-com3), per l'integrazione delle commissioni esaminatrici, e' ridotto rispettivamente a 500 ed a 1.000 unita'".
+La [L. 22 dicembre 1981, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-22;797) ha disposto (con l'art. 10, comma 2) che "Per i concorsi indetti dalle Aziende postelegrafoniche il numero minimo dei candidati, previsto dai [commi secondo](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [terzo dell'articolo 4 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), per l'integrazione delle commissioni esaminatrici, e' ridotto rispettivamente a 500 ed a 1.000 unita'".
 
 ### Art. 5. — (Concorsi unici)
 
@@ -103,7 +103,7 @@ Un terzo dei posti recati in aumento nei singoli ruoli organici per effetto di n
 
 AGGIORNAMENTO (13)
 
-La [L. 5 dicembre 1988, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521) ha disposto (con l'art. 17, comma 1) che "Fatto salvo quanto previsto dall'articolo 16, alla copertura dei posti recati in aumento nei diversi ruoli del Corpo nazionale dei vigili del fuoco, nonche' di quelli comunque vacanti alla data di entrata in vigore della presente legge e che si renderanno disponibili entro la data prevista per il completamento dell'organico di cui all'articolo 9, si provvede secondo le procedure previste dall'articolo 14, mediante pubblici concorsi, in deroga alle disposizioni di cui all'[articolo 8 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_8)".
+La [L. 5 dicembre 1988, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521) ha disposto (con l'art. 17, comma 1) che "Fatto salvo quanto previsto dall'articolo 16, alla copertura dei posti recati in aumento nei diversi ruoli del Corpo nazionale dei vigili del fuoco, nonche' di quelli comunque vacanti alla data di entrata in vigore della presente legge e che si renderanno disponibili entro la data prevista per il completamento dell'organico di cui all'articolo 9, si provvede secondo le procedure previste dall'articolo 14, mediante pubblici concorsi, in deroga alle disposizioni di cui all'[articolo 8 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 9. — (Accesso alle carriere direttive)
 
@@ -165,7 +165,7 @@ La nomina direttore di sezione, o qualifiche equiparate, si consegue mediante co
 ----------------
  
 AGGIORNAMENTO (9a) 
- La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 155, comma 4) che "I concorsi per passaggi di carriera previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_16), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_21) e [27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_27), sono portati a termine se gia' indetti entro la data di entrata in vigore della presente legge".
+ La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 155, comma 4) che "I concorsi per passaggi di carriera previsti dagli [articoli 16](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), [21](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sono portati a termine se gia' indetti entro la data di entrata in vigore della presente legge".
 
 ### Art. 17. — (Promozione alla qualifica di direttore di divisione)
 
@@ -208,7 +208,7 @@ La nomina a segretario principale, o qualifiche equiparate si consegue mediante 
 
 AGGIORNAMENTO (9a)
 
-La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 155, comma 4) che "I concorsi per passaggi di carriera previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_16), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_21) e [27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_27), sono portati a termine se gia' indetti entro la data di entrata in vigore della presente legge".
+La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 155, comma 4) che "I concorsi per passaggi di carriera previsti dagli [articoli 16](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), [21](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sono portati a termine se gia' indetti entro la data di entrata in vigore della presente legge".
 
 ### Art. 22. — (Promozione a segretario capo)
 
@@ -274,7 +274,7 @@ La nomina a coadiutore principale, o qualifiche equiparate, del personale esecut
 
 AGGIORNAMENTO (9a)
 
-La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 155, comma 4) che "I concorsi per passaggi di carriera previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_16), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_21) e [27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_27), sono portati a termine se gia' indetti entro la data di entrata in vigore della presente legge".
+La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 155, comma 4) che "I concorsi per passaggi di carriera previsti dagli [articoli 16](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), [21](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sono portati a termine se gia' indetti entro la data di entrata in vigore della presente legge".
 
 ### Art. 28. — (Promozione alla qualifica di coadiutore superiore)
 
@@ -330,13 +330,13 @@ Il personale nominato all'impiego a seguito dei concorsi circoscrizionali di cui
 
 AGGIORNAMENTO (12)
 
-La [L. 9 febbraio 1982, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;33) ha disposto (con l'art. 3) che "Per i segretari giudiziari assunti in servizio prima dell'entrata in vigore della presente legge, il vincolo quinquennale previsto dall'[articolo 33 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_33), e' ridotto a tre anni ai fini del trasferimento ad altri distretti".
+La [L. 9 febbraio 1982, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;33) ha disposto (con l'art. 3) che "Per i segretari giudiziari assunti in servizio prima dell'entrata in vigore della presente legge, il vincolo quinquennale previsto dall'[articolo 33 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), e' ridotto a tre anni ai fini del trasferimento ad altri distretti".
 
 ----------------
 
 AGGIORNAMENTO (14)
 
-La [L. 16 ottobre 1991, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-16;321) ha disposto (con l'art. 12, comma 1) che "Per il personale del Ministero di grazia e giustizia in servizio alla data di entrata in vigore della presente legge il vincolo previsto dall'[articolo 33 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_33), e' ridotto a tre anni".
+La [L. 16 ottobre 1991, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-16;321) ha disposto (con l'art. 12, comma 1) che "Per il personale del Ministero di grazia e giustizia in servizio alla data di entrata in vigore della presente legge il vincolo previsto dall'[articolo 33 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), e' ridotto a tre anni".
 
 ### Art. 34. — (Personale comandato)
 
@@ -374,7 +374,7 @@ Il rapporto informativo per l'impiegato della carriera direttiva e' redatto in b
 
 AGGIORNAMENTO (9a)
 
-La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 55, comma 1) che "Nei riguardi del personale non docente di ruolo e non di ruolo sono abrogate le disposizioni concernenti i rapporti informativi e i giudizi complessivi, di cui agli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_36) e [37 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_37)".
+La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 55, comma 1) che "Nei riguardi del personale non docente di ruolo e non di ruolo sono abrogate le disposizioni concernenti i rapporti informativi e i giudizi complessivi, di cui agli [articoli 36](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [37 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 37. — (Giudizio complessivo)
 
@@ -387,7 +387,7 @@ L'organo competente ad esprimere il giudizio complessivo, fermo restando l'obbli
 ----------------
  
 AGGIORNAMENTO (9a) 
- La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 55, comma 1) che "Nei riguardi del personale non docente di ruolo e non di ruolo sono abrogate le disposizioni concernenti i rapporti informativi e i giudizi complessivi, di cui agli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_36) e [37 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_37)".
+ La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 55, comma 1) che "Nei riguardi del personale non docente di ruolo e non di ruolo sono abrogate le disposizioni concernenti i rapporti informativi e i giudizi complessivi, di cui agli [articoli 36](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [37 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 38. — (Scrutinio per merito comparativo)
 
@@ -420,9 +420,9 @@ Ai fini del computo dell'anzianita' di servizio richiesta per l'ammissione agli 
 
  
 AGGIORNAMENTO (17) 
- La [L. 30 settembre 2004, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-09-30;252) ha disposto (con l'art. 2, comma 1, lettera c)) che "Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per la disciplina dei contenuti del rapporto di impiego del personale di cui all'articolo 1 e del relativo trattamento economico, secondo i seguenti principi e criteri direttivi: 
+ La [L. 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md) ha disposto (con l'art. 2, comma 1, lettera c)) che "Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per la disciplina dei contenuti del rapporto di impiego del personale di cui all'articolo 1 e del relativo trattamento economico, secondo i seguenti principi e criteri direttivi: 
  [...]c) nell'ambito dell'operazione di riordino di cui alla lettera b), numero 2), revisione, in particolare, del ruolo del personale attualmente inquadrato nelle qualifiche dirigenziali e nei profili professionali del settore operativo richiedenti, ai fini dell'accesso, la laurea specialistica ed eventuali titoli abilitativi, prevedendo: 
- 1) l'accesso alla dirigenza riservato al personale del Corpo nazionale dei vigili del fuoco in possesso dei requisiti di legge attualmente previsti per l'accesso alla dirigenza e proveniente da qualifiche per l'accesso alle quali e' richiesto un concorso esterno riservato ai soggetti in possesso di lauree specialistiche ed eventuali titoli abilitativi, necessari per l'esercizio di funzioni connesse ai compiti operativi, con conseguente esclusione di ogni possibilita' di immissione dall'esterno e abrogazione dell'[articolo 41 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_41)".
+ 1) l'accesso alla dirigenza riservato al personale del Corpo nazionale dei vigili del fuoco in possesso dei requisiti di legge attualmente previsti per l'accesso alla dirigenza e proveniente da qualifiche per l'accesso alle quali e' richiesto un concorso esterno riservato ai soggetti in possesso di lauree specialistiche ed eventuali titoli abilitativi, necessari per l'esercizio di funzioni connesse ai compiti operativi, con conseguente esclusione di ogni possibilita' di immissione dall'esterno e abrogazione dell'[articolo 41 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 42. — (Valutazione del servizio prestato nei reparti combattenti)
 
@@ -653,7 +653,7 @@ Il personale della carriera di concetto del ruolo di rieducazione assume le segu
 
 ### Art. 59. — (Coadiutori dattilografi giudiziari)
 
-Fino alla revisione dei ruoli organici prevista dall'[art. 25 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25) e successive modificazioni ed integrazioni, il personale del ruolo dei coadiutori dattilografi giudiziari svolge anche le mansioni indicate nell'art. 24, comma primo, del presente decreto.
+Fino alla revisione dei ruoli organici prevista dall'[art. 25 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md) e successive modificazioni ed integrazioni, il personale del ruolo dei coadiutori dattilografi giudiziari svolge anche le mansioni indicate nell'art. 24, comma primo, del presente decreto.
 
 ### Art. 60. — (Carriera ausiliaria dell'Amministrazione della giustizia)
 
@@ -976,7 +976,7 @@ Al personale, assunto prima del 16 maggio 1956 nella tabella C del [decreto legi
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748) ha disposto (con l'art. 64, comma 3) che "Il personale contemplato nell'[art. 92 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_92) che, alla data di entrata in vigore del presente decreto, sia in godimento dello stipendio corrispondente ai parametri 387 e 426 e' inquadrato, in soprannumero, con effetto dalla data medesima, nella qualifica di direttore capo del ruolo ad esaurimento degli uffici del lavoro e della massima occupazione di cui alla tabella D annessa alla [legge 22 luglio 1961, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-22;628), quale modificata dalla [legge 27 ottobre 1965, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-10-27;1206)".
+Il [D.P.R. 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md) ha disposto (con l'art. 64, comma 3) che "Il personale contemplato nell'[art. 92 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) che, alla data di entrata in vigore del presente decreto, sia in godimento dello stipendio corrispondente ai parametri 387 e 426 e' inquadrato, in soprannumero, con effetto dalla data medesima, nella qualifica di direttore capo del ruolo ad esaurimento degli uffici del lavoro e della massima occupazione di cui alla tabella D annessa alla [legge 22 luglio 1961, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-22;628), quale modificata dalla [legge 27 ottobre 1965, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-10-27;1206)".
 
 ## MINISTERO DELLA SANITA'
 
@@ -1703,7 +1703,7 @@ _________
 
 AGGIORNAMENTO (9)
 
-La [L. 1° giugno 1977, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;276) ha disposto (con l'art. 2) che "In correlazione con la variazione di cui al precedente articolo 1, i contingenti di posti delle seguenti carriere del personale dell'Azienda autonoma delle ferrovie dello Stato di cui all'[articolo 103 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_103), e successive variazioni, sono modificati come segue: 
+La [L. 1° giugno 1977, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;276) ha disposto (con l'art. 2) che "In correlazione con la variazione di cui al precedente articolo 1, i contingenti di posti delle seguenti carriere del personale dell'Azienda autonoma delle ferrovie dello Stato di cui all'[articolo 103 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), e successive variazioni, sono modificati come segue: 
  
  
 
@@ -2003,7 +2003,7 @@ Ispettore e consigliere. . . . . . . . . . . . . . . . . > 24 / ---
 
 AGGIORNAMENTO (6b)
 
-La [L. 12 agosto 1974, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-12;370) ha disposto (con l'art. 14, comma 3) che "Le dotazioni uniche delle qualifiche iniziali dei ruoli organici delle carriere direttive di cui alle tabelle IV, V, VI e VII dell'[articolo 113 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_113), rideterminate ai sensi dell'[articolo 60 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748#art_60), sono complessivamente ridotte di un numero di posti tale da mantenere immutata l'attuale spesa globale, tenuto conto delle variazioni di organico di cui ai precedenti commi".
+La [L. 12 agosto 1974, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-12;370) ha disposto (con l'art. 14, comma 3) che "Le dotazioni uniche delle qualifiche iniziali dei ruoli organici delle carriere direttive di cui alle tabelle IV, V, VI e VII dell'[articolo 113 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), rideterminate ai sensi dell'[articolo 60 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), sono complessivamente ridotte di un numero di posti tale da mantenere immutata l'attuale spesa globale, tenuto conto delle variazioni di organico di cui ai precedenti commi".
 
 ### Art. 114. — (Carriere del personale degli uffici)
 
@@ -2240,13 +2240,13 @@ Conducente e scambista. . . . . . . . . . . . . . . . . . 1.267
 
 AGGIORNAMENTO (4)
 
-La [L. 27 ottobre 1973, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-10-27;674) ha disposto (con l'art. 1) che "Con decreto del Presidente della Repubblica, su proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, sentito il consiglio di amministrazione delle poste e delle telecomunicazioni, possono essere apportate una volta sola, entro 4 mesi dalla data di entrata in vigore della presente legge, alle dotazioni organiche delle tabelle XIV, XIX e XXI dell'[articolo 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_115) e della tabella XV dell'articolo 125 dello stesso decreto aumenti fino ad un massimo del quattro per cento".
+La [L. 27 ottobre 1973, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-10-27;674) ha disposto (con l'art. 1) che "Con decreto del Presidente della Repubblica, su proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, sentito il consiglio di amministrazione delle poste e delle telecomunicazioni, possono essere apportate una volta sola, entro 4 mesi dalla data di entrata in vigore della presente legge, alle dotazioni organiche delle tabelle XIV, XIX e XXI dell'[articolo 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e della tabella XV dell'articolo 125 dello stesso decreto aumenti fino ad un massimo del quattro per cento".
 
 ---------------
 
 AGGIORNAMENTO (8a)
 
-Il D.P.R. 26 marzo 1974 (in G.U. 19/07/1974, n. 189) ha disposto (con l'art. 1, comma 1) che "Le dotazioni organiche delle tabelle XIV, XIX e XXI dell'[art. 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_115) e della tabella XV dell'art. 125 dello stesso decreto sono aumentate nella misura del quattro per cento e portate, rispettivamente, da posti 31.582, 42.576, 4.223 e 217 a posti 32.845, 44.279, 4.391 e 225". 
+Il D.P.R. 26 marzo 1974 (in G.U. 19/07/1974, n. 189) ha disposto (con l'art. 1, comma 1) che "Le dotazioni organiche delle tabelle XIV, XIX e XXI dell'[art. 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e della tabella XV dell'art. 125 dello stesso decreto sono aumentate nella misura del quattro per cento e portate, rispettivamente, da posti 31.582, 42.576, 4.223 e 217 a posti 32.845, 44.279, 4.391 e 225". 
  Ha inoltre disposto (con l'art. 1, comma 3) che "In conseguenza le dotazioni delle tabelle di cui ai precedenti commi sono le seguenti: 
  AMMINISTRAZIONE AUTONOMA 
  DELLE POSTE E DELLE TELECOMUNICAZIONI 
@@ -2261,7 +2261,7 @@ Il D.P.R. 26 marzo 1974 (in G.U. 19/07/1974, n. 189) ha disposto (con l'art. 1, 
 
 AGGIORNAMENTO (11a)
 
-Il D.P.C.M. 3 giugno 1976 (in G.U. 03/07/1976, n. 173) ha disposto (con l'art. 1, comma 1) che "Le dotazioni organiche delle tabelle XIV e XIX, di cui all'[art. 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_115), sono aumentate nella misura, rispettivamente, del due e cinquantaquattro per cento e del tre e settantuno per cento e portate, rispettivamene, da posti n. 32.845 e n. 44.979 a posti n. 33.680 e n. 46.649". 
+Il D.P.C.M. 3 giugno 1976 (in G.U. 03/07/1976, n. 173) ha disposto (con l'art. 1, comma 1) che "Le dotazioni organiche delle tabelle XIV e XIX, di cui all'[art. 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sono aumentate nella misura, rispettivamente, del due e cinquantaquattro per cento e del tre e settantuno per cento e portate, rispettivamene, da posti n. 32.845 e n. 44.979 a posti n. 33.680 e n. 46.649". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le dotazioni delle tabelle XIV e XIX, di cui al precedente articolo, sono le seguenti: 
  Tabella XIV 
  Parte di provvedimento in formato grafico
@@ -2743,7 +2743,7 @@ Totale . . . . . . . . . . . . . . . . . . . . . . . . . . 217 (4) ((8a))
 
 AGGIORNAMENTO (4)
 
-La [L. 27 ottobre 1973, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-10-27;674) ha disposto (con l'art. 1) che "Con decreto del Presidente della Repubblica, su proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, sentito il consiglio di amministrazione delle poste e delle telecomunicazioni, possono essere apportate una volta sola, entro 4 mesi dalla data di entrata in vigore della presente legge, alle dotazioni organiche delle tabelle XIV, XIX e XXI dell'[articolo 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_115) e della tabella XV dell'articolo 125 dello stesso decreto aumenti fino ad un massimo del quattro per cento".
+La [L. 27 ottobre 1973, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-10-27;674) ha disposto (con l'art. 1) che "Con decreto del Presidente della Repubblica, su proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, sentito il consiglio di amministrazione delle poste e delle telecomunicazioni, possono essere apportate una volta sola, entro 4 mesi dalla data di entrata in vigore della presente legge, alle dotazioni organiche delle tabelle XIV, XIX e XXI dell'[articolo 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e della tabella XV dell'articolo 125 dello stesso decreto aumenti fino ad un massimo del quattro per cento".
 
 --------------
 
@@ -2755,7 +2755,7 @@ La [L. 29 novembre 1973, n. 809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (8a)
 
-Il D.P.R. 26 marzo 1974 (in G.U. 19/07/1974, n. 189) ha disposto (con l'art. 1, comma 1) che "Le dotazioni organiche delle tabelle XIV, XIX e XXI dell'[art. 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_115) e della tabella XV dell'art. 125 dello stesso decreto sono aumentate nella misura del quattro per cento e portate, rispettivamente, da posti 31.582, 42.576, 4.223 e 217 a posti 32.845, 44.279, 4.391 e 225". 
+Il D.P.R. 26 marzo 1974 (in G.U. 19/07/1974, n. 189) ha disposto (con l'art. 1, comma 1) che "Le dotazioni organiche delle tabelle XIV, XIX e XXI dell'[art. 115 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e della tabella XV dell'art. 125 dello stesso decreto sono aumentate nella misura del quattro per cento e portate, rispettivamente, da posti 31.582, 42.576, 4.223 e 217 a posti 32.845, 44.279, 4.391 e 225". 
  Ha inoltre disposto (con l'art. 1, comma 3) che in conseguenza del suindicato aumento la dotazione organica della tabella XV e' la seguente: 
  TABELLA XV 
  Parte di provvedimento in formato grafico
@@ -2799,7 +2799,7 @@ Il personale dei ruoli organici di cui alle tabelle D, E, F, G, H, I, M, N, O e 
 
 AGGIORNAMENTO (1)
 
-La [L. 14 agosto 1971, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-14;736) ha disposto (con l'art. 5) che i quadri di corrispondenza stabiliti dall'articolo 128 per le tabelle XIV e XV del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077), devono intendersi, a tutti gli effetti, rettificati come segue: 
+La [L. 14 agosto 1971, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-14;736) ha disposto (con l'art. 5) che i quadri di corrispondenza stabiliti dall'articolo 128 per le tabelle XIV e XV del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), devono intendersi, a tutti gli effetti, rettificati come segue: 
  
  
  QUALIFICHE DI INQUADRAMENTO 
@@ -2854,17 +2854,17 @@ CAPO VI
 
 ### Art. 131. — (Carriere per classi di stipendio)
 
-Le carriere che si sviluppano per classi di stipendio, nonche' le relative qualifiche e permanenze, risultano dalle disposizioni contenute nel decreto del Presidente della Repubblica concernente il trattamento economico dei dipendenti dello Stato emanato in attuazione della delega di cui all'[art. 10 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_10), e successive modificazioni.
+Le carriere che si sviluppano per classi di stipendio, nonche' le relative qualifiche e permanenze, risultano dalle disposizioni contenute nel decreto del Presidente della Repubblica concernente il trattamento economico dei dipendenti dello Stato emanato in attuazione della delega di cui all'[art. 10 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e successive modificazioni.
 
 ### Art. 132. — (Ruoli organici)
 
 Per la prima applicazione del presente decreto, nei ruoli in cui esistono personali in soprannumero nelle qualifiche inferiori a quella terminale le dotazioni organiche risultanti dall'applicazione delle percentuali del dieci e del quarantacinque per cento previste, rispettivamente, per la terza e la seconda qualifica delle carriere di concetto ed esecutive, e la percentuale del trenta per cento prevista per la seconda qualifica delle carriere ausiliarie, vengono proporzionalmente aumentate. Tale aumento verra' riassorbito in ragione di un decimo delle vacanze future, a partire dalla qualifica meno elevata. La disposizione del presente comma si applica anche ai ruoli organici la cui dotazione risulta "determinata nei precedenti articoli. 
  Nulla e' innovato per quanto concerne il riassorbimento di eventuali posti in soprannumero diversi da quelli previsti nel precedente comma esistenti in tutte le carriere alla data di entrata in vigore del presente decreto. 
- I contingenti dei coadiutori e coadiutori principali e dei coadiutori dattilografi saranno determinati con i provvedimenti concernenti la revisione dei ruoli organici previsti dall'[art. 25 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25), modificato dalla [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775). 
+ I contingenti dei coadiutori e coadiutori principali e dei coadiutori dattilografi saranno determinati con i provvedimenti concernenti la revisione dei ruoli organici previsti dall'[art. 25 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), modificato dalla [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775). 
  Fino all'emanazione dei provvedimenti delegati di cui al precedente comma, la dotazione organica delle singole qualifiche dei ruoli istituiti specificamente per i servizi di dattilografia e' stabilita nelle seguenti percentuali della dotazione complessiva del relativo ruolo organico: coadiutore superiore, dieci per cento; coadiutore dattilografo, novanta per cento. 
  I contingenti del personale delle carriere esecutive che svolge mansioni di meccanografo sono trasformati in autonomi ruoli organici di coadiutori meccanografi con le modalita' di cui all'ultimo comma del presente articolo. In relazione alla istituzione di tali ruoli sono ridotti di altrettanti posti i corrispondenti ruoli della carriera esecutiva. 
  L'inquadramento del personale nei nuovi ruoli di cui al precedente comma in qualifica e classe di stipendio corrispondenti alla posizione gia' ricoperta, e' disposto con decreto del Ministro competente, sentito il Consiglio di amministrazione, tenuto conto delle mansioni effettivamente svolte nei centri meccanografici istituiti. 
- Le dotazioni organiche dei ruoli del personale ausiliario addetto al servizio degli automezzi non previsti dalle disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto saranno stabilite con le norme di attuazione del citato [art. 25 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25), modificato dalla [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775). Con le stesse norme sara' disciplinato il primo inquadramento nei nuovi ruoli dei dipendenti dello Stato, anche di altre carriere e categorie, che esercitino le mansioni di autista e siano provvisti dei prescritti requisiti. 
+ Le dotazioni organiche dei ruoli del personale ausiliario addetto al servizio degli automezzi non previsti dalle disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto saranno stabilite con le norme di attuazione del citato [art. 25 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), modificato dalla [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775). Con le stesse norme sara' disciplinato il primo inquadramento nei nuovi ruoli dei dipendenti dello Stato, anche di altre carriere e categorie, che esercitino le mansioni di autista e siano provvisti dei prescritti requisiti. 
  Le nuove piante organiche e le denominazioni delle nuove qualifiche, risultanti per ciascun ruolo dall'applicazione del presente decreto ed in questo non riportate, sono specificate in tabelle approvate con decreto del Ministro competente, di concerto con i Ministri per il tesoro e per la riforma della pubblica amministrazione.
 
 ### Art. 133. — (Inquadramento nelle nuove qualifiche)
@@ -2966,9 +2966,9 @@ Sono soppresse le carriere speciali disciplinate nella parte seconda titolo V de
  In sostituzione dei ruoli organici delle carriere direttive soppresse ai sensi del primo comma sono istituiti i ruoli organici di carriere direttive ordinarie di pari consistenza. La qualifica iniziale delle attuali carriere direttive speciali e' equiparata a quella di consigliere.
  Fino a quando non sara' data attuazione al disposto di cui al successivo quinto comma, sono istituiti, in sostituzione dei ruoli organici delle carriere di concetto soppresse ai sensi del primo comma, ruoli organici di carriere di concetto ordinarie e continuano ad applicarsi le disposizioni concernenti l'esercizio delle attribuzioni affidate al personale delle soppresse carriere speciali ivi comprese quelle di cui all'art. 267 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, ed agli articoli 4](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [5](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) della [legge 23 ottobre 1960, n. 1196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-23;1196) e successive modificazioni ed integrazioni.
  Si osservano le disposizioni di cui ai precedenti articoli relative alla struttura dei ruoli organici ed all'avanzamento previsto per le corrispondenti carriere amministrative.
- Si fara' luogo, in attuazione dell'[art. 25 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25) e successive modificazioni ed integrazioni, ad un'analisi globale del livello delle funzioni di ciascuna carriera speciale, a cura della Presidenza del Consiglio dei Ministri, d'intesa con le organizzazioni sindacali nazionali maggiormente rappresentative per stabilire se i tronconi di concetto debbano essere inseriti nella corrispondente carriera direttiva, provvedendo alle conseguenti variazioni delle relative dotazioni organiche.
+ Si fara' luogo, in attuazione dell'[art. 25 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md) e successive modificazioni ed integrazioni, ad un'analisi globale del livello delle funzioni di ciascuna carriera speciale, a cura della Presidenza del Consiglio dei Ministri, d'intesa con le organizzazioni sindacali nazionali maggiormente rappresentative per stabilire se i tronconi di concetto debbano essere inseriti nella corrispondente carriera direttiva, provvedendo alle conseguenti variazioni delle relative dotazioni organiche.
  Gli impiegati che, anteriormente alla data di entrata in vigore del presente decreto, rivestivano la qualifica di direttore di seconda classe, ed equiparate, sono ammessi allo scrutinio per la promozione a direttore di prima classe, o equiparate, al compimento di tre anni di servizio nella qualifica di direttore di seconda classe, o equiparate, o se piu' favorevole al compimento di nove anni e sei mesi di servizio complessivo maturato nella carriera direttiva.
- L'applicazione delle disposizioni di cui all'art. 21 e' sospesa fino all'emanazione dei provvedimenti di revisione dei relativi ruoli organici prevista dall'[art. 25 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25), e successive modificazioni ed integrazioni, e comunque non oltre la data del 6 giugno 1972.
+ L'applicazione delle disposizioni di cui all'art. 21 e' sospesa fino all'emanazione dei provvedimenti di revisione dei relativi ruoli organici prevista dall'[art. 25 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e successive modificazioni ed integrazioni, e comunque non oltre la data del 6 giugno 1972.
  Per gli impiegati che anteriormente alla data di entrata in vigore del presente decreto rivestivano la qualifica di vice direttore, o equiparate, e per quelli che tale qualifica conseguiranno ai sensi dei successivi commi, l'anzianita' minima di servizio prevista dal primo comma dell'art. 15 e' ridotta ad un anno per gli impiegati che alla data di entrata in vigore del presente decreto rivestono la qualifica di vice direttore o equiparata, ed a due anni per quelli che a tale qualifica perverranno successivamente.
  I concorsi per la nomina alla qualifica di vice direttore, o equiparate, in corso di espletamento saranno portati a termine qualora alla data di entrata in vigore del presente decreto siano gia' state iniziate le prove scritte.
  Gli idonei dei concorsi precedentemente espletati e quelli dei concorsi di cui al precedente comma saranno collocati, con effetti giuridici ed economici dal 1 luglio 1970, anche in soprannumero, nella qualifica iniziale della carriera direttiva ex speciale o equiparata, subito, dopo i vincitori di questi ultimi concorsi, nell'ordine delle rispettive graduatorie.
@@ -2981,7 +2981,7 @@ Sono soppresse le carriere speciali disciplinate nella parte seconda titolo V de
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 1° giugno 1972, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-01;319) ha disposto (con l'art. 1, comma 1) che "Con effetto dal 1 luglio 1972, la dotazione-organica cumulativa delle qualifiche iniziali di vice direttore e di direttore di 2ª classe, o equiparate, dei ruoli organici delle carriere direttive ordinarie, istituiti ai sensi dell'[art. 147 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_147), in sostituzione delle soppresse carriere speciali delle seguenti Amministrazioni, e' incrementata del contingente a fianco di ciascun ruolo indicato:
+Il [D.P.R. 1° giugno 1972, n. 319](Riordinamento%20delle%20ex%20carriere%20speciali.md) ha disposto (con l'art. 1, comma 1) che "Con effetto dal 1 luglio 1972, la dotazione-organica cumulativa delle qualifiche iniziali di vice direttore e di direttore di 2ª classe, o equiparate, dei ruoli organici delle carriere direttive ordinarie, istituiti ai sensi dell'[art. 147 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), in sostituzione delle soppresse carriere speciali delle seguenti Amministrazioni, e' incrementata del contingente a fianco di ciascun ruolo indicato:
 
 Consiglio di Stato ruolo organico della carriera direttiva
  (tabella A - decreto del Presidente
@@ -3040,7 +3040,7 @@ finanze strativo della carriera direttiva
  vembre 1961, n. 1255, modificata dal-
  l'[art. 1 della legge 3 giugno 1970,
  n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380#art_1)) . . . . . . . . . . . . . . . " 34".
- Lo stesso D.P.R. ha inoltre disposto (con l'art. 2, comma 1) che "I ruoli del personale di concetto delle soppresse carriere speciali delle Amministrazioni dello Stato, istituiti ai sensi dell'[art. 147 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_147), sono resi ad esaurimento con effetto dal 1 luglio 1972".
+ Lo stesso D.P.R. ha inoltre disposto (con l'art. 2, comma 1) che "I ruoli del personale di concetto delle soppresse carriere speciali delle Amministrazioni dello Stato, istituiti ai sensi dell'[art. 147 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sono resi ad esaurimento con effetto dal 1 luglio 1972".
 
 ### Art. 148. — (Concorsi per passaggio di carriera)
 

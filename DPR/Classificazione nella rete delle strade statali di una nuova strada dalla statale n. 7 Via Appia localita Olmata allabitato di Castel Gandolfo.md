@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_3);
+ Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md);
  Ritenuta l'opportunita' di classificare nella rete delle strade statali una nuova strada dalla statale n. 7 "Via Appia" presso la localita' Olmata all'abitato di Castel Gandolfo;
  Visto il voto 10 settembre 1948, n. 497, del Consiglio di amministrazione dell'Azienda nazionale autonoma delle strade statali;
  Visto il voto 17 marzo 1949, n. 812, del Consiglio superiore dei lavori pubblici (Sezione seconda);

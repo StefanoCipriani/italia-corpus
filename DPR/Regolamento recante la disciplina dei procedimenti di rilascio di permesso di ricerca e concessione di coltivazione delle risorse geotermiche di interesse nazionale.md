@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Vista la [legge 9 dicembre 1986, n. 896](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20ricerca%20e%20della%20coltivazione%20delle%20risorse%20geotermiche.md);
 
@@ -26,7 +26,7 @@ Visto il [decreto del Presidente della Repubblica 27 maggio 1991, n. 395](Approv
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 aprile 1994;
 
@@ -94,7 +94,7 @@ Il Ministro, apporta, con proprio decreto, entro trenta giorni dall'entrata in v
 
 2.
 
-Il decreto di cui al comma precedente si uniforma ai criteri di semplificazione delle procedure enunciati nei principi e nelle disposizioni contenute nella [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), nella [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), nonche' nel presente regolamento.
+Il decreto di cui al comma precedente si uniforma ai criteri di semplificazione delle procedure enunciati nei principi e nelle disposizioni contenute nella [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), nella [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), nonche' nel presente regolamento.
 
 Note all'art. 3:
  - Per il testo della [legge n. 896/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;896) e del [d.P.R. n. 395/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991;395), si vedano le precedenti note alle premesse.

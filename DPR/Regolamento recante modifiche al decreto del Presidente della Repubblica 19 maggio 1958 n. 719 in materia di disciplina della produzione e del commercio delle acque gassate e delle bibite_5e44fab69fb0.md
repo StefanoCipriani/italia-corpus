@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Visto l'[articolo 11 della legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14#art_11);
+Visto l'[articolo 11 della legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md);
 
 Visto il [decreto del Presidente della Repubblica 19 maggio 1958, n. 719](Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20delle%20acque%20gassate%20e%20delle%20bibite%20analcooliche%20gassate%20e%20non%20gassate%20confezionate%20in%20recipienti%20chiusi.md), ed in particolare l'articolo 15;
 
@@ -49,7 +49,7 @@ Avvertenza:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) (lettera soppressa).».
- - La [legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2002.». L'art. 11, cosi' recita:
+ - La [legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2002.». L'art. 11, cosi' recita:
  «Art. 11 (Modifiche al regolamento di cui al [decreto del Presidente della Repubblica 19 maggio 1958, n. 719](Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20delle%20acque%20gassate%20e%20delle%20bibite%20analcooliche%20gassate%20e%20non%20gassate%20confezionate%20in%20recipienti%20chiusi.md)). - 1. Il Governo e' autorizzato a modificare, entro sessanta giorni dalla data di entrata in vigore della presente legge, il terzo comma dell'art. 15 del regolamento al [decreto del Presidente della Repubblica 19 maggio 1958, n. 719](Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20delle%20acque%20gassate%20e%20delle%20bibite%20analcooliche%20gassate%20e%20non%20gassate%20confezionate%20in%20recipienti%20chiusi.md), in base ai seguenti criteri direttivi:
  a) prevedere che l'aggiunta di sostanze diverse da quelle indicate nel citato regolamento possa avvenire solo, se si tratta di ingredienti comunque idonei all'alimentazione umana, ivi compresi gli additivi;
  b) prevedere che l'idoneita' all'alimentazione umana delle sostanze di cui alla lettera a) debba essere confermata da dati scientifici universalmente accettati;

@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Visti i decreti del Ministro della sanita', rispettivamente, in data 29 novembre 1985, 2 agosto 1991 e 3 agosto 1993;
 
@@ -24,7 +24,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 aprile 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati, ai sensi dell'[art. 2, comma 7, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com7), sono scaduti in data 15 maggio 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati, ai sensi dell'[art. 2, comma 7, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti in data 15 maggio 1994;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 luglio 1994;
 

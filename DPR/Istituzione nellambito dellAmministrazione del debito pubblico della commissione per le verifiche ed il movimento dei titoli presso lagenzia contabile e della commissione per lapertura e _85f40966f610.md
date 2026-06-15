@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398), approvato con [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md);
+Visto il [testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md);
 
 Visto il [decreto del Presidente della Repubblica 15 marzo 1984, n. 74](Aggiornamento%20di%20talune%20norme%20del%20testo%20unico%20delle%20leggi%20sul%20debito%20pubblico%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2014%20febbraio%201963%20n.%201343.md), recante l'aggiornamento di talune norme del suddetto [testo unico n. 1343/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1963;1343);
 

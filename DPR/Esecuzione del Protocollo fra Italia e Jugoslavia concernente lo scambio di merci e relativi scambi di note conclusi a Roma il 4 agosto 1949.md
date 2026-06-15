@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 22 marzo 1948, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-22;994), che da' esecuzione all'Accordo di commercio e collaborazione economica, fra l'Italia e la Jugoslavia del 28 novembre 1947;
+Visto il [decreto legislativo 22 marzo 1948, n. 994](../Decreti%20Legislativi/Approvazione%20degli%20Accordi%20di%20carattere%20economico%20e%20scambi%20di%20Note%20fra%20lItalia%20e%20la%20Jugoslavia%20firmati%20a%20Roma%20il%2028%20novembre%201947.md), che da' esecuzione all'Accordo di commercio e collaborazione economica, fra l'Italia e la Jugoslavia del 28 novembre 1947;
 
 Sentito il Consiglio dei Ministri;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA.
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3);
+Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Visto il [decreto Presidenziale 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md);
 

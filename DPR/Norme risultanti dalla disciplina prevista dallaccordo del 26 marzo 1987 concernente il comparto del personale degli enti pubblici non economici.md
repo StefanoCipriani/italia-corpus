@@ -26,7 +26,7 @@ Visti i [decreti del Presidente della Repubblica 26 maggio 1976, n. 411](Discipl
 
 Visto il [decreto del Presidente della Repubblica 9 luglio 1986; n. 935](Approvazione%20delle%20proposte%20formulate%20dalla%20commissione%20paritetica%20prevista%20dallart.%2018%20del%20decreto%20del%20Presidente%20della%20Repubblica%2025%20giugno%201983%20n.%20346%20in%20ordine%20alle%20qualifiche%20funzion_a92887c50a74.md), recante disposizioni in ordine alle qualifiche funzionali, ai profili professionali ed ai criteri concernenti l'attuazione del principio di inquadramento per profili professionali del personale degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Visto l'[art. 27 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), in materia di oneri a carico dei bilanci degli enti del settore pubblico allargato;
 
@@ -909,7 +909,7 @@ Sulla base dei risultati delle predette verifiche le parti potranno formulare os
 
 1.
 
-All'onere derivante dall'applicazione del presente decreto, valutato in lire 195 miliardi per l'anno 1987, ivi compreso quello relativo all'anno 1986, e in lire 205 miliardi per ciascuno degli anni 1988 e 1989, al netto delle somme dovute a titolo di anzianita' provvedono gli enti pubblici interessati, all'uopo parzialmente utilizzando, oltre a quanto previsto dall'[art. 8, comma 9, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_8-com9), le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato, o quelle affluite nei loro bilanci in relazione alle specifiche attivita' svolte dagli enti stessi.
+All'onere derivante dall'applicazione del presente decreto, valutato in lire 195 miliardi per l'anno 1987, ivi compreso quello relativo all'anno 1986, e in lire 205 miliardi per ciascuno degli anni 1988 e 1989, al netto delle somme dovute a titolo di anzianita' provvedono gli enti pubblici interessati, all'uopo parzialmente utilizzando, oltre a quanto previsto dall'[art. 8, comma 9, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato, o quelle affluite nei loro bilanci in relazione alle specifiche attivita' svolte dagli enti stessi.
 
 ## Art. 40. — Entrata in vigore
 

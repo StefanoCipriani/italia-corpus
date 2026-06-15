@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268), concernente delega al Governo per il conglobamento del trattamento economico del personale statale in attivita' di servizio ed in quiescenza;
+Vista la [legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md), concernente delega al Governo per il conglobamento del trattamento economico del personale statale in attivita' di servizio ed in quiescenza;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Minis
 
 ## Articolo unico.
 
-Con effetto dal 1 marzo 1966, in attuazione di quanto disposto dall'[art. 3, terzo comma, della legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268#art_3-com3), il [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229](Ordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20aiutanti%20ufficiali%20giudiziari.md), modificato con [legge 11 giugno 1962, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-11;540), e' integrato e modificato come segue
+Con effetto dal 1 marzo 1966, in attuazione di quanto disposto dall'[art. 3, terzo comma, della legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md), il [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229](Ordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20aiutanti%20ufficiali%20giudiziari.md), modificato con [legge 11 giugno 1962, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-11;540), e' integrato e modificato come segue
 
  Art. 123. - e' aggiunto: "10) il diritto di carteggio" .
  Art. 132-bis. - sono soppresse le parole: "e non e' computabile ai Fini dell'indennita' integrativa e dei versamenti all'Erario".

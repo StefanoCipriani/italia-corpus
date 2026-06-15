@@ -33,7 +33,7 @@ Le onorificenze da conferire secondo le particolari forme previste dal [secondo 
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 17 settembre 2021, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2021-09-17;141) ha disposto (con l'art. 1, comma 1) che "In deroga a quanto previsto dall'[articolo 2 del decreto del Presidente della Repubblica 13 maggio 1952, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-05-13;458#art_2), limitatamente all'anno 2021, il numero delle onorificenze di cui al predetto articolo non puo' superare il decimo del numero complessivo delle nomine determinato ai sensi dell'[articolo 3, comma terzo, della legge 3 marzo 1951, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-03;178#art_3-com3)".
+Il [D.P.R. 17 settembre 2021, n. 141](Regolamento%20recante%20deroga%20allarticolo%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%2013%20maggio%201952%20n.%20458.%2021G00152.md) ha disposto (con l'art. 1, comma 1) che "In deroga a quanto previsto dall'[articolo 2 del decreto del Presidente della Repubblica 13 maggio 1952, n. 458](Norme%20per%20lattuazione%20della%20legge%203%20marzo%201951%20n.%20178%20concernente%20la%20istituzione%20dellordine%20Al%20merito%20della%20Repubblica%20italiana%20e%20la%20disciplina%20del%20conferimento%20e%20delluso%20delle%20onorificenze.md), limitatamente all'anno 2021, il numero delle onorificenze di cui al predetto articolo non puo' superare il decimo del numero complessivo delle nomine determinato ai sensi dell'[articolo 3, comma terzo, della legge 3 marzo 1951, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-03;178#art_3-com3)".
 
 ## Art. 3.
 
@@ -98,7 +98,7 @@ Per l'anno in corso, le segnalazioni individuali di cui all'art. 4 debbono esser
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 28 giugno 1952, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-06-28;707), ha disposto (con l'art. 1) che "Il termine previsto dall'art. 15 del decreto 13 maggio 1952, n. 458, per l'invio alla Presidenza del Consiglio dei Ministri da parte dei Ministeri, entro il 30 giugno dell'anno in corso, delle segnalazioni individuali per il conferimento delle onorificenze dell'Ordine "Al Merito della Repubblica italiana" e' prorogato al 31 ottobre 1952."
+Il [D.P.R. 28 giugno 1952, n. 707](Proroga%20del%20termine%20di%20cui%20allart.%2015%20del%20decreto%2013%20maggio%201952%20n.%20458%20relativo%20allinvio%20per%20lanno%20in%20corso%20alla%20Presidenza%20del%20Consiglio%20dei%20Ministri%20delle%20segnalazioni%20individuatali%20pe_da779584e4ed.md), ha disposto (con l'art. 1) che "Il termine previsto dall'art. 15 del decreto 13 maggio 1952, n. 458, per l'invio alla Presidenza del Consiglio dei Ministri da parte dei Ministeri, entro il 30 giugno dell'anno in corso, delle segnalazioni individuali per il conferimento delle onorificenze dell'Ordine "Al Merito della Repubblica italiana" e' prorogato al 31 ottobre 1952."
 
 ## Art. 16.
 

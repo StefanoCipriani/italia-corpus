@@ -14,9 +14,9 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), concernente l'istituzione e la disciplina dell'imposta sul valore aggiunto;
 
-Visto il [decreto legislativo 2 settembre 1997, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-09-02;313), recante norme in materia di imposta sul valore aggiunto;
+Visto il [decreto legislativo 2 settembre 1997, n. 313](../Decreti%20Legislativi/Norme%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto.md), recante norme in materia di imposta sul valore aggiunto;
 
-Visto l'[articolo 3, comma 136, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com136), con il quale si stabilisce che, per la semplificazione e la razionalizzazione delle procedure di attuazione delle norme tributarie, gli adempimenti contabili e formali dei contribuenti sono disciplinati con regolamenti da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), tenuto conto dell'adozione di nuove tecnologie per il trattamento e la conservazione delle informazioni e del progressivo sviluppo degli studi di settore;
+Visto l'[articolo 3, comma 136, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), con il quale si stabilisce che, per la semplificazione e la razionalizzazione delle procedure di attuazione delle norme tributarie, gli adempimenti contabili e formali dei contribuenti sono disciplinati con regolamenti da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), tenuto conto dell'adozione di nuove tecnologie per il trattamento e la conservazione delle informazioni e del progressivo sviluppo degli studi di settore;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
@@ -36,7 +36,7 @@ Entro il giorno 16 di ciascun mese, il contribuente determina la differenza tra 
 
 1-bis.
 
-Le disposizioni di cui al comma 1, ultimo periodo, si applicano anche ai soggetti di cui all'[articolo 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-10-14;542#art_7).
+Le disposizioni di cui al comma 1, ultimo periodo, si applicano anche ai soggetti di cui all'[articolo 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542](Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md).
 
 1-ter.
 
@@ -44,15 +44,15 @@ Resta ferma la possibilita' per gli aventi diritto di presentare istanza di rimb
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435).
+COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 2-bis.
 
-COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435).
+COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 2-ter.
 
-COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435).
+COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 3.
 
@@ -60,7 +60,7 @@ A partire dal periodo di imposta in corso alla data di entrata in vigore del pre
 
 4.
 
-Entro il termine stabilito nel comma 1, il contribuente versa l'importo della differenza nei modi di cui all'[articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md). Se l'importo dovuto non supera il limite di euro 100, il versamento e' effettuato insieme a quello relativo al mese successivo e comunque entro il 16 dicembre dello stesso anno. ((Il versamento relativo al mese di dicembre e' effettuato entro il giorno 16 del mese successivo.)) PERIODO SOPPRESSO DAL [D.P.R. 14 OTTOBRE 1999, N. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-10-14;542). (5)
+Entro il termine stabilito nel comma 1, il contribuente versa l'importo della differenza nei modi di cui all'[articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md). Se l'importo dovuto non supera il limite di euro 100, il versamento e' effettuato insieme a quello relativo al mese successivo e comunque entro il 16 dicembre dello stesso anno. ((Il versamento relativo al mese di dicembre e' effettuato entro il giorno 16 del mese successivo.)) PERIODO SOPPRESSO DAL [D.P.R. 14 OTTOBRE 1999, N. 542](Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md). (5)
 
 5.
 
@@ -70,13 +70,13 @@ Le disposizioni di cui ai commi 1, 2, 2-bis, 2-ter e 4 si applicano anche nei co
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 7 dicembre 2001, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435) ha disposto (con l'art. 19, comma 4) che gli effetti delle presenti modifiche decorrono dalle liquidazioni relative al 2002.
+Il [D.P.R. 7 dicembre 2001, n. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che gli effetti delle presenti modifiche decorrono dalle liquidazioni relative al 2002.
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 8 gennaio 2024, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-01-08;1) ha disposto (con l'art. 9, comma 3) che le presenti modifiche si applicano a decorrere dalle somme dovute con riferimento alle liquidazioni periodiche relative all'anno d'imposta 2024.
+Il [D.Lgs. 8 gennaio 2024, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20e%20semplificazione%20delle%20norme%20in%20materia%20di%20adempimenti%20tributari.%2024G00007.md) ha disposto (con l'art. 9, comma 3) che le presenti modifiche si applicano a decorrere dalle somme dovute con riferimento alle liquidazioni periodiche relative all'anno d'imposta 2024.
 
 ## Art. 2. — Abrogazioni
 

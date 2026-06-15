@@ -22,7 +22,7 @@ Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 2 aprile 1968, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Ritenuta la necessita' di modificare le norme del [decreto del Presidente della Repubblica 18 aprile 1994, n. 345](Regolamento%20recante%20disciplina%20dei%20procedimenti%20di%20autorizzazion%20allesonero%20parziale%20dallobbligo%20di%20assumere%20lintera%20percentuale%20di%20invalidi%20prescritta%20e%20di%20autorizzazione%20alla%20compensazi_8078067c59ab.md), al fine di semplificare e razionalizzare i procedimenti amministrativi concernenti gli esoneri parziali, le compensazioni territoriali e le denunce dei datori di lavoro;
 

@@ -421,7 +421,7 @@ Con provvedimento del presidente, sentita la commissione, e' nominato un funzion
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 19 settembre 2013, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2013-09-19;127) ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettera e), non si applicano fino alla scadenza dell'incarico di coordinatore generale in corso alla data di entrata in vigore del presente regolamento".
+Il [D.P.R. 19 settembre 2013, n. 127](Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20novembre%201998%20n.%20442%20concernente%20le%20norme%20per%20lamministrazione%20e%20la%20contabilita%20della%20commissio_5623dad3c31c.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettera e), non si applicano fino alla scadenza dell'incarico di coordinatore generale in corso alla data di entrata in vigore del presente regolamento".
 
 ### Art. 20. — Pagamento delle spese
 
@@ -750,7 +750,7 @@ Capo V
 
 1.
 
-Per quanto non previsto dal presente regolamento, si applicano le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. Si applicano, altresi', le disposizioni attuative dell'[articolo 2 della legge 31 dicembre 2009, n.196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_2), in materia di armonizzazione dei sistemi contabili di cui al [decreto legislativo 31 maggio 2011, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-31;91).
+Per quanto non previsto dal presente regolamento, si applicano le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. Si applicano, altresi', le disposizioni attuative dell'[articolo 2 della legge 31 dicembre 2009, n.196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_2), in materia di armonizzazione dei sistemi contabili di cui al [decreto legislativo 31 maggio 2011, n. 91](../Decreti%20Legislativi/Disposizioni%20recanti%20attuazione%20dellarticolo%202%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20adeguamento%20ed%20armonizzazione%20dei%20sistemi%20contabili.%2011G0134.md).
 
 ))
 

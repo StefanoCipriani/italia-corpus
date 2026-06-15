@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268);
+Vista la [legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -106,7 +106,7 @@ d) in servizio permanente..... L. 19.100 L. 26.400
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749) ha disposto (con l'art. 32, comma 2) che le modifiche al presente articolo hanno effetto dal 1 gennaio 1965.
+Il [D.P.R. 5 giugno 1965, n. 749](Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md) ha disposto (con l'art. 32, comma 2) che le modifiche al presente articolo hanno effetto dal 1 gennaio 1965.
 
 ## Art. 6.
 
@@ -166,7 +166,7 @@ Qualora il trattamento mensile lordo dei sottufficiali - a titolo di indennita' 
 
 ## Art. 11.
 
-Gli assegni mensili o giornalieri di lire 70 per unita' di coefficiente di stipendio, l'indennita' ministeriale di cui alla [legge 19 luglio 1960, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullindennita%20ministeriale%20al%20personale%20delle%20carriere%20direttive%20del%20Ministero%20degli%20affari%20esteri.md), l'assegno mensile di cui alla [legge 8 novembre 1961, n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-08;1162), ed ogni altra indennita' assegno o compenso, comunque denominati, commisurati agli stipendi, paghe e retribuzioni e destinati ad essere in questi conglobati, in tutto o in parte, a norma dell'[articolo 3 della legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268#art_3), restano fermi nelle misure in vigore al 31 dicembre 1964, salvo l'eventuale
+Gli assegni mensili o giornalieri di lire 70 per unita' di coefficiente di stipendio, l'indennita' ministeriale di cui alla [legge 19 luglio 1960, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullindennita%20ministeriale%20al%20personale%20delle%20carriere%20direttive%20del%20Ministero%20degli%20affari%20esteri.md), l'assegno mensile di cui alla [legge 8 novembre 1961, n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-08;1162), ed ogni altra indennita' assegno o compenso, comunque denominati, commisurati agli stipendi, paghe e retribuzioni e destinati ad essere in questi conglobati, in tutto o in parte, a norma dell'[articolo 3 della legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md), restano fermi nelle misure in vigore al 31 dicembre 1964, salvo l'eventuale
  maggiorazione prevista ai precedente articolo 4 del presente decreto.
 Ai fini di quanto previsto dalla [legge 28 luglio 1961, n. 722](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20delle%20competenze%20al%20personale%20delle%20Amministrazioni%20dello%20Stato%20in%20servizio%20in%20territorio%20estero%20di%20confine%20con%20lItalia%20Francia%20Svizzera%20ed%20Austria.md), per
 la conversione in valuta locale ad un cambio di favore di parte dello stipendio dovuto al personale che presta servizio nelle localita' estere di confine con l'Italia, le nuove misure nette degli stipendi, paghe o retribuzioni conglobati si riducono di un importo pari all'assegno temporaneo netto spettante al 31 dicembre 1964.
@@ -181,7 +181,7 @@ Ai fini della, retribuzione da corrispondere, a norma delle vigenti disposizioni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749) ha disposto (con l'art. 33) che "Il presente decreto, salvo il diverso disposto del precedente articolo 32, ha effetto dal 1 marzo 1966."
+Il [D.P.R. 5 giugno 1965, n. 749](Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md) ha disposto (con l'art. 33) che "Il presente decreto, salvo il diverso disposto del precedente articolo 32, ha effetto dal 1 marzo 1966."
 
 ## Art. 13.
 
@@ -200,13 +200,13 @@ ruolo o non di ruolo alle dipendenze dello Stato o di Enti pubblici, la misura o
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749) ha disposto (con l'art. 33) che "Il presente decreto, salvo il diverso disposto del precedente articolo 32, ha effetto dal 1 marzo 1966."
+Il [D.P.R. 5 giugno 1965, n. 749](Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md) ha disposto (con l'art. 33) che "Il presente decreto, salvo il diverso disposto del precedente articolo 32, ha effetto dal 1 marzo 1966."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 28 ottobre-6 novembre 1970, n. 152 (in G.U. 1a s.s. 11/11/1970 n. 286) ha dichiarato l'illegittimita' costituzionale dell'[art. 13, quinto comma, del D.P.R. 21 aprile 1965, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-21;373#art_13-com5) contenente norme sul conglobamento delle retribuzioni del personale statale.
+La Corte Costituzionale con sentenza 28 ottobre-6 novembre 1970, n. 152 (in G.U. 1a s.s. 11/11/1970 n. 286) ha dichiarato l'illegittimita' costituzionale dell'[art. 13, quinto comma, del D.P.R. 21 aprile 1965, n. 373](Conglobamento%20dellassegno%20temporaneo%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20della%20legge%205%20dicembre%201964%20n.%201268.md) contenente norme sul conglobamento delle retribuzioni del personale statale.
 
 ## Art. 14.
 
@@ -255,7 +255,7 @@ Ai fini del raffronto previsto dall'[articolo 2 del decreto del Presidente della
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza 6 - 13 marzo 1974, n. 63 (in G.U. 1a s.s. 20/03/1974 n. 75) ha dichiarato "l'illegittimita' costituzionale del [secondo comma dell'art. 21 del d.P.R. 21 aprile 1965, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-21;373#art_21-com2) (sul conglobamento dell'assegno temporaneo negli stipendi, paghe e retribuzioni del personale statale, in applicazione della [legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268)), nella parte in cui richiama l'ultimo comma dell'[art. 3 della legge 6 febbraio 1963, n. 45](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20di%20un%20assegno%20temporaneo%20al%20personale%20del%20lAmministrazione%20autonoma%20delle%20ferrovie%20dello%20Stato.md)."
+La Corte Costituzionale con sentenza 6 - 13 marzo 1974, n. 63 (in G.U. 1a s.s. 20/03/1974 n. 75) ha dichiarato "l'illegittimita' costituzionale del [secondo comma dell'art. 21 del d.P.R. 21 aprile 1965, n. 373](Conglobamento%20dellassegno%20temporaneo%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20della%20legge%205%20dicembre%201964%20n.%201268.md) (sul conglobamento dell'assegno temporaneo negli stipendi, paghe e retribuzioni del personale statale, in applicazione della [legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md)), nella parte in cui richiama l'ultimo comma dell'[art. 3 della legge 6 febbraio 1963, n. 45](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20di%20un%20assegno%20temporaneo%20al%20personale%20del%20lAmministrazione%20autonoma%20delle%20ferrovie%20dello%20Stato.md)."
 
 ## Art. 22.
 

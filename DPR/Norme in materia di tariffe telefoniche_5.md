@@ -272,7 +272,7 @@ Il valore degli scatti del contatore d'utente determinati dagli impulsi di conte
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 6 giugno 1981, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-06-06;282), ha disposto (con l'art. 1) che: " Ai valori degli scatti del contatore d'utente previsti dall'[art. 15 del decreto del Presidente della Repubblica 14 novembre 1980, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-11-14;752#art_15), ad eccezione degli scatti determinati da comunicazioni urbane in partenza dai telefoni a disposizione del pubblico e di quelli tassati a L. 40 per il traffico in partenza da impianti simplex e duplex della categoria B di abbonamento, si applica un soprapprezzo di L. 15".
+Il [D.P.R. 6 giugno 1981, n. 282](Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2014%20novembre%201980%20n.%20752%20recante%20norme%20in%20materia%20di%20tariffe%20telefoniche.md), ha disposto (con l'art. 1) che: " Ai valori degli scatti del contatore d'utente previsti dall'[art. 15 del decreto del Presidente della Repubblica 14 novembre 1980, n. 752](Norme%20in%20materia%20di%20tariffe%20telefoniche_5.md), ad eccezione degli scatti determinati da comunicazioni urbane in partenza dai telefoni a disposizione del pubblico e di quelli tassati a L. 40 per il traffico in partenza da impianti simplex e duplex della categoria B di abbonamento, si applica un soprapprezzo di L. 15".
 
 ## Art. 16.
 

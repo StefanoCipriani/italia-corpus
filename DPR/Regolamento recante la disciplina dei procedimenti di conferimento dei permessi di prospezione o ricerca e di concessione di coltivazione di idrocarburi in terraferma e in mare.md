@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Vista la [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6);
 
@@ -30,7 +30,7 @@ adottata nella riunione dell'11 febbraio 1994;
 
 Considerato che i termini per l'emissione del parere delle
 
-competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 9 aprile 1994 e 6 marzo 1994;
+competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 9 aprile 1994 e 6 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza
 
@@ -355,7 +355,7 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 Note all'art. 19:
- - Per il testo dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), si vedano le precedenti note alle premesse.
+ - Per il testo dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si vedano le precedenti note alle premesse.
  - Il testo dell'[art. 41 della legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6#art_41), e' il seguente:
  "Art. 41. - E' istituito presso il Ministero dell'industria e commercio il Comitato tecnico per gli idrocarburi e per la geotermia cosi' composto (22):
  1) di un presidente;

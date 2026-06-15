@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto il [regio decreto-legge 21 dicembre 1931, n. 1575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1575), convertito nella [legge 24 marzo 1932, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20dicembre%201931%20n.%201575%20riguardante%20lesercizio%20delle%20linee%20della%20rete%20delle%20ferrovie%20dello%20Stato.%20032U0386.md); 
- Visto il [decreto legislativo 7 maggio 1948, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;598); 
+ Visto il [decreto legislativo 7 maggio 1948, n. 598](../Decreti%20Legislativi/Composizione%20e%20competenza%20del%20Consiglio%20damministrazione%20e%20attribuzioni%20del%20direttore%20generale%20delle%20Ferrovie%20dello%20Stato.md); 
  Considerato che, con decreto del Ministro per i trasporti del 14 marzo 1956, n. 3472, sulla linea ferroviaria Velletri-Colleferro il servizio ferroviario e' stato soppresso e sostituito con servizio automobilistico, ai sensi dell'art. 1 del citato [regio decreto-legge 21 dicembre 1931, n. 1575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1575), eccezione fatta per il tratto di linea Velletri-Lariano che viene usato come raccordo per i trasporti merci; 
  Ritenuta l'opportunita' di sopprimere il tronco Lariano-Colleferro;
  Udito il parere del Consiglio di amministrazione delle ferrovie dello Stato; 

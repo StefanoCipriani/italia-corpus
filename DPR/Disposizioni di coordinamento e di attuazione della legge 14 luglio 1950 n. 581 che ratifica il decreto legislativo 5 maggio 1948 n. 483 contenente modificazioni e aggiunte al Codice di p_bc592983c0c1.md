@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 52 della legge 14 luglio 1950, n. 581](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%205%20maggio%201948%20n.%20483%20contenente%20modificazioni%20e%20aggiunte%20al%20Codice%20di%20procedura%20civile.md), che ratifica il [decreto legislativo 5 maggio 1948, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;483), contenente modificazioni e aggiunte al [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) Sentito il Consiglio dei Ministri;
+Visto l'[art. 52 della legge 14 luglio 1950, n. 581](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%205%20maggio%201948%20n.%20483%20contenente%20modificazioni%20e%20aggiunte%20al%20Codice%20di%20procedura%20civile.md), che ratifica il [decreto legislativo 5 maggio 1948, n. 483](../Decreti%20Legislativi/Modificazioni%20e%20aggiunte%20al%20Codice%20di%20procedura%20civile.md), contenente modificazioni e aggiunte al [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) Sentito il Consiglio dei Ministri;
 
 Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la Grazia e Giustizia; Decreta:
 

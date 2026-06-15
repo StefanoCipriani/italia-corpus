@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Visto l'[articolo 6 del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_6), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20marzo%201988%20n.%2086%20recante%20norme%20in%20materia%20previdenziale%20di%20occupazione%20giovanile%20e%20di%20mercato%20del%20lavoro%20nonche%20per%20il%20potenzia_d8243932aa59.md);
 
@@ -217,7 +217,7 @@ Nota all'art. 7:
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento e' abrogato il [comma 8 dell'articolo 6 del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_6-com8), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20marzo%201988%20n.%2086%20recante%20norme%20in%20materia%20previdenziale%20di%20occupazione%20giovanile%20e%20di%20mercato%20del%20lavoro%20nonche%20per%20il%20potenzia_d8243932aa59.md). Sono altresi' abrogati gli articoli 5, 6, 7 e 8 del decreto ministeriale 31 gennaio 1989 del Ministro del lavoro e della previdenza sociale.
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento e' abrogato il [comma 8 dell'articolo 6 del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_6-com8), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20marzo%201988%20n.%2086%20recante%20norme%20in%20materia%20previdenziale%20di%20occupazione%20giovanile%20e%20di%20mercato%20del%20lavoro%20nonche%20per%20il%20potenzia_d8243932aa59.md). Sono altresi' abrogati gli articoli 5, 6, 7 e 8 del decreto ministeriale 31 gennaio 1989 del Ministro del lavoro e della previdenza sociale.
 
 Note all'[art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_8):
  - Per il [comma 8 dell'art. 2 della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

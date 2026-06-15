@@ -198,7 +198,7 @@ Ove ricorrano particolare motivi, la Direzione generale dei servizi periferici d
 
 3.
 
-Con procedure automatizzate attuate con l'impiego dei mezzi tecnici di cui al comma 1 dell'art. 4, vengono elaborati i dati relativi ai certificati di imposta previsti dall'[art. 2 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_2) - come modificato dall'[art. 3 della legge 14 novembre 1981, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-14;645#art_3) - che i centri interregionali di elaborazione allestiscono, muniscono della firma dei funzionari responsabili con procedimento meccanizzato e spediscono, entro le scadenze stabilite, direttamente ai pensionati.
+Con procedure automatizzate attuate con l'impiego dei mezzi tecnici di cui al comma 1 dell'art. 4, vengono elaborati i dati relativi ai certificati di imposta previsti dall'[art. 2 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md) - come modificato dall'[art. 3 della legge 14 novembre 1981, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-14;645#art_3) - che i centri interregionali di elaborazione allestiscono, muniscono della firma dei funzionari responsabili con procedimento meccanizzato e spediscono, entro le scadenze stabilite, direttamente ai pensionati.
 
 Nota all'art. 13:
  Si trascrive il testo dell'[art. 2 della legge n. 119/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;119#art_2) (Legge finanziaria 1981) quale modificato dall'[art. 3 della legge n. 645/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;645#art_3) (Modifiche ed integrazioni al regime delle detrazioni d'imposta sul reddito delle persone fisiche per l'anno 1981):
@@ -351,7 +351,7 @@ Le procedure da seguire per l'attuazione di quanto disposto dal presente articol
 
 AGGIORNAMENTO (6)
 
-Il [D.P.R. 15 dicembre 2001, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-15;482) ha disposto (con l'art. 9) che "sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio".
+Il [D.P.R. 15 dicembre 2001, n. 482](Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) ha disposto (con l'art. 9) che "sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio".
 
 ### Art. 23. — Opposizioni al pagamento
 

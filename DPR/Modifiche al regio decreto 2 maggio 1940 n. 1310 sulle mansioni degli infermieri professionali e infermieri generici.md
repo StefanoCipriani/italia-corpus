@@ -34,7 +34,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 AGGIORNAMENTO (1)
 
-La [L. 26 febbraio 1999 n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42) ha disposto (con l'art. 1 comma 2) che ""Dalla data di entrata in vigore della presente legge sono abrogati il regolamento approvato con [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-14;225), ad eccezione delle disposizioni previste dal titolo V".
+La [L. 26 febbraio 1999 n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42) ha disposto (con l'art. 1 comma 2) che ""Dalla data di entrata in vigore della presente legge sono abrogati il regolamento approvato con [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](Modifiche%20al%20regio%20decreto%202%20maggio%201940%20n.%201310%20sulle%20mansioni%20degli%20infermieri%20professionali%20e%20infermieri%20generici.md), ad eccezione delle disposizioni previste dal titolo V".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.((1))
 

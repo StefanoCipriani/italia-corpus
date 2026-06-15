@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 24 ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), e il [decreto legislativo luogotenenziale 1 marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82);
+Vista la [legge 24 ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), e il [decreto legislativo luogotenenziale 1 marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
 Udito il parere del Consiglio di Stato;
 

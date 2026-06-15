@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
 
 Visto l'art. 139 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md);
 
-Sentito il parere della commissione paritetica prevista dall'[art. 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale della Sardegna](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56-com1);
+Sentito il parere della commissione paritetica prevista dall'[art. 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale della Sardegna](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 dicembre 1985;
 

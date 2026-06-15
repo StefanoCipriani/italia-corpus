@@ -22,7 +22,7 @@ Visti gli articoli 13, 17 e 18 del regolamento sullo stato giuridico e sul tratt
 
 Ritenuta la necessita' di procedere alla modifica degli articoli 13, 17 e 18 del citato regolamento 21 ottobre 1925, concernenti le modalita' per l'accertamento dell'idoneita' fisica al lavoro e al servizio degli aspiranti all'assunzione in qualita' di operai presso la suddetta amministrazione, al fine di rendere l'accertamento stesso piu' aderente alle mutate caratteristiche delle lavorazioni e servizi;
 
-Visto l'[art. 23 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_23), che ha stabilito una nuova ripartizione in categorie per tutti gli operai dello Stato;
+Visto l'[art. 23 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), che ha stabilito una nuova ripartizione in categorie per tutti gli operai dello Stato;
 
 Udito il parere del Consiglio di Stato;
 

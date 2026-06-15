@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;38), col quale e' stata istituita l'Azienda Nazionale Autonoma delle Strade statali (A.N.A.S.);
- Visto l'[art. 3, comma secondo, lettera c), del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_3-com2-letc), recante modifiche e integrazione al decreto legislativo precitato;
+ Visto l'[art. 3, comma secondo, lettera c), del decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md), recante modifiche e integrazione al decreto legislativo precitato;
  Ritenuta l'opportunita' di classificare nella rete delle strade statali la strada ex militare "Cadorna" (lunga km. 26+500) che dal comune di Romano Alto conduce all'Ossario monumentale del Grappa, comprendendovi anche il tratto di strada comunale (lungo km. 3) congiungente la strada suddetta alla S.S. n. 47;
  Visto il voto 30 marzo 1949, n. 91, del Consiglio di amministrazione dell'A.N.A.S.;
  Visto il voto 24 maggio 1949, n. 1355, del Consiglio superiore dei lavori pubblici;

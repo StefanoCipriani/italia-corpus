@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 3 del decreto legislativo 9 marzo 1948, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;812#art_3), contenente norme relative all'Ordine della "Stella della Solidarieta' italiana";
+Visto l'[art. 3 del decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md), contenente norme relative all'Ordine della "Stella della Solidarieta' italiana";
 
 Visto il [decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md), contenente norme per l'esecuzione del decreto legislativo sopraindicato;
 

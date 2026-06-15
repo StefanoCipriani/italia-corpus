@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Vista la [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -28,13 +28,13 @@ Vista la [legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 13 novembre 1978, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;765);
 
-Vista la [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146);
+Vista la [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md);
 
 Vista la [legge 10 dicembre 1981, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-10;692);
 
-Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive dei [decreti del Presidente della Repubblica n. 633 del 26 ottobre 1972](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [n. 627 del 6 ottobre 1978](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), e successive modificazioni, concernenti, rispettivamente, l'istituzione e la disciplina della imposta sul valore aggiunto e l'introduzione dell'obbligo di emissione del documento di accompagnamento dei beni viaggianti, anche al fine di modificare la disciplina dell'imposta sul valore aggiunto per adeguarla alle direttive emanate dai competenti organi delle Comunita' europee in materia di esecuzione di rimborsi IVA a soggetti non residenti;
+Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), norme integrative e correttive dei [decreti del Presidente della Repubblica n. 633 del 26 ottobre 1972](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [n. 627 del 6 ottobre 1978](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), e successive modificazioni, concernenti, rispettivamente, l'istituzione e la disciplina della imposta sul valore aggiunto e l'introduzione dell'obbligo di emissione del documento di accompagnamento dei beni viaggianti, anche al fine di modificare la disciplina dell'imposta sul valore aggiunto per adeguarla alle direttive emanate dai competenti organi delle Comunita' europee in materia di esecuzione di rimborsi IVA a soggetti non residenti;
 
-Udito il parere della Commissione Parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della Commissione Parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 dicembre 1981;
 

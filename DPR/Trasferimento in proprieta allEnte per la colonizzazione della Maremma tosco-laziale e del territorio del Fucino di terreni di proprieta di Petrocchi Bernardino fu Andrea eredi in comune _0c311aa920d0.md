@@ -40,7 +40,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3975), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
+La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Petrocchi%20Bernardino%20fu%20Andrea%20eredi%20in%20comune%20_0c311aa920d0.md), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ I terreni indicati nell'elenco n. 1 di cui al precedente articolo, per complessi
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3975), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
+La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Petrocchi%20Bernardino%20fu%20Andrea%20eredi%20in%20comune%20_0c311aa920d0.md), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
 
 ## Art. 3.
 
@@ -60,7 +60,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni de
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3975), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
+La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Petrocchi%20Bernardino%20fu%20Andrea%20eredi%20in%20comune%20_0c311aa920d0.md), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
 
 ## Art. 4.
 
@@ -70,7 +70,7 @@ Il Conservatore dei Registri Immobiliari, competente per territorio, e' autorizz
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3975), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
+La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Petrocchi%20Bernardino%20fu%20Andrea%20eredi%20in%20comune%20_0c311aa920d0.md), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
 
 ## Art. 5.
 
@@ -80,7 +80,7 @@ L'elenco dei terreni menzionato nel precedente articolo 2 con l'indicazione dell
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3975), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
+La Corte Costituzionale, con sentenza 28 febbraio-9 marzo 1967, n. 21 (in G.U. 1a s.s. 11/02/1967, n. 38), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 27 dicembre 1952, n. 3975](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Petrocchi%20Bernardino%20fu%20Andrea%20eredi%20in%20comune%20_0c311aa920d0.md), in quanto vi siano comprese zone di terreno non appartenenti all'espropriando alla data del 15 novembre 1949."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

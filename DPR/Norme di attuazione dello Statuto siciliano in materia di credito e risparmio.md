@@ -58,7 +58,7 @@ Gli istituti e le aziende di credito di cui all'art. 2, lettera a), sono tenuti 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 29 ottobre 2012, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-10-29;205) ha disposto (con l'art. 7, comma 1) che "Dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente della Repubblica 27 giugno 1952, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-06-27;1133), ad eccezione dell'articolo 8, che sara' abrogato a seguito del perfezionamento dell'accordo tra la Banca d'Italia e l'assessorato regionale dell'economia previsto dall'articolo 3, comma 2".
+Il [D.Lgs. 29 ottobre 2012, n. 205](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20siciliana%20in%20materia%20di%20credito%20e%20risparmio.%2012G0227.md) ha disposto (con l'art. 7, comma 1) che "Dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente della Repubblica 27 giugno 1952, n. 1133](Norme%20di%20attuazione%20dello%20Statuto%20siciliano%20in%20materia%20di%20credito%20e%20risparmio.md), ad eccezione dell'articolo 8, che sara' abrogato a seguito del perfezionamento dell'accordo tra la Banca d'Italia e l'assessorato regionale dell'economia previsto dall'articolo 3, comma 2".
 
 ## Art. 9.
 

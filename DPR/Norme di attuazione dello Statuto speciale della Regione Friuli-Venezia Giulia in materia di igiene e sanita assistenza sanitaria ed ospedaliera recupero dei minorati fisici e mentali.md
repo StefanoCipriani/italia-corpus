@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Minis
 
 ## Art. 1.
 
-Salvo quanto disposto dagli articoli seguenti le attribuzioni degli organi centrali e periferici dello Stato in materia di igiene e sanita', assistenza sanitaria ed ospedaliera, recupero dei minorati fisici e mentali, sono esercitate nel territorio della Regione dall'Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto regionale, approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1).
+Salvo quanto disposto dagli articoli seguenti le attribuzioni degli organi centrali e periferici dello Stato in materia di igiene e sanita', assistenza sanitaria ed ospedaliera, recupero dei minorati fisici e mentali, sono esercitate nel territorio della Regione dall'Amministrazione regionale, ai sensi e nei limiti dell'art. 8 dello Statuto regionale, approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md).
 
 ## Art. 2.
 

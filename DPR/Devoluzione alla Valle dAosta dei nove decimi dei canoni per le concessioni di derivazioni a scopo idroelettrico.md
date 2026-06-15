@@ -18,7 +18,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Sono ceduti alla Regione Valle d'Aosta, ai sensi dell'[art. 12, quarto comma, della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_12-com4), i nove decimi dei canoni per le concessioni di derivazioni a scopo idroelettrico relativi agli anni 1951 e 1952, da calcolarsi sui versamenti in conto competenza e residui affluiti in detti anni presso la Sezione di tesoreria provinciale di Aosta.
+Sono ceduti alla Regione Valle d'Aosta, ai sensi dell'[art. 12, quarto comma, della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), i nove decimi dei canoni per le concessioni di derivazioni a scopo idroelettrico relativi agli anni 1951 e 1952, da calcolarsi sui versamenti in conto competenza e residui affluiti in detti anni presso la Sezione di tesoreria provinciale di Aosta.
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo statuto della regione autonoma siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo statuto della regione autonoma siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Viste le determinazioni della commissione paritetica prevista dall'art. 43 dello statuto della regione;
 
@@ -35,7 +35,7 @@ L'[art. 2 del decreto del Presidente della Repubblica 17 dicembre 1953, n. 1113]
  Il trasferimento alla regione dei predetti uffici comporta la successione allo Stato nei diritti ed obblighi inerenti agli immobili sede degli uffici stessi e del relativo arredamento.
  L'amministrazione regionale ha facolta' di avvalersi degli uffici e degli organi consultivi operanti nel settore e non trasferiti alla regione; uguale facolta' ha l'amministrazione dello Stato nei confronti degli uffici e degli organi della regione.
  La regione, nell'esercizio delle funzioni alla stessa spettanti a norma del presente decreto, si avvale del personale dello Stato in servizio presso gli uffici trasferiti con il precedente primo comma in posizione di comando, sino alla emanazione delle norme integrative del presente decreto relative al passaggio del personale suddetto dallo Stato alla regione.
- Nelle ipotesi che dette norme non siano state ancora emanate, il personale stesso, salvo che non abbia chiesto di rimanere nei ruoli statali, e' trasferito alla regione all'atto dell'entrata in vigore delle norme che regoleranno i rapporti finanziari definitivi tra lo Stato e la regione, ai sensi dell'[art. 12 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_12). Al personale trasferito alla regione a norma del presente comma e' fatta salva la posizione giuridica ed economica acquisita all'atto del passaggio".
+ Nelle ipotesi che dette norme non siano state ancora emanate, il personale stesso, salvo che non abbia chiesto di rimanere nei ruoli statali, e' trasferito alla regione all'atto dell'entrata in vigore delle norme che regoleranno i rapporti finanziari definitivi tra lo Stato e la regione, ai sensi dell'[art. 12 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md). Al personale trasferito alla regione a norma del presente comma e' fatta salva la posizione giuridica ed economica acquisita all'atto del passaggio".
 
 ## Art. 3.
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Vista la [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -28,13 +28,13 @@ Vista la [legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 13 novembre 1978, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;765);
 
-Vista la [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146);
+Vista la [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md);
 
 Vista la [legge 1 dicembre 1981, n. 692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20ottobre%201981%20n.%20546%20recante%20disposizioni%20in%20materia%20di%20imposte%20di%20bollo%20e%20sugli%20atti%20e%20formalita%20relativi%20ai%20trasferimenti%20degli_639277c7692f.md);
 
-Ritenuta la necessita' di emanare, ai sensi dell'articolo 17 della suddetta [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive dei [decreti del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [29 settembre 1973, n. 598](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20giuridiche.md), e successive modificazioni, concernenti, rispettivamente, istituzione e disciplina dell'imposta sul valore aggiunto e istituzione e disciplina dell'imposta sul reddito delle persone giuridiche;
+Ritenuta la necessita' di emanare, ai sensi dell'articolo 17 della suddetta [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), norme integrative e correttive dei [decreti del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [29 settembre 1973, n. 598](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20giuridiche.md), e successive modificazioni, concernenti, rispettivamente, istituzione e disciplina dell'imposta sul valore aggiunto e istituzione e disciplina dell'imposta sul reddito delle persone giuridiche;
 
-Udito il parere della commissione parlamentare istituita a norma del richiamato [articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della commissione parlamentare istituita a norma del richiamato [articolo 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1982;
 

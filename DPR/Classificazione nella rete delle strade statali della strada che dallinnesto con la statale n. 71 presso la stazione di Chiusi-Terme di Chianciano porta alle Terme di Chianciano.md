@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_3);
+ Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md);
  Ritenuta l'opportunita' di classificare nella rete statale la strada che dall'innesto con la statale n. 71 presso la stazione ferroviaria di Chiusi-Terme di Chianciano porta alle Terme di Chianciano;
  Considerato che l'Amministrazione provinciale di Siena, con [deliberazione 11 marzo 1950, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-03-11;101), si e' impegnata a corrispondere all'A.N.A.S. un contributo annuo di L. 1.400.000 (un milione quattrocentomila) per la manutenzione della strada suddetta;
  Visto il voto 17 gennaio 1950, n. 7, del Consiglio di amministrazione dell'Azienda Nazionale Autonoma delle Strade Statali;

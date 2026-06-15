@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 22 della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468#art_22);
+Visto l'[articolo 22 della legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md);
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -28,7 +28,7 @@ Emana il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina il coordinamento e l'attuazione delle disposizioni di cui al capo I della [legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468).
+Il presente regolamento disciplina il coordinamento e l'attuazione delle disposizioni di cui al capo I della [legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md).
 
 2.
 
@@ -43,7 +43,7 @@ Ai sensi del presente regolamento si intendono:
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazioni delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
- - Il capo I della [legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468) (per l'argomento, vedasi in note alle premesse), concerne: "Modifiche alla [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)".
+ - Il capo I della [legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md) (per l'argomento, vedasi in note alle premesse), concerne: "Modifiche alla [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)".
  Note alle premesse:
  - Si riporta il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
  "Art. 87. Il Presidente della Repubblica e' il capo dello Stato e rappresenta l'unita' nazionale.
@@ -58,7 +58,7 @@ Avvertenza:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - Il testo dell'[art. 22 della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468#art_22) (Modifiche alla [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), recante istituzione del giudice di pace. Delega al Governo in materia di competenza penale del giudice di pace e modifica dell'[art. 593 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_593)), e' il seguente:
+ - Il testo dell'[art. 22 della legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md) (Modifiche alla [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), recante istituzione del giudice di pace. Delega al Governo in materia di competenza penale del giudice di pace e modifica dell'[art. 593 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_593)), e' il seguente:
  "Art. 22 (Norma di coordinamento e di attuazione). - 1.
  Entro centottanta giorni dalla data di entrata in vigore della presente legge, con regolamento adottato ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, sono emanate le norme di coordinamento e di attuazione delle disposizioni di cui al capo I".
  - Il testo vigente dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
@@ -69,7 +69,7 @@ Avvertenza:
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) (soppressa)".
  Note all'art. 1:
- - Per il capo I della citata [legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468), vedasi in nota al titolo.
+ - Per il capo I della citata [legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md), vedasi in nota al titolo.
  - La [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), disciplina la istituzione del giudice di pace.
 
 ## Art. 2. — Integrazione del consiglio giudiziario con rappresentanti

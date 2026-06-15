@@ -48,7 +48,7 @@ Titolo I
 
 Nel presente decreto si intendono per:
                             a)
-                                strumenti finanziari: gli strumenti finanziari previsti dall'[articolo 1, comma 2, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_1-com2-letb) e [d), del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_1-com2-letd), riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria;
+                                strumenti finanziari: gli strumenti finanziari previsti dall'[articolo 1, comma 2, lettere b)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [d), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria;
                             b)
                                 Ministero: il Ministero dell'economia e delle finanze;
                             c)
@@ -68,7 +68,7 @@ Nel presente decreto si intendono per:
                             l)
                                 Conto: «disponibilita' del Tesoro per il servizio di tesoreria»;
                             m)
-                                titoli di Stato: tutte le forme di indebitamento dello Stato, a breve, medio e lungo termine, nonche' i prestiti della Ferrovie dello Stato S.p.a. riconosciuti come debiti dello Stato ai sensi dell'[articolo 2, comma 12, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com12);
+                                titoli di Stato: tutte le forme di indebitamento dello Stato, a breve, medio e lungo termine, nonche' i prestiti della Ferrovie dello Stato S.p.a. riconosciuti come debiti dello Stato ai sensi dell'[articolo 2, comma 12, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                             n)
                                 titoli: documenti, certificati o scritture, anche nelle forme di iscrizioni contabili rappresentativi di diritti su strumenti finanziari;
                             o)

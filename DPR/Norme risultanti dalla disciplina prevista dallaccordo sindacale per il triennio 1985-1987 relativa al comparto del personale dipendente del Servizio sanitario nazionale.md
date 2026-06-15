@@ -22,7 +22,7 @@ Visto il [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determina
 
 Visto il [decreto del Presidente della Repubblica 1 febbraio 1986, n. 13](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201985-87.md), contenente norme risultanti dalla disciplina prevista dall'accordo intercompartimentale, di cui all'art. 12 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, relativo al triennio 1985-1987;
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Visto il [decreto-legge 29 aprile 1987, n. 163](../DL%20decaduti/Finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sanitario%20nazionale%20del%20fondo%20comune%20regionale%20e%20del%20fondo%20ordinario%20per%20la%20finanza%20locale%20_2ae5b5462046.md);
 
@@ -1127,7 +1127,7 @@ Le ipotesi di recupero devono essere programmate in maniera da essere perfettame
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con gli artt. 68, comma 1 e 134, comma 1) la modifica del comma 5 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 1 e 134, comma 1) la modifica del comma 5 del presente articolo.
 
 ### Art. 32. — Indumenti di lavoro
 
@@ -1165,7 +1165,7 @@ Il tempo impiegato per il consumo del pasto deve essere rilevato con normali mez
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con gli artt. 68, comma 2 e 134, comma 2) la modifica del comma 4 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 2 e 134, comma 2) la modifica del comma 4 del presente articolo.
 
 ### Art. 34. — Attivita' sociali, culturali, ricreative
 
@@ -1175,7 +1175,7 @@ Le attivita' culturali, ricreative ed assistenziali, promosse nelle unita' sanit
 
 2.
 
-La verifica contabile dell'utilizzo dei contributi erogati dai suddetti organismi deve avvenire attraverso rendicontazione, da parte dell'ente, da trasmettere all'esame del collegio dei revisori dell'unita' sanitaria locale o ad organismo corrispondente secondo i rispettivi ordinamenti, ai sensi dell'[art. 17 della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_17).
+La verifica contabile dell'utilizzo dei contributi erogati dai suddetti organismi deve avvenire attraverso rendicontazione, da parte dell'ente, da trasmettere all'esame del collegio dei revisori dell'unita' sanitaria locale o ad organismo corrispondente secondo i rispettivi ordinamenti, ai sensi dell'[art. 17 della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md).
 
 ((3. Per l'attuazione della suddetta attivita', ogni anno le Amministrazioni, d'intesa con le Organizzazioni Sindacali, iscrivono a bilancio uno stanziamento da determinarsi in sede regionale in misura comunque non superiore a L. 5.000 annue per dipendente.
 Eventuali condizioni piu' favorevoli definite in sede di accordi decentrati sono mantenute sempreche' lo stanziamento gia' esistente non sia superiore al L. 10.000 annue per dipendente.))
@@ -1186,7 +1186,7 @@ Eventuali condizioni piu' favorevoli definite in sede di accordi decentrati sono
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con gli artt. 68, comma 3 e 134, comma 3) la modifica del comma 3 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 3 e 134, comma 3) la modifica del comma 3 del presente articolo.
 
 ### Art. 35. — ((Santo Patrono. ))
 
@@ -1415,7 +1415,7 @@ Livello 1°
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con l'art. 41,
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 41,
 commi 2, 3, 4, 5 e 6) che "Gli aumenti stipendiali annui lordi derivanti dall'applicazione dei nuovi trattamenti di cui al comma 1 sono attribuiti con decorrenza dal 1 luglio 1990.
  Dal 1 luglio 1988 al 30 settembre 1989 ai dipendenti di cui al
  comma 1 competono i seguenti aumenti stipendiali annui lordi:
@@ -1629,7 +1629,7 @@ Ai coordinatori amministrativi e sanitari di cui all'[art. 8 del decreto del Pre
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_54), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
 Dalla stessa data l'indennita' di polizia giudiziaria di cui all'articolo 55 del medesimo decreto e' rideterminata in L. 1.400.000".
 
 ### Art. 55. — Indennita' di polizia giudiziaria
@@ -1642,7 +1642,7 @@ Al personale cui e' stata attribuita dall'autorita' competente la qualifica di a
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n.384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_54), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
+Il [D.P.R. 28 novembre 1990, n.384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
 Dalla stessa data l'indennita' di polizia giudiziaria di cui all'articolo 55 del medesimo decreto e' rideterminata in L. 1.400.000".
 
 ### Art. 56. — Indennita' per il personale infermieristico
@@ -1707,7 +1707,7 @@ Tale indennita' non e' cumulabile con l'analoga indennita' di cui al [decreto de
 
 AGGIORNAMENTO (3)
 
-La [L. 27 ottobre 1988, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;460) ha disposto (con l'art. 1) che "Al personale medico e tecnico di radiologia di cui al [comma 1 dell'articolo 58 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_58-com1), l'indennita' mensile lorda di L. 30.000, corrisposta ai sensi della [legge 28 marzo 1968, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;416), e' aumentata a L. 200.000 a decorrere dal 1 gennaio 1988."
+La [L. 27 ottobre 1988, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;460) ha disposto (con l'art. 1) che "Al personale medico e tecnico di radiologia di cui al [comma 1 dell'articolo 58 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), l'indennita' mensile lorda di L. 30.000, corrisposta ai sensi della [legge 28 marzo 1968, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;416), e' aumentata a L. 200.000 a decorrere dal 1 gennaio 1988."
 
 ### Art. 59. — Indennita' di profilassi antitubercolare
 
@@ -1748,7 +1748,7 @@ Tale somma cessera' di essere corrisposta nel caso in cui i beneficiari dovesser
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con l'art. 45, comma 2) che "Agli ingegneri, architetti e geologi inquadrati nel IX livello retributivo, la somma annua lorda prevista dall'[articolo 61, comma 2, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_61-com2), e' elevata a L. 7.140.000 a decorrere dal 1 luglio 1990".
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 45, comma 2) che "Agli ingegneri, architetti e geologi inquadrati nel IX livello retributivo, la somma annua lorda prevista dall'[articolo 61, comma 2, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' elevata a L. 7.140.000 a decorrere dal 1 luglio 1990".
 
 ### Art. 62. — Decorrenza degli aumenti
 
@@ -2976,13 +2976,13 @@ Nota all'art. 77:
  a) alla strutturazione di specifiche sezioni di degenza per la riabilitazione di malati lungodegenti e ad alto rischio invalidante;
  b) ad attivita' di ospedalizzazione a ciclo diurno;
  c) all'esercizio dell'attivita' libero-professionale in sede ospedaliera dei medici a tempo pieno, ai sensi dell'[articolo 35, commi sesto](Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md) e [settimo, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md);
- d) a migliorare la ricettivita' alberghiera dell'ospedale, anche per servizi da rendere a pagamento quale forma di autofinanziamento delle unita' sanitarie locali, ai sensi dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_25-com2).
+ d) a migliorare la ricettivita' alberghiera dell'ospedale, anche per servizi da rendere a pagamento quale forma di autofinanziamento delle unita' sanitarie locali, ai sensi dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md).
  7. I posti di organico anche se riferiti alle piante organiche provvisorie, eccedenti a seguito delle soppressioni e delle trasformazioni, sono portati in detrazione dalle piante organiche stesse ovvero trasformati per le esigenze dei nuovi servizi di cui al precedente articolo 2 o dei progetti-obiettivo indicati al precedente articolo 8.
  8. Il personale non utilizzato e' trasferito ad altro posto di corrispondente profilo e posizione funzionale vacante presso la propria o altra unita' sanitaria locale della regione o della provincia autonoma con l'osservanza dei criteri previsti dagli articoli 39, primo, secondo e terzo comma, 40 e 41 del [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), in quanto compatibile, o in mancanza e' utilizzato in soprannumero riassorbibile.
  9. I piani sanitari delle regioni e delle province autonome devono inoltre contenere disposizioni riguardanti la riorganizzazione dei turni di lavoro dei medici dei servizi di diagnosi e cura e del personale dei servizi di diagnostica strumentale, l'utilizzazione intensiva delle camere operatorie e delle apparecchiature di tecnologia avanzata e di maggior costo, i criteri per l'organizzazione dei posti di pronto intervento ospedaliero con servizio di reperibilita', nonche' la utilizzazione degli incentivi ad incremento della produttivita' degli ospedali nel loro insieme e nelle singole componenti di degenza, tecniche ed economali.
  10. I piani sanitari delle regioni e delle province autonome, fermo restando l'obiettivo della piena utilizzazione e del riequilibrio territoriale dei presidi pubblici, indicano il fabbisogno di convenzioni con istituzioni private di ricovero e cura, stabilendo ambiti programmati di collaborazione in relazione alla funzione complementare ad esse affidata.
  11. L'ambito programmato di collaborazione va definito tenendo conto della dislocazione territoriale delle istituzioni da convenzionare in relazione al fabbisogno assistenziale da soddisfare, e della presenza di presidi convenzionati obbligatoriamente ai sensi degli [articoli 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_39), [41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_41), [42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_42) e [43, secondo comma, della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_43-com2).
- 12. E' abrogato l'[articolo 16 della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_16)".
+ 12. E' abrogato l'[articolo 16 della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md)".
 
  Nota agli artt. 77 e 90:
  Il testo dell'[art. 35 del D.P.R. 20 dicembre 1979, n. 761](Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), pubblicato nella Gazzetta Ufficiale del 15 febbraio 1980, n. 45, supplemento ordinario recante titolo "Stato giuridico del personale delle unita' sanitarie locali" e' il seguente:
@@ -3085,7 +3085,7 @@ In caso di designazione non unitaria il rappresentante sindacale e' indicato dal
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 136, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_136-com2)) ha disposto che "L'[articolo 79 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_79), e' abrogato anche per quanto attiene alle professionalita' mediche veterinarie."
+Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 136, comma 2](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "L'[articolo 79 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' abrogato anche per quanto attiene alle professionalita' mediche veterinarie."
 
 ## ORGANIZZAZIONE DEL LAVORO  Capo I
 
@@ -3551,7 +3551,7 @@ L'indennita' medico veterinaria di ispezione, vigilanza e polizia veterinaria sp
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n.384 (con l'art. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_108)) ha disposto che "i valori stipendiali annui lordi di cui all'[articolo 92 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_92), comprensivi del conglobamento di L. 1.081.000 di cui all'[articolo 38 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-09-17;494#art_38), sono cosi' stabiliti, al 1 luglio 1990, data di decorrenza del regime:
+Il [D.P.R. 28 novembre 1990, n.384 (con l'art. 108](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "i valori stipendiali annui lordi di cui all'[articolo 92 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), comprensivi del conglobamento di L. 1.081.000 di cui all'[articolo 38 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), sono cosi' stabiliti, al 1 luglio 1990, data di decorrenza del regime:
  Personale medico
  Assistente medico, stipendio a tempo pieno L. 18.071.000,
  stipendio a tempo definito .............. L. 13.553.000;
@@ -3567,7 +3567,7 @@ Il [D.P.R. 28 novembre 1990, n.384 (con l'art. 108](https://www.normattiva.it/ur
  Collaboratore, stipendio .............. L. 18.071.000;
  Coadiutore,stipendio .................. L. 25.211.000;
  Dirigente,stipendio.................... L. 33.593.000."
- Ha inoltre disposto (con l'art. 110) quanto che "i valori annui lordi delle indennita' previste dall'[articolo 92 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_92), per il personale medico e veterinario sono cosi' stabiliti, al 1
+ Ha inoltre disposto (con l'art. 110) quanto che "i valori annui lordi delle indennita' previste dall'[articolo 92 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), per il personale medico e veterinario sono cosi' stabiliti, al 1
  luglio 1990, data di decorrenza del regime:
  Personale medico:
  A) Tempo pieno:
@@ -3649,7 +3649,7 @@ Tale indennita' viene attribuita nelle seguenti misure lorde fisse, per 12 mensi
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 114, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_114-com1)) ha disposto che "Gli importi dell'indennita' differenziata di responsabilita' primariale, di cui all'[articolo 96 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_96), punti a) e b), sono rispettivamente rideterminati in L. 364.500 ed in L. 513.000 a decorrere dal 1 dicembre 1990."
+Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 114, comma 1](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "Gli importi dell'indennita' differenziata di responsabilita' primariale, di cui all'[articolo 96 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), punti a) e b), sono rispettivamente rideterminati in L. 364.500 ed in L. 513.000 a decorrere dal 1 dicembre 1990."
 
 ### Art. 97. — Indennita' per i direttori degli Istituti zooprofilattici
 
@@ -3661,7 +3661,7 @@ Ai direttori degli Istituti zooprofilattici sperimentali e' attribuita l'indenni
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384) ha disposto (con l'art. 110, comma 6) che a decorrere dal 1 dicembre 1990 le indennita' di cui all'[articolo 97 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_97) e' rideterminata in L. 3.780.000.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 110, comma 6) che a decorrere dal 1 dicembre 1990 le indennita' di cui all'[articolo 97 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md) e' rideterminata in L. 3.780.000.
 
 ### Art. 98. — Indennita' di rischio radiologico
 
@@ -4334,7 +4334,7 @@ Il Dipartimento della funzione pubblica, cui la legge demanda l'attivita' di ind
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384 (con gli artt. 7, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_7-com1) e [77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_7-com77), [comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_7-com1)) ha disposto la modifica del comma 6 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384 (con gli artt. 7, comma 1](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) e [77](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md), [comma 1](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto la modifica del comma 6 del presente articolo.
 
 ### Art. 113. — Verifica
 
@@ -4386,7 +4386,7 @@ In relazione agli inquadramenti e alle promozioni conferiti in data successiva a
 
 AGGIORNAMENTO (4)
 
-La [L. 31 maggio 1990, n.128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-31;128) ha disposto (con l'art. 28) che "Il termine del 31 dicembre 1987 previsto dall'[articolo 116 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_116), e' prorogato al 31 dicembre 1990."
+La [L. 31 maggio 1990, n.128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-31;128) ha disposto (con l'art. 28) che "Il termine del 31 dicembre 1987 previsto dall'[articolo 116 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' prorogato al 31 dicembre 1990."
 
 ### Art. 117. — Norma particolare di primo inquadramento
 

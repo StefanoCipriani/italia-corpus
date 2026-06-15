@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477), recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale direttivo, ispettivo, docente e non docente della scuola materna, elementare, secondaria e artistica dello Stato;
+Vista la [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md), recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale direttivo, ispettivo, docente e non docente della scuola materna, elementare, secondaria e artistica dello Stato;
 
-Udito il parere della commissione prevista dall'[art. 18 della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_18);
+Udito il parere della commissione prevista dall'[art. 18 della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 

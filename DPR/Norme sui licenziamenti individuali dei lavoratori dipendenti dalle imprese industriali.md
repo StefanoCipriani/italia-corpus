@@ -31,7 +31,7 @@ I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 17-26 maggio 1966, n. 50,(in G.U. 28/25/1966, n. 131) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 14 luglio 1960, n. 1011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-14;1011), contenente "norme sui licenziamenti individuali dei lavoratori dipendenti dalle imprese industriali", per la sola parte in cui disciplina l'intervento di conciliazione delle organizzazioni di categoria."
+La Corte Costituzionale con sentenza 17-26 maggio 1966, n. 50,(in G.U. 28/25/1966, n. 131) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 14 luglio 1960, n. 1011](Norme%20sui%20licenziamenti%20individuali%20dei%20lavoratori%20dipendenti%20dalle%20imprese%20industriali.md), contenente "norme sui licenziamenti individuali dei lavoratori dipendenti dalle imprese industriali", per la sola parte in cui disciplina l'intervento di conciliazione delle organizzazioni di categoria."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

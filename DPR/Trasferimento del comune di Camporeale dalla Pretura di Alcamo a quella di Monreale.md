@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [77, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1443#art_1) e [5 della legge 27 dicembre 1956, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1443#art_5), con la quale il Governo della Repubblica e' stato delegato ad apportare modificazioni alle circoscrizioni giudiziarie e alle piante organiche degli uffici giudiziari;
+Visti gli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20alle%20circoscrizioni%20territoriali%20e%20alle%20piante%20organiche%20degli%20uffici%20giudiziari.md) e [5 della legge 27 dicembre 1956, n. 1443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20alle%20circoscrizioni%20territoriali%20e%20alle%20piante%20organiche%20degli%20uffici%20giudiziari.md), con la quale il Governo della Repubblica e' stato delegato ad apportare modificazioni alle circoscrizioni giudiziarie e alle piante organiche degli uffici giudiziari;
 
 Vista la deliberazione in data 6 febbraio 1958, con la quale la Commissione consultiva istituita con l'art. 5 della predetta legge ha espresso parere favorevole al distacco del comune di Camporeale dalla Pretura di Alcamo ed all'aggregazione a quella di Monreale;
 

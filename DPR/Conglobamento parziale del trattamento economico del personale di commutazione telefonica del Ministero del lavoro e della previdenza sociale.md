@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 391](Attrib
 
 Visto il [decreto del Presidente della Repubblica 17 agosto 1955, n. 767](Conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio.md);
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ La paga lorda giornaliera del personale di commutazione telefonica addetto al Mi
 
 ## Art. 2.
 
-Per il personale indicato nel precedente articolo, l'indennita' di carovita - escluse le quote complementari - di cui all'[art. 2 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_2), e successive modificazioni, l'assegno integrativo di cui al [decreto del Presidente della Repubblica 17 agosto 1955, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-17;391), e il premio giornaliero di presenza di cui all'[art. 8 del decreto legislativo Presidenziale 27 giugno 1946, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;19#art_8), e successive modificazioni, conglobati nella paga giornaliera di cui al precedente articolo, sono soppressi.
+Per il personale indicato nel precedente articolo, l'indennita' di carovita - escluse le quote complementari - di cui all'[art. 2 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e successive modificazioni, l'assegno integrativo di cui al [decreto del Presidente della Repubblica 17 agosto 1955, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-17;391), e il premio giornaliero di presenza di cui all'[art. 8 del decreto legislativo Presidenziale 27 giugno 1946, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;19#art_8), e successive modificazioni, conglobati nella paga giornaliera di cui al precedente articolo, sono soppressi.
 
 ## Art. 3.
 

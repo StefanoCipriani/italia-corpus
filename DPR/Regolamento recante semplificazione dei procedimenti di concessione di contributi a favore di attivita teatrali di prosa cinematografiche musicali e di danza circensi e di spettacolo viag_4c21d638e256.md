@@ -16,13 +16,13 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Vista la [legge 4 novembre 1965, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni parlamentari del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 aprile 1994;
 
@@ -176,8 +176,8 @@ Nota all'art. 4:
  4. Una quota di 20 miliardi del suddetto fondo e' utilizzata per il sostegno di iniziative promozionali dello spettacolo cinematografico nelle sale, per stimolare la domanda di cinema in particolari periodi o in occasione di particolari eventi, per sostenere mediante contributi e premi alle sale cinematografiche la programmazione di film di produzione nazionale e di Paesi della Comunita' europea.
  I criteri e le modalita' di utilizzo dello stanziamento sono fissati, con decreto da emanarsi entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, da parte dell'Autorita' competente in materia di spettacolo.
  5. Una ulteriore quota di 30 miliardi e' riservata per interventi a favore degli enti autonomi lirici ed istituzioni concertistiche assimilate. Tale quota viene assegnata con decreto dell'Autorita' competente in materia di spettacolo, sentiti il Comitato di coordinamento di cui all'[articolo 20 della legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800#art_20), e, successivamente, la Commissione centrale per la musica, sulla base di criteri che privilegino la produttivita' in rapporto ai costi aziendali ed alla tipologia di attivita', nonche' la gestione, in rapporto alle risorse pubbliche e private a fronte del pubblico pagante negli anni 1991, 1992 e 1993. In sede di assegnazione, si terra' conto delle funzioni esercitate e richieste ai sensi degli articoli 6, ultimo comma, e 7, della [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800).
- 6. Ferme restando le disposizioni di cui all'[articolo 9 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_9), sono confermati, per il triennio 1994-1996, il comma 4 e, per il 1994, i commi 7 e 12 del medesimo articolo.
- 7. All'[articolo 9 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_9), sono apportate le seguenti modificazioni:
+ 6. Ferme restando le disposizioni di cui all'[articolo 9 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), sono confermati, per il triennio 1994-1996, il comma 4 e, per il 1994, i commi 7 e 12 del medesimo articolo.
+ 7. All'[articolo 9 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), sono apportate le seguenti modificazioni:
  a) il comma 8 e' sostituito dal seguente:
  ' 8. Sono vietati contratti integrativi aziendali che comportino oneri finanziari diretti o indiretti a carico degli enti, anche tramite riduzione dell'orario ordinario di lavoro';
  b) il comma 9 e' sostituito dal seguente:
@@ -192,7 +192,7 @@ Entro il termine stabilito in via generale per le singole categorie di procedime
 
 2.
 
-Decorso inutilmente il termine di cui al comma 1, l'interessato puo' produrre istanza al direttore generale a cui fa capo l'unita' responsabile del procedimento, il quale provvede direttamente entro trenta giorni. Se il provvedimento e' di competenza del dirigente generale, l'istanza e' rivolta all'organo di vertice dell'Amministrazione, che valuta se ricorrono le condizioni per l'esercizio dei poteri di avocazione regolati dall'[art. 14, comma 3, del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_14-com3).
+Decorso inutilmente il termine di cui al comma 1, l'interessato puo' produrre istanza al direttore generale a cui fa capo l'unita' responsabile del procedimento, il quale provvede direttamente entro trenta giorni. Se il provvedimento e' di competenza del dirigente generale, l'istanza e' rivolta all'organo di vertice dell'Amministrazione, che valuta se ricorrono le condizioni per l'esercizio dei poteri di avocazione regolati dall'[art. 14, comma 3, del decreto legislativo 23 dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
 
 Note all'art. 5:
  - Il testo dell'[articolo 2 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_2) e' il seguente:
@@ -249,7 +249,7 @@ CAPO IV
 
 1.
 
-L'organo di vertice dell'Amministrazione verifica annualmente la funzionalita', la trasparenza e la speditezza dei procedimenti disciplinati nel presente regolamento e adotta tutte le misure di propria competenza per l'adeguamento della relativa disciplina ai principi e alle disposizioni delle [leggi 7 agosto 1990, n. 241, 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537) e a quelle del presente regolamento.
+L'organo di vertice dell'Amministrazione verifica annualmente la funzionalita', la trasparenza e la speditezza dei procedimenti disciplinati nel presente regolamento e adotta tutte le misure di propria competenza per l'adeguamento della relativa disciplina ai principi e alle disposizioni delle [leggi 7 agosto 1990, n. 241, 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e a quelle del presente regolamento.
 
 2.
 
@@ -267,7 +267,7 @@ Il servizio di controllo interno, istituito dall'[art. 20 del decreto legislativ
 
 2.
 
-L'inosservanza dei termini prescritti puo' essere valutata ai fini dell'applicazione delle sanzioni previste a carico dei dirigenti generali, dei dirigenti e degli altri dipendenti dall'[art. 20, commi 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e dall'[art. 59 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificati rispettivamente dall'[art. 6 del decreto legislativo 10 novembre 1993, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-10;470#art_6) e dall'[art. 27 del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_27).
+L'inosservanza dei termini prescritti puo' essere valutata ai fini dell'applicazione delle sanzioni previste a carico dei dirigenti generali, dei dirigenti e degli altri dipendenti dall'[art. 20, commi 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e dall'[art. 59 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificati rispettivamente dall'[art. 6 del decreto legislativo 10 novembre 1993, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-10;470#art_6) e dall'[art. 27 del decreto legislativo 23 dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
 
 Note all'art. 11:
  - Il testo dell'[articolo 20 del decreto legislativo n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_20), cosi' come modificato dal decreto legislativo n. 470/1z993, e' il seguente:
@@ -330,7 +330,7 @@ Note all'art. 11:
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento sono abrogati:
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono abrogati:
                             a)
                                 l'[art. 24, commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), [2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), [3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), [4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md) e [5 della legge 4 novembre 1965, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md);
                             b)

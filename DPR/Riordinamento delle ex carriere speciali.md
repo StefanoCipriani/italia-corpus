@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
+Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
 
 Visto l'[art. 147 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 
@@ -103,13 +103,13 @@ Sono istituiti dal 1 luglio 1972 i ruoli ordinari del personale delle carriere d
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 14 aprile 1978, n.111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), convertito con modificazioni dalla [L. 10 giugno 1978, n.271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20aprile%201978%20n.%20111%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20della%20giustizia.md), ha disposto (con l'art. 1, comma 1) che "Il ruolo organico del personale della carriera di concetto istituito con l'[art. 3 del decreto del Presidente della Repubblica 1° giugno 1972, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-01;319#art_3), e' aumentato di 1.170 unita'."
+Il [D.L. 14 aprile 1978, n.111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), convertito con modificazioni dalla [L. 10 giugno 1978, n.271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20aprile%201978%20n.%20111%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20della%20giustizia.md), ha disposto (con l'art. 1, comma 1) che "Il ruolo organico del personale della carriera di concetto istituito con l'[art. 3 del decreto del Presidente della Repubblica 1° giugno 1972, n. 319](Riordinamento%20delle%20ex%20carriere%20speciali.md), e' aumentato di 1.170 unita'."
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-La [L. 9 febbraio 1982, n.33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;33) ha disposto (con l'art. 1, comma 1) che "Il ruolo organico dei segretari giudiziari istituito con l'[articolo 3 del decreto del Presidente della Repubblica 1 giugno 1972, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-01;319#art_3), e' aumentato di 1.400 unita'."
+La [L. 9 febbraio 1982, n.33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;33) ha disposto (con l'art. 1, comma 1) che "Il ruolo organico dei segretari giudiziari istituito con l'[articolo 3 del decreto del Presidente della Repubblica 1 giugno 1972, n. 319](Riordinamento%20delle%20ex%20carriere%20speciali.md), e' aumentato di 1.400 unita'."
 
 ## Art. 4.
 

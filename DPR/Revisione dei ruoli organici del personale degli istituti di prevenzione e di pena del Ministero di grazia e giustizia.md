@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), concernente delega del Governo per il riordinamento dell'amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
+Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), concernente delega del Governo per il riordinamento dell'amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
 
 Visto il [regio decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497), concernente la modificazione alle piante organiche dei personali: amministrativo, alienistico, di educazione e sorveglianza, tecnico industriale ed agricolo e del personale aggregato degli istituti di prevenzione e di pena;
 
@@ -70,7 +70,7 @@ Nella prima attuazione del presente decreto, e nei limiti indicati dall'allegata
 
 Nella prima attuazione del presente decreto i posti recati in aumento, esclusi quelli indicati nei precedenti articoli 2 e 3, sono conferiti mediante passaggi nella qualifica iniziale di personale di ruolo di corrispondente carriera di altre amministrazioni dello Stato.
  I passaggi previsti dal precedente comma si effettuano mediante concorsi per titoli, da bandire entro trenta giorni dall'entrata in vigore del presente decreto, ai quali sono ammessi coloro che siano in possesso dei requisiti e titoli di studio stabiliti nei relativi bandi.
- In corrispondenza dei passaggi di cui al presente articolo, restano indisponibili fino alla revisione dei ruoli organici prevista dal [primo comma dell'art. 25 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_25-com1), e successive modificazioni e integrazioni, altrettanti posti nelle qualifiche iniziali dei ruoli di provenienza del personale trasferito.
+ In corrispondenza dei passaggi di cui al presente articolo, restano indisponibili fino alla revisione dei ruoli organici prevista dal [primo comma dell'art. 25 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e successive modificazioni e integrazioni, altrettanti posti nelle qualifiche iniziali dei ruoli di provenienza del personale trasferito.
  I posti eventualmente disponibili dopo l'applicazione delle disposizioni contenute nei precedenti commi del presente articolo sono conferiti mediante pubblici concorsi.
 
 ## Art. 6.

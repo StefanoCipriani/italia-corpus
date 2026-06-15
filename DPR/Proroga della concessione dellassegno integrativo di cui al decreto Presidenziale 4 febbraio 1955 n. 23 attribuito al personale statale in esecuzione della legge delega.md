@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 1, 2 - punto 12 - 3 e 6 della [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visti gli articoli 1, 2 - punto 12 - 3 e 6 della [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
 Visto il decreto del Presidente della Repubblica 4 febbraio 4955, n. 23;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con il Mini
 
 ## Art. 1.
 
-Fermi restando le misure e i criteri di attribuzione, la concessione dell'assegno integrativo di cui all'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md), ed agli analoghi provvedimenti emanati inl'applicazione dell'art. 4 dello stesso decreto, e' prorogata, a titolo di acconto sui nuovi stipendi, paghe e retribuzioni che deriveranno dal conglobamento parziale dei trattamenti economici del personale statale previsto con effetto dal 1 luglio 1955, dall'art. 2 - punto 12 - della [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), sino all'entrata in vigore del provvedimento di attuazione del conglobamento medesimo.
+Fermi restando le misure e i criteri di attribuzione, la concessione dell'assegno integrativo di cui all'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md), ed agli analoghi provvedimenti emanati inl'applicazione dell'art. 4 dello stesso decreto, e' prorogata, a titolo di acconto sui nuovi stipendi, paghe e retribuzioni che deriveranno dal conglobamento parziale dei trattamenti economici del personale statale previsto con effetto dal 1 luglio 1955, dall'art. 2 - punto 12 - della [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), sino all'entrata in vigore del provvedimento di attuazione del conglobamento medesimo.
 
 ## Art. 2.
 

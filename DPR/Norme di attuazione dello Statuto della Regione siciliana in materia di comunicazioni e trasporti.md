@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto lo Statuto della Regione siciliana, approvato con [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo Statuto della Regione siciliana, approvato con [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -136,7 +136,7 @@ Nella materia del servizio pubblico di trasporto regionale e locale, sono di com
                         a)
                             gli accordi, le convenzioni ed i trattati internazionali relativi a servizi transfrontalieri per il trasporto di persone e merci;
                         b)
-                            le funzioni in materia di sicurezza, di cui al [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753), e successive modifiche ed integrazioni, tranne quelle relative al rilascio del nulla osta allo svolgimento dei servizi di trasporto su gomma e quelle relative all'accertamento di cui all'ultimo comma dell'articolo 5 del medesimo decreto n. 753 del 1980;
+                            le funzioni in materia di sicurezza, di cui al [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), e successive modifiche ed integrazioni, tranne quelle relative al rilascio del nulla osta allo svolgimento dei servizi di trasporto su gomma e quelle relative all'accertamento di cui all'ultimo comma dell'articolo 5 del medesimo decreto n. 753 del 1980;
                         c)
                             l'adozione delle linee guida e dei principi quadro per la riduzione dell'inquinamento derivante dal sistema di trasporto pubblico.
 

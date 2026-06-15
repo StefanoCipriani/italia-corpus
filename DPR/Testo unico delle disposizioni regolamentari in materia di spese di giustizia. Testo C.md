@@ -16,7 +16,7 @@ VISTO l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 VISTO l'[articolo 7, della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), come modificato dall'[articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-letd) ed [e), della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-lete);
 
-VISTI gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20) e [20 bis, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20bis);
+VISTI gli [articoli 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [20 bis, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 VISTI i numeri 9, 10 e 11 dell'allegato n. 1, della [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
 
@@ -96,7 +96,7 @@ Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
                             u)
                                 "sanzione pecuniaria processuale" e' la somma dovuta sulla base delle norme del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) e del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), recuperabile nelle forme previste per le spese;
                             v)
-                                "sanzione amministrativa pecuniaria" e' la sanzione pecuniaria, anche derivante da conversione della sanzione interdittiva, dovuta dalle persone giuridiche, dalle societa' e dalle associazioni anche prive di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "sanzione amministrativa pecuniaria" e' la sanzione pecuniaria, anche derivante da conversione della sanzione interdittiva, dovuta dalle persone giuridiche, dalle societa' e dalle associazioni anche prive di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             z)
                                 "concessionario" e' il soggetto incaricato ai sensi dell'[articolo 4, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md).
 
@@ -1602,7 +1602,7 @@ Capo II
 
 1.
 
-Le spese ripetibili sono recuperate in caso di condanna alle spese, secondo il [codice di procedura penale e l'articolo 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_69), del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231), nonche', nei casi di ammissione al patrocinio a spese dello Stato, secondo le disposizioni della parte III del presente testo unico.
+Le spese ripetibili sono recuperate in caso di condanna alle spese, secondo il [codice di procedura penale e l'articolo 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_69), del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), nonche', nei casi di ammissione al patrocinio a spese dello Stato, secondo le disposizioni della parte III del presente testo unico.
 
 2.
 

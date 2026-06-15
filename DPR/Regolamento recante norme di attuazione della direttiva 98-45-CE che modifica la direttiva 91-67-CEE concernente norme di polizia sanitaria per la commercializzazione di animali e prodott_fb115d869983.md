@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Vista la [direttiva 98/45/CE del Consiglio del 24 giugno 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;45), che modifica la [direttiva 91/67/CEE del Consiglio del 28 gennaio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67), che stabilisce le norme di polizia sanitaria per la commercializzazione di animali e prodotti di acquacoltura;
 
-Vista la [legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25), ed in particolare l'articolo 3 e l'allegato C;
+Vista la [legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), ed in particolare l'articolo 3 e l'allegato C;
 
 Visto il [decreto del Presidente della Repubblica 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), recante il regolamento per l'attuazione della citata [direttiva 91/67/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67);
 
@@ -24,7 +24,7 @@ Visto il decreto del Ministro della sanita' 29 gennaio 1997, pubblicato nella Ga
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 ottobre 1999;
 
-Sentita la conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8);
+Sentita la conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza dell'8 novembre 1999;
 
@@ -64,7 +64,7 @@ Avvertenza:
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La [direttiva 98/45/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;45) e' pubblicata in G.U.C.E n. L 189 del 3 luglio 1998.
  - La [direttiva 91/67/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67) e' pubblicata in G.U.C.E. n. L 046 del 19 febbraio 1991.
- - La [legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1998". L'art. 3 e l'allegato C della succitata legge cosi' recitano:
+ - La [legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1998". L'art. 3 e l'allegato C della succitata legge cosi' recitano:
  "Art. 3 (Attuazione di direttive com comunitarie con regolamento autorizzato). - 1. Il Governo e' autorizzato a dare attuazione alle direttive comprese nell'elenco di cui all'allegato C con uno o piu' regolamenti ai sensi dell'art. 17, comma 2, deIla [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), attenendosi a principi e criteri direttivi corrispondenti a quelli enunciati nelle lettere b), e), f), g)e h) del comma 1 dell'art. 2.
  2. Fermo restando il disposto dell'[art. 5, comma 1, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), i regolamenti di cui al comma 1, possono altresi', per tutte le materie non coperte da riserva assoluta di legge, dare attuazione alle direttive che costituiscono modifica, aggiornamento o completamento delle direttive comprese nell'allegato C.
  3. Ove le direttive cui essi danno attuazione prescrivano di adottare discipline sanzionatorie, il Governo pu prevedere nei regolamenti di cui al comma 1, per le fattispecie individuate dalle direttive stesse, adeguate sanzioni amministrative, che dovranno essere determinate in ottemperanza ai principi stabiliti in materia dalla lettera c) del comma 1, dell'art. 2".

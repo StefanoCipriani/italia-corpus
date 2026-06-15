@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_3);
+ Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md);
  Ritenuta l'opportunita' di classificare nella rete delle strade statali, il tratto collegante la strada statale n. 7 "Appia" con l'Aeroporto di Ciampino-Est;
  Visto il voto 12 giugno 1951, n. 137, del Consiglio di amministrazione dell'Azienda nazionale autonoma delle strade statali;
  Visto il voto 29 ottobre 1951, n. 3350, del Consiglio superiore dei lavori pubblici (Sezione seconda);

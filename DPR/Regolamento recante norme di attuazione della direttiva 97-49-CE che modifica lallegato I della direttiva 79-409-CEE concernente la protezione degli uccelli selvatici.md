@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [direttiva 97/49/CE della Commissione del 29 luglio 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;49), che modifica la [direttiva 79/409/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;409) concernente la conservazione degli uccelli selvatici;
 
-Visto l'[articolo 3 della legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25#art_3) (legge comunitaria 1998);
+Visto l'[articolo 3 della legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md) (legge comunitaria 1998);
 
 Vista la [legge 11 febbraio 1992, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;157), recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio, e in particolare l'articolo 1;
 
@@ -43,7 +43,7 @@ Avvertenza:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  La [direttiva 97/49/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;49) e' pubblicata nella Gazzetta Ufficiale della Comunita' europea n. L223 del 13 agosto 1997.
  La [direttiva 79/409/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;409) e' pubblicata nella Gazzetta Ufficiale della Comunita' europea n. L103 del 25 aprile 1979.
- La [legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1998"
+ La [legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1998"
  L'art. 3, della citata legge, cosi' recita:
  "Art. 3 (Attuazione di direttive comunitarie con regolamento autorizzato). - 1. Il Governo e' autorizzato a dare attuazione alle direttive comprese nell'elenco di cui all'allegato C con uno o piu' regolamenti ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), attenendosi a principi e criteri direttivi corrispondenti a quelli enunciati nelle lettere b), e), f), g) e h) del comma 1 dell'art. 2.
  2. Fermo restando il disposto dell'[art. 5, comma 1, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), i regolamenti di cui al comma 1 possono altresi', per tutte le materie non coperte da riserva assoluta di legge, dare attuazione alle direttive che costituiscono modifica, aggiornamento o completamento delle direttive comprese nell'allegato C.

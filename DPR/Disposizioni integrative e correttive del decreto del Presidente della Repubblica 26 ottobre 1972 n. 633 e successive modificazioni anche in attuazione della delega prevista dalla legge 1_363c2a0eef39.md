@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -26,9 +26,9 @@ Visto l'[art. 22 della legge 13 aprile 1977, n. 114](https://www.normattiva.it/u
 
 Vista la [legge 13 novembre 1978, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;765), concernente delega legislativa per l'adeguamento della disciplina vigente in materia di imposta sul valore aggiunto alle direttive del Consiglio delle Comunita' europee;
 
-Ritenuta la necessita' di emanare, ai sensi del secondo comma dell'art. 17 della citata [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), disposizioni integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, anche al fine di modificare la disciplina dell'imposta sul valore aggiunto per adeguarla, in conformita' al disposto dell'[art. 1 della legge 13 novembre 1978, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;765#art_1), alle direttive emanate ed alle decisioni e raccomandazioni adottate dai competenti organi delle Comunita' europee;
+Ritenuta la necessita' di emanare, ai sensi del secondo comma dell'art. 17 della citata [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), disposizioni integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, anche al fine di modificare la disciplina dell'imposta sul valore aggiunto per adeguarla, in conformita' al disposto dell'[art. 1 della legge 13 novembre 1978, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;765#art_1), alle direttive emanate ed alle decisioni e raccomandazioni adottate dai competenti organi delle Comunita' europee;
 
-Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -57,7 +57,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione
  d) le cessioni di campioni gratuiti di modico valore appositamente contrassegnati; 
  e) i conferimenti in societa' e altri enti, compresi i consorzi e le associazioni o altre organizzazioni; 
  f) i passaggi di beni in dipendenza di fusioni o trasformazioni di societa' e di analoghe operazioni poste in essere da altri enti; 
- g) le assegnazioni di case di abitazione fatte ai soci da cooperative edilizie a norma del [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), recante il [testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica, e successive modificazioni; 
+ g) le assegnazioni di case di abitazione fatte ai soci da cooperative edilizie a norma del [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), recante il [testo unico delle disposizioni sull'edilizia](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, e successive modificazioni; 
  h) le cessioni che hanno per oggetto beni acquistati o importati dal cedente senza poter detrarre la relativa imposta per effetto del secondo comma dell'art. 19". 
  
  Art. 3 - Prestazioni di servizi. - E' sostituito dal seguente: 
@@ -76,7 +76,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione
  d) i conferimenti e i passaggi di cui alle lettere e) ed f) del terzo comma dell'art. 2; 
  e) le prestazioni di mandato e di mediazione relative ai diritti d'autore, tranne quelli concernenti opere di cui alla lettera a), e le prestazioni relative alla protezione dei diritti d'autore di ogni genere, comprese quelle di intermediazione nella riscossione dei proventi; 
  f) le prestazioni di mandato e di mediazione relative ai prestiti obbligazionari; 
- g) le assegnazioni in godimento di case di abitazione fatte ai soci da cooperative a proprieta' indivisa a norma del [testo unico sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni; 
+ g) le assegnazioni in godimento di case di abitazione fatte ai soci da cooperative a proprieta' indivisa a norma del [testo unico sull'edilizia](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni; 
  h) le prestazioni dei commissionari relative ai passaggi di cui al n. 3) del secondo comma dell'art. 2 e quelle dei mandatari di cui al terzo comma del presente articolo". 
  
  Art. 4 - Esercizio di imprese. - E' sostituito dal seguente: 
@@ -571,7 +571,7 @@ decreto l'ufficio dell'imposta sul valore aggiunto procede alla irrogazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 dicembre 1979, n. 660](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;660), convertito, con modificazioni, dalla [L. 29 febbraio 1980, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20660%20recante%20misure%20urgenti%20in%20materia%20tributaria.md) (in G.U. 29/02/1980, n. 59) ha disposto (con l'art. 9, comma 1) che: "Le modificazioni apportate con l'[art. 1 del decreto del Presidente della Repubblica 29 gennaio 1979, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-01-29;24#art_1), all'[art. 36 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), hanno effetto dal 1 gennaio 1981".
+Il [D.L. 30 dicembre 1979, n. 660](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;660), convertito, con modificazioni, dalla [L. 29 febbraio 1980, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20660%20recante%20misure%20urgenti%20in%20materia%20tributaria.md) (in G.U. 29/02/1980, n. 59) ha disposto (con l'art. 9, comma 1) che: "Le modificazioni apportate con l'[art. 1 del decreto del Presidente della Repubblica 29 gennaio 1979, n. 24](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20e%20successive%20modificazioni%20anche%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%201_363c2a0eef39.md), all'[art. 36 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), hanno effetto dal 1 gennaio 1981".
 
 ## Art. 2.
 

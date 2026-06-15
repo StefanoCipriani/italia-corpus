@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 4 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_4), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali, sostituito dall'[art. 6 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_6), riguardante proroga, modifiche e integrazioni alla predetta delega;
+Visto l'[art. 4 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali, sostituito dall'[art. 6 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_6), riguardante proroga, modifiche e integrazioni alla predetta delega;
 
 Ritenuto opportuno; in applicazione delle summenzionate norme, di apportare modifiche alla procedura prevista dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;540#art_2) e [3 del decreto luogotenenziale 21 agosto 1945, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;540#art_3), concernente indennita' al personale dell'Amministrazione dello Stato incaricato di missione all'estero;
 
@@ -30,7 +30,7 @@ Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.le
 
 ## Art. 2.
 
-L'[art. 6 del decreto legislativo 7 maggio 1948, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;860#art_6), e' abrogato.
+L'[art. 6 del decreto legislativo 7 maggio 1948, n. 860](../Decreti%20Legislativi/Norme%20sul%20trattamento%20economico%20per%20le%20missioni%20del%20dipendenti%20statali%20in%20territorio%20estero.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo statuto della regione siciliana, approvato con il [regio decreto, legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo statuto della regione siciliana, approvato con il [regio decreto, legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Viste le determinazioni della commissione paritetica prevista dall'art. 43 dello statuto della regione;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-La regione siciliana esercita le attribuzioni del Ministero della marina mercantile in materia di pesca nel mare territoriale a norma e nei limiti dell'art. 20, in relazione all'art. 14, lettera l), dello statuto speciale della regione siciliana ed in conformita' al presente decreto, fermo restando il disposto del [decreto legislativo 7 maggio 1948, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;789).
+La regione siciliana esercita le attribuzioni del Ministero della marina mercantile in materia di pesca nel mare territoriale a norma e nei limiti dell'art. 20, in relazione all'art. 14, lettera l), dello statuto speciale della regione siciliana ed in conformita' al presente decreto, fermo restando il disposto del [decreto legislativo 7 maggio 1948, n. 789](../Decreti%20Legislativi/Esercizio%20nella%20Regione%20siciliana%20delle%20attribuzioni%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md).
 
 ## Art. 2.
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
- Vista la [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+ Vista la [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
  Visto l'[art. 46 del decreto del Presidente della Repubblica 10 marzo 1982, n. 163](Riordinamento%20degli%20osservatori%20astronomici%20astrofisici%20e%20vesuviano.md);
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;

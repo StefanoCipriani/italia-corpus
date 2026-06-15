@@ -80,7 +80,7 @@ ARTICOLO SOPPRESSO DALLA [L. 8 GENNAIO 1979, N. 3](../DL%20e%20leggi%20di%20conv
 
 AGGIORNAMENTO (4)
 
-La Corte Costituzionale con sentenza 26 giugno-24 luglio 1981, n. 149, (in 1a s.s. G.U. 29/7/1981, n. 207) ha dichiarato "l'illegittimita' costituzionale dell'[art. 7 del d.P.R. 19 agosto 1954, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-19;968#art_7)."
+La Corte Costituzionale con sentenza 26 giugno-24 luglio 1981, n. 149, (in 1a s.s. G.U. 29/7/1981, n. 207) ha dichiarato "l'illegittimita' costituzionale dell'[art. 7 del d.P.R. 19 agosto 1954, n. 968](Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md)."
 
 ## Art. 8.
 
@@ -213,7 +213,7 @@ Il controllo dei rendiconti delle spese e degli assegni di carattere fisso conce
 
 AGGIORNAMENTO (2)
 
-La [L. 18 dicembre 1970, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-18;1137), ha disposto (con l'art. 4) che in deroga all'[articolo 27 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-19;968#art_27) sono attribuite alle ragionerie provinciali dello Stato le funzioni di riscontro amministrativo contabile sui rendiconti relativi a spese concernenti il Corpo delle guardie di pubblica sicurezza per stipendi, paghe, assegni e indennita' varie di carattere fisso. Le ragionerie predette, accertata la regolarita' degli atti, ne curano l'inoltro alle competenti delegazioni della Corte dei conti ai sensi e per gli effetti dell'[articolo 60 del regio decreto 18 dicembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-18;2440#art_60).
+La [L. 18 dicembre 1970, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-18;1137), ha disposto (con l'art. 4) che in deroga all'[articolo 27 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md) sono attribuite alle ragionerie provinciali dello Stato le funzioni di riscontro amministrativo contabile sui rendiconti relativi a spese concernenti il Corpo delle guardie di pubblica sicurezza per stipendi, paghe, assegni e indennita' varie di carattere fisso. Le ragionerie predette, accertata la regolarita' degli atti, ne curano l'inoltro alle competenti delegazioni della Corte dei conti ai sensi e per gli effetti dell'[articolo 60 del regio decreto 18 dicembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-18;2440#art_60).
 
 ## Art. 28.
 

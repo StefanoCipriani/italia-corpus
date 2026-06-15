@@ -30,7 +30,7 @@ Alla Sezione di Corte di appello di Reggio Calabria sono assegnati; in aggiunta 
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 31 dicembre 1966, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-31;1185) ha disposto (con l'art. 2) che la pianta organica della sezione distaccata di Corte di appello di Reggio di Calabria di cui al presente decreto, e' diminuita di un posto di consigliere di Corte di appello.
+Il [D.P.R. 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md) ha disposto (con l'art. 2) che la pianta organica della sezione distaccata di Corte di appello di Reggio di Calabria di cui al presente decreto, e' diminuita di un posto di consigliere di Corte di appello.
 
 ## Art. 3.
 

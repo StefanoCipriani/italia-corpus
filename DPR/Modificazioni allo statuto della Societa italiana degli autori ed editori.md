@@ -14,9 +14,9 @@ Visto il titolo V della [legge 22 aprile 1941, n. 633](https://www.normattiva.it
 
 Visto il [regio decreto 24 agosto 1942, n. 1799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A..%20042U1799.md), con il quale fu approvato lo statuto dell'Ente italiano per il diritto d'autore (E.I.D.A.);
 
-Visto il [decreto legislativo luogotenenziale 20 luglio 1945, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-20;433), relativo alla modificazione della denominazione dell'Ente italiano per il diritto d'autore in quello di "Societa' italiana degli autori ed editori" (S.I.A.E.);
+Visto il [decreto legislativo luogotenenziale 20 luglio 1945, n. 433](../Decreti%20legislativi%20luogotenenziali/Modificazione%20della%20denominazione%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A.%20in%20quella%20di%20Societa%20Italiana%20degli%20Autori%20ed%20Editori%20S.I.A.E..%20045U0433.md), relativo alla modificazione della denominazione dell'Ente italiano per il diritto d'autore in quello di "Societa' italiana degli autori ed editori" (S.I.A.E.);
 
-Visto il [decreto legislativo 8 aprile 1948, n. 274, e l'articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-08;274#art_7) della [legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md);
+Visto il [decreto legislativo 8 aprile 1948, n. 274, e l'articolo 7](../Decreti%20Legislativi/Sistemazione%20del%20servizi%20stampa%20spettacolo%20e%20del%20Commissariato%20del%20turismo%20nonche%20dei%20relativi%20ruoli%20organici.md) della [legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md);
 
 Visto il [decreto del Presidente della Repubblica 20 ottobre 1962, n. 1842](Approvazione%20dello%20statuto%20della%20Societa%20italiana%20degli%20Autori%20ed%20Editori.md), con il quale e' stato approvato lo statuto della S.I.A.E.;
 

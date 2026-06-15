@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
 
 Sentito il parere delle sezioni riunite della Corte dei conti;
 
@@ -118,7 +118,7 @@ La Corte Costituzionale, con sentenza 12-18 luglio 1984, n. 212 (in G.U. 1a s.s.
 
 AGGIORNAMENTO (2)
 
-La [L. 7 agosto 1985, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428) ha disposto (con l'art. 11, comma 1) che "In attesa del definitivo riassetto conseguente ad un nuovo ordinamento della Corte dei conti, la dotazione organica cumulativa del personale dirigenziale, amministrativo e tecnico dei ruoli della Corte dei conti prevista dal [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), e dal combinato disposto dell'[articolo 5, secondo comma, della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_5-com2), dell'[articolo 32 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md), e dell'[articolo 7 del decreto del Presidente della Repubblica 29 aprile 1982, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-29;240#art_7), e' aumentata di cinquecento unita' - di cui sei posti di dirigente superiore e nove posti di primo dirigente - tenuto conto delle esigenze di funzionamento e di operativita' dei vari uffici e con assegnazione prioritaria alle sezioni e delegazioni regionali".
+La [L. 7 agosto 1985, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428) ha disposto (con l'art. 11, comma 1) che "In attesa del definitivo riassetto conseguente ad un nuovo ordinamento della Corte dei conti, la dotazione organica cumulativa del personale dirigenziale, amministrativo e tecnico dei ruoli della Corte dei conti prevista dal [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), e dal combinato disposto dell'[articolo 5, secondo comma, della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_5-com2), dell'[articolo 32 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md), e dell'[articolo 7 del decreto del Presidente della Repubblica 29 aprile 1982, n. 240](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20concernenti%20istituzione%20in%20Cagliari%20di%20una%20sezione%20giurisdizionale%20e%20delle%20sezioni%20riunite%20della%20Corte%20dei%20conti.md), e' aumentata di cinquecento unita' - di cui sei posti di dirigente superiore e nove posti di primo dirigente - tenuto conto delle esigenze di funzionamento e di operativita' dei vari uffici e con assegnazione prioritaria alle sezioni e delegazioni regionali".
 
 ## Art. 8.
 
@@ -132,7 +132,7 @@ La Corte Costituzionale, con sentenza 12-18 luglio 1984, n. 212 (in G.U. 1a s.s.
 
 ## Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115) ))
+((ARTICOLO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md) ))
 
 ## Art. 10.
 

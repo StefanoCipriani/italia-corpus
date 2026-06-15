@@ -298,7 +298,7 @@ colonnellio) iscritti nel ruolo ad
 
 AGGIORNAMENTO (3)
 
-La [L. 10 ottobre 1986, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-10;668) ha disposto (con l'art. 1, comma 1) che:"A decorrere dal 25 giugno 1982, il numero dei funzionari non ancora valutati da ammettere alla valutazione di cui all'[articolo 39, primo comma, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;336#art_39-com1-leta) e [b), del decreto del Presidente della Repubblica 24 aprile 1982, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;336#art_39-com1-letb), e' modificato, rispettivamente, come segue:
+La [L. 10 ottobre 1986, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-10;668) ha disposto (con l'art. 1, comma 1) che:"A decorrere dal 25 giugno 1982, il numero dei funzionari non ancora valutati da ammettere alla valutazione di cui all'[articolo 39, primo comma, lettere a)](Inquadramento%20nei%20ruoli%20della%20Polizia%20di%20Stato%20del%20personale%20che%20espleta%20funzioni%20di%20polizia.md) e [b), del decreto del Presidente della Repubblica 24 aprile 1982, n. 336](Inquadramento%20nei%20ruoli%20della%20Polizia%20di%20Stato%20del%20personale%20che%20espleta%20funzioni%20di%20polizia.md), e' modificato, rispettivamente, come segue:
 a)un terzo dei vice questori aggiunti iscritti nel ruolo ad esaurimento;
 b)un terzo dei primi dirigenti iscritti nel ruolo ad esaurimento".
 

@@ -79,11 +79,11 @@ L'ufficio provvede, altresi', sotto la vigilanza del Ministero dell'industria, a
 
 1.
 
-Il conservatore provvede alla nomina dei responsabili previsti dalla [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e dal [decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39).
+Il conservatore provvede alla nomina dei responsabili previsti dalla [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e dal [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 Note all'[art. 3:
  - La legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_3) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi) e' stata pubblicata nella Gazzetta Ufficiale n. 192 del 18 agosto 1990.
- - Il [D.Lgs. 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421)) e' stato pubblicato nella Gazzetta Ufficiale n. 42 del 20 febbraio 1993.
+ - Il [D.Lgs. 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)) e' stato pubblicato nella Gazzetta Ufficiale n. 42 del 20 febbraio 1993.
 
 ### Art. 4. — Giudice del registro
 
@@ -143,7 +143,7 @@ Nel registro delle imprese sono iscritti:
  1) gli imprenditori di cui all'[art. 2195 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2195);
  2) le societa' di cui all'[art. 2200 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2200);
  3) i consorzi di cui all'[art. 2612 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2612) e le societa' consortili di cui all'[art. 2615-ter del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2615ter);
- 4) i gruppi europei di interesse economico di cui al [decreto legislativo 23 luglio 1991, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-07-23;240);
+ 4) i gruppi europei di interesse economico di cui al [decreto legislativo 23 luglio 1991, n. 240](../Decreti%20Legislativi/Norme%20per%20lapplicazione%20del%20regolamento%20n.%2085-2137-CEE%20relativo%20allistituzione%20di%20un%20Gruppo%20europeo%20di%20interesse%20economico%20-%20GEIE%20ai%20sensi%20dellart.%2017%20della%20legge%2029%20dicembre%201990%20n.%20428.md);
  5) gli enti pubblici che hanno per oggetto esclusivo o principale un'attivita' commerciale, di cui all'[art. 2201 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2201);
  6) le societa' che sono soggette alla legge italiana ai sensi dell'[art. 25 della legge 31 maggio 1995, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218#art_25);
  7) gli imprenditori agricoli di cui all'[art. 2135 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2135);

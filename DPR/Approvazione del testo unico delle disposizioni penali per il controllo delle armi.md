@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo 5 febbraio 1948, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-05;100), modificato con la [legge 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md);
+Visto il [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), modificato con la [legge 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md);
 
 Visto l'articolo unico, comma tredicesimo, della predetta [legge 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md);
 

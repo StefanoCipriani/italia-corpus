@@ -37,7 +37,7 @@ La medaglia d'onore per lunga navigazione di cui al [decreto luogotenenziale 1 m
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), come modificato dal [D.Lgs. 31 dicembre 2012, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;248), non prevede piu' (con l'art. 2268, comma 1, numero 816) abrogazione del presente provvedimento.
+Il [D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), come modificato dal [D.Lgs. 31 dicembre 2012, n. 248](../Decreti%20Legislativi/Ulteriori%20modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20Codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2013G00020.md), non prevede piu' (con l'art. 2268, comma 1, numero 816) abrogazione del presente provvedimento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
 
-Veduto il [decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172), ratificato con modifiche, con [legge 24 giugno 1950, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;6);
+Veduto il [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), ratificato con modifiche, con [legge 24 giugno 1950, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;6);
 
 Veduta la [legge 18 marzo 1958, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349), recante miglioramenti economici e di carriera a favore degli assistenti universitari;
 
@@ -24,7 +24,7 @@ E' approvata, e resa esecutiva l'annessa convenzione in data 11 maggio 1959 stip
 
 ## Art. 2.
 
-E' istituito, ai sensi dell'art. 1 (sub [art. 13-bis) della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli di ruolo organico assegnati alla Facolta' di medicina e chirurgia della Universita' di Siena, in base ai [decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172), e successive modificazioni.
+E' istituito, ai sensi dell'art. 1 (sub [art. 13-bis) della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli di ruolo organico assegnati alla Facolta' di medicina e chirurgia della Universita' di Siena, in base ai [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), e successive modificazioni.
 
 ## Art. 3.
 

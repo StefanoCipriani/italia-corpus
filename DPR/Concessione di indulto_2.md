@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 79 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_79);
 
-Vista la [legge 21 dicembre 1990, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-21;393);
+Vista la [legge 21 dicembre 1990, n. 393](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Presidente%20della%20Repubblica%20per%20la%20concessione%20di%20indulto_2.md);
 
 Sentito il Consiglio dei Ministri;
 

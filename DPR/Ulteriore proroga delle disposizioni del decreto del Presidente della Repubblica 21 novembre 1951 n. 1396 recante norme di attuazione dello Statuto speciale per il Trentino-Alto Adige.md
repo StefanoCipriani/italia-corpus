@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
+Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Visto il [decreto del Presidente della Repubblica 21 novembre 1951, n. 1396](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige_2.md), recante norme di attuazione dello Statuto speciale per il Trentino-Alto Adige, la cui efficacia venne prorogata con successivi decreti 29 dicembre 1956, n. 1507 e 24 gennaio 1962, n. 46;
 

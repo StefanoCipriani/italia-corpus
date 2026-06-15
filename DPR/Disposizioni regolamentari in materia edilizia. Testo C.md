@@ -18,7 +18,7 @@ Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/u
 
 Visto il punto 2 dell'allegato n. 3 della [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), allegato 1, n. 105 e n. 112-quinquies;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, n. 105 e n. 112-quinquies;
 
 Visto l'[articolo 1 della legge 16 giugno 1998, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191#art_1);
 
@@ -32,7 +32,7 @@ Vista la [legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni;
 
-Visto il [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267);
+Visto il [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
 
 Visto il [decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md);
 
@@ -54,7 +54,7 @@ Vista la [legge 5 marzo 1990, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 16 febbraio 2001 e del 4 aprile 2001;
 
-Sentita la Conferenza unificata ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_9-com3);
+Sentita la Conferenza unificata ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Udito il parere del Consiglio di Stato, espresso nella Sezione consultiva per gli atti normativi nell'adunanza generale del 29 marzo 2001;
 
@@ -89,7 +89,7 @@ Competenze delle regioni e degli enti locali
 
 1.
 
-Le amministrazioni comunali, nell'ambito della propria autonomia organizzativa, provvedono, anche mediante esercizio in forma associata delle strutture ai sensi del Capo V, titolo II del [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), ovvero accorpamento, disarticolazione, soppressione di uffici o organi gia' esistenti, a costituire un ufficio denominato sportello unico per l'edilizia, che cura tutti i rapporti fra il privato, l'amministrazione e, ove occorra, le altre amministrazioni tenute a pronunciarsi in ordine all'intervento edilizio oggetto della richiesta di permesso o di denuncia di inizio attivita'.
+Le amministrazioni comunali, nell'ambito della propria autonomia organizzativa, provvedono, anche mediante esercizio in forma associata delle strutture ai sensi del Capo V, titolo II del [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), ovvero accorpamento, disarticolazione, soppressione di uffici o organi gia' esistenti, a costituire un ufficio denominato sportello unico per l'edilizia, che cura tutti i rapporti fra il privato, l'amministrazione e, ove occorra, le altre amministrazioni tenute a pronunciarsi in ordine all'intervento edilizio oggetto della richiesta di permesso o di denuncia di inizio attivita'.
 
 2.
 

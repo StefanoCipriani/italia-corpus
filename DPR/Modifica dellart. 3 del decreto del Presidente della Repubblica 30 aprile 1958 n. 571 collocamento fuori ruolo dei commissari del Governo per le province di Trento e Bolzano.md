@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 44 della legge costituzionale 10 novembre 1971, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1971-11-10;1#art_44), recante modificazioni e integrazioni dello statuto speciale per il Trentino-Alto Adige, che ha istituito in quel territorio regionale un commissario del Governo per la provincia di Trento e un commissario del Governo per la provincia di Bolzano;
+Visto l'[art. 44 della legge costituzionale 10 novembre 1971, n. 1](../Leggi%20costituzionali/Modificazioni%20e%20integrazioni%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), recante modificazioni e integrazioni dello statuto speciale per il Trentino-Alto Adige, che ha istituito in quel territorio regionale un commissario del Governo per la provincia di Trento e un commissario del Governo per la provincia di Bolzano;
 
 Visto l'[art. 58 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), con cui e' stato approvato il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato;
 

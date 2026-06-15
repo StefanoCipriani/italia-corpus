@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 12 della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_12), che approva lo Statuto speciale per la Valle d'Aosta;
+Visto l'[art. 12 della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), che approva lo Statuto speciale per la Valle d'Aosta;
 
 Visto l'[art. 18 della legge 10 agosto 1950, n. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;602#art_18), che approva lo stato di previsione della entrata e lo stato di previsione della spesa del Ministero del tesoro per l'esercito finanziario 1950-51;
 

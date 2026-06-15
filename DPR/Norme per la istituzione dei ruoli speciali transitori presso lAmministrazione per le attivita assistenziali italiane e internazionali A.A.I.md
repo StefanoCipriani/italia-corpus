@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262) e la [legge 5 giugno 1951, n. 376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20sulla%20istituzione%20di%20ruoli%20speciali%20transitori%20nelle%20Amministrazioni%20dello%20Stato.md);
+Visto il [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md) e la [legge 5 giugno 1951, n. 376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20sulla%20istituzione%20di%20ruoli%20speciali%20transitori%20nelle%20Amministrazioni%20dello%20Stato.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) della Repubblica;
 
@@ -42,7 +42,7 @@ Salvo il disposto dell'[art. 5 della legge 5 giugno 1951, n. 376](../Atti%20norm
  per il collocamento nei ruoli - centrale e periferico - del personale amministrativo di gruppo A, uno dei seguenti diplomi di laurea o titolo ad essi equipollente: giurisprudenza, economia e commercio, scienze politiche;
  per il collocamento nei ruoli - centrale e periferico - del personale tecnico (ingegneri e architetti) di gruppo A, uno dei seguenti diplomi di laurea o titolo ad esso equipollente: ingegneria, architettura;
  per il collocamento nei ruoli - centrale e periferico - del personale amministrativo di gruppo B (coadiutori), uno dei seguenti diplomi di licenza di Istituto medio di secondo grado: maturita' classica, scientifica artistica, abilitazione magistrale (o titolo equivalente in base agli ordinamenti vigenti anteriormente al [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054)), abilitazione tecnica commerciale, industriale, agraria, nautica, per geometri (o titoli corrispondenti in base all'ordinamento vigente anteriormente alla [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889)).
- Per i ruoli del personale di gruppo C si prescinde dal possesso del titolo di studio ai sensi dell'[art. 2 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_2).
+ Per i ruoli del personale di gruppo C si prescinde dal possesso del titolo di studio ai sensi dell'[art. 2 del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md).
 
 ## Art. 3.
 

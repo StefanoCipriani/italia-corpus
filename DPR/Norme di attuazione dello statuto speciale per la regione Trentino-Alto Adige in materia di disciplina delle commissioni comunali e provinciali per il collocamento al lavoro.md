@@ -110,7 +110,7 @@ In corrispondenza al contingente di personale trasferito e' ridotta, con decorre
 
 8.
 
-Per l'esercizio delle funzioni amministrative delegate con il presente decreto resta fermo quanto disposto dall'[art. 5 del decreto del Presidente della Repubblica 19 novembre 1987, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-11-19;526#art_5).
+Per l'esercizio delle funzioni amministrative delegate con il presente decreto resta fermo quanto disposto dall'[art. 5 del decreto del Presidente della Repubblica 19 novembre 1987, n. 526](Estensione%20alla%20regione%20Trentino-Alto%20Adige%20ed%20alle%20province%20autonome%20di%20Trento%20e%20Bolzano%20delle%20disposizioni%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616.md).
 
 9.
 
@@ -124,6 +124,6 @@ Sino a quando non sia diversamente disposto con legge provinciale, gli uffici di
 
 1.
 
-La determinazione dei rimborsi spettanti alle province ai sensi dell'[art. 14 del decreto legislativo 16 marzo 1992, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268#art_14) (Norme di attuazione dello statuto speciale per il Trentino-Alto Adige) per l'esercizio delle funzioni delegate ai sensi dell'art. 1 del presente decreto e' effettuata con cadenza triennale mediante intesa tra il Governo e i presidenti delle rispettive giunte provinciali tenendo conto di quanto previsto dal [comma 2 dell'art. 34 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_34-com2).
+La determinazione dei rimborsi spettanti alle province ai sensi dell'[art. 14 del decreto legislativo 16 marzo 1992, n. 268](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20finanza%20regionale%20e%20provinciale.md) (Norme di attuazione dello statuto speciale per il Trentino-Alto Adige) per l'esercizio delle funzioni delegate ai sensi dell'art. 1 del presente decreto e' effettuata con cadenza triennale mediante intesa tra il Governo e i presidenti delle rispettive giunte provinciali tenendo conto di quanto previsto dal [comma 2 dell'art. 34 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md).
 
 ))

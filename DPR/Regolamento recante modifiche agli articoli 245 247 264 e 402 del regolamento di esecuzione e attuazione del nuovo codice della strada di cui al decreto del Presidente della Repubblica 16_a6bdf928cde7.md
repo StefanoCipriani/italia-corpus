@@ -14,13 +14,13 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
-Vista la [legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190), recante la delega al Governo per la revisione delle norme concernenti la disciplina della circolazione stradale, e, in particolare, l'articolo 3 il quale prevede che con decreto del Presidente della Repubblica sono emanate norme regolamentari per la esecuzione e l'attuazione del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
+Vista la [legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), recante la delega al Governo per la revisione delle norme concernenti la disciplina della circolazione stradale, e, in particolare, l'articolo 3 il quale prevede che con decreto del Presidente della Repubblica sono emanate norme regolamentari per la esecuzione e l'attuazione del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante il nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 
 Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante il regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 
-Visto il [decreto legislativo 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), recante norme di razionalizzazione dei processi di gestione dei dati di circolazione e di proprieta' di autoveicoli, motoveicoli e rimorchi finalizzata al rilascio di un documento unico, ai sensi dell'[articolo 8, comma 1, lettera d), della legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124#art_8-com1-letd), e, in particolare, l'articolo 5, commi 1 e 3;
+Visto il [decreto legislativo 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), recante norme di razionalizzazione dei processi di gestione dei dati di circolazione e di proprieta' di autoveicoli, motoveicoli e rimorchi finalizzata al rilascio di un documento unico, ai sensi dell'[articolo 8, comma 1, lettera d), della legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124#art_8-com1-letd), e, in particolare, l'articolo 5, commi 1 e 3;
 
 Considerata la necessita' di dover adeguare le disposizioni contenute nel [decreto del Presidente della Repubblica n. 495 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992;495), coerentemente con le modifiche introdotte dal citato [decreto legislativo n. 98 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;98) al citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285);
 
@@ -69,10 +69,10 @@ Dalle disposizioni del presente regolamento non derivano nuovi o maggiori oneri 
 
 1.
 
-Il presente regolamento entra in vigore alla data di cui all'[articolo 1, comma 1, del decreto legislativo 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98#art_1-com1).
+Il presente regolamento entra in vigore alla data di cui all'[articolo 1, comma 1, del decreto legislativo 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md).
 
 Note all'art. 3: 
- - Per i riferimenti al [decreto legislativo 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), si veda nelle note alle premesse.
+ - Per i riferimenti al [decreto legislativo 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), si veda nelle note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

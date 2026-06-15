@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 1 della legge 23 settembre 1981, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-23;533#art_1), recante delega al Governo per il definitivo riordinamento delle pensioni di guerra;
+Visto l'[art. 1 della legge 23 settembre 1981, n. 533](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20definitivo%20riordinamento%20delle%20pensioni%20di%20guerra.md), recante delega al Governo per il definitivo riordinamento delle pensioni di guerra;
 
 Udito, ai sensi del predetto art. 1, il parere delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
 
@@ -31,7 +31,7 @@ Adeguamento automatico dei trattamenti pensionistici di guerra
  ((COMMA ABROGATO DALLA L. 6 OTTOBRE 1989, N. 656)). ((1))
                             ((COMMA ABROGATO DALLA L. 6 OTTOBRE 1989, N. 656)). ((1))
                             ((COMMA ABROGATO DALLA L. 6 OTTOBRE 1989, N. 656)). ((1)) 
- A decorrere dal 1 gennaio 1982 sono soppressi gli [articoli 74](Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md) e [75 del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915](Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md), ed il [secondo comma dell'art. 32 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_32-com2). 
+ A decorrere dal 1 gennaio 1982 sono soppressi gli [articoli 74](Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md) e [75 del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915](Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md), ed il [secondo comma dell'art. 32 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md). 
  Gli importi percepiti alla data del 31 dicembre 1981 per indennita' integrativa speciale sono conservati dai beneficiari a titolo di assegno personale non riversibile. 
  L'assegno di cui al comma precedente non spetta a coloro che fruiscono o vengano a fruire di altra pensione, assegno o retribuzione comunque collegati con le variazioni dell'indice del costo della vita o con analoghi sistemi di adeguamento automatico stabiliti dalle vigenti disposizioni. 
  Gli assegni aggiuntivi corrisposti ai sensi dell'art. 75 del citato decreto del Presidente della Repubblica n. 915 sono conglobati negli importi delle pensioni e degli assegni di cui alle tabelle indicate nel primo comma del presente articolo. 
@@ -146,7 +146,7 @@ Condizioni economiche per il conferimento di assegni o di trattamenti pensionist
 
 AGGIORNAMENTO (1)
 
-La [L. 6 ottobre 1986, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-06;656) ha disposto (con l'art. 2 comma 3) che "il limite di reddito, nei casi in cui sia previsto come condizione per il conferimento dei trattamenti od assegni pensionistici di guerra, stabilito in lire 5.200.000 dall'[articolo 12 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;834#art_12), e' elevato a lire 7.500.000 con decorrenza dal 1 gennaio 1985".
+La [L. 6 ottobre 1986, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-06;656) ha disposto (con l'art. 2 comma 3) che "il limite di reddito, nei casi in cui sia previsto come condizione per il conferimento dei trattamenti od assegni pensionistici di guerra, stabilito in lire 5.200.000 dall'[articolo 12 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md), e' elevato a lire 7.500.000 con decorrenza dal 1 gennaio 1985".
 
 ## Art. 13.
 
@@ -242,7 +242,7 @@ le commissioni mediche periferiche e la commissione
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 30 maggio 1988, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-30;173), convertito con modificazioni dalla [L. 26 luglio 1988, n. 291](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201988%20n.%20173%20recante%20misure%20urgenti%20in%20materia%20di%20finanza%20pubblica%20per%20lanno%201988.%20Delega%20al%20Governo%20per%20la%20revisione%20del_da4733c10759.md) ha disposto (con l'art. 3, comma 5) che "Il numero complessivo massimo di sanitari, attualmente stabilito in duecentoventi unita' per le commissioni mediche per le pensioni di guerra e in centodieci unita' per la commissione medica superiore dall'[articolo 22 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;834#art_22), e' aumentato, rispettivamente, fino a cinquecento unita' e fino a duecento unita'".
+Il [D.L. 30 maggio 1988, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-30;173), convertito con modificazioni dalla [L. 26 luglio 1988, n. 291](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201988%20n.%20173%20recante%20misure%20urgenti%20in%20materia%20di%20finanza%20pubblica%20per%20lanno%201988.%20Delega%20al%20Governo%20per%20la%20revisione%20del_da4733c10759.md) ha disposto (con l'art. 3, comma 5) che "Il numero complessivo massimo di sanitari, attualmente stabilito in duecentoventi unita' per le commissioni mediche per le pensioni di guerra e in centodieci unita' per la commissione medica superiore dall'[articolo 22 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md), e' aumentato, rispettivamente, fino a cinquecento unita' e fino a duecento unita'".
 
 ## Art. 23.
 
@@ -289,7 +289,7 @@ Ricorso alla Corte dei conti
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 19 marzo-2 aprile 1992, n. 154 (in G.U. 1a s.s. 08/04/1992, n. 15) ha dichiarato "l'illegittimita' costituzionale dell'[art. 25, primo comma, del d.P.R. 30 dicembre 1981, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;834#art_25-com1) (Definitivo riordinamento delle pensioni di guerra, in attuazione della delega prevista dall'[art. 1 della legge 23 settembre 1981, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-23;533#art_1)), nel testo di cui all'[art. 17, primo comma, della legge 6 ottobre 1986, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-06;656#art_17-com1) (Modifiche ed integrazioni alla normativa sulle pensioni di guerra), nella parte in cui non prevede l'esperibilita' dell'azione in via giurisdizionale anche in mancanza del preventivo ricorso gerarchico".
+La Corte Costituzionale, con sentenza 19 marzo-2 aprile 1992, n. 154 (in G.U. 1a s.s. 08/04/1992, n. 15) ha dichiarato "l'illegittimita' costituzionale dell'[art. 25, primo comma, del d.P.R. 30 dicembre 1981, n. 834](Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md) (Definitivo riordinamento delle pensioni di guerra, in attuazione della delega prevista dall'[art. 1 della legge 23 settembre 1981, n. 533](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20definitivo%20riordinamento%20delle%20pensioni%20di%20guerra.md)), nel testo di cui all'[art. 17, primo comma, della legge 6 ottobre 1986, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-06;656#art_17-com1) (Modifiche ed integrazioni alla normativa sulle pensioni di guerra), nella parte in cui non prevede l'esperibilita' dell'azione in via giurisdizionale anche in mancanza del preventivo ricorso gerarchico".
 
 ## Art. 26.
 
@@ -364,7 +364,7 @@ Disposizioni sul personale amministrativo e tecnico della Corte dei conti
 
 Copertura finanziaria 
  
- All'onere relativo all'applicazione del presente decreto, valutato in lire 302 miliardi annui, di cui 103 miliardi e 500 milioni per il periodo 1 luglio - 31 dicembre 1981, si provvede con le somme iscritte al cap. 6171 degli stati di previsione del Ministero del tesoro per gli anni finanziari 1981 e 1982 in relazione all'autorizzazione di spesa di cui all'[art. 3 della legge 23 settembre 1981, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-23;533#art_3). 
+ All'onere relativo all'applicazione del presente decreto, valutato in lire 302 miliardi annui, di cui 103 miliardi e 500 milioni per il periodo 1 luglio - 31 dicembre 1981, si provvede con le somme iscritte al cap. 6171 degli stati di previsione del Ministero del tesoro per gli anni finanziari 1981 e 1982 in relazione all'autorizzazione di spesa di cui all'[art. 3 della legge 23 settembre 1981, n. 533](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20definitivo%20riordinamento%20delle%20pensioni%20di%20guerra.md). 
  Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

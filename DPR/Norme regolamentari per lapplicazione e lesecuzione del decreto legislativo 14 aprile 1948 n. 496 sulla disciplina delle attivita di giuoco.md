@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 5 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_5);
+Visto l'[art. 5 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -147,7 +147,7 @@ Nel caso di opposizione da parte di terzi al pagamento di uno qualsiasi dei prem
 ### Art. 23.
 
 Agli effetti del presente regolamento deve intendersi per gestore la persona fisica o giuridica che provvede con propria organizzazione allo svolgimento delle operazioni del giuoco o del concorso.
- Acquistano la qualifica di gestori lo Stato e gli enti indicati nel [decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496), se assumono direttamente l'organizzazione e l'esercizio delle attivita' di giuoco.
+ Acquistano la qualifica di gestori lo Stato e gli enti indicati nel [decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), se assumono direttamente l'organizzazione e l'esercizio delle attivita' di giuoco.
 
 ## A) Gestione diretta
 
@@ -247,7 +247,7 @@ L'ente o la persona, cui il Ministro per le finanze ha deciso di affidare la ges
 
 ### Art. 40.
 
-Nella convenzione di cui all'[art. 2 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_2), saranno stabilite la misura dell'aggio e le modalita' della gestione, tenute presenti le norme del presente regolamento.
+Nella convenzione di cui all'[art. 2 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), saranno stabilite la misura dell'aggio e le modalita' della gestione, tenute presenti le norme del presente regolamento.
 
 ### Art. 41.
 
@@ -308,7 +308,7 @@ I risultati ottenuti dall'esercizio del giuoco o del concorso, formeranno oggett
 
 ### Art. 52.
 
-I regolamenti per l'organizzazione e l'esercizio delle attivita' di giuoco riservate al C.O.N.I. e all'U.N.I.R.E., a mente dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), sono approvati con decreto del Ministro per le finanze.
+I regolamenti per l'organizzazione e l'esercizio delle attivita' di giuoco riservate al C.O.N.I. e all'U.N.I.R.E., a mente dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), sono approvati con decreto del Ministro per le finanze.
 
 ### Art. 53.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723#art_13) e [5 del decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723#art_5);
+Visti gli [articoli 13](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md) e [5 del decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,15 +24,15 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per il teso
 
 ## Art. 1.
 
-Il concorso per il conferimento dei posti disponibili nei vari gradi del ruolo del personale tecnico dei periti, gruppo B, previsto nell'[art. 3 del decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723#art_3), e nella tabella allegato D all'decreto stesso, si effettuera' con l'osservanza delle norme stabilite nei seguenti articoli.
+Il concorso per il conferimento dei posti disponibili nei vari gradi del ruolo del personale tecnico dei periti, gruppo B, previsto nell'[art. 3 del decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), e nella tabella allegato D all'decreto stesso, si effettuera' con l'osservanza delle norme stabilite nei seguenti articoli.
 
 ## Art. 2.
 
-L'ammissione al concorso citato al precedente art. 1 degli aspiranti appartenenti ai soppressi ruoli di seconda categoria: tecnico e meccanico, non muniti di alcuno dei titoli di studio, indicati all'[art. 5, primo comma, del regio decreto 11 aprile 1940, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20040U0278.md), i quali abbiano conseguito, alla data di entrata in vigore del [decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723), una anzianita' di servizio nei ruoli suddetti non inferiore a cinque anni e siano giudicati meritevoli, e' disposta con deliberazione del Ministro per le, finanze, previo parere del Consiglio di amministrazione dei monopoli di Stato.
+L'ammissione al concorso citato al precedente art. 1 degli aspiranti appartenenti ai soppressi ruoli di seconda categoria: tecnico e meccanico, non muniti di alcuno dei titoli di studio, indicati all'[art. 5, primo comma, del regio decreto 11 aprile 1940, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20040U0278.md), i quali abbiano conseguito, alla data di entrata in vigore del [decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), una anzianita' di servizio nei ruoli suddetti non inferiore a cinque anni e siano giudicati meritevoli, e' disposta con deliberazione del Ministro per le, finanze, previo parere del Consiglio di amministrazione dei monopoli di Stato.
 
 ## Art. 3.
 
-La, conversazione prevista dal [terzo comma dell'art. 3 del decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723#art_3-com3), dovra' svolgersi su argomenti di cultura generale, prevalentemente attinenti alle materie concernenti il servizio che i singoli concorrenti disimpegnano o dovranno disimpegnare nel caso di esito favorevole del concorso.
+La, conversazione prevista dal [terzo comma dell'art. 3 del decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), dovra' svolgersi su argomenti di cultura generale, prevalentemente attinenti alle materie concernenti il servizio che i singoli concorrenti disimpegnano o dovranno disimpegnare nel caso di esito favorevole del concorso.
 
 ## Art. 4.
 
@@ -48,11 +48,11 @@ La Commissione fissa preliminarmente i criteri per la valutazione dei titoli e f
 
 ## Art. 6.
 
-Le norme di cui ai precedenti articoli si applicano per il conferimento di tutti i posti previsti dalla tabella allegato D al [decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723).
+Le norme di cui ai precedenti articoli si applicano per il conferimento di tutti i posti previsti dalla tabella allegato D al [decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md).
 
 ## Art. 7.
 
-Il concorso per titoli previsto nell'[art. 5 del decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723#art_5), per il conferimento dei posti disponibili nel grado 13° del ruolo del personale d'ordine, gruppo C, dell'Amministrazione dei monopoli di Stato, riservato al personale impiegatizio non di ruolo ed a quello salariato di ruolo e non di ruolo, maschile e femminile, dell'Amministrazione stessa si effettuera' con l'osservanza, delle norme di cui ai successivi articoli.
+Il concorso per titoli previsto nell'[art. 5 del decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), per il conferimento dei posti disponibili nel grado 13° del ruolo del personale d'ordine, gruppo C, dell'Amministrazione dei monopoli di Stato, riservato al personale impiegatizio non di ruolo ed a quello salariato di ruolo e non di ruolo, maschile e femminile, dell'Amministrazione stessa si effettuera' con l'osservanza, delle norme di cui ai successivi articoli.
 
 ## Art. 8.
 

@@ -500,7 +500,7 @@ A tal fine le controversie individuali, almeno venti giorni prima della scadenza
 
 4.
 
-Per le controversie collettive, anche ai sensi e per gli effetti dell'[art. 4 della legge 23 maggio 1980, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;242#art_4), sara' esperito un previo tentativo di composizione del conflitto, entro cinque giorni dalla data di applicazione dell'Azienda del preavviso dovuto ai sensi del comma 2, a cura del medesimo collegio paritetico, che rendera' il suo giudizio nei successivi quindici giorni.
+Per le controversie collettive, anche ai sensi e per gli effetti dell'[art. 4 della legge 23 maggio 1980, n. 242](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20ristrutturazione%20dei%20servizi%20di%20assistenza%20al%20volo.md), sara' esperito un previo tentativo di composizione del conflitto, entro cinque giorni dalla data di applicazione dell'Azienda del preavviso dovuto ai sensi del comma 2, a cura del medesimo collegio paritetico, che rendera' il suo giudizio nei successivi quindici giorni.
 
 Nota all'[art. 25:
  - La legge n. 242/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;242#art_25) reca: "Delega al Governo per la ristrutturazionedei servizi di assistenza al volo". Si trascrive il testo del relativo art. 4:

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), riguardante lo ordinamento delle borse di commercio e l'annesso regolamento approvato con [regio decreto 4 settembre 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-09-04;1068);
 
-Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315), sulla composizione dei consigli e degli uffici provinciali dell'economia e sulla costituzione delle camere di commercio, industria e agricoltura e degli uffici provinciali dell'industria e del commercio;
+Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md), sulla composizione dei consigli e degli uffici provinciali dell'economia e sulla costituzione delle camere di commercio, industria e agricoltura e degli uffici provinciali dell'industria e del commercio;
 
 Vista la [legge 30 maggio 1950, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-30;374), concernente il ripristino delle borse merci;
 

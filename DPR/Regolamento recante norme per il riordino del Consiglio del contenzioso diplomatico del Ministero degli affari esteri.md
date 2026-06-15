@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[art. 1, comma 28, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28);
+Visto l'[art. 1, comma 28, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
 
 Visto il [decreto del Presidente della Repubblica 9 maggio 1994, n. 608](Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md), e, in particolare, l'art. 5, comma 1, lettera a);
 
@@ -50,7 +50,7 @@ La [lettera a) del comma 1](Regolamento%20recante%20norme%20sul%20riordino%20deg
 
 Nota all'art. 1:
  - Si riporta il testo dell'art. 5 del regolamento recante norme sul riordino degli organi collegiali dello Stato, adottato con [D.P.R. n. 608/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;608), come sopra modificato:
- "Art. 5 (Trasferimento di funzioni). - 1. Ai sensi dell'[art. 1, comma 28, lettera d), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28-letd), sono trasferite ai dirigenti amministrativi le seguenti funzioni:
+ "Art. 5 (Trasferimento di funzioni). - 1. Ai sensi dell'[art. 1, comma 28, lettera d), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono trasferite ai dirigenti amministrativi le seguenti funzioni:
  ( a) funzioni consultive gia' attribuite al Consiglio del contenzioso diplomatico) (soppressa);
  b) funzioni relative al vestiario e all'equipaggiamento del personale del Corpo vigili del fuoco gia' attribuite alle commissioni vestiario ed equipaggiamento del personale del Corpo vigili del fuoco;
  c) funzioni relative alla razionalizzazione del settore siderurgico gia' attribuite al Comitato tecnico "Fondo per la razionalizzazione aziendale ed interaziendale degli impianti siderurgici";

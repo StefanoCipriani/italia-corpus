@@ -52,7 +52,7 @@ Le norme per l'integrazione e l'attuazione di leggi della Repubblica, in applica
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale, con sentenza 19 - 30 dicembre 1985, n. 371 (in G.U. 1a s.s. 08/01/1986, n. 1), ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, secondo comma, del d.P.R. 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_4-com2), nella parte in cui si prevede che i regolamenti di esecuzione delle leggi regionali siano approvati con deliberazione della Giunta regionale, e dell'art. 2 n. 3 della legge regionale della Sardegna 7 marzo 1956, n. 37".
+La Corte Costituzionale, con sentenza 19 - 30 dicembre 1985, n. 371 (in G.U. 1a s.s. 08/01/1986, n. 1), ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, secondo comma, del d.P.R. 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md), nella parte in cui si prevede che i regolamenti di esecuzione delle leggi regionali siano approvati con deliberazione della Giunta regionale, e dell'art. 2 n. 3 della legge regionale della Sardegna 7 marzo 1956, n. 37".
 
 ## Art. 5.
 
@@ -105,7 +105,7 @@ Nell'esercizio delle funzioni amministrative spettanti alla Regione in materia d
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 1956, n. 22 (in G.U. 1a s.s. 21/07/1956, n. 181), ha dichiarato "l'illegittimita' costituzionale dell'[art. 13 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_13), contenente norme d'attuazione dello Statuto speciale per la Sardegna".
+La Corte Costituzionale, con sentenza 5 - 19 luglio 1956, n. 22 (in G.U. 1a s.s. 21/07/1956, n. 181), ha dichiarato "l'illegittimita' costituzionale dell'[art. 13 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md), contenente norme d'attuazione dello Statuto speciale per la Sardegna".
 
 ## Art. 14.
 
@@ -119,7 +119,7 @@ L'attivita' amministrativa concernente i giacimenti di interesse nazionale e' sv
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale delle norme contenute nell'[art. 15 del D.P.R. 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_15), nei sensi e nei limiti indicati nella motivazione".
+La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale delle norme contenute nell'[art. 15 del D.P.R. 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md), nei sensi e nei limiti indicati nella motivazione".
 
 ## Art. 16.
 
@@ -139,7 +139,7 @@ Le funzioni ispettive sulle Camere di commercio, industria ed agricoltura della 
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale della prima parte del primo comma dell'art. 17 ("Le funzioni ispettive sulle Camere di commercio industria ed agricoltura della Sardegna sono esercitate, secondo le direttive del Ministero dell'industria e del commercio, dall'Amministrazione regionale") e del quarto comma dello stesso [art. 17 del D.P.R. 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_17)".
+La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale della prima parte del primo comma dell'art. 17 ("Le funzioni ispettive sulle Camere di commercio industria ed agricoltura della Sardegna sono esercitate, secondo le direttive del Ministero dell'industria e del commercio, dall'Amministrazione regionale") e del quarto comma dello stesso [art. 17 del D.P.R. 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md)".
 
 ## Art. 18.
 
@@ -151,7 +151,7 @@ Le attribuzioni in materia di fiere, mostre ed esposizioni, spettanti al Ministe
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 22 maggio 1975, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-05-22;480) ha disposto (con l'art. 13, comma 1) che "L'[art. 18 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_18), e' sostituito dalle disposizioni contenute nel [decreto del Presidente della Repubblica 15 gennaio 1972, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-15;7), concernente il trasferimento alle regioni a statuto ordinario delle funzioni amministrative statali in materia di ferie e mercati ad eccezione degli articoli 12 e 13 dello stesso decreto".
+Il [D.P.R. 22 maggio 1975, n. 480](Nuove%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20della%20Sardegna.md) ha disposto (con l'art. 13, comma 1) che "L'[art. 18 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md), e' sostituito dalle disposizioni contenute nel [decreto del Presidente della Repubblica 15 gennaio 1972, n. 7](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20fiere%20e%20mercati%20e%20del%20relativo%20personale.md), concernente il trasferimento alle regioni a statuto ordinario delle funzioni amministrative statali in materia di ferie e mercati ad eccezione degli articoli 12 e 13 dello stesso decreto".
 
 ## Art. 19.
 
@@ -163,7 +163,7 @@ Le funzioni previste dalle vigenti leggi in materia di igiene e sanita' sono ese
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale dell'[art. 19 del D.P.R. 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_19), nei sensi e nei limiti indicati nella motivazione".
+La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale dell'[art. 19 del D.P.R. 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md), nei sensi e nei limiti indicati nella motivazione".
 
 ## Art. 20.
 
@@ -179,7 +179,7 @@ Per la formazione dei propri uffici e per il funzionamento di quelli che vengono
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 22 agosto 1972, n. 669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-22;669) ha disposto (con l'art. 3, comma 1) che "Fino a quando la regione non abbia provveduto a termini del terzo comma del precedente art. 2, hanno efficacia le norme di cui agli [articoli 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_21) e [22 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_22)".
+Il [D.P.R. 22 agosto 1972, n. 669](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20riguardanti%20il%20trasferimento%20alla%20regione%20di%20uffici%20e%20servizi%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md) ha disposto (con l'art. 3, comma 1) che "Fino a quando la regione non abbia provveduto a termini del terzo comma del precedente art. 2, hanno efficacia le norme di cui agli [articoli 21](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md) e [22 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md)".
 
 ## Art. 22.
 
@@ -189,7 +189,7 @@ Le spese per gli stipendi e le altre competenze al personale comandato ai sensi 
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 22 agosto 1972, n. 669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-22;669) ha disposto (con l'art. 3, comma 1) che "Fino a quando la regione non abbia provveduto a termini del terzo comma del precedente art. 2, hanno efficacia le norme di cui agli [articoli 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_21) e [22 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;327#art_22)".
+Il [D.P.R. 22 agosto 1972, n. 669](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20riguardanti%20il%20trasferimento%20alla%20regione%20di%20uffici%20e%20servizi%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md) ha disposto (con l'art. 3, comma 1) che "Fino a quando la regione non abbia provveduto a termini del terzo comma del precedente art. 2, hanno efficacia le norme di cui agli [articoli 21](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md) e [22 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna_2.md)".
 
 ## Art. 23.
 
@@ -204,7 +204,7 @@ Il Rappresentante del Governo nella Regione Sarda continua ad esercitare fino al
 
 ## Art. 25.
 
-Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56).
+Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md).
 
 ## Art. 26.
 

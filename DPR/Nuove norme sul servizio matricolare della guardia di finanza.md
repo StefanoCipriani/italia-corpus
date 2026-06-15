@@ -40,7 +40,7 @@ E' approvato il nuovo foglio matricolare per i sottufficiali e i militari di tru
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ## TEMPI DI ATTUAZIONE DELLA NUOVA NORMATIVA
 
@@ -55,7 +55,7 @@ La sostituzione dei vecchi modelli verra' attuata gradualmente e sara' portata a
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ## CUSTODIA DEI DOCUMENTI MATRICOLARI
 
@@ -69,7 +69,7 @@ Il nuovo documento sara' redatto in duplice esemplare, il primo dei quali verra'
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ### Art. 4.
 
@@ -80,7 +80,7 @@ I vecchi modelli matricolari, nelle due copie, verranno custoditi nel fascicolo 
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ## RILASCIO DEL FOGLIO MATRICOLARE
 
@@ -97,7 +97,7 @@ Il foglio matricolare costituisce l'unico documento di cui e' consentito il rila
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ### Art. 6.
 
@@ -107,7 +107,7 @@ Stralcio del foglio matricolare potra' essere rilasciato su richiesta di organi 
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ### Art. 7.
 
@@ -117,7 +117,7 @@ La copia integrale od originale del foglio matricolare sara' rilasciata solo su 
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ### Art. 8.
 
@@ -127,7 +127,7 @@ Le richieste di cui ai precedenti articoli 5, 6 e 7 saranno evase a cura dei com
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ### Art. 9. — null
 
@@ -137,7 +137,7 @@ Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 ## VALIDITA' DEL DECRETO MINISTERIALE 25 LUGLIO 1941 E SUCCESSIVE MODIFICAZIONI
 
@@ -153,7 +153,7 @@ Per quanto altro concerne lo svolgimento del servizio matricolare rimangono in v
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 8 dicembre 2007, n.265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;265) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;795)."
+Il [D.P.R. 8 dicembre 2007, n.265](Regolamento%20concernente%20disposizioni%20in%20materia%20di%20nuovo%20servizio%20matricolare%20del%20Corpo%20della%20Guardia%20di%20finanza.md) ha disposto (con l'art. 7, comma 1) che "Fatto salvo quanto disposto dall'articolo 6, comma 3, a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' stata adottata la determinazione di cui all'articolo 6, comma 1, e' abrogato il [decreto del Presidente della Repubblica 11 ottobre 1972, n. 795](Nuove%20norme%20sul%20servizio%20matricolare%20della%20guardia%20di%20finanza.md)."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

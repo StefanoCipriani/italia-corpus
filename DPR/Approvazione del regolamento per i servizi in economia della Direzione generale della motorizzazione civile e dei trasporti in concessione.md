@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;557);
+Visto il [decreto legislativo 7 maggio 1948, n. 557](../Decreti%20Legislativi/Modificazione%20ai%20ruoli%20organici%20del%20personale%20dellispettorato%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasporti%20in%20concessione.md);
 
 Visto il [decreto del Presidente della Repubblica 30 giugno 1955, n. 1544](Decentramento%20dei%20servizi%20del%20Ministero%20del%20tesoro.md);
 

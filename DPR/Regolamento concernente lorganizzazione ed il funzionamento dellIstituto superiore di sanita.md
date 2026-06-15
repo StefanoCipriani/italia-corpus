@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2, comma 2, del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_2-com2);
+Visto l'[art. 2, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -28,7 +28,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-L'Istituto superiore di sanita' (I.S.S.), oltre alle funzioni di cui all'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_1-com2):
+L'Istituto superiore di sanita' (I.S.S.), oltre alle funzioni di cui all'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
                         a)
                             svolge attivita' di ricerca scientifica ai fini della tutela della salute pubblica;
                         b)
@@ -60,14 +60,14 @@ igienico-sanitario, provvedendo in particolare: alla elaborazione delle norme te
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 2. — Accordi di collaborazione
 
 1.
 
-Il direttore dell'Istituto stipula le convenzioni relative agli accordi previsti dal precedente articolo 1, comma 1, lettera i), indicando il responsabile scientifico dello studio o ricerca, sentita l'apposita commissione del comitato scientifico ai sensi dell'[articolo 2, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_2-com2-letb), secondo criteri stabiliti dal comitato amministrativo, sentito il comitato scientifico.
+Il direttore dell'Istituto stipula le convenzioni relative agli accordi previsti dal precedente articolo 1, comma 1, lettera i), indicando il responsabile scientifico dello studio o ricerca, sentita l'apposita commissione del comitato scientifico ai sensi dell'[articolo 2, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), secondo criteri stabiliti dal comitato amministrativo, sentito il comitato scientifico.
 
 2.
 
@@ -89,14 +89,14 @@ La gestione dei predetti fondi avviene su indicazione del responsabile scientifi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 3. — Incarichi temporanei di collaborazione
 
 1.
 
-L'Istituto ha facolta' di conferire incarichi o affidare servizi a soggetti idoneamente qualificati, scelti tra persone anche estranee alla pubblica amministrazione, ovvero di cittadinanza straniera, per l'attuazione dei programmi scientifici di cui agli accordi di collaborazione del precedente articolo, nonche' per la realizzazione dei progetti d'interesse nazionale di cui all'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com2), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517#art_14-com1-leta), e degli altri programmi di ricerca finalizzata, individuati dal comitato scientifico ai sensi dell'art. 7, comma 5, lettera a), del presente regolamento.
+L'Istituto ha facolta' di conferire incarichi o affidare servizi a soggetti idoneamente qualificati, scelti tra persone anche estranee alla pubblica amministrazione, ovvero di cittadinanza straniera, per l'attuazione dei programmi scientifici di cui agli accordi di collaborazione del precedente articolo, nonche' per la realizzazione dei progetti d'interesse nazionale di cui all'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e degli altri programmi di ricerca finalizzata, individuati dal comitato scientifico ai sensi dell'art. 7, comma 5, lettera a), del presente regolamento.
 
 2.
 
@@ -104,7 +104,7 @@ Le prestazioni di cui al precedente comma sono espletate senza vincolo di subord
 
 3.
 
-Le somme necessarie alla retribuzione degli incarichi di cui al presente articolo sono interamente a carico dei contributi accreditati all'Istituto superiore di sanita' nell'ambito degli accordi di collaborazione di cui al precedente art. 2, ovvero dei fondi di cui all'[art. 18 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_18), nonche' dei fondi all'uopo stanziati dall'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com2), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517#art_14-com1-leta).
+Le somme necessarie alla retribuzione degli incarichi di cui al presente articolo sono interamente a carico dei contributi accreditati all'Istituto superiore di sanita' nell'ambito degli accordi di collaborazione di cui al precedente art. 2, ovvero dei fondi di cui all'[art. 18 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_18), nonche' dei fondi all'uopo stanziati dall'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 4.
 
@@ -130,7 +130,7 @@ L'Istituto, altresi', procede - con le modalita' di cui al presente articolo - a
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 4. — Borse di studio
@@ -168,7 +168,7 @@ L'attivita' svolta durante il periodo di aspettativa per motivi di studio e rice
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 5. — Organi collegiali ed individuali
@@ -191,7 +191,7 @@ Il consiglio dei direttori di laboratorio ed il consiglio di laboratorio, contin
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 6. — Comitato amministrativo: composizione e funzioni
@@ -255,7 +255,7 @@ L'ordine del giorno e le deliberazioni sono resi pubblici mediante affissione al
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 7. — Comitato scientifico: composizione e funzioni
@@ -319,7 +319,7 @@ Il parere previsto dall'art. 2, comma 1, in materia di accordi di collaborazione
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 8. — Direttore dell'Istituto
@@ -352,7 +352,7 @@ Il direttore dell'Istituto:
                         f)
                             predispone, entro il primo semestre dell'anno successivo, una relazione sull'attivita' svolta dall'Istituto nell'anno precedente; 
  h) esercita ogni altro potere di gestione non espressamente attribuito ad altri organi dell'Istituto; 
- i) conferisce gli incarichi di direttore dei dipartimenti, sentito il comitato scientifico, e di direttore dei laboratori, dei servizi tecnici, di reparto e di ogni altra struttura interna, ai sensi degli articoli 35, 36 e 37 della legge 7 agosto l973, n. 519, fatto salvo quanto previsto dall'[art. 19 del decreto legislativo 2 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-02;29#art_19), cosi' come modificato dall'[art. 11 del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_11).
+ i) conferisce gli incarichi di direttore dei dipartimenti, sentito il comitato scientifico, e di direttore dei laboratori, dei servizi tecnici, di reparto e di ogni altra struttura interna, ai sensi degli articoli 35, 36 e 37 della legge 7 agosto l973, n. 519, fatto salvo quanto previsto dall'[art. 19 del decreto legislativo 2 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-02;29#art_19), cosi' come modificato dall'[art. 11 del decreto legislativo 23 dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
 
 5.
 
@@ -366,7 +366,7 @@ Dal direttore dell'Istituto dipende la segreteria tecnica della Farmacopea uffic
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 9. — Organizzazione dell'Istituto
@@ -399,7 +399,7 @@ L'articolazione e l'organizzazione interna dell'Istituto sono disciplinate dall'
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 10. — Esercizio finanziario e bilanci annuale e triennale di previsione
@@ -444,10 +444,10 @@ Le maggiori entrate e le economie di spesa risultanti alla chiusura di ciascun e
 
 L'Istituto provvede all'autonoma gestione delle entrate derivanti dalle seguenti voci:
                         a)
-                            tariffe dei servizi a pagamento resi dall'Istituto ai sensi dell'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_1-com2);
+                            tariffe dei servizi a pagamento resi dall'Istituto ai sensi dell'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         b)
-                            quote di cui all'[art. 12, comma 2, lettera a), del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com2-leta), cosi' come modificato dall'[art. 
-14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517#art_14-com1-leta);
+                            quote di cui all'[art. 12, comma 2, lettera a), del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 
+14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         c)
                             proventi dei contratti di licenza di sfruttamento di brevetti per invenzioni industriali, per modelli di utilita' e per le cessioni di "know-how" i cui diritti economici appartengono all'Istituto;
                         d)
@@ -467,7 +467,7 @@ L'istituto, inoltre, provvede all'autonoma gestione delle spese derivanti dalle 
                         d)
                             spese per liti;
                         e)
-                            i contributi di cui all'[art. 1, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_1-com2-letb);
+                            i contributi di cui all'[art. 1, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         f)
                             ogni eventuale spesa idonea per realizzare i compiti dell'Istituto. ((1))
 
@@ -475,7 +475,7 @@ L'istituto, inoltre, provvede all'autonoma gestione delle spese derivanti dalle 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 11. — Gestione finanziaria
@@ -524,7 +524,7 @@ Il conto consuntivo della gestione delle entrate e delle spese e' trasmesso al M
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 12. — Acquisto di beni e servizi
@@ -553,7 +553,7 @@ Con successivo decreto del Ministro della sanita', ai sensi dell'[art. 17 della 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 13. — Attivita' contrattuale
@@ -591,14 +591,14 @@ I contratti anche con ditte estere sono stipulati da un dirigente amministrativo
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 14. — Servizi a pagamento
 
 1.
 
-L'Istituto rende a pagamento servizi inerenti alle proprie funzioni. I predetti servizi e le relative tariffe sono determinati con provvedimento del Ministro della sanita', le tariffe devono essere non inferiori ai costi complessivi della prestazione, cosi' come disposto dall'[art. 2, comma 2, lettera g), del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_2-com2-letg).
+L'Istituto rende a pagamento servizi inerenti alle proprie funzioni. I predetti servizi e le relative tariffe sono determinati con provvedimento del Ministro della sanita', le tariffe devono essere non inferiori ai costi complessivi della prestazione, cosi' come disposto dall'[art. 2, comma 2, lettera g), del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -612,7 +612,7 @@ I servizi di cui trattasi sono resi solo a seguito del pagamento delle somme sec
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 15. — Servizi e spese in economia
@@ -671,7 +671,7 @@ Dall'entrata in vigore del presente regolamento e' abrogato il [decreto del Pres
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 16. — C a s s i e r e
@@ -684,7 +684,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 17. — Consegnatario dei beni mobili
@@ -717,7 +717,7 @@ Il consegnatario opera l'iscrizione dei beni predetti negli inventari o nel regi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 18. — Servizi sociali per il personale
@@ -742,7 +742,7 @@ In attesa che venga affidato il contratto per la gestione della mensa si ricorre
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 19. — Attivita' formative, di perfezionamento e aggiornamento professionale 
@@ -764,7 +764,7 @@ I corsi di formazione richiesti da altri organismi pubblici e privati sono, di v
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 20.
@@ -775,7 +775,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 21.
@@ -786,7 +786,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 22. — Organi collegiali
@@ -803,7 +803,7 @@ La nomina dei componenti dei suddetti organi collegiali deve intervenire entro t
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 23. — Relazione sull'attuazione del regolamento
@@ -814,18 +814,18 @@ Entro sei mesi dalla data di entrata in vigore del presente regolamento, il dire
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 24. — Dotazioni organiche
 
-Le dotazioni organiche dell'Istituto superiore di sanita', in applicazione dell'[art. 5, comma 25, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com25), sono costituite dai posti previsti in conseguenza delle operazioni di rideterminazione delle piante organiche svolte in base alle disposizioni ed alle procedure previste dall'art. 13 dell'accordo sindacale reso esecutivo con decreto del Presidente della Repubblica 12 febbraio l991, n. 171, di cui al decreto interministeriale 27 giugno 1992, registrato alla Corte dei conti il 22 febbraio 1993. ((1))
+Le dotazioni organiche dell'Istituto superiore di sanita', in applicazione dell'[art. 5, comma 25, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono costituite dai posti previsti in conseguenza delle operazioni di rideterminazione delle piante organiche svolte in base alle disposizioni ed alle procedure previste dall'art. 13 dell'accordo sindacale reso esecutivo con decreto del Presidente della Repubblica 12 febbraio l991, n. 171, di cui al decreto interministeriale 27 giugno 1992, registrato alla Corte dei conti il 22 febbraio 1993. ((1))
 
 ------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 25. — Rinvio alle norme di contabilita' dello Stato
@@ -836,14 +836,14 @@ Per le materie non disciplinate dal presente regolamento si applicano le norme d
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 26. — Disposizioni normative dell'Istituto superiore di sanita'
 
 1.
 
-A norma di quanto previsto dall'[art. 2, comma 3, del decreto legislativo 30 giugno 1993, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;267#art_2-com3), l'Istituto superiore di sanita' resta disciplinato dalle seguenti disposizioni: 
+A norma di quanto previsto dall'[art. 2, comma 3, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), l'Istituto superiore di sanita' resta disciplinato dalle seguenti disposizioni: 
  articoli 2, 3, 10 (ad eccezione del comma 3, n. 4, abrogato), 11, 15, 17, 18, 24, 25, 35, 36, 50, 51, 62 della [legge 7 agosto 1973, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519), concernente: "Modifiche ai compiti, all'ordinamento ed alle strutture dell'Istituto superiore di sanita'"; 
  [art. 8 della legge 6 dicembre 1964, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-06;1332#art_8), concernente l'ospitalita' presso l'Istituto superiore di sanita'; 
  [art. 9 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_9), concernente l'istituzione del Servizio sanitario nazionale; 
@@ -858,7 +858,7 @@ decreto del Ministro della sanita' 11 gennaio 1993, efficacia. ((1))
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
+Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 8, comma 1, lettera b)) l'abrogazione del presente decreto a decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3. 
  Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

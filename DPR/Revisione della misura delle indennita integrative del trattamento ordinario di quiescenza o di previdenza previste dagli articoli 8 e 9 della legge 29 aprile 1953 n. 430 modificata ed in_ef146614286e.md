@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), contenente la delega al Governo ad emanare le norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Vista la [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), contenente la delega al Governo ad emanare le norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
 Visto il [decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md), concernente l'attribuzione al personale statale in attivita'
 
@@ -22,7 +22,7 @@ del Ministero dell'Africa italiana, integrata e modificata con la [legge 9 lugli
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 

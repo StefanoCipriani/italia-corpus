@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 1, 2 - punti 12 e 13; 3 e 6 della [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visti gli articoli 1, 2 - punti 12 e 13; 3 e 6 della [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -39,9 +39,9 @@ L'assegno integrativo non va riassorbito per effetto di concessione degli aument
 
 ## Art. 4.
 
-Con successivi decreti da emanare nelle stesse forme di presente decreto saranno disciplinate l'attribuzione e la misura dell'assegno integrativo di cui all'[art. 2, n. 12, della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_2-num12), nei riguardi dei sottoindicati personali non previsti dalle tabelle di cui agli allegati I a VIII al [decreto del Presidente della Repubblica 11 luglio 1952, n. 767](Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md):
+Con successivi decreti da emanare nelle stesse forme di presente decreto saranno disciplinate l'attribuzione e la misura dell'assegno integrativo di cui all'[art. 2, n. 12, della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), nei riguardi dei sottoindicati personali non previsti dalle tabelle di cui agli allegati I a VIII al [decreto del Presidente della Repubblica 11 luglio 1952, n. 767](Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md):
  a) ricevitori del lotto ed altro personale statale retribuito ad saggio od in base a coefficienti riferiti alla entita' e durata delle prestazioni;
- b) categorie di personale postelegrafonico gia' previsto dal [decreto legislativo 22 marzo 1948, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-22;505), e che non sia equiparato, ai fini del trattamento economico, al personale di ruolo dipendente dall'Amministrazione delle poste e delle telecomunicazioni;
+ b) categorie di personale postelegrafonico gia' previsto dal [decreto legislativo 22 marzo 1948, n. 505](../Decreti%20Legislativi/Provvedimenti%20economici%20a%20favore%20di%20alcuni%20dipendenti%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20miglioramento%20del%20trattamento%20di%20quiescenza%20ai%20ricevitori%20postali%20e%20telegrafici.md), e che non sia equiparato, ai fini del trattamento economico, al personale di ruolo dipendente dall'Amministrazione delle poste e delle telecomunicazioni;
  c) ufficiali giudiziari e aiutanti ufficiali giudiziari;
  d) personale aggregato alle carceri;
  e) incaricati marittimi e delegati di spiaggia;

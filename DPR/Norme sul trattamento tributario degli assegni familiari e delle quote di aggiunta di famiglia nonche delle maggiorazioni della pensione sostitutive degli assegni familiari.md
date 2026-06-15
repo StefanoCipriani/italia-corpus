@@ -16,7 +16,7 @@ Visto l'[art. 29 della legge 2 dicembre 1975, n. 576](https://www.normattiva.it/
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni;
 
-Udito il parere della Commissione parlamentare prevista dall'[art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della Commissione parlamentare prevista dall'[art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -44,7 +44,7 @@ Decreta: Lo statuto dell'Universita', degli studi di Padova approvato e modifica
  Art. 6. - E' sostituito dal seguente.
  "Gli speciali contributi dovuti dagli studenti per esercitazioni o per la frequenza ad un Istituto, Scuola o Seminario sono fissati dal Consiglio di amministrazione a termini dell'art. 152 del testo unico delle leggi sull'istruzione superiore".
  Art. 10. - E' sostituito dal seguente:
- "Per gli aspiranti ai benefici dell'esonero parziale o totale dalle tasse scolastiche valgono le norme dell'[art. 14 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_14)".
+ "Per gli aspiranti ai benefici dell'esonero parziale o totale dalle tasse scolastiche valgono le norme dell'[art. 14 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md)".
  Art. 13. - Il secondo comma, e' sostituito dal seguente:
  "Gli elaborati per l'esame di laurea in ingegneria devono essere consegnati all'Istituto presso il quale sono stati compiuti.
 L'attestazione dell'avvenuta consegna, firmata dal direttore dell'Istituto dovra' essere presentata alla segreteria almeno sei giorni prima dell'inizio dell'esame di laurea".

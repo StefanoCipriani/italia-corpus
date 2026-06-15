@@ -14,7 +14,7 @@ Visto il [regio decreto 27 ottobre 1937, n. 2226](../Atti%20normativi%20abrogati
 
 Visto il [regio decreto 11 agosto 1939, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-08-11;1629), che modifica la denominazione dell'Ente in Associazione nazionale fra le famiglie dei caduti dell'Aeronautica e fra i mutilati del volo e ne approva un nuovo statuto;
 
-Visto il [decreto luogotenenziale 10 maggio 1945, numero 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;340), concernente l'approvazione di uno statuto provvisorio dell'Ente;
+Visto il [decreto luogotenenziale 10 maggio 1945, numero 340](../Decreti%20legislativi%20luogotenenziali/Nuovo%20statuto%20dellAssociazione%20nazionale%20fra%20le%20famiglie%20caduti%20dellAeronautica%20e%20fra%20i%20mutilati%20del%20volo.%20045U0340.md), concernente l'approvazione di uno statuto provvisorio dell'Ente;
 
 Sentito il parere del Consiglio superiore di aeronautica;
 

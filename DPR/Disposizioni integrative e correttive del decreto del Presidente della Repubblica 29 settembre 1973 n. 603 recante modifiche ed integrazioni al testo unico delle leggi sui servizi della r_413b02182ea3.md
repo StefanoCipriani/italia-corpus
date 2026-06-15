@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella legge 24 luglio 1972, D. 321;
 
@@ -22,9 +22,9 @@ Visto l'[art. 30 della legge 2 dicembre 1975, n. 576](https://www.normattiva.it/
 
 Visto l'[art. 22 della legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114#art_22);
 
-Ritenuta la necessita' di emanare, ai sensi dell'art. 17 secondo comma, della citata [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825) norme integrative e correttive del [decreto del Presidente della Repubblica 29 settembre 1973, n. 603](Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), recante modifiche ed integrazioni al testo unico delle leggi sui servizi della riscossione delle imposte dirette approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
+Ritenuta la necessita' di emanare, ai sensi dell'art. 17 secondo comma, della citata [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) norme integrative e correttive del [decreto del Presidente della Repubblica 29 settembre 1973, n. 603](Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), recante modifiche ed integrazioni al testo unico delle leggi sui servizi della riscossione delle imposte dirette approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
 
-Udito il parere della Commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della Commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -777,7 +777,7 @@ Nel determinare la durata dell'esercizio utile a pensione non e' dedotto il peri
 
 4.
 
-A favore del notaio che a causa dello stato di guerra ebbe assegnato, ai sensi dell'[art. 3 del decreto legislativo luogotenenziale 20 luglio 1944, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-20;209#art_3), un termine per l'iscrizione a ruolo l'esercizio utile al conseguimento della pensione decorre dal novantesimo giorno successivo alla data della Gazzetta Ufficiale o del Bollettino del Ministero di grazia e giustizia nel quale venne data notizia della registrazione del decreto di nomina.
+A favore del notaio che a causa dello stato di guerra ebbe assegnato, ai sensi dell'[art. 3 del decreto legislativo luogotenenziale 20 luglio 1944, n. 209](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20la%20riammissione%20nellesercizio%20professionale%20di%20notai%20colpiti%20da%20disposizioni%20di%20carattere%20razziale%20o%20dispensati%20dallufficio%20per%20motivi%20politici%20e%20modificazioni%20allordinamento%20de_5e24c9cd5462.md), un termine per l'iscrizione a ruolo l'esercizio utile al conseguimento della pensione decorre dal novantesimo giorno successivo alla data della Gazzetta Ufficiale o del Bollettino del Ministero di grazia e giustizia nel quale venne data notizia della registrazione del decreto di nomina.
 
 5.
 

@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), e successive modificazioni;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni;
 
 Vista la [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50), e l'allegato 1, n. 29;
 
@@ -78,7 +78,7 @@ Ai fini del presente regolamento si intende per:
 
 1.
 
-E' istituito lo sportello telematico dell'automobilista. Lo STA rilascia, contestualmente alla richiesta, la carta di circolazione quale documento unico di circolazione e di proprieta', ai sensi dell'[articolo 1 del decreto legislativo 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98#art_1).
+E' istituito lo sportello telematico dell'automobilista. Lo STA rilascia, contestualmente alla richiesta, la carta di circolazione quale documento unico di circolazione e di proprieta', ai sensi dell'[articolo 1 del decreto legislativo 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md).
 
 ))
 
@@ -136,7 +136,7 @@ L'UMC territorialmente competente consente il collegamento con il CED e assegna 
 
 4.
 
-Lo STA, ricevuta la domanda relativa ad una delle operazioni di cui al comma 1, redatta sul modello unificato di cui all'[articolo 2, comma 1, del decreto legislativo 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98#art_2-com1), accertata l'identita' del richiedente e, verificati il versamento delle imposte e delle tariffe previste dal medesimo decreto legislativo e di ogni altro importo, dovuto, nonche' l'idoneita' e la completezza della domanda e della documentazione presentate, provvede alla formazione del fascicolo digitale di cui all'articolo 4-bis e lo trasmette in via telematica al CED entro le ore sedici del primo giorno non festivo successivo a quello di presentazione della domanda. Le domande non corredate dall'attestazione dell'avvenuto pagamento delle predette imposte e tariffe, nonche' di ogni altro importo dovuto, non sono prese in considerazione.
+Lo STA, ricevuta la domanda relativa ad una delle operazioni di cui al comma 1, redatta sul modello unificato di cui all'[articolo 2, comma 1, del decreto legislativo 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), accertata l'identita' del richiedente e, verificati il versamento delle imposte e delle tariffe previste dal medesimo decreto legislativo e di ogni altro importo, dovuto, nonche' l'idoneita' e la completezza della domanda e della documentazione presentate, provvede alla formazione del fascicolo digitale di cui all'articolo 4-bis e lo trasmette in via telematica al CED entro le ore sedici del primo giorno non festivo successivo a quello di presentazione della domanda. Le domande non corredate dall'attestazione dell'avvenuto pagamento delle predette imposte e tariffe, nonche' di ogni altro importo dovuto, non sono prese in considerazione.
 
 5.
 

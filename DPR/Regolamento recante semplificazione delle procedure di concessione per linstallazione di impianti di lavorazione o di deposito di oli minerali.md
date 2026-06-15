@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Vista la [legge 9 gennaio 1991, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9), ed in particolare gli articoli 16 e 17;
 
@@ -24,7 +24,7 @@ Visto il [regio decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.i
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione dei pareri delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti in data 30 marzo 1994;
+Considerato che i termini per l'emissione dei pareri delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti in data 30 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 aprile 1994;
 
@@ -151,12 +151,12 @@ Nelle opere previste dall'art. 2, lettere b) e d), il parere di conformita' verr
 
 9.
 
-Le amministrazioni e gli enti interessati devono perfezionare gli atti procedimentali di propria competenza ai sensi dell'[art. 2, comma 9, lettera b), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com9-letb), e dell'[art. 17, comma 2, lettera b), della legge 9 gennaio 1991, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9#art_17-com2-letb), entro centoventi giorni dal ricevimento della richiesta di parere.
+Le amministrazioni e gli enti interessati devono perfezionare gli atti procedimentali di propria competenza ai sensi dell'[art. 2, comma 9, lettera b), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e dell'[art. 17, comma 2, lettera b), della legge 9 gennaio 1991, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9#art_17-com2-letb), entro centoventi giorni dal ricevimento della richiesta di parere.
 Tale termine e' prorogato di ulteriori sessanta giorni, decorrenti dalla ricezione delle integrazioni richieste ovvero dalla sua prima scadenza, ove l'amministrazione o l'ente interessato dia comunicazione motivata al ministero rispettivamente di ulteriori esigenze istruttorie o di eventuali impedimenti. Decorso il termine suindicato, i pareri si intendono acquisiti in senso favorevole.
 
 10.
 
-Qualora pervengano pareri discordanti o negativi e risulti opportuno effettuare un esame contestuale dei vari interessi pubblici coinvolti nel procedimento di concessione, il Ministero, anche su richiesta delle amministrazioni interessate, indice una conferenza di servizi secondo le modalita' previste dall'[art. 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), cosi' come modificato dall'[art. 2, commi 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com12) e [13 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com13).
+Qualora pervengano pareri discordanti o negativi e risulti opportuno effettuare un esame contestuale dei vari interessi pubblici coinvolti nel procedimento di concessione, il Ministero, anche su richiesta delle amministrazioni interessate, indice una conferenza di servizi secondo le modalita' previste dall'[art. 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), cosi' come modificato dall'[art. 2, commi 12](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [13 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 11.
 
@@ -178,7 +178,7 @@ Entro quindici giorni dalla data di entrata in vigore del presente regolamento, 
 
 3.
 
-Nel medesimo decreto di cui al comma 2 sono indicati gli elementi che devono essere contenuti nelle relative domande, i termini per l'adozione dei relativi provvedimenti finali e le semplificazioni procedurali, ivi compresi gli eventuali casi di autorizzazione tacita per mero decorso del termine, di inizio di attivita' a seguito di denuncia, ai sensi dell'[art. 2, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com10), nonche' i casi di esenzione dal collaudo di cui all'art. 11, comma 1.
+Nel medesimo decreto di cui al comma 2 sono indicati gli elementi che devono essere contenuti nelle relative domande, i termini per l'adozione dei relativi provvedimenti finali e le semplificazioni procedurali, ivi compresi gli eventuali casi di autorizzazione tacita per mero decorso del termine, di inizio di attivita' a seguito di denuncia, ai sensi dell'[art. 2, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), nonche' i casi di esenzione dal collaudo di cui all'art. 11, comma 1.
 
 Note all'art. 5:
  - Per il testo dell'[art. 16 della legge n. 9/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;9#art_16), si vedano le precedenti note all'art. 2.
@@ -305,7 +305,7 @@ Ai fini dell'attuazione del comma 1, il riesame dei procedimenti istruttori anco
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento sono da intendersi abrogati gli articoli 13, 14, 16 comma 1, 19, 22 commi 1, 2, 3, 4 e 6, 23, 28, 41 commi 1 e 2, e 46 del [regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), in quanto risultino incompatibili con le disposizioni del presente decreto in relazione alle materie da esso disciplinate.
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono da intendersi abrogati gli articoli 13, 14, 16 comma 1, 19, 22 commi 1, 2, 3, 4 e 6, 23, 28, 41 commi 1 e 2, e 46 del [regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), in quanto risultino incompatibili con le disposizioni del presente decreto in relazione alle materie da esso disciplinate.
 
 2.
 

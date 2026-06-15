@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_5) e [6 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_6), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visti gli [articoli 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md) e [6 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-La revisione dei ruoli organici dei dipendenti statali prevista dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_5) e [6 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_6), e' attuata in conformita' agli articoli che seguono, per le Amministrazioni ivi indicate.
+La revisione dei ruoli organici dei dipendenti statali prevista dagli [articoli 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md) e [6 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), e' attuata in conformita' agli articoli che seguono, per le Amministrazioni ivi indicate.
 
 ## Art. 2. — (Ministero degli affari esteri).
 
@@ -55,7 +55,7 @@ I ruoli organici, delle carriere di concetto ed esecutiva dei Provveditorati agl
 
 AGGIORNAMENTO (5)
 
-La [L. 29 giugno 1960, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-06-29;696) ha disposto (con l'articolo unico) che "i termini stabiliti nell'art. 6, ultimo comma, del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;362), nei confronti del personale insegnante, che non presta servizio nelle scuole, sono tutti prorogati e scadono il 1° luglio 1961".
+La [L. 29 giugno 1960, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-06-29;696) ha disposto (con l'articolo unico) che "i termini stabiliti nell'art. 6, ultimo comma, del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 362](Revisione%20dei%20ruoli%20organici%20dei%20dipendenti%20di%20alcune%20Amministrazioni%20statali.md), nei confronti del personale insegnante, che non presta servizio nelle scuole, sono tutti prorogati e scadono il 1° luglio 1961".
 
 ## Art. 7. — (Ministero dei lavori pubblici).
 

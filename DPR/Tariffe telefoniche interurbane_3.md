@@ -22,7 +22,7 @@ Visto il [provvedimento del Comitato interministeriale dei prezzi n. 827 del 7 a
 
 Visto l'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md);
 
-Visto l'[art. 2 del decreto legislativo 5 maggio 1948, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;938#art_2):
+Visto l'[art. 2 del decreto legislativo 5 maggio 1948, n. 938](../Decreti%20Legislativi/Variazioni%20tariffarie%20sulle%20prenotazioni%20telefoniche%20interurbane%20ad%20ora%20fissa%20e%20sulle%20riduzioni%20accordate%20nelle%20ore%20di%20notte.md):
 
 Sentito il Consiglio dei Ministri;
 

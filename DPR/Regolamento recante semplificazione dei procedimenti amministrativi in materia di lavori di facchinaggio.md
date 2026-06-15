@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Visto il [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
 
@@ -38,7 +38,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina il procedimento di autorizzazione all'aumento del numero dei facchini, contenuto nell'elenco n. 4, allegato alla [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537) ed i procedimenti amministrativi in materia di lavori di facchinaggio, ad esso connessi ai sensi dell'[articolo 2, comma 7, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com7), disciplinati dall'[articolo 121 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_121), adottato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e dalla [legge 3 maggio 1955, n. 407](../Atti%20normativi%20abrogati%20%28in%20originale%29/Per%20la%20disciplina%20dei%20lavori%20di%20facchinaggio.md).
+Il presente regolamento disciplina il procedimento di autorizzazione all'aumento del numero dei facchini, contenuto nell'elenco n. 4, allegato alla [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) ed i procedimenti amministrativi in materia di lavori di facchinaggio, ad esso connessi ai sensi dell'[articolo 2, comma 7, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), disciplinati dall'[articolo 121 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_121), adottato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e dalla [legge 3 maggio 1955, n. 407](../Atti%20normativi%20abrogati%20%28in%20originale%29/Per%20la%20disciplina%20dei%20lavori%20di%20facchinaggio.md).
 
 2.
 
@@ -138,7 +138,7 @@ AVVERTENZA:
 
 1.
 
-L'attivita' di facchino, ai sensi dell'[articolo 19 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_19), modificato dall'[articolo 2, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com10), puo' essere esercitata previa denuncia di inizio all'autorita', attestante l'esistenza dei presupposti e dei requisiti previsti dalle disposizioni legislative vigenti, eventualmente accompagnata dall'esperimento di prove a cio' destinate, ove previste.
+L'attivita' di facchino, ai sensi dell'[articolo 19 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_19), modificato dall'[articolo 2, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), puo' essere esercitata previa denuncia di inizio all'autorita', attestante l'esistenza dei presupposti e dei requisiti previsti dalle disposizioni legislative vigenti, eventualmente accompagnata dall'esperimento di prove a cio' destinate, ove previste.
 
 2.
 
@@ -183,7 +183,7 @@ Nota all'[art. 4:
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento, e' abrogato l'articolo 121 del testo unico, nella parte in cui si riferisce all'attivita' di facchino. E' abrogata, altresi', la [legge 3 maggio 1955, n. 407](../Atti%20normativi%20abrogati%20%28in%20originale%29/Per%20la%20disciplina%20dei%20lavori%20di%20facchinaggio.md).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento, e' abrogato l'articolo 121 del testo unico, nella parte in cui si riferisce all'attivita' di facchino. E' abrogata, altresi', la [legge 3 maggio 1955, n. 407](../Atti%20normativi%20abrogati%20%28in%20originale%29/Per%20la%20disciplina%20dei%20lavori%20di%20facchinaggio.md).
 
 Note all'art. 5:
  - Per il testo dell'[art. 2, comma 8 della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

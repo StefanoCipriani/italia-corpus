@@ -77,7 +77,7 @@ AVVERTENZA:
  c) fornire, a chiunque ne faccia richiesta, dati, pareri e consulenze, secondo un tariffario fissato ogni biennio con decreto del Presidente del Consiglio dei Ministri, sentito il Comitato dei Ministri di cui all'art.
  4. Le tariffe sono stabilite in base al principio della partecipazione al costo delle prestazioni da parte di chi ne usufruisca.
  5. I servizi tecnici nazionali organizzano, gestiscono e coordinano un sistema informativo unico ed una rete nazionale integrati di rilevamento e sorveglianza, definendo con le amministrazioni statali, le regioni e gli altri soggetti pubblici e privati interessati, le integrazioni ed i coordinamenti necessari.
- All'organizzazione ed alla gestione della rete sismica integrata concorre, sulla base di apposite convenzioni, l'Istituto nazionale di geofisica. Con decreto del Presidente del Consiglio dei Ministri, entro il 31 dicembre 1991, le iniziative adottate in attuazione e nell'ambito delle risorse assegnate ai sensi dell'[art. 18, comma 1, lettera e), della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com1-lete), relative al sistema informativo e di monitoraggio, confluiscono nei servizi tecnici nazionali.
+ All'organizzazione ed alla gestione della rete sismica integrata concorre, sulla base di apposite convenzioni, l'Istituto nazionale di geofisica. Con decreto del Presidente del Consiglio dei Ministri, entro il 31 dicembre 1991, le iniziative adottate in attuazione e nell'ambito delle risorse assegnate ai sensi dell'[art. 18, comma 1, lettera e), della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), relative al sistema informativo e di monitoraggio, confluiscono nei servizi tecnici nazionali.
  6. Nell'ambito del Comitato dei Ministri di cui all'art. 4, ciascuno dei Ministri che lo compongono propone, nel settore di sua competenza, le misure di indirizzo e di coordinamento volte alla completa realizzazione del sistema informativo e della rete integrati di cui al comma 5, ed in particolare le priorita' nel rilevamento e nella predisposizione della base di dati.
  7. Ai servizi tecnici nazionali e' preposto un Consiglio dei direttori, composto dal presidente del Consiglio superiore dei lavori pubblici, che lo presiede, dai direttori dei singoli servizi tecnici nazionali di cui al comma 1, nonche' dai responsabili dell'Istituto geografico militare, del Centro interregionale per la cartografia, dell'Istituto idrografico della Marina, del Servizio meterologico dell'Aeronatica militare, del Corpo forestale dello Stato e dell'Istituto nazionale di geofisica.
  8. Il Consiglio dei direttori:
@@ -238,7 +238,7 @@ Il tariffario relativo alle consulenze, ai dati ed ai pareri richiesti ai Serviz
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 aprile 1993, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-04-05;106) ha disposto (con l'art. 10, comma 7) che "Sono fatti salvi gli effetti prodotti dall'art. 18, comma 3, del regolamento approvato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-01-24;85)."
+Il [D.P.R. 5 aprile 1993, n. 106](Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md) ha disposto (con l'art. 10, comma 7) che "Sono fatti salvi gli effetti prodotti dall'art. 18, comma 3, del regolamento approvato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md)."
 
 ### Art. 19. — Trattamento giuridico ed economico
 
@@ -435,7 +435,7 @@ Il Servizio nazionale dighe, fermo restando quanto disposto dall'art. 9, comma 3
 
 Il Servizio nazionale dighe altresi':
                             a)
-                                LETTERA ABROGATA DAL [D.P.R. 5 APRILE 1993, N. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-04-05;106);
+                                LETTERA ABROGATA DAL [D.P.R. 5 APRILE 1993, N. 106](Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md);
                             b)
                                 collabora con il Ministero dei lavori pubblici e con il Consiglio superiore dei lavori pubblici per l'aggiornamento delle norme tecniche per la progettazione e costruzione delle dighe di ritenuta.
 
@@ -489,7 +489,7 @@ Per gli studi e ricerche su argomenti specifici il Servizio nazionale dighe puo'
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 marzo 2003, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-03-24;136) ha disposto (con l'art. 14, comma 4) che "A decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 10, comma 2" e' abrogato il presente articolo.
+Il [D.P.R. 24 marzo 2003, n. 136](Regolamento%20concernente%20lorganizzazione%20i%20compiti%20ed%20il%20funzionamento%20del%20Registro%20italiano%20dighe%20-%20RID%20a%20norma%20dellarticolo%2091%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md) ha disposto (con l'art. 14, comma 4) che "A decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 10, comma 2" e' abrogato il presente articolo.
 
 ### Art. 25. — Organizzazione del Servizio nazionale dighe
 
@@ -538,13 +538,13 @@ Agli uffici sono preposti primi dirigenti tecnici.
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 5 APRILE 1993, N. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-04-05;106). ((4))
+COMMA ABROGATO DAL [D.P.R. 5 APRILE 1993, N. 106](Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md). ((4))
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 marzo 2003, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-03-24;136) ha disposto (con l'art. 14, comma 4) che "A decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 10, comma 2" e' abrogato il presente articolo.
+Il [D.P.R. 24 marzo 2003, n. 136](Regolamento%20concernente%20lorganizzazione%20i%20compiti%20ed%20il%20funzionamento%20del%20Registro%20italiano%20dighe%20-%20RID%20a%20norma%20dellarticolo%2091%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md) ha disposto (con l'art. 14, comma 4) che "A decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 10, comma 2" e' abrogato il presente articolo.
 
 ## ORDINAMENTO DEI SERVIZI Sezione IV IL SERVIZIO SISMICO NAZIONALE
 

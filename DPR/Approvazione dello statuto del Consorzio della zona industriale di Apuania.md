@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo del Capo provvisorio dello Stato 3 aprile 1947, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-03;372), che istituisce il Consorzio per la zona industriale apuana, modificato con [decreto legislativo 31 marzo 1948, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-31;242);
+Visto il [decreto legislativo del Capo provvisorio dello Stato 3 aprile 1947, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-03;372), che istituisce il Consorzio per la zona industriale apuana, modificato con [decreto legislativo 31 marzo 1948, n. 242](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%203%20aprile%201947%20n.%20372%20concernente%20listituzione%20del%20Consorzio%20per%20la%20zona%20industriale%20di%20Apuania.md);
 
 Visto lo schema di statuto redatto dal Consiglio direttivo del Consorzio ai sensi dell'art. 4 del citato decreto legislativo del Capo provvisorio dello Stato;
 

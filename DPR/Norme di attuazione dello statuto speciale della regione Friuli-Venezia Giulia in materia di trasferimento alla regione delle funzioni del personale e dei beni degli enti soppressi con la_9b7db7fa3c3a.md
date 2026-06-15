@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto della regione Friuli-Venezia Giulia;
 
 Visto l'[art. 119 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
 
@@ -53,8 +53,8 @@ Assieme alle funzioni ed ai compiti di cui all'art. 1 passano alla regione:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 15 gennaio 1987, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-01-15;469), ha disposto (con l'art. 19) che:
-"Nell'[art. 3 del decreto del Presidente della Repubblica 18 dicembre 1979, n. 839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-18;839#art_3), l'espressione "passano alla regione" va intesa nel senso che i beni ivi considerati passano in proprieta' alla regione"
+Il [D.P.R. 15 gennaio 1987, n. 469](Norme%20integrative%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md), ha disposto (con l'art. 19) che:
+"Nell'[art. 3 del decreto del Presidente della Repubblica 18 dicembre 1979, n. 839](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20trasferimento%20alla%20regione%20delle%20funzioni%20del%20personale%20e%20dei%20beni%20degli%20enti%20soppressi%20con%20la_9b7db7fa3c3a.md), l'espressione "passano alla regione" va intesa nel senso che i beni ivi considerati passano in proprieta' alla regione"
 
 ### Art. 4.
 

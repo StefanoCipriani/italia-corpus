@@ -28,31 +28,31 @@ Salvo l'osservanza delle disposizioni fiscali, la distillazione di acqueviti di 
 
 ## Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 9.
 
@@ -66,15 +66,15 @@ Salvo l'osservanza delle disposizioni fiscali, la distillazione di acqueviti di 
 
 ## Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-16;297)))
+((ARTICOLO ABROGATO DAL [D.P.R. 16 LUGLIO 1997, N. 297](Regolamento%20recante%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20acquaviti%20grappa%20brandy%20italiano%20e%20liquori.md)))
 
 ## Art. 13.
 

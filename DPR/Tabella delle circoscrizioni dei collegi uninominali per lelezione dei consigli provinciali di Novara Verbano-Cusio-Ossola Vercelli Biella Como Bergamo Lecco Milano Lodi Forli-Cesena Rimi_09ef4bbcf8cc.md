@@ -16,11 +16,11 @@ Visti gli articoli 2, 9, secondo e quarto comma, e 12, primo comma, della predet
 
 Visti i risultati del tredicesimo censimento generale della popolazione, quali si evincono dalla pubblicazione edita nel maggio 1992 dall'Istituto nazionale di statistica;
 
-Visti i [decreti legislativi in data 6 marzo 1992, numeri 248, 249, 250, 251, 252 e 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-06;253) con i quali vengono rispettivamente istituite le province di Biella, Crotone, Lecco, Lodi, Rimini e Vibo Valentia;
+Visti i [decreti legislativi in data 6 marzo 1992, numeri 248, 249, 250, 251, 252 e 253](../Decreti%20Legislativi/Istituzione%20della%20provincia%20di%20Vibo%20Valentia.md) con i quali vengono rispettivamente istituite le province di Biella, Crotone, Lecco, Lodi, Rimini e Vibo Valentia;
 
-Visto il [decreto legislativo 27 marzo 1992, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-27;254), con il quale viene istituita la provincia di Prato;
+Visto il [decreto legislativo 27 marzo 1992, n. 254](../Decreti%20Legislativi/Istituzione%20della%20provincia%20di%20Prato.md), con il quale viene istituita la provincia di Prato;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;277), con il quale viene istituita la provincia del Verbano-Cusio-Ossola;
+Visto il [decreto legislativo 30 aprile 1992, n. 277](../Decreti%20Legislativi/Istituzione%20della%20provincia%20del%20Verbano-Cusio-Ossola.md), con il quale viene istituita la provincia del Verbano-Cusio-Ossola;
 
 Considerato che le suddette province sono state formate da comuni appartenenti alle province di Vercelli, Novara, Bergamo, Como, Milano, Forli'-Cesena, Firenze e Catanzaro;
 

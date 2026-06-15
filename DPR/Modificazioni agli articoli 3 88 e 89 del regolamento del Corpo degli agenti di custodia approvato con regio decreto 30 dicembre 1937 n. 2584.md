@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584);
 
-Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508);
+Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 5 maggio 1947, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-05;381);
 

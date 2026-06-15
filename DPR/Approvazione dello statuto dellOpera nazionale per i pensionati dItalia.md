@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo in data 23 marzo 1948, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;361), sulla istituzione dell'Opera nazionale per i pensionati d'Italia, nonche' la relativa legge di ratifica in data 5 gennaio 1953, n. 29;
+Visto il [decreto legislativo in data 23 marzo 1948, n. 361](../Decreti%20Legislativi/Istituzione%20dellEnte%20assistenziale%20Opera%20nazionale%20per%20i%20pensionati%20dItalia.md), sulla istituzione dell'Opera nazionale per i pensionati d'Italia, nonche' la relativa legge di ratifica in data 5 gennaio 1953, n. 29;
 
 Considerato che - per effetto dell'art. 1, capoverso, del cennato [decreto legislativo in data 25 marzo 1948, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;361) - occorre provvedere all'approvazione dello statuto dell'Opera nazionale per i pensionati d'Italia;
 

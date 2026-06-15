@@ -30,7 +30,7 @@ pensione dovuto dal Governo italiano ai
 rioptanti residenti in Austria, reinte- 
 grati nella cittadinanza italiana in base 
 al [decreto legislativo 2 febbraio 1948, 
-n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-02;23), dalla data del riacquisto della 
+n. 23](../Decreti%20Legislativi/Revisione%20delle%20opzioni%20degli%20alto%20atesini.md), dalla data del riacquisto della 
 cittadinanza italiana e sino al definiti- 
 vo rimpatrio ............................ L. 75.000.000 
  

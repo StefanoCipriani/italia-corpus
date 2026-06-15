@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto legislativo 11 ottobre 1947, n. 1131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-11;1131);
 
-Visto il [decreto legislativo 20 gennaio 1948, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-20;11);
+Visto il [decreto legislativo 20 gennaio 1948, n. 11](../Decreti%20Legislativi/Spostamento%20di%20alcuni%20termini%20riguardanti%20lapplicazione%20della%20imposta%20straordinaria%20progressiva%20sul%20patrimonio.md);
 
 Visto l'[art. 4 della legge 23 dicembre 1948, n. 1451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-23;1451#art_4);
 

@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), come modificato dall'[articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-letd) ed [e), della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-lete);
 
-Visti gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20) e [20-bis della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20bis);
+Visti gli [articoli 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [20-bis della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Visti i numeri 8 e 55 dell'allegato n. 1 della [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
 
@@ -54,11 +54,11 @@ Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
                             b)
                                 "casellario dei carichi pendenti" e' l'insieme dei dati relativi a provvedimenti giudiziari riferiti a soggetti determinati che hanno la qualita' di imputato;
                             c)
-                                "anagrafe delle sanzioni amministrative dipendenti da reato" e' l'insieme dei dati relativi a provvedimenti giudiziari che applicano, agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, le sanzioni amministrative dipendenti da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "anagrafe delle sanzioni amministrative dipendenti da reato" e' l'insieme dei dati relativi a provvedimenti giudiziari che applicano, agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, le sanzioni amministrative dipendenti da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             d)
-                                "anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato" e' l'insieme dei dati relativi a provvedimenti giudiziari riferiti agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, cui e' stato contestato l'illecito amministrativo dipendente da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato" e' l'insieme dei dati relativi a provvedimenti giudiziari riferiti agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, cui e' stato contestato l'illecito amministrativo dipendente da reato, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             e)
-                                "ente" e' l'ente fornito di personalita' giuridica, la societa' e l'associazione, anche priva di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);
+                                "ente" e' l'ente fornito di personalita' giuridica, la societa' e l'associazione, anche priva di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             f)
                                 "provvedimento giudiziario" e' la sentenza, il decreto penale e ogni altro provvedimento emesso dall'autorita' giudiziaria;
                             g)
@@ -110,7 +110,7 @@ L'estratta del provvedimento giudiziario penale contiene, inoltre, secondo il ti
                             a)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato;
                             b)
-                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, misure alternative alla detenzione, con riferimento a ciascun reato, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6, del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_6);
+                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, misure alternative alla detenzione, con riferimento a ciascun reato, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6, del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md);
                             c)
                                 misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere. 
  
@@ -146,7 +146,7 @@ Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il t
                             e)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato;
                             f)
-                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_6);
+                                pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, anche nelle ipotesi di cui all'[articolo 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 6 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md);
                             g)
                                 misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere.
 
@@ -184,7 +184,7 @@ Ogni provvedimento giudiziario e' iscritto per estratto contenente i seguenti da
                             f)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
                             g)
-                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231#art_21).
+                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md).
 
 (estensione [artt. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 r.d. n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7))
 
@@ -220,7 +220,7 @@ Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il t
                             f)
                                 luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
                             g)
-                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231#art_21).
+                                sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'[articolo 21 del decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md).
 
 (estensione [artt. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_6) e [7 r.d. n. 778/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;778#art_7))
 
@@ -616,7 +616,7 @@ All'[articolo 46, comma 1, del decreto del Presidente della Repubblica 28 dicemb
                             a)
                                 alla lettera aa) dopo le parole: "che riguardano l'applicazione" sono aggiunte le seguenti: "di misure di sicurezza e";
                             b)
-                                dopo la lettera bb) e' inserita la seguente: "bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231);".
+                                dopo la lettera bb) e' inserita la seguente: "bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);".
 
 ### Art. 50.
 

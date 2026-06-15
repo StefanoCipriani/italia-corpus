@@ -53,7 +53,7 @@ L'[art. 2 del decreto del Presidente della Repubblica 11 maggio 1976, n. 269](Di
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 18 maggio 1987, n.269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269) ha disposto (con l'art. 62) che: "La misura dell'indennita' oraria di cui all'[art. 1 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-23;985#art_1), e successive modificazioni, e' aumentata di L. 700".
+Il [D.P.R. 18 maggio 1987, n.269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md) ha disposto (con l'art. 62) che: "La misura dell'indennita' oraria di cui all'[art. 1 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](Trattamento%20economico%20del%20personale%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), e successive modificazioni, e' aumentata di L. 700".
 
 ## Art. 2. — Compenso per prestazioni di lavoro nelle giornate festive
 
@@ -64,7 +64,7 @@ Il compenso previsto dall'[art. 5 del decreto del Presidente della Repubblica 11
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269) ha disposto (con l'art. 63) che: "Le misure indicate nell'[art. 2 del decreto del Presidente della Repubblica 13 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-13;985#art_2), e successive modificazioni, sono aumentate rispettivamente di L. 3.255 e di L. 1.630 quelle indicate nel primo comma e di L. 4.650 e di L. 2.325 quelle indicate nel secondo comma".
+Il [D.P.R. 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md) ha disposto (con l'art. 63) che: "Le misure indicate nell'[art. 2 del decreto del Presidente della Repubblica 13 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-13;985#art_2), e successive modificazioni, sono aumentate rispettivamente di L. 3.255 e di L. 1.630 quelle indicate nel primo comma e di L. 4.650 e di L. 2.325 quelle indicate nel secondo comma".
 
 ## Art. 3. — Indennita' per l'uso di bicicletta di proprieta' del dipendente
 
@@ -78,7 +78,7 @@ Le misure delle indennita' giornaliere di lingue estere agli interpreti e tradut
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269) ha disposto (con l'art. 64)che:"Le misure di cui all'[art. 4 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-23;985#art_4), e successive modificazioni, sono rispettivamente aumentate di L. 310 e di L. 140".
+Il [D.P.R. 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md) ha disposto (con l'art. 64)che:"Le misure di cui all'[art. 4 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](Trattamento%20economico%20del%20personale%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), e successive modificazioni, sono rispettivamente aumentate di L. 310 e di L. 140".
 
 ## Art. 5. — Compenso speciale per la conoscenza di lingue estere a particolari categorie di personale
 
@@ -88,7 +88,7 @@ Gli importi dei compensi speciali per la conoscenza di lingue estere, previsti d
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269) ha disposto (con l'art. 65)che:" Gli importi di cui all'[art. 5 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-23;985#art_5), e successive modificazioni, sono rispettivamente aumentati di L. 310 e di L. 140".
+Il [D.P.R. 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md) ha disposto (con l'art. 65)che:" Gli importi di cui all'[art. 5 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](Trattamento%20economico%20del%20personale%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), e successive modificazioni, sono rispettivamente aumentati di L. 310 e di L. 140".
 
 ## Art. 6. — Disposizione particolare per il personale addetto ai servizi viaggianti
 
@@ -112,8 +112,8 @@ Al personale postelegrafonico e' corrisposto un premio industriale le cui misure
 
  --------------
  AGGIORNAMENTO (2)
- Il [D.P.R. 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269) come modificato dall' Errata Corrige in G.U. 10/11/1987, n. 263, ha disposto (con l'art. 66)che:
-"Le misure del premio industriale di cui all'[art. 8 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-23;985#art_8), e successive modificazioni, sono aumentate come segue:
+ Il [D.P.R. 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md) come modificato dall' Errata Corrige in G.U. 10/11/1987, n. 263, ha disposto (con l'art. 66)che:
+"Le misure del premio industriale di cui all'[art. 8 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](Trattamento%20economico%20del%20personale%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), e successive modificazioni, sono aumentate come segue:
 
  A) AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
@@ -132,7 +132,7 @@ L. 630 agli sportellisti degli uffici locali e degli uffici principali che effet
  2. Per i criteri di erogazione del premio industriale valgono le disposizioni contenute nell'art. 29 dell'allegato alla [legge 11 febbraio 1970, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-11;29).
  3. Ne riguardi dei personali il cui orario di lavoro settimanale e' distribuito su cinque giornate, la misura giornaliera del premio industriale e' maggiorata del 20 per cento.
  4. Per le funzioni non espressamente richiamate nel presente articolo, l'equiparazione e' determinata con decreto del Ministero delle poste e delle telecomunicazioni d'intesa con le organizzazioni sindacali maggiormente rappresentative sul piano nazionale e sentito il consiglio di amministrazione.
- 5. Le maggiorazioni del premio industriale competono anche per le giornate di permesso sindacale, di cui all'[art. 47 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_47), entro il numero massimo di quattro mensili".
+ 5. Le maggiorazioni del premio industriale competono anche per le giornate di permesso sindacale, di cui all'[art. 47 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), entro il numero massimo di quattro mensili".
 
 ## Art. 9. — Compenso annuale di incentivazione
 
@@ -162,7 +162,7 @@ di cui all'[articolo 3 della legge 3 aprile 1979, n. 101](https://www.normattiva
 
 AGGIORNAMENTO (1)
 
-La [L. 22 dicembre 1981, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-22;797) ha disposto (con l'art. 37)che:"Gli importi delle misure orarie della indennita' di trasferta indicati nel [primo comma dell'articolo 10 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-23;985#art_10-com1), si intendono riferiti alla data indicata nel [primo comma dell'articolo 30 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919](Trattamento%20normativo%20ed%20economico%20in%20materia%20di%20missione%20e%20di%20trasferimento%20per%20il%20personale%20delle%20aziende%20dipendenti%20dal%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md)".
+La [L. 22 dicembre 1981, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-22;797) ha disposto (con l'art. 37)che:"Gli importi delle misure orarie della indennita' di trasferta indicati nel [primo comma dell'articolo 10 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985](Trattamento%20economico%20del%20personale%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), si intendono riferiti alla data indicata nel [primo comma dell'articolo 30 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919](Trattamento%20normativo%20ed%20economico%20in%20materia%20di%20missione%20e%20di%20trasferimento%20per%20il%20personale%20delle%20aziende%20dipendenti%20dal%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md)".
 
 ## Art. 11.
 

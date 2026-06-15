@@ -34,7 +34,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-26;1860), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
+La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Bianchini%20Fidia%20e%20Rodolfo%20fu%20Giovanni%20in%20comune_ce680b668fd9.md), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-26;1860), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
+La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Bianchini%20Fidia%20e%20Rodolfo%20fu%20Giovanni%20in%20comune_ce680b668fd9.md), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
 
 ## Art. 3.
 
@@ -54,7 +54,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto dei terreni ind
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-26;1860), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
+La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Bianchini%20Fidia%20e%20Rodolfo%20fu%20Giovanni%20in%20comune_ce680b668fd9.md), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
 
 ## Art. 4.
 
@@ -64,7 +64,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-26;1860), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
+La Corte Costituzionale con sentenza 30 aprile-14 maggio 1968, n. 41 (in G.U. 1a s.s. 18/5/1968, n. 127) ha dichiarato l'illegittimita' " costituzionale del [decreto del Presidente della Repubblica 26 ottobre 1952, n. 1860](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20della%20Maremma%20tosco-laziale%20e%20del%20territorio%20del%20Fucino%20di%20terreni%20di%20proprieta%20di%20Bianchini%20Fidia%20e%20Rodolfo%20fu%20Giovanni%20in%20comune_ce680b668fd9.md), in quanto, per la formazione del piano di espropriazione contro Bianchini Marisa ed altri, sono stati assunti, ai fini del computo della consistenza della proprieta', i dati del nuovo catasto, non ancora in vigore nella zona, alla data del 15 novembre 1949, ed in quanto risulti dagli ulteriori accertamenti che vi e' stato eccesso di espropriazione."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

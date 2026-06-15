@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, modificato dall'[art. 1 del decreto legislativo 20 gennaio 1948, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-20;18#art_1); 
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, modificato dall'[art. 1 del decreto legislativo 20 gennaio 1948, n. 18](../Decreti%20Legislativi/Temporaneo%20aumento%20degli%20originari%20limiti%20di%20somma%20previsti%20nella%20legge%20e%20nel%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20nelle%20leggi%20e%20regolamenti%20contabili%20speciali%20e%20dallart.%2018%20de_2b2f6d7e8ac9.md); 
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica; 
  Vista la [legge 5 agosto 1949, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-08-05;604); 
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1949-1950, esiste la necessaria disponibilita'; 

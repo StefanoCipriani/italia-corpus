@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1030);
+Visto il [decreto legislativo 7 maggio 1948, n. 1030](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20organici%20del%20personale%20amministrativo%20dordine%20e%20di%20custodia%20delle%20Accademie%20di%20belle%20arti%20Conservatori%20di%20musica%20ed%20Accademie%20darte%20drammatica.md);
 
 Udito il parere del Consiglio di Stato;
 

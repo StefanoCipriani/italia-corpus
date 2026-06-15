@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), e successive modificazioni;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni;
 
 Vista la [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340), allegato A, n. 6;
 
@@ -159,7 +159,7 @@ La targa deteriorata e quella relativa alla autorizzazione smarrita, sottratta, 
 
 1.
 
-Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com4), dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
                         a)
                             gli [articoli 98, commi 1](../Codici/Nuovo%20codice%20della%20strada.md) e [2](../Codici/Nuovo%20codice%20della%20strada.md), e [100, comma 6, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
                         b)
@@ -206,7 +206,7 @@ All'[articolo 260 del decreto del Presidente della Repubblica 16 dicembre 1992, 
 All'appendice XIII al titolo III, paragrafo 0, punto 0.2, del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), le parole ", in prova" sono soppresse.
 
 Note all'art. 4:
- - Per i riferimenti all'[art. 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), si veda nelle note alle premesse.
+ - Per i riferimenti all'[art. 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si veda nelle note alle premesse.
  - Si riporta il testo degli [articoli 98](../Codici/Nuovo%20codice%20della%20strada.md) e [100 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)", pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, supplemento ordinario, come modificato dal regolamento che qui si pubblica:
  "Art. 98 (Circolazione di prova). - 1. (Comma abrogato dal decreto qui pubblicato).
  2.(Comma abrogato dal decreto qui pubblicato).

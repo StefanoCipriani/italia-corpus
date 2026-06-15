@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804#art_29) e [30 del decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804#art_30);
+Visti gli [articoli 29](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md) e [30 del decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'agricoltura e le foreste di concerto con i Min
 
 ## Art. 1.
 
-Gli oggetti di corredo da fornire gratuitamente ai sottufficiali, alle guardie scelte, alle guardie ed agli allievi guardie del Corpo forestale dello Stato, in attuazione dell'[art. 30 del decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804#art_30), e la durata minima di uso di ciascun oggetto sono determinati nella tabella annessa al presente decreto e vistata dai Ministri proponenti.
+Gli oggetti di corredo da fornire gratuitamente ai sottufficiali, alle guardie scelte, alle guardie ed agli allievi guardie del Corpo forestale dello Stato, in attuazione dell'[art. 30 del decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), e la durata minima di uso di ciascun oggetto sono determinati nella tabella annessa al presente decreto e vistata dai Ministri proponenti.
 
 ## Art. 2.
 

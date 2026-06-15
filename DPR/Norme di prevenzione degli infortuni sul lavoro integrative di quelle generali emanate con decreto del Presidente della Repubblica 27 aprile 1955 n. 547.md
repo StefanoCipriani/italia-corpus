@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 12 febbraio 1955, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;51), che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
+Vista la [legge 12 febbraio 1955, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20generali%20e%20speciali%20in%20materia%20di%20prevenzione%20degli%20infortuni%20e%20di%20igiene%20del%20lavoro.md), che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
 
 Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), contenente norme per la prevenzione degli infortuni sul lavoro;
 
@@ -403,7 +403,7 @@ I datori di lavoro e i dirigenti sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758), ha disposto (con l'art. 26, comma 11, lettere a), b) e c)) che: 
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), ha disposto (con l'art. 26, comma 11, lettere a), b) e c)) che: 
  "a) nella lettera a), le parole: "con l'ammenda da lire 1.000.000 a lire 1.500.000" sono sostituite dalle seguenti: "con l'arresto da tre mesi a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni" [...]; 
  b) nella lettera b), le parole: "con l'ammenda da lire 500.000 a lire 1.000.000" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 250.000 a lire 500.000" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni"."
@@ -419,7 +419,7 @@ I costruttori e i fornitori sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758), ha disposto (con l'art. 26, comma 12, lettere a), b) e c)) che: 
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), ha disposto (con l'art. 26, comma 12, lettere a), b) e c)) che: 
  "a) nella lettera a), le parole: "con l'ammenda da lire 1.000.000 a lire 1.500.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni" [...] 
  b) nella lettera b), le parole: "con l'ammenda da lire 500.000 a lire 1.000.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 250.000 a lire 500.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni"."
@@ -435,7 +435,7 @@ I committenti sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758), ha disposto (con l'art. 26, comma 13, lettere a), b) e c))) che: 
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), ha disposto (con l'art. 26, comma 13, lettere a), b) e c))) che: 
  "a) nella lettera a), le parole: "con l'ammenda da lire 1.000.000 a lire 1.500.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni" [...]; 
  b) nella lettera b), le parole: "con l'ammenda da lire 500.000 a lire 1.000.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 250.000 a lire 500.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni"."
@@ -450,7 +450,7 @@ I preposti sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758), ha disposto (con l'art. 26, comma 14, lettere a) e b)) che: 
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), ha disposto (con l'art. 26, comma 14, lettere a) e b)) che: 
  "a) nella lettera a), le parole: "con l'ammenda da lire 50.000 a lire 100.000" sono sostituite dalle seguenti: "con l'arresto da un mese a tre mesi o con l'ammenda da lire un milione a lire quattro milioni" [...]; 
  b) nella lettera b), le parole: "con l'ammenda da lire 25.000 a lire 50.000" sono sostituite con le seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni"."
 
@@ -464,7 +464,7 @@ I lavoratori sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758), ha disposto (con l'art. 26, comma 15, lettere a) e b)) che: 
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), ha disposto (con l'art. 26, comma 15, lettere a) e b)) che: 
  "a) nella lettera a), le parole: "con l'ammenda da lire 12.000 a lire 25.000" sono sostituite dalle seguenti: "con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milione cinquecentomila", [...]; 
  b) nella lettera b), le parole: "con l'ammenda da lire 5.000 a lire 12.500" sono sostituite con le seguenti: "con l'arresto fino a quindici giorni o con l'ammenda da lire duecentomila a lire ottocentomila"."
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);.
 
-Visti gli [articoli 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_84) e [95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
+Visti gli [articoli 84](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md) e [95 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -103,7 +103,7 @@ Gli atti notarili sono scritti in lingua tedesca se le parti ne facciano richies
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 28 febbraio- 11 marzo 1961, n. 1 (in G.U. 1a s.s. 18/03/1961, n. 70) ha dichiarato l'illegittimita' costituzionale della "disposizione contenuta nell'[art. 13 del decreto Presidente della Repubblica 3 gennaio 1960, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-03;103#art_13), contenente norme di attuazione dello Statuto speciale per la Regione Trentino-Alto Adige in materia di uso della lingua tedesca nei procedimenti giurisdizionali, negli uffici tavolari, negli uffici di stato civile, negli atti notarili e nell'attivita' di polizia giudiziaria e tributaria."
+La Corte Costituzionale con sentenza 28 febbraio- 11 marzo 1961, n. 1 (in G.U. 1a s.s. 18/03/1961, n. 70) ha dichiarato l'illegittimita' costituzionale della "disposizione contenuta nell'[art. 13 del decreto Presidente della Repubblica 3 gennaio 1960, n. 103](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Regione%20Trentino-Alto%20Adige%20in%20materia%20di%20uso%20della%20lingua%20tedesca%20nei%20procedimenti%20giurisdizionali%20negli%20uffici%20tavolari%20negli%20uffici%20di_cd066a0e903f.md), contenente norme di attuazione dello Statuto speciale per la Regione Trentino-Alto Adige in materia di uso della lingua tedesca nei procedimenti giurisdizionali, negli uffici tavolari, negli uffici di stato civile, negli atti notarili e nell'attivita' di polizia giudiziaria e tributaria."
 
 ## Polizia giudiziaria e tributaria
 

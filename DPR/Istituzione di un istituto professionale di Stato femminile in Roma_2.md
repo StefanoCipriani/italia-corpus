@@ -20,7 +20,7 @@ Veduto il decreto del Presidente della Repubblica
 
 15 gennaio 1972, n. 10;
 
-Veduta la [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477);
+Veduta la [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
 
 Veduti i decreti del Presidente della Repubblica
 

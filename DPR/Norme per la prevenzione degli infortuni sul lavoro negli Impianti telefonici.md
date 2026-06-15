@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 12 febbraio 1955, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;51), che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
+Vista la [legge 12 febbraio 1955, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20generali%20e%20speciali%20in%20materia%20di%20prevenzione%20degli%20infortuni%20e%20di%20igiene%20del%20lavoro.md), che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
 
 Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), contenente norme per la prevenzione degli infortuni sul lavoro;
 
@@ -172,7 +172,7 @@ I datori di lavoro e i dirigenti sono puniti:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-19;758) ha disposto (con l'art. 26, comma 31, lettera a)) che "il [primo comma dell'art. 22 del decreto del Presidente della Repubblica 20 marzo 1956, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-20;323#art_22-com1), e' cosi' modificato: a) nella lettera a), le parole: "con l'ammenda da lire 500.000 a lire 1.000.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni"." Lo stesso D.P.R. ha disposto (con l'art. 26, comma 31, lettera b)) che"b) nella lettera b), le parole: "con l'ammenda da lire 250.000 a lire 500.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni"."
+Il [D.P.R. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-19;758) ha disposto (con l'art. 26, comma 31, lettera a)) che "il [primo comma dell'art. 22 del decreto del Presidente della Repubblica 20 marzo 1956, n. 323](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20negli%20Impianti%20telefonici.md), e' cosi' modificato: a) nella lettera a), le parole: "con l'ammenda da lire 500.000 a lire 1.000.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni"." Lo stesso D.P.R. ha disposto (con l'art. 26, comma 31, lettera b)) che"b) nella lettera b), le parole: "con l'ammenda da lire 250.000 a lire 500.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni"."
 
 ### Art. 23.
 
@@ -182,7 +182,7 @@ I preposti sono puniti con l'ammenda da L. 5000 a L. 10.000 per l'inosservanza d
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-19;758) ha disposto (con l'art. 26, comma 32) che "nell'[art. 23 del decreto del Presidente della Repubblica 20 marzo 1956, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-20;323#art_23), le parole: "con l'ammenda da lire 25.000 a lire 50.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire un milione cinquecentomila"."
+Il [D.P.R. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-19;758) ha disposto (con l'art. 26, comma 32) che "nell'[art. 23 del decreto del Presidente della Repubblica 20 marzo 1956, n. 323](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20negli%20Impianti%20telefonici.md), le parole: "con l'ammenda da lire 25.000 a lire 50.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire un milione cinquecentomila"."
 
 ### Art. 24.
 
@@ -192,7 +192,7 @@ I lavoratori sono puniti con l'ammenda da L. 1000 a L. 2500 per l'inosservanza d
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-19;758) ha disposto (con l'art. 26, comma 33) che "nel [primo comma dell'art. 24 del decreto del Presidente della Repubblica 20 marzo 1956, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-20;323#art_24-com1), le parole: "con l'ammenda da lire 5.000 a lire 12.500" sono sostituite dalle seguenti: "con l'arresto fino a quindici giorni con l'ammenda da lire duecentomila a lire ottocentomila"."
+Il [D.P.R. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-19;758) ha disposto (con l'art. 26, comma 33) che "nel [primo comma dell'art. 24 del decreto del Presidente della Repubblica 20 marzo 1956, n. 323](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20negli%20Impianti%20telefonici.md), le parole: "con l'ammenda da lire 5.000 a lire 12.500" sono sostituite dalle seguenti: "con l'arresto fino a quindici giorni con l'ammenda da lire duecentomila a lire ottocentomila"."
 
 ### Art. 25.
 

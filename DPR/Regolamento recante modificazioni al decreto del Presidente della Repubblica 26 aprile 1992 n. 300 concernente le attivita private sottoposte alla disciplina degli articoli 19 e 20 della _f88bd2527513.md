@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](Regola
 
 n. 241;
 
-Visto l'[art. 2, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com10);
+Visto l'[art. 2, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
 
 Acquisito il parere delle competenti commissioni permanenti del Senato della Repubblica e della Camera dei deputati;
 
@@ -74,7 +74,7 @@ Note all'art. 2:
 
 1.
 
-L'ufficio centrale per il coordinamento dell'attivita' normativa del Governo provvede a redigere ai sensi dell'[art. 23, comma 4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_23-com4), il testo coordinato del presente regolamento con il [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md), tenendo conto degli effetti abrogativi derivanti dall'[art. 2, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com10).
+L'ufficio centrale per il coordinamento dell'attivita' normativa del Governo provvede a redigere ai sensi dell'[art. 23, comma 4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_23-com4), il testo coordinato del presente regolamento con il [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md), tenendo conto degli effetti abrogativi derivanti dall'[art. 2, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 Note all'art. 3:
  - Si riporta il testo dell'[art. 23, comma 4, della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_23-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) "In relazione a testi normativi di particolare rilevanza l'Ufficio (si riferisce all'Ufficio centrale, per il coordinamento dell'iniziativa legislativa e dell'attivita' normativa del Governo, n.d.r.) provvede a redigere il testo coordinato della legge e del regolamento vigenti".

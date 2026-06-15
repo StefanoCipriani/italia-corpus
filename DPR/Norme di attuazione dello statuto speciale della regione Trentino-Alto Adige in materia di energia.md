@@ -35,7 +35,7 @@ Le funzioni relative alla materia ''energia'' di cui al comma 1 concernono le at
 
 Restano riservate allo Stato le seguenti funzioni e compiti:
                         a)
-                            la definizione degli obiettivi della politica energetica nazionale, dei relativi programmi nazionali e di atti di indirizzo e coordinamento nei limiti di cui all'[articolo 3 del decreto legislativo 16 marzo 1992, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;266#art_3);
+                            la definizione degli obiettivi della politica energetica nazionale, dei relativi programmi nazionali e di atti di indirizzo e coordinamento nei limiti di cui all'[articolo 3 del decreto legislativo 16 marzo 1992, n. 266](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20concernenti%20il%20rapporto%20tra%20gli%20atti%20legislativi%20statali%20e%20leggi%20regionali%20e%20provinciali%20nonche%20la%20potesta%20statale%20di_f9780c778768.md);
                         b)
                             la ricerca scientifica in campo energetico;
                         c)
@@ -53,7 +53,7 @@ Restano riservate allo Stato le seguenti funzioni e compiti:
                         i)
                             l'imposizione delle scorte petrolifere obbligatorie ai sensi delle norme vigenti;
                         l)
-                            fermo restando quanto disposto dall'[articolo 10 del decreto del Presidente della Repubblica 31 luglio 1978, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-31;1017#art_10), come modificato da ultimo dall'[articolo 1 del decreto legislativo 6 luglio 1993, n. 290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-06;290#art_1), l'elaborazione, l'analisi e la diffusione dei dati statistici, anche ai fini del rispetto degli obblighi comunitari, finalizzati alle funzioni inerenti la programmazione energetica e al coordinamento con le regioni e gli enti locali.
+                            fermo restando quanto disposto dall'[articolo 10 del decreto del Presidente della Repubblica 31 luglio 1978, n. 1017](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20artigianato%20incremento%20della%20produzione%20industriale%20cave%20e%20torbiere%20commercio%20fiere%20e%20mercati.md), come modificato da ultimo dall'[articolo 1 del decreto legislativo 6 luglio 1993, n. 290](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-%20Alto%20Adige%20concernenti%20le%20competenze%20degli%20uffici%20di%20statistica%20delle%20province%20di%20Trento%20e%20di%20Bolzano.md), l'elaborazione, l'analisi e la diffusione dei dati statistici, anche ai fini del rispetto degli obblighi comunitari, finalizzati alle funzioni inerenti la programmazione energetica e al coordinamento con le regioni e gli enti locali.
 
 4.
 
@@ -93,7 +93,7 @@ Spetta alle Province autonome di Trento e di Bolzano, per il rispettivo territor
 
 3.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 4.
 
@@ -101,35 +101,35 @@ Gli organi statali competenti consegnano alla provincia interessata, entro il 31
 
 5.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 6.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 7.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 8.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 9.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 10.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 11.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 12.
 
-COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289)
+COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md)
 
 13.
 
@@ -138,7 +138,7 @@ COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](https://www.normattiva.it/ur
 14.
 
 Salvo quanto disposto dal comma 15 le concessioni per le grandi derivazioni a scopo idroelettrico scadute, entro il 31 dicembre 1998 sono prorogate fino al 31 dicembre 2001 e i titolari di concessione interessati proseguono l'attivita' senza necessita' di alcun atto amministrativo dandone comunicazione alla amministrazione concedente nonche' alla provincia interessata entro novanta giorni dalla data di entrata in vigore del presente articolo. PERIODO SOPPRESSO DAL [D.LGS. 
-7 NOVEMBRE 2006, N. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-07;289).
+7 NOVEMBRE 2006, N. 289](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20Trentino-Alto%20Adige-Südtirol%20recanti%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20marzo%201977%20n.%20235%20in%20materi_5fb05387ac0e.md).
 
 15.
 
@@ -157,7 +157,7 @@ I proventi derivanti dall'utilizzo delle acque pubbliche, ivi compresi i canoni 
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 28 dicembre 2006, n.300](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20diverse.md), convertito con modificazioni dalla [L. 26 febbraio 2007, n.17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202006%20n.%20300%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20delegazione%20legislativa.md), ha disposto (con l'art.6 comma 7-ter) che "le concessioni di cui al [comma 15 dell'articolo 1-bis del decreto del Presidente della Repubblica 26 marzo 1977, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-03-26;235#art_1bis-com15), scadono il 31 dicembre 2010 e le concessioni diverse da quelle di cui al predetto comma 15 scadono alla data risultante dai rispettivi provvedimenti di 
+Il [D.L. 28 dicembre 2006, n.300](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20diverse.md), convertito con modificazioni dalla [L. 26 febbraio 2007, n.17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202006%20n.%20300%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20delegazione%20legislativa.md), ha disposto (con l'art.6 comma 7-ter) che "le concessioni di cui al [comma 15 dell'articolo 1-bis del decreto del Presidente della Repubblica 26 marzo 1977, n. 235](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20energia.md), scadono il 31 dicembre 2010 e le concessioni diverse da quelle di cui al predetto comma 15 scadono alla data risultante dai rispettivi provvedimenti di 
 concessione."
 
 ## Art. 1-ter.
@@ -222,7 +222,7 @@ L'indennizzo relativo ai beni trasferiti e' stabilito dal commissario del Govern
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 11 novembre 1999, n.463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-11-11;463), ha disposto (con l'art.16) che al terzo comma le parole: "del 7,50 per cento" sono sostituite dalle seguenti: "pari al tasso previsto, in sostituzione del tasso ufficiale di sconto, dall'articolo 1, comma l, del [decreto legislativo 24 giugno 1998, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-24;213), e vigente alla data di entrata in vigore della presente disposizione, aumentato di 0,50 punti".
+Il [D. Lgs. 11 novembre 1999, n.463](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20demanio%20idrico%20di%20opere%20idrauliche%20e%20di%20concessioni%20di%20grandi%20derivazioni%20a%20scopo%20idroelettrico%20_e19ba1dabd16.md), ha disposto (con l'art.16) che al terzo comma le parole: "del 7,50 per cento" sono sostituite dalle seguenti: "pari al tasso previsto, in sostituzione del tasso ufficiale di sconto, dall'articolo 1, comma l, del [decreto legislativo 24 giugno 1998, n. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20lintroduzione%20dellEURO%20nellordinamento%20nazionale%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2017%20dicembre%201997%20n.%20433.md), e vigente alla data di entrata in vigore della presente disposizione, aumentato di 0,50 punti".
 
 ## Art. 6.
 

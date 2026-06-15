@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Dis
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
 
-Visto l'[articolo 3, comma 137, lettere e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com137-lete) ed [f), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com137-letf), che autorizza il Governo all'emanazione del regolamento concernente la disciplina dei versamenti delle ritenute alla fonte effettuati in eccedenza rispetto alla somma dovuta, consentendone lo scomputo a fronte dei versamenti successivi e la semplificazione degli adempimenti dei sostituti di imposta che effettuano ritenute alla fonte su redditi di lavoro autonomo di ammontare non significativo;
+Visto l'[articolo 3, comma 137, lettere e)](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ed [f), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), che autorizza il Governo all'emanazione del regolamento concernente la disciplina dei versamenti delle ritenute alla fonte effettuati in eccedenza rispetto alla somma dovuta, consentendone lo scomputo a fronte dei versamenti successivi e la semplificazione degli adempimenti dei sostituti di imposta che effettuano ritenute alla fonte su redditi di lavoro autonomo di ammontare non significativo;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva degli atti normativi nell'adunanza del 14 luglio 1997;
 
@@ -44,7 +44,7 @@ La scelta non risultante dalla dichiarazione si intende fatta per il riporto.
 
 4.
 
-La parte dell'eccedenza riportata che non e' utilizzata in compensazione ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), costituisce eccedenza per il periodo stesso ed eoggetto di ulteriore scelta tra il riporto ed il rimborso. (3)
+La parte dell'eccedenza riportata che non e' utilizzata in compensazione ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), costituisce eccedenza per il periodo stesso ed eoggetto di ulteriore scelta tra il riporto ed il rimborso. (3)
 
 5.
 
@@ -58,7 +58,7 @@ Sull'eccedenza computata in diminuzione dei versamenti non competono interessi. 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175) ha disposto (con l'art. 15, comma 1, alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2015.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 15, comma 1, alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2015.
 
 ## Art. 2. — Semplificazione degli adempimenti
  di alcuni sostituti di imposta

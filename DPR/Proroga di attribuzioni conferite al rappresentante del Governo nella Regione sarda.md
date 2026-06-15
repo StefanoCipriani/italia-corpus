@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3);
+Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Visto il [decreto Presidenziale 19 maggio 1949, n. 250](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md);
 
@@ -35,7 +35,7 @@ Fino all'attuazione di norme legislative circa la delega all'Amministrazione reg
 
 ## Art. 2.
 
-Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56).
+Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

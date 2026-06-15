@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 17 dicembre 1962, n. 1863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-17;1863), concernente delega al Governo per l'emanazione delle norme relative all'ordinamento ed al personale degli archivi di Stato;
+Vista la [legge 17 dicembre 1962, n. 1863](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20Archivi%20di%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative all'ordinamento ed al personale degli archivi di Stato;
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -74,7 +74,7 @@ E' istituito presso il Ministero dell'interno il Consiglio superiore degli archi
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 9 maggio 1994, n. 608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;608) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28-leta), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
+Il [D.P.R. 9 maggio 1994, n. 608](Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
 
 ### Art. 6. — Competenze
 
@@ -105,7 +105,7 @@ In seno al Consiglio e' costituita una Giunta composta da:
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 9 maggio 1994, n. 608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;608) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28-leta), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
+Il [D.P.R. 9 maggio 1994, n. 608](Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
 
 ### Art. 9. — Competenze della Giunta
 
@@ -124,7 +124,7 @@ E' compito della Giunta:
 
 AGGIORNAMENTO (2a)
 
-Il [D.P.R. 28 dicembre 1970, n.1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077) ha disposto (con l'art. 153, comma 2) che la presente modifica ha effetto dal 1 luglio 1970.
+Il [D.P.R. 28 dicembre 1970, n.1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) ha disposto (con l'art. 153, comma 2) che la presente modifica ha effetto dal 1 luglio 1970.
 
 ### Art. 10. — Riunioni della Giunta
 
@@ -147,7 +147,7 @@ In seno al Consiglio e' costituito un Comitato per le pubblicazioni composto da:
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 9 maggio 1994, n. 608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;608) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28-leta), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
+Il [D.P.R. 9 maggio 1994, n. 608](Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
 
 ### Art. 12. — Commissione per la fotoriproduzione dei documenti
 
@@ -169,7 +169,7 @@ In seno al Consiglio e' costituita una Commissione per la fotoriproduzione dei d
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 9 maggio 1994, n. 608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;608) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28-leta), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
+Il [D.P.R. 9 maggio 1994, n. 608](Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md) ha disposto (con l'art. 2, comma 1) che sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), gli organi collegiali "Consiglio superiore archivi - Giunta consiglio superiore archivi - Commissione pubblicazioni consiglio superiore - Commissione fotoriproduzione documenti" di cui al presente provvedimento.
 
 ### Art. 13. — Validita' delle adunanze e delle deliberazioni
 
@@ -236,7 +236,7 @@ ARTICOLO ABROGATO DAL [D.LGS. 29 OTTOBRE 1999, N. 490](../Atti%20normativi%20abr
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ha disposto (con l'art. 184 comma 1) che sono abrogate le seguenti disposizioni "[decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409), limitatamente: all'articolo 21, commi 1 e 3, e comma 2, nel testo, rispettivamente, modificato e sostituito dall'[articolo 8 del decreto legislativo 30 luglio 1999, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;281#art_8); agli articoli 21-bis e 22, comma 1, nel testo, rispettivamente, aggiunto e modificato dall'articolo 9 del medesimo decreto legislativo;"
+Il [D.Lgs. 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ha disposto (con l'art. 184 comma 1) che sono abrogate le seguenti disposizioni "[decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), limitatamente: all'articolo 21, commi 1 e 3, e comma 2, nel testo, rispettivamente, modificato e sostituito dall'[articolo 8 del decreto legislativo 30 luglio 1999, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20trattamento%20dei%20dati%20personali%20per%20finalita%20storiche%20statistiche%20e%20di%20ricerca%20scientifica.md); agli articoli 21-bis e 22, comma 1, nel testo, rispettivamente, aggiunto e modificato dall'articolo 9 del medesimo decreto legislativo;"
 
 ### Art. 21-bis.
 
@@ -250,7 +250,7 @@ ARTICOLO ABROGATO DAL [D.LGS. 29 OTTOBRE 1999, N. 490](../Atti%20normativi%20abr
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ha disposto (con l'art. 184 comma 1) che sono abrogate le seguenti disposizioni "[decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409), limitatamente: all'articolo 21, commi 1 e 3, e comma 2, nel testo, rispettivamente, modificato e sostituito dall'[articolo 8 del decreto legislativo 30 luglio 1999, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;281#art_8); agli articoli 21-bis e 22, comma 1, nel testo, rispettivamente, aggiunto e modificato dall'articolo 9 del medesimo decreto legislativo;"
+Il [D.Lgs. 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ha disposto (con l'art. 184 comma 1) che sono abrogate le seguenti disposizioni "[decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), limitatamente: all'articolo 21, commi 1 e 3, e comma 2, nel testo, rispettivamente, modificato e sostituito dall'[articolo 8 del decreto legislativo 30 luglio 1999, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20trattamento%20dei%20dati%20personali%20per%20finalita%20storiche%20statistiche%20e%20di%20ricerca%20scientifica.md); agli articoli 21-bis e 22, comma 1, nel testo, rispettivamente, aggiunto e modificato dall'articolo 9 del medesimo decreto legislativo;"
 
 ## Conservazione degli archivi e dei documenti
 
@@ -266,7 +266,7 @@ TITOLO III
 
 ### Art. 25.
 
-((IL [D.P.R. 8 GENNAIO 2001, N. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-01-08;37) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.P.R. 8 GENNAIO 2001, N. 37](Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20costituzione%20e%20rinnovo%20delle%20Commissioni%20di%20sorveglianza%20sugli%20archivi%20e%20per%20lo%20scarto%20dei%20documenti%20degli%20uffici%20dello%20Stato%20n.%2042%20alle_0178c6ff04cc.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 26. — Scarto di documenti conservati negli archivi di Stato
 
@@ -274,7 +274,7 @@ Il Ministro per l'interno puo' consentire, su conforme parere della Giunta dei C
 
 ### Art. 27.
 
-((IL [D.P.R. 8 GENNAIO 2001, N. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-01-08;37) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.P.R. 8 GENNAIO 2001, N. 37](Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20costituzione%20e%20rinnovo%20delle%20Commissioni%20di%20sorveglianza%20sugli%20archivi%20e%20per%20lo%20scarto%20dei%20documenti%20degli%20uffici%20dello%20Stato%20n.%2042%20alle_0178c6ff04cc.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 28.
 

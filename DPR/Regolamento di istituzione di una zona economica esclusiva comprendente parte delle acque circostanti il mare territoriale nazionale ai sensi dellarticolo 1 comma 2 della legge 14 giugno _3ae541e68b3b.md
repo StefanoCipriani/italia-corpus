@@ -85,8 +85,8 @@ N O T E
  d) provvedimenti dei comitati interministeriali di riparto o assegnazione di fondi ed altre deliberazioni emanate nelle materie di cui alle lettere b) e c); 
  e) 
  f) provvedimenti di disposizione del demanio e del patrimonio immobiliare; 
- f-bis) atti e contratti di cui all'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_7-com6), e successive modificazioni; 
- f-ter) atti e contratti concernenti studi e consulenze di cui all'[articolo 1, comma 9, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com9); 
+ f-bis) atti e contratti di cui all'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni; 
+ f-ter) atti e contratti concernenti studi e consulenze di cui all'[articolo 1, comma 9, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md); 
  g) decreti che approvano contratti delle amministrazioni dello Stato, escluse le aziende autonome: attivi, di qualunque importo, ad eccezione di quelli per i quali ricorra l'ipotesi prevista dall'ultimo commi dell'[articolo 19 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_19); di appalto d'opera, se di importo superiore al valore in ECU stabilito dalla normativa comunitaria per l'applicazione delle procedure di aggiudicazione dei contratti stessi; altri contratti passivi, se di importo superiore ad un decimo del valore suindicato; 
  h) decreti di variazione del bilancio dello Stato, di accertamento dei residui e di assenso preventivo del Ministero del tesoro all'impegno di spese correnti a carico di esercizi successivi; 
  i) atti per il cui corso sia stato impartito l'ordine scritto del Ministro; 

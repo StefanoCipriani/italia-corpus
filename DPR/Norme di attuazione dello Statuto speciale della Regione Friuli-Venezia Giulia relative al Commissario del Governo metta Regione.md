@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Minis
 
 ## Art. 1.
 
-Ai sensi e nei limiti dell'art. 62 dello Statuto speciale della Regione Friuli-Venezia Giulia, emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), il Commissario del Governo:
+Ai sensi e nei limiti dell'art. 62 dello Statuto speciale della Regione Friuli-Venezia Giulia, emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), il Commissario del Governo:
  a) coordina - salve le attribuzioni proprie dei prefetti nell'ambito delle rispettive Province - l'esercizio delle attribuzioni amministrative dello Stato nella Regione.
  A tal fine riceve comunicazione delle direttive ed istruzioni che le Amministrazioni centrali indirizzano ai propri organi periferici nella Regione, ed impartisce le disposizioni necessarie per l'armonizzazione della loro attivita' Decide, in caso di necessita' ed urgenza, le questioni di competenza tra gli uffici statali con circoscrizione regionale;
  b) avanza proposte alle competenti Amministrazioni centrali sui fondi da assegnare ai rispettivi uffici amministrativi operanti nella Regione e formula al Governo, sentita la Regione stessa e le Amministrazioni locali o statali interessate, proposte ed osservazioni per gli interventi straordinari dello Stato nella Regione;

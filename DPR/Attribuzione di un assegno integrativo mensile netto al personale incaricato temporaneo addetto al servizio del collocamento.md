@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_1), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3) e [6 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_6), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visti gli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), [3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md) e [6 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
 Visto l'[art. 4 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md);
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Al personale incaricato temporaneo addetto al servizio del collocamento, di cui all'[art. 5 del decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381#art_5) e all'[art. 24 della legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264#art_24), e' concesso, a, decorrere dal 1 gennaio 1954 e fino al 30 giugno 1955, in aggiunta alle competenze in vigore fissate dalla [legge 20 luglio 1952, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015), un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nella misura netta indicata, come appresso, per ciascun importo del compenso annuo lordo di cui alla tabella dell'art. 1 della stessa [legge 20 luglio 1952, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015):
+Al personale incaricato temporaneo addetto al servizio del collocamento, di cui all'[art. 5 del decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md) e all'[art. 24 della legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264#art_24), e' concesso, a, decorrere dal 1 gennaio 1954 e fino al 30 giugno 1955, in aggiunta alle competenze in vigore fissate dalla [legge 20 luglio 1952, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015), un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nella misura netta indicata, come appresso, per ciascun importo del compenso annuo lordo di cui alla tabella dell'art. 1 della stessa [legge 20 luglio 1952, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015):
  Assegno integrativo
  Compenso annuo lordo mensile netto
  Lire Lire

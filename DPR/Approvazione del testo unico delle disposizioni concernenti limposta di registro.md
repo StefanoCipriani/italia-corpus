@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 17, terzo comma, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3);
+Visto l'[art. 17, terzo comma, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Vista la [legge 24 dicembre 1985, n. 777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20per%20lemanazione%20dei%20testi%20unici%20previsti%20dallarticolo%2017%20della%20legge%209%20ottobre%201971%20n.%20825%20e%20successive%20modificazioni.md), che ha prorogato, da ultimo, il termine per l'emanazione dei testi unici previsti dall'[art. 17 della legge n. 825 del 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;825#art_17);
 
@@ -150,7 +150,7 @@ Sono soggetti a registrazione:
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 5. — Registrazione in termine fisso e registrazione in caso d'uso
 
@@ -166,7 +166,7 @@ Sono soggetti a registrazione in termine fisso gli atti indicati nella parte pri
 
 AGGIORNAMENTO (68)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 30) che la presente modifica si applica dal 1º gennaio 2018.
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 30) che la presente modifica si applica dal 1º gennaio 2018.
 
 ### Art. 6. — Caso d'uso
 
@@ -204,7 +204,7 @@ La registrazione di tutti gli altri atti puo' essere eseguita da qualsiasi ((uff
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 10. — Soggetti obbligati a richiedere la registrazione
 
@@ -257,7 +257,7 @@ La richiesta di registrazione di un atto vale anche per gli atti ad esso allegat
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 12. — Richiesta di registrazione dei contratti verbali e delle operazioni 
  di societa' ed enti esteri
@@ -300,19 +300,19 @@ Nei casi di cui al comma 2 dell'art. 12 la registrazione deve essere richiesta e
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -----------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 14. — Termine per la richiesta di registrazione degli atti soggetti ad 
  approvazione od omologazione
@@ -387,7 +387,7 @@ Le richieste di registrazione sono conservate, previa apposizione del numero e d
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 17. — Cessioni, risoluzioni e proroghe anche tacite dei contratti di locazione e di affitto di beni immobili
 
@@ -401,7 +401,7 @@ Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risol
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208).(63)
+COMMA SOPPRESSO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).(63)
 
 3.
 
@@ -415,26 +415,26 @@ Per i contratti di affitto di fondi rustici non formati per atto pubblico o scri
 
 AGGIORNAMENTO (58)
 
-Il [D.L. 6 luglio 2012 n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 3, comma 16) che "Le previsioni di cui all'[articolo 17, comma 3 del Decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_17-com3) si applicano alle concessioni di beni immobili appartenenti al demanio dello Stato, fermo restando quanto previsto dall'articolo 57, comma 7, del medesimo decreto".
+Il [D.L. 6 luglio 2012 n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 3, comma 16) che "Le previsioni di cui all'[articolo 17, comma 3 del Decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) si applicano alle concessioni di beni immobili appartenenti al demanio dello Stato, fermo restando quanto previsto dall'articolo 57, comma 7, del medesimo decreto".
 
 ---------------
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
  Aveva inoltre disposto (con l'art. 32, comma 1) la soppressione del comma 2 del presente articolo a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 18. — Effetti della registrazione
 
@@ -454,7 +454,7 @@ Su richiesta delle parti contraenti, dei loro aventi causa o di coloro nel cui i
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 19. — Denuncia di eventi successivi alla registrazione
 
@@ -468,13 +468,13 @@ Il termine di cui al comma 1 e` elevato a sessanta giorni se l'evento dedotto in
 
 3.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488).
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md).
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ## APPLICAZIONE DELL'IMPOSTA
 
@@ -490,7 +490,7 @@ L'imposta e' applicata secondo la intrinseca natura e gli effetti giuridici, del
 
 AGGIORNAMENTO (74)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), nel modificare l'[art. 1, comma 87, lettera a) della L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com87-leta), ha conseguentemente disposto (con l'art. 1, comma 1084) che "L'[articolo 1, comma 87, lettera a), della legge 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com87-leta), costituisce interpretazione autentica dell'articolo 20, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131)".
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), nel modificare l'[art. 1, comma 87, lettera a) della L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha conseguentemente disposto (con l'art. 1, comma 1084) che "L'[articolo 1, comma 87, lettera a), della legge 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), costituisce interpretazione autentica dell'articolo 20, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md)".
 
 ### Art. 21. — Atti che contengono piu' disposizioni
 
@@ -542,7 +542,7 @@ Le pertinenze sono in ogni caso soggette alla disciplina prevista per il bene al
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 24. — Presunzione di trasferimento delle accessioni e delle pertinenze
 
@@ -582,7 +582,7 @@ La presunzione di liberalita`, se ricorre la condizione di cui al comma 1, vale 
 
 AGGIORNAMENTO (25)
 
-La Corte Costituzionale con sentenza del 22-25 febbraio 1999 n. 41 (in s.s. relativa alla G.U. n. 9 del 03.03.1999) ha dichirato "l'illegittimita' costituzionale dell'[art. 26, comma primo, del D.P.R. 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_26-com1) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui esclude la prova contraria diretta a superare la presunzione di liberalita' dei trasferimenti immobiliari".
+La Corte Costituzionale con sentenza del 22-25 febbraio 1999 n. 41 (in s.s. relativa alla G.U. n. 9 del 03.03.1999) ha dichirato "l'illegittimita' costituzionale dell'[art. 26, comma primo, del D.P.R. 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui esclude la prova contraria diretta a superare la presunzione di liberalita' dei trasferimenti immobiliari".
 
 ### Art. 27. — Atti sottoposti a condizione sospensiva approvazione od omologazione
 
@@ -610,7 +610,7 @@ Gli atti indicati nell'art. 14, quando intervenga l'approvazione o la omologazio
 
 6.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md)
 
 ))
 
@@ -697,7 +697,7 @@ Agli effetti del presente articolo le comunioni tra i medesimi soggetti, che tro
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 35. — Contratti a prezzo indeterminato
 
@@ -717,7 +717,7 @@ Se nel contratto e' prevista la possibilita' che il corrispettivo vari tra un mi
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 36. — Contratti a tempo indeterminato e contratti con patto di proroga 
  tacita o di recesso anticipato
@@ -752,7 +752,7 @@ Il contribuente che ha diritto al rimborso deve chiederlo ai sensi dell'art. 77 
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 38. — Irrilevanza della nullita' e dell'annullabilita' dell'atto
 
@@ -785,19 +785,19 @@ Per le operazioni indicate nell'[art. 11 del decreto del Presidente della Repubb
 
 AGGIORNAMENTO (59)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 166) che la presente modifica si applica a decorrere dal 1º gennaio 2014.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 166) che la presente modifica si applica a decorrere dal 1º gennaio 2014.
 
 --------------
 
 AGGIORNAMENTO (63)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 84) che la presente modifica si applica dal 1° gennaio 2016 al 31 dicembre 2020.
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 84) che la presente modifica si applica dal 1° gennaio 2016 al 31 dicembre 2020.
 
 --------------
 
 AGGIORNAMENTO (68)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 30) che le presenti modifiche si applicano dal 1º gennaio 2018.
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 30) che le presenti modifiche si applicano dal 1º gennaio 2018.
 
 ### Art. 41. — Liquidazione dell'imposta
 
@@ -808,7 +808,7 @@ La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 L'ammontare dell'imposta principale non puo` essere in nessun caso inferiore alla misura fissa indicata nell'articolo 11 della tariffa, parte prima, salvo quanto disposto dagli articoli 5 e 7 della tariffa stessa.
 
-((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;463#art_3ter), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
+((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
 
 ((93))
 
@@ -816,7 +816,7 @@ L'ammontare dell'imposta principale non puo` essere in nessun caso inferiore all
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 42. — Imposta principale, suppletiva e complementare
 
@@ -832,7 +832,7 @@ L'imposta applicabile, ai sensi degli articoli precedenti, sugli atti non presen
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ## DETERMINAZIONE DELLA BASE IMPONIBILE
 
@@ -856,7 +856,7 @@ La base imponibile, salvo quanto disposto negli articoli seguenti, e' costituita
                             f)
                                 per gli atti con i quali viene prestata garanzia reale o personale, dalla somma garantita; se la garanzia e' prestata in denaro o in titoli, dalla somma di denaro o dal valore dei titoli, se inferiore alla somma garantita;
                             g)
-                                ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488);
+                                ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md);
                             h)
                                 per i contratti diversi da quelli indicati nelle lettere precedenti, aventi per oggetto prestazioni a contenuto patrimoniale, dall'ammontare dei corrispettivi in denaro pattuiti per l'intera durata del contratto;
                             i)
@@ -874,7 +874,7 @@ I prezzi o i corrispettivi in valuta estera o in valuta oro sono ragguagliati al
 
 Le disposizioni del comma 1 valgono anche per gli atti dell'autorita' giudiziaria, di cui all'art. 37, relativi agli atti indicati nel comma stesso e produttivi degli stessi effetti. (43) (60) (44)
 
-((4-bis. Le disposizioni di cui al comma 1 non si applicano per le cessioni aventi ad oggetto immobili a uso abitativo e relative pertinenze, la cui base imponibile e' determinata ai sensi dell'[articolo 1, comma 497, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com497).))
+((4-bis. Le disposizioni di cui al comma 1 non si applicano per le cessioni aventi ad oggetto immobili a uso abitativo e relative pertinenze, la cui base imponibile e' determinata ai sensi dell'[articolo 1, comma 497, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md).))
 
 ((93))
 
@@ -882,25 +882,25 @@ Le disposizioni del comma 1 valgono anche per gli atti dell'autorita' giudiziari
 
 AGGIORNAMENTO (43)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1 comma 497) che "In deroga alla disciplina di cui all'articolo 43 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), per le sole cessioni fra persone fisiche che non agiscano nell'esercizio di attivita' commerciali, artistiche o professionali, aventi ad oggetto immobili ad uso abitativo e relative pertinenze, all'atto della cessione e su richiesta della parte acquirente resa al notaio, la base imponibile ai fini delle imposte di registro, ipotecarie e catastali e' costituita dal valore dell'immobile determinato ai sensi dell'articolo 52, commi 4 e 5, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 131 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131), indipendentemente dal corrispettivo pattuito indicato nell'atto. Gli onorari notarili sono ridotti del 20 per cento".
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1 comma 497) che "In deroga alla disciplina di cui all'articolo 43 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), per le sole cessioni fra persone fisiche che non agiscano nell'esercizio di attivita' commerciali, artistiche o professionali, aventi ad oggetto immobili ad uso abitativo e relative pertinenze, all'atto della cessione e su richiesta della parte acquirente resa al notaio, la base imponibile ai fini delle imposte di registro, ipotecarie e catastali e' costituita dal valore dell'immobile determinato ai sensi dell'articolo 52, commi 4 e 5, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 131 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131), indipendentemente dal corrispettivo pattuito indicato nell'atto. Gli onorari notarili sono ridotti del 20 per cento".
 
 -------------
 
 AGGIORNAMENTO (60)
 
-Successivamente la Corte Costituzionale, con sentenza 15 - 23 gennaio 2014, n. 6 (in G.U. 1a s.s. 29/1/2014, n. 5) ha dichiarato "l'illegittimita' costituzionale dell'[articolo 1, comma 497, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com497) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2006), nella parte in cui non prevede la facolta', per gli acquirenti di immobili ad uso abitativo e relative pertinenze acquisiti in sede di espropriazione forzata o a seguito di pubblico incanto, i quali non agiscono nell'esercizio di attivita' commerciali, artistiche o professionali, di chiedere che, in deroga all'[art. 44, comma 1, del d.P.R. 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_44-com1) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), la base imponibile ai fini delle imposte di registro, ipotecarie e catastali sia costituita dal valore dell'immobile determinato ai sensi dell'[art. 52, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131#art_52-com4) e [5, del d.P.R. n. 131 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131#art_52-com5), fatta salva l'applicazione dell'art. 39, primo comma, lettera d), ultimo periodo, del [d.P.R. 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) (Disposizioni comuni in materia di accertamento delle imposte sui redditi)".
+Successivamente la Corte Costituzionale, con sentenza 15 - 23 gennaio 2014, n. 6 (in G.U. 1a s.s. 29/1/2014, n. 5) ha dichiarato "l'illegittimita' costituzionale dell'[articolo 1, comma 497, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2006), nella parte in cui non prevede la facolta', per gli acquirenti di immobili ad uso abitativo e relative pertinenze acquisiti in sede di espropriazione forzata o a seguito di pubblico incanto, i quali non agiscono nell'esercizio di attivita' commerciali, artistiche o professionali, di chiedere che, in deroga all'[art. 44, comma 1, del d.P.R. 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), la base imponibile ai fini delle imposte di registro, ipotecarie e catastali sia costituita dal valore dell'immobile determinato ai sensi dell'[art. 52, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131#art_52-com4) e [5, del d.P.R. n. 131 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131#art_52-com5), fatta salva l'applicazione dell'art. 39, primo comma, lettera d), ultimo periodo, del [d.P.R. 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) (Disposizioni comuni in materia di accertamento delle imposte sui redditi)".
 
 -------------
 
 AGGIORNAMENTO (44)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266), come modificata dal [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md), ha disposto (con l'art. 1 comma 497) che "In deroga alla disciplina di cui all'articolo 43 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), per le sole cessioni fra persone fisiche che non agiscano nell'esercizio di attivita' commerciali, artistiche o professionali, aventi ad oggetto immobili ad uso abitativo e relative pertinenze, all'atto della cessione e su richiesta della parte acquirente resa al notaio, la base imponibile ai fini delle imposte di registro, ipotecarie e catastali e' costituita dal valore dell'immobile determinato ai sensi dell'articolo 52, commi 4 e 5, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 131 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131), indipendentemente dal corrispettivo pattuito indicato nellatto. Le parti hanno comunque l'obbligo di indicare nell'atto il corrispettivo pattuito. Gli onorari notarili sono ridotti del 30 per cento".
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), come modificata dal [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md), ha disposto (con l'art. 1 comma 497) che "In deroga alla disciplina di cui all'articolo 43 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), per le sole cessioni fra persone fisiche che non agiscano nell'esercizio di attivita' commerciali, artistiche o professionali, aventi ad oggetto immobili ad uso abitativo e relative pertinenze, all'atto della cessione e su richiesta della parte acquirente resa al notaio, la base imponibile ai fini delle imposte di registro, ipotecarie e catastali e' costituita dal valore dell'immobile determinato ai sensi dell'articolo 52, commi 4 e 5, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 131 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;131), indipendentemente dal corrispettivo pattuito indicato nellatto. Le parti hanno comunque l'obbligo di indicare nell'atto il corrispettivo pattuito. Gli onorari notarili sono ridotti del 30 per cento".
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 44. — Espropriazione forzata e trasferimenti coattivi
 
@@ -964,118 +964,118 @@ Ai fini della determinazione dei valori di cui ai commi 2 e 5-bis, non puo' esse
 
 AGGIORNAMENTO (49)
 
-Il Decreto 7 gennaio 2008 (in G.U. 11/01/2008, n. 9) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 33,33 volte l'annualita'". 
+Il Decreto 7 gennaio 2008 (in G.U. 11/01/2008, n. 9) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 33,33 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2008".
 
 ---------------
 
 AGGIORNAMENTO (51)
 
-Il Decreto 23 dicembre 2009, (in G.U. 31/12/2009, n. 303), ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 100 volte l'annualita'". 
+Il Decreto 23 dicembre 2009, (in G.U. 31/12/2009, n. 303), ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 100 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2010".
 
 ---------------
 
 AGGIORNAMENTO (55a)
 
-Il Decreto 23 dicembre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'articolo 46, comma 2, lettere a) e b ) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 66,66 volte l'annualita'". 
+Il Decreto 23 dicembre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'articolo 46, comma 2, lettere a) e b ) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 66,66 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2011".
 
 ---------------
 
 AGGIORNAMENTO (58a)
 
-Il Decreto 22 dicembre 2011 (in G.U. 30/12/2011, n. 303) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
+Il Decreto 22 dicembre 2011 (in G.U. 30/12/2011, n. 303) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2012".
 
 ---------------
 
 AGGIORNAMENTO (62)
 
-Il Decreto 23 dicembre 2013 (in G.U. 28/12/2013, n. 303) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b ) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 100 volte l'annualita'". 
+Il Decreto 23 dicembre 2013 (in G.U. 28/12/2013, n. 303) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b ) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 100 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2014".
 
 ---------------
 
 AGGIORNAMENTO (69)
 
-Il Decreto 23 dicembre 2016 (in G.U. 31/12/2016, n. 305) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 1000 volte l'annualita'". 
+Il Decreto 23 dicembre 2016 (in G.U. 31/12/2016, n. 305) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 1000 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2017".
 
 ---------------
 
 AGGIORNAMENTO (71)
 
-Il Decreto 20 dicembre 2017 (in G.U. 28/12/2017, n. 301) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 333,33 volte l'annualita'". 
+Il Decreto 20 dicembre 2017 (in G.U. 28/12/2017, n. 301) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 333,33 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2018".
 
 ---------------
 
 AGGIORNAMENTO (73)
 
-Il Decreto 19 dicembre 2018 (in G.U. 28/12/2018, n. 300) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 125,00 volte l'annualita'". 
+Il Decreto 19 dicembre 2018 (in G.U. 28/12/2018, n. 300) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 125,00 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2019".
 
 ---------------
 
 AGGIORNAMENTO (75)
 
-Il Decreto 20 dicembre 2019, ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'articolo 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 2000 volte l'annualita'". 
+Il Decreto 20 dicembre 2019, ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'articolo 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 2000 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2020".
 
 ---------------
 
 AGGIORNAMENTO (79)
 
-Il Decreto 18 dicembre 2020 (in G.U. 30/12/2020, n. 322) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 10.000 volte l'annualita'". 
+Il Decreto 18 dicembre 2020 (in G.U. 30/12/2020, n. 322) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 10.000 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2021".
 
 ---------------
 
 AGGIORNAMENTO (82)
 
-Il Decreto 21 dicembre 2021 (in G.U. 30/12/2021, n. 309) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 80 volte l'annualita'". 
+Il Decreto 21 dicembre 2021 (in G.U. 30/12/2021, n. 309) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 80 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2022".
 
 ---------------
 
 AGGIORNAMENTO (87)
 
-Il Decreto 20 dicembre 2022 (in G.U. 30/12/2022, n. 304) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 20 volte l'annualita'". 
+Il Decreto 20 dicembre 2022 (in G.U. 30/12/2022, n. 304) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in 20 volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2023".
 
 ---------------
 
 AGGIORNAMENTO (91)
 
-Il Decreto 21 dicembre 2023 (in G.U. 29/12/2023, n. 302) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
+Il Decreto 21 dicembre 2023 (in G.U. 29/12/2023, n. 302) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettere a) e b) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data del 1° gennaio 2024".
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ---------------
 
 AGGIORNAMENTO (96)
 
-Il Decreto 27 dicembre 2024 (in G.U. 31/12/2024, n. 305) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettera a) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
+Il Decreto 27 dicembre 2024 (in G.U. 31/12/2024, n. 305) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettera a) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni aperte e alle donazioni fatte a decorrere dalla data del 1° gennaio 2025".
 
 ---------------
 
 AGGIORNAMENTO (102)
 
-Il Decreto 24 dicembre 2025 (in G.U. 31/12/2025, n. 302) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettera a) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
+Il Decreto 24 dicembre 2025 (in G.U. 31/12/2025, n. 302) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettera a) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni aperte e alle donazioni fatte a decorrere dalla data del 1° gennaio 2026".
 
 ---------------
 
 AGGIORNAMENTO (103)
 
-La Corte Costituzionale, con sentenza 23 marzo - 28 maggio 2026, n. 89 (in G.U. 1a s.s. 3/6/2026, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 46 del d.P.R. 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_46) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che, ai fini della determinazione del valore di cui al comma 2, lettera c), del medesimo articolo, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento".
+La Corte Costituzionale, con sentenza 23 marzo - 28 maggio 2026, n. 89 (in G.U. 1a s.s. 3/6/2026, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 46 del d.P.R. 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che, ai fini della determinazione del valore di cui al comma 2, lettera c), del medesimo articolo, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento".
 
 ### Art. 47. — Enfiteusi
 
@@ -1101,7 +1101,7 @@ Per il trasferimento della proprieta' gravata da diritto di usufrutto, uso o abi
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 49. — Crediti
 
@@ -1141,7 +1141,7 @@ Per gli atti che hanno per oggetto beni immobili o diritti reali immobiliari l'(
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 52. — Rettifica del valore degli immobili e delle aziende
 
@@ -1171,26 +1171,26 @@ I moltiplicatori di settantacinque e cento volte possono essere modificati, in c
 
 5-bis.
 
-Le disposizioni dei commi 4 e 5 non si applicano relativamente alle cessioni di immobili e relative pertinenze diverse da quelle disciplinate dall'[articolo 1, comma 497, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com497), e successive modificazioni.
+Le disposizioni dei commi 4 e 5 non si applicano relativamente alle cessioni di immobili e relative pertinenze diverse da quelle disciplinate dall'[articolo 1, comma 497, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), e successive modificazioni.
 
 -------------
 
 AGGIORNAMENTO (5)
 
-Il Decreto 11 novembre 1989 ha disposto (con l'art. 1, comma 1) che "I moltiplicatori di sessanta e ottanta volte, di cui all'[art. 52, quarto comma, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_52-com4), all'[art. 26, quinto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 637](Disciplina%20dellimposta%20sulle%20successioni%20e%20donazioni.md), aggiunto con l'[art. 8, primo comma, della legge 17 dicembre 1986, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-17;880#art_8-com1) e all'[art. 12, primo comma, del decreto-legge 14 maggio 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-14;70#art_12-com1), convertito, con modificazioni ed integrazioni, nella [legge 13 maggio 1988, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md), sono elevati, rispettivamente, a settantacinque e cento volte". 
+Il Decreto 11 novembre 1989 ha disposto (con l'art. 1, comma 1) che "I moltiplicatori di sessanta e ottanta volte, di cui all'[art. 52, quarto comma, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), all'[art. 26, quinto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 637](Disciplina%20dellimposta%20sulle%20successioni%20e%20donazioni.md), aggiunto con l'[art. 8, primo comma, della legge 17 dicembre 1986, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-17;880#art_8-com1) e all'[art. 12, primo comma, del decreto-legge 14 maggio 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-14;70#art_12-com1), convertito, con modificazioni ed integrazioni, nella [legge 13 maggio 1988, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md), sono elevati, rispettivamente, a settantacinque e cento volte". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le modifiche hanno effetto per gli atti pubblici formati, gli atti giudiziari pubblicati o emanati e le scritture private autenticate a decorrere dal decimo quinto giorno successivo a quello di pubblicazione del presente decreto, nonche' per le scritture private non autenticate presentate per la registrazione e le successioni aperte da tale data".
 
 --------------
 
 AGGIORNAMENTO (39)
 
-La [L. 24 dicembre 2003 n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) ha disposto (con l'art. 1 comma 63) che "a decorrere dal 1° gennaio 2004, ai soli fini delle imposte di registro, ipotecarie e catastali, i moltiplicatori previsti dal comma 5 dell'articolo 52 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), sono rivalutati nella misura del 10 per cento".
+La [L. 24 dicembre 2003 n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) ha disposto (con l'art. 1 comma 63) che "a decorrere dal 1° gennaio 2004, ai soli fini delle imposte di registro, ipotecarie e catastali, i moltiplicatori previsti dal comma 5 dell'articolo 52 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), sono rivalutati nella misura del 10 per cento".
 
 --------------
 
 AGGIORNAMENTO (40)
 
-Il [D.L. 12 luglio 2004 n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-07-12;168), convertito con modificazioni dalla [L. 30 luglio 2004 n. 191](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20luglio%202004%20n.%20168%20recante%20interventi%20urgenti%20per%20il%20contenimento%20della%20spesa%20pubblica.md) ha disposto (con l'art. 1-bis comma 7) che "per i beni immobili diversi dalla prima casa di abitazione, ai soli fini delle imposte di registro, ipotecaria e catastale, i moltiplicatori previsti dal comma 5 dell'articolo 52 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), sono rivalutati, in luogo del 10 per cento previsto dall'[articolo 2, comma 63, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_2-com63), nella misura del 20 per cento. La disposizione del periodo precedente si applica agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 12 luglio 2004 n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-07-12;168), convertito con modificazioni dalla [L. 30 luglio 2004 n. 191](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20luglio%202004%20n.%20168%20recante%20interventi%20urgenti%20per%20il%20contenimento%20della%20spesa%20pubblica.md) ha disposto (con l'art. 1-bis comma 7) che "per i beni immobili diversi dalla prima casa di abitazione, ai soli fini delle imposte di registro, ipotecaria e catastale, i moltiplicatori previsti dal comma 5 dell'articolo 52 del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), sono rivalutati, in luogo del 10 per cento previsto dall'[articolo 2, comma 63, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), nella misura del 20 per cento. La disposizione del periodo precedente si applica agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni apertesi ed alle donazioni fatte a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
 --------------
 
@@ -1202,7 +1202,7 @@ Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 52-bis. — (((Liquidazione dell'imposta derivante dai contratti di
  locazione)
@@ -1223,7 +1223,7 @@ Se l'atto non contiene l'indicazione della sua data, si assume come tale quella 
 
 1.
 
-((Fermo restando quanto previsto dall'articolo 10-bis della legge 27 luglio 2000, n. 212, le attribuzioni e i poteri)) di cui agli [articoli 31 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, possono essere esercitati anche ai fini dell'imposta di registro, nonche' delle imposte ipotecaria e catastale previste dal testo unico di cui al [decreto legislativo 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347).
+((Fermo restando quanto previsto dall'articolo 10-bis della legge 27 luglio 2000, n. 212, le attribuzioni e i poteri)) di cui agli [articoli 31 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, possono essere esercitati anche ai fini dell'imposta di registro, nonche' delle imposte ipotecaria e catastale previste dal testo unico di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ## RISCOSSIONE DELL'IMPOSTA
 
@@ -1254,7 +1254,7 @@ Quando la registrazione deve essere eseguita d'ufficio a norma dell'art. 15, l'(
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 2, comma 1, lettera u)) che "al comma 2, le parole: «o al deposito di cui al primo comma» sono sostituite dalle seguenti: «dell'imposta»". 
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 2, comma 1, lettera u)) che "al comma 2, le parole: «o al deposito di cui al primo comma» sono sostituite dalle seguenti: «dell'imposta»". 
  Ha inoltre disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 55. — Riscossione dell'imposta successivamente alla registrazione
@@ -1279,7 +1279,7 @@ Per gli interessi di mora si applicano le disposizioni delle [leggi 26 gennaio 1
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 56. — Riscossione in pendenza di giudizio, riscossione coattiva e privilegio
 
@@ -1307,7 +1307,7 @@ COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Atti%20normativi%20abrog
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 57. — Soggetti obbligati al pagamento
 
@@ -1357,7 +1357,7 @@ Negli atti di espropriazione per pubblica utilita` o di trasferimento coattivo d
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 58. — Surrogazione all'amministrazione
 
@@ -1373,7 +1373,7 @@ L'ingiunzione e' provvisoriamente esecutiva a norma dell'[art. 642 del codice di
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 59. — Registrazione a debito
 
@@ -1444,7 +1444,7 @@ Le disposizioni dei commi 1 e 2 non si applicano ai testamenti.
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 64. — Attestazione degli estremi di registrazione degli atti
 
@@ -1488,7 +1488,7 @@ Gli atti in base ai quali sono stati emessi provvedimenti giurisdizionali non so
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 66. — Divieto di rilascio di documenti relativi ad atti non registrati
 
@@ -1519,19 +1519,19 @@ Nei casi di cui al comma 2 deve essere apposta sull'originale, sulla copia o sul
 
 AGGIORNAMENTO (36)
 
-La Corte Costituzionale con sentenza del 21 novembre - 6 dicembre 2002 n. 522 (in G.U. 1ª s.s. 11/12/2002, n. 49) ha dichiarato "l'illegittimita' costituzionale dell'[articolo 66 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_66) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che la disposizione di cui al comma 1 non si applica al rilascio dell'originale o della copia della sentenza o di altro provvedimento giurisdizionale, che debba essere utilizzato per procedere all'esecuzione forzata".
+La Corte Costituzionale con sentenza del 21 novembre - 6 dicembre 2002 n. 522 (in G.U. 1ª s.s. 11/12/2002, n. 49) ha dichiarato "l'illegittimita' costituzionale dell'[articolo 66 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che la disposizione di cui al comma 1 non si applica al rilascio dell'originale o della copia della sentenza o di altro provvedimento giurisdizionale, che debba essere utilizzato per procedere all'esecuzione forzata".
 
 -------------
 
 AGGIORNAMENTO (52)
 
-La Corte Costituzionale, con sentenza del 7 - 10 giugno 2010 n. 198 (in G.U. 1ª s.s. 16/6/2010, n. 24), ha dichiarato "l'illegittimita' costituzionale dell'[art. 66, comma 2, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_66-com2) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che la disposizione di cui al comma 1 non si applichi al rilascio di copia dell'atto conclusivo (sentenza o verbale di conciliazione) della causa di opposizione allo stato passivo fallimentare, ai fini della variazione di quest'ultimo".
+La Corte Costituzionale, con sentenza del 7 - 10 giugno 2010 n. 198 (in G.U. 1ª s.s. 16/6/2010, n. 24), ha dichiarato "l'illegittimita' costituzionale dell'[art. 66, comma 2, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che la disposizione di cui al comma 1 non si applichi al rilascio di copia dell'atto conclusivo (sentenza o verbale di conciliazione) della causa di opposizione allo stato passivo fallimentare, ai fini della variazione di quest'ultimo".
 
 -------------
 
 AGGIORNAMENTO (85)
 
-La Corte Costituzionale, con sentenza 26 aprile - 7 giugno 2022, n. 140, (in G.U. 1ª s.s. 8/6/2022, n. 23), ha dichiarato "l'illegittimita' costituzionale dell'[art. 66, comma 2, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_66-com2) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che la disposizione di cui al comma 1 non si applichi al rilascio della copia della sentenza o di altro provvedimento giurisdizionale, i quali debbano essere utilizzati per proporre l'azione di ottemperanza dinanzi al giudice amministrativo".
+La Corte Costituzionale, con sentenza 26 aprile - 7 giugno 2022, n. 140, (in G.U. 1ª s.s. 8/6/2022, n. 23), ha dichiarato "l'illegittimita' costituzionale dell'[art. 66, comma 2, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che la disposizione di cui al comma 1 non si applichi al rilascio della copia della sentenza o di altro provvedimento giurisdizionale, i quali debbano essere utilizzati per proporre l'azione di ottemperanza dinanzi al giudice amministrativo".
 
 ### Art. 67. — Repertorio degli atti formati da pubblici ufficiali
 
@@ -1559,7 +1559,7 @@ Ai fini dell'annotazione di cui ai commi 1 e 2, i cancellieri desumono gli eleme
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 68. — Controllo del repertorio
 
@@ -1593,19 +1593,19 @@ Chi omette la richiesta di registrazione degli atti e dei fatti rilevanti ai fin
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 70.
 
@@ -1625,7 +1625,7 @@ Se il valore definitivamente accertato dei beni o diritti di  cui al terzo e al 
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 72. — (Occultazione di corrispettivo)
 
@@ -1637,19 +1637,19 @@ Se viene occultato anche in parte il corrispettivo convenuto, si applica la sanz
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 73. — (Omessa o irregolare tenuta o presentazione del reertorio)
 
@@ -1673,13 +1673,13 @@ Il procuratore della Repubblica, su rapporto dell'((ufficio dell'Agenzia delle e
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 74. — Altre infrazioni
 
@@ -1695,13 +1695,13 @@ Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si appl
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 75.
 
@@ -1750,7 +1750,7 @@ L'intervenuta decadenza non dispensa dal pagamento dell'imposta in caso di regis
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 77. — Decadenza dell'azione del contribuente
 
@@ -1774,7 +1774,7 @@ Per gli interessi di mora spettanti al contribuente [leggi 26 gennaio 1961, n. 2
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 78. — Prescrizione del diritto all'imposta
 
@@ -1812,7 +1812,7 @@ La disposizione del comma 4, prima parte, dell'art. 56 ha effetto dal 1 gennaio 
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 80. — Altre disposizioni
 

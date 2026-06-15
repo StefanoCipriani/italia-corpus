@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo 8 aprile 1948, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-08;274), sulla sistemazione dei Servizi stampa e spettacolo alle dipendenze della Presidenza del Consiglio dei Ministri;
+Visto il [decreto legislativo 8 aprile 1948, n. 274](../Decreti%20Legislativi/Sistemazione%20del%20servizi%20stampa%20spettacolo%20e%20del%20Commissariato%20del%20turismo%20nonche%20dei%20relativi%20ruoli%20organici.md), sulla sistemazione dei Servizi stampa e spettacolo alle dipendenze della Presidenza del Consiglio dei Ministri;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con il Mini
 
 ## Art. 1.
 
-Sino a quando non sara' emanato il regolamento per il personale dei Servizi stampa e spettacolo dipendenti dalla Presidenza del Consiglio dei Ministri, si osservano per l'ammissione alla carriera, amministrativa di gruppo A di cui alla tabella A allegata al [decreto legislativo 8 aprile 1948, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-08;274), le disposizioni dei seguenti articoli 2 e 3 del presente decreto.
+Sino a quando non sara' emanato il regolamento per il personale dei Servizi stampa e spettacolo dipendenti dalla Presidenza del Consiglio dei Ministri, si osservano per l'ammissione alla carriera, amministrativa di gruppo A di cui alla tabella A allegata al [decreto legislativo 8 aprile 1948, n. 274](../Decreti%20Legislativi/Sistemazione%20del%20servizi%20stampa%20spettacolo%20e%20del%20Commissariato%20del%20turismo%20nonche%20dei%20relativi%20ruoli%20organici.md), le disposizioni dei seguenti articoli 2 e 3 del presente decreto.
 
 ## Art. 2.
 

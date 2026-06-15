@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md), con il quale e' stato approvato il [testo unico delle leggi in materia di debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398);
+Visto il [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md), con il quale e' stato approvato il [testo unico delle leggi in materia di debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md);
 
 Vista la [legge 6 agosto 1966, n. 651](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md), recante nuove norme in materia di debito pubblico;
 
@@ -20,9 +20,9 @@ Visto l'art. 7 della tabella allegato B al [decreto del Presidente della Repubbl
 
 Visto l'[art. 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](Disciplina%20delle%20agevolazioni%20tributarie.md);
 
-Visto l'[art. 34 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_34);
+Visto l'[art. 34 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md);
 
-Ritenuta la necessita' di aggiornare il vigente [testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398) con le disposizioni legislative concernenti il debito pubblico che, successivamente all'entrata in vigore del suddetto testo unico, hanno sostituito o integrato le norme del testo unico stesso;
+Ritenuta la necessita' di aggiornare il vigente [testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) con le disposizioni legislative concernenti il debito pubblico che, successivamente all'entrata in vigore del suddetto testo unico, hanno sostituito o integrato le norme del testo unico stesso;
 
 Udito il parere del Consiglio di Stato;
 
@@ -34,13 +34,13 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'[art. 6 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_6) e' sostituito dal seguente: 
- "Art. 6 - Minimo iscrivibile (T.U. 14 febbraio 1963, n. 1343, [art. 6; legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_6), art. 34).- Nel Gran Libro non sono ammesse iscrizioni d'importo inferiore alle lire centomila di capitale nominale. 
+L'[art. 6 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente: 
+ "Art. 6 - Minimo iscrivibile (T.U. 14 febbraio 1963, n. 1343, [art. 6; legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), art. 34).- Nel Gran Libro non sono ammesse iscrizioni d'importo inferiore alle lire centomila di capitale nominale. 
  I titoli possono essere del capitale nominale di lire centomila e di multipli di tale somma, secondo le norme regolatrici dei singoli prestiti".
 
 ## Art. 2.
 
-L'[art. 14 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_14) e' sostituito dal seguente: 
+L'[art. 14 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente: 
  "Art. 14 - Richiesta di trasferimento o tramutamento (T.U. 14 febbraio 1963, n. 1343, [art. 14; legge 6 agosto 1966, n. 651](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md), art. 4).-Il trasferimento o il tramutamento al portatore di titoli nominativi ha luogo su domanda del titolare o dei suoi aventi causa, a firma autenticata. Si prescinde dall'autenticazione quando lo stesso titolare o i suoi aventi causa dichiarino di voler intervenire personalmente al ritiro dei nuovi titoli. 
  Non occorre altresi' nella domanda l'autenticazione della firma qualora la volonta' di trasferire o tramutare risulti espressa in uno dei seguenti modi: 
  a) mediante atto pubblico notarile o giudiziale o amministrativo;
@@ -52,14 +52,14 @@ L'[art. 14 del testo unico delle leggi sul debito pubblico](https://www.normatti
 
 ## Art. 3.
 
-L'[art. 28 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_28) e' sostituito dal seguente:
+L'[art. 28 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente:
  "Art. 28 - Rimborso di titoli e pagamento di premi (T.U. 14 febbraio 1963, n. 1343, [art. 28; legge 6 agosto 1966, n. 651](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md), art. 4 e 5). Il rimborso del capitale dei titoli ed il pagamento dei premi si eseguono:
  a) per i titoli al portatore, su semplice richiesta degli esibitori di essi;
  b) per i titoli nominativi, su domanda a firma autenticata del titolare o del suo avente causa e su deposito dei titoli stessi. Si prescinde dall'autenticazione della firma sulla domanda, quando il titolare o i suoi aventi causa dichiarino di voler intervenire personalmente alla riscossione del capitale o dell'importo del premio".
 
 ## Art. 4.
 
-Dopo l'[art. 30 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_30) e' aggiunto il seguente articolo 30-bis:
+Dopo l'[art. 30 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' aggiunto il seguente articolo 30-bis:
  "Art. 30-bis - Reimpiego di capitali a cura dell'Amministrazione ([legge 6 agosto 1966, n. 651, art. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md)). Le operazioni di reimpiego del capitale di titoli nominativi rimborsabili, comunque intestati e vincolati, possono essere eseguite, a cura dell'Amministrazione, in base a semplice domanda dell'esibitore, purche' il reimpiego sia chiesto in altri titoli nominativi di debito pubblico a tasso di interesse pari o superiore a quello dei titoli esibiti e recanti la stessa intestazione e gli stessi eventuali vincoli di questi ultimi.
 Quando si tratta di titoli vincolati di usufrutto e' necessaria la presentazione, da parte dell'esibitore, sia del certificato di nuda proprieta', sia di quello di usufrutto.
  Nei casi di cui al precedente comma deve essere reimpiegato l'intero capitale nominale dei titoli esibiti, mediante l'acquisto di tanti nuovi titoli quanto e' possibile con il detto capitale. Mentre, quando si tratta di titoli vincolati di ipoteca, l'importo in capitale nominale dei nuovi titoli deve essere almeno uguale a quello dei titoli esibiti.
@@ -69,14 +69,14 @@ In questi ultimi casi e' necessario che l'esibitore integri il capitale, in modo
 
 ## Art. 5.
 
-L'[art. 35 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_35) e' sostituito dal seguente:
+L'[art. 35 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente:
  "Art. 35 - Operazioni a mezzo di istituti di credito (T.U. 14 febbraio 1963, n. 1343, [art. 35; legge 6 agosto 1966, n. 651](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md), art. 6). - Le operazioni di tramutamento in titoli al portatore, di trasferimento o di rimborso, relative a titoli intestati a persone fisiche capaci e liberi da ipoteche o altri vincoli, se richieste dall'istituto di emissione o da una delle aziende di credito di cui al seguente articolo, possono aver luogo in base a semplice dichiarazione datata e sottoscritta dal titolare.
  Le agevolazioni di cui al precedente comma si applicano anche alle dette operazioni relative a titoli intestati a persone fisiche capaci e vincolati di usufrutto a favore di persone fisiche capaci, nonche' a quelle relative a titoli intestati a minori, quando dal titolo stesso o da apposita documentazione, risulti la raggiunta maggiore eta' di essi.
  Non occorre che la firma del titolare nella dichiarazione e quelle dei rappresentanti dell'istituto o della azienda nella domanda siano autenticate".
 
 ## Art. 6.
 
-L'[art. 53 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_53) e' sostituito dal seguente: 
+L'[art. 53 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente: 
  "Art. 53 - Perdita di titoli nominativi ([legge 6 agosto 1966, n. 651, art. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md)). - Nel caso di smarrimento, sottrazione o distruzione di un titolo nominativo di debito pubblico, l'intestatario o l'avente diritto puo' ottenere la sospensione del pagamento degli interessi ed il rilascio di un nuovo titolo, presentando apposita denunzia, con firma autenticata, ove occorra regolarmente documentata, nella quale, se trattasi di persona fisica, espressamente dichiari, tra l'altro, sotto la propria personale responsabilita', che il titolo smarrito, sottratto o distrutto, non conteneva a tergo dichiarazioni di trasferimento a terzi o di tramutamento al portatore con delega a terzi per il ritiro dei nuovi titoli, e che il titolo stesso non era stato comunque ceduto o trasferito a terzi. 
  Il rilascio del nuovo titolo ha luogo, in ogni caso, per rinnovazione, con nuovo numero di iscrizione. Operata la nuova iscrizione ed emesso il corrispondente titolo, quello denunziato smarrito, sottratto o distrutto e' considerato virtualmente annullato e di nessun valore nei confronti dell'Amministrazione del debito pubblico. 
  Dopo effettuata l'operazione, l'amministrazione ne fa pubblicare avviso nella Gazzetta Ufficiale e dispone l'affissione dell'avviso stesso, per sei mesi, nei locali aperti al pubblico della competente sezione di tesoreria provinciale. 
@@ -86,24 +86,24 @@ L'[art. 53 del testo unico delle leggi sul debito pubblico](https://www.normatti
 
 ## Art. 7.
 
-L'[art. 61 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_61) e' sostituito dal seguente: 
+L'[art. 61 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente: 
  "Art. 61 - Giurisdizione esclusiva del tribunale amministrativo regionale (T.U. 14 febbraio 1963, n. 1343, [art. 61; legge 6 dicembre 1971, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034#art_61), art. 7 e 28).- Per le controversie tra lo Stato e i suoi creditori riguardanti l'interpretazione dei contratti di prestito pubblico, delle leggi relative a tali prestiti e delle altre sul debito pubblico, la giurisdizione esclusiva e' esercitata dal tribunale amministrativo regionale in primo grado, e dal Consiglio di Stato in grado di appello".
 
 ## Art. 8.
 
-Dopo l'[art. 85 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_85) e' aggiunto il seguente articolo 85-bis:
+Dopo l'[art. 85 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' aggiunto il seguente articolo 85-bis:
  "Art. 85-bis - Imposte sui redditi ([D.P.R. 29 settembre 1973, n. 601, art. 31](Disciplina%20delle%20agevolazioni%20tributarie.md)). - Sono esenti dall'imposta sul reddito delle persone fisiche, dall'imposta sul reddito delle persone giuridiche e dall'imposta locale sui redditi gli interessi, i premi e gli altri frutti dei titoli di debito pubblico".
 
 ## Art. 9.
 
-L'[art. 86 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_86) e' sostituito dal seguente:
+L'[art. 86 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' sostituito dal seguente:
  "Art. 86 - Imposta di bollo ([D.P.R. 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), tabella allegato B, art. 7, modificato dall'[art. 28 del D.P.R. 30 dicembre 1982, n. 955](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20642%20e%20successive%20modificazioni%20concernente%20la%20disciplina%20dellimposta%20di%20bollo.md)). - Sono esenti in modo assoluto dall'imposta di bollo i titoli di debito pubblico e relative quietanze, le domande per operazioni comunque relative al debito pubblico e i documenti esibiti a corredo delle domande stesse".
 
 ## Art. 10.
 
-Dopo l'[art. 95 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_95) e' aggiunto il seguente art. 96:
- "Art. 96 - Titoli di importo inferiore a lire centomila nominali ([legge 6 agosto 1966, n. 651, art. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md); [legge 30 marzo 1981, n. 119, art. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_34)). - Tutti i titoli di debito pubblico nominativi, di importo inferiore a lire centomila di capitale nominale, ad eccezione di quelli soggetti a vincolo cauzionale, per i quali si applicano le disposizioni del precedente art. 30-bis, sono rimborsati all'esibitore, senza che occorra alcuna documentazione o formalita', ferme restando le disposizioni vigenti in materia di pagamento di premi.
- Sui titoli al portatore e nominativi di debito pubblico, di importo inferiore a lire centomila, emessi anteriormente al 23 aprile 1981, data di entrata in vigore della [legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119), ed appartenenti a prestiti vigenti, continua il pagamento degli interessi fino a quelli di scadenza corrispondente alla data di rimborsabilita'. I titoli al portatore e nominativi del prestito nazionale rendita 5% - 1935, di importo inferiore a lire centomila di capitale nominale, divengono rimborsabili, alla pari, dalla data di pagabilita', rispettivamente, dell'ultima cedola e dell'ultimo tagliando di ricevuta uniti ai titoli stessi.
+Dopo l'[art. 95 del testo unico delle leggi sul debito pubblico](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e' aggiunto il seguente art. 96:
+ "Art. 96 - Titoli di importo inferiore a lire centomila nominali ([legge 6 agosto 1966, n. 651, art. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20in%20materia%20di%20debito%20pubblico.md); [legge 30 marzo 1981, n. 119, art. 34](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md)). - Tutti i titoli di debito pubblico nominativi, di importo inferiore a lire centomila di capitale nominale, ad eccezione di quelli soggetti a vincolo cauzionale, per i quali si applicano le disposizioni del precedente art. 30-bis, sono rimborsati all'esibitore, senza che occorra alcuna documentazione o formalita', ferme restando le disposizioni vigenti in materia di pagamento di premi.
+ Sui titoli al portatore e nominativi di debito pubblico, di importo inferiore a lire centomila, emessi anteriormente al 23 aprile 1981, data di entrata in vigore della [legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), ed appartenenti a prestiti vigenti, continua il pagamento degli interessi fino a quelli di scadenza corrispondente alla data di rimborsabilita'. I titoli al portatore e nominativi del prestito nazionale rendita 5% - 1935, di importo inferiore a lire centomila di capitale nominale, divengono rimborsabili, alla pari, dalla data di pagabilita', rispettivamente, dell'ultima cedola e dell'ultimo tagliando di ricevuta uniti ai titoli stessi.
  In occasione di qualsiasi operazione che comporti l'annullamento di iscrizioni relative a titoli nominativi di ammontare nominale superiore a lire centomila e non annotate di vincolo cauzionale, si provvede al rimborso alla pari delle frazioni di capitale inferiori a tale cifra. Analogamente si provvede, con le modalita' da precisare negli apposti decreti del Ministro del tesoro, in sede di rinnovo di buoni del tesoro scaduti, in altri di nuova emissione, nonche' per la rinnovazione dei certificati nominativi del prestito nazionale rendita 5% - 1935, da effettuare per esaurimento dei fogli dei tagliandi di ricevuta.
  Sui titoli nominativi d'importo inferiore a lire centomila di capitale nominale e' ammessa l'operazione di riunione con la osservanza delle disposizioni, in quanto applicabili, dell'[art. 8 della legge 18 marzo 1958, n. 241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Minimo%20iscrivibile%20nel%20Gran%20Libro%20del%20debito%20pubblico%20e%20arrotondamento%20dei%20pagamenti%20degli%20interessi%20su%20titoli%20e%20facilitazioni%20nelle%20operazioni%20di%20rinnovazione%20dei%20titoli%20nominativi.md), e del terzo comma del presente articolo".
 

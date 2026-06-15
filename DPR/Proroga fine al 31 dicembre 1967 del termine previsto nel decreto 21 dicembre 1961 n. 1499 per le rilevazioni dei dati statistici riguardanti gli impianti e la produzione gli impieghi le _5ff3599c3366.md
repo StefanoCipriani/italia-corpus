@@ -33,7 +33,7 @@ Le rilevazioni di cui al precedente articolo possono essere eseguite fino al 31 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 15 dicembre 1967, n. 1248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-12-15;1248) ha disposto (con l'art. 1) che "E' prorogato al 31 dicembre 1970 il termine entro il quale l'Istituto centrale di statistica e' autorizzato ad eseguire le rilevazioni di cui al [decreto del Presidente della Repubblica 13 gennaio 1965, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-01-13;18)."
+Il [D.P.R. 15 dicembre 1967, n. 1248](Proroga%20del%20termine%20previsto%20nel%20decreto%20del%20Presidente%20della%20Repubblica%2013%20gennaio%201965%20n.%2018%20che%20autorizza%20listituto%20centrale%20di%20statistica%20ad%20eseguire%20talune%20rilevazioni%20statistiche.md) ha disposto (con l'art. 1) che "E' prorogato al 31 dicembre 1970 il termine entro il quale l'Istituto centrale di statistica e' autorizzato ad eseguire le rilevazioni di cui al [decreto del Presidente della Repubblica 13 gennaio 1965, n. 18](Proroga%20fine%20al%2031%20dicembre%201967%20del%20termine%20previsto%20nel%20decreto%2021%20dicembre%201961%20n.%201499%20per%20le%20rilevazioni%20dei%20dati%20statistici%20riguardanti%20gli%20impianti%20e%20la%20produzione%20gli%20impieghi%20le%20_5ff3599c3366.md)."
 
 ## Art. 3.
 

@@ -97,7 +97,7 @@ In ciascun periodo di 24 ore, l'orario di lavoro sara' distribuito in modo da la
 
 AGGIORNAMENTO (1)
 
-La [L. 2 marzo 1974, n.77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-03-02;77), ha disposto (con l'art.6, comma 1) che "Le disposizioni di cui all'articolo 4, punto 4, del [decreto del Presidente della Repubblica 9 novembre 1971, n. 1372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-09;1372), modificato dai commi primo, secondo e terzo dell'articolo 2 della presente legge, hanno efficacia dal 1 giugno 1972".
+La [L. 2 marzo 1974, n.77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-03-02;77), ha disposto (con l'art.6, comma 1) che "Le disposizioni di cui all'articolo 4, punto 4, del [decreto del Presidente della Repubblica 9 novembre 1971, n. 1372](Norme%20per%20lattuazione%20della%20legge%2013%20agosto%201969%20n.%20591%20concernente%20la%20riduzione%20dellorario%20di%20lavoro%20del%20personale%20dellAzienda%20autonoma%20delle%20ferrovie%20dello%20Stato.md), modificato dai commi primo, secondo e terzo dell'articolo 2 della presente legge, hanno efficacia dal 1 giugno 1972".
 
 ### Art. 5. — Servizio notturno
 

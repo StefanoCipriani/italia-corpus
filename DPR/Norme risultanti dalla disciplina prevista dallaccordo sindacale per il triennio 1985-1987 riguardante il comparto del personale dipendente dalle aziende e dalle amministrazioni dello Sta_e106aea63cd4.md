@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determina
 
 Visto il [decreto del Presidente della Repubblica 1 febbraio 1986, n. 13](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201985-87.md), contenente norme risultanti dalla disciplina prevista dall'accordo intercompartimentale, di cui all'art. 12 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, relativo al triennio 1985-1987;
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), concernente disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1987);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 aprile 1987, con la quale, respinte o ritenute inammissibili le osservazioni formulate dalle organizzazioni sindacali dissenzienti o che abbiano dichiarato di non partecipare alla trattativa, e' stata autorizzata, previa verifica delle compatibilita' finanziarie, la sottoscrizione dell'ipotesi di accordo per il triennio 1985-1987 riguardante il comparto del personale dipendente dalle aziende e dalle amministrazioni dello Stato ad ordinamento autonomo di cui all'[art. 5 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](Determinazione%20e%20composizione%20dei%20comparti%20di%20contrattazione%20collettiva%20di%20cui%20allart.%205%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093.md), raggiunta in data 8 aprile 1987 tra la delegazione di parte pubblica composta come previsto dal citato art. 5 e le confederazioni sindacali CGIL, CISL, UIL, CIDA, CISNAL, CISAL, CONFSAL, CONFEDIR, CISAS e USPPI e le organizzazioni sindacali di categoria ad esse aderenti; accordo cui hanno aderito successivamente le seguenti organizzazioni sindacali non partecipanti alle trattative: la CILDI e la CONSAL in data 14 aprile 1987 e la CASIL in data 16 aprile 1987;
 
@@ -767,14 +767,14 @@ Le forme di attuazione di detta garanzia sono stabilite in sede di accordo decen
 
 1.
 
-Fermo restando quanto disposto dall'[art. 49, secondo comma della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_49-com2), e le situazioni piu' favorevoli esistenti, in ciascuna unita' amministrativa con almeno cento dipendenti e' consentito, alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile, all'interno della struttura.
+Fermo restando quanto disposto dall'[art. 49, secondo comma della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e le situazioni piu' favorevoli esistenti, in ciascuna unita' amministrativa con almeno cento dipendenti e' consentito, alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile, all'interno della struttura.
 
 2.
 
 Nelle unita' amministrative con un numero inferiore di dipendenti le organizzazioni sindacali maggiormente rappresentative hanno diritto ad usufruire, ove ne facciano richiesta, di un locale idoneo per le loro riunioni nell'ambito della struttura.
 
 Nota all'art. 30:
- Il testo dell'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_49-com2), e' il seguente:
+ Il testo dell'[art. 49, secondo comma, della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e' il seguente:
  "A ciascuna delle organizzazioni sindacali a carattere nazionale maggiormente rappresentative e', altresi', concesso nella sede centrale dei singoli Ministeri e delle aziende autonome, l'uso gratuito di un locale da adibire ad ufficio sindacale, tenuto conto delle disponibilita' obiettive e secondo le modalita' che saranno determinate dalle amministrazioni interessate, sentite le organizzazioni sindacali".
 
 ### Art. 31. — Attivita' culturali ricreative ed assistenziali
@@ -851,7 +851,7 @@ I corsi di cui sopra sono espletati durante il normale orario di servizio e conc
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n. 335 ( con l'art. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_27)) ha disposto che "Per l'Amministrazione delle poste e delle telecomunicazioni, per l'Azienda di Stato per i servizi telefonici e per l'Azienda autonoma dei monopoli di Stato, il comma 5 dell'articolo 37 e' sostituito dal seguente: I corsi sono espletati di norma durante l'orario di servizio ordinario, ad eccezione di quelli per i quali la partecipazione comprometta l'effettiva erogazione del servizio al pubblico"
+Il [D.P.R. 4 agosto 1990, n. 335 ( con l'art. 27](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "Per l'Amministrazione delle poste e delle telecomunicazioni, per l'Azienda di Stato per i servizi telefonici e per l'Azienda autonoma dei monopoli di Stato, il comma 5 dell'articolo 37 e' sostituito dal seguente: I corsi sono espletati di norma durante l'orario di servizio ordinario, ad eccezione di quelli per i quali la partecipazione comprometta l'effettiva erogazione del servizio al pubblico"
 
 ## TRATTAMENTO ECONOMICO
 
@@ -1412,7 +1412,7 @@ Al termine della realizzazione del primo ciclo di progetti la parte pubblica d'i
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n. 335 ( con l'art. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_23)) ha disposto che " A decorrere dal 1 ottobre 1990 il fondo di incentivazione di cui all'[art. 59 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_59), e' incrementato di una quota pari allo 0,65 del monte retributivo relativo all'anno precedente".
+Il [D.P.R. 4 agosto 1990, n. 335 ( con l'art. 23](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che " A decorrere dal 1 ottobre 1990 il fondo di incentivazione di cui all'[art. 59 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' incrementato di una quota pari allo 0,65 del monte retributivo relativo all'anno precedente".
 
 ### Art. 60. — Verifica
 
@@ -1586,7 +1586,7 @@ Per le funzioni non espressamente richiamate nel presente articolo, l'equiparazi
 
 5.
 
-Le maggiorazioni del premio industriale competono anche per le giornate di permesso sindacale, di cui all'[art. 47 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_47), entro il numero massimo di quattro mensili.
+Le maggiorazioni del premio industriale competono anche per le giornate di permesso sindacale, di cui all'[art. 47 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), entro il numero massimo di quattro mensili.
 
 ### Art. 67. — Indennita' per i servizi viaggianti
 
@@ -1825,7 +1825,7 @@ Dalla stessa data al personale, che in forza di legge o di provvedimento formale
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n. 335 (con l'art. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_52)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[art. 86 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_86), e' rideterminata in L. 29.000."
+Il [D.P.R. 4 agosto 1990, n. 335 (con l'art. 52](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[art. 86 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in L. 29.000."
 
 ### Art. 87. — Servizi meccanografici
 
@@ -1841,7 +1841,7 @@ L'indennita' vigente corrisposta alla medesima data, in applicazione della [legg
 
 AGGIORNAMENTO (3)
 
-il [D.P.R. 4 agosto 1990, n. 335 (con l'art. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_51)) ha disposto che "Con decorrenza 1 ottobre 1990, l'indennita' di cui all'[art. 87 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_87), e' rideterminata in L. 1.800 giornaliere"
+il [D.P.R. 4 agosto 1990, n. 335 (con l'art. 51](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "Con decorrenza 1 ottobre 1990, l'indennita' di cui all'[art. 87 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in L. 1.800 giornaliere"
 
 ### Art. 88. — Indennita' di servizio notturno e festivo
 
@@ -1857,7 +1857,7 @@ Le predette indennita' competono in ragione delle ore di servizio effettivamente
 
 AGGIORNAMENTO(3)
 
-Il [D.P.R. 4 agosto 1990 n. 335 (con l'art. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_48)) ha disposto che "A decorrere del 1 ottobre 1990, l'indennita' oraria di cui all'[art. 88 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_88), e' rideterminata in L. 1.800 ".
+Il [D.P.R. 4 agosto 1990 n. 335 (con l'art. 48](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "A decorrere del 1 ottobre 1990, l'indennita' oraria di cui all'[art. 88 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in L. 1.800 ".
 
 ### Art. 89. — (( Profili professionali
 
@@ -1928,7 +1928,7 @@ Gli aumenti rispetto alle misure vigenti decorrono dal 1 febbraio 1987.((3))
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_56)) ha disposto che " A decorrere dal 1 ottobre 1990, entreranno in vigore le modofiche 
+Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 56](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che " A decorrere dal 1 ottobre 1990, entreranno in vigore le modofiche 
 apportate alla tabella."
 
 ### Art. 93. — Estensione dell'indennita' di rischio
@@ -1961,7 +1961,7 @@ Per ogni mese il numero dei turni non puo' essere superiore a 10.((3))
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 (con l'art. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_59)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'[art. 94 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_94), e' rideterminata in L. 2.800 e L. 3.600, rispettivamente per turni pomeridiani, notturni e festivi."
+Il [D.P.R. 4 agosto 1990, n.335 (con l'art. 59](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'[art. 94 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in L. 2.800 e L. 3.600, rispettivamente per turni pomeridiani, notturni e festivi."
 
 ### Art. 95. — Indennita' di servizio notturno e festivo
 
@@ -1977,7 +1977,7 @@ Le predette indennita' competono in ragione delle ore di servizio effettivamente
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 (con l'art. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_60)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[art. 95 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_95), e' rideterminata in L. 1.800."
+Il [D.P.R. 4 agosto 1990, n.335 (con l'art. 60](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[art. 95 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in L. 1.800."
 
 ### Art. 96. — Maneggio valori
 
@@ -1989,7 +1989,7 @@ Dal 31 dicembre 1987 al personale che, in forza di legge o di provvedimento form
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_61) ) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[art. 96 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_96), e' rideterminata in L. 29.000."
+Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 61](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) ) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[art. 96 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in L. 29.000."
 
 ## PERSONALE DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
 
@@ -2027,7 +2027,7 @@ Ferma restando annualmente la spesa complessiva nel limite dello stanziamento di
 
 AGGIORNAMENTO (6)
 
-La [L. 10 agosto 2000, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-08-10;246) ha disposto (con l'art. 11, comma 1) che "Per fronteggiare esigenze di servizio imprevedibili ed indilazionabili, l'attribuzione annua di ore di lavoro straordinario prevista dall'[articolo 98, comma 2, del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_98-com2), e' elevata a 160.000 ore per il 2000 ed a 240.000 ore a decorrere dal 2001."
+La [L. 10 agosto 2000, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-08-10;246) ha disposto (con l'art. 11, comma 1) che "Per fronteggiare esigenze di servizio imprevedibili ed indilazionabili, l'attribuzione annua di ore di lavoro straordinario prevista dall'[articolo 98, comma 2, del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' elevata a 160.000 ore per il 2000 ed a 240.000 ore a decorrere dal 2001."
 
 ------------
 
@@ -2098,16 +2098,16 @@ Tale miglioramento rimane subordinato al raggiungimento ed all'attuazione degli 
 
 AGGIORNAMENTO (2)
 
-La [legge 5 Dicembre 1988, n. 521 (con l'art. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521#art_26)) ha disposto che "I [commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_100-com6) e [7 dell'articolo 100 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_100-com7), vanno interpretati nel senso che gli aumenti previsti dallo stesso comma 6 devono essere corrisposti a decorrere dal 1 luglio 1987, fermo restando l'eventuale recupero delle somme gia' corrisposte, qualora non si verifichino le 
+La [legge 5 Dicembre 1988, n. 521 (con l'art. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521#art_26)) ha disposto che "I [commi 6](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md) e [7 dell'articolo 100 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), vanno interpretati nel senso che gli aumenti previsti dallo stesso comma 6 devono essere corrisposti a decorrere dal 1 luglio 1987, fermo restando l'eventuale recupero delle somme gia' corrisposte, qualora non si verifichino le 
 circostanze cui l'attribuzione e' condizionata dal comma 7."
 
 -------------
 
 AGGIORNAMENTO (3)
 
-il [D.P.R. 4 agosto 1990,n.335 ( con l'art. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_64)) ha disposto che " a decorrere dal 1 ottobre 1990, l'indennita' di cui all'art. 100 vinene 
+il [D.P.R. 4 agosto 1990,n.335 ( con l'art. 64](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che " a decorrere dal 1 ottobre 1990, l'indennita' di cui all'art. 100 vinene 
 rideterminata" 
-Il [D.P.R. 4 agosto 1990,n.335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335) (con lart. 64 ) ha disposto che "a decorrere dal 1 ottobre 1990, per il personale del supporto tecnico e amministrativo-contabile del Corpo le indennita' non pensionabili di cui al [comma 4 dell'articolo 100 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_100-com4), sono rideterminate nelle seguenti misure: 
+Il [D.P.R. 4 agosto 1990,n.335](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) (con lart. 64 ) ha disposto che "a decorrere dal 1 ottobre 1990, per il personale del supporto tecnico e amministrativo-contabile del Corpo le indennita' non pensionabili di cui al [comma 4 dell'articolo 100 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), sono rideterminate nelle seguenti misure: 
  
 Livello 1 ................................................ L. 90.000 Livello 2 ................................................ L. 110.000 Livello 3 ................................................ L. 130.000 Livello 4 ................................................ L. 180.000 Livello 5 ................................................ L. 210.000 Livello 6 ................................................ L. 250.000 Livello 7 ................................................ L. 310.000 Livello 8 ................................................ L. 330.000 Livello 9 ................................................ L. 360.000 Tale indennita' non compete al personale del supporto tecnico-amministrativo che transita nel ruolo operativo del Corpo."
 
@@ -2125,7 +2125,7 @@ Al personale in turno di servizio a Capodanno, Pasqua, 1 maggio, Ferragosto e Na
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990,n.335 ( con l'art. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_66))ha disposto che "1. Per il personale del Corpo dei vigili del fuoco, a decorrere dal 1 ottobre 1990 l'indennita' di cui all'[art. 101 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_101), e' determinata in L. 1.800.
+Il [D.P.R. 4 agosto 1990,n.335 ( con l'art. 66](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md))ha disposto che "1. Per il personale del Corpo dei vigili del fuoco, a decorrere dal 1 ottobre 1990 l'indennita' di cui all'[art. 101 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' determinata in L. 1.800.
 2. Per il personale in turno di servizio a Capodanno, Pasqua, 1 maggio, Ferragosto e Natale l'indennita' di cui al comma 1 e' di L. 3.600."
 
 ### Art. 102. — Utilizzo del fondo di incentivazione
@@ -2159,19 +2159,19 @@ Dette indennita' sono cumulabili con l'indennita' mensile pensionabile di cui al
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_67) )ha disposto che "A decorrere dal 1 ottobre 1990, le indennita' di cui al [comma 1 dell'art. 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_104-com1), sono determinate rispettivamente in L. 2.640.000 e L. 2.280.000 annue lorde; ha disposto inoltre che Con decorrenza 1 ottobre 1990, per gli operatori subacquei di cui al [comma 2 dell'art. 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_104-com2), l'indennita' ivi prevista e' determinata in L. 2.040.000."
+Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 67](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) )ha disposto che "A decorrere dal 1 ottobre 1990, le indennita' di cui al [comma 1 dell'art. 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), sono determinate rispettivamente in L. 2.640.000 e L. 2.280.000 annue lorde; ha disposto inoltre che Con decorrenza 1 ottobre 1990, per gli operatori subacquei di cui al [comma 2 dell'art. 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), l'indennita' ivi prevista e' determinata in L. 2.040.000."
 
 -----------
 
 AGGIORNAMENTO (11)
 
-Il D.P. R. 1° dicembre 2023, n. 228 ha disposto (con l'art. 2, comma 3) che "A decorrere dal 1° gennaio 2023 sono disapplicate, limitatamente al personale non direttivo e non dirigente del Corpo Nazionale dei Vigili del Fuoco, le previsioni contrattuali e negoziali che istituiscono e regolano analoghi compensi per il suddetto personale e, in particolare, l'[articolo 3 del decreto del Presidente della Repubblica 5 maggio 1975, n. 146](Regolamento%20di%20attuazione%20dellart.%204%20della%20legge%2015%20novembre%201973%20n.%20734%20concernente%20la%20corresponsione%20di%20indennita%20di%20rischio%20al%20personale%20civile%20di%20ruolo%20e%20non%20di%20ruolo%20ed%20agli%20operai%20dello%20Stato.md), l'[articolo 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_104), l'articolo 59, commi 1, 2 e 3, del contratto collettivo nazionale di lavoro comparto aziende del 5 aprile 1996, l'articolo 45, comma 5, del contratto collettivo nazionale di lavoro comparto aziende e amministrazioni autonome dello Stato del 24 maggio 2000, l'articolo 23 del contratto collettivo nazionale di lavoro relativo al personale del comparto delle amministrazioni autonome dello Stato ad ordinamento autonomo del 26 maggio 2004".
+Il D.P. R. 1° dicembre 2023, n. 228 ha disposto (con l'art. 2, comma 3) che "A decorrere dal 1° gennaio 2023 sono disapplicate, limitatamente al personale non direttivo e non dirigente del Corpo Nazionale dei Vigili del Fuoco, le previsioni contrattuali e negoziali che istituiscono e regolano analoghi compensi per il suddetto personale e, in particolare, l'[articolo 3 del decreto del Presidente della Repubblica 5 maggio 1975, n. 146](Regolamento%20di%20attuazione%20dellart.%204%20della%20legge%2015%20novembre%201973%20n.%20734%20concernente%20la%20corresponsione%20di%20indennita%20di%20rischio%20al%20personale%20civile%20di%20ruolo%20e%20non%20di%20ruolo%20ed%20agli%20operai%20dello%20Stato.md), l'[articolo 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), l'articolo 59, commi 1, 2 e 3, del contratto collettivo nazionale di lavoro comparto aziende del 5 aprile 1996, l'articolo 45, comma 5, del contratto collettivo nazionale di lavoro comparto aziende e amministrazioni autonome dello Stato del 24 maggio 2000, l'articolo 23 del contratto collettivo nazionale di lavoro relativo al personale del comparto delle amministrazioni autonome dello Stato ad ordinamento autonomo del 26 maggio 2004".
 
 -----------
 
 AGGIORNAMENTO (12)
 
-Il [D.P.R. 23 giugno 2025, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2025-06-23;124) ha disposto (con l'art. 26, comma 3) che "A decorrere dal 1° gennaio 2025 sono disapplicate, limitatamente al personale direttivo del Corpo nazionale dei vigili del fuoco, le previsioni contrattuali e negoziali che istituiscono e regolano analoghi compensi per il suddetto personale e, in particolare, l'[articolo 3 del decreto del Presidente della Repubblica 5 maggio 1975, n. 146](Regolamento%20di%20attuazione%20dellart.%204%20della%20legge%2015%20novembre%201973%20n.%20734%20concernente%20la%20corresponsione%20di%20indennita%20di%20rischio%20al%20personale%20civile%20di%20ruolo%20e%20non%20di%20ruolo%20ed%20agli%20operai%20dello%20Stato.md), l'[articolo 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_104), l'articolo 59, commi 1, 2 e 3, del contratto collettivo nazionale di lavoro comparto aziende del 5 aprile 1996, l'articolo 45, comma 5, del contratto collettivo nazionale di lavoro comparto aziende e amministrazioni autonome dello Stato del 24 maggio 2000, l'articolo 23 del contratto collettivo nazionale di lavoro relativo al personale del comparto delle amministrazioni autonome dello Stato ad ordinamento autonomo del 26 maggio 2004".
+Il [D.P.R. 23 giugno 2025, n. 124](Recepimento%20dellaccordo%20sindacale%20per%20il%20personale%20direttivo%20e%20dirigente%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20triennio%202022-2024.%2025G00132.md) ha disposto (con l'art. 26, comma 3) che "A decorrere dal 1° gennaio 2025 sono disapplicate, limitatamente al personale direttivo del Corpo nazionale dei vigili del fuoco, le previsioni contrattuali e negoziali che istituiscono e regolano analoghi compensi per il suddetto personale e, in particolare, l'[articolo 3 del decreto del Presidente della Repubblica 5 maggio 1975, n. 146](Regolamento%20di%20attuazione%20dellart.%204%20della%20legge%2015%20novembre%201973%20n.%20734%20concernente%20la%20corresponsione%20di%20indennita%20di%20rischio%20al%20personale%20civile%20di%20ruolo%20e%20non%20di%20ruolo%20ed%20agli%20operai%20dello%20Stato.md), l'[articolo 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), l'articolo 59, commi 1, 2 e 3, del contratto collettivo nazionale di lavoro comparto aziende del 5 aprile 1996, l'articolo 45, comma 5, del contratto collettivo nazionale di lavoro comparto aziende e amministrazioni autonome dello Stato del 24 maggio 2000, l'articolo 23 del contratto collettivo nazionale di lavoro relativo al personale del comparto delle amministrazioni autonome dello Stato ad ordinamento autonomo del 26 maggio 2004".
 
 ## PERSONALE DELLA CASSA DEPOSITI E PRESTITI
 
@@ -2278,7 +2278,7 @@ Ai fini dell'attribuzione dei benefici derivanti dal nuovo tabellare, si applica
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n. 335 ( con l'art. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_80)) ha disposto che "A decorrere dalla data di entrata in vigore del presente regolamento, l'assegno personale mensile non riassorbibile di cui all'[articolo 106, comma 1, lettera l), del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_106-com1-letl), e' soppresso e dello stesso importo e' 
+Il [D.P.R. 4 agosto 1990, n. 335 ( con l'art. 80](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "A decorrere dalla data di entrata in vigore del presente regolamento, l'assegno personale mensile non riassorbibile di cui all'[articolo 106, comma 1, lettera l), del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' soppresso e dello stesso importo e' 
 aumentata la retribuzione individuale di anzianita"
 
 ### Art. 107. — Premio di produzione
@@ -2326,7 +2326,7 @@ Per ogni mese il numero dei turni non puo' essere superiore a 10.
 
 AGGIORNAMENTO (3)
 
-Il [decreto del presidente della repubblica 4 agosto 1990, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335) Ha disposto che A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'[articolo 108 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_108), viene rideterminata in /./L. 3.000 e L. 3.600, rispettivamente per turni pomeridiani, notturni e festivi.
+Il [decreto del presidente della repubblica 4 agosto 1990, n. 335](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) Ha disposto che A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'[articolo 108 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), viene rideterminata in /./L. 3.000 e L. 3.600, rispettivamente per turni pomeridiani, notturni e festivi.
 
 ### Art. 109. — Indennita' di servizio notturno e festivo
 
@@ -2342,7 +2342,7 @@ Le predette indennita' competono in ragione delle ore di servizio effettivamente
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n. 335 (con l'art. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_77) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 109 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_109), e' rideterminata in lire 1.800."
+Il [D.P.R. 4 agosto 1990, n. 335 (con l'art. 77](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 109 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in lire 1.800."
 
 ### Art. 110. — Servizi meccanografici
 
@@ -2354,7 +2354,7 @@ Con decorrenza dal 31 dicembre 1987, al personale formalmente assegnato ai centr
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990 n. 335 (con l'art. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_76) ) ha disposto che " A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 110 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_110), e' rideterminata in lire 1.500"
+Il [D.P.R. 4 agosto 1990 n. 335 (con l'art. 76](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) ) ha disposto che " A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 110 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in lire 1.500"
 
 ### Art. 111. — Maneggio valori
 
@@ -2366,7 +2366,7 @@ Dal 31 dicembre 1987 al personale, che in forza di legge o di provvedimento form
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990 n.335 (con l'art. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_75)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 111 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_111), e' rideterminata inlire 29.000 "
+Il [D.P.R. 4 agosto 1990 n.335 (con l'art. 75](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 111 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata inlire 29.000 "
 
 ## PERSONALE DELL'AZIENDA DI STATO PER GLI INTERVENTI NEL MERCATO AGRICOLO
 
@@ -2432,7 +2432,7 @@ Il premio di incentivazione di cui sopra non e' cumulabile con compensi od inden
 
 AGGIORNAMENTO (3)
 
-Il [decreto del presidente della repubblica 4 agosto 1990, n.335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335) ha disposto che A decorrere dal 1 ottobre 1990, il premio di incentivazione di cui all'[articolo 113 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_113), e' rideterminato.
+Il [decreto del presidente della repubblica 4 agosto 1990, n.335](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) ha disposto che A decorrere dal 1 ottobre 1990, il premio di incentivazione di cui all'[articolo 113 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminato.
 
 ### Art. 114. — Turno
 
@@ -2448,7 +2448,7 @@ Per ogni mese il numero dei turni non puo' essere superiore a 10.((3))
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_83)) ha disposto che " A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'[articolo 114 del decreto del Presidente della Repubblica 18 maggio 1989, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-05-18;269#art_114), viene rideterminata in lire 3.000 e lire 3.600, rispettivamente per turni pomeridiani, notturni e festivi"
+Il [D.P.R. 4 agosto 1990, n.335 ( con l'art. 83](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md)) ha disposto che " A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'[articolo 114 del decreto del Presidente della Repubblica 18 maggio 1989, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-05-18;269#art_114), viene rideterminata in lire 3.000 e lire 3.600, rispettivamente per turni pomeridiani, notturni e festivi"
 
 ### Art. 115. — Indennita' di servizio notturno e festivo
 
@@ -2464,7 +2464,7 @@ Le predette indennita' competono in ragione delle ore di servizio effettivamente
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990 n. 335 ( con l'art. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_84) )ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 115 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_115), e' rideterminata in lire 1.800."
+Il [D.P.R. 4 agosto 1990 n. 335 ( con l'art. 84](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) )ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 115 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in lire 1.800."
 
 ### Art. 116. — Servizi meccanografici
 
@@ -2476,7 +2476,7 @@ Con decorrenza dal 31 dicembre 1987, al personale formalmente assegnato ai centr
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335) ( con lart. 85 ) ha disposto che "a decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 116 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_116), viene rideterminata inlire 1.500. "
+Il [D.P.R. 4 agosto 1990, n.335](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) ( con lart. 85 ) ha disposto che "a decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 116 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), viene rideterminata inlire 1.500. "
 
 ### Art. 117. — Maneggio valori
 
@@ -2488,7 +2488,7 @@ Dal 31 dicembre 1987 al personale, che in forza di legge o di provvedimento form
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 4 agosto 1990, n.335 ( con l'art.86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-04;335#art_86) ) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 117 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269#art_117), e' rideterminata in Lire 29.000."
+Il [D.P.R. 4 agosto 1990, n.335 ( con l'art.86](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md) ) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'[articolo 117 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20riguardante%20il%20comparto%20del%20personale%20dipendente%20dalle%20aziende%20e%20dalle%20amministrazioni%20dello%20Sta_e106aea63cd4.md), e' rideterminata in Lire 29.000."
 
 ### Art. 118. — Competenze accessorie
  per la nona qualifica funzionale

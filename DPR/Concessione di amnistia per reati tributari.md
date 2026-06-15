@@ -34,7 +34,7 @@ E' concessa amnistia per i reati previsti nell'[articolo 50 del decreto del Pres
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 22 febbraio 1983, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-02-22;43), ha disposto (con l'art. 2, comma 3) che "E' altresi' concessa amnistia, alle condizioni sopra previste, per i reati indicati nel [quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-09;525#art_1-com5), quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo, ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria".
+Il [D.P.R. 22 febbraio 1983, n. 43](Concessione%20di%20amnistia%20per%20reati%20tributari_2.md), ha disposto (con l'art. 2, comma 3) che "E' altresi' concessa amnistia, alle condizioni sopra previste, per i reati indicati nel [quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](Concessione%20di%20amnistia%20per%20reati%20tributari.md), quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo, ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria".
 
 ## Art. 2.
 

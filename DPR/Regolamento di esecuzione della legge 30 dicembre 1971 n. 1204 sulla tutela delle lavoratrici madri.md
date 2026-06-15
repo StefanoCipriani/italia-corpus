@@ -97,7 +97,7 @@ Ai fini dell'applicazione dell'art. 20 della legge, l'interruzione spontanea, o 
 
 ## Art. 13.
 
-Le lavoratrici agricole, per fruire dei benefici di cui all'art. 15 della legge, devono dimostrare tale qualifica comprovandola con l'iscrizione negli elenchi nominativi o con il certificato di cui all'[art. 4, quarto comma, del decreto legislativo luogotenenziale 9 aprile 1946, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;212#art_4-com4), a prescindere, rispettivamente, dalla data di pubblicazione degli elenchi e del rilascio del certificato.
+Le lavoratrici agricole, per fruire dei benefici di cui all'art. 15 della legge, devono dimostrare tale qualifica comprovandola con l'iscrizione negli elenchi nominativi o con il certificato di cui all'[art. 4, quarto comma, del decreto legislativo luogotenenziale 9 aprile 1946, n. 212](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20delle%20vigenti%20disposizioni%20sulla%20assicurazione%20di%20malattia%20per%20i%20lavoratori%20in%20agricoltura.md), a prescindere, rispettivamente, dalla data di pubblicazione degli elenchi e del rilascio del certificato.
 
 ## Art. 14.
 
@@ -159,8 +159,8 @@ In caso di permanenza, o di indebita assunzione al lavoro, della lavoratrice ges
 
 AGGIORNAMENTO (2)
 
-L'errata-corrige (in G.U. 08/10/2001, n. 234), modificando il [D.Lgs. 26 marzo 2001, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;96), ha disposto che all'"art. 86, comma 3, lettera a), dove e' scritto: "a) gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;1026#art_1), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;1026#art_11) e [22 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;1026#art_22).", deve leggersi: "a) gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;1026#art_1), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;1026#art_11) e [21 del decreto del Presidente 
-della Repubblica 25 novembre 1976, n. 1026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;1026#art_21)." 
+L'errata-corrige (in G.U. 08/10/2001, n. 234), modificando il [D.Lgs. 26 marzo 2001, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;96), ha disposto che all'"art. 86, comma 3, lettera a), dove e' scritto: "a) gli [articoli 1](Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), [11](Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md) e [22 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md).", deve leggersi: "a) gli [articoli 1](Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), [11](Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md) e [21 del decreto del Presidente 
+della Repubblica 25 novembre 1976, n. 1026](Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md)." 
  Viene di conseguenza ripristinato il presente articolo, precedentemente abrogato.
 
 ## Art. 23.

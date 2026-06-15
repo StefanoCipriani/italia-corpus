@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che approva lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che approva lo statuto speciale della regione autonoma della Sardegna;
 
 Sentito il parere della commissione paritetica prevista dall'[art. 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.regione.:legge.costituzionale:1948-02-26;3#art_56-com1) della regione autonoma della Sardegna;
 
@@ -54,7 +54,7 @@ Ai sensi dell'art. 6 dello statuto speciale della Sardegna, viene delegato alla 
  b) ai contributi, alla progettazione ed alla gestione dei lavori relativi all'attuazione dei piani di ricostruzione di cui al [decreto legislativo 27 ottobre 1951, n. 1402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1951-10-27;1402), e successive modificazioni, ed alla ricostruzione e riparazione dei beni distrutti o danneggiati in dipendenza degli eventi bellici ai sensi del [decreto legislativo del Capo provvisorio dello Stato 10 aprile 1947, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-10;261), e successive modifiche, della [legge 25 giugno 1949, n. 409](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20agevolare%20la%20ricostruzione%20delle%20abitazioni%20distrutte%20dagli%20eventi%20bellici%20e%20per%20lattuazione%20dei%20piani%20di%20ricostruzione.md), e successiva modifica, della [legge 31 luglio 1954, n. 607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;607), e delle altre disposizioni legislative in materia; 
  c) all'esercizio delle competenze del Ministero dei lavori pubblici in ordine ai cantieri scuola a termini della [legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264), e successive modificazioni; 
  d) ai mutui relativi ad opere pubbliche, contratti o da contrarre con la Cassa depositi e prestiti e con gli istituti di previdenza amministrati dal Ministero del tesoro. 
- La delega di cui ai precedenti commi sostituisce quella prevista dalla [legge 5 settembre 1951, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-09-05;1037).
+ La delega di cui ai precedenti commi sostituisce quella prevista dalla [legge 5 settembre 1951, n. 1037](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Autorizzazione%20ai%20Ministri%20per%20lagricoltura%20e%20per%20le%20foreste%20e%20per%20i%20lavori%20pubblici%20a%20delegare%20alla%20Regione%20sarda%20talune%20funzioni%20in%20materia%20di%20opere%20pubbliche%20e%20di%20opere%20di%20bonifica%20e%20d_d217981bda8f.md).
 
 ### Art. 4.
 
@@ -92,7 +92,7 @@ L'[art. 20 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](N
 
 ### Art. 8.
 
-Ai sensi dell'art. 6 dello statuto speciale per la regione autonoma della Sardegna emanato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), viene delegato alla regione autonoma della Sardegna per il proprio territorio l'esercizio delle seguenti funzioni amministrative che, gia' esercitate all'atto del loro trasferimento alla regione dagli uffici trasferiti di cui al precedente art. 7, residuano alla competenza statale:
+Ai sensi dell'art. 6 dello statuto speciale per la regione autonoma della Sardegna emanato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), viene delegato alla regione autonoma della Sardegna per il proprio territorio l'esercizio delle seguenti funzioni amministrative che, gia' esercitate all'atto del loro trasferimento alla regione dagli uffici trasferiti di cui al precedente art. 7, residuano alla competenza statale:
  1) nel settore dei trasporti ferroviari in concessione:
  esercitare le funzioni amministrative attualmente svolte dagli organi periferici dello Stato in ordine alle linee ferroviarie in concessione;
  2) nel settore del personale delle aziende concessionarie:
@@ -137,7 +137,7 @@ L'[art. 2 del decreto del Presidente della Repubblica 24 novembre 1965, n. 1532]
 
 ### Art. 12.
 
-Ai sensi dell'art. 6 dello statuto speciale per la Sardegna, emanato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), viene delegato alla regione autonoma della Sardegna, per il proprio territorio, l'esercizio delle seguenti funzioni amministrative che, gia' esercitate all'atto del loro trasferimento alla regione dall'ufficio trasferito di cui al precedente art. 11, residuano alla competenza statale dopo il trasferimento alla regione autonoma della Sardegna delle attribuzioni di cui al [decreto del Presidente della Repubblica 24 novembre 1965, n. 1532](Norme%20di%20attuazione%20dallo%20Statuto%20speciale%20per%20la%20Sardegna%20in%20materia%20di%20biblioteche%20e%20di%20musei%20di%20Enti%20locali.md):
+Ai sensi dell'art. 6 dello statuto speciale per la Sardegna, emanato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), viene delegato alla regione autonoma della Sardegna, per il proprio territorio, l'esercizio delle seguenti funzioni amministrative che, gia' esercitate all'atto del loro trasferimento alla regione dall'ufficio trasferito di cui al precedente art. 11, residuano alla competenza statale dopo il trasferimento alla regione autonoma della Sardegna delle attribuzioni di cui al [decreto del Presidente della Repubblica 24 novembre 1965, n. 1532](Norme%20di%20attuazione%20dallo%20Statuto%20speciale%20per%20la%20Sardegna%20in%20materia%20di%20biblioteche%20e%20di%20musei%20di%20Enti%20locali.md):
  a) vegliare sulla conservazione ed eventuale riproduzione dei codici, degli antichi manoscritti, degli incunabuli, delle stampe ed incisioni rare e di pregio possedute da enti e da privati e curare la compilazione del catalogo generale e dell'elenco indicativo di detto materiale;
  b) fare le notificazioni di importante interesse artistico o storico a termini dell'[art. 3 della legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), ai proprietari o possessori degli oggetti di cui all'art. 1, comma primo, lettera c), della legge stessa;
  c) vigilare sulla osservanza delle disposizioni della suddetta legge per quanto concerne le alienazioni e le permute delle raccolte di importante interesse, possedute da enti e da privati, nonche' delle disposizioni di cui alla [legge 2 aprile 1950, n. 328](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allattuale%20disciplina%20delle%20mostre%20darte.md);
@@ -205,7 +205,7 @@ Restano ferme le competenze degli organi statali in ordine:
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 19 giugno 1979, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-19;348) ha disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
+Il [D.P.R. 19 giugno 1979, n. 348](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20in%20riferimento%20alla%20legge%2022%20luglio%201975%20n.%20382%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616.md) ha disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
 Si riporta il primo comma : "Agli oneri derivanti dall'esercizio delle ulteriori funzioni trasferite o delegate con il presente decreto Si provvede con legge ordinaria della Repubblica, ai sensi dell'art. 54, quarto comma, dello statuto."
 
 ### Art. 18.
@@ -223,7 +223,7 @@ Fino a quando non sara' provveduto, con legge dello Stato, al riordinamento degl
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 19 giugno 1979, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-19;348) ha disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
+Il [D.P.R. 19 giugno 1979, n. 348](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20in%20riferimento%20alla%20legge%2022%20luglio%201975%20n.%20382%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616.md) ha disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
 Si riporta il primo comma : "Agli oneri derivanti dall'esercizio delle ulteriori funzioni trasferite o delegate con il presente decreto Si provvede con legge ordinaria della Repubblica, ai sensi dell'art. 54, quarto comma, dello statuto."
 
 ## IGIENE E SANITA' PUBBLICA
@@ -279,7 +279,7 @@ Capo VI
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 19 giugno 1979, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-19;348) ha disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
+Il [D.P.R. 19 giugno 1979, n. 348](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20in%20riferimento%20alla%20legge%2022%20luglio%201975%20n.%20382%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616.md) ha disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
 Si riporta il primo comma : "Agli oneri derivanti dall'esercizio delle ulteriori funzioni trasferite o delegate con il presente decreto Si provvede con legge ordinaria della Repubblica, ai sensi dell'art. 54, quarto comma, dello statuto."
 
 ## Capo I DISPOSIZIONI COMUNI
@@ -303,7 +303,7 @@ La definizione dei procedimenti amministrativi che abbiano comportato assunzione
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 19 giugno 1979, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-19;348) ha disposto (con l'art. 81 comma 2) che la data di cui al [secondo comma dell'art. 26 del D.P.R. 22 maggio 1975, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-05-22;480#art_26-com2) e' sostituita con la data del 31 dicembre 1979.
+Il [D.P.R. 19 giugno 1979, n. 348](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20Sardegna%20in%20riferimento%20alla%20legge%2022%20luglio%201975%20n.%20382%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616.md) ha disposto (con l'art. 81 comma 2) che la data di cui al [secondo comma dell'art. 26 del D.P.R. 22 maggio 1975, n. 480](Nuove%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20autonoma%20della%20Sardegna.md) e' sostituita con la data del 31 dicembre 1979.
 Ha inoltre disposto (con l'art. 83 comma 3) che tale modifica avra' effetto dalla data dell'entrata in vigore della legge di cui al primo comma.
 Si riporta il primo comma : "Agli oneri derivanti dall'esercizio delle ulteriori funzioni trasferite o delegate con il presente decreto Si provvede con legge ordinaria della Repubblica, ai sensi dell'art. 54, quarto comma, dello statuto."
 
@@ -370,7 +370,7 @@ All'onere di L. 8.347 milioni e di L. 12.700 milioni previsto dal primo comma de
 
 ### Art. 37.
 
-Alle entrate previste dall'art. 8 dello statuto speciale per la Sardegna approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3) sono aggiunte le seguenti:
+Alle entrate previste dall'art. 8 dello statuto speciale per la Sardegna approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md) sono aggiunte le seguenti:
  a) cinque decimi delle imposte sulle successioni e donazioni riscosse nel territorio della regione;
  b) nove decimi dell'imposta di registro percetta nel territorio della regione;
  c) ulteriori tre decimi del gettito delle imposte in fabbricazione su tutti i prodotti che ne siano gravati percetto nel territorio della regione in aumento della attribuzione dei sei decimi di tale gettito prevista dalla [legge 3 giugno 1960, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-06-03;529).

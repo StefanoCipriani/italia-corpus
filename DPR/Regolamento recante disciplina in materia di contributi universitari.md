@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e in particolare l'articolo 20, comma 8, lettera c), nonche' i criteri di cui al medesimo articolo, comma 5;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e in particolare l'articolo 20, comma 8, lettera c), nonche' i criteri di cui al medesimo articolo, comma 5;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
@@ -44,13 +44,13 @@ Ai sensi del presente regolamento si intendono:
                         d)
                             per contribuzione per studente, la somma dell'importo della tassa di iscrizione e dei contributi universitari di cui all'articolo 2 per singolo studente;
                         e)
-                            per contribuzione studentesca, l'ammontare complessivo della contribuzione a carico degli studenti di ogni universita' comprensiva, ai sensi e per gli effetti di cui all'[articolo 20, comma 8, lettera c), legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8-letc), del gettito della tassa di iscrizione e dei contributi universitari, calcolato per il complesso degli studenti dell'ateneo, come accertato nel bilancio consuntivo del medesimo.
+                            per contribuzione studentesca, l'ammontare complessivo della contribuzione a carico degli studenti di ogni universita' comprensiva, ai sensi e per gli effetti di cui all'[articolo 20, comma 8, lettera c), legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), del gettito della tassa di iscrizione e dei contributi universitari, calcolato per il complesso degli studenti dell'ateneo, come accertato nel bilancio consuntivo del medesimo.
  Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Il [comma 8, lettera c), dell'art. 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8-letc), prevede che:
+ - Il [comma 8, lettera c), dell'art. 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), prevede che:
  "8. In sede di prima attuazione della presente legge e nel rispetto dei principi, criteri e modalita' di cui al presente articolo, quali norme generali regolatrici, sono emanati appositi regolamenti ai sensi e per gli effetti dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), per disciplinare i procedimenti di cui all'allegato 1 alla presente legge, nonche' le seguenti materie:
  a)-b) (omissis);
  c) interventi per il diritto allo studio e contributi universitari. Le norme sono finalizzate a garantire l'accesso agli studi universitari, agli studenti capaci e meritevoli privi di mezzi, a ridurre il tasso di abbandono degli studi, a determinare percentuali massime dell'ammontare complessivo della contribuzione a carico degli studenti in rapporto al finanziamento ordinario dello Stato per le universita', graduando la contribuzione stessa, secondo criteri di equita', solidarieta' e progressivita' in relazione alle condizioni economiche del nucleo familiare, nonche' a definire parametri e metodologie adeguati per la valutazione delle effettive condizioni economiche dei predetti nuclei. Le norme di cui alla presente lettera sono soggette a revisione biennale, sentite le competenti commissioni parlamentari".
@@ -69,7 +69,7 @@ Note alle premesse:
  3. L'attivazione di nuove scuole dirette a fini speciali e' limitata alle tipologie esistenti e a quelle gia' previste nel piano di sviluppo dell'universita' 1986-1990.
  4. Le scuole dirette a fini speciali confermate ai sensi del comma 1, lettera b), o attivate ai sensi del comma 3, rimangono in funzione secondo le norme del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md), fino alla data di entrata in vigore della legge sull'ordinamento dell'istruzione postsecondaria.
  5. Lo statuto dovra' dettare le eventuali disposizioni per il graduale passaggio al nuovo ordinamento per consentire il completamento degli studi da parte degli studenti gia' iscritti".
- - Per il testo del [comma 8, lettera c), dell'art. 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8-letc), si veda la nota alle premesse.
+ - Per il testo del [comma 8, lettera c), dell'art. 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si veda la nota alle premesse.
 
 ## Art. 2.
 
@@ -79,7 +79,7 @@ Note alle premesse:
 
 AGGIORNAMENTO (2)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 266) che la presente modifica non si applica alle universita' non statali, alle universita' telematiche e alle istituzioni universitarie ad ordinamento speciale, nonche' all'universita' degli studi di Trento.
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 266) che la presente modifica non si applica alle universita' non statali, alle universita' telematiche e alle istituzioni universitarie ad ordinamento speciale, nonche' all'universita' degli studi di Trento.
 
 ## Art. 3.
 
@@ -89,7 +89,7 @@ La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (2)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 266) che la presente modifica non si applica alle universita' non statali, alle universita' telematiche e alle istituzioni universitarie ad ordinamento speciale, nonche' all'universita' degli studi di Trento.
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 266) che la presente modifica non si applica alle universita' non statali, alle universita' telematiche e alle istituzioni universitarie ad ordinamento speciale, nonche' all'universita' degli studi di Trento.
 
 ## Art. 4. — Contributi universitari per le scuole di specializzazione
 
@@ -112,7 +112,7 @@ Nota all'art. 4:
 
 1.
 
-Fatto salvo quanto disposto al comma 2 del presente articolo e all'articolo 4, la contribuzione studentesca non puo' eccedere il 20 per cento dell'importo del finanziamento ordinario annuale dello Stato, a valere sul fondo di cui all'[articolo 5, comma 1, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com1-leta), e [comma 3, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com3).
+Fatto salvo quanto disposto al comma 2 del presente articolo e all'articolo 4, la contribuzione studentesca non puo' eccedere il 20 per cento dell'importo del finanziamento ordinario annuale dello Stato, a valere sul fondo di cui all'[articolo 5, comma 1, lettera a)](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e [comma 3, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 1-bis.
 
@@ -130,7 +130,7 @@ In ogni caso, i limiti disposti dal decreto di cui al comma 1-bis non possono su
 
 1-quater.
 
-Gli incrementi della contribuzione studentesca disposti ai sensi del comma 1-ter sono destinati in misura non inferiore al 50 per cento del totale ad integrazione delle risorse disponibili per le borse di studio di cui all'[articolo 18 del decreto legislativo 29 marzo 2012, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-03-29;68#art_18), e per la parte residua ad altri interventi di sostegno al diritto allo studio, con particolare riferimento a servizi abitativi, servizi di ristorazione, servizi di orientamento e tutorato, attivita' a tempo parziale, trasporti, assistenza sanitaria, accesso alla cultura, servizi per la mobilita' internazionale e materiale didattico.
+Gli incrementi della contribuzione studentesca disposti ai sensi del comma 1-ter sono destinati in misura non inferiore al 50 per cento del totale ad integrazione delle risorse disponibili per le borse di studio di cui all'[articolo 18 del decreto legislativo 29 marzo 2012, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20della%20normativa%20di%20principio%20in%20materia%20di%20diritto%20allo%20studio%20e%20valorizzazione%20dei%20collegi%20universitari%20legalmente%20riconosciuti%20in%20attuazione%20della%20delega%20prevista%20dallarticolo_1bd2d2a87875.md), e per la parte residua ad altri interventi di sostegno al diritto allo studio, con particolare riferimento a servizi abitativi, servizi di ristorazione, servizi di orientamento e tutorato, attivita' a tempo parziale, trasporti, assistenza sanitaria, accesso alla cultura, servizi per la mobilita' internazionale e materiale didattico.
 
 1-quinquies.
 
@@ -170,19 +170,19 @@ Nota all'art. 6:
 
 1.
 
-Il presente regolamento e' soggetto a revisione biennale ai sensi dell'[articolo 20, comma 8, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8-letc).
+Il presente regolamento e' soggetto a revisione biennale ai sensi dell'[articolo 20, comma 8, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 Nota all'art. 7:
- - Per il testo dell'[art. 20, comma 8, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8-letc) si veda la nota alle premesse.
+ - Per il testo dell'[art. 20, comma 8, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) si veda la nota alle premesse.
 
 ## Art. 8. — Abrogazione di norme
 
 1.
 
-Si intendono abrogati i [commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_com13), [dal 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_com15) [al 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_com18) e il [comma 20 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_com20), articolo 5. Al comma 14 dello stesso articolo 5, sono soppresse le parole da: "in base al reddito" fino a: "e' fissata" e da: "quella massima" fino alla fine del comma.
+Si intendono abrogati i [commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), [dal 15](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) [al 18](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e il [comma 20 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), articolo 5. Al comma 14 dello stesso articolo 5, sono soppresse le parole da: "in base al reddito" fino a: "e' fissata" e da: "quella massima" fino alla fine del comma.
 
 Nota all'art. 8:
- - Per il testo dell'[art. 5 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5), si veda la nota all'art. 2.
+ - Per il testo dell'[art. 5 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si veda la nota all'art. 2.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

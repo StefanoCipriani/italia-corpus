@@ -34,7 +34,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2635), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
+La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_de115e2437e8.md), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2635), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
+La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_de115e2437e8.md), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
 
 ## Art. 3.
 
@@ -54,7 +54,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni in
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2635), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
+La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_de115e2437e8.md), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
 
 ## Art. 4.
 
@@ -64,7 +64,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-29;2635), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
+La Corte Costituzionale, con sentenza 7 - 16 febbraio 1963, n. 9 (in G.U. 1a s.s. 23/02/1963, n. 53) ha dichiarato "la illegittimita' costituzionale del [D.P.R. 29 novembre 1952, n. 2635](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_de115e2437e8.md), in relazione all'[art. 4 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e in riferimento all'art. 76 della Costituzione."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

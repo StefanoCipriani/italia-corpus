@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 77, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1); 
- Vista la [legge 8 maggio 1952, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-08;427), concernente la delega al Governo per l'emanazione di testi unici per il coordinamento con modifiche delle norme vigenti in materia di organizzazione e di servizi dell'Amministrazione delle poste e delle telecomunicazioni e dell'Azienda di Stato per i servizi telefonici; 
+ Vista la [legge 8 maggio 1952, n. 427](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20dei%20testi%20unici%20in%20materia%20di%20organizzazione%20e%20di%20servizi%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md), concernente la delega al Governo per l'emanazione di testi unici per il coordinamento con modifiche delle norme vigenti in materia di organizzazione e di servizi dell'Amministrazione delle poste e delle telecomunicazioni e dell'Azienda di Stato per i servizi telefonici; 
  Visto il Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645); 
  Sentita la Corte dei conti, a sezioni riunite; 
  Sentito il Consiglio dei Ministri; 

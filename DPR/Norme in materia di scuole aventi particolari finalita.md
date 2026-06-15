@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Veduta la [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477), recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale ispettivo, direttivo, docente e non docente della scuola materna, elementare, secondaria ed artistica dello Stato;
+Veduta la [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md), recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale ispettivo, direttivo, docente e non docente della scuola materna, elementare, secondaria ed artistica dello Stato;
 
-Veduta la [legge 19 maggio 1975, n. 167](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20lemanazione%20di%20alcuni%20decreti%20con%20valore%20di%20legge%20ordinaria%20di%20cui%20alla%20legge%2030%20luglio%201973%20n.%20477%20recante%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20_59bd82eb6d5b.md), concernente la proroga del termine per l'emanazione di alcuni decreti con valore di legge ordinaria di cui alla predetta [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477);
+Veduta la [legge 19 maggio 1975, n. 167](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20lemanazione%20di%20alcuni%20decreti%20con%20valore%20di%20legge%20ordinaria%20di%20cui%20alla%20legge%2030%20luglio%201973%20n.%20477%20recante%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20_59bd82eb6d5b.md), concernente la proroga del termine per l'emanazione di alcuni decreti con valore di legge ordinaria di cui alla predetta [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
 
-Udito il parere della commissione prevista dall'[art. 18 della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_18);
+Udito il parere della commissione prevista dall'[art. 18 della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -100,7 +100,7 @@ Rimangono ferme le disposizioni speciali vigenti in materia di orario di servizi
 
 ### Art. 14. — Entrata in vigore
 
-Ai sensi dell'[art. 23 della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_23), il presente decreto entra in vigore dal 1 ottobre successivo alla data della pubblicazione o, qualora fra la data della pubblicazione e il 1 ottobre intercorra un periodo di tempo inferiore a due mesi, il sessantesimo giorno successivo alla data della sua pubblicazione.
+Ai sensi dell'[art. 23 della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md), il presente decreto entra in vigore dal 1 ottobre successivo alla data della pubblicazione o, qualora fra la data della pubblicazione e il 1 ottobre intercorra un periodo di tempo inferiore a due mesi, il sessantesimo giorno successivo alla data della sua pubblicazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

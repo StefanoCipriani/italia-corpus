@@ -67,7 +67,7 @@ Per i fattorini degli uffici principali, il limite di ottocento pezzi mensili pr
 
 AGGIORNAMENTO (2)
 
-La [L. 22 dicembre 1981, n.797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-22;797) ha disposto( con l'art.38 comma 1) che:" Con effetto dal 1 settembre 1978, i limiti di novecentoquattordici e di 14,50 telegrammi ed espressi, previsti dai primi due commi dell'[articolo 6 del decreto del Presidente della Repubblica 6 ottobre 1977, n. 1150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-06;1150#art_6), sono rispettivamente elevati a mille ed a sedici."
+La [L. 22 dicembre 1981, n.797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-22;797) ha disposto( con l'art.38 comma 1) che:" Con effetto dal 1 settembre 1978, i limiti di novecentoquattordici e di 14,50 telegrammi ed espressi, previsti dai primi due commi dell'[articolo 6 del decreto del Presidente della Repubblica 6 ottobre 1977, n. 1150](Nuova%20disciplina%20del%20lavoro%20straordinario%20per%20il%20personale%20delle%20aziende%20dipendenti%20dal%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), sono rispettivamente elevati a mille ed a sedici."
 
 ## Art. 7.
 

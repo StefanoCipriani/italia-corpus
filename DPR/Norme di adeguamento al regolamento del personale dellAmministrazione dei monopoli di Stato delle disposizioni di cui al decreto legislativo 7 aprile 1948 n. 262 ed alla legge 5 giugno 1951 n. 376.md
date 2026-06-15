@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262), che istituisce i ruoli speciali transitori per la sistemazione del personale non di ruolo in servizio nelle Amministrazioni dello Stato;
+Visto il [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), che istituisce i ruoli speciali transitori per la sistemazione del personale non di ruolo in servizio nelle Amministrazioni dello Stato;
 
 Vista la [legge 5 giugno 1951, n. 376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20sulla%20istituzione%20di%20ruoli%20speciali%20transitori%20nelle%20Amministrazioni%20dello%20Stato.md), recante norme integrative e di attuazione del decreto suddetto;
 
 Considerata la necessita' di emanare norme per adeguare ai regolamenti del personale dell'Amministrazione autonoma dei monopoli di Stato le disposizioni dei predetti provvedimenti legislativi;
 
-Visto il [decreto legislativo 22 aprile 1948, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;723), ratificato, con modificazioni, con [legge 10 agosto 1950, n. 668, e l'art. 12](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2022%20aprile%201948%20n.%20723%20sullorganico%20del%20personale%20dei%20Monopoli%20di%20Stato.md) del decreto Ministeriale 29 febbraio 1928, registrato alla Corte dei conti l'8 marzo 1928;
+Visto il [decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), ratificato, con modificazioni, con [legge 10 agosto 1950, n. 668, e l'art. 12](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2022%20aprile%201948%20n.%20723%20sullorganico%20del%20personale%20dei%20Monopoli%20di%20Stato.md) del decreto Ministeriale 29 febbraio 1928, registrato alla Corte dei conti l'8 marzo 1928;
 
 Visto il [regio decreto 24 novembre 1932, n. 1627](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20vigente%20ordinamento%20organico%20per%20il%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20032U1627.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro ad inter
 
 ## Art. 1.
 
-In corrispondenza dei ruoli organici del personale dell'Amministrazione dei monopoli di Stato sono istituiti, ai sensi dell'[art. 1 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_1), i sottoindicati ruoli speciali transitori:
+In corrispondenza dei ruoli organici del personale dell'Amministrazione dei monopoli di Stato sono istituiti, ai sensi dell'[art. 1 del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), i sottoindicati ruoli speciali transitori:
  a) ruolo speciale transitorio del personale tecnico di gruppo A, distinto nelle branche di servizio: "Coltivazioni tabacchi"; "Manifatture tabacchi e Magazzini tabacchi greggi e lavorati"; "Saline, Laboratorio chinino di Stato e Magazzini sali";
  b) ruolo speciale transitorio del personale amministrativo di gruppo A;
  c) ruolo speciale transitorio del personale amministrativo di gruppo B;

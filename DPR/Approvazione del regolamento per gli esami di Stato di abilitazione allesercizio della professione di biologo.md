@@ -43,7 +43,7 @@ La laurea in scienze biologiche e' titolo accademico valido per l'ammissione all
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 27 marzo 2001, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-27;195) ha disposto (con l'art. 1) che "la disposizione di cui sopra si applica a decorrere dalle sessioni degli esami di Stato dell'anno 2001".
+Il [D.P.R. 27 marzo 2001, n. 195](Regolamento%20recante%20modifica%20al%20decreto%20del%20Presidente%20della%20Repubblica%2028%20ottobre%201982%20n.%20980%20per%20labolizione%20del%20tirocinio%20ai%20fini%20dellesame%20di%20Stato%20per%20lesercizio%20della%20professione%20di%20biologo.md) ha disposto (con l'art. 1) che "la disposizione di cui sopra si applica a decorrere dalle sessioni degli esami di Stato dell'anno 2001".
 
 ## Art. 3.
 

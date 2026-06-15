@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'articolo 87, comma 5o della Costituzione;
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), allegato 1, n. 92 e n. 112-septies;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, n. 92 e n. 112-septies;
 
 Visto il testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), ed in particolare gli articoli 39, commi 3o e 4o, 45, 46, 47, 48, 49;
 
 Visti i decreti del Ministero del lavoro e della previdenza sociale in data 18 giugno 1988, pubblicato nella Gazzetta Ufficiale 30 giugno 1988, n. 152, e in data 20 giugno 1988, pubblicato nella Gazzetta Ufficiale 29 giugno 1988, n. 151;
 
-Visto il [decreto legislativo 30 giugno 1994, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-06-30;479), ed in particolare l'articolo 8, comma 3;
+Visto il [decreto legislativo 30 giugno 1994, n. 479](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2032%20della%20legge%2024%20dicembre%201993%20n.%20537%20in%20materia%20di%20riordino%20e%20soppressione%20di%20enti%20pubblici%20di%20previdenza%20e%20assistenza.md), ed in particolare l'articolo 8, comma 3;
 
-Visto il [decreto legislativo 23 febbraio 2000, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-23;38), ed in particolare l'articolo 2, comma 3;
+Visto il [decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), ed in particolare l'articolo 2, comma 3;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 gennaio 2001;
 
@@ -40,7 +40,7 @@ Emana il seguente regolamento:
 
 1.
 
-Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale di Aosta, alla direzione provinciale di Trento o alla direzione provinciale di Bolzano dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), in relazione alla loro competenza per territorio, contro i provvedimenti emessi dalle sedi territoriali dell'Istituto in materia di applicazione delle tariffe dei premi assicurativi per gli infortuni sul lavoro e le malattie professionali approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-23;38#art_3-com1), riguardanti:
+Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale di Aosta, alla direzione provinciale di Trento o alla direzione provinciale di Bolzano dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), in relazione alla loro competenza per territorio, contro i provvedimenti emessi dalle sedi territoriali dell'Istituto in materia di applicazione delle tariffe dei premi assicurativi per gli infortuni sul lavoro e le malattie professionali approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), riguardanti:
                         a)
                             la classificazione delle lavorazioni;
                         b)
@@ -58,7 +58,7 @@ Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale
 
 1.
 
-Il datore di lavoro puo' ricorrere alla sede territoriale dell'INAIL contro i provvedimenti emessi dalla stessa sede concernenti l'oscillazione del tasso medio di tariffa per andamento infortunistico, adottati secondo le modalita' di applicazione delle tariffe dei premi approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-23;38#art_3-com1).
+Il datore di lavoro puo' ricorrere alla sede territoriale dell'INAIL contro i provvedimenti emessi dalla stessa sede concernenti l'oscillazione del tasso medio di tariffa per andamento infortunistico, adottati secondo le modalita' di applicazione delle tariffe dei premi approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md).
 
 2.
 

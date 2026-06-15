@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista a [legge 12 febbraio 1955, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;52), che conferisce al Governo la delega a dettare norme in materia di assicurazione obbligatoria contro la silicosi e l'asbestosi;
+Vista a [legge 12 febbraio 1955, n. 52](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20a%20dettare%20norme%20in%20materia%20di%20assicurazione%20obbligatoria%20contro%20la%20silicosi%20e%20lasbestosi.md), che conferisce al Governo la delega a dettare norme in materia di assicurazione obbligatoria contro la silicosi e l'asbestosi;
 
 Vista la [legge 12 aprile 1943, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-04-12;455), concernente l'estensione della assicurazione obbligatoria contro le malattie professionali alla silicosi ed asbestosi;
 
@@ -53,7 +53,7 @@ L'[art. 7 della legge 12 aprile 1943, n. 455](https://www.normattiva.it/uri-res/
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 21 luglio 1960, n.1169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-21;1169) ha disposto (con l'art. 15 del regolamento allegato) che " Le prestazioni di cui all'[art. 4 del decreto legislativo 20 marzo 1956, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1956-03-20;648#art_4), si intendono dovute anche nei casi di morte derivata da silicosi o da asbestosi associate a tubercolosi polmonare."
+Il [D.P.R. 21 luglio 1960, n.1169](Approvazione%20delle%20norme%20regolamentari%20per%20lattuazione%20della%20legge%2012%20aprile%201943%20n.%20455%20modificata%20con%20decreto%20legislativo%2020%20marzo%201956%20n.%20648%20sullassicurazione%20obbligatoria%20contro%20la%20s_44ea0aef3950.md) ha disposto (con l'art. 15 del regolamento allegato) che " Le prestazioni di cui all'[art. 4 del decreto legislativo 20 marzo 1956, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1956-03-20;648#art_4), si intendono dovute anche nei casi di morte derivata da silicosi o da asbestosi associate a tubercolosi polmonare."
 
 ## Art. 5.
 
@@ -133,7 +133,7 @@ Sul richiesta del titolare di rendita per inabilita' permanente determinata da s
 
 AGGIORNAMENTO (2)
 
-La [L. 10 febbraio 1961, n.51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-10;51) ha disposto (con l'art. 2, comma 1) che " Il termine limitativo di 15 anni fissato dall'[articolo 16 del decreto del Presidente della Repubblica 20 marzo 1956, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-20;648#art_16), per la revisione delle rendite previste nell'articolo medesimo e' soppresso."
+La [L. 10 febbraio 1961, n.51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-10;51) ha disposto (con l'art. 2, comma 1) che " Il termine limitativo di 15 anni fissato dall'[articolo 16 del decreto del Presidente della Repubblica 20 marzo 1956, n. 648](Norme%20modificatrici%20della%20legge%2012%20aprile%201943%20n.%20455%20sullassicurazione%20obbligatoria%20contro%20la%20silicosi%20e%20lasbestosi.md), per la revisione delle rendite previste nell'articolo medesimo e' soppresso."
 
 ## Art. 17.
 

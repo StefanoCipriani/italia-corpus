@@ -36,7 +36,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3475), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_68060e78d2ad.md), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3475), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_68060e78d2ad.md), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
 
 ## Art. 3.
 
@@ -56,7 +56,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni in
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3475), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_68060e78d2ad.md), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3475), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 - 26 maggio 1966, n. 52 (in G.U. 1a s.s. 28/05/1966, n. 131), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 27 dicembre 1952, n. 3475](Trasferimento%20in%20proprieta%20allEnte%20per%20lo%20sviluppo%20dellirrigazione%20e%20la%20trasformazione%20fondiaria%20in%20Puglia%20e%20Lucania%20-%20Sezione%20speciale%20per%20la%20riforma%20fondiaria%20-%20di%20terreni%20di%20proprieta%20_68060e78d2ad.md), in quanto la quota della proprieta' terriera espropriata nei confronti del signor Francesco Maggipinto eccede quella che sarebbe risultata sulla base della consistenza patrimoniale al 15 novembre 1949."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

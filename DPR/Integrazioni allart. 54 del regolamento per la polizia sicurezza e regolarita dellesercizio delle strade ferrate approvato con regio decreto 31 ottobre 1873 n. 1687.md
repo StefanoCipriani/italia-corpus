@@ -17,4 +17,4 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente decreto salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente decreto salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".

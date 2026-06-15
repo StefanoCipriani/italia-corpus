@@ -31,13 +31,13 @@ Le norme allegate entrano in vigore tre mesi dopo la loro pubblicazione nella Ga
 
 AGGIORNAMENTO (1)
 
-La [L. 24 gennaio 1959, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-01-24;4) ha disposto (con l'art. 2, comma 1) che "Il termine di cui all'[art. 2 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-27;956#art_2), e' prorogato al 15 marzo 1959".
+La [L. 24 gennaio 1959, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-01-24;4) ha disposto (con l'art. 2, comma 1) che "Il termine di cui all'[art. 2 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](Approvazione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), e' prorogato al 15 marzo 1959".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 12 marzo 1959, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-03-12;76) ha disposto (con l'art. 1, comma 1) che "Il termine, di cui all'[art. 2 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-27;956#art_2), gia' prorogato al 15 marzo 1959 con [legge 24 gennaio 1959, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-01-24;4), e' ulteriormente prorogato al 30 aprile 1959".
+La [L. 12 marzo 1959, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-03-12;76) ha disposto (con l'art. 1, comma 1) che "Il termine, di cui all'[art. 2 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](Approvazione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), gia' prorogato al 15 marzo 1959 con [legge 24 gennaio 1959, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-01-24;4), e' ulteriormente prorogato al 30 aprile 1959".
 
 ---------------
 

@@ -18,7 +18,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto l'atto 17 gennaio 1951, approvato e reso esecutorio con [decreto del Presidente della Repubblica 18 aprile 1951, n. 462](Approvazione%20dellatto%20aggiuntivo%2017%20gennaio%201951%20relativo%20alla%20totale%20esecuzione%20dei%20lavori%20di%20costruzione%20della%20sede%20stradale%20e%20dei%20fabbricati%20del%20tronco%20ferroviario%20Camigliatello%20Silano_5e760c59efdb.md), con il quale e' stata regolata la totale esecuzione dei lavori di costruzione della sede stradale e dei fabbricati del tronco ferroviario sopraindicato;
  Visto l'art. 7 di detto atto 17 gennaio 1951;
  Visto l'[art. 5 del decreto legislativo del Capo provvisorio dello Stato 29 novembre 1946, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-29;457#art_5);
- Visto l'[art. 10 del decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121#art_10);
+ Visto l'[art. 10 del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md);
  Vista la [legge 15 dicembre 1949, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-15;967);
  Vista la [legge 21 novembre 1950, n. 1007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-21;1007);
  Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);

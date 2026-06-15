@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto lo statuto speciale della Regione Friuli-Venezia Giulia, approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), ed in particolare l'articolo 3;
+Visto lo statuto speciale della Regione Friuli-Venezia Giulia, approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), ed in particolare l'articolo 3;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -56,7 +56,7 @@ N O T E
  Note alle premesse: 
  
  - L'[art. 87, comma 5, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) (Statuto speciale della Regione Friuli-Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963. 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione Friuli-Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963. 
  - Il testo dell'art. 3 dello Statuto speciale della Regione Friuli-Venezia Giulia, e' il seguente: 
  «Art. 3. - Nella Regione e' riconosciuta parita' di diritti e di trattamento a tutti i cittadini, qualunque sia il gruppo linguistico al quale appartengono, con la salvaguardia delle rispettive caratteristiche etniche e culturali.». 
  - L'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri e sentito il parere del Consiglio di Stato, possano essere emanati regolamenti per disciplinare: l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari; l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge. 

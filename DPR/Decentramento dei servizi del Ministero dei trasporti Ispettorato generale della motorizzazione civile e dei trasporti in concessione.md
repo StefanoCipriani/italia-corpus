@@ -52,7 +52,7 @@ Qualora la linea sulla quale devono essere eseguiti gli studi rientri nella circ
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 5.
 
@@ -63,7 +63,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 6.
 
@@ -74,7 +74,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 7.
 
@@ -85,7 +85,7 @@ L'art. 108 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione della dizione ", in quelle stazioni o fermate che vengano designate dal competente ispettorato compartimentale od ufficio distaccato della motorizzazione civile e dei trasporti in concessione" del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione della dizione ", in quelle stazioni o fermate che vengano designate dal competente ispettorato compartimentale od ufficio distaccato della motorizzazione civile e dei trasporti in concessione" del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 8.
 
@@ -96,7 +96,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 9.
 
@@ -107,7 +107,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 10.
 
@@ -118,7 +118,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 11.
 
@@ -129,7 +129,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 12.
 
@@ -140,7 +140,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 13.
 
@@ -156,7 +156,7 @@ L'art. 242 del testo unico approvato con [regio decreto 9 maggio 1942, n. 1447](
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 15.
 
@@ -166,7 +166,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 -----------------
  
 AGGIORNAMENTO (1) 
- Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+ Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 16.
 
@@ -177,7 +177,7 @@ AGGIORNAMENTO (1)
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 17.
 
@@ -226,7 +226,7 @@ In ogni caso le concessioni di competenza della Provincia o del Comune possono e
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente comma salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente comma salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 22.
 
@@ -242,7 +242,7 @@ All'[art. 2 della legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-r
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 24.
 
@@ -253,7 +253,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 25.
 
@@ -264,7 +264,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ## Sciovie, slittovie, rotovie ed altri mezzi di trasporto a funi senza rotaia
 
@@ -283,7 +283,7 @@ L'[art. 1 del regio decreto-legge 7 settembre 1938 n. 1696](https://www.normatti
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente comma salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente comma salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 27.
 
@@ -299,7 +299,7 @@ Il [primo comma dell'art. 2 del regio decreto-legge 7 settembre 1938, n. 1696](h
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 29.
 
@@ -310,7 +310,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ## DECENTRAMENTO IN MATERIA DI VIE FUNICOLARI AEREE PRIVATE PER IL TRASPORTO DI MERCI
 
@@ -452,7 +452,7 @@ Il [secondo comma dell'art. 7 della legge 28 settembre 1939, n. 1822](../Atti%20
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 51.
 
@@ -467,7 +467,7 @@ Negli articoli 22 primo comma e 23 della [legge 28 settembre 1939, n. 1822](../A
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
+Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) ha disposto (con l'art. 104) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
 ### Art. 53.
 

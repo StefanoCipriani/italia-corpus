@@ -14,7 +14,7 @@ Visto l'[art. 20 della legge 28 dicembre 1952, n. 4435](https://www.normattiva.i
 
 Considerato che gli aumenti retributivi intervenuti per effetto delle variazioni del costo della vita, rispetto alle retribuzioni vigenti al 1 gennaio 1952 - sinora esclusi dal calcolo della pensione in conformita' dell'art. 8, ultimo comma, della [legge 28 dicembre 1952, n. 4435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-28;4435) - hanno raggiunto, nel corrente anno 1957, il limite del 12% previsto per far luogo ad un generale aumento delle pensioni degli addetti ai pubblici servizi di trasporto in concessione, ai sensi del precitato art. 20;
 
-Sentito il parere del Comitato di vigilanza di cui all'[articolo 12 del decreto legislativo luogotenenziale 28 maggio 1945, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-28;402#art_12);
+Sentito il parere del Comitato di vigilanza di cui all'[articolo 12 del decreto legislativo luogotenenziale 28 maggio 1945, n. 402](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20trattamento%20di%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto.%20045U0402.md);
 
 Ritenuto che alla variazione della misura delle pensioni deve provvedersi senza aumento dell'aliquota contributiva nei limiti dell'ammontare dei contributi afferenti le quote di retribuzione derivanti dagli aumenti del costo della vita;
 

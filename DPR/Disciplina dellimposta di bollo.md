@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -44,13 +44,13 @@ Sono soggetti all'imposta di bollo gli atti, i documenti e i registri indicati n
 
 AGGIORNAMENTO (12)
 
-La [L. 19 gennaio 1985, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-01-19;4) ha disposto (con l'art. 1, comma 1) che la disposizione di cui al secondo comma del presente articolo, come modificato dall'[articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1982, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-12-30;955#art_2), ha effetto dal 1 gennaio 1973 per quanto riguarda i documenti e gli atti allegati alle domande di brevetto e ai brevetti, anche europei ed internazionali, depositati durante il periodo intercorso fra il 1 gennaio 1973 ed il 31 dicembre 1982.
+La [L. 19 gennaio 1985, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-01-19;4) ha disposto (con l'art. 1, comma 1) che la disposizione di cui al secondo comma del presente articolo, come modificato dall'[articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1982, n. 955](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20642%20e%20successive%20modificazioni%20concernente%20la%20disciplina%20dellimposta%20di%20bollo.md), ha effetto dal 1 gennaio 1973 per quanto riguarda i documenti e gli atti allegati alle domande di brevetto e ai brevetti, anche europei ed internazionali, depositati durante il periodo intercorso fra il 1 gennaio 1973 ed il 31 dicembre 1982.
 
 --------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 3. — (Modi di pagamento).
 
@@ -62,7 +62,7 @@ L'imposta di bollo si corrisponde secondo le indicazioni della tariffa allegata:
                             b)
                                 in modo virtuale, mediante pagamento dell'imposta all'ufficio dell'Agenzia delle entrate o ad altri uffici autorizzati o mediante versamento in conto corrente postale.
 
-((1-bis. Per gli atti da registrare in termine fisso, ai sensi del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), l'imposta di bollo e' assolta nel termine previsto per la registrazione dell'atto, con le modalita' di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17). Per i documenti analogici presentati per la registrazione in originale all'ufficio dell'Agenzia delle entrate, l'imposta di bollo puo' essere assolta anche mediante contrassegno telematico, ai sensi del comma 1, lettera a).))
+((1-bis. Per gli atti da registrare in termine fisso, ai sensi del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), l'imposta di bollo e' assolta nel termine previsto per la registrazione dell'atto, con le modalita' di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). Per i documenti analogici presentati per la registrazione in originale all'ufficio dell'Agenzia delle entrate, l'imposta di bollo puo' essere assolta anche mediante contrassegno telematico, ai sensi del comma 1, lettera a).))
 
 ((87))
 
@@ -78,7 +78,7 @@ In ogni caso l'imposta e' dovuta nella misura minima di euro 1,00, ad eccezione 
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 4. — Forma, valore e carattere distintivi della carta bollata, delle marche da bollo e dei bolli a punzone.
 
@@ -203,7 +203,7 @@ Se le modifiche comportano l'applicazione di una imposta di ammontare inferiore 
 
 AGGIORNAMENTO (68)
 
-Il D.P.C.M. 21 gennaio 2013 (in G.U. 31/01/2013, n. 26) ha disposto (con l'art. 1, comma 1) che "Per i soggetti individuati dall'[art. 15-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642#art_15bis), il termine di presentazione della dichiarazione degli atti e documenti soggetti ad imposta di bollo assolta in modo virtuale, di cui all'art. 15, quinto comma, del medesimo decreto, riferita all'anno 2012 e' prorogato fino al 31 marzo 2013".
+Il D.P.C.M. 21 gennaio 2013 (in G.U. 31/01/2013, n. 26) ha disposto (con l'art. 1, comma 1) che "Per i soggetti individuati dall'[art. 15-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), il termine di presentazione della dichiarazione degli atti e documenti soggetti ad imposta di bollo assolta in modo virtuale, di cui all'art. 15, quinto comma, del medesimo decreto, riferita all'anno 2012 e' prorogato fino al 31 marzo 2013".
 
 ### Art. 15-bis. — (( (Disposizioni speciali sul pagamento in modo virtuale per determinati soggetti). ))
 
@@ -238,13 +238,13 @@ g) le imprese di assicurazioni))
 
 AGGIORNAMENTO (61)
 
-Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito con modificazioni dalla [L. 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), ha disposto (con l'art. 82, comma 9) che "La percentuale della somma da versare, nei termini e con le modalita' previsti dall'[articolo 15-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642#art_15bis), e' elevata al 75 per cento per l'anno 2008, all'85 per cento per il 2009 e al 95 per cento per gli anni successivi".
+Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito con modificazioni dalla [L. 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), ha disposto (con l'art. 82, comma 9) che "La percentuale della somma da versare, nei termini e con le modalita' previsti dall'[articolo 15-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), e' elevata al 75 per cento per l'anno 2008, all'85 per cento per il 2009 e al 95 per cento per gli anni successivi".
 
 --------------
 
 AGGIORNAMENTO (77)
 
-Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito con modificazioni dalla [L. 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 82, comma 9) che "La percentuale della somma da versare, nei termini e con le modalita' previsti dall'[articolo 15-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642#art_15bis), e' elevata al 75 per cento per l'anno 2008, all'85 per cento per il 2009, al 95 per cento per gli anni dal 2010 al 2020 e al 100 per cento per gli anni successivi".
+Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito con modificazioni dalla [L. 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 82, comma 9) che "La percentuale della somma da versare, nei termini e con le modalita' previsti dall'[articolo 15-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), e' elevata al 75 per cento per l'anno 2008, all'85 per cento per il 2009, al 95 per cento per gli anni dal 2010 al 2020 e al 100 per cento per gli anni successivi".
 
 ### Art. 16.
 
@@ -316,13 +316,13 @@ L'inosservanza degli obblighi stabiliti dall'articolo 19 e' punita, per ogni att
 
 AGGIORNAMENTO (71)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (72)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ### Art. 25. — Omesso od insufficiente pagamento dell'imposta ed omessa o infedele dichiarazione di conguaglio).
 
@@ -338,7 +338,7 @@ Salvo quanto previsto dall'[articolo 32, secondo comma, della legge 24 maggio 19
 
 L'omessa o infedele dichiarazione di conguaglio prevista dal quinto e dall'ultimo comma dell'articolo 15 e' punita con la sanzione amministrativa pari all'ottanta dell'imposta dovuta. Se la dichiarazione di conguaglio e' presentata con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa del quarantacinque) per cento dell'ammontare dell'imposta dovuta.(71)(72) (86)
 
-((3-bis. Salva l'applicazione delle sanzioni e ferma restando l'applicazione dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_13), la dichiarazione dell'imposta di bollo puo' essere integrata per correggere errori od omissioni, compresi quelli che abbiano determinato l'indicazione di un maggiore o di un minore imponibile o, comunque, di un maggiore o di un minore debito d'imposta ovvero di un maggiore o di un minore credito, mediante successiva dichiarazione da presentare utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione, nei modi e nei termini stabiliti dall'articolo 15 e comunque non oltre i termini di decadenza dal potere di accertamento di cui all'articolo 37, comma 1.))
+((3-bis. Salva l'applicazione delle sanzioni e ferma restando l'applicazione dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 472](../Decreti%20Legislativi/Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md), la dichiarazione dell'imposta di bollo puo' essere integrata per correggere errori od omissioni, compresi quelli che abbiano determinato l'indicazione di un maggiore o di un minore imponibile o, comunque, di un maggiore o di un minore debito d'imposta ovvero di un maggiore o di un minore credito, mediante successiva dichiarazione da presentare utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione, nei modi e nei termini stabiliti dall'articolo 15 e comunque non oltre i termini di decadenza dal potere di accertamento di cui all'articolo 37, comma 1.))
 
 ((87))
 
@@ -346,25 +346,25 @@ L'omessa o infedele dichiarazione di conguaglio prevista dal quinto e dall'ultim
 
 AGGIORNAMENTO (71)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (72)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (86)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 --------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 26. — (Violazioni in materia di uso delle macchine bollatrici).
 
@@ -376,7 +376,7 @@ L'utente delle macchine bollatrici che non osservi i divieti di cui all'ultimo c
 
 AGGIORNAMENTO (86)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 27. — Violazioni costituenti reati
 
@@ -424,7 +424,7 @@ Le controversie relative all'applicazione delle imposte ((...)) previste dal pre
 
 AGGIORNAMENTO (22)
 
-La Corte costituzionale, con sentenza 5 - 23 novembre 1993, n. 406 (in G.U. 1ª s.s. 1/12/1993, n. 49) ha dichiarato "l'illegittimita' costituzionale dell'art. 33, ultimo comma, del [D.P.R. 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642) (Disciplina dell'imposta di bollo), nella parte in cui non prevede, in materia di rimborsi d'imposta, l'esperibilita' dell'azione giudiziaria anche in mancanza del preventivo ricorso amministrativo".
+La Corte costituzionale, con sentenza 5 - 23 novembre 1993, n. 406 (in G.U. 1ª s.s. 1/12/1993, n. 49) ha dichiarato "l'illegittimita' costituzionale dell'art. 33, ultimo comma, del [D.P.R. 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md) (Disciplina dell'imposta di bollo), nella parte in cui non prevede, in materia di rimborsi d'imposta, l'esperibilita' dell'azione giudiziaria anche in mancanza del preventivo ricorso amministrativo".
 
 ### Art. 34.
 
@@ -435,7 +435,7 @@ La Corte costituzionale, con sentenza 5 - 23 novembre 1993, n. 406 (in G.U. 1ª 
 
 AGGIORNAMENTO (33)
 
-Il [D.Lgs. 18 dicembre 1997, n. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md) ha disposto (con l'art. 5, comma 1, lettera a)) che "Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642), recante disciplina dell'imposta di bollo, sono apportate le seguenti modificazioni: 
+Il [D.Lgs. 18 dicembre 1997, n. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md) ha disposto (con l'art. 5, comma 1, lettera a)) che "Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), recante disciplina dell'imposta di bollo, sono apportate le seguenti modificazioni: 
  a) nell'articolo 20, secondo comma, nell'articolo 34, primo comma, e nell'articolo 38, primo comma, le parole "pene pecuniarie" sono sostituite dalle seguenti: "sanzioni amministrative"".
 
 ### Art. 35. — Organi competenti all'accertamento delle violazioni
@@ -508,7 +508,7 @@ TITOLO VIII
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 30 dicembre 1982, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-12-30;955) ha disposto (con l'art. 29, comma 2) che "Le integrazioni e correzioni apportate all'[art. 40 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642#art_40), hanno efficacia dal 1° gennaio 1974".
+Il [D.P.R. 30 dicembre 1982, n. 955](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20642%20e%20successive%20modificazioni%20concernente%20la%20disciplina%20dellimposta%20di%20bollo.md) ha disposto (con l'art. 29, comma 2) che "Le integrazioni e correzioni apportate all'[art. 40 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), hanno efficacia dal 1° gennaio 1974".
 
 ### Art. 41. — Integrazione dei valori
 

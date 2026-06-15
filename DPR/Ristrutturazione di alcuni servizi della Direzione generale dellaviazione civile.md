@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_2), modificato
+Visto l'[art. 2 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), modificato
 
 dall'[art. 2 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_2);
 
@@ -20,7 +20,7 @@ Visto il decreto del Ministro dei trasporti 21 novembre 1973, con
 
 cui sono state determinate la struttura e le competenze degli uffici della Direzione generale dell'aviazione civile;
 
-Visto il parere del consiglio di amministrazione della Direzione  generale dell'aviazione civile in merito ad una diversa determinazione delle strutture e delle competenze di alcuni dei suddetti uffici, espresso ai sensi dell'[art. 8 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_8);
+Visto il parere del consiglio di amministrazione della Direzione  generale dell'aviazione civile in merito ad una diversa determinazione delle strutture e delle competenze di alcuni dei suddetti uffici, espresso ai sensi dell'[art. 8 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md);
 
 Udito il parere del Consiglio di Stato;
 

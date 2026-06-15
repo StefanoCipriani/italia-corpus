@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804), ratificato, con modificazioni, dalla [legge 4 maggio 1951, n. 538](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2012%20marzo%201948%20n.%20804%20concernente%20norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md);
+Visto il [decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), ratificato, con modificazioni, dalla [legge 4 maggio 1951, n. 538](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2012%20marzo%201948%20n.%20804%20concernente%20norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md);
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
@@ -140,7 +140,7 @@ Qualora le lesioni o le infermita' siano ascrivibili alle categorie 6a, 7a o 8a 
 
 Note all'[art. 7:
  - Il D.P.R. n. 738/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981;738#art_7) reca: "Utilizzazione del personale delle forze di polizia invalido per causa di servizio".
- - Il [D.P.R. n. 834/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;834) reca il definitivo riordinamento delle pensioni di guerra, in attuazione della delega prevista dall'[art. 1 della legge 23 settembre 1981, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-23;533#art_1).
+ - Il [D.P.R. n. 834/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;834) reca il definitivo riordinamento delle pensioni di guerra, in attuazione della delega prevista dall'[art. 1 della legge 23 settembre 1981, n. 533](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20definitivo%20riordinamento%20delle%20pensioni%20di%20guerra.md).
  La tabella A elenca le lesioni ed infermita' che danno diritto a pensione vitalizia o ad assegno temporaneo. La tabella B riporta l'elenco delle lesioni ed infermita' che danno diritto ad indennita' per una volta tanto.
 
 ## Art. 8. — Accertamento dell'idoneita' psico-fisica per gli appartenenti al Corpo forestale dello Stato che espletano funzioni di polizia.

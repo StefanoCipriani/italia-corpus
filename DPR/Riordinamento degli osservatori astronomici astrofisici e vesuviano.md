@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 12, ultimo comma, della [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Visto l'art. 12, ultimo comma, della [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Sentite le competenti commissioni permanenti delle due Camere;
 
@@ -82,7 +82,7 @@ Il consiglio direttivo, nominato dal Ministro della pubblica istruzione, e' comp
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 23 luglio 1999, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-23;296) ha disposto (con l'art. 13 comma 3) che: "Il termine del mandato del Consiglio per le ricerche astronomiche (CRA), di cui all'[articolo 4 del decreto del Presidente della Repubblica n. 163 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;163#art_4), e' differito sino alla data di insediamento del consiglio direttivo dell'INAF; a tale data il CRA e' soppresso e le sue funzioni sono esercitate dal consiglio direttivo dell'INAF fino alla data di cui al primo periodo del presente comma.
+Il [D. Lgs. 23 luglio 1999, n. 296](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dellIstituto%20nazionale%20di%20astrofisica%20-%20INAF%20a%20norma%20dellart.%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 13 comma 3) che: "Il termine del mandato del Consiglio per le ricerche astronomiche (CRA), di cui all'[articolo 4 del decreto del Presidente della Repubblica n. 163 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;163#art_4), e' differito sino alla data di insediamento del consiglio direttivo dell'INAF; a tale data il CRA e' soppresso e le sue funzioni sono esercitate dal consiglio direttivo dell'INAF fino alla data di cui al primo periodo del presente comma.
 
 ### Art. 5. — Attribuzione e funzionamento del consiglio direttivo
 

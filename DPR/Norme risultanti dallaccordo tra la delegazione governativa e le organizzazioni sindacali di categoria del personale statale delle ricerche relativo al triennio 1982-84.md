@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 3 novembre 1982, n. 905](Corre
 
 Visto il [decreto del Presidente della Repubblica 19 luglio 1984, n. 571](Norme%20risultanti%20dalla%20disciplina%20prevista%20dagli%20accordi%20del%2027%20aprile%201984%20e%20del%2027%20giugno%201984%20per%20il%20personale%20non%20docente%20delle%20Universita%20e%20di%20analoghe%20istituzioni.md), concernente i miglioramenti economici al personale non docente delle Universita';
 
-Vista la [legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1985);
+Vista la [legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1985);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 gennaio 1985, con la quale e' stata autorizzata, previa verifica delle compatibilita' finanziarie, la sottoscrizione dell'accordo raggiunto il 20 dicembre 1984, relativamente al triennio 1982-1984, tra la delegazione governativa e le organizzazioni sindacali di categoria in rappresentanza del personale statale delle ricerche;
 

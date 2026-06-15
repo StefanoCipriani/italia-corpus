@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268), concernente delega al Governo per il conglobamento del trattamento economico del personale statale in attivita' di servizio ed in quiescenza;
+Vista la [legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md), concernente delega al Governo per il conglobamento del trattamento economico del personale statale in attivita' di servizio ed in quiescenza;
 
 Sentito il Consiglio dei Ministri;
 

@@ -36,7 +36,7 @@ La quota annuale dovuta dagli iscritti all'albo nazionale degli spedizionieri do
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 16 dicembre 1980, n. 992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-16;992) ha disposto (con l'art. 1) che "La quota annuale dovuta dagli iscritti all'albo nazionale degli spedizionieri doganali, stabilita dal [decreto del Presidente della Repubblica 16 gennaio 1978, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-16;48), e' elevata da lire cinquantamila a lire centomila a decorrere dal 1 gennaio 1981".
+Il [D.P.R. 16 dicembre 1980, n. 992](Aumento%20da%20cinquantamila%20a%20centomila%20lire%20con%20decorrenza%201%20gennaio%201981%20della%20misura%20della%20quota%20annuale%20dovuta%20dagli%20iscritti%20allalbo%20nazionale%20degli%20spedizionieri%20doganali%20a%20norma%20della_5331641552e1.md) ha disposto (con l'art. 1) che "La quota annuale dovuta dagli iscritti all'albo nazionale degli spedizionieri doganali, stabilita dal [decreto del Presidente della Repubblica 16 gennaio 1978, n. 48](Aumento%20della%20quota%20annuale%20dovuta%20ai%20sensi%20della%20legge%2022%20dicembre%201960%20n.%201612%20dagli%20iscritti%20allalbo%20nazionale%20degli%20spedizionieri%20doganali.md), e' elevata da lire cinquantamila a lire centomila a decorrere dal 1 gennaio 1981".
 
  Dato a Roma, addi' 16 gennaio 1978
 

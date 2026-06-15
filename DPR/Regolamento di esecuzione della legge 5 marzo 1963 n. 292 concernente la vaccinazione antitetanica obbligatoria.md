@@ -45,7 +45,7 @@ Per le persone indicate nell'articolo precedente sono rese obbligatorie la vacci
 
 AGGIORNAMENTO (1)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 93, comma 1) che "Al fine di razionalizzare alcuni interventi di medicina preventiva e di uniformare la legislazione italiana a quella degli altri Stati membri dell'Unione europea, a decorrere dalla data di entrata in vigore del regolamento di cui al comma 2", e' abrogato "l'[articolo 2, quarto comma, del decreto del Presidente della Repubblica 7 settembre 1965, n. 1301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-09-07;1301#art_2-com4)".
+La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 93, comma 1) che "Al fine di razionalizzare alcuni interventi di medicina preventiva e di uniformare la legislazione italiana a quella degli altri Stati membri dell'Unione europea, a decorrere dalla data di entrata in vigore del regolamento di cui al comma 2", e' abrogato "l'[articolo 2, quarto comma, del decreto del Presidente della Repubblica 7 settembre 1965, n. 1301](Regolamento%20di%20esecuzione%20della%20legge%205%20marzo%201963%20n.%20292%20concernente%20la%20vaccinazione%20antitetanica%20obbligatoria.md)".
 
 ## Art. 3.
 

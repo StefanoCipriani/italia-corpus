@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 3 del decreto 8 gennaio 1949, n. 2, recante norme per la prima elezione del Consiglio della Valle d'Aosta;
 
-Visto l'[art. 49 della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_49), concernente lo Statuto speciale per la Valle d'Aosta;
+Visto l'[art. 49 della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), concernente lo Statuto speciale per la Valle d'Aosta;
 
 Sentito il Consiglio dei Ministri;
 

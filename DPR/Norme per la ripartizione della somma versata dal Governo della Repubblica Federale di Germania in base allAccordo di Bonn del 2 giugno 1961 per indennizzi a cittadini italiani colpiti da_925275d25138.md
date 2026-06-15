@@ -95,7 +95,7 @@ L'esame delle domande deve essere ultimato dalla Commissione entro un anno dalla
 
 AGGIORNAMENTO (1)
 
-La [L. 6 agosto 1966, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-08-06;646) ha disposto (con l'art. 2, comma 1) che "I termini previsti dall'[articolo 8 del decreto del Presidente della Repubblica 6 ottobre 1963, n. 2043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-10-06;2043#art_8), per l'esame delle domande e per la redazione degli elenchi delle istanze accolte, sono prorogati fino alla scadenza di un anno dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale".
+La [L. 6 agosto 1966, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-08-06;646) ha disposto (con l'art. 2, comma 1) che "I termini previsti dall'[articolo 8 del decreto del Presidente della Repubblica 6 ottobre 1963, n. 2043](Norme%20per%20la%20ripartizione%20della%20somma%20versata%20dal%20Governo%20della%20Repubblica%20Federale%20di%20Germania%20in%20base%20allAccordo%20di%20Bonn%20del%202%20giugno%201961%20per%20indennizzi%20a%20cittadini%20italiani%20colpiti%20da_925275d25138.md), per l'esame delle domande e per la redazione degli elenchi delle istanze accolte, sono prorogati fino alla scadenza di un anno dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale".
 
 ## Art. 9.
 

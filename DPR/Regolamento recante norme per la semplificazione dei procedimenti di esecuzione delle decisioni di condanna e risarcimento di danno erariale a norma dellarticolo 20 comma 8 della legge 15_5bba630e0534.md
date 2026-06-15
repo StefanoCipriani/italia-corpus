@@ -74,7 +74,7 @@ I crediti liquidati ed ogni altra somma connessa ai medesimi sono iscritti in ap
 
 1.
 
-Ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e dell'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), dalla data di entrata in vigore del presente regolamento e' abrogato il [regio decreto 5 settembre 1909, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md).
+Ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e dell'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento e' abrogato il [regio decreto 5 settembre 1909, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md).
 
 2.
 

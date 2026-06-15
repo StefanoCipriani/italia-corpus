@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.i
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduto il [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), ratificato con [legge 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md);
+Veduto il [decreto legislativo 23 marzo 1948, n. 265](../Decreti%20Legislativi/Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), ratificato con [legge 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del predetto Istituto;
 
@@ -60,7 +60,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
- Veduto il [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), ratificato con [legge 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md);
+ Veduto il [decreto legislativo 23 marzo 1948, n. 265](../Decreti%20Legislativi/Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), ratificato con [legge 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md);
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del predetto Istituto;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

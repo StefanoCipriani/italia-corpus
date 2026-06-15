@@ -47,7 +47,7 @@ La tessera personale di riconoscimento e' documento valido ai fini dell'identita
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 13 novembre 1976, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-13;904) ha disposto (con l'art. 4, comma 1) che "Il limite di L. 600.000 di cui alla [lettera a) dell'art. 2 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-28;851#art_2-leta), e' elevato a lire 2.400.000".
+Il [D.P.R. 13 novembre 1976, n. 904](Modificazioni%20agli%20articoli%2048%20primo%20comma%20250%20e%20420%20quarto%20comma%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto_78f444a457f6.md) ha disposto (con l'art. 4, comma 1) che "Il limite di L. 600.000 di cui alla [lettera a) dell'art. 2 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851](Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), e' elevato a lire 2.400.000".
 
 ## Art. 3.
 
@@ -59,7 +59,7 @@ La tessera personale di riconoscimento e' valida per cinque anni e puo' essere c
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md), ha disposto (con l'art. 7, comma 3) che "Le tessere di riconoscimento rilasciate dalle amministrazioni dello Stato ai sensi del [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-28;851), hanno durata decennale."
+Il [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md), ha disposto (con l'art. 7, comma 3) che "Le tessere di riconoscimento rilasciate dalle amministrazioni dello Stato ai sensi del [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), hanno durata decennale."
 
 ## Art. 4.
 

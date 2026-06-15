@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Vista la [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), ed in particolare l'art. 4 e l'allegato C;
+Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare l'art. 4 e l'allegato C;
 
 Vista la [direttiva 92/42/CEE, del Consiglio del 21 maggio 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;42), concernente i requisiti di rendimento per le nuove caldaie ad acqua calda alimentate con combustibili liquidi o gassosi;
 
@@ -52,7 +52,7 @@ Note alle premesse:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge.
  Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
- - La [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), concerne le disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1993. L'art. 4 della suddetta legge cosi' recita:
+ - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), concerne le disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1993. L'art. 4 della suddetta legge cosi' recita:
  "Art. 4. (Attuazione di direttive comunitarie in via regolamentare). - 1. Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3, comma 1, lettera c), e 4 della [legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le direttive comprese nell'elenco di cui all'allegato C, applicando anche il disposto dell'articolo 5, comma 1, della medesima legge n. 86, del 1989.
  2. Gli schemi di regolamento per l'attuazione delle direttive comprese nell'elenco di cui all'allegato D sono sottoposti al parere delle competenti Commissioni parlamentari ai sensi dell'[articolo 4, comma 4, della legge 9 marzo 1989, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;36#art_4-com4), come sostituito dall'articolo 3 della presente legge".
  - L'allegato C della suddetta legge cosi' recita:

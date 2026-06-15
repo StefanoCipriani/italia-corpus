@@ -16,7 +16,7 @@ Visto l'[art. 2 della legge 14 dicembre 1976, n. 847](../Atti%20normativi%20abro
 
 Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
-Visto l'[art. 2 della legge 23 gennaio 1968, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-23;29#art_2);
+Visto l'[art. 2 della legge 23 gennaio 1968, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concessione%20di%20delega%20legislativa%20per%20la%20modifica%20e%20laggiornamento%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
 Visto l'art. 1 del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, firmato ad Osimo il 10 novembre 1975 e ratificato con la [legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md);
 

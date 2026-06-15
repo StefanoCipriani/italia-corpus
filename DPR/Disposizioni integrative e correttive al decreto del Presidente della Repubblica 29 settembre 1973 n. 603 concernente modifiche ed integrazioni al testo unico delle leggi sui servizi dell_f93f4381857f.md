@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
@@ -24,9 +24,9 @@ Vista la [legge 2 dicembre 1975, n. 576](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114);
 
-Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive del [decreto del Presidente della Repubblica 29 settembre 1973, n. 603](Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), concernente modifiche ed integrazioni al testo unico delle leggi sui servizi della riscossione delle imposte dirette approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
+Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), norme integrative e correttive del [decreto del Presidente della Repubblica 29 settembre 1973, n. 603](Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), concernente modifiche ed integrazioni al testo unico delle leggi sui servizi della riscossione delle imposte dirette approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
 
-Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
+Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -71,7 +71,7 @@ In alternativa all'integrazione d'aggio prevista nello art. 1 del presente decre
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 18 ottobre 1983, n. 568](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20delle%20gestioni%20esattoriali%20e%20delle%20ricevitorie%20provinciali%20delle%20imposte%20dirette%20nonche%20delle%20tesorerie%20comunali%20e%20provinciali.md) convertito con modificazioni dalla [L. 9 dicembre 1983, n.681](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%201983%20n.%20568%20recante%20proroga%20delle%20gestioni%20esattoriali%20e%20delle%20ricevitorie%20provinciali%20delle%20imposte%20dirette%20nonche%20del_e0c54d89c6c2.md) ha disposto (con l'art. 3) che "Ai fini del calcolo dell'indennita' prevista dall'[articolo 3 del decreto del Presidente della Repubblica 23 dicembre 1977, n. 954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-23;954#art_3), per il 1984 la maggior somma di cui alla lettera a) del primo comma del medesimo articolo deve intendersi riferita al costo del personale 
+Il [D.L. 18 ottobre 1983, n. 568](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20delle%20gestioni%20esattoriali%20e%20delle%20ricevitorie%20provinciali%20delle%20imposte%20dirette%20nonche%20delle%20tesorerie%20comunali%20e%20provinciali.md) convertito con modificazioni dalla [L. 9 dicembre 1983, n.681](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%201983%20n.%20568%20recante%20proroga%20delle%20gestioni%20esattoriali%20e%20delle%20ricevitorie%20provinciali%20delle%20imposte%20dirette%20nonche%20del_e0c54d89c6c2.md) ha disposto (con l'art. 3) che "Ai fini del calcolo dell'indennita' prevista dall'[articolo 3 del decreto del Presidente della Repubblica 23 dicembre 1977, n. 954](Disposizioni%20integrative%20e%20correttive%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20603%20concernente%20modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20dell_f93f4381857f.md), per il 1984 la maggior somma di cui alla lettera a) del primo comma del medesimo articolo deve intendersi riferita al costo del personale 
 effettivamente in servizio al 30 settembre 1983."
 
 ## Art. 4.

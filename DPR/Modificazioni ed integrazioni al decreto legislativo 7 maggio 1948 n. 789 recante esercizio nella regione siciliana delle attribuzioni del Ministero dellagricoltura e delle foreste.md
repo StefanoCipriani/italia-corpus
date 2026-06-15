@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo statuto della regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo statuto della regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Viste le determinazioni della commissione paritetica prevista dall'art. 43 dello statuto della regione;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-L'[art. 1 del decreto legislativo 7 maggio 1948, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;789#art_1), e' sostituito dal seguente: 
+L'[art. 1 del decreto legislativo 7 maggio 1948, n. 789](../Decreti%20Legislativi/Esercizio%20nella%20Regione%20siciliana%20delle%20attribuzioni%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md), e' sostituito dal seguente: 
  "Le attribuzioni degli organi centrali e periferici dello Stato in materia di agricoltura e foreste nel territorio della regione siciliana sono esercitate dall'Amministrazione regionale ai sensi dell'art. 20 ed in relazione all'art. 14, lettere a), b), c), e) e l) dello statuto della regione siciliana. 
  Rientrano nelle attribuzioni di cui al precedente comma quelle concernenti la promozione e l'orientamento dei consumi alimentari, la rilevazione e il controllo dei dati sul fabbisogno alimentare, nonche' l'attuazione degli interventi per la regolazione dei mercati, gia' esercitati dall'amministrazione statale in Sicilia, che non siano attribuiti all'Azienda di Stato per gli interventi sul mercato agricolo in seno alla Comunita' economica europea. 
  Sono altresi' esercitate dall'amministrazione regionale: 
@@ -34,12 +34,12 @@ L'[art. 1 del decreto legislativo 7 maggio 1948, n. 789](https://www.normattiva.
 
 ## Art. 2.
 
-Al [primo comma, lettera a), dell'art. 2 del decreto legislativo 7 maggio 1948, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;789#art_2-com1-leta), e' aggiunta la seguente disposizione:
+Al [primo comma, lettera a), dell'art. 2 del decreto legislativo 7 maggio 1948, n. 789](../Decreti%20Legislativi/Esercizio%20nella%20Regione%20siciliana%20delle%20attribuzioni%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md), e' aggiunta la seguente disposizione:
  "Per l'esercizio delle attribuzioni spettanti alla regione in forza del secondo e terzo comma dell'art. 1 del presente decreto, passano alle dipendenze della regione siciliana ed entrano a far parte integrante della sua organizzazione amministrativa gli uffici periferici del Ministero dell'agricoltura e delle foreste in materia di alimentazione, nonche' gli uffici del Commissariato generale anticoccidico e per la lotta contro il malsecco esistenti in Sicilia e gli uffici dell'Ente utenti motori agricoli (U.M.A.).
  Il trasferimento alla regione dei predetti uffici comporta la successione allo Stato nei diritti ed obblighi inerenti alle sedi degli uffici stessi, agli immobili in proprieta' e ai relativi arredamenti.
  La consistenza degli arredi, delle macchine e delle attrezzature nonche' dei diritti ed obblighi ad essi inerenti, sara' fatto constare con verbali redatti in contraddittorio da funzionari a cio' espressamente delegati rispettivamente dalla regione e dalle amministrazioni interessate.
  La regione, nell'esercizio delle funzioni alla stessa spettanti a norma del presente decreto, si avvale anche del personale dello Stato in servizio presso gli uffici trasferiti con i precedenti comma, in posizione di comando, sino all'emanazione delle norme integrative del presente decreto relative al passaggio del personale suddetto dallo Stato alla regione.
- Nell'ipotesi che dette norme non siano state ancora emanate, il personale stesso, salvo che non abbia chiesto di rimanere nei ruoli statali, e' trasferito alla regione all'atto dell'entrata in vigore delle norme che regoleranno i rapporti finanziari definitivi tra lo Stato e la regione, ai sensi dell'[art. 12 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_12).
+ Nell'ipotesi che dette norme non siano state ancora emanate, il personale stesso, salvo che non abbia chiesto di rimanere nei ruoli statali, e' trasferito alla regione all'atto dell'entrata in vigore delle norme che regoleranno i rapporti finanziari definitivi tra lo Stato e la regione, ai sensi dell'[art. 12 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md).
  Al personale trasferito alla regione a norma del comma precedenti e' fatta salva la posizione giuridica ed economica acquisita all'atto del passaggio.
  In corrispondenza del trasferimento alla regione del personale di cui al comma precedenti i ruoli organici statali vengono contestualmente ridotti con decorrenza dalla data del trasferimento medesimo.
  La regione si avvale del personale in servizio presso gli uffici dell'Ente utenti motori agricoli alla data dell'entrata in vigore del presente decreto e assunto ai sensi del [regio decreto 26 luglio 1935, n. 1534](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20di%20assistenza%20Utenti%20Motori%20Agricoli%20U.M.A..%20035U1534.md), e successive modifiche.
@@ -48,7 +48,7 @@ Al [primo comma, lettera a), dell'art. 2 del decreto legislativo 7 maggio 1948, 
 
 ## Art. 3.
 
-Il [secondo comma dell'art. 2 del decreto legislativo 7 maggio 1948, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;789#art_2-com2), e' sostituito dai seguenti: 
+Il [secondo comma dell'art. 2 del decreto legislativo 7 maggio 1948, n. 789](../Decreti%20Legislativi/Esercizio%20nella%20Regione%20siciliana%20delle%20attribuzioni%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md), e' sostituito dai seguenti: 
  "Nulla e' innovato per quanto riguarda la vigilanza e la tutela sugli enti ed organismi a carattere nazionale e interregionale operanti in agricoltura; tuttavia nei confronti degli uffici di detti enti ed organismi esistenti e operanti in Sicilia l'amministrazione regionale potra' svolgere le funzioni amministrative di cui all'art. 20 dello statuto della regione siciliana secondo le direttive del Governo dello Stato. 
  L'Amministrazione regionale ha la facolta' di avvalersi degli uffici e degli organi consultivi operanti nel settore e non trasferiti all'Amministrazione regionale; uguale facolta' ha l'amministrazione dello Stato nei confronti degli uffici e degli organi della regione".
 

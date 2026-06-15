@@ -22,7 +22,7 @@ Visto l'[art. 26 della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri
 
 Vista la [legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1983);
 
-Vista la [legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1984);
+Vista la [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1984);
 
 Vista la [legge 29 dicembre 1983, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-29;744), concernente approvazione del bilancio di previsione dello Stato per l'anno finanziario 1984 e del bilancio pluriennale per il triennio 1984-86;
 

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduta la [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477);
+ Veduta la [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
  Veduto il [decreto del Presidente della Repubblica 31 maggio 1974, n. 419](Sperimentazione%20e%20ricerca%20educativa%20aggiornamento%20culturale%20e%20professionale%20ed%20istituzione%20dei%20relativi%20istituti.md), e, in particolare, l'art. 21;
  Veduto lo statuto deliberato dal consiglio direttivo dell'Istituto regionale di ricerca, sperimentazione e aggiornamento educativi del Lazio;
  Udito il parere n. 2066/86 reso dal Consiglio di Stato - sezione II, in data 5 novembre 1986;

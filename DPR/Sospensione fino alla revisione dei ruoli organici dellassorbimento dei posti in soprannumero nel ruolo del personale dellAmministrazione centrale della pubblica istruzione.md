@@ -13,13 +13,13 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
- Visto l'[art. 5 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_5), recante delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+ Visto l'[art. 5 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), recante delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per la pubblica istruzione e per il tesoro;
 
  Decreta:
 
- Dal 1 gennaio 1956 e fino all'entrata in vigore dei provvedimenti delegati concernenti la revisione degli organici degli impiegati civili dello Stato, di cui all'[art. 5 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_5), e' sospeso il riassorbimento dei seguenti posti in soprannumero, nel ruolo organico del personale di carriera amministrativa (gruppo A) dell'Amministrazione centrale della pubblica istruzione:
+ Dal 1 gennaio 1956 e fino all'entrata in vigore dei provvedimenti delegati concernenti la revisione degli organici degli impiegati civili dello Stato, di cui all'[art. 5 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), e' sospeso il riassorbimento dei seguenti posti in soprannumero, nel ruolo organico del personale di carriera amministrativa (gruppo A) dell'Amministrazione centrale della pubblica istruzione:
  un posto di grado 5°
  un posto di grado 6°
  quattro posti di grado 7°.

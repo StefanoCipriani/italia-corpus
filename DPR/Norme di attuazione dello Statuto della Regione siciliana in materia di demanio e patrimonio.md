@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo Statuto della Regione siciliana, approvato con [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo Statuto della Regione siciliana, approvato con [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-La Regione siciliana esercita nell'ambito del proprio territorio, a norma degli articoli 20, 32 e 33 dello Statuto approvato con il [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2), le attribuzioni del Ministero delle finanze relativamente ai beni ad essa assegnati.
+La Regione siciliana esercita nell'ambito del proprio territorio, a norma degli articoli 20, 32 e 33 dello Statuto approvato con il [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), le attribuzioni del Ministero delle finanze relativamente ai beni ad essa assegnati.
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ La individuazione dei beni di cui ai precedenti articoli sara' effettuata entra 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 30 agosto 1975, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-08-30;635) ha disposto (con l'art. 8, comma 1) che " Il termine previsto dal [primo comma, art. 5 del decreto del Presidente della Repubblica 1 dicembre 1961, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-01;1825#art_5-com1), e' elevato ad anni due e decorre dalla data di entrata in vigore del presente decreto." La madesima modifica e' disposta (con l'art. 7, comma 1) anche dal [D.P.R. 30 agosto 1975, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-08-30;637).
+Il [D.P.R. 30 agosto 1975, n. 635](Norme%20di%20attuazione%20dello%20statuto%20della%20regione%20siciliana%20in%20materia%20di%20accademie%20e%20biblioteche.md) ha disposto (con l'art. 8, comma 1) che " Il termine previsto dal [primo comma, art. 5 del decreto del Presidente della Repubblica 1 dicembre 1961, n. 1825](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20demanio%20e%20patrimonio.md), e' elevato ad anni due e decorre dalla data di entrata in vigore del presente decreto." La madesima modifica e' disposta (con l'art. 7, comma 1) anche dal [D.P.R. 30 agosto 1975, n. 637](Norme%20di%20attuazione%20dello%20statuto%20della%20regione%20siciliana%20in%20materia%20di%20tutela%20del%20paesaggio%20e%20di%20antichita%20e%20belle%20arti.md).
 
 ## Art. 6.
 

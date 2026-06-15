@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -110,7 +110,7 @@ Il D. Lgs. 26 febbario 1999 n. 60 ha disposto (con l'art. 22 comma 1) che le dis
 
 1.
 
-In caso di intrattenimenti ed altre attivita' i cui introiti sono destinati a enti pubblici ed organizzazioni non lucrative di utilita' sociale di cui all'[articolo 10 del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_10), per essere utilizzati a fini di beneficenza, la base imponibile relativa a tali introiti, e' ridotta del 50 per cento. Tale riduzione e' riconosciuta purche' gli intrattenimenti, a tal fine organizzati da un medesimo soggetto, non superino nel corso dell'anno dodici giornate di attivita'.
+In caso di intrattenimenti ed altre attivita' i cui introiti sono destinati a enti pubblici ed organizzazioni non lucrative di utilita' sociale di cui all'[articolo 10 del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), per essere utilizzati a fini di beneficenza, la base imponibile relativa a tali introiti, e' ridotta del 50 per cento. Tale riduzione e' riconosciuta purche' gli intrattenimenti, a tal fine organizzati da un medesimo soggetto, non superino nel corso dell'anno dodici giornate di attivita'.
 
 2.
 
@@ -118,13 +118,13 @@ I fondi raccolti, dedotte le spese e comunque in misura non inferiore ai due ter
 
 3.
 
-L'agevolazione spetta a condizione che l'organizzatore presenti preventivamente la dichiarazione prevista all'ufficio accertatore e rediga un apposito rendiconto dal quale risultino le entrate e le spese relative a ciascuna iniziativa, tenuto e conservato ai sensi dell'[articolo 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_22).
+L'agevolazione spetta a condizione che l'organizzatore presenti preventivamente la dichiarazione prevista all'ufficio accertatore e rediga un apposito rendiconto dal quale risultino le entrate e le spese relative a ciascuna iniziativa, tenuto e conservato ai sensi dell'[articolo 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md).
 
 4.
 
 Se la manifestazione di beneficenza viene organizzata da enti pubblici, l'imposta non e' dovuta, purche' siano rispettate tutte le condizioni indicate nei commi da 1 a 3.
 
-5. Restano ferme le disposizioni agevolative previste dal [decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460), per le attivita' di intrattenimento di cui alla tariffa allegata al presente decreto svolte in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione alle condizioni e nel rispetto degli adempimenti ivi previsti.))
+5. Restano ferme le disposizioni agevolative previste dal [decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), per le attivita' di intrattenimento di cui alla tariffa allegata al presente decreto svolte in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione alle condizioni e nel rispetto degli adempimenti ivi previsti.))
 
 ---------------
 
@@ -151,7 +151,7 @@ Il Ministero delle finanze, con proprio decreto, in considerazione di particolar
 
 I titoli di accesso possono essere emessi mediante sistemi elettronici centralizzati gestiti anche da terzi; il Ministero delle finanze con proprio decreto stabilisce i criteri e le modalita' per l'applicazione dell'imposta relativamente ai titoli di accesso emessi mediante sistemi elettronici centralizzati, nonche' per i relativi controlli.(8)
 
-((3-bis. I soggetti che hanno optato ai sensi della [legge 16 dicembre 1991, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-16;398), nonche' le associazioni di promozione sociale di cui all'[articolo 5 del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_5), per le attivita' di intrattenimento a favore dei soci sono esonerati dall'obbligo di utilizzare i misuratori fiscali di cui al presente articolo))
+((3-bis. I soggetti che hanno optato ai sensi della [legge 16 dicembre 1991, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-16;398), nonche' le associazioni di promozione sociale di cui all'[articolo 5 del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), per le attivita' di intrattenimento a favore dei soci sono esonerati dall'obbligo di utilizzare i misuratori fiscali di cui al presente articolo))
 
 ---------------
 
@@ -235,7 +235,7 @@ Il D. Lgs. 26 febbario 1999 n. 60 ha disposto (con l'art. 22 comma 1) che le dis
 
 1.
 
-Per gli apparecchi e congegni per il gioco lecito di cui all'[articolo 110 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_110), di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni, il pagamento delle imposte, determinate sulla base dell'imponibile medio forfetario annuo di cui ai commi 2 e 3, e' effettuato in unica soluzione, con le modalita' stabilite dall'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), e successive modificazioni, entro il 16 marzo di ogni anno ovvero entro il giorno 16 del mese successivo a quello di prima installazione per gli apparecchi e congegni installati dopo il 1 marzo. ((A decorrere dal 1 gennaio 2004, le disposizioni di cui al precedente periodo si applicano, esclusivamente, agli apparecchi e congegni per il gioco lecito di cui all'articolo 110, comma 7, del citato testo unico.)) Entro il 21 marzo 2003 gli apparecchi e congegni automatici, semiautomatici ed elettronici per il gioco lecito, come definiti ai sensi dell'articolo 110, comma 7, del predetto testo unico, installati prima del 1 gennaio 2003, devono essere denunciati, con apposito modello approvato con decreto dirigenziale, al Ministero dell'economia e delle finanze - Amministrazione autonoma dei Monopoli di Stato, che rilascia apposito nulla osta, per ciascun apparecchio, a condizione del contestuale pagamento delle imposte dovute previa dimostrazione, nelle forme di cui all'[articolo 38 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_38), e successive modificazioni, della sussistenza dei requisiti tecnici previsti dal citato articolo 110. In tal caso, nell'ipotesi di pagamento entro la predetta data del 21 marzo 2003 degli importi dovuti per l'anno 2003, nulla e' dovuto per gli anni precedenti e non si fa luogo al rimborso di eventuali somme gia' pagate a tale titolo. In caso di inadempimento delle prescrizioni di cui al secondo e terzo periodo, gli apparecchi ivi indicati sono confiscati e, nel caso in cui i proprietari e gestori siano soggetti concessionari dell'Amministrazione autonoma dei Monopoli di Stato ovvero titolari di autorizzazione di polizia ai sensi dell'[articolo 88 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_88), si provvede al ritiro del relativo titolo.
+Per gli apparecchi e congegni per il gioco lecito di cui all'[articolo 110 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_110), di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni, il pagamento delle imposte, determinate sulla base dell'imponibile medio forfetario annuo di cui ai commi 2 e 3, e' effettuato in unica soluzione, con le modalita' stabilite dall'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e successive modificazioni, entro il 16 marzo di ogni anno ovvero entro il giorno 16 del mese successivo a quello di prima installazione per gli apparecchi e congegni installati dopo il 1 marzo. ((A decorrere dal 1 gennaio 2004, le disposizioni di cui al precedente periodo si applicano, esclusivamente, agli apparecchi e congegni per il gioco lecito di cui all'articolo 110, comma 7, del citato testo unico.)) Entro il 21 marzo 2003 gli apparecchi e congegni automatici, semiautomatici ed elettronici per il gioco lecito, come definiti ai sensi dell'articolo 110, comma 7, del predetto testo unico, installati prima del 1 gennaio 2003, devono essere denunciati, con apposito modello approvato con decreto dirigenziale, al Ministero dell'economia e delle finanze - Amministrazione autonoma dei Monopoli di Stato, che rilascia apposito nulla osta, per ciascun apparecchio, a condizione del contestuale pagamento delle imposte dovute previa dimostrazione, nelle forme di cui all'[articolo 38 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e successive modificazioni, della sussistenza dei requisiti tecnici previsti dal citato articolo 110. In tal caso, nell'ipotesi di pagamento entro la predetta data del 21 marzo 2003 degli importi dovuti per l'anno 2003, nulla e' dovuto per gli anni precedenti e non si fa luogo al rimborso di eventuali somme gia' pagate a tale titolo. In caso di inadempimento delle prescrizioni di cui al secondo e terzo periodo, gli apparecchi ivi indicati sono confiscati e, nel caso in cui i proprietari e gestori siano soggetti concessionari dell'Amministrazione autonoma dei Monopoli di Stato ovvero titolari di autorizzazione di polizia ai sensi dell'[articolo 88 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_88), si provvede al ritiro del relativo titolo.
 
 2.
 
@@ -292,7 +292,7 @@ Con decreti del Ministero dell'economia e delle finanze - Amministrazione autono
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 30 dicembre 2008, n.207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) ha disposto (con l'art. 42 coma 4) che "Per l'anno 2006, il termine di cui all'[articolo 14-ter, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640#art_14ter-com1), e' fissato al 30 giugno 2009."
+Il [D.L. 30 dicembre 2008, n.207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) ha disposto (con l'art. 42 coma 4) che "Per l'anno 2006, il termine di cui all'[articolo 14-ter, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](Imposta%20sugli%20spettacoli.md), e' fissato al 30 giugno 2009."
 
 ### Art. 14-quater. — (Iscrizione a ruolo delle somme dovute a seguito
  dei controlli automatici)
@@ -307,13 +307,13 @@ Le cartelle di pagamento recanti i ruoli di cui al comma 1 devono essere notific
 
 3.
 
-L'iscrizione a ruolo non e' eseguita, in tutto o in parte, se il contribuente provvede a pagare, con le modalita' indicate nell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), e successive modificazioni, le somme dovute, entro trenta giorni dal ricevimento della comunicazione prevista dall'articolo 14-ter, comma 2, ovvero della comunicazione definitiva contenente la rideterminazione, in sede di autotutela, delle somme dovute, a seguito dei chiarimenti forniti dal contribuente. In questi casi, l'ammontare delle sanzioni amministrative previste e' ridotto ad un terzo e gli interessi sono dovuti fino all'ultimo giorno del mese antecedente a quello dell'elaborazione della comunicazione.
+L'iscrizione a ruolo non e' eseguita, in tutto o in parte, se il contribuente provvede a pagare, con le modalita' indicate nell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e successive modificazioni, le somme dovute, entro trenta giorni dal ricevimento della comunicazione prevista dall'articolo 14-ter, comma 2, ovvero della comunicazione definitiva contenente la rideterminazione, in sede di autotutela, delle somme dovute, a seguito dei chiarimenti forniti dal contribuente. In questi casi, l'ammontare delle sanzioni amministrative previste e' ridotto ad un terzo e gli interessi sono dovuti fino all'ultimo giorno del mese antecedente a quello dell'elaborazione della comunicazione.
 
 ---------------
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 30 dicembre 2008, n.207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) ha disposto (con l'art. 42 coma 4) che "i termini di cui all'[articolo 14-quater, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640#art_14quater-com1) e [2, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640#art_14quater-com2), sono fissati rispettivamente al 30 giugno 2010 ed al 30 giugno 2011."
+Il [D.L. 30 dicembre 2008, n.207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) ha disposto (con l'art. 42 coma 4) che "i termini di cui all'[articolo 14-quater, commi 1](Imposta%20sugli%20spettacoli.md) e [2, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](Imposta%20sugli%20spettacoli.md), sono fissati rispettivamente al 30 giugno 2010 ed al 30 giugno 2011."
 
 ### Art. 14-quinquies. — (((Disposizioni in materia di recupero dell'IVA
  sugli intrattenimenti)
@@ -345,7 +345,7 @@ Il Ministro per le finanze puo' affidare, per il tempo e alle condizioni di cui 
 
 AGGIORNAMENTO (8)
 
-Il [D. Lgs. 26 febbraio 1999 n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-02-26;60) ha disposto (con l'art. 11 comma 2) che "La convenzione con il concessionario di cui all'[articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640#art_17), e' prorogata sino al 31 dicembre 1999, ferme restando le percentuali di aggio fissate per il 1997 e con esclusione di qualunque procedura di adeguamento delle medesime"; ha inoltre disposto (con l'art. 22 comma 1) che le disposizioni del presente decreto ad esclusione di quelle recate dall'articolo 11, comma 2, si applicano dal 1 gennaio 2000".
+Il [D. Lgs. 26 febbraio 1999 n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dellimposta%20sugli%20intrattenimenti%20in%20attuazione%20della%20legge%203%20agosto%201998%20n.%20288%20nonche%20modifiche%20alla%20disciplina%20dellimposta%20sugli%20spettacoli%20di%20cui%20ai%20decreti%20del%20Presidente_b541acdbe1db.md) ha disposto (con l'art. 11 comma 2) che "La convenzione con il concessionario di cui all'[articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](Imposta%20sugli%20spettacoli.md), e' prorogata sino al 31 dicembre 1999, ferme restando le percentuali di aggio fissate per il 1997 e con esclusione di qualunque procedura di adeguamento delle medesime"; ha inoltre disposto (con l'art. 22 comma 1) che le disposizioni del presente decreto ad esclusione di quelle recate dall'articolo 11, comma 2, si applicano dal 1 gennaio 2000".
 
 ### Art. 18. — Vigilanza
 
@@ -474,11 +474,11 @@ TITOLO IV
 
 1.
 
-Per l'omessa fatturazione o annotazione delle operazioni indicate nell'[articolo 1, comma 1, del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-30;544#art_1-com1), si applica la sanzione ((pari al sessanta)) per cento dell'imposta relativa all'imponibile non correttamente documentato o registrato, con un minimo di euro ((300)). Alla stessa sanzione, commisurata all'imposta, e' soggetto chi indica nella documentazione o nell'annotazione un'imposta inferiore a quella dovuta. La sanzione e' dovuta nella misura da euro 250 a euro 2.000 quando la violazione non ha inciso sulla corretta liquidazione del tributo. (21) (22)((23))
+Per l'omessa fatturazione o annotazione delle operazioni indicate nell'[articolo 1, comma 1, del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md), si applica la sanzione ((pari al sessanta)) per cento dell'imposta relativa all'imponibile non correttamente documentato o registrato, con un minimo di euro ((300)). Alla stessa sanzione, commisurata all'imposta, e' soggetto chi indica nella documentazione o nell'annotazione un'imposta inferiore a quella dovuta. La sanzione e' dovuta nella misura da euro 250 a euro 2.000 quando la violazione non ha inciso sulla corretta liquidazione del tributo. (21) (22)((23))
 
 2.
 
-Per l'omessa presentazione della dichiarazione prescritta dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-30;544#art_2) e [3 del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-30;544#art_3), o per la presentazione della stessa con indicazione di importi inferiori a quelli reali si applica la sanzione ((pari al novanta)) per cento dell'imposta o della maggiore imposta dovuta, con un minimo di euro 250. Se la dichiarazione di cui all'articolo 2 e quella di cui all'[articolo 3 del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-30;544#art_3), da presentarsi, rispettivamente, entro dieci giorni dalla fine di ciascun anno sociale, ed entro il quinto giorno successivo al termine della data della manifestazione, sono presentate con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa ((del quarantacinque)) dell'ammontare dell'imposta con un minimo di 150 euro. (21)(22)((23))
+Per l'omessa presentazione della dichiarazione prescritta dagli [articoli 2](Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md) e [3 del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md), o per la presentazione della stessa con indicazione di importi inferiori a quelli reali si applica la sanzione ((pari al novanta)) per cento dell'imposta o della maggiore imposta dovuta, con un minimo di euro 250. Se la dichiarazione di cui all'articolo 2 e quella di cui all'[articolo 3 del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md), da presentarsi, rispettivamente, entro dieci giorni dalla fine di ciascun anno sociale, ed entro il quinto giorno successivo al termine della data della manifestazione, sono presentate con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa ((del quarantacinque)) dell'ammontare dell'imposta con un minimo di 150 euro. (21)(22)((23))
 
 3.
 
@@ -488,19 +488,19 @@ Per il mancato rilascio dei titoli di accesso o dei documenti di cercificazione 
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 33. — (Altre violazioni)
 
@@ -522,7 +522,7 @@ Si applica la sanzione da euro 250 a euro 1.000 per: (21) (22)
                             g)
                                 l'omessa o infedele fornitura dei dati di cui all'[articolo 74-quater, comma 6, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md);
                             h)
-                                l'omessa o infedele comunicazione del numero e degli importi degli abbonamenti al concessionario di cui all'[articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640#art_17), o all'ufficio delle entrate competente.
+                                l'omessa o infedele comunicazione del numero e degli importi degli abbonamenti al concessionario di cui all'[articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](Imposta%20sugli%20spettacoli.md), o all'ufficio delle entrate competente.
 
 2.
 
@@ -534,26 +534,26 @@ La mancata tempestiva richiesta di intervento per la manutenzione dei misuratori
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208). (21)
+COMMA ABROGATO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md). (21)
 
 ------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017. 
- Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente comma a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017. 
+ Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente comma a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 34.
 
@@ -597,7 +597,7 @@ Avverso le decisioni definitive, di cui al precedente articolo, e' esperibile l'
 ----------------
  
 AGGIORNAMENTO (3) 
- La Corte Costituzionale con sentenza 19 - 27 luglio 1994 n. 360 (in G.U. 1a s.s. 03.08.1994 n. 32) ha dichiarato l'illegittimita' costituzionale "dell'[art. 39 del d.P.R. 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640#art_39) (Disciplina dell'imposta sugli spettacoli) nella parte in cui non prevede, nelle controversie di cui agli artt. 38 e 40 stesso d.P.R., l'esperimento della azione giudiziaria anche in mancanza del preventivo ricorso amministrativo".
+ La Corte Costituzionale con sentenza 19 - 27 luglio 1994 n. 360 (in G.U. 1a s.s. 03.08.1994 n. 32) ha dichiarato l'illegittimita' costituzionale "dell'[art. 39 del d.P.R. 26 ottobre 1972, n. 640](Imposta%20sugli%20spettacoli.md) (Disciplina dell'imposta sugli spettacoli) nella parte in cui non prevede, nelle controversie di cui agli artt. 38 e 40 stesso d.P.R., l'esperimento della azione giudiziaria anche in mancanza del preventivo ricorso amministrativo".
 
 ### Art. 40. — (((Termini di decadenza - Rimborsi) ))
 

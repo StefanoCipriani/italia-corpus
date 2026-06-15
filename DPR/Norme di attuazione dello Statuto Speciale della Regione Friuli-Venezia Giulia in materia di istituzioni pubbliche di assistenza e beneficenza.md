@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -59,7 +59,7 @@ I provvedimenti di sospensione e di scioglimento delle amministrazioni delle ist
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 15 gennaio 1987, n.469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-01-15;469) ha disposto (con l'art. 18, comma 1) che "Sono soppresse le limitazioni stabilite negli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_8) e [9 del decreto del Presidente della Repubblica 26 giugno 1965, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_9), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Fr.-V.G. in materia di istituzioni pubbliche di assistenza e beneficenza".
+Il [D.P.R. 15 gennaio 1987, n.469](Norme%20integrative%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 18, comma 1) che "Sono soppresse le limitazioni stabilite negli [articoli 7](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md), [8](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md) e [9 del decreto del Presidente della Repubblica 26 giugno 1965, n. 959](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Fr.-V.G. in materia di istituzioni pubbliche di assistenza e beneficenza".
 
 ## Art. 8.
 
@@ -69,7 +69,7 @@ Nulla e' innovato circa le competenze degli organi statali previsti dalla [legge
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 15 gennaio 1987, n.469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-01-15;469) ha disposto (con l'art. 18, comma 1) che "Sono soppresse le limitazioni stabilite negli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_8) e [9 del decreto del Presidente della Repubblica 26 giugno 1965, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_9), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Fr.-V.G. in materia di istituzioni pubbliche di assistenza e beneficenza".
+Il [D.P.R. 15 gennaio 1987, n.469](Norme%20integrative%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 18, comma 1) che "Sono soppresse le limitazioni stabilite negli [articoli 7](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md), [8](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md) e [9 del decreto del Presidente della Repubblica 26 giugno 1965, n. 959](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Fr.-V.G. in materia di istituzioni pubbliche di assistenza e beneficenza".
 
 ## Art. 9. — null
 
@@ -79,7 +79,7 @@ Il [D.P.R. 15 gennaio 1987, n.469](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 15 gennaio 1987, n.469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-01-15;469) ha disposto (con l'art. 18, comma 1) che "Sono soppresse le limitazioni stabilite negli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_8) e [9 del decreto del Presidente della Repubblica 26 giugno 1965, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;959#art_9), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Fr.-V.G. in materia di istituzioni pubbliche di assistenza e beneficenza".
+Il [D.P.R. 15 gennaio 1987, n.469](Norme%20integrative%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) ha disposto (con l'art. 18, comma 1) che "Sono soppresse le limitazioni stabilite negli [articoli 7](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md), [8](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md) e [9 del decreto del Presidente della Repubblica 26 giugno 1965, n. 959](Norme%20di%20attuazione%20dello%20Statuto%20Speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.md), riguardo al passaggio di funzioni amministrative dallo Stato alla regione Fr.-V.G. in materia di istituzioni pubbliche di assistenza e beneficenza".
 
 ## Art. 10.
 

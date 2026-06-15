@@ -77,7 +77,7 @@ AVVERTENZA:
  Note all'art. 1:
  - Per il testo dell'[art. 10 del D.L. n. 90/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990;90#art_10) si veda in nota al titolo.
  - Per il testo dell'[art. 2 della legge n. 324/1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976;324#art_2) si veda in nota al titolo.
- - I capitoli 2 e 3 dell'allegato XVI alla convenzione di Chicago del 7 dicembre 1944, approvata con [D.Lgs. 6 marzo 1948, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-06;616), cosi' recitano (versione non ufficiale):
+ - I capitoli 2 e 3 dell'allegato XVI alla convenzione di Chicago del 7 dicembre 1944, approvata con [D.Lgs. 6 marzo 1948, n. 616](../Decreti%20Legislativi/Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md), cosi' recitano (versione non ufficiale):
  "Capitolo 2
  VELIVOLI SUBSONICI A GETTO
  Istanza di rilascio del certificato di omologazione del

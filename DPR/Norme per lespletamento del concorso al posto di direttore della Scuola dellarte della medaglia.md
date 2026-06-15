@@ -24,7 +24,7 @@ Visto il [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20
 
 Vista la [legge 25 gennaio 1940, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md), modificata con la [legge 27 marzo 1954, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-03-27;99);
 
-Visto il [decreto legislativo 26 febbraio 1948, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-26;111), concernente la revisione dei ruoli organici del personale del Ministero del tesoro, ratificato, con modificazioni, con la [legge 4 maggio 1951, n. 382](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2026%20febbraio%201948%20n.%20111%20concernente%20revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro.md);
+Visto il [decreto legislativo 26 febbraio 1948, n. 111](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro.md), concernente la revisione dei ruoli organici del personale del Ministero del tesoro, ratificato, con modificazioni, con la [legge 4 maggio 1951, n. 382](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2026%20febbraio%201948%20n.%20111%20concernente%20revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro.md);
 
 Vista la [legge 27 marzo 1954, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-03-27;99), concernente la nomina del direttore della Scuola dell'arte della medaglia;
 

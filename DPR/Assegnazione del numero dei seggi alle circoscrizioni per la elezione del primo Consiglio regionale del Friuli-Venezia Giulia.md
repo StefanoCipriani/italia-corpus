@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il decreto in data odierna, con il quale i comizi per la elezione del primo Consiglio regionale del Friuli-Venezia Giulia sono stati convocati per il giorno di domenica, 10 maggio 1964;
- Visto l'[art. 13 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_13), recante lo Statuto speciale della Regione Friuli-Venezia Giulia;
+ Visto l'[art. 13 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante lo Statuto speciale della Regione Friuli-Venezia Giulia;
  Visto l'[art. 2 della, legge 3 febbraio 1964, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20elezione%20e%20la%20convocazione%20del%20primo%20Consiglio%20regionale%20del%20Friuli-Venezia%20Giulia%20e%20disciplina%20delle%20cause%20di%20ineleggibilita%20ed%20incompatibilita%20e%20del%20contenzioso%20elettorale.md), recante norme per la elezione e la convocazione del primo Consiglio regionale del Friuli-Venezia Giulia e disciplina delle cause di ineleggibilita' ed incompatibilita' e del contenzioso elettorale;
  Visto il decreto 31 gennaio 1963, n. 18, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 30 del 2 febbraio 1963, con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione residente secondo il censimento del 15 ottobre 1961;
  Sulla proposta del Ministro per l'interno;

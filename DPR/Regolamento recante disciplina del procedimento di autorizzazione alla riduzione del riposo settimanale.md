@@ -16,13 +16,13 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Visto l'[articolo 6 della legge 22 febbraio 1934, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-22;370#art_6);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 marzo 1994;
 
@@ -103,7 +103,7 @@ Il procedimento di cui all'articolo 3, comma 2, del presente regolamento, si con
 
 2.
 
-Decorso inutilmente il termine di cui al comma precedente, l'interessato puo' produrre istanza al dirigente generale dell'unita' responsabile del procedimento, il quale provvede direttamente nel termine di quindici giorni. Se il provvedimento e' di competenza del dirigente generale, l'istanza e' rivolta al Ministro, il quale entro lo stesso termine valuta se ricorrono le condizioni per l'esercizio dei poteri di avocazione regolati dall'[articolo 14, comma 3 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dall'[articolo 8 del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_8).
+Decorso inutilmente il termine di cui al comma precedente, l'interessato puo' produrre istanza al dirigente generale dell'unita' responsabile del procedimento, il quale provvede direttamente nel termine di quindici giorni. Se il provvedimento e' di competenza del dirigente generale, l'istanza e' rivolta al Ministro, il quale entro lo stesso termine valuta se ricorrono le condizioni per l'esercizio dei poteri di avocazione regolati dall'[articolo 14, comma 3 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dall'[articolo 8 del decreto legislativo 23 dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
 
 3.
 
@@ -126,7 +126,7 @@ Note all'articolo 4:
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla entrata in vigore del presente regolamento, e' abrogato l'[articolo 6, comma 1 della legge 22 febbraio 1934, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-22;370#art_6-com1).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla entrata in vigore del presente regolamento, e' abrogato l'[articolo 6, comma 1 della legge 22 febbraio 1934, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-22;370#art_6-com1).
 
 Note all'articolo 5:
  - Per il testo dell'[articolo 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse

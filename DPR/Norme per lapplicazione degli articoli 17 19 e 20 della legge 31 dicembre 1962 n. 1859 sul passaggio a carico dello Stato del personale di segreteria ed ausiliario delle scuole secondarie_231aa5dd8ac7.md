@@ -18,7 +18,7 @@ Visto l'[art. 91, lettera f) del testo unico 3 marzo 1934, n. 383](https://www.n
 
 Vista la [legge 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-04-07;262) e successive integrazioni e modificazioni;
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1221);
+Visto il [decreto legislativo 7 maggio 1948, n. 1221](../Decreti%20Legislativi/Norme%20concernenti%20gli%20aiutanti%20tecnici%20e%20il%20personale%20di%20servizio%20degli%20istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md);
 
 Visto il [decreto legislativo 7 maggio 1948, n. 1243](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md);
 
@@ -57,7 +57,7 @@ Il personale di segreteria ed ausiliario, inquadrato con regolare deliberazione,
 ## Art. 4.
 
 I collocamenti di cui al primo comma del precedente articolo sono effettuati tenendo conto dell'anzianita' di effettivo servizio posseduta dagli interessati al 30 settembre 1963, nei ruoli speciali transitori o nei ruoli aggiunti della carriera cui appartenevano alla data di entrata in vigore della [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859).
- Negli stessi ruoli e' collocato, a domanda, secondo la categoria d'impiego d'appartenenza il personale di segreteria ed ausiliario non di ruolo, a carico delle Amministrazioni comunali, in servizio, alla data di entrata in vigore della [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859), nelle scuole di cui all'art. 2, che abbia maturato alla data del 30 settembre 1963, o maturi successivamente il periodo continuativo previsto dall'[art. 1 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_1).
+ Negli stessi ruoli e' collocato, a domanda, secondo la categoria d'impiego d'appartenenza il personale di segreteria ed ausiliario non di ruolo, a carico delle Amministrazioni comunali, in servizio, alla data di entrata in vigore della [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859), nelle scuole di cui all'art. 2, che abbia maturato alla data del 30 settembre 1963, o maturi successivamente il periodo continuativo previsto dall'[art. 1 del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md).
  Il primo quadriennio di effettivo servizio scolastico non di ruolo, eccedente quello richiesto per il collocamento nei ruoli aggiunti, e' computato per intero ai fini degli aumenti periodici di stipendio.
  Il rimanente servizio scolastico non di ruolo e' computato per meta', ai fini di cui al precedente comma.
  Il servizio di cui sopra, prestato in categorie immediatamente inferiori, e' in ogni caso computato per meta'.
@@ -65,7 +65,7 @@ I collocamenti di cui al primo comma del precedente articolo sono effettuati ten
 ## Art. 5.
 
 Il collocamento nei ruoli ordinari e nei ruoli aggiunti della scuola media puo' essere disposto solo nei confronti di coloro che abbiano prestato lodevole servizio.
- Per il collocamento nei ruoli aggiunti del personale di cui al secondo comma dell'art. 4, si applicano le disposizioni del [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262) e successive integrazioni e modificazioni.
+ Per il collocamento nei ruoli aggiunti del personale di cui al secondo comma dell'art. 4, si applicano le disposizioni del [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md) e successive integrazioni e modificazioni.
  I collocamenti di cui ai precedenti comma sono disposti con decreto del Ministro per la pubblica istruzione.
  A parita' di anzianita', la precedenza spetta al personale proveniente dai ruoli statali.
  Con successivo provvedimento sara' stabilito l'ordine di ruolo.
@@ -78,7 +78,7 @@ Gli applicati di segreteria, collocati nei ruoli ordinari e nei ruoli aggiunti d
 
 Il personale appartenente ai ruoli ordinari ed ai ruoli transitori e aggiunti delle Amministrazioni comunali in servizio nelle scuole di cui all'art. 2, deve presentare.
  a pena di decadenza, domanda per il collocamento nei ruoli ordinari o nei ruoli aggiunti della scuola media, entro tre mesi dalla data di pubblicazione nel presente decreto nella Gazzetta Ufficiale.
- Entro lo stesso termine deve presentare domanda per l'inquadramento ne ruoli aggiunti il personale non di ruolo, che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale abbia maturato l'anzianita' di servizio prevista dall'[art. 1 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_1).
+ Entro lo stesso termine deve presentare domanda per l'inquadramento ne ruoli aggiunti il personale non di ruolo, che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale abbia maturato l'anzianita' di servizio prevista dall'[art. 1 del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md).
  Il personale non di ruolo che maturi l'anzianita' necessaria per l'inquadramento nei ruoli aggiunti successivamente alla data di cui ai precedenti comma, deve presentare domanda al capo d'Istituto, a pena di decadenza, entro due mesi dal compimento di tale anzianita'.
  L'accertamento della regolarita' dell'assunzione, disposta dall'Amministrazione comunale, viene effettuata d'ufficio.
  Qualora dall'istruttoria compiuta non risultino sufficienti elementi di giudizio ai fini del richiesto collocamento nei ruoli ordinari o nei ruoli aggiunti, le domande sono sottoposte al parere del Consiglio di amministrazione del Ministero della pubblica istruzione, che si pronuncera' sulla sussistenza dei requisiti prescritti e del lodevole servizio prestato dall'interessato.

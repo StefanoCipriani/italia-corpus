@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
+Vista la [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), che modifica la [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), concernente delega al Governo per il riordinamento dell'Amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
 
 Udito il parere della Commissione parlamentare di cui all'[art. 21 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_21);
 
@@ -61,7 +61,7 @@ Al personale delle carriere esecutive che al 30 giugno 1970 rivestiva la qualifi
 ### Art. 7.
 
 Per le qualifiche non contemplate nell'allegata tabella unica valgono i nuovi parametri e stipendi previsti per le posizioni economicamente assimilabili, avuto riguardo alla carriera ed all'ex coefficiente di stipendio o allo stipendio, paga o retribuzione in vigore al 30 giugno 1970.
- Ai fini dell'applicazione delle norme nelle quali si fa riferimento a qualifiche soppresse in attuazione della [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), e successive modificazioni, si ha riguardo alle nuove corrispondenti qualifiche o classi di stipendio.
+ Ai fini dell'applicazione delle norme nelle quali si fa riferimento a qualifiche soppresse in attuazione della [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e successive modificazioni, si ha riguardo alle nuove corrispondenti qualifiche o classi di stipendio.
 
 ### Art. 8.
 
@@ -309,11 +309,11 @@ La maggiorazione prevista dal precedente articolo non trova applicazione nei con
 
 ### Art. 37.
 
-Con effetto dal 1° luglio 1970 e' soppresso l'assegno integrativo mensile di cui all'[art. 20 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_20), e successive modificazioni ed estensioni.
+Con effetto dal 1° luglio 1970 e' soppresso l'assegno integrativo mensile di cui all'[art. 20 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e successive modificazioni ed estensioni.
 
 ### Art. 38.
 
-La maggiore spesa derivante dall'attuazione del presente decreto fa carico alle somme autorizzate con l'[art. 44 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_44), sostituito con l'[art. 19 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_19), considerate per gli anni 1970 e 1971 nei fondi di cui ai capitoli n. 3523 e n. 3528 dello stato di previsione del Ministero del tesoro per gli anni medesimi.
+La maggiore spesa derivante dall'attuazione del presente decreto fa carico alle somme autorizzate con l'[art. 44 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), sostituito con l'[art. 19 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_19), considerate per gli anni 1970 e 1971 nei fondi di cui ai capitoli n. 3523 e n. 3528 dello stato di previsione del Ministero del tesoro per gli anni medesimi.
  Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, negli anni 1970 e 1971, nel bilancio dello Stato ed in quelli delle amministrazioni statali con ordinamento autonomo, le variazioni occorrenti per l'attuazione del presente decreto.
 
 ### Art. 39.

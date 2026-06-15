@@ -20,7 +20,7 @@ Visto l'[art. 4 della legge 16 giugno 1940, n. 721](../Atti%20normativi%20abroga
 
 Visto il [regio decreto 17 maggio 1946, n. 398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allart.%207%20della%20legge%2016%20giugno%201940%20n.%20721%20concernente%20il%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellInterno.md);
 
-Visto il [decreto legislativo 3 maggio 1948, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-03;455);
+Visto il [decreto legislativo 3 maggio 1948, n. 455](../Decreti%20Legislativi/Modificazioni%20alla%20legge%2016%20giugno%201940%20n.%20721%20sul%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellinterno.md);
 
 Visto l'[art. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

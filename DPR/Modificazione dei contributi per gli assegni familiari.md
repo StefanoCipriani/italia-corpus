@@ -36,7 +36,7 @@ Visto il [decreto legislativo 7 novembre 1947, n. 1308](https://www.normattiva.i
 
 Visto il [decreto del Presidente della Repubblica 19 febbraio 1948, n. 225](Adeguamento%20degli%20assegni%20familiari%20e%20dei%20relativi%20contributi%20nel%20settore%20dei%20servizi%20tributari%20appaltati.md), per l'adeguamento degli assegni familiari nel settore dei servizi tributari appaltati;
 
-Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;142), concernente una disciplina provvisoria, del carico contributivo per determinate forme di previdenza, e di assistenza sociale;
+Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](../Decreti%20legislativi%20luogotenenziali/Disciplina%20provvisoria%20del%20carico%20contributivo%20per%20le%20varie%20forme%20di%20previdenza%20e%20di%20assistenza%20sociale.md), concernente una disciplina provvisoria, del carico contributivo per determinate forme di previdenza, e di assistenza sociale;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

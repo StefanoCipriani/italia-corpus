@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto legislativo 18 febbraio 1948, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-18;365#art_4), concernente l'istituzione dell'Ispettorato per la bonifica degli immobili dagli ordigni esplosivi;
+Visto l'[art. 4 del decreto legislativo 18 febbraio 1948, n. 365](../Decreti%20Legislativi/Istituzione%20dellIspettorato%20per%20la%20bonifica%20degli%20immobili%20dagli%20ordigni%20esplosivi.md), concernente l'istituzione dell'Ispettorato per la bonifica degli immobili dagli ordigni esplosivi;
 
 sentito il Consiglio dei Ministri;
 
@@ -18,8 +18,8 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-L'ispettorato per la bonifica degli immobili da ordigni esplosivi, istituito con il [decreto legislativo 18 febbraio 1948, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-18;365), e' soppresso a decorrere dal 1 luglio 1948.
- A decorrere dalla stessa data sono altresi' soppressi gli uffici periferici previsti dall'art. 2 del citato [decreto legislativo 18 febbraio 1948, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-18;365).
+L'ispettorato per la bonifica degli immobili da ordigni esplosivi, istituito con il [decreto legislativo 18 febbraio 1948, n. 365](../Decreti%20Legislativi/Istituzione%20dellIspettorato%20per%20la%20bonifica%20degli%20immobili%20dagli%20ordigni%20esplosivi.md), e' soppresso a decorrere dal 1 luglio 1948.
+ A decorrere dalla stessa data sono altresi' soppressi gli uffici periferici previsti dall'art. 2 del citato [decreto legislativo 18 febbraio 1948, n. 365](../Decreti%20Legislativi/Istituzione%20dellIspettorato%20per%20la%20bonifica%20degli%20immobili%20dagli%20ordigni%20esplosivi.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

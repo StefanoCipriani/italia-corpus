@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477), recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale direttivo, ispettivo, docente e non docente della scuola materna, elementare, secondaria ed artistica dello Stato;
+Vista la [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md), recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale direttivo, ispettivo, docente e non docente della scuola materna, elementare, secondaria ed artistica dello Stato;
 
-Udito il parere della commissione prevista dall'[art. 13 della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_13);
+Udito il parere della commissione prevista dall'[art. 13 della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -83,7 +83,7 @@ I bidelli provvedono alla quotidiana pulizia delle aule, delle palestre e degli 
 ## Art. 8. — Consiglio di amministrazione provinciale
 
 I ruoli, di cui al precedente art. 2, sono amministrati dagli uffici scolastici provinciali, che provvedono al reclutamento, a tutti gli atti di carriera ed al trattamento di quiescenza e previdenza del relativo personale.
- Le attribuzioni, che, alla data di entrata in vigore del presente decreto risultano affidate, per il personale non docente, al consiglio di amministrazione del Ministero della pubblica istruzione sono devolute ad un apposito consiglio di amministrazione provinciale, che e' presieduto dal provveditore agli studi ed e' composto da un preside e da un direttore didattico scelti tra quelli di ruolo della provincia e da tre rappresentanti del personale eletti secondo le modalita' stabilite dall'[art. 7 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_7). Finche' non sara' stato emanato il regolamento di cui alla citata norma, i rappresentanti predetti sono scelti dal provveditore agli studi sulla base di designazioni operate dalle organizzazioni sindacali a carattere nazionale maggiormente rappresentative secondo le modalita' stabilite dall'[art. 7 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_7).
+ Le attribuzioni, che, alla data di entrata in vigore del presente decreto risultano affidate, per il personale non docente, al consiglio di amministrazione del Ministero della pubblica istruzione sono devolute ad un apposito consiglio di amministrazione provinciale, che e' presieduto dal provveditore agli studi ed e' composto da un preside e da un direttore didattico scelti tra quelli di ruolo della provincia e da tre rappresentanti del personale eletti secondo le modalita' stabilite dall'[art. 7 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_7). Finche' non sara' stato emanato il regolamento di cui alla citata norma, i rappresentanti predetti sono scelti dal provveditore agli studi sulla base di designazioni operate dalle organizzazioni sindacali a carattere nazionale maggiormente rappresentative secondo le modalita' stabilite dall'[art. 7 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md).
  Le funzioni di segretario sono disimpegnate da un impiegato della carriera di concetto dell'ufficio scolastico provinciale.
  I membri del consiglio di amministrazione provinciale durano in carica per un triennio e sono nominati con decreto del provveditore agli studi.
 
@@ -249,7 +249,7 @@ Nel ruolo provinciale dei segretari sono inquadrati gli impiegati che, alla data
 
 AGGIORNAMENTO (1)
 
-La [L. 18 novembre 1977, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-11-18;869) ha disposto (con l'articolo unico) che "La decorrenza dell'inquadramento di cui al [terzo comma dell'articolo 28 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;420#art_28-com3), e' quella del giorno successivo alla scadenza del termine fissato per la eventuale presentazione della domanda di restituzione all'insegnamento. Detto termine e' prorogato di un anno".
+La [L. 18 novembre 1977, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-11-18;869) ha disposto (con l'articolo unico) che "La decorrenza dell'inquadramento di cui al [terzo comma dell'articolo 28 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](Norme%20sullo%20stato%20giuridico%20del%20personale%20non%20insegnante%20statale%20delle%20scuole%20materne%20elementari%20secondarie%20ed%20artistiche.md), e' quella del giorno successivo alla scadenza del termine fissato per la eventuale presentazione della domanda di restituzione all'insegnamento. Detto termine e' prorogato di un anno".
 
 ### Art. 29. — Inquadramento nelle carriere esecutive
 
@@ -293,7 +293,7 @@ Qualora, in prima applicazione del presente decreto, i posti degli organici rela
 ### Art. 34. — Immissione in ruolo del personale non docente 
  non di ruolo delle scuole magistrali
 
-Il personale non docente non di ruolo in servizio nelle scuole magistrali statali che alla data del 30 settembre 1973 abbia prestato servizio continuato senza demerito per almeno un anno nelle predette scuole, e' assunto in ruolo ai sensi dell'[art. 17 della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_17), a decorrere dal 1 ottobre 1974.
+Il personale non docente non di ruolo in servizio nelle scuole magistrali statali che alla data del 30 settembre 1973 abbia prestato servizio continuato senza demerito per almeno un anno nelle predette scuole, e' assunto in ruolo ai sensi dell'[art. 17 della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md), a decorrere dal 1 ottobre 1974.
 
 ### Art. 35. — Personale non insegnante non di ruolo delle scuole 
  del grado preparatorio annesse alle scuole magistrali

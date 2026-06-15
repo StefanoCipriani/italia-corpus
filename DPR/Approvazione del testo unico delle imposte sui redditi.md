@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 17, terzo comma, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3);
+Visto l'[articolo 17, terzo comma, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Vista la [legge 24 dicembre 1985, n. 777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20per%20lemanazione%20dei%20testi%20unici%20previsti%20dallarticolo%2017%20della%20legge%209%20ottobre%201971%20n.%20825%20e%20successive%20modificazioni.md);
 
@@ -105,13 +105,13 @@ Si considerano altresi' residenti, salvo prova contraria, i cittadini italiani c
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 89) che la presente modifica "si applica a partire dal periodo di imposta successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto ivi previsto; fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 89) che la presente modifica "si applica a partire dal periodo di imposta successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto ivi previsto; fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 ---------------
 
 AGGIORNAMENTO (227)
 
-Il [D.Lgs. 27 dicembre 2023, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-27;209) ha disposto (con l'art. 7, comma 1) che la presente modifica si applica "a decorrere dal 1° gennaio 2024".
+Il [D.Lgs. 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) ha disposto (con l'art. 7, comma 1) che la presente modifica si applica "a decorrere dal 1° gennaio 2024".
 
 ### Art. 3. — Base imponibile
 
@@ -131,7 +131,7 @@ Sono in ogni caso esclusi dalla base imponibile:
                             b)
                                 gli assegni periodici destinati al mantenimento dei figli spettanti al coniuge in conseguenza di separazione legale ed effettiva o di annullamento, scioglimento o cessazione degli effetti civili del matrimonio, nella misura in cui risultano da provvedimenti dell'autorita' giudiziaria;
                             c)
-                                LETTERA ABROGATA DAL [D.LGS. 2 SETTEMBRE 1997, N.314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-09-02;314);
+                                LETTERA ABROGATA DAL [D.LGS. 2 SETTEMBRE 1997, N.314](../Decreti%20Legislativi/Armonizzazione%20razionalizzazione%20e%20semplificazione%20delle%20disposizioni%20fiscali%20e%20previdenziali%20concernenti%20i%20redditi%20di%20lavoro%20dipendente%20e%20dei%20relativi%20adempimenti%20da%20parte%20dei%20datori%20di%20lavoro.md);
                             d)
                                 gli assegni familiari e l'assegno per il nucleo familiare, nonche', con gli stessi limiti e alle medesime condizioni, gli emolumenti per carichi di famiglia comunque denominati, erogati nei casi consentiti dalla legge.
                             d-bis)
@@ -145,49 +145,49 @@ Sono in ogni caso esclusi dalla base imponibile:
 
 AGGIORNAMENTO (58)
 
-Il [D.Lgs. 1 aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all'art. 1 conseguiti, anche dai soggetti di cui all'art. 2, comma 1, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
+Il [D.Lgs. 1 aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all'art. 1 conseguiti, anche dai soggetti di cui all'art. 2, comma 1, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
 
 ---------------
 
 AGGIORNAMENTO (71)
 
-Il [D.Lgs. 2 settembre 1997, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-09-02;314) ha disposto (con l'art. 5, comma 2) che la seguente modifica "ha effetto a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2000. Fino alla predetta data restano in vigore le disposizioni fiscali e previdenziali concernenti i redditi derivanti da lavoro dipendente prestato all'estero in via continuativa e come oggetto esclusivo del rapporto".
+Il [D.Lgs. 2 settembre 1997, n. 314](../Decreti%20Legislativi/Armonizzazione%20razionalizzazione%20e%20semplificazione%20delle%20disposizioni%20fiscali%20e%20previdenziali%20concernenti%20i%20redditi%20di%20lavoro%20dipendente%20e%20dei%20relativi%20adempimenti%20da%20parte%20dei%20datori%20di%20lavoro.md) ha disposto (con l'art. 5, comma 2) che la seguente modifica "ha effetto a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2000. Fino alla predetta data restano in vigore le disposizioni fiscali e previdenziali concernenti i redditi derivanti da lavoro dipendente prestato all'estero in via continuativa e come oggetto esclusivo del rapporto".
 
 ---------------
 
 AGGIORNAMENTO (83)
 
-La [L. 8 maggio 1998, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146) ha disposto (con l'art. 38, comma 3) che "Fino alla data di cui al [comma 2 dell'articolo 5 del decreto legislativo 2 settembre 1997, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-09-02;314#art_5-com2), la disposizione recata dalla lettera c) del comma 3 dell'articolo 3 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), va intesa nel senso che l'esclusione dalla base imponibile opera anche per i redditi di lavoro prestato nelle zone di frontiera ed in altri Paesi limitrofi da soggetti residenti nel territorio dello Stato. I percettori dei suddetti redditi non possono in alcun caso essere considerati fiscalmente a carico e se richiedono prestazioni sociali agevolate alla pubblica amministrazione sono comunque tenuti a dichiararli all'ufficio erogatore della prestazione, ai fini della valutazione della propria situazione economica".
+La [L. 8 maggio 1998, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146) ha disposto (con l'art. 38, comma 3) che "Fino alla data di cui al [comma 2 dell'articolo 5 del decreto legislativo 2 settembre 1997, n. 314](../Decreti%20Legislativi/Armonizzazione%20razionalizzazione%20e%20semplificazione%20delle%20disposizioni%20fiscali%20e%20previdenziali%20concernenti%20i%20redditi%20di%20lavoro%20dipendente%20e%20dei%20relativi%20adempimenti%20da%20parte%20dei%20datori%20di%20lavoro.md), la disposizione recata dalla lettera c) del comma 3 dell'articolo 3 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), va intesa nel senso che l'esclusione dalla base imponibile opera anche per i redditi di lavoro prestato nelle zone di frontiera ed in altri Paesi limitrofi da soggetti residenti nel territorio dello Stato. I percettori dei suddetti redditi non possono in alcun caso essere considerati fiscalmente a carico e se richiedono prestazioni sociali agevolate alla pubblica amministrazione sono comunque tenuti a dichiararli all'ufficio erogatore della prestazione, ai fini della valutazione della propria situazione economica".
 
 ---------------
 
 AGGIORNAMENTO (84)
 
-Il [D.Lgs. 1 aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) come modificato dal [D.Lgs. 16 giugno 1998, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-16;201) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all'articolo 2, comma 1 conseguiti, anche dai soggetti di cui all'art. 2, comma 1, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
+Il [D.Lgs. 1 aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) come modificato dal [D.Lgs. 16 giugno 1998, n. 201](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2021%20novembre%201997%20n.%20461%20concernente%20il%20riordino%20della%20disciplina%20tributaria%20dei%20redditi%20di%20capitale%20e%20dei%20redditi%20diversi.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all'articolo 2, comma 1 conseguiti, anche dai soggetti di cui all'art. 2, comma 1, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
 
 ---------------
 
 AGGIORNAMENTO (95)
 
-Il [D.Lgs. 1 aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) come modificato dal [D.Lgs 23 dicembre 1999, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-23;505) ha disposto (con l'art. 5 comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all'art.2, commi 1, 1-bis e 1-ter conseguiti, anche dai soggetti di cui all'art. 2, commi 1, 1-bis e 1-ter , nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
+Il [D.Lgs. 1 aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) come modificato dal [D.Lgs 23 dicembre 1999, n. 505](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%202%20settembre%201997%20n.%20314%2021%20novembre%201997%20n.%20461%20e%2018%20dicembre%201997%20n.%20466%20e%20n.%20467%20in%20materia%20di%20redditi%20di%20capitale%20di%20impos_e493350be4c7.md) ha disposto (con l'art. 5 comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all'art.2, commi 1, 1-bis e 1-ter conseguiti, anche dai soggetti di cui all'art. 2, commi 1, 1-bis e 1-ter , nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
 
 ---------------
 
 AGGIORNAMENTO (119)
 
-La [L. 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311) ha disposto (con l'art. 1, comma 349, lettera a)) che a decorrerre dal 1 gennaio 2005, nell'articolo 3, comma 1 del presente articolo, le parole: "nonche' della deduzione spettante ai sensi dell'articolo 11" sono sostituite dalle seguenti: "nonche' delle deduzioni effettivamente spettanti ai sensi degli articoli 11 e 12".
+La [L. 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md) ha disposto (con l'art. 1, comma 349, lettera a)) che a decorrerre dal 1 gennaio 2005, nell'articolo 3, comma 1 del presente articolo, le parole: "nonche' della deduzione spettante ai sensi dell'articolo 11" sono sostituite dalle seguenti: "nonche' delle deduzioni effettivamente spettanti ai sensi degli articoli 11 e 12".
 
 -------------
 
 AGGIORNAMENTO (127)
 
-Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262) convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) ha disposto (con l'art. 2, comma 24) che "Per l'anno 2006, l'articolo 3, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si applica nel testo vigente alla data del 3 luglio 2006".
+Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262) convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) ha disposto (con l'art. 2, comma 24) che "Per l'anno 2006, l'articolo 3, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si applica nel testo vigente alla data del 3 luglio 2006".
 
 --------------
 
 AGGIORNAMENTO (146)
 
-Il [D.Lgs. 1 aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) come modificato dal [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all' articolo 2, commi 1 e 1-bis conseguiti, anche dai soggetti di cui all' articolo 2, commi 1 e 1-bis, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
+Il [D.Lgs. 1 aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) come modificato dal [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all' articolo 2, commi 1 e 1-bis conseguiti, anche dai soggetti di cui all' articolo 2, commi 1 e 1-bis, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
 
 ### Art. 4. — ((Coniugi e figli minori 
  
@@ -247,7 +247,7 @@ La [L. 25 marzo 1991, n. 102](../DL%20e%20leggi%20di%20conversione/Conversione%2
 
 AGGIORNAMENTO (227)
 
-Il [D.Lgs. 27 dicembre 2023, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-27;209) ha disposto (con l'art. 7, comma 2) che la presente modifica si applica "a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) ha disposto (con l'art. 7, comma 2) che la presente modifica si applica "a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 6. — Classificazione dei redditi
 
@@ -279,7 +279,7 @@ I redditi delle societa' in nome collettivo e in accomandita semplice, da qualsi
 
 AGGIORNAMENTO (44)
 
-La [L. 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537) ha disposto (con l'art. 14, comma 4) che "Nelle categorie di reddito di cui all'articolo 6, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), devono intendersi ricompresi, se in esse classificabili, i proventi derivanti da fatti, atti o attivita' qualificabili come illecito civile, penale o amministrativo se non gia' sottoposti a sequestro o confisca penale. I relativi redditi sono determinati secondo le disposizioni riguardanti ciascuna categoria".
+La [L. 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) ha disposto (con l'art. 14, comma 4) che "Nelle categorie di reddito di cui all'articolo 6, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), devono intendersi ricompresi, se in esse classificabili, i proventi derivanti da fatti, atti o attivita' qualificabili come illecito civile, penale o amministrativo se non gia' sottoposti a sequestro o confisca penale. I relativi redditi sono determinati secondo le disposizioni riguardanti ciascuna categoria".
 
 ---------------
 
@@ -291,7 +291,7 @@ Il [D.L. 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (126)
 
-Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) nel modificare l'[art. 14, comma 4 della L. 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_14-com4) ha conseguentemente disposto (con l'art. 36, comma 34-bis) che "In deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), la disposizione di cui al [comma 4 dell'articolo 14 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_14-com4), si interpreta nel senso che i proventi illeciti ivi indicati, qualora non siano classificabili nelle categorie di reddito di cui all'articolo 6, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono comunque considerati come redditi diversi".
+Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) nel modificare l'[art. 14, comma 4 della L. 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) ha conseguentemente disposto (con l'art. 36, comma 34-bis) che "In deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), la disposizione di cui al [comma 4 dell'articolo 14 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si interpreta nel senso che i proventi illeciti ivi indicati, qualora non siano classificabili nelle categorie di reddito di cui all'articolo 6, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono comunque considerati come redditi diversi".
 
 ### Art. 7. — ((Periodo di imposta ))
 
@@ -347,24 +347,24 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 30) che "Le disposizioni di cui al comma 29 hanno effetto con decorrenza dal periodo d'imposta in corso al 1° gennaio 2008".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 30) che "Le disposizioni di cui al comma 29 hanno effetto con decorrenza dal periodo d'imposta in corso al 1° gennaio 2008".
 
 ---------------
 
 AGGIORNAMENTO (146)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 2) che "a decorrere dal 1º gennaio 2011 e fino al 31 dicembre 2013 sul reddito complessivo di cui all'articolo 8 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, di importo superiore a 300.000 euro lordi annui, e' dovuto un contributo di solidarieta' del 3 per cento sulla parte eccedente il predetto importo".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 2) che "a decorrere dal 1º gennaio 2011 e fino al 31 dicembre 2013 sul reddito complessivo di cui all'articolo 8 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, di importo superiore a 300.000 euro lordi annui, e' dovuto un contributo di solidarieta' del 3 per cento sulla parte eccedente il predetto importo".
 
 ---------------
 
 AGGIORNAMENTO (193)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto: 
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto: 
  - (con l'art. 1, comma 24) che, in deroga all'[articolo 3, comma 1, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3-com1), le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017; 
- - (con l'art. 1, comma 25) che "In deroga al primo periodo del comma 3 dell'articolo 8 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come modificato dal comma 23 del presente articolo, le perdite derivanti dall'esercizio di imprese commerciali di cui all'articolo 66 del medesimo testo unico: 
+ - (con l'art. 1, comma 25) che "In deroga al primo periodo del comma 3 dell'articolo 8 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come modificato dal comma 23 del presente articolo, le perdite derivanti dall'esercizio di imprese commerciali di cui all'articolo 66 del medesimo testo unico: 
  a) del periodo d'imposta 2018 sono computate in diminuzione dei relativi redditi conseguiti nei periodi d'imposta 2019 e 2020 in misura non superiore, rispettivamente, al 40 per cento e al 60 per cento dei medesimi redditi e per l'intero importo che trova capienza in essi; 
  b) del periodo d'imposta 2019 sono computate in diminuzione dei relativi redditi conseguiti nel periodo d'imposta 2020 in misura non superiore al 60 per cento dei medesimi redditi e per l'intero importo che trova capienza in essi"; 
- - (con l'art. 1, comma 26) che "Le perdite del periodo d'imposta 2017, per la parte non compensata ai sensi dell'articolo 8, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente prima della data di entrata in vigore della presente legge, sono computate in diminuzione dei relativi redditi conseguiti: 
+ - (con l'art. 1, comma 26) che "Le perdite del periodo d'imposta 2017, per la parte non compensata ai sensi dell'articolo 8, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente prima della data di entrata in vigore della presente legge, sono computate in diminuzione dei relativi redditi conseguiti: 
  a) nei periodi d'imposta 2018 e 2019, in misura non superiore al 40 per cento dei medesimi redditi e per l'intero importo che trova capienza in essi; 
  b) nel periodo d'imposta 2020, in misura non superiore al 60 per cento dei medesimi redditi e per l'intero importo che trova capienza in essi".
 
@@ -400,7 +400,7 @@ Ai fini delle imposte sui redditi ((, laddove non e' previsto diversamente,)) le
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 4 febbraio 1988, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-02-04;42) ha disposto (con l'art. 37, comma 1) che "Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale, con effetto dal 1 gennaio 1988".
+Il [D.P.R. 4 febbraio 1988, n. 42](Disposizioni%20correttive%20e%20di%20coordinamento%20sistematico-formale%20di%20attuazione%20e%20transitorie%20relative%20al%20testo%20unico%20delle%20imposte%20sui%20redditi%20approvato%20con%20decreto%20del%20Presidente%20della%20Rep_6b06fa918e18.md) ha disposto (con l'art. 37, comma 1) che "Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale, con effetto dal 1 gennaio 1988".
 
 ---------------
 
@@ -424,11 +424,11 @@ Dal reddito complessivo si deducono, se non sono deducibili nella determinazione
                             d-bis)
                                 le somme restituite al soggetto erogatore, se assoggettate a tassazione in anni precedenti. L'ammontare, in tutto o in parte, non dedotto nel periodo d'imposta di restituzione puo' essere portato in deduzione dal reddito complessivo dei periodi d'imposta successivi; in alternativa, il contribuente puo' chiedere il rimborso dell'imposta corrispondente all'importo non dedotto secondo modalita' definite con decreto del Ministro dell'economia e delle finanze; (161)
                             e)
-                                i contributi previdenziali ed assistenziali versati in ottemperanza a disposizioni di legge , nonche' quelli versati facoltativamente alla gestione della forma pensionistica obbligatoria di appartenenza, ivi compresi quelli per la ricongiunzione di periodi assicurativi. Sono altresi' deducibili i contributi versati al fondo di cui all'[articolo 1 del decreto legislativo 16 settembre 1996, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-09-16;565#art_1). I contributi di cui all'[articolo 30, comma 2, della legge 8 marzo 1989, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101#art_30-com2), sono deducibili alle condizioni e nei limiti ivi stabiliti; (233)
+                                i contributi previdenziali ed assistenziali versati in ottemperanza a disposizioni di legge , nonche' quelli versati facoltativamente alla gestione della forma pensionistica obbligatoria di appartenenza, ivi compresi quelli per la ricongiunzione di periodi assicurativi. Sono altresi' deducibili i contributi versati al fondo di cui all'[articolo 1 del decreto legislativo 16 settembre 1996, n. 565](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%202%20comma%2033%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20riordino%20della%20disciplina%20della%20gestione%20Mutualita%20pensioni%20di%20cui%20alla%20legge%205%20marzo%201963%20n.%20389.md). I contributi di cui all'[articolo 30, comma 2, della legge 8 marzo 1989, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;101#art_30-com2), sono deducibili alle condizioni e nei limiti ivi stabiliti; (233)
                             e-bis)
-                                i contributi versati alle forme pensionistiche complementari di cui al [decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto, nonche' ai sottoconti italiani di prodotti pensionistici individuali paneuropei (PEPP) di cui al [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238), alle condizioni e nei limiti previsti dalle disposizioni nazionali di attuazione del medesimo regolamento. Alle medesime condizioni ed entro gli stessi limiti di cui al primo periodo sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che consentono un adeguato scambio di informazioni e ai sottoconti esteri di prodotti pensionistici individuali paneuropei (PEPP) di cui al [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238);
+                                i contributi versati alle forme pensionistiche complementari di cui al [decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto, nonche' ai sottoconti italiani di prodotti pensionistici individuali paneuropei (PEPP) di cui al [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238), alle condizioni e nei limiti previsti dalle disposizioni nazionali di attuazione del medesimo regolamento. Alle medesime condizioni ed entro gli stessi limiti di cui al primo periodo sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che consentono un adeguato scambio di informazioni e ai sottoconti esteri di prodotti pensionistici individuali paneuropei (PEPP) di cui al [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238);
                             e-ter)
-                                i contributi versati, fino ad un massimo di euro 3.615,20, ai fondi integrativi del Servizio sanitario nazionale istituiti o adeguati ai sensi dell'[articolo 9 del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_9), e successive modificazioni, ((iscritti all'Anagrafe dei fondi sanitari integrativi istituita con il decreto del Ministro della salute del 31 marzo 2008, pubblicato nella Gazzetta Ufficiale 18 giugno 2008, n. 141, che operino secondo il principio di mutualita' e solidarieta' tra gli iscritti)). Ai fini del calcolo del predetto limite si tiene conto anche dei contributi di assistenza sanitaria versati ai sensi dell'articolo 51, comma 2, lettera a). Per i contributi versati nell'interesse delle persone indicate nell'articolo 12, che si trovino nelle condizioni ivi previste, la deduzione spetta per l'ammontare non dedotto dalle persone stesse, fermo restando l'importo complessivamente stabilito. ((235))
+                                i contributi versati, fino ad un massimo di euro 3.615,20, ai fondi integrativi del Servizio sanitario nazionale istituiti o adeguati ai sensi dell'[articolo 9 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, ((iscritti all'Anagrafe dei fondi sanitari integrativi istituita con il decreto del Ministro della salute del 31 marzo 2008, pubblicato nella Gazzetta Ufficiale 18 giugno 2008, n. 141, che operino secondo il principio di mutualita' e solidarieta' tra gli iscritti)). Ai fini del calcolo del predetto limite si tiene conto anche dei contributi di assistenza sanitaria versati ai sensi dell'articolo 51, comma 2, lettera a). Per i contributi versati nell'interesse delle persone indicate nell'articolo 12, che si trovino nelle condizioni ivi previste, la deduzione spetta per l'ammontare non dedotto dalle persone stesse, fermo restando l'importo complessivamente stabilito. ((235))
                             f)
                                 le somme corrisposte ai dipendenti, chiamati ad adempiere funzioni presso gli uffici elettorali, in ottemperanza alle disposizioni dell'[articolo 119 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361](Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e dell'[articolo 1 della legge 30 aprile 1981, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-30;178#art_1);
                             g)
@@ -444,11 +444,11 @@ Dal reddito complessivo si deducono, se non sono deducibili nella determinazione
                             l-ter)
                                 le erogazioni liberali in denaro per il pagamento degli oneri difensivi dei soggetti ammessi al patrocinio a spese dello Stato, anche quando siano eseguite da persone fisiche.
                             l-quater)
-                                le erogazioni liberali in denaro effettuate a favore di universita', fondazioni universitarie di cui all'[articolo 59, comma 3, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_59-com3), del Fondo per il merito degli studenti universitari e di istituzioni universitarie pubbliche, degli enti di ricerca pubblici, ovvero degli enti di ricerca vigilati dal Ministero dell'istruzione, dell'universita' e della ricerca, ivi compresi l'Istituto superiore di sanita' e l'Istituto superiore per la prevenzione e la sicurezza del lavoro, nonche' degli enti parco regionali e nazionali.
+                                le erogazioni liberali in denaro effettuate a favore di universita', fondazioni universitarie di cui all'[articolo 59, comma 3, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), del Fondo per il merito degli studenti universitari e di istituzioni universitarie pubbliche, degli enti di ricerca pubblici, ovvero degli enti di ricerca vigilati dal Ministero dell'istruzione, dell'universita' e della ricerca, ivi compresi l'Istituto superiore di sanita' e l'Istituto superiore per la prevenzione e la sicurezza del lavoro, nonche' degli enti parco regionali e nazionali.
 
 2.
 
-Le spese di cui alla lettera b) del comma 1 sono deducibili anche se sono state sostenute per le persone indicate nell'[articolo 433 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_433). Tale disposizione si applica altresi' per gli oneri di cui alla lettera e) del comma 1 relativamente alle persone indicate nel medesimo [articolo 433 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_433) se fiscalmente a carico. Sono altresi' deducibili, fino all'importo di lire 3.000.000, i medesimi oneri versati per gli addetti ai servizi domestici e all'assistenza personale o familiare. PERIODO ABROGATO DAL [D.LGS. 5 DICEMBRE 2005, N. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252).
+Le spese di cui alla lettera b) del comma 1 sono deducibili anche se sono state sostenute per le persone indicate nell'[articolo 433 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_433). Tale disposizione si applica altresi' per gli oneri di cui alla lettera e) del comma 1 relativamente alle persone indicate nel medesimo [articolo 433 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_433) se fiscalmente a carico. Sono altresi' deducibili, fino all'importo di lire 3.000.000, i medesimi oneri versati per gli addetti ai servizi domestici e all'assistenza personale o familiare. PERIODO ABROGATO DAL [D.LGS. 5 DICEMBRE 2005, N. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md).
 
 2-bis.
 
@@ -460,14 +460,14 @@ Gli oneri di cui alle lettere f ), g ) e h) del comma 1 sostenuti dalle societa'
 
 3-bis.
 
-Se alla formazione del reddito complessivo concorrono il reddito dell'unita' immobiliare adibita ad abitazione principale e quello delle relative pertinenze, si deduce un importo fino all'ammontare della rendita catastale dell'unita' immobiliare stessa e delle relative pertinenze, rapportato al periodo dell'anno durante il quale sussiste tale destinazione ed in proporzione alla quota di possesso di detta unita' immobiliare. PERIODO SOPPRESSO DALLA [L. 23 DICEMBRE 2000, N.388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388). Sono pertinenze le cose immobili di cui all'[articolo 817 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_817), classificate o classificabili in categorie diverse da quelle ad uso abitativo, destinate ed effettivamente utilizzate in modo durevole a servizio delle unita' immobiliari adibite ad abitazione principale delle persone fisiche.
+Se alla formazione del reddito complessivo concorrono il reddito dell'unita' immobiliare adibita ad abitazione principale e quello delle relative pertinenze, si deduce un importo fino all'ammontare della rendita catastale dell'unita' immobiliare stessa e delle relative pertinenze, rapportato al periodo dell'anno durante il quale sussiste tale destinazione ed in proporzione alla quota di possesso di detta unita' immobiliare. PERIODO SOPPRESSO DALLA [L. 23 DICEMBRE 2000, N.388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md). Sono pertinenze le cose immobili di cui all'[articolo 817 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_817), classificate o classificabili in categorie diverse da quelle ad uso abitativo, destinate ed effettivamente utilizzate in modo durevole a servizio delle unita' immobiliari adibite ad abitazione principale delle persone fisiche.
 Per abitazione principale si intende quella nella quale la persona fisica, che la possiede a titolo di proprieta' o altro diritto reale, o i suoi familiari dimorano abitualmente. Non si tiene conto della variazione della dimora abituale se dipendente da ricovero permanente in istituti di ricovero o sanitari, a condizione che l'unita' immobiliare non risulti locata.
 
 --------------
 
 AGGIORNAMENTO (6)
 
-La [L. 29 dicembre 1988, n. 555](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20interventi%20finanziari%20per%20i%20settori%20dello%20spettacolo.md) ha disposto (con l'art. 2, comma 1) che "Fino al 31 dicembre 1992, l'aliquota del 2 per cento prevista dall'[articolo 10, comma 1, lettera r), del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_10-com1-letr), e' elevata al 20 per cento con il limite di 2 miliardi annui per ciascun soggetto d'imposta". 
+La [L. 29 dicembre 1988, n. 555](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20interventi%20finanziari%20per%20i%20settori%20dello%20spettacolo.md) ha disposto (con l'art. 2, comma 1) che "Fino al 31 dicembre 1992, l'aliquota del 2 per cento prevista dall'[articolo 10, comma 1, lettera r), del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevata al 20 per cento con il limite di 2 miliardi annui per ciascun soggetto d'imposta". 
  Ha inoltre disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1 gennaio 1989.
 
 --------------
@@ -489,7 +489,7 @@ Il [D.L. 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (10)
 
-Il [D.L. 29 maggio 1989, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-29;202), convertito con modificazioni dalla [L. 28 luglio 1989, n. 263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20agevolazioni%20tributarie%20per%20le%20z_37522897a618.md), ha disposto (con l'art. 1, comma 3-bis) che "Tra gli ausili previsti alla lettera e) del comma 1 dell'articolo 10 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si intendono comprese le automobili acquistate da cittadini con ridotte o impedite capacita' motorie, di cui alla [legge 9 aprile 1986, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-09;97)".
+Il [D.L. 29 maggio 1989, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-29;202), convertito con modificazioni dalla [L. 28 luglio 1989, n. 263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20agevolazioni%20tributarie%20per%20le%20z_37522897a618.md), ha disposto (con l'art. 1, comma 3-bis) che "Tra gli ausili previsti alla lettera e) del comma 1 dell'articolo 10 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si intendono comprese le automobili acquistate da cittadini con ridotte o impedite capacita' motorie, di cui alla [legge 9 aprile 1986, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-09;97)".
 
 ---------------
 
@@ -502,7 +502,7 @@ Il [D.L. 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (19)
 
-La [L. 29 dicembre 1990, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;405) ha disposto (con l'art. 5, comma 3) che le modifiche di cui alla lettera d), del comma 1, del presente articolo si applicano agli interessi passivi e relativi oneri accessori, nonche' alle quote di rivalutazione dipendenti da clausole di indicizzazione conseguenti a contratti stipulati dopo il 31 dicembre 1990. Ai contratti di mutuo stipulati anteriormente al 1 gennaio 1991 continuano ad applicarsi le disposizioni vigenti.
+La [L. 29 dicembre 1990, n. 405](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201991.md) ha disposto (con l'art. 5, comma 3) che le modifiche di cui alla lettera d), del comma 1, del presente articolo si applicano agli interessi passivi e relativi oneri accessori, nonche' alle quote di rivalutazione dipendenti da clausole di indicizzazione conseguenti a contratti stipulati dopo il 31 dicembre 1990. Ai contratti di mutuo stipulati anteriormente al 1 gennaio 1991 continuano ad applicarsi le disposizioni vigenti.
 
 ---------------
 
@@ -515,8 +515,8 @@ Il [D.L. 1 ottobre 1991, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 AGGIORNAMENTO (34)
 
 Il [D.L. 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384), convertito con modificazioni dalla [L. 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md) ha disposto: 
- - (con l'art. 10, comma 1) che "Ai fini dell'imposta sul reddito delle persone fisiche, per gli oneri di cui all'articolo 10, comma 1, lettere b-bis), c), d), e), f), g), m), o), p) ed r), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917) , e' riconosciuta, in luogo della deduzione, una detrazione di imposta nella misura del 27 per cento degli oneri stessi, ridotta al 22 per cento e al 10 per cento per la parte in cui l'ammontare dei predetti oneri eccede la differenza tra il reddito complessivo, al netto degli oneri diversi da quelli sopra indicati, e il limite superiore rispettivamente del secondo e del primo scaglione di reddito"; 
- - (con l'art. 10, comma 2) che "Le disposizioni del comma 1 si applicano anche con riferimento a quanto disposto dal comma 3 dell'articolo 10 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917) , e ai fini della determinazione del reddito degli enti non commerciali e delle societa' ed enti non residenti"; 
+ - (con l'art. 10, comma 1) che "Ai fini dell'imposta sul reddito delle persone fisiche, per gli oneri di cui all'articolo 10, comma 1, lettere b-bis), c), d), e), f), g), m), o), p) ed r), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) , e' riconosciuta, in luogo della deduzione, una detrazione di imposta nella misura del 27 per cento degli oneri stessi, ridotta al 22 per cento e al 10 per cento per la parte in cui l'ammontare dei predetti oneri eccede la differenza tra il reddito complessivo, al netto degli oneri diversi da quelli sopra indicati, e il limite superiore rispettivamente del secondo e del primo scaglione di reddito"; 
+ - (con l'art. 10, comma 2) che "Le disposizioni del comma 1 si applicano anche con riferimento a quanto disposto dal comma 3 dell'articolo 10 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) , e ai fini della determinazione del reddito degli enti non commerciali e delle societa' ed enti non residenti"; 
  - (con l'art. 10, comma 5) che "Le disposizioni del comma 1 si applicano agli oneri sostenuti dal periodo di imposta in corso alla data di entrata in vigore del presente decreto; quelle dei commi 2, 3 e 4 si applicano a decorrere dal medesimo periodo di imposta".
 
 ---------------
@@ -524,28 +524,28 @@ Il [D.L. 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:n
 AGGIORNAMENTO (48)
 
 Il [D.L. 31 maggio 1994, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;330), convertito con modificazioni dalla [L. 27 luglio 1994, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%201994%20n.%20330%20recante%20semplificazione%20di%20talune%20disposizioni%20in%20materia%20tributaria.md) ha disposto (con l'art. 2, comma 5) che le presenti modifiche si applicano dal periodo di imposta in corso alla data dell'8 dicembre 1993. 
- Ha inoltre disposto (con l'art. 3, comma 3) che "Per i premi per assicurazioni sulla vita del contribuente dedotti, fino al periodo d'imposta 1991, ai sensi dell'articolo 10, comma 1, lettera m), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nella formulazione vigente anteriormente alle modificazioni introdotte dal comma 1, lettera e), del presente articolo, in caso di riscatto dell'assicurazione nel corso del quinquennio, continua ad applicarsi la disposizione di cui allo stesso articolo 10, comma 1, lettera m), secondo periodo".
+ Ha inoltre disposto (con l'art. 3, comma 3) che "Per i premi per assicurazioni sulla vita del contribuente dedotti, fino al periodo d'imposta 1991, ai sensi dell'articolo 10, comma 1, lettera m), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nella formulazione vigente anteriormente alle modificazioni introdotte dal comma 1, lettera e), del presente articolo, in caso di riscatto dell'assicurazione nel corso del quinquennio, continua ad applicarsi la disposizione di cui allo stesso articolo 10, comma 1, lettera m), secondo periodo".
 
 ---------------
 
 AGGIORNAMENTO (65)
 
-La [L. 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662) ha disposto (con l'art. 3, comma 3) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data del 31 dicembre 1996.
+La [L. 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 3, comma 3) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data del 31 dicembre 1996.
 
 ---------------
 
 AGGIORNAMENTO (94)
 
-La [L. 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488) ha disposto (con l'art. 6, comma 4) che le presenti modifiche si applicano a decorrere dal periodo d'imposta 1999. 
+La [L. 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) ha disposto (con l'art. 6, comma 4) che le presenti modifiche si applicano a decorrere dal periodo d'imposta 1999. 
  Ha inoltre disposto (con l'art. 6, comma 6) che le disposizioni di cui al comma 3-bis non hanno effetto ai fini della determinazione delle imposte da versare a titolo di acconto dovute per il periodo di imposta 1999.
 
 ---------------
 
 AGGIORNAMENTO (97)
 
-Il [D.Lgs. 18 febbraio 2000, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;47) ha disposto: 
+Il [D.Lgs. 18 febbraio 2000, n. 47](../Decreti%20Legislativi/Riforma%20della%20disciplina%20fiscale%20della%20previdenza%20complementare%20a%20norma%20dellarticolo%203%20della%20legge%2013%20maggio%201999%20n.%20133.md) ha disposto: 
  - (con l'art. 4, comma 1) che "Le disposizioni dell'articolo 1, comma 1, lettera a), si applicano con riferimento ai contributi e ai premi versati alle forme pensionistiche previste dal [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), a decorrere dalla data da cui ha effetto il presente decreto"; 
- - (con l'art. 13, comma 2) che "Ai fini dell'applicazione degli articoli 10, comma 1, lettera e-bis) e 13-bis) comma 1, lettera f), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per i contratti di assicurazione che prevedono la copertura di piu' rischi aventi un regime fiscale differenziato, nella polizza e' evidenziato l'importo del premio afferente a ciascun rischio"; 
+ - (con l'art. 13, comma 2) che "Ai fini dell'applicazione degli articoli 10, comma 1, lettera e-bis) e 13-bis) comma 1, lettera f), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per i contratti di assicurazione che prevedono la copertura di piu' rischi aventi un regime fiscale differenziato, nella polizza e' evidenziato l'importo del premio afferente a ciascun rischio"; 
  - (con l'art. 16, comma 1) che "Le disposizioni dell'articolo 13 si applicano per i contratti stipulati a decorrere dalla data da cui ha effetto il presente decreto"; 
  - (con l'art. 19, comma 1) che "Il presente decreto entra in vigore il 1 giugno 2000 ed ha effetto relativamente ai contributi versati, ai rendimenti maturati, ai contratti stipulati, alle prestazioni maturate, alle rendite erogate a decorrere dal 1 gennaio 2001".
 
@@ -553,19 +553,19 @@ Il [D.Lgs. 18 febbraio 2000, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (102)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 30, comma 2) che "La disposizione di cui al terzo periodo del comma 2 dell'articolo 10 del citato testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), come modificato dal comma 1 del presente articolo, concernente gli oneri deducibili, si applica a partire dai contributi versati nel periodo d'imposta 2000".
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 30, comma 2) che "La disposizione di cui al terzo periodo del comma 2 dell'articolo 10 del citato testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), come modificato dal comma 1 del presente articolo, concernente gli oneri deducibili, si applica a partire dai contributi versati nel periodo d'imposta 2000".
 
 ---------------
 
 AGGIORNAMENTO (104)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 2, comma 8) che "Le disposizioni del comma 1, lettere a), e), numero 2), e h), numeri 1) e 2), si applicano a decorrere dal periodo d'imposta 2000; quelle di cui al medesimo comma, lettere b), c), d), e), numeri 1), 3), 4) e 5), f), g) e h), numero 3), e i), si applicano a decorrere dal periodo d'imposta 2001. Le disposizioni dei commi 5 e 6 si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 1999".
+La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 2, comma 8) che "Le disposizioni del comma 1, lettere a), e), numero 2), e h), numeri 1) e 2), si applicano a decorrere dal periodo d'imposta 2000; quelle di cui al medesimo comma, lettere b), c), d), e), numeri 1), 3), 4) e 5), f), g) e h), numero 3), e i), si applicano a decorrere dal periodo d'imposta 2001. Le disposizioni dei commi 5 e 6 si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 1999".
 
 ---------------
 
 AGGIORNAMENTO (107)
 
-Il [D.Lgs. 18 febbraio 2000, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;47), come modificato dal [D.Lgs. 12 aprile 2001, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-04-12;168) ha disposto: 
+Il [D.Lgs. 18 febbraio 2000, n. 47](../Decreti%20Legislativi/Riforma%20della%20disciplina%20fiscale%20della%20previdenza%20complementare%20a%20norma%20dellarticolo%203%20della%20legge%2013%20maggio%201999%20n.%20133.md), come modificato dal [D.Lgs. 12 aprile 2001, n. 168](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%2018%20febbraio%202000%20n.%2047%20in%20materia%20di%20riforma%20della%20disciplina%20fiscale%20della%20previdenza%20complementare.md) ha disposto: 
  - (con l'art. 4, comma 1) che "Le disposizioni dell'articolo 1, comma 1, lettera a), si applicano con riferimento ai contributi e ai premi versati alle forme pensionistiche previste dal [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), a decorrere dal 1° gennaio 2001"; 
  - (con l'art. 16, comma 1) che "Le disposizioni dell'articolo 13 si applicano per i contratti stipulati o rinnovati nonche' per i premi versati dalle forme pensionistiche complementari gestite mediante convenzioni assicurative a decorrere dal 1 gennaio 2001"; 
  - (con l'art. 19, comma 1) che "Il presente decreto entra in vigore il 1° gennaio 2001 ed ha effetto relativamente ai contributi versati, ai rendimenti maturati, ai contratti stipulati, alle prestazioni maturate, alle rendite erogate a decorrere dal 1 gennaio 2001".
@@ -574,20 +574,20 @@ Il [D.Lgs. 18 febbraio 2000, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (128)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 29) che "Le disposizioni introdotte dalle lettere a) e b) del comma 28 hanno effetto a decorrere dal 1° luglio 2007". 
- Ha inoltre disposto (con l'art. 1, comma 313) che "Nell'articolo 10, comma 1, lettera e-bis), primo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, dopo le parole: "previste dal [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md)" sono aggiunte le seguenti: ", nonche' quelli versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro delle finanze 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996, e successive modificazioni, emanato in attuazione dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239#art_11-com4-letc)"".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 29) che "Le disposizioni introdotte dalle lettere a) e b) del comma 28 hanno effetto a decorrere dal 1° luglio 2007". 
+ Ha inoltre disposto (con l'art. 1, comma 313) che "Nell'articolo 10, comma 1, lettera e-bis), primo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, dopo le parole: "previste dal [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md)" sono aggiunte le seguenti: ", nonche' quelli versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro delle finanze 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996, e successive modificazioni, emanato in attuazione dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md)"".
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 ------------
 
 AGGIORNAMENTO (161)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 174) che la presente modifica si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2013.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 174) che la presente modifica si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2013.
 
 ------------
 
@@ -605,7 +605,7 @@ Il [D.L. 9 agosto 2024, n. 113](../DL%20proroghe/Misure%20urgenti%20di%20caratte
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano ai componenti del reddito di lavoro dipendente percepiti a decorrere dal 1° gennaio 2025".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano ai componenti del reddito di lavoro dipendente percepiti a decorrere dal 1° gennaio 2025".
 
 ### Art. 10-bis.
 
@@ -616,7 +616,7 @@ Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 11.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 11.
 
 ### Art. 11. — (Determinazione dell'imposta)
 
@@ -650,13 +650,13 @@ Dall'imposta netta si detrae l'ammontare dei crediti d'imposta spettanti al cont
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 14) che "La disposizione di cui al comma 13 si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 14) che "La disposizione di cui al comma 13 si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2007".
 
 -------------
 
 AGGIORNAMENTO (229)
 
-Il [D.Lgs. 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216) ha disposto (con l'art. 1, comma 1) che "Per l'anno 2024, nella determinazione dell'imposta sul reddito sulle persone fisiche, l'imposta lorda e' calcolata applicando, in luogo delle aliquote previste dall'articolo 11, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le seguenti aliquote per scaglioni di reddito: 
+Il [D.Lgs. 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md) ha disposto (con l'art. 1, comma 1) che "Per l'anno 2024, nella determinazione dell'imposta sul reddito sulle persone fisiche, l'imposta lorda e' calcolata applicando, in luogo delle aliquote previste dall'articolo 11, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le seguenti aliquote per scaglioni di reddito: 
  a) fino a 28.000 euro, 23 per cento; 
  b) oltre 28.000 euro e fino a 50.000 euro, 35 per cento; 
  c) oltre 50.000 euro, 43 per cento. ".
@@ -665,7 +665,7 @@ Il [D.Lgs. 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (233)
 
-Il [D.L. 9 agosto 2024, n. 113](../DL%20proroghe/Misure%20urgenti%20di%20carattere%20fiscale%20proroghe%20di%20termini%20normativi%20ed%20interventi%20di%20carattere%20economico.%2024G00136.md) ha disposto (con l'art. 6, comma 2) che "A seguito dell'esercizio dell'opzione di cui al comma 1, in deroga a quanto previsto dall'articolo 11, comma 4, del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le imposte pagate in Svizzera sui redditi assoggettati all'imposta sostitutiva non sono ammesse in detrazione". 
+Il [D.L. 9 agosto 2024, n. 113](../DL%20proroghe/Misure%20urgenti%20di%20carattere%20fiscale%20proroghe%20di%20termini%20normativi%20ed%20interventi%20di%20carattere%20economico.%2024G00136.md) ha disposto (con l'art. 6, comma 2) che "A seguito dell'esercizio dell'opzione di cui al comma 1, in deroga a quanto previsto dall'articolo 11, comma 4, del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le imposte pagate in Svizzera sui redditi assoggettati all'imposta sostitutiva non sono ammesse in detrazione". 
  Ha inoltre disposto (con l'art. 6, comma 8) che la presente modifica si applica a decorrere dal periodo d'imposta 2024.
 
 ### Art. 12. — (Detrazioni per carichi di famiglia)
@@ -724,13 +724,13 @@ Ai fini del comma 1 il reddito complessivo e' assunto al netto del reddito dell'
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 16) che le presenti modifiche si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 16) che le presenti modifiche si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007.
 
 -------------
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 253) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2019.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 253) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2019.
 
 -------------
 
@@ -742,7 +742,7 @@ Il [D.Lgs. 21 dicembre 2021, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (241)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1 si applicano a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1 si applicano a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 13. — (Altre detrazioni)
 
@@ -763,7 +763,7 @@ COMMA ABROGATO DAL [D.L. 5 FEBBRAIO 2020, N. 3](https://www.normattiva.it/uri-re
 
 2.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md).
 
 3.
 
@@ -782,7 +782,7 @@ La detrazione spettante ai sensi del comma 3 e' aumentata di un importo pari a 5
 
 4.
 
-COMMA NON PIU' PREVISTO DALLA [L. 11 DICEMBRE 2016, N. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232).
+COMMA NON PIU' PREVISTO DALLA [L. 11 DICEMBRE 2016, N. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md).
 
 5.
 
@@ -814,7 +814,7 @@ Ai fini del presente articolo il reddito complessivo e' assunto al netto del red
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 12) che "Le disposizioni di cui al comma 11 si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007". 
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 12) che "Le disposizioni di cui al comma 11 si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007". 
  Ha inoltre disposto (con l'art. 1, comma 16) che "Le disposizioni di cui al comma 15 si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007".
 
 ---------------
@@ -822,13 +822,13 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 AGGIORNAMENTO (164)
 
 Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui al comma 1 si applicano per il solo periodo d'imposta 2014". 
- Inoltre ha disposto (con l'art. 1, comma 5) che "Il credito di cui all'articolo 13, comma 1-bis, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' attribuito sugli emolumenti corrisposti in ciascun periodo di paga rapportandolo al periodo stesso".
+ Inoltre ha disposto (con l'art. 1, comma 5) che "Il credito di cui all'articolo 13, comma 1-bis, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' attribuito sugli emolumenti corrisposti in ciascun periodo di paga rapportandolo al periodo stesso".
 
 ---------------
 
 AGGIORNAMENTO (229)
 
-Il [D.Lgs. 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216), ha disposto (con l'art. 1, comma 2) che "Per l'anno 2024, la detrazione prevista dall'articolo 13, comma 1, lettera a), primo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' innalzata a 1.955 euro".
+Il [D.Lgs. 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md), ha disposto (con l'art. 1, comma 2) che "Per l'anno 2024, la detrazione prevista dall'articolo 13, comma 1, lettera a), primo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' innalzata a 1.955 euro".
 
 ### Art. 13-bis.
 
@@ -839,7 +839,7 @@ Il [D.Lgs. 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 15.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 15.
 
 ### Art. 13-ter.
 
@@ -850,7 +850,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 16.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 16.
 
 ### Art. 14.
 
@@ -908,19 +908,19 @@ L'Amministrazione per i beni culturali ed ambientali da' immediata comunicazione
                             i-quinquies)
                                 le spese, per un importo non superiore a 210 euro, sostenute per l'iscrizione annuale e l'abbonamento, per i ragazzi di eta' compresa tra 5 e 18 anni, ad associazioni sportive, palestre, piscine ed altre strutture ed impianti sportivi destinati alla pratica sportiva dilettantistica rispondenti alle caratteristiche individuate con decreto del Presidente del Consiglio dei ministri, o Ministro delegato, di concerto con il Ministro dell'economia e delle finanze, e le attivita' sportive;
                             i-sexies)
-                                i canoni di locazione derivanti dai contratti di locazione stipulati o rinnovati ai sensi della [legge 9 dicembre 1998, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;431), e successive modificazioni, i canoni relativi ai contratti di ospitalita', nonche' agli atti di assegnazione in godimento o locazione, stipulati con enti per il diritto allo studio, universita', collegi universitari legalmente riconosciuti, enti senza fine di lucro e cooperative, dagli studenti iscritti ad un corso di laurea presso una universita' ubicata in un comune diverso da quello di residenza, distante da quest'ultimo almeno 100 chilometri e comunque in una provincia diversa, per unita' immobiliari situate nello stesso comune in cui ha sede 1' universita' o in comuni limitrofi, per un importo non superiore a 2.633 euro. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205). Alle medesime condizioni ed entro lo stesso limite, la detrazione spetta per i canoni derivanti da contratti di locazione e di ospitalita' ovvero da atti di assegnazione in godimento stipulati, ai sensi della normativa vigente nello Stato in cui l'immobile e' situato, dagli studenti iscritti a un corso di laurea presso un'universita' ubicata nel territorio di uno Stato membro dell'Unione europea o in uno degli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis; (148) 
+                                i canoni di locazione derivanti dai contratti di locazione stipulati o rinnovati ai sensi della [legge 9 dicembre 1998, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;431), e successive modificazioni, i canoni relativi ai contratti di ospitalita', nonche' agli atti di assegnazione in godimento o locazione, stipulati con enti per il diritto allo studio, universita', collegi universitari legalmente riconosciuti, enti senza fine di lucro e cooperative, dagli studenti iscritti ad un corso di laurea presso una universita' ubicata in un comune diverso da quello di residenza, distante da quest'ultimo almeno 100 chilometri e comunque in una provincia diversa, per unita' immobiliari situate nello stesso comune in cui ha sede 1' universita' o in comuni limitrofi, per un importo non superiore a 2.633 euro. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md). Alle medesime condizioni ed entro lo stesso limite, la detrazione spetta per i canoni derivanti da contratti di locazione e di ospitalita' ovvero da atti di assegnazione in godimento stipulati, ai sensi della normativa vigente nello Stato in cui l'immobile e' situato, dagli studenti iscritti a un corso di laurea presso un'universita' ubicata nel territorio di uno Stato membro dell'Unione europea o in uno degli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis; (148) 
  i-sexies.01) limitatamente ai periodi d'imposta in corso al 31 dicembre 2017 e al 31 dicembre 2018, il requisito della distanza di cui alla lettera i-sexies) si intende rispettato anche all'interno della stessa provincia ed e' ridotto a 50 chilometri per gli studenti residenti in zone montane o disagiate; 
  i-sexies.1) i canoni, e i relativi oneri accessori, per un importo non superiore a 8.000 euro, e il costo di acquisto a fronte dell'esercizio dell'opzione finale, per un importo non superiore a 20.000 euro, derivanti da contratti di locazione finanziaria su unita' immobiliari, anche da costruire, da adibire ad abitazione principale entro un anno dalla consegna, sostenuti da giovani di eta' inferiore a 35 anni con un reddito complessivo non superiore a 55.000 euro all'atto della stipula del contratto di locazione finanziaria che non sono titolari di diritti di proprieta' su immobili a destinazione abitativa; la detrazione spetta alle condizioni di cui alla lettera b); (174) 
  i-sexies.2) le spese di cui alla lettera i-sexies.1), alle condizioni ivi indicate e per importi non superiori alla meta' di quelli ivi indicati, sostenute da soggetti di eta' non inferiore a 35 anni con un reddito complessivo non superiore a 55.000 euro all'atto della stipula del contratto di locazione finanziaria che non sono titolari di diritti di proprieta' su immobili a destinazione abitativa. (174)
                             i-septies)
                                 le spese, per un importo non superiore a 2.100 euro, sostenute per gli addetti all'assistenza personale nei casi di non autosufficienza nel compimento degli atti della vita quotidiana, se il reddito complessivo non supera 40.000 euro.
                             i-octies)
-                                le erogazioni liberali a favore degli istituti scolastici di ogni ordine e grado, statali e paritari senza scopo di lucro appartenenti al sistema nazionale di istruzione di cui alla [legge 10 marzo 2000, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-10;62), e successive modificazioni, nonche' a favore degli istituti tecnici superiori di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, delle istituzioni dell'alta formazione artistica, musicale e coreutica e delle universita', finalizzate all'innovazione tecnologica, all'edilizia scolastica e universitaria e all'ampliamento dell'offerta formativa; la detrazione spetta a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23). (129) (160)
+                                le erogazioni liberali a favore degli istituti scolastici di ogni ordine e grado, statali e paritari senza scopo di lucro appartenenti al sistema nazionale di istruzione di cui alla [legge 10 marzo 2000, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-10;62), e successive modificazioni, nonche' a favore degli istituti tecnici superiori di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, delle istituzioni dell'alta formazione artistica, musicale e coreutica e delle universita', finalizzate all'innovazione tecnologica, all'edilizia scolastica e universitaria e all'ampliamento dell'offerta formativa; la detrazione spetta a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). (129) (160)
                             i-novies)
-                                le erogazioni liberali in denaro al Fondo per l'ammortamento dei titoli di Stato, di cui all'articolo 45, comma 1, lettera e), del testo unico di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398), effettuate mediante versamento bancario o postale ovvero secondo altre modalita' stabilite con apposito decreto del Ministro dell'economia e delle finanze. (161)
+                                le erogazioni liberali in denaro al Fondo per l'ammortamento dei titoli di Stato, di cui all'articolo 45, comma 1, lettera e), del testo unico di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), effettuate mediante versamento bancario o postale ovvero secondo altre modalita' stabilite con apposito decreto del Ministro dell'economia e delle finanze. (161)
                             i-decies)
                                 le spese sostenute per l'acquisto degli abbonamenti ai servizi di trasporto pubblico locale, regionale e interregionale per un importo non superiore a 250 euro. 
- 1.1 Dall'imposta lorda si detrae un importo pari al 24 per cento, per l'anno 2013, e al 26 per cento, a decorrere dall'anno 2014, per le erogazioni liberali in denaro, per importo non superiore a 30.000 euro annui, a favore delle organizzazioni non lucrative di utilita' sociale (ONLUS), delle iniziative umanitarie, religiose o laiche, gestite da fondazioni, associazioni, comitati ed enti individuati con decreto del Presidente del Consiglio dei ministri, nei Paesi non appartenenti all'Organizzazione per la cooperazione e lo sviluppo economico (OCSE). La detrazione e' consentita a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23), e secondo ulteriori modalita' idonee a consentire all'Amministrazione finanziaria lo svolgimento di efficaci controlli, che possono essere stabilite con decreto del Ministro dell'economia e delle finanze da emanare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3). (169)
+ 1.1 Dall'imposta lorda si detrae un importo pari al 24 per cento, per l'anno 2013, e al 26 per cento, a decorrere dall'anno 2014, per le erogazioni liberali in denaro, per importo non superiore a 30.000 euro annui, a favore delle organizzazioni non lucrative di utilita' sociale (ONLUS), delle iniziative umanitarie, religiose o laiche, gestite da fondazioni, associazioni, comitati ed enti individuati con decreto del Presidente del Consiglio dei ministri, nei Paesi non appartenenti all'Organizzazione per la cooperazione e lo sviluppo economico (OCSE). La detrazione e' consentita a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e secondo ulteriori modalita' idonee a consentire all'Amministrazione finanziaria lo svolgimento di efficaci controlli, che possono essere stabilite con decreto del Ministro dell'economia e delle finanze da emanare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3). (169)
 
 1-bis.
 
@@ -963,13 +963,13 @@ La detrazione compete per l'intero importo, a prescindere dall'ammontare del red
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 165.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 165.
 
 ---------------
 
 AGGIORNAMENTO (128)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 29) che "Le disposizioni introdotte dalle lettere a) e b) del comma 28 hanno effetto a decorrere dal 1° luglio 2007".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 29) che "Le disposizioni introdotte dalle lettere a) e b) del comma 28 hanno effetto a decorrere dal 1° luglio 2007".
 
 ---------------
 
@@ -993,32 +993,32 @@ Il [D.L. 12 settembre 2013, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (161)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147), ha disposto (con l'art. 1, comma 576) che "Qualora entro la predetta data non siano adottati i provvedimenti di cui al comma 575, anche in deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), la misura della detrazione prevista dall'articolo 15, comma 1, del testo unico delle imposte sui redditi, di cui al citato [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), e' ridotta al 18 per cento per il periodo d'imposta in corso al 31 dicembre 2013 e al 17 per cento a decorrere dal periodo d'imposta in corso al 31 dicembre 2014. La presente disposizione trova applicazione anche con riferimento agli oneri e alle spese la cui detraibilita' dall'imposta lorda e' riconducibile al citato articolo 15, comma 1, del medesimo testo unico".
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md), ha disposto (con l'art. 1, comma 576) che "Qualora entro la predetta data non siano adottati i provvedimenti di cui al comma 575, anche in deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), la misura della detrazione prevista dall'articolo 15, comma 1, del testo unico delle imposte sui redditi, di cui al citato [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), e' ridotta al 18 per cento per il periodo d'imposta in corso al 31 dicembre 2013 e al 17 per cento a decorrere dal periodo d'imposta in corso al 31 dicembre 2014. La presente disposizione trova applicazione anche con riferimento agli oneri e alle spese la cui detraibilita' dall'imposta lorda e' riconducibile al citato articolo 15, comma 1, del medesimo testo unico".
 
 -------------
 
 AGGIORNAMENTO (165)
 
-Il [D.L. 12 maggio 2014, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-05-12;74), convertito con modificazioni dalla [L. 26 giugno 2014, n. 93](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20maggio%202014%20n.%2074%20recante%20misure%20urgenti%20in%20favore%20delle%20popolazioni%20dellEmilia-Romagna%20colpite%20dal%20terremoto%20e%20dai%20successivi%20_d4abd95332b7.md), ha disposto (con l'art. 1, comma 9-quinquies) che "I termini previsti alla lettera a) del comma 1 della nota II-bis) all'articolo 1 della parte prima della tariffa annessa al testo unico di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, nonche' alla lettera b) del comma 1 dell'articolo 15 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, sono prorogati fino al termine di un anno dalla data di entrata in vigore della legge di conversione del presente decreto. La disposizione del presente comma si applica ai contribuenti proprietari di immobili situati nei comuni interessati dagli eventi sismici elencati nel [decreto-legge 6 giugno 2012, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-06;74), convertito, con modificazioni, dalla [legge 1º agosto 2012, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%202012%20n.%2074%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20che%20hanno%20interessato%20il%20t_a38c9dd46472.md)".
+Il [D.L. 12 maggio 2014, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-05-12;74), convertito con modificazioni dalla [L. 26 giugno 2014, n. 93](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20maggio%202014%20n.%2074%20recante%20misure%20urgenti%20in%20favore%20delle%20popolazioni%20dellEmilia-Romagna%20colpite%20dal%20terremoto%20e%20dai%20successivi%20_d4abd95332b7.md), ha disposto (con l'art. 1, comma 9-quinquies) che "I termini previsti alla lettera a) del comma 1 della nota II-bis) all'articolo 1 della parte prima della tariffa annessa al testo unico di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, nonche' alla lettera b) del comma 1 dell'articolo 15 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sono prorogati fino al termine di un anno dalla data di entrata in vigore della legge di conversione del presente decreto. La disposizione del presente comma si applica ai contribuenti proprietari di immobili situati nei comuni interessati dagli eventi sismici elencati nel [decreto-legge 6 giugno 2012, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-06;74), convertito, con modificazioni, dalla [legge 1º agosto 2012, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%202012%20n.%2074%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20che%20hanno%20interessato%20il%20t_a38c9dd46472.md)".
 
 -------------
 
 AGGIORNAMENTO (169)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 138) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 138) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
 
 -------------
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 84) che l'introduzione delle lettere i-sexies.1) e i-sexies.2) al comma 1 del presente articolo decorre dal 1° gennaio 2016 al 31 dicembre 2020. 
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 84) che l'introduzione delle lettere i-sexies.1) e i-sexies.2) al comma 1 del presente articolo decorre dal 1° gennaio 2016 al 31 dicembre 2020. 
  Ha inoltre disposto (con l'art. 1, comma 955) che le modifiche apportate al comma 1, lettere d) ed e) del presente articolo si applicano a partire dal periodo di imposta 2015.
 
 -------------
 
 AGGIORNAMENTO (186)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) ha disposto (con l'art. 104, comma 1) che "Le disposizioni di cui agli articoli 77, 78, 81, 82, 83 e 84, comma 2, 85 comma 7 e dell'articolo 102, comma 1, lettere e), f) e g) si applicano in via transitoria a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2017 e fino al periodo d'imposta di entrata in vigore delle disposizioni di cui al titolo X secondo quanto indicato al comma 2, alle Organizzazioni non lucrative di utilita' sociale di cui all'[articolo 10, del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_10) iscritte negli appositi registri, alle organizzazioni di volontariato iscritte nei registri di cui alla [legge 11 agosto 1991, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;266), e alle associazioni di promozione sociale iscritte nei registri nazionali, regionali e delle provincie autonome di Trento e Bolzano previsti dall'[articolo 7 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_7)".
+Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) ha disposto (con l'art. 104, comma 1) che "Le disposizioni di cui agli articoli 77, 78, 81, 82, 83 e 84, comma 2, 85 comma 7 e dell'articolo 102, comma 1, lettere e), f) e g) si applicano in via transitoria a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2017 e fino al periodo d'imposta di entrata in vigore delle disposizioni di cui al titolo X secondo quanto indicato al comma 2, alle Organizzazioni non lucrative di utilita' sociale di cui all'[articolo 10, del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) iscritte negli appositi registri, alle organizzazioni di volontariato iscritte nei registri di cui alla [legge 11 agosto 1991, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;266), e alle associazioni di promozione sociale iscritte nei registri nazionali, regionali e delle provincie autonome di Trento e Bolzano previsti dall'[articolo 7 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_7)".
 
 -------------
 
@@ -1032,21 +1032,21 @@ Il [D.L. 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 666) che "Le disposizioni di cui al comma 665 si applicano alle spese sostenute dall'anno d'imposta in corso al 31 dicembre 2018". 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 666) che "Le disposizioni di cui al comma 665 si applicano alle spese sostenute dall'anno d'imposta in corso al 31 dicembre 2018". 
  Ha inoltre disposto (con l'art. 1, comma 770) che la modifica di cui al comma 1, lettera f-bis) del presente articolo si applica esclusivamente per le polizze stipulate a decorrere dal 1° gennaio 2018.
 
 -------------
 
 AGGIORNAMENTO (200)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) ha disposto (con l'art. 1, comma 347) che "La detrazione di cui all'articolo 15, comma 1, lettera e-quater), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotta dal comma 346 del presente articolo al fine di sostenere le attivita' di contrasto alla poverta' educativa minorile, spetta a decorrere dal periodo d'imposta in corso alla data del 1° gennaio 2021".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) ha disposto (con l'art. 1, comma 347) che "La detrazione di cui all'articolo 15, comma 1, lettera e-quater), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotta dal comma 346 del presente articolo al fine di sostenere le attivita' di contrasto alla poverta' educativa minorile, spetta a decorrere dal periodo d'imposta in corso alla data del 1° gennaio 2021".
 
 -------------
 
 AGGIORNAMENTO (202)
 
 Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), ha disposto: 
- - (con l'art. 119, comma 4) che "Per gli interventi di cui ai [commi da 1-bis](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), l' aliquota delle detrazioni spettanti e' elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 31 dicembre 2021. Per gli interventi di cui al primo periodo, in caso di cessione del corrispondente credito ad un'impresa di assicurazione e di contestuale stipulazione di una polizza che copre il rischio di eventi calamitosi, la detrazione prevista nell'articolo 15, comma 1, lettera f-bis), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), spetta nella misura del 90 per cento. Le disposizioni del primo e del secondo periodo non si applicano agli edifici ubicati nella zona sismica 4 di cui all'ordinanza del Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003"; 
+ - (con l'art. 119, comma 4) che "Per gli interventi di cui ai [commi da 1-bis](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), l' aliquota delle detrazioni spettanti e' elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 31 dicembre 2021. Per gli interventi di cui al primo periodo, in caso di cessione del corrispondente credito ad un'impresa di assicurazione e di contestuale stipulazione di una polizza che copre il rischio di eventi calamitosi, la detrazione prevista nell'articolo 15, comma 1, lettera f-bis), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta nella misura del 90 per cento. Le disposizioni del primo e del secondo periodo non si applicano agli edifici ubicati nella zona sismica 4 di cui all'ordinanza del Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003"; 
  - (con l'art. 119, comma 4-bis) che "La detrazione spettante ai sensi del comma 4 del presente articolo e' riconosciuta anche per la realizzazione di sistemi di monitoraggio strutturale continuo a fini antisismici, a condizione che sia eseguita congiuntamente a uno degli interventi di cui ai [commi da 1-bis](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), nel rispetto dei limiti di spesa previsti dalla legislazione vigente per i medesimi interventi"; 
  - (con l'art. 119, comma 9) che le presenti modifiche si applicano agli interventi previsti dallo stesso art. 119, comma 9; 
  - (con l'art. 119, comma 15-bis) che le presenti modifiche "non si applicano alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9".
@@ -1055,7 +1055,7 @@ Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (229)
 
-Il [D.Lgs. 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216) ha disposto (con l'art. 2, comma 1) che "Ai fini dell'imposta sul reddito delle persone fisiche, per i contribuenti titolari di un reddito complessivo superiore a euro 50.000 l'ammontare della detrazione dall'imposta lorda, spettante per l'anno 2024 in relazione ai seguenti oneri, determinato ai sensi dell'articolo 15, comma 3-bis, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' diminuito di un importo pari a euro 260: 
+Il [D.Lgs. 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md) ha disposto (con l'art. 2, comma 1) che "Ai fini dell'imposta sul reddito delle persone fisiche, per i contribuenti titolari di un reddito complessivo superiore a euro 50.000 l'ammontare della detrazione dall'imposta lorda, spettante per l'anno 2024 in relazione ai seguenti oneri, determinato ai sensi dell'articolo 15, comma 3-bis, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' diminuito di un importo pari a euro 260: 
  a) gli oneri la cui detraibilita' e' fissata nella misura del 19 per cento dal citato testo unico delle imposte sui redditi o da qualsiasi altra disposizione fiscale, fatta eccezione per le spese sanitarie di cui all'articolo 15, comma 1, lettera c) del predetto testo unico; 
  b) le erogazioni liberali in favore dei partiti politici di cui all'[articolo 11 del decreto-legge 28 dicembre 2013, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-28;149#art_11), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 13](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202013%20n.%20149%20recante%20abolizione%20del%20finanziamento%20pubblico%20diretto%20disposizioni%20per%20la%20trasparenza%20e%20la%20democraticita%20d_04eeca483012.md); 
  c) i premi di assicurazione per rischio eventi calamitosi di cui all'articolo 119, comma 4, quinto periodo, del [decreto-legge 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito, con modificazioni, dalla [legge 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md)".
@@ -1106,13 +1106,13 @@ Qualora la detrazione spettante ai sensi del presente articolo sia di ammontare 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 17.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 17.
 
 ---------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 10) che "Le disposizioni di cui all'articolo 16 del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come modificato dal comma 9 del presente articolo, producono effetto a decorrere dal periodo di imposta in corso al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 10) che "Le disposizioni di cui all'articolo 16 del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come modificato dal comma 9 del presente articolo, producono effetto a decorrere dal periodo di imposta in corso al 31 dicembre 2007".
 
 ---------------
 
@@ -1126,13 +1126,13 @@ Il [D.L. 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 Dall'imposta lorda si detrae un importo pari al 36 per cento delle spese documentate, fino ad un ammontare complessivo delle stesse non superiore a 48.000 euro per unita' immobiliare, sostenute ed effettivamente rimaste a carico dei contribuenti che possiedono o detengono, sulla base di un titolo idoneo, l'immobile sul quale sono effettuati gli interventi:
                             a)
-                                di cui alle [lett. a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-leta) [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-letb), [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-letc) e [d) dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-letd), effettuati sulle parti comuni di edificio residenziale di cui all'[articolo 1117 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1117);
+                                di cui alle [lett. a)](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) [b)](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), [c)](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) e [d) dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), effettuati sulle parti comuni di edificio residenziale di cui all'[articolo 1117 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1117);
                             b)
                                 di cui alle lettere b),
                             c)
                                 e
                             d)
-                                dell'[articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3), effettuati sulle singole unita' immobiliari residenziali di qualsiasi categoria catastale, anche rurali, e sulle loro pertinenze; 
+                                dell'[articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), effettuati sulle singole unita' immobiliari residenziali di qualsiasi categoria catastale, anche rurali, e sulle loro pertinenze; 
  c) necessari alla ricostruzione o al ripristino dell'immobile danneggiato a seguito di eventi calamitosi, ancorche' non rientranti nelle categorie di cui alle lettere a) e b) del presente comma, sempreche' sia stato dichiarato lo stato di emergenza, anche anteriormente alla data di entrata in vigore della presente disposizione; 
  d) relativi alla realizzazione di autorimesse o posti auto pertinenziali anche a proprieta' comune;
                             e)
@@ -1154,7 +1154,7 @@ Tra le spese sostenute di cui al comma 1 sono comprese quelle di progettazione e
 
 3.
 
-La detrazione di cui al comma 1 spetta anche nel caso di interventi di restauro e risanamento conservativo e di ristrutturazione edilizia di cui di cui alle [lettere c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-com1-letc) e [d) del comma 1 dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-com1-letd), riguardanti interi fabbricati, eseguiti da imprese di costruzione o ristrutturazione immobiliare e da cooperative edilizie, che provvedano entro diciotto mesi dalla data di termine dei lavori alla successiva alienazione o assegnazione dell'immobile. La detrazione spetta al successivo acquirente o assegnatario delle singole unita' immobiliari, in ragione di un'aliquota del 36 per cento del valore degli interventi eseguiti, che si assume in misura pari al 25 per cento del prezzo dell'unita' immobiliare risultante nell'atto pubblico di compravendita o di assegnazione e, comunque, entro l'importo massimo di 48.000 euro.
+La detrazione di cui al comma 1 spetta anche nel caso di interventi di restauro e risanamento conservativo e di ristrutturazione edilizia di cui di cui alle [lettere c)](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) e [d) del comma 1 dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), riguardanti interi fabbricati, eseguiti da imprese di costruzione o ristrutturazione immobiliare e da cooperative edilizie, che provvedano entro diciotto mesi dalla data di termine dei lavori alla successiva alienazione o assegnazione dell'immobile. La detrazione spetta al successivo acquirente o assegnatario delle singole unita' immobiliari, in ragione di un'aliquota del 36 per cento del valore degli interventi eseguiti, che si assume in misura pari al 25 per cento del prezzo dell'unita' immobiliare risultante nell'atto pubblico di compravendita o di assegnazione e, comunque, entro l'importo massimo di 48.000 euro.
 
 3-bis.
 
@@ -1186,7 +1186,7 @@ In caso di vendita dell'unita' immobiliare sulla quale sono stati realizzati gli
 
 9.
 
-Si applicano le disposizioni di cui al decreto del Ministro delle finanze di concerto con il [Ministro dei lavori pubblici 18 febbraio 1998, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1998-02-18;41), pubblicato nella Gazzetta Ufficiale 13 marzo 1998, n. 60, con il quale e' stato adottato il "Regolamento recante norme di attuazione e procedure di controllo di cui all'[articolo 1 della L. 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_1), in materia di detrazioni per le spese di ristrutturazione edilizia".
+Si applicano le disposizioni di cui al decreto del Ministro delle finanze di concerto con il [Ministro dei lavori pubblici 18 febbraio 1998, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1998-02-18;41), pubblicato nella Gazzetta Ufficiale 13 marzo 1998, n. 60, con il quale e' stato adottato il "Regolamento recante norme di attuazione e procedure di controllo di cui all'[articolo 1 della L. 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), in materia di detrazioni per le spese di ristrutturazione edilizia".
 
 10.
 
@@ -1196,40 +1196,40 @@ Con successivo decreto del Ministro dell'economia e delle finanze possono essere
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 18.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 18.
 
 -------------
 
 AGGIORNAMENTO (147)
 
-Il [D.L. 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito con modificazioni dalla [L. 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), ha disposto (con l'art. 4, comma 4) che "La detrazione prevista dall'articolo 16-bis comma 1, lettera h), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come introdotto dal presente articolo, si applica alle spese effettuate a decorrere dal 1° gennaio 2013".
+Il [D.L. 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito con modificazioni dalla [L. 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), ha disposto (con l'art. 4, comma 4) che "La detrazione prevista dall'articolo 16-bis comma 1, lettera h), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come introdotto dal presente articolo, si applica alle spese effettuate a decorrere dal 1° gennaio 2013".
 
 -------------
 
 AGGIORNAMENTO (152)
 
 Il [D.L. 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito con modificazioni dalla [L. 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), come modificato dal [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito con modificazioni dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), non prevede piu' (con l'art. 4, comma 4) che la detrazione prevista dal comma 1, lettera h) del presente articolo si applichi alle spese effettuate a decorrere dal 1° gennaio 2013. 
- Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), ha disposto (con l'art. 11, comma 1) che "Per le spese documentate, sostenute dalla data di entrata in vigore del presente decreto e fino al 30 giugno 2013, relative agli interventi di cui all'[articolo 16-bis, comma 1 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_16bis-com1), spetta una detrazione dall'imposta lorda pari al 50 per cento, fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. Restano ferme le ulteriori disposizioni contenute nel citato articolo 16-bis".
+ Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), ha disposto (con l'art. 11, comma 1) che "Per le spese documentate, sostenute dalla data di entrata in vigore del presente decreto e fino al 30 giugno 2013, relative agli interventi di cui all'[articolo 16-bis, comma 1 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta una detrazione dall'imposta lorda pari al 50 per cento, fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. Restano ferme le ulteriori disposizioni contenute nel citato articolo 16-bis".
 
 -------------
 
 AGGIORNAMENTO (155)
 
-Il [D.L. 10 ottobre 2012, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-10;174), convertito con modificazioni dalla [L. 7 dicembre 2012, n. 213](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20ottobre%202012%20n.%20174%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20e%20funzionamento%20degli%20enti%20territoriali%20nonche%20ulteriori_8aa8e76387bd.md), ha disposto (con l'art. 11, comma 13-ter) che "Al fine di garantire la corretta applicazione delle agevolazioni di cui all'articolo 16-bis, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n.917, e di cui all'articolo 11, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_11-com1), del [decreto-legge 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), le citate norme si interpretano nel senso che esse sono applicabili anche ai soggetti danneggiati dagli eventi sismici del 20 e 29 maggio 2012, beneficiari del contributo di cui all'articolo 1, comma 3, del decreto del Presidente del Consiglio dei ministri 4 luglio 2012, pubblicato nella Gazzetta Ufficiale n. 156 del 6 luglio 2012, relativamente alla quota delle spese di ricostruzione sostenuta dai medesimi".
+Il [D.L. 10 ottobre 2012, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-10;174), convertito con modificazioni dalla [L. 7 dicembre 2012, n. 213](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20ottobre%202012%20n.%20174%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20e%20funzionamento%20degli%20enti%20territoriali%20nonche%20ulteriori_8aa8e76387bd.md), ha disposto (con l'art. 11, comma 13-ter) che "Al fine di garantire la corretta applicazione delle agevolazioni di cui all'articolo 16-bis, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n.917, e di cui all'articolo 11, comma 1](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), del [decreto-legge 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), le citate norme si interpretano nel senso che esse sono applicabili anche ai soggetti danneggiati dagli eventi sismici del 20 e 29 maggio 2012, beneficiari del contributo di cui all'articolo 1, comma 3, del decreto del Presidente del Consiglio dei ministri 4 luglio 2012, pubblicato nella Gazzetta Ufficiale n. 156 del 6 luglio 2012, relativamente alla quota delle spese di ricostruzione sostenuta dai medesimi".
 
 ------------
 
 AGGIORNAMENTO (158)
 
-Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito con modificazioni dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), come modificato dal [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), ha disposto (con l'art. 11, comma 1) che "Per le spese documentate, sostenute dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 2013, relative agli interventi di cui all'[articolo 16-bis, comma 1 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_16bis-com1), spetta una detrazione dall'imposta lorda pari al 50 per cento, fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. Restano ferme le ulteriori disposizioni contenute nel citato articolo 16-bis". 
+Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito con modificazioni dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), come modificato dal [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), ha disposto (con l'art. 11, comma 1) che "Per le spese documentate, sostenute dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 2013, relative agli interventi di cui all'[articolo 16-bis, comma 1 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta una detrazione dall'imposta lorda pari al 50 per cento, fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. Restano ferme le ulteriori disposizioni contenute nel citato articolo 16-bis". 
  Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), nel modificare l'[art. 11, comma 1, del D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83#art_11-com1), convertito con modificazioni dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md), ha conseguentemente disposto (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1 e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, nella misura del 50 per cento delle ulteriori spese documentate e sostenute dalla data di entrata in vigore del presente decreto per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore alla A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, e' calcolata su un ammontare complessivo non superiore a 10.000 euro".
 
 ------------
 
 AGGIORNAMENTO (161)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147), ha disposto: 
- - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al: 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md), ha disposto: 
+ - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al: 
  a) 50 per cento, per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2014; 
  b) 40 per cento, per le spese sostenute dal 1º gennaio 2015 al 31 dicembre 2015". 
  - (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1 e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore alla A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute dal 6 giugno 2013 al 31 dicembre 2014 ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro".
@@ -1238,26 +1238,26 @@ Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Dispo
 
 AGGIORNAMENTO (169)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190), ha disposto: 
- - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2015"; 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), ha disposto: 
+ - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2015"; 
  - (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1 e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore alla A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute dal 6 giugno 2013 al 31 dicembre 2015 ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro".
 
 -------------
 
 AGGIORNAMENTO (174)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto: 
- -(con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2016"; 
- -(con l'art. 16, comma 1-bis) che "Per le spese sostenute per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le cui procedure autorizzatorie sono attivate dopo la data di entrata in vigore della legge di conversione del presente decreto, su edifici ricadenti nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione principale o ad attivita' produttive, spetta, fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare, una detrazione dall'imposta lorda nella misura del 65 per cento per le spese sostenute sino al 31 dicembre 2016". 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto: 
+ -(con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2016"; 
+ -(con l'art. 16, comma 1-bis) che "Per le spese sostenute per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le cui procedure autorizzatorie sono attivate dopo la data di entrata in vigore della legge di conversione del presente decreto, su edifici ricadenti nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione principale o ad attivita' produttive, spetta, fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare, una detrazione dall'imposta lorda nella misura del 65 per cento per le spese sostenute sino al 31 dicembre 2016". 
  -(con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1 e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore alla A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute dal 6 giugno 2013 al 31 dicembre 2016 ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro. PERIODO SOPPRESSO DAL [D.L. 28 MARZO 2014, N. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-03-28;47), CONVERTITO CON MODIFICAZIONI DALLA [L. 23 MAGGIO 2014, N. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%202014%20n.%2047%20recante%20misure%20urgenti%20per%20lemergenza%20abitativa%20per%20il%20mercato%20delle%20costruzioni%20e%20per%20Expo%202015.%2014G00092.md). Le spese di cui al presente comma sono computate, ai fini della fruizione della detrazione d'imposta, indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1".
 
 ------------
 
 AGGIORNAMENTO (181)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L.	11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232), ha disposto: 
- - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2017"; 
- - (con l'art. 16, comma 1-bis) che "Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2021 per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le cui procedure autorizzatorie sono iniziate dopo la data di entrata in vigore della presente disposizione, su edifici ubicati nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione e ad attivita' produttive, spetta una detrazione dall'imposta lorda nella misura del 50 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a 96.000 euro per unita' immobiliare per ciascun anno. La detrazione e' ripartita in cinque quote annuali di pari importo nell'anno di sostenimento delle spese e in quelli successivi. Nel caso in cui gli interventi di cui al presente comma realizzati in ciascun anno consistano nella mera prosecuzione di interventi iniziati in anni precedenti, ai fini del computo del limite massimo delle spese ammesse a fruire della detrazione si tiene conto anche delle spese sostenute negli stessi anni per le quali si e' gia' fruito della detrazione"; 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L.	11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), ha disposto: 
+ - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2017"; 
+ - (con l'art. 16, comma 1-bis) che "Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2021 per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le cui procedure autorizzatorie sono iniziate dopo la data di entrata in vigore della presente disposizione, su edifici ubicati nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione e ad attivita' produttive, spetta una detrazione dall'imposta lorda nella misura del 50 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a 96.000 euro per unita' immobiliare per ciascun anno. La detrazione e' ripartita in cinque quote annuali di pari importo nell'anno di sostenimento delle spese e in quelli successivi. Nel caso in cui gli interventi di cui al presente comma realizzati in ciascun anno consistano nella mera prosecuzione di interventi iniziati in anni precedenti, ai fini del computo del limite massimo delle spese ammesse a fruire della detrazione si tiene conto anche delle spese sostenute negli stessi anni per le quali si e' gia' fruito della detrazione"; 
  -(con l'art. 16, comma 1-ter) che "A decorrere dal 1º gennaio 2017 e fino al 31 dicembre 2021, le disposizioni del comma 1-bis si applicano anche agli edifici ubicati nella zona sismica 3 di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003"; 
  - (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1, limitatamente agli interventi di recupero del patrimonio edilizio iniziati a decorrere dal 1º gennaio 2016, e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute nell'anno 2017 per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore ad A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro, considerato, per gli interventi effettuati nell'anno 2016 ovvero per quelli iniziati nel medesimo anno e proseguiti nel 2017, al netto delle spese sostenute nell'anno 2016 per le quali si e' fruito della detrazione. Ai fini della fruizione della detrazione dall'imposta, le spese di cui al presente comma sono computate indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1".
 
@@ -1265,21 +1265,21 @@ Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Dispo
 
 AGGIORNAMENTO (189)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2018". 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2018". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1, limitatamente agli interventi di recupero del patrimonio edilizio iniziati a decorrere dal 1º gennaio 2017, e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute nell' anno 2018 per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore ad A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro, considerato, per gli interventi effettuati nell' anno 2017 ovvero per quelli iniziati nel medesimo anno e proseguiti nel 2018, al netto delle spese sostenute nell'anno 2017 per le quali si e' fruito della detrazione. Ai fini della fruizione della detrazione dall'imposta, le spese di cui al presente comma sono computate indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1".
 
 ------------
 
 AGGIORNAMENTO (193)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2019". 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2019". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1, limitatamente agli interventi di recupero del patrimonio edilizio iniziati a decorrere dal 1° gennaio 2018, e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute nell' anno 2019 per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore ad A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro, considerato, per gli interventi effettuati nell' anno 2018 ovvero per quelli iniziati nel medesimo anno e proseguiti nel 2019, al netto delle spese sostenute nell' anno 2018 per le quali si e' fruito della detrazione. Ai fini della fruizione della detrazione dall'imposta, le spese di cui al presente comma sono computate indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1".
 
 ------------
 
 AGGIORNAMENTO (200)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2020". 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2020". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1, limitatamente agli interventi di recupero del patrimonio edilizio iniziati a decorrere dal 1° gennaio 2019, e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute nell' anno 2020 per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore ad A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro, considerato, per gli interventi effettuati nell' anno 2019 ovvero per quelli iniziati nel medesimo anno e proseguiti nel 2020, al netto delle spese sostenute nell' anno 2019 per le quali si e' fruito della detrazione. Ai fini della fruizione della detrazione dall'imposta, le spese di cui al presente comma sono computate indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1".
 
 ------------
@@ -1287,30 +1287,30 @@ Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Dispo
 AGGIORNAMENTO (202)
 
 Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), ha disposto: 
- - (con l'art. 119, comma 5) che "Per l'installazione di impianti solari fotovoltaici connessi alla rete elettrica su edifici ai sensi dell'articolo 1, comma 1, lettere a), b), c) e d), del regolamento di cui al [decreto del Presidente della Repubblica 26 agosto 1993, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-08-26;412), la detrazione di cui all'articolo 16-bis, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), spetta, per le spese sostenute dal 1° luglio 2020 al 31 dicembre 2021, nella misura del 110 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a euro 48.000 e comunque nel limite di spesa di euro 2.400 per ogni kW di potenza nominale dell'impianto solare fotovoltaico, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, sempreche' l'installazione degli impianti sia eseguita congiuntamente ad uno degli interventi di cui ai commi 1 o 4 del presente articolo. In caso di interventi di cui all'articolo 3, comma 1, lettere d), e) e f), del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380), il predetto limite di spesa e' ridotto ad euro 1.600 per ogni kW di potenza nominale"; 
+ - (con l'art. 119, comma 5) che "Per l'installazione di impianti solari fotovoltaici connessi alla rete elettrica su edifici ai sensi dell'articolo 1, comma 1, lettere a), b), c) e d), del regolamento di cui al [decreto del Presidente della Repubblica 26 agosto 1993, n. 412](Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md), la detrazione di cui all'articolo 16-bis, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta, per le spese sostenute dal 1° luglio 2020 al 31 dicembre 2021, nella misura del 110 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a euro 48.000 e comunque nel limite di spesa di euro 2.400 per ogni kW di potenza nominale dell'impianto solare fotovoltaico, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, sempreche' l'installazione degli impianti sia eseguita congiuntamente ad uno degli interventi di cui ai commi 1 o 4 del presente articolo. In caso di interventi di cui all'articolo 3, comma 1, lettere d), e) e f), del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), il predetto limite di spesa e' ridotto ad euro 1.600 per ogni kW di potenza nominale"; 
  - (con l'art. 119, comma 6) che "La detrazione di cui al comma 5 e' riconosciuta anche per l'installazione contestuale o successiva di sistemi di accumulo integrati negli impianti solari fotovoltaici agevolati con la detrazione di cui al medesimo comma 5, alle stesse condizioni, negli stessi limiti di importo e ammontare complessivo e comunque nel limite di spesa di euro 1.000 per ogni kWh di capacita' di accumulo del sistema di accumulo"; 
  - (con l'art. 119, comma 7) che "La detrazione di cui ai commi 5 e 6 del presente articolo e' subordinata alla cessione in favore del Gestore dei servizi energetici (GSE), con le modalita' di cui all'[articolo 13, comma 3, del decreto legislativo 29 dicembre 2003, n. 387](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), dell'energia non autoconsumata in sito ovvero non condivisa per l'autoconsumo, ai sensi dell'[articolo 42-bis del decreto-legge 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito, con modificazioni, dalla [legge 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), e non e' cumulabile con altri incentivi pubblici o altre forme di agevolazione di qualsiasi natura previste dalla normativa europea, nazionale e regionale, compresi i fondi di garanzia e di rotazione di cui all'[articolo 11, comma 4, del decreto legislativo 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28#art_11-com4), e gli incentivi per lo scambio sul posto di cui all'[articolo 25-bis del decreto-legge 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91#art_25bis), convertito, con modificazioni, dalla [legge 11 agosto 2014, n. 116](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202014%20n.%2091%20recante%20disposizioni%20urgenti%20per%20il%20settore%20agricolo%20la%20tutela%20ambientale%20e%20lefficientamento%20energetico%20delle_0330d926bce6.md). Con il decreto di cui al comma 9 del citato [articolo 42-bis del decreto-legge n. 162 del 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019;162#art_42bis), il Ministro dello sviluppo economico individua i limiti e le modalita' relativi all'utilizzo e alla valorizzazione dell'energia condivisa prodotta da impianti incentivati ai sensi del presente comma"; 
  - (con l'art. 119, comma 9) che le presenti modifiche si applicano agli interventi previsti dal comma 9 dell'art. 119 del medesimo [D.L. 19 maggio 2020, n. 34; 
  - (con l'art. 119, comma 15-bis)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34#art_119-com15bis) che le presenti modifiche "non si applicano alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9"; 
- - (con l'art. 119, comma 16-bis) che "La detrazione prevista dall'articolo 16-bis, comma 1, lettera h), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per gli impianti a fonte rinnovabile gestiti da soggetti che aderiscono alle configurazioni di cui al citato [articolo 42-bis del decreto-legge n. 162 del 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019;162#art_42bis) si applica fino alla soglia di 200 kW e per un ammontare complessivo di spesa non superiore a euro 96.000"; 
+ - (con l'art. 119, comma 16-bis) che "La detrazione prevista dall'articolo 16-bis, comma 1, lettera h), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per gli impianti a fonte rinnovabile gestiti da soggetti che aderiscono alle configurazioni di cui al citato [articolo 42-bis del decreto-legge n. 162 del 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019;162#art_42bis) si applica fino alla soglia di 200 kW e per un ammontare complessivo di spesa non superiore a euro 96.000"; 
  - (con l'art. 119, comma 16-ter) che "Le disposizioni del comma 5 si applicano all'installazione degli impianti di cui al comma 16-bis.
-L'aliquota di cui al medesimo comma 5 si applica alla quota di spesa corrispondente alla potenza massima di 20 kW e per la quota di spesa corrispondente alla potenza eccedente 20 kW spetta la detrazione stabilita dall'articolo 16-bis, comma 1, lettera h), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel limite massimo di spesa complessivo di euro 96.000 riferito all'intero impianto".
+L'aliquota di cui al medesimo comma 5 si applica alla quota di spesa corrispondente alla potenza massima di 20 kW e per la quota di spesa corrispondente alla potenza eccedente 20 kW spetta la detrazione stabilita dall'articolo 16-bis, comma 1, lettera h), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel limite massimo di spesa complessivo di euro 96.000 riferito all'intero impianto".
 
 ------------
 
 AGGIORNAMENTO (204)
 
-Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), ha disposto: 
- - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2021"; 
- - (con l'art. 16, comma 1-bis) che "Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2021 per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le cui procedure autorizzatorie sono iniziate dopo la data di entrata in vigore della presente disposizione ovvero per i quali sia stato rilasciato il titolo edilizio, su edifici ubicati nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione e ad attivita' produttive, spetta una detrazione dall'imposta lorda nella misura del 50 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a 96.000 euro per unita' immobiliare per ciascun anno. La detrazione e' ripartita in cinque quote annuali di pari importo nell'anno di sostenimento delle spese e in quelli successivi. Nel caso in cui gli interventi di cui al presente comma realizzati in ciascun anno consistano nella mera prosecuzione di interventi iniziati in anni precedenti, ai fini del computo del limite massimo delle spese ammesse a fruire della detrazione si tiene conto anche delle spese sostenute negli stessi anni per le quali si e' gia' fruito della detrazione"; 
+Il [D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dalla [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), ha disposto: 
+ - (con l'art. 16, comma 1) che "Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate, relative agli interventi indicati nel comma 1 del citato articolo 16-bis, spetta una detrazione dall'imposta lorda fino ad un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. La detrazione e' pari al 50 per cento per le spese sostenute dal 26 giugno 2012 al 31 dicembre 2021"; 
+ - (con l'art. 16, comma 1-bis) che "Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2021 per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le cui procedure autorizzatorie sono iniziate dopo la data di entrata in vigore della presente disposizione ovvero per i quali sia stato rilasciato il titolo edilizio, su edifici ubicati nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione e ad attivita' produttive, spetta una detrazione dall'imposta lorda nella misura del 50 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a 96.000 euro per unita' immobiliare per ciascun anno. La detrazione e' ripartita in cinque quote annuali di pari importo nell'anno di sostenimento delle spese e in quelli successivi. Nel caso in cui gli interventi di cui al presente comma realizzati in ciascun anno consistano nella mera prosecuzione di interventi iniziati in anni precedenti, ai fini del computo del limite massimo delle spese ammesse a fruire della detrazione si tiene conto anche delle spese sostenute negli stessi anni per le quali si e' gia' fruito della detrazione"; 
  - (con l'art. 16, comma 2) che "Ai contribuenti che fruiscono della detrazione di cui al comma 1, limitatamente agli interventi di recupero del patrimonio edilizio iniziati a decorrere dal 1° gennaio 2020, e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute nell'anno 2021 per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore ad A+, nonche' A per i forni, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 16.000 euro, considerato, per gli interventi effettuati nell'anno 2020 ovvero per quelli iniziati nel medesimo anno e proseguiti nel 2021, al netto delle spese sostenute nell'anno 2020 per le quali si e' fruito della detrazione. Ai fini della fruizione della detrazione dall'imposta, le spese di cui al presente comma sono computate indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1". 
- La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), nel modificare l'[art. 16, comma 1-bis del D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), ha conseguentemente disposto (con l'art. 1, comma 74) che "L'efficacia delle proroghe di cui ai commi da 66 a 72 resta subordinata alla definitiva approvazione da parte del Consiglio dell'Unione europea. Restano fermi gli obblighi di monitoraggio e di rendicontazione previsti nel Piano nazionale per la ripresa e la resilienza per tale progetto".
+ La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), nel modificare l'[art. 16, comma 1-bis del D.L. 4 giugno 2013, n. 63](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), ha conseguentemente disposto (con l'art. 1, comma 74) che "L'efficacia delle proroghe di cui ai commi da 66 a 72 resta subordinata alla definitiva approvazione da parte del Consiglio dell'Unione europea. Restano fermi gli obblighi di monitoraggio e di rendicontazione previsti nel Piano nazionale per la ripresa e la resilienza per tale progetto".
 
 ------------
 
 AGGIORNAMENTO (209)
 
-Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), come modificato dal [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), ha disposto (con l'art. 119, comma 4) che l'aliquota delle detrazioni spettanti, elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 30 giugno 2022, "si applica anche agli interventi previsti dall'articolo 16-bis, comma 1, lettera e), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), anche ove effettuati in favore di persone di eta' superiore a sessantacinque anni ed a condizione che siano eseguiti congiuntamente ad almeno uno degli interventi indicati nel primo periodo e che non siano gia' richiesti ai sensi del comma 2 della presente disposizione".
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), come modificato dal [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), ha disposto (con l'art. 119, comma 4) che l'aliquota delle detrazioni spettanti, elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 30 giugno 2022, "si applica anche agli interventi previsti dall'articolo 16-bis, comma 1, lettera e), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), anche ove effettuati in favore di persone di eta' superiore a sessantacinque anni ed a condizione che siano eseguiti congiuntamente ad almeno uno degli interventi indicati nel primo periodo e che non siano gia' richiesti ai sensi del comma 2 della presente disposizione".
 
 ### Art. 16-ter. — (Riordino delle detrazioni)
 
@@ -1374,7 +1374,7 @@ L'imposta si applica separatamente sui seguenti redditi:
                             a)
                                 trattamento di fine rapporto di cui all'[articolo 2120 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2120) e indennita' equipollenti, comunque denominate, commisurate alla durata dei rapporti di lavoro dipendente, compresi quelli contemplati alle lettere a), d) e g) del comma 1 dell'articolo 47, anche nelle ipotesi di cui all'[articolo 2122 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2122); altre indennita' e somme percepite una volta tanto in dipendenza della cessazione dei predetti rapporti, comprese l'indennita' di preavviso, le somme risultanti dalla capitalizzazione di pensioni e quelle attribuite a fronte dell'obbligo di non concorrenza ai sensi dell'[articolo 2125 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2125) nonche' le somme e i valori comunque percepiti, al netto delle spese legali sostenute, anche se a titolo risarcitorio o nel contesto di procedure esecutive, a seguito di provvedimenti dell'autorita' giudiziaria o di transazioni relativi alla risoluzione del rapporto di lavoro;
                             a-bis)
-                                LETTERA ABROGATA DAL [D.LGS. 5 DICEMBRE 2005, N. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252);
+                                LETTERA ABROGATA DAL [D.LGS. 5 DICEMBRE 2005, N. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md);
                             b)
                                 emolumenti arretrati per prestazioni di lavoro dipendente riferibili ad anni precedenti, percepiti per effetto di leggi, di contratti collettivi, di sentenze o di atti amministrativi sopravvenuti o per altre cause non dipendenti dalla volonta' delle parti, compresi i compensi e le indennita' di cui al comma 1 dell'articolo 47 e al comma 2 dell'articolo 46;
                             c)
@@ -1386,7 +1386,7 @@ L'imposta si applica separatamente sui seguenti redditi:
                             e)
                                 indennita' percepite per la cessazione da funzioni notarili;
                             f)
-                                indennita' percepite dai lavoratori subordinati sportivi al termine dell'attivita' sportiva ai sensi dell'[articolo 26, comma 4, del decreto legislativo 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36#art_26-com4), se non rientranti tra le indennita' indicate alla lettera a); (205) (208) (221)
+                                indennita' percepite dai lavoratori subordinati sportivi al termine dell'attivita' sportiva ai sensi dell'[articolo 26, comma 4, del decreto legislativo 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), se non rientranti tra le indennita' indicate alla lettera a); (205) (208) (221)
                             g)
                                 plusvalenze, compreso il valore di avviamento, realizzate mediante cessione a titolo oneroso di aziende possedute da piu' di cinque anni e redditi conseguiti in dipendenza di liquidazione, anche concorsuale, di imprese commerciali esercitate da piu' di cinque anni;
                             g-bis)
@@ -1423,31 +1423,31 @@ DISPOSIZIONE TRASFERITA NELL'ARTICOLO 9, QUALE COMMA 5.
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 19.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 19.
 
 ---------------
 
 AGGIORNAMENTO (205)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni recate dal presente decreto si applicano a decorrere dal 1° gennaio 2022, ad esclusione di quelle di cui agli articoli 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 37 che si applicano a decorrere dal 31 dicembre 2023".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni recate dal presente decreto si applicano a decorrere dal 1° gennaio 2022, ad esclusione di quelle di cui agli articoli 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 37 che si applicano a decorrere dal 31 dicembre 2023".
 
 ---------------
 
 AGGIORNAMENTO (208)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito con modificazioni dalla [L. 23 luglio 2021, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%202021%20n.%2073%20recante%20misure%20urgenti%20connesse%20allemergenza%20da%20COVID-19%20per%20le%20imprese%20il%20lavoro%20i%20giovani%20la%20salute%20e%20i%20ser_13e7058b54b2.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito con modificazioni dalla [L. 23 luglio 2021, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%202021%20n.%2073%20recante%20misure%20urgenti%20connesse%20allemergenza%20da%20COVID-19%20per%20le%20imprese%20il%20lavoro%20i%20giovani%20la%20salute%20e%20i%20ser_13e7058b54b2.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022".
 
 ---------------
 
 AGGIORNAMENTO (221)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), convertito con modificazioni dalla [L. 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md) ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), convertito con modificazioni dalla [L. 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md) ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
 
 ---------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ---------------
 
@@ -1464,13 +1464,13 @@ Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 20.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 20.
 
 ### Art. 18. — Imposizione sostitutiva dei redditi di capitale di fonte estera
 
 1.
 
-I redditi di capitale corrisposti da soggetti non residenti a soggetti residenti nei cui confronti in Italia si applica la ritenuta a titolo di imposta o l'imposta sostitutiva di cui all'articolo 2, ((comma 1-bis)), del [decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239), sono soggetti ad imposizione sostitutiva delle imposte sui redditi con la stessa aliquota della ritenuta a titolo d'imposta. Il contribuente ha la facolta' di non avvalersi del regime di imposizione sostitutiva ed in tal caso compete il credito d'imposta per i redditi prodotti all'estero. La disposizione di cui al periodo precedente non si applica alle distribuzioni di utili di cui all'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md). ((146))
+I redditi di capitale corrisposti da soggetti non residenti a soggetti residenti nei cui confronti in Italia si applica la ritenuta a titolo di imposta o l'imposta sostitutiva di cui all'articolo 2, ((comma 1-bis)), del [decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md), sono soggetti ad imposizione sostitutiva delle imposte sui redditi con la stessa aliquota della ritenuta a titolo d'imposta. Il contribuente ha la facolta' di non avvalersi del regime di imposizione sostitutiva ed in tal caso compete il credito d'imposta per i redditi prodotti all'estero. La disposizione di cui al periodo precedente non si applica alle distribuzioni di utili di cui all'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md). ((146))
 
 2.
 
@@ -1482,7 +1482,7 @@ Si considerano corrisposti da soggetti non residenti anche gli interessi ed altr
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 21.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 21.
 
 ------------
 
@@ -1537,7 +1537,7 @@ Con decreti del Ministro delle finanze sono stabiliti i criteri e le modalita' p
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 22.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 22.
 
 --------------
 
@@ -1557,7 +1557,7 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 166.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 166.
 
 ### Art. 21. — Determinazione dell'imposta per gli altri redditi tassati separatamente
 
@@ -1586,13 +1586,13 @@ Per i redditi indicati alle lettere e), d), e) ed f) del comma 1 dell'articolo 1
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 24.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 24.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 18, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano alle liquidazioni che hanno inizio successivamente alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 18, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano alle liquidazioni che hanno inizio successivamente alla data di entrata in vigore del presente decreto".
 
 ### Art. 22. — Scomputo degli acconti
 
@@ -1613,7 +1613,7 @@ Se l'ammontare complessivo dei crediti di imposta, dei versamenti e delle ritenu
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 25.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 25.
 
 ### Art. 23. — Applicazione dell'imposta ai non residenti
 
@@ -1657,19 +1657,19 @@ Indipendentemente dalle condizioni di cui alle lettere c), d), e) f) del comma 1
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 26.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 26.
 
 --------------
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), nel modificare l'[art. 1, comma 547, della L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232#art_1-com547), ha conseguentemente disposto (con l'art. 1, comma 1063) che la disposizione del comma 1, lettera g) del presente articolo, si applica a decorrere dal 1º gennaio 2018.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), nel modificare l'[art. 1, comma 547, della L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), ha conseguentemente disposto (con l'art. 1, comma 1063) che la disposizione del comma 1, lettera g) del presente articolo, si applica a decorrere dal 1º gennaio 2018.
 
 --------------
 
 AGGIORNAMENTO (193)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 1055, alinea) che la presente modifica, in deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), ha effetto a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 1055, alinea) che la presente modifica, in deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), ha effetto a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
 
 ### Art. 24. — Determinazione dell'imposta dovuta dai non residenti
 
@@ -1694,7 +1694,7 @@ In deroga alle disposizioni contenute nel comma 1, ((nei confronti dei soggetti 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 27.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 27.
 
 ------------
 
@@ -1739,8 +1739,8 @@ La [L. 30 ottobre 2014, n. 161](../Atti%20di%20recepimento%20direttive%20UE/Disp
 
 AGGIORNAMENTO (181)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232), ha disposto (con l'art. 1, comma 153) che "I soggetti che esercitano l'opzione di cui all'articolo 24-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dal comma 152 del presente articolo, per i periodi d'imposta di validita' dell'opzione ivi prevista, non sono tenuti agli obblighi di dichiarazione di cui all'[articolo 4 del decreto-legge 28 giugno 1990, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-06-28;167#art_4), convertito, con modificazioni, dalla [legge 4 agosto 1990, n. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md), e sono esenti dalle imposte previste dall'[articolo 19, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_19-com13) e [18, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_19-com18), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). La presente disposizione si applica anche ai familiari di cui al comma 6 del citato articolo 24-bis del testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917)". 
- Ha inoltre disposto (con l'art. 1, comma 154) che "Gli effetti dell'opzione di cui all'articolo 24-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dal comma 152 del presente articolo, non sono cumulabili con quelli previsti dall'[articolo 44 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_44), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122, e dall'articolo 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md) del [decreto legislativo 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147)".
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), ha disposto (con l'art. 1, comma 153) che "I soggetti che esercitano l'opzione di cui all'articolo 24-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dal comma 152 del presente articolo, per i periodi d'imposta di validita' dell'opzione ivi prevista, non sono tenuti agli obblighi di dichiarazione di cui all'[articolo 4 del decreto-legge 28 giugno 1990, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-06-28;167#art_4), convertito, con modificazioni, dalla [legge 4 agosto 1990, n. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md), e sono esenti dalle imposte previste dall'[articolo 19, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_19-com13) e [18, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_19-com18), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). La presente disposizione si applica anche ai familiari di cui al comma 6 del citato articolo 24-bis del testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917)". 
+ Ha inoltre disposto (con l'art. 1, comma 154) che "Gli effetti dell'opzione di cui all'articolo 24-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dal comma 152 del presente articolo, non sono cumulabili con quelli previsti dall'[articolo 44 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_44), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122, e dall'articolo 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md) del [decreto legislativo 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md)".
 
 ------------
 
@@ -1752,7 +1752,7 @@ Il [D.L. 9 agosto 2024, n. 113](../DL%20proroghe/Misure%20urgenti%20di%20caratte
 
 AGGIORNAMENTO (242)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 26) che le presenti modifiche si applicano ai soggetti che trasferiscono nel territorio dello Stato la residenza ai fini dell'[articolo 43 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_43) a decorrere dalla data di entrata in vigore della presente legge.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 26) che le presenti modifiche si applicano ai soggetti che trasferiscono nel territorio dello Stato la residenza ai fini dell'[articolo 43 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_43) a decorrere dalla data di entrata in vigore della presente legge.
 
 ### Art. 24-ter. — (Opzione per l'imposta sostitutiva sui redditi delle persone fisiche titolari di redditi da pensione di fonte estera che trasferiscono la propria residenza fiscale nel Mezzogiorno)
 
@@ -1813,7 +1813,7 @@ Sono redditi fondiari quelli inerenti ai terreni e ai fabbricati situati nel ter
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 28.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 28.
 
 ### Art. 26. — Imputazione dei redditi fondiari
 
@@ -1834,7 +1834,7 @@ Se il possesso dell'immobile e' stato trasferito, in tutto o in parte nel corso 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 29.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 29.
 
 ---------------
 
@@ -1846,7 +1846,7 @@ Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (206)
 
-Il [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 6-septies, comma 2) che "Le disposizioni cui all'articolo 26, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), hanno effetto per i canoni derivanti dai contratti di locazione di immobili non percepiti a decorrere dal 1° gennaio 2020".
+Il [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 6-septies, comma 2) che "Le disposizioni cui all'articolo 26, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), hanno effetto per i canoni derivanti dai contratti di locazione di immobili non percepiti a decorrere dal 1° gennaio 2020".
 
 ### Art. 27. — ((Reddito domenicale dei terreni ))
 
@@ -1864,7 +1864,7 @@ Il reddito dominicale e' costituito dalla parte domenicale del reddito medio ord
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 30.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 30.
 
 ### Art. 28. — Determinazione del reddito domenicale
 
@@ -1900,13 +1900,13 @@ Il reddito dominicale delle superfici adibite alle colture prodotte in serra o a
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 31.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 31.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 29. — ((Variazioni del reddito dominicale))
 
@@ -1940,7 +1940,7 @@ Le variazioni indicate nei commi 1 e 2 danno luogo a revisione del classamento d
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 32.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 32.
 
 ### Art. 30. — ((Denuncia e decorrenza delle variazioni ))
 
@@ -1966,7 +1966,7 @@ Le variazioni in diminuzione hanno effetto dall'anno in cui si sono verificati i
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 33.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 33.
 
 ### Art. 31. — Perdite per mancata coltivazione e per eventi naturali
 
@@ -1992,7 +1992,7 @@ Ai fini del presente articolo il fondo rustico deve essere costituito da partice
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 34.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 34.
 
 ### Art. 32. — Reddito agrario
 
@@ -2026,13 +2026,13 @@ Non si considerano produttivi di reddito agrario i terreni indicati nel comma 2 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 35.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 35.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 33. — Imputazione del reddito agrario
 
@@ -2050,7 +2050,7 @@ Nei casi di conduzione associata, salvo il disposto dell'articolo 5, il reddito 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 36.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 36.
 
 ### Art. 34. — Determinazione del reddito agrario
 
@@ -2077,13 +2077,13 @@ Per la determinazione del reddito agrario delle superfici adibite alle colture p
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 37.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 37.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 35. — ((Perdite per mancata coltivazione e per eventi naturali 
  
@@ -2095,7 +2095,7 @@ Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 38.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 38.
 
 ### Art. 36. — Reddito dei fabbricati
 
@@ -2122,13 +2122,13 @@ Il reddito imputabile a ciascun condomino derivante dagli immobili di cui all'[a
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 39.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 39.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 37. — Determinazione del reddito dei fabbricati
 
@@ -2166,7 +2166,7 @@ COMMA ABROGATO DALLA [L. 13 MAGGIO 1999, N. 133](https://www.normattiva.it/uri-r
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 40.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 40.
 
 -------------
 
@@ -2196,7 +2196,7 @@ Se per un triennio il reddito lordo effettivo di una unita' immobiliare differis
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 41.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 41.
 
 ### Art. 39. — ((Decorrenza delle variazioni 
  
@@ -2208,7 +2208,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 42.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 42.
 
 ### Art. 40. — ((Fabbricati di nuova costruzione 
  
@@ -2220,7 +2220,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 43.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 43.
 
 ### Art. 41. — (((Unita' immobiliari non locate) 
  
@@ -2232,7 +2232,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 44.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 44.
 
 ### Art. 42. — ((Costruzioni rurali 
  
@@ -2248,7 +2248,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 45.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 45.
 
 ### Art. 43. — ((Immobili non produttivi di reddito fondiario ))
 
@@ -2266,7 +2266,7 @@ Non si considerano produttivi di reddito fondiario gli immobili relativi ad impr
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 46.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 46.
 
 ## REDDITI DI CAPITALE
 
@@ -2313,7 +2313,7 @@ Ai fini delle imposte sui redditi:
                                 si considerano similari alle azioni, i titoli e gli strumenti finanziari emessi da societa' ed enti di cui all'articolo 73, comma 1, lettere a),
                             b)
                                 e d), la cui remunerazione e' costituita totalmente dalla partecipazione ai risultati economici della societa' emittente o di altre societa' appartenenti allo stesso gruppo o dell'affare in relazione al quale i titoli e gli strumenti finanziari sono stati emessi. Le partecipazioni al capitale o al patrimonio, nonche' i titoli e gli strumenti finanziari di cui al periodo precedente emessi da societa' ed enti di cui all'articolo 73, comma 1, lettera d), si considerano similari alle azioni a condizione che la relativa remunerazione sia totalmente indeducibile nella determinazione del reddito nello Stato estero di residenza del soggetto emittente; a tale fine l'indeducibilita' deve risultare da una dichiarazione dell'emittente stesso o da altri elementi certi e precisi; (123) 
- b) LETTERA SOPPRESSA DAL [D.LGS. 18 NOVEMBRE 2005, N.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247); (123)
+ b) LETTERA SOPPRESSA DAL [D.LGS. 18 NOVEMBRE 2005, N.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md); (123)
                             c)
                                 si considerano similari alle obbligazioni: 
  1) i buoni fruttiferi emessi da societa' esercenti la vendita a rate di autoveicoli, autorizzate ai sensi dell'[articolo 29 del regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436#art_29), convertito nella [legge 19 febbraio 1928, n. 510](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20riguardante%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20registro%20automobilis_468c3b2ba2d0.md); 
@@ -2324,19 +2324,19 @@ Ai fini delle imposte sui redditi:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 47.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 47.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 2, comma 3) che "Le disposizioni degli articoli 44, comma 2, lettera a), ultimo periodo, 47, commi 2, ultimo periodo, e 4, ultimo periodo, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006; quelle di cui all'articolo 47, commi 2, primo periodo, e 4, primo periodo, del medesimo testo unico, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 2, comma 3) che "Le disposizioni degli articoli 44, comma 2, lettera a), ultimo periodo, 47, commi 2, ultimo periodo, e 4, ultimo periodo, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006; quelle di cui all'articolo 47, commi 2, primo periodo, e 4, primo periodo, del medesimo testo unico, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004".
 
 ---------------
 
 AGGIORNAMENTO (164)
 
-Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66) convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 3, comma 1) che "Le ritenute e le imposte sostitutive sugli interessi, premi e ogni altro provento di cui all'articolo 44 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e sui redditi diversi di cui all'articolo 67, comma 1, lettere da c-bis) a c-quinquies), del medesimo testo unico, ovunque ricorrano, sono stabilite nella misura del 26 per cento".
+Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66) convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 3, comma 1) che "Le ritenute e le imposte sostitutive sugli interessi, premi e ogni altro provento di cui all'articolo 44 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e sui redditi diversi di cui all'articolo 67, comma 1, lettere da c-bis) a c-quinquies), del medesimo testo unico, ovunque ricorrano, sono stabilite nella misura del 26 per cento".
 
 ### Art. 45. — Determinazione del reddito di capitale
 
@@ -2370,7 +2370,7 @@ I redditi di cui alla lettera g-quinquies) del comma 1 dell'articolo 41 sono cos
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 48.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 48.
 
 ### Art. 46. — ((Versamenti dei soci ))
 
@@ -2388,13 +2388,13 @@ Le somme versate alle societa' commerciali e agli enti di cui all'articolo 73, c
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 49.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 49.
 
 ### Art. 47. — Utili da partecipazione
 
 1.
 
-PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205).
+PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md).
 Indipendentemente dalla delibera assembleare, si presumono prioritariamente distribuiti l'utile dell'esercizio e le riserve diverse da quelle del comma 5 per la quota di esse non accantonata in sospensione di imposta. (189)
 
 2.
@@ -2430,13 +2430,13 @@ Le disposizioni del presente articolo valgono, in quanto applicabili, anche per 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 50.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 50.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 2, comma 2, lettera a)) che al comma 2 del presente articolo le parole: «alla data di stipula del contratto secondo che» sono sostituite dalle seguenti: «risultante dall'ultimo bilancio approvato prima della data di stipula del contratto nel caso in cui». 
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 2, comma 2, lettera a)) che al comma 2 del presente articolo le parole: «alla data di stipula del contratto secondo che» sono sostituite dalle seguenti: «risultante dall'ultimo bilancio approvato prima della data di stipula del contratto nel caso in cui». 
  Ha inoltre disposto (con l'art. 2, comma 3) che "Le disposizioni degli articoli 44, comma 2, lettera a), ultimo periodo, 47, commi 2, ultimo periodo, e 4, ultimo periodo, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006; quelle di cui all'articolo 47, commi 2, primo periodo, e 4, primo periodo, del medesimo testo unico, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004".
 
 ---------------
@@ -2449,29 +2449,29 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l' art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l' art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 ---------------
 
 AGGIORNAMENTO (134)
 
-Il Decreto 2 aprile 2008 (in G.U. 16/4/2008, n. 90) ha disposto (con l'art. 1, comma 1) che "Agli effetti dell'applicazione degli articoli 47 e 59 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), gli utili derivanti dalla partecipazione in societa' ed enti soggetti all'Ires e i proventi equiparati derivanti da titoli e strumenti finanziari assimilati alle azioni, di cui all'art. 44, comma 2, lettera a), del predetto testo unico, formati con utili prodotti a partire dall'esercizio successivo a quello in corso al 31 dicembre 2007 nonche' le remunerazioni derivanti da contratti di cui all'art. 109, comma 9, lettera b), del citato testo unico, formate con utili prodotti a partire dal suddetto esercizio, concorrono alla formazione del reddito complessivo nella misura del 49,72 per cento".
+Il Decreto 2 aprile 2008 (in G.U. 16/4/2008, n. 90) ha disposto (con l'art. 1, comma 1) che "Agli effetti dell'applicazione degli articoli 47 e 59 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), gli utili derivanti dalla partecipazione in societa' ed enti soggetti all'Ires e i proventi equiparati derivanti da titoli e strumenti finanziari assimilati alle azioni, di cui all'art. 44, comma 2, lettera a), del predetto testo unico, formati con utili prodotti a partire dall'esercizio successivo a quello in corso al 31 dicembre 2007 nonche' le remunerazioni derivanti da contratti di cui all'art. 109, comma 9, lettera b), del citato testo unico, formate con utili prodotti a partire dal suddetto esercizio, concorrono alla formazione del reddito complessivo nella misura del 49,72 per cento".
 
 -------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
 Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo e' riconosciuto per le imposte pagate dalla societa' controllata a partire dal quinto periodo d'imposta precedente a quello in corso alla data di entrata in vigore del presente decreto".
 
 ------------
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto: 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto: 
  - (con l'art. 1, comma 1005) che le presenti modifiche si applicano ai redditi di capitale percepiti a partire dal 1º gennaio 2018 ed ai redditi diversi realizzati a decorrere dal 1º gennaio 2019; 
  - (con l'art. 1, comma 1006) che "In deroga alle previsioni di cui ai commi da 999 a 1005, alle distribuzioni di utili derivanti da partecipazioni qualificate in societa' ed enti soggetti all'imposta sul reddito delle societa' formatesi con utili prodotti fino all'esercizio in corso al 31 dicembre 2017, deliberate dal 1º gennaio 2018 al 31 dicembre 2022, continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'economia e delle finanze 26 maggio 2017, pubblicato nella Gazzetta Ufficiale n. 160 dell'11 luglio 2017"; 
- - (con l'art. 1, comma 1007) che "Ai fini degli articoli 47, comma 4, e 89, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), non si considerano provenienti da societa' residenti o localizzate in Stati o territori a regime fiscale privilegiato gli utili percepiti a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014 e maturati in periodi d'imposta precedenti nei quali le societa' partecipate erano residenti o localizzate in Stati o territori non inclusi nel decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 273 del 23 novembre 2001. Le disposizioni del precedente periodo si applicano anche per gli utili maturati in periodi successivi a quello in corso al 31 dicembre 2014 in Stati o territori non a regime privilegiato e, in seguito, percepiti in periodi d'imposta in cui risultino integrate le condizioni per l'applicazione dell'articolo 167, comma 4, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917). In caso di cessione delle partecipazioni la preesistente stratificazione delle riserve di utili si trasferisce al cessionario".
+ - (con l'art. 1, comma 1007) che "Ai fini degli articoli 47, comma 4, e 89, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), non si considerano provenienti da societa' residenti o localizzate in Stati o territori a regime fiscale privilegiato gli utili percepiti a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014 e maturati in periodi d'imposta precedenti nei quali le societa' partecipate erano residenti o localizzate in Stati o territori non inclusi nel decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 273 del 23 novembre 2001. Le disposizioni del precedente periodo si applicano anche per gli utili maturati in periodi successivi a quello in corso al 31 dicembre 2014 in Stati o territori non a regime privilegiato e, in seguito, percepiti in periodi d'imposta in cui risultino integrate le condizioni per l'applicazione dell'articolo 167, comma 4, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917). In caso di cessione delle partecipazioni la preesistente stratificazione delle riserve di utili si trasferisce al cessionario".
 
 ------------
 
@@ -2523,7 +2523,7 @@ Non costituiscono redditi di capitale gli interessi, gli utili e gli altri prove
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 51.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 51.
 
 ### Art. 48-bis.
 
@@ -2534,7 +2534,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 52.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 52.
 
 ## REDDITI DI LAVORO DIPENDENTE
 
@@ -2560,7 +2560,7 @@ b) le somme di cui all'art. 429, ultimo comma, del [codice di procedura civile](
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 53.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 53.
 
 ### Art. 50. — Redditi assimilati a quelli di lavoro dipendente
 
@@ -2578,15 +2578,15 @@ Sono assimilati ai redditi di lavoro dipendente:
                             d)
                                 le remunerazioni dei sacerdoti, di cui agli articoli 24, 33, lettera a), e 34 della [legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222), nonche' le congrue e i supplementi di congrua di cui all'[articolo 33, primo comma, della legge 26 luglio 1974, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;343#art_33-com1);
                             e)
-                                i compensi per l'attivita' libero professionale intramuraria del personale dipendente del Servizio sanitario nazionale, del personale di cui all'[articolo 102 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md) e del personale di cui all'[articolo 6, comma 5,del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_6-com5) e successive modificazioni, nei limiti e alle condizioni di cui all'[articolo 1, comma 7, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com7);
+                                i compensi per l'attivita' libero professionale intramuraria del personale dipendente del Servizio sanitario nazionale, del personale di cui all'[articolo 102 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md) e del personale di cui all'[articolo 6, comma 5,del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni, nei limiti e alle condizioni di cui all'[articolo 1, comma 7, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                             f)
-                                le indennita', i gettoni di presenza e gli altri compensi corrisposti dallo Stato, dalle regioni, dalle province e dai comuni per l'esercizio di pubbliche funzioni, sempreche' le prestazioni non siano rese da soggetti che esercitano un'arte o professione di cui all'articolo 49, comma 1, e non siano state effettuate nell'esercizio di impresa commerciale, nonche' i compensi corrisposti ai membri delle commissioni tributarie, agli esperti del tribunale di sorveglianza, ad esclusione di quelli che per legge devono essere riversati allo Stato, e ai magistrati onorari del ((ruolo ad esaurimento)) confermati ai sensi dell'[articolo 29 del decreto legislativo 13 luglio 2017, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-13;116#art_29); (185)
+                                le indennita', i gettoni di presenza e gli altri compensi corrisposti dallo Stato, dalle regioni, dalle province e dai comuni per l'esercizio di pubbliche funzioni, sempreche' le prestazioni non siano rese da soggetti che esercitano un'arte o professione di cui all'articolo 49, comma 1, e non siano state effettuate nell'esercizio di impresa commerciale, nonche' i compensi corrisposti ai membri delle commissioni tributarie, agli esperti del tribunale di sorveglianza, ad esclusione di quelli che per legge devono essere riversati allo Stato, e ai magistrati onorari del ((ruolo ad esaurimento)) confermati ai sensi dell'[articolo 29 del decreto legislativo 13 luglio 2017, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20organica%20della%20magistratura%20onoraria%20e%20altre%20disposizioni%20sui%20giudici%20di%20pace%20nonche%20disciplina%20transitoria%20relativa%20ai%20magistrati%20onorari%20in%20servizio%20a%20norma%20della%20legge%2028%20april_eda779de1a5f.md); (185)
                             g)
                                 le indennita' di cui all'[articolo 1 della legge 31 ottobre 1965, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-10-31;1261#art_1), e all'[articolo 1 della legge 13 agosto 1979, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-08-13;384#art_1), percepite dai membri del Parlamento nazionale e del Parlamento europeo e le indennita', comunque denominate, percepite per le cariche elettive e per le funzioni di cui agli [articoli 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_105), [114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_114) e [135 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_135) e alla [legge 27 dicembre 1985, n. 816](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aspettative%20permessi%20e%20indennita%20degli%20amministratori%20locali.md) nonche' i conseguenti assegni vitalizi percepiti in dipendenza dalla cessazione delle suddette cariche elettive e funzioni e l'assegno del Presidente della Repubblica; (225)
                             h)
                                 le rendite vitalizie e le rendite a tempo determinato, costituite a titolo oneroso, diverse da quelle aventi funzione previdenziale. Le rendite aventi funzione previdenziale sono quelle derivanti da contratti di assicurazione sulla vita stipulati con imprese autorizzate dall'Istituto per la vigilanza sulle assicurazioni private (ISVAP) ad operare nel territorio dello Stato, o quivi operanti in regime di stabilimento o di prestazioni di servizi, che non consentano il riscatto della rendita successivamente all'inizio dell'erogazione;
                             h-bis)
-                                le prestazioni pensionistiche di cui al [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e al [decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), comunque erogate, nonche' quelle derivanti dai prodotti pensionistici individuali paneuropei (PEPP) di cui al [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238);
+                                le prestazioni pensionistiche di cui al [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e al [decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), comunque erogate, nonche' quelle derivanti dai prodotti pensionistici individuali paneuropei (PEPP) di cui al [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238);
                             i)
                                 gli altri assegni periodici, comunque denominati, alla cui produzione non concorrono attualmente ne' capitale ne' lavoro, compresi quelli indicati alle lettere c) e d) del comma 1 dell'articolo 10 tra gli oneri deducibili ed esclusi quelli indicati alla lettera c) del comma 1 dell'articolo 41.
                             l)
@@ -2607,13 +2607,13 @@ I redditi di cui alla lettera a) del comma 1 sono assimilati ai redditi di lavor
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 54.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 54.
 
 ------------
 
 AGGIORNAMENTO (185)
 
-Il [D.Lgs. 13 luglio 2017, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-13;116) ha disposto (con l'art. 32, comma 1) che "Le disposizioni dei capi da I a IX si applicano ai magistrati onorari immessi nel servizio onorario successivamente alla data di entrata in vigore del presente decreto. Sino alla scadenza del quarto anno successivo alla data di entrata in vigore del presente decreto, le disposizioni dei capi da I a IX si applicano ai magistrati onorari in servizio alla medesima data per quanto non previsto dalle disposizioni del capo XI. Dalla scadenza del termine di cui al secondo periodo, ai magistrati onorari in servizio alla data di entrata in vigore del presente decreto si applicano tutte le disposizioni del medesimo decreto. E' in ogni caso fatto salvo quanto disposto dall'articolo 31, commi 2 e 3".
+Il [D.Lgs. 13 luglio 2017, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20organica%20della%20magistratura%20onoraria%20e%20altre%20disposizioni%20sui%20giudici%20di%20pace%20nonche%20disciplina%20transitoria%20relativa%20ai%20magistrati%20onorari%20in%20servizio%20a%20norma%20della%20legge%2028%20april_eda779de1a5f.md) ha disposto (con l'art. 32, comma 1) che "Le disposizioni dei capi da I a IX si applicano ai magistrati onorari immessi nel servizio onorario successivamente alla data di entrata in vigore del presente decreto. Sino alla scadenza del quarto anno successivo alla data di entrata in vigore del presente decreto, le disposizioni dei capi da I a IX si applicano ai magistrati onorari in servizio alla medesima data per quanto non previsto dalle disposizioni del capo XI. Dalla scadenza del termine di cui al secondo periodo, ai magistrati onorari in servizio alla data di entrata in vigore del presente decreto si applicano tutte le disposizioni del medesimo decreto. E' in ogni caso fatto salvo quanto disposto dall'articolo 31, commi 2 e 3".
 
 ---------------
 
@@ -2631,7 +2631,7 @@ Il reddito di lavoro dipendente e' costituito da tutte le somme e i valori in ge
 
 Non concorrono a formare il reddito:
                             a)
-                                i contributi previdenziali e assistenziali versati dal datore di lavoro o dal lavoratore in ottemperanza a disposizioni di legge; i contributi di assistenza sanitaria versati dal datore di lavoro o dal lavoratore ad enti o casse aventi esclusivamente fine assistenziale in conformita' a disposizioni dei contratti collettivi di cui all'[articolo 51 del decreto legislativo 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81#art_51), o di regolamento aziendale, iscritti all'Anagrafe dei fondi sanitari integrativi istituita con il decreto del Ministro della salute del 31 marzo 2008, pubblicato nella Gazzetta Ufficiale 18 giugno 2008, n. 141, che operino secondo il principio di mutualita' e solidarieta' tra gli iscritti, per un importo non superiore complessivamente ad euro 3.615,20. Ai fini del calcolo del predetto limite si tiene conto anche dei contributi di assistenza sanitaria versati ai sensi dell'articolo 10, comma 1, lettera e-ter); (235)
+                                i contributi previdenziali e assistenziali versati dal datore di lavoro o dal lavoratore in ottemperanza a disposizioni di legge; i contributi di assistenza sanitaria versati dal datore di lavoro o dal lavoratore ad enti o casse aventi esclusivamente fine assistenziale in conformita' a disposizioni dei contratti collettivi di cui all'[articolo 51 del decreto legislativo 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), o di regolamento aziendale, iscritti all'Anagrafe dei fondi sanitari integrativi istituita con il decreto del Ministro della salute del 31 marzo 2008, pubblicato nella Gazzetta Ufficiale 18 giugno 2008, n. 141, che operino secondo il principio di mutualita' e solidarieta' tra gli iscritti, per un importo non superiore complessivamente ad euro 3.615,20. Ai fini del calcolo del predetto limite si tiene conto anche dei contributi di assistenza sanitaria versati ai sensi dell'articolo 10, comma 1, lettera e-ter); (235)
                             b)
                                 LETTERA SOPPRESSA DAL [D.L. 27 MAGGIO 2008, N. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-27;93), CONVERTITO CON MODIFICAZIONI DALLA [L. 24 LUGLIO 2008, N. 126](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20maggio%202008%20n.%2093%20recante%20disposizioni%20urgenti%20per%20salvaguardare%20il%20potere%20di%20acquisto%20delle%20famiglie.md);
                             c)
@@ -2695,11 +2695,11 @@ Il decreto dei Ministro delle infrastrutture e dei trasporti e' emanato entro il
 
 4-bis.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208).
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).
 
 5.
 
-Le indennita' percepite per le trasferte o le missioni fuori del territorio comunale concorrono a formare il reddito per la parte eccedente lire 90.000 al giorno, elevate a lire 150.000 per le trasferte all'estero, al netto delle spese di viaggio e di trasporto; in caso di rimborso delle spese di alloggio, ovvero di quelle di vitto, o di alloggio o vitto fornito gratuitamente il limite e' ridotto di un terzo. Il limite e' ridotto di due terzi in caso di rimborso sia delle spese di alloggio che di quelle di vitto. In caso di rimborso analitico delle spese per trasferte o missioni fuori del territorio comunale non concorrono a formare il reddito i rimborsi di spese documentate relative al vitto, all'alloggio, al viaggio e al trasporto, nonche' i rimborsi di altre spese, anche non documentabili, eventualmente sostenute dal dipendente, sempre in occasione di dette trasferte o missioni, fino all'importo massimo giornaliero di lire 30.000, elevate a lire 50.000 per le trasferte all'estero. Le indennita' o i rimborsi di spese per le trasferte nell'ambito del territorio comunale, tranne i rimborsi di spese di viaggio e trasporto comprovate e documentate, concorrono a formare il reddito. I rimborsi delle spese, sostenute nel territorio dello Stato, per vitto, alloggio, viaggio e trasporto effettuati mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), per le trasferte o le missioni di cui al presente comma, ad esclusione di quelli spettanti dal 1° gennaio 2025 al personale delle Forze armate, delle Forze di polizia di cui all'[articolo 16 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_16), e del Corpo nazionale dei vigili del fuoco, non concorrono a formare il reddito se i pagamenti delle predette spese sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23). (235) (236) (238)
+Le indennita' percepite per le trasferte o le missioni fuori del territorio comunale concorrono a formare il reddito per la parte eccedente lire 90.000 al giorno, elevate a lire 150.000 per le trasferte all'estero, al netto delle spese di viaggio e di trasporto; in caso di rimborso delle spese di alloggio, ovvero di quelle di vitto, o di alloggio o vitto fornito gratuitamente il limite e' ridotto di un terzo. Il limite e' ridotto di due terzi in caso di rimborso sia delle spese di alloggio che di quelle di vitto. In caso di rimborso analitico delle spese per trasferte o missioni fuori del territorio comunale non concorrono a formare il reddito i rimborsi di spese documentate relative al vitto, all'alloggio, al viaggio e al trasporto, nonche' i rimborsi di altre spese, anche non documentabili, eventualmente sostenute dal dipendente, sempre in occasione di dette trasferte o missioni, fino all'importo massimo giornaliero di lire 30.000, elevate a lire 50.000 per le trasferte all'estero. Le indennita' o i rimborsi di spese per le trasferte nell'ambito del territorio comunale, tranne i rimborsi di spese di viaggio e trasporto comprovate e documentate, concorrono a formare il reddito. I rimborsi delle spese, sostenute nel territorio dello Stato, per vitto, alloggio, viaggio e trasporto effettuati mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), per le trasferte o le missioni di cui al presente comma, ad esclusione di quelli spettanti dal 1° gennaio 2025 al personale delle Forze armate, delle Forze di polizia di cui all'[articolo 16 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_16), e del Corpo nazionale dei vigili del fuoco, non concorrono a formare il reddito se i pagamenti delle predette spese sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). (235) (236) (238)
 
 6.
 
@@ -2729,20 +2729,20 @@ Nella legge finanziaria relativa all'anno per il quale ha effetto il suddetto de
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 55.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 55.
 
 ---------------
 
 AGGIORNAMENTO (116)
 
-La [L. 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) ha disposto (con l'art. 3, comma 118) che "Per gli anni 2003 e 2004 il limite di non concorrenza alla formazione del reddito di lavoro dipendente, relativamente ai contributi di assistenza sanitaria, di cui all'articolo 48, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, e' fissato in euro 3.615,20". 
+La [L. 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) ha disposto (con l'art. 3, comma 118) che "Per gli anni 2003 e 2004 il limite di non concorrenza alla formazione del reddito di lavoro dipendente, relativamente ai contributi di assistenza sanitaria, di cui all'articolo 48, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e' fissato in euro 3.615,20". 
  L'originario art. 48 corrisponde all'attuale art. 51.
 
 ---------------
 
 AGGIORNAMENTO (125)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 123) che "Per l'anno 2006 il limite di non concorrenza alla formazione del reddito di lavoro dipendente, relativamente ai contributi di assistenza sanitaria, di cui all'articolo 51, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, e' fissato in euro 3.615,20".
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 123) che "Per l'anno 2006 il limite di non concorrenza alla formazione del reddito di lavoro dipendente, relativamente ai contributi di assistenza sanitaria, di cui all'articolo 51, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e' fissato in euro 3.615,20".
 
 -------------
 
@@ -2754,7 +2754,7 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (128)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 399) che "Per l'anno 2007, il limite di non concorrenza alla formazione del reddito di lavoro dipendente, relativamente ai contributi di assistenza sanitaria, di cui all'articolo 51, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, e' fissato in euro 3.615,20".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 399) che "Per l'anno 2007, il limite di non concorrenza alla formazione del reddito di lavoro dipendente, relativamente ai contributi di assistenza sanitaria, di cui all'articolo 51, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e' fissato in euro 3.615,20".
 
 ---------------
 
@@ -2772,13 +2772,13 @@ Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (169)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 319) che la presente modifica ha effetto dal 1° luglio 2015.
 
 ------------
 
 AGGIORNAMENTO (178)
 
-Il [D.L. 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193), convertito con modificazioni dalla [L. 1 dicembre 2016, n. 225](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20ottobre%202016%20n.%20193%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20il%20finanziamento%20di%20esigenze%20indifferibili.%2016G00238.md), ha disposto (con l'art. 7-quinquies, comma 1) che "Il comma 6 dell'articolo 51 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che i lavoratori rientranti nella disciplina ivi stabilita sono quelli per i quali sussistono contestualmente le seguenti condizioni: 
+Il [D.L. 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193), convertito con modificazioni dalla [L. 1 dicembre 2016, n. 225](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20ottobre%202016%20n.%20193%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20il%20finanziamento%20di%20esigenze%20indifferibili.%2016G00238.md), ha disposto (con l'art. 7-quinquies, comma 1) che "Il comma 6 dell'articolo 51 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che i lavoratori rientranti nella disciplina ivi stabilita sono quelli per i quali sussistono contestualmente le seguenti condizioni: 
  a) la mancata indicazione, nel contratto o nella lettera di assunzione, della sede di lavoro; 
  b) lo svolgimento di un'attivita' lavorativa che richiede la continua mobilita' del dipendente; 
  c) la corresponsione al dipendente, in relazione allo svolgimento dell'attivita' lavorativa in luoghi sempre variabili e diversi, di un'indennita' o maggiorazione di retribuzione in misura fissa, attribuite senza distinguere se il dipendente si e' effettivamente recato in trasferta e dove la stessa si e' svolta".
@@ -2787,13 +2787,13 @@ Il [D.L. 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (181)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 162) che "Le disposizioni di cui all'articolo 51, comma 2, lettera f), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come da ultimo modificate dalla [legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), si interpretano nel senso che le stesse si applicano anche alle opere e servizi riconosciuti dal datore di lavoro, del settore privato o pubblico, in conformita' a disposizioni di contratto collettivo nazionale di lavoro, di accordo interconfederale o di contratto collettivo territoriale".
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 162) che "Le disposizioni di cui all'articolo 51, comma 2, lettera f), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come da ultimo modificate dalla [legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), si interpretano nel senso che le stesse si applicano anche alle opere e servizi riconosciuti dal datore di lavoro, del settore privato o pubblico, in conformita' a disposizioni di contratto collettivo nazionale di lavoro, di accordo interconfederale o di contratto collettivo territoriale".
 
 ---------------
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 271) che "L'articolo 51, comma 8, primo periodo, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che le retribuzioni del personale di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e agli [articoli da 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-04-13;64#art_31) [a 33 del decreto legislativo 13 aprile 2017, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-04-13;64#art_33), costituiscono reddito nella misura del 50 per cento, anche ai fini della determinazione dei contributi e dei premi previdenziali dovuti ai sensi dell'[articolo 158, primo](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [secondo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e fermo restando quanto disposto dall'[articolo 2, comma 3, del decreto legislativo 7 aprile 2000, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-04-07;103#art_2-com3)".
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 271) che "L'articolo 51, comma 8, primo periodo, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che le retribuzioni del personale di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e agli [articoli da 31](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20scuola%20italiana%20allestero%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20h%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00072.md) [a 33 del decreto legislativo 13 aprile 2017, n. 64](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20scuola%20italiana%20allestero%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20h%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00072.md), costituiscono reddito nella misura del 50 per cento, anche ai fini della determinazione dei contributi e dei premi previdenziali dovuti ai sensi dell'[articolo 158, primo](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [secondo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e fermo restando quanto disposto dall'[articolo 2, comma 3, del decreto legislativo 7 aprile 2000, n. 103](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20del%20personale%20assunto%20localmente%20dalle%20rappresentanze%20diplomatiche%20dagli%20uffici%20consolari%20e%20dagli%20istituti%20italiani%20di%20cultura%20allestero%20a%20norma%20dellarticolo%204%20della%20legge%2028%20l_ee3ffd427baa.md)".
 
 ---------------
 
@@ -2811,14 +2811,14 @@ Il [D.L. 18 ottobre 2023, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano ai componenti del reddito di lavoro dipendente percepiti a decorrere dal 1° gennaio 2025".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano ai componenti del reddito di lavoro dipendente percepiti a decorrere dal 1° gennaio 2025".
 
 ---------------
 
 AGGIORNAMENTO (236)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024". 
- Ha inoltre disposto (con l'art. 1, comma 98) che "Le disposizioni dell'articolo 51, comma 8-bis, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpretano nel senso che sono compresi nella loro applicazione anche i redditi di lavoro dipendente prestato all'estero in via continuativa e come oggetto esclusivo del rapporto dai dipendenti che, nell'arco di dodici mesi, soggiornano nello Stato estero per un periodo superiore a 183 giorni ritornando in Italia al proprio domicilio una volta alla settimana".
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024". 
+ Ha inoltre disposto (con l'art. 1, comma 98) che "Le disposizioni dell'articolo 51, comma 8-bis, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpretano nel senso che sono compresi nella loro applicazione anche i redditi di lavoro dipendente prestato all'estero in via continuativa e come oggetto esclusivo del rapporto dai dipendenti che, nell'arco di dodici mesi, soggiornano nello Stato estero per un periodo superiore a 183 giorni ritornando in Italia al proprio domicilio una volta alla settimana".
 
 ---------------
 
@@ -2830,7 +2830,7 @@ Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (241)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 2, comma 2) che "La disposizione di cui al comma 1 si applica per la determinazione dei redditi di lavoro dipendente percepiti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 2, comma 2) che "La disposizione di cui al comma 1 si applica per la determinazione dei redditi di lavoro dipendente percepiti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 52. — (Determinazione dei redditi assimilati a quelli di lavoro dipendente)
 
@@ -2838,27 +2838,27 @@ Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Ai fini della determinazione dei redditi assimilati a quelli di lavoro dipendente si applicano le disposizioni dell'articolo 48 salvo quanto di seguito specificato:
                             a)
-                                LETTERA SOPPRESSA DAL [D.LGS. 18 FEBBRAIO 2000, N.47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;47);
+                                LETTERA SOPPRESSA DAL [D.LGS. 18 FEBBRAIO 2000, N.47](../Decreti%20Legislativi/Riforma%20della%20disciplina%20fiscale%20della%20previdenza%20complementare%20a%20norma%20dellarticolo%203%20della%20legge%2013%20maggio%201999%20n.%20133.md);
                             a-bis)
                                 ai fini della determinazione del reddito di cui alla lettera e) del comma 1 dell'articolo 47, i compensi percepiti dal personale dipendente del Servizio sanitario nazionale per l'attivita' libero-professionale intramuraria, esercitata presso studi professionali privati a seguito di autorizzazione del direttore generale dell'azienda sanitaria, costituiscono reddito nella misura del 75 per cento;
                             b)
                                 ai fini della determinazione delle indennita' di cui alla lettera g) del comma 1 dell'articolo 47, non concorrono, altresi', a formare il reddito le somme erogate ai titolari di cariche elettive pubbliche, nonche' a coloro che esercitano le funzioni di cui agli [articoli 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_105), [114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_114) e [135 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_135), a titolo di rimborso di spese, purche' l'erogazione di tali somme e i relativi criteri siano disposti dagli organi competenti a determinare i trattamenti dei soggetti stessi. Gli assegni vitalizi di cui alla predetta lettera g) del comma 1 dell'articolo 47, sono assoggettati a tassazione per la quota parte che non deriva da fonti riferibili a trattenute effettuate al percettore gia' assoggettate a ritenute fiscali. Detta quota parte e' determinata, per ciascun periodo d'imposta, in misura corrispondente al rapporto complessivo delle trattenute effettuate, assoggettate a ritenute fiscali, e la spesa complessiva per assegni vitalizi. Il rapporto va effettuato separatamente dai distinti soggetti erogatori degli assegni stessi, prendendo a base ciascuno i propri elementi; (225)
                             c)
-                                per le rendite e gli assegni indicati alle lettere h) e i) del comma 1 dell'articolo 47 non si applicano le disposizioni del predetto articolo 48. Le predette rendite e assegni si presumono percepiti, salvo prova contraria, nella misura e alle scadenze risultanti dai relativi titoli. PERIODO SOPPRESSO DAL [D.LGS 18 FEBBRAIO 2000, N.47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;47);
+                                per le rendite e gli assegni indicati alle lettere h) e i) del comma 1 dell'articolo 47 non si applicano le disposizioni del predetto articolo 48. Le predette rendite e assegni si presumono percepiti, salvo prova contraria, nella misura e alle scadenze risultanti dai relativi titoli. PERIODO SOPPRESSO DAL [D.LGS 18 FEBBRAIO 2000, N.47](../Decreti%20Legislativi/Riforma%20della%20disciplina%20fiscale%20della%20previdenza%20complementare%20a%20norma%20dellarticolo%203%20della%20legge%2013%20maggio%201999%20n.%20133.md);
                             d)
-                                per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50, comunque erogate, si applicano le disposizioni di cui all'articolo 11 e quelle di cui all'[articolo 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_23-com6), e, per le prestazioni derivanti dai prodotti pensionistici individuali paneuropei (PEPP), quelle previste dalle disposizioni nazionali di attuazione del [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238);
+                                per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50, comunque erogate, si applicano le disposizioni di cui all'articolo 11 e quelle di cui all'[articolo 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), e, per le prestazioni derivanti dai prodotti pensionistici individuali paneuropei (PEPP), quelle previste dalle disposizioni nazionali di attuazione del [regolamento (UE) 2019/1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1238);
                             d-bis)
                                 i compensi di cui alla lettera l) del comma 1 dell'articolo 47, percepiti dai soggetti che hanno raggiunto l'eta' prevista dalla vigente legislazione per la pensione di vecchiaia e che possiedono un reddito complessivo di importo non superiore a lire 18 milioni al netto della deduzione prevista dall'articolo 10, comma 3-bis per l'unita' immobiliare adibita ad abitazione principale e per le relative pertinenze, costituiscono reddito per la parte che eccede complessivamente nel periodo d'imposta lire sei milioni; 
  d-bis.1) ((i compensi di cui alla lettera l-bis) del comma 1 dell'articolo 50 costituiscono reddito per la parte che eccede complessivamente nel periodo d'imposta euro 15.000)).
                             d-ter)
-                                LETTERA ABROGATA DAL [D.LGS. 5 DICEMBRE 2005, N. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252); 
+                                LETTERA ABROGATA DAL [D.LGS. 5 DICEMBRE 2005, N. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md); 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 56 e 83.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 56 e 83.
 
 ---------------
 
@@ -2896,38 +2896,38 @@ Sono inoltre redditi di lavoro autonomo:
 
 3.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 FEBBRAIO 2021, N. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36). (205) (208) (221) 
+COMMA SOPPRESSO DAL [D.LGS. 28 FEBBRAIO 2021, N. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md). (205) (208) (221) 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 85.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 85.
 
 ------------
 
 AGGIORNAMENTO (185)
 
-Il [D.Lgs. 13 luglio 2017, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-13;116) ha disposto (con l'art. 32, comma 1) che "Le disposizioni dei capi da I a IX si applicano ai magistrati onorari immessi nel servizio onorario successivamente alla data di entrata in vigore del presente decreto. Sino alla scadenza del quarto anno successivo alla data di entrata in vigore del presente decreto, le disposizioni dei capi da I a IX si applicano ai magistrati onorari in servizio alla medesima data per quanto non previsto dalle disposizioni del capo XI. Dalla scadenza del termine di cui al secondo periodo, ai magistrati onorari in servizio alla data di entrata in vigore del presente decreto si applicano tutte le disposizioni del medesimo decreto. E' in ogni caso fatto salvo quanto disposto dall'articolo 31, commi 2 e 3".
+Il [D.Lgs. 13 luglio 2017, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20organica%20della%20magistratura%20onoraria%20e%20altre%20disposizioni%20sui%20giudici%20di%20pace%20nonche%20disciplina%20transitoria%20relativa%20ai%20magistrati%20onorari%20in%20servizio%20a%20norma%20della%20legge%2028%20april_eda779de1a5f.md) ha disposto (con l'art. 32, comma 1) che "Le disposizioni dei capi da I a IX si applicano ai magistrati onorari immessi nel servizio onorario successivamente alla data di entrata in vigore del presente decreto. Sino alla scadenza del quarto anno successivo alla data di entrata in vigore del presente decreto, le disposizioni dei capi da I a IX si applicano ai magistrati onorari in servizio alla medesima data per quanto non previsto dalle disposizioni del capo XI. Dalla scadenza del termine di cui al secondo periodo, ai magistrati onorari in servizio alla data di entrata in vigore del presente decreto si applicano tutte le disposizioni del medesimo decreto. E' in ogni caso fatto salvo quanto disposto dall'articolo 31, commi 2 e 3".
 
 ---------------
 
 AGGIORNAMENTO (205)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni recate dal presente decreto si applicano a decorrere dal 1° gennaio 2022, ad esclusione di quelle di cui agli articoli 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 37 che si applicano a decorrere dal 31 dicembre 2023".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41), convertito con modificazioni dalla [L. 21 maggio 2021, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20marzo%202021%20n.%2041%20recante%20misure%20urgenti%20in%20materia%20di%20sostegno%20alle%20imprese%20e%20agli%20operatori%20economici%20di%20lavoro%20salute%20e%20servi_4613d45ed104.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni recate dal presente decreto si applicano a decorrere dal 1° gennaio 2022, ad esclusione di quelle di cui agli articoli 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 37 che si applicano a decorrere dal 31 dicembre 2023".
 
 ---------------
 
 AGGIORNAMENTO (208)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito con modificazioni dalla [L. 23 luglio 2021, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%202021%20n.%2073%20recante%20misure%20urgenti%20connesse%20allemergenza%20da%20COVID-19%20per%20le%20imprese%20il%20lavoro%20i%20giovani%20la%20salute%20e%20i%20ser_13e7058b54b2.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito con modificazioni dalla [L. 23 luglio 2021, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%202021%20n.%2073%20recante%20misure%20urgenti%20connesse%20allemergenza%20da%20COVID-19%20per%20le%20imprese%20il%20lavoro%20i%20giovani%20la%20salute%20e%20i%20ser_13e7058b54b2.md), ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022".
 
 ---------------
 
 AGGIORNAMENTO (221)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), convertito con modificazioni dalla [L. 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md) ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), convertito con modificazioni dalla [L. 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md) ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
 
 ### Art. 54. — (Determinazione del reddito di lavoro autonomo)
 
@@ -2969,14 +2969,14 @@ Le spese relative all'esecuzione di un incarico conferito e sostenute direttamen
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
- Ha inoltre disposto (con l'art. 6, comma 3) che "La disposizione di cui all'articolo 54, comma 1, secondo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotta dall'articolo 5, comma 1, lettera b), ha effetto anche per i periodi di imposta antecedenti a quello in corso alla data di entrata in vigore del presente decreto, se le relative dichiarazioni, validamente presentate, risultano a essa conformi. Restano fermi gli accertamenti e le liquidazioni di imposta divenuti definitivi".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 6, comma 3) che "La disposizione di cui all'articolo 54, comma 1, secondo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotta dall'articolo 5, comma 1, lettera b), ha effetto anche per i periodi di imposta antecedenti a quello in corso alla data di entrata in vigore del presente decreto, se le relative dichiarazioni, validamente presentate, risultano a essa conformi. Restano fermi gli accertamenti e le liquidazioni di imposta divenuti definitivi".
 
 ---------------
 
 AGGIORNAMENTO (236)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 81, lettera b)) che "all'articolo 54, in materia di determinazione del reddito di lavoro autonomo, dopo il comma 6-bis e' inserito il seguente: «6-ter. Fermo restando quanto previsto ai commi 5 e 6, le spese relative a prestazioni alberghiere, di somministrazione di alimenti e bevande nonche' di viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), addebitate analiticamente al committente, nonche' i rimborsi analitici relativi alle medesime spese, sostenute per le trasferte dei dipendenti ovvero corrisposti a lavoratori autonomi, sono deducibili se i pagamenti sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23)". 
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 81, lettera b)) che "all'articolo 54, in materia di determinazione del reddito di lavoro autonomo, dopo il comma 6-bis e' inserito il seguente: «6-ter. Fermo restando quanto previsto ai commi 5 e 6, le spese relative a prestazioni alberghiere, di somministrazione di alimenti e bevande nonche' di viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), addebitate analiticamente al committente, nonche' i rimborsi analitici relativi alle medesime spese, sostenute per le trasferte dei dipendenti ovvero corrisposti a lavoratori autonomi, sono deducibili se i pagamenti sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md)". 
  Ha inoltre disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
 
 ---------------
@@ -3012,7 +3012,7 @@ La plusvalenza e' costituita, nelle ipotesi di cui al comma 1, lettere a) e b), 
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 54-ter. — (Rimborsi e riaddebiti)
 
@@ -3072,7 +3072,7 @@ Le spese di cui all'articolo 54, comma 2, lettera b), di importo, comprensivo de
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ---------------
 
@@ -3089,7 +3089,7 @@ Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 54-quinquies. — (( (Spese relative ai beni mobili e immobili).))
 
@@ -3121,7 +3121,7 @@ Le spese relative all'acquisto di beni mobili, diversi da quelli indicati nell'a
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 54-sexies. — (( (Spese relative a beni ed elementi immateriali).))
 
@@ -3143,8 +3143,8 @@ Le quote di ammortamento del costo degli altri diritti di natura pluriennale son
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
- Ha inoltre disposto (con l'art. 6, comma 4) che "La disposizione di cui all'articolo 54-sexies, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotta dall'articolo 5, comma 1, lettera b), ha effetto a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 6, comma 4) che "La disposizione di cui all'articolo 54-sexies, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotta dall'articolo 5, comma 1, lettera b), ha effetto a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 54-septies. — (Altre spese)
 
@@ -3174,14 +3174,14 @@ Non sono ammesse deduzioni per i compensi al coniuge, ai figli, affidati o affil
 
 6-bis.
 
-La deducibilita' delle spese, sostenute nel territorio dello Stato, relative a vitto, alloggio, viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), comprese quelle sostenute direttamente quale committente di incarichi conferiti ad altri lavoratori autonomi, nonche' delle medesime spese rimborsate analiticamente ai dipendenti per le trasferte ovvero ad altri lavoratori autonomi per l'esecuzione di incarichi, qualora spettante ai sensi delle disposizioni del presente ((capo)), e' ammessa a condizione che i pagamenti siano eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23). ((238)) 
+La deducibilita' delle spese, sostenute nel territorio dello Stato, relative a vitto, alloggio, viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), comprese quelle sostenute direttamente quale committente di incarichi conferiti ad altri lavoratori autonomi, nonche' delle medesime spese rimborsate analiticamente ai dipendenti per le trasferte ovvero ad altri lavoratori autonomi per l'esecuzione di incarichi, qualora spettante ai sensi delle disposizioni del presente ((capo)), e' ammessa a condizione che i pagamenti siano eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). ((238)) 
  (235)
 
 ---------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ---------------
 
@@ -3198,7 +3198,7 @@ Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ## REDDITI DI IMPRESA
 
@@ -3230,7 +3230,7 @@ Sono inoltre considerati redditi d'impresa:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 88.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 88.
 
 ### Art. 55-bis.
 
@@ -3241,7 +3241,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (193)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 1055, alinea) che l'abrogazione del presente articolo, in deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), ha effetto a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 1055, alinea) che l'abrogazione del presente articolo, in deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), ha effetto a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
 
 ### Art. 56. — Determinazione del reddito d'impresa
 
@@ -3274,25 +3274,25 @@ Nei confronti dei soggetti che esercitano attivita' di allevamento di animali ol
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 89.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 89.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 3, comma 4) che "Le disposizioni degli articoli 56, 59 e 62 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo quelle dell'articolo 47, richiamate dall'articolo 59, che hanno una diversa decorrenza ai sensi dell'articolo 2, comma 3, del presente decreto".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni degli articoli 56, 59 e 62 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo quelle dell'articolo 47, richiamate dall'articolo 59, che hanno una diversa decorrenza ai sensi dell'articolo 2, comma 3, del presente decreto".
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ---------------
 
 AGGIORNAMENTO (193)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 24) che, in deroga all'[articolo 3, comma 1, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3-com1), la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 24) che, in deroga all'[articolo 3, comma 1, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3-com1), la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
 
 ### Art. 56-bis. — (Altre attivita' agricole)
 
@@ -3315,19 +3315,19 @@ Per le attivita' dirette alla commercializzazione di piante vive e prodotti dell
 
 ((235))
 
-((4. Le disposizioni del presente articolo si applicano anche ai soggetti che hanno esercitato l'opzione di cui all'[articolo 1, comma 1093, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com1093).))
+((4. Le disposizioni del presente articolo si applicano anche ai soggetti che hanno esercitato l'opzione di cui all'[articolo 1, comma 1093, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).))
 
 ((235))
 
 5.
 
-Il contribuente ha facolta' di non avvalersi delle disposizioni di cui al presente articolo. In tal caso l'opzione o la revoca per la determinazione del reddito nel modo normale si esercitano con le modalita' stabilite dal regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette, di cui al [decreto del Presidente della Repubblica 10 novembre 1997, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-10;442), e successive modificazioni.
+Il contribuente ha facolta' di non avvalersi delle disposizioni di cui al presente articolo. In tal caso l'opzione o la revoca per la determinazione del reddito nel modo normale si esercitano con le modalita' stabilite dal regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette, di cui al [decreto del Presidente della Repubblica 10 novembre 1997, n. 442](Regolamento%20recante%20norme%20per%20il%20riordino%20della%20disciplina%20delle%20opzioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20dirette.md), e successive modificazioni.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 57. — ((Ricavi 
  
@@ -3340,7 +3340,7 @@ Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 90.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 90.
 
 ### Art. 58. — Plusvalenze
 
@@ -3362,31 +3362,31 @@ Le plusvalenze dei beni relativi all'impresa concorrono a formare il reddito anc
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 91, comma 1, lettere a) e b) e 56, comma 3, lettere a) e b).
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 91, comma 1, lettere a) e b) e 56, comma 3, lettere a) e b).
 
 -------------
 
 AGGIORNAMENTO (134)
 
-Il Decreto 2 aprile 2008 (in G.U. 16/4/2008, n. 90) ha disposto (con l'art. 2, comma 1) che "Agli effetti dell'applicazione dell'[art. 58, comma 2, del Tuir](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_58-com2), le plusvalenze realizzate a decorrere dal 1° gennaio 2009 non concorrono alla formazione del reddito imponibile, in quanto esenti, limitatamente al 50,28 per cento del loro ammontare. La stessa percentuale si applica per la determinazione della quota delle corrispondenti minusvalenze non deducibile dal reddito imponibile".
+Il Decreto 2 aprile 2008 (in G.U. 16/4/2008, n. 90) ha disposto (con l'art. 2, comma 1) che "Agli effetti dell'applicazione dell'[art. 58, comma 2, del Tuir](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le plusvalenze realizzate a decorrere dal 1° gennaio 2009 non concorrono alla formazione del reddito imponibile, in quanto esenti, limitatamente al 50,28 per cento del loro ammontare. La stessa percentuale si applica per la determinazione della quota delle corrispondenti minusvalenze non deducibile dal reddito imponibile".
 
 --------------
 
 AGGIORNAMENTO (146)
 
-Il [D.Lgs. 1 aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) come modificato dal [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all' articolo 2, commi 1 e 1-bis conseguiti, anche dai soggetti di cui all' articolo 2, commi 1 e 1-bis, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
+Il [D.Lgs. 1 aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) come modificato dal [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all' articolo 2, commi 1 e 1-bis conseguiti, anche dai soggetti di cui all' articolo 2, commi 1 e 1-bis, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
 
 --------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347).
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ---------------
 
 AGGIORNAMENTO (242)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 54) che la presente modifica si applica alle distribuzioni dell'utile di esercizio, delle riserve e degli altri fondi, deliberate a decorrere dal 1° gennaio 2026, nonche' alle plusvalenze realizzate in relazione alla cessione di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale in societa' ed enti di cui all'articolo 73 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e alla cessione di titoli e strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a), del predetto testo unico nonche' ai contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico acquisiti o sottoscritti a decorrere dalla medesima data; a tal fine, si considerano ceduti per primi gli strumenti finanziari acquisiti o i contratti sottoscritti in data meno recente.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 54) che la presente modifica si applica alle distribuzioni dell'utile di esercizio, delle riserve e degli altri fondi, deliberate a decorrere dal 1° gennaio 2026, nonche' alle plusvalenze realizzate in relazione alla cessione di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale in societa' ed enti di cui all'articolo 73 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e alla cessione di titoli e strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a), del predetto testo unico nonche' ai contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico acquisiti o sottoscritti a decorrere dalla medesima data; a tal fine, si considerano ceduti per primi gli strumenti finanziari acquisiti o i contratti sottoscritti in data meno recente.
 
 ---------------
 
@@ -3407,26 +3407,26 @@ COMMA ABROGATO DAL [D.L. 27 MARZO 2026, N. 38](https://www.normattiva.it/uri-res
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 18 NOVEMBRE 2005, N. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247). (123) 
+COMMA ABROGATO DAL [D.LGS. 18 NOVEMBRE 2005, N. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md). (123) 
  (134)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 92.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 92.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 3, comma 4) che "Le disposizioni degli articoli 56, 59 e 62 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo quelle dell'articolo 47, richiamate dall'articolo 59, che hanno una diversa decorrenza ai sensi dell'articolo 2, comma 3, del presente decreto".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni degli articoli 56, 59 e 62 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo quelle dell'articolo 47, richiamate dall'articolo 59, che hanno una diversa decorrenza ai sensi dell'articolo 2, comma 3, del presente decreto".
 
 ---------------
 
 AGGIORNAMENTO (134)
 
-Il Decreto 2 aprile 2008 (in G.U. 16/4/2008, n. 90) ha disposto (con l'art. 1, comma 1) che "Agli effetti dell'applicazione degli articoli 47 e 59 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), gli utili derivanti dalla partecipazione in societa' ed enti soggetti all'Ires e i proventi equiparati derivanti da titoli e strumenti finanziari assimilati alle azioni, di cui all'art. 44, comma 2, lettera a), del predetto testo unico, formati con utili prodotti a partire dall'esercizio successivo a quello in corso al 31 dicembre 2007 nonche' le remunerazioni derivanti da contratti di cui all'art. 109, comma 9, lettera b), del citato testo unico, formate con utili prodotti a partire dal suddetto esercizio, concorrono alla formazione del reddito complessivo nella misura del 49,72 per cento".
+Il Decreto 2 aprile 2008 (in G.U. 16/4/2008, n. 90) ha disposto (con l'art. 1, comma 1) che "Agli effetti dell'applicazione degli articoli 47 e 59 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), gli utili derivanti dalla partecipazione in societa' ed enti soggetti all'Ires e i proventi equiparati derivanti da titoli e strumenti finanziari assimilati alle azioni, di cui all'art. 44, comma 2, lettera a), del predetto testo unico, formati con utili prodotti a partire dall'esercizio successivo a quello in corso al 31 dicembre 2007 nonche' le remunerazioni derivanti da contratti di cui all'art. 109, comma 9, lettera b), del citato testo unico, formate con utili prodotti a partire dal suddetto esercizio, concorrono alla formazione del reddito complessivo nella misura del 49,72 per cento".
 
 ---------------
 
@@ -3444,7 +3444,7 @@ Il [D.L. 27 marzo 2026, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 93.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 93.
 
 ### Art. 61. — (( (Interessi passivi).))
 
@@ -3462,13 +3462,13 @@ Gli interessi passivi inerenti all'esercizio d'impresa sono deducibili per la pa
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 94.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 94.
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 62.
 
@@ -3479,7 +3479,7 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 63.
 
@@ -3490,7 +3490,7 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 64. — Norme generali sulle componenti del reddito d'impresa
 
@@ -3506,7 +3506,7 @@ Le spese relative all'acquisto di beni mobili adibiti promiscuamente all'eserciz
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 99.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 99.
 
 -------------
 
@@ -3520,7 +3520,7 @@ Il [D.L. 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 1.
 
-Per le imprese individuali, ai fini delle imposte sui redditi, si considerano relativi all'impresa, oltre ai beni indicati alle lettere a) e b) del comma 1 dell'articolo 85, a quelli strumentali per l'esercizio dell'impresa stessa ed ai crediti acquisiti nell'esercizio dell'impresa stessa, i beni appartenenti all'imprenditore che siano indicati tra le attivita' relative all'impresa nell'inventario tenuto a norma dell'[articolo 2217 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2217). Gli immobili di cui al comma 2 dell'articolo 43 si considerano relativi all'impresa solo se indicati nell'inventario; per i soggetti indicati nell'articolo 66, tale indicazione puo' essere effettuata nel registro dei beni ammortizzabili ovvero secondo le modalita' di cui all'[articolo 13 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435#art_13), e dell'[articolo 2, comma 1, del decreto del Presidente della Repubblica 21 dicembre 1996, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;695#art_2-com1).
+Per le imprese individuali, ai fini delle imposte sui redditi, si considerano relativi all'impresa, oltre ai beni indicati alle lettere a) e b) del comma 1 dell'articolo 85, a quelli strumentali per l'esercizio dell'impresa stessa ed ai crediti acquisiti nell'esercizio dell'impresa stessa, i beni appartenenti all'imprenditore che siano indicati tra le attivita' relative all'impresa nell'inventario tenuto a norma dell'[articolo 2217 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2217). Gli immobili di cui al comma 2 dell'articolo 43 si considerano relativi all'impresa solo se indicati nell'inventario; per i soggetti indicati nell'articolo 66, tale indicazione puo' essere effettuata nel registro dei beni ammortizzabili ovvero secondo le modalita' di cui all'[articolo 13 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), e dell'[articolo 2, comma 1, del decreto del Presidente della Repubblica 21 dicembre 1996, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;695#art_2-com1).
 
 2.
 
@@ -3538,7 +3538,7 @@ Per le societa' di fatto si considerano relativi all'impresa i beni indicati all
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 100.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 100.
 
 ### Art. 66. — Imprese minori
 
@@ -3547,7 +3547,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 2.
 
-Le quote di ammortamento sono ammesse in deduzione, secondo le disposizioni degli articoli 64, comma 2, 102 e 103, a condizione che sia tenuto il registro dei beni ammortizzabili. L'indicazione di tali quote puo' essere effettuata anche secondo le modalita' dell'[articolo 13 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435#art_13), e dell'[articolo 2, comma 1, del decreto del Presidente della Repubblica 21 dicembre 1996, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;695#art_2-com1). Le perdite di beni strumentali e le perdite su crediti sono deducibili a norma dell'articolo 101. Non e' ammessa alcuna deduzione a titolo di accantonamento; tuttavia gli accantonamenti di cui all'articolo 105 sono deducibili a condizione che risultino iscritti nei registri di cui all'articolo 18 del decreto indicato al comma 1.
+Le quote di ammortamento sono ammesse in deduzione, secondo le disposizioni degli articoli 64, comma 2, 102 e 103, a condizione che sia tenuto il registro dei beni ammortizzabili. L'indicazione di tali quote puo' essere effettuata anche secondo le modalita' dell'[articolo 13 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), e dell'[articolo 2, comma 1, del decreto del Presidente della Repubblica 21 dicembre 1996, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;695#art_2-com1). Le perdite di beni strumentali e le perdite su crediti sono deducibili a norma dell'articolo 101. Non e' ammessa alcuna deduzione a titolo di accantonamento; tuttavia gli accantonamenti di cui all'articolo 105 sono deducibili a condizione che risultino iscritti nei registri di cui all'articolo 18 del decreto indicato al comma 1.
 
 3.
 
@@ -3566,19 +3566,19 @@ Per le imprese autorizzate all'autotrasporto di merci per conto di terzi il redd
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 101.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 101.
 
 --------------
 
 AGGIORNAMENTO (125)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 106) che "Limitatamente al periodo d'imposta in corso alla data del 31 dicembre 2005, la deduzione forfetaria di spese non documentate di cui all'articolo 66, comma 5, primo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), spetta anche per i trasporti personalmente effettuati dall'imprenditore all'interno del comune in cui ha sede l'impresa, per un importo pari al 35 per cento di quello spettante per i medesimi trasporti nell'ambito della regione o delle regioni confinanti".
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 106) che "Limitatamente al periodo d'imposta in corso alla data del 31 dicembre 2005, la deduzione forfetaria di spese non documentate di cui all'articolo 66, comma 5, primo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta anche per i trasporti personalmente effettuati dall'imprenditore all'interno del comune in cui ha sede l'impresa, per un importo pari al 35 per cento di quello spettante per i medesimi trasporti nell'ambito della regione o delle regioni confinanti".
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 -------------
 
@@ -3590,7 +3590,7 @@ Il [D.L. 2 marzo 2012, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (181)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 23) che le presenti modifiche decorrono dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 23) che le presenti modifiche decorrono dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
 
 ## REDDITI DIVERSI
 
@@ -3663,56 +3663,56 @@ Fra le plusvalenze e i redditi di cui alle lettere cter) , cquater) e cquinquies
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 64, comma 2 e 102.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 64, comma 2 e 102.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 4, comma 3) che "Le disposizioni degli articoli 67, commi 1, lettere c), numero 2, primo periodo, e c-bis), numero 1), e 1-bis, e 68, comma 7, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 67, comma 1, lettera c), n. 2), ultimo periodo, e 68, commi 3, 4 e 5, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006."
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 4, comma 3) che "Le disposizioni degli articoli 67, commi 1, lettere c), numero 2, primo periodo, e c-bis), numero 1), e 1-bis, e 68, comma 7, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 67, comma 1, lettera c), n. 2), ultimo periodo, e 68, commi 3, 4 e 5, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006."
 
 ---------------
 
 AGGIORNAMENTO (125)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 496) che "In caso di cessioni a titolo oneroso di beni immobili acquistati o costruiti da non piu' di cinque anni, e di terreni suscettibili di utilizzazione edificatoria secondo gli strumenti urbanistici vigenti al momento della cessione, all'atto della cessione e su richiesta della parte venditrice resa al notaio, in deroga alla disciplina di cui all'articolo 67, comma 1, lettera b), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, sulle plusvalenze realizzate si applica un'imposta, sostituiva dell'imposta sul reddito, del 12,50 per cento".
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 496) che "In caso di cessioni a titolo oneroso di beni immobili acquistati o costruiti da non piu' di cinque anni, e di terreni suscettibili di utilizzazione edificatoria secondo gli strumenti urbanistici vigenti al momento della cessione, all'atto della cessione e su richiesta della parte venditrice resa al notaio, in deroga alla disciplina di cui all'articolo 67, comma 1, lettera b), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sulle plusvalenze realizzate si applica un'imposta, sostituiva dell'imposta sul reddito, del 12,50 per cento".
 
 --------------
 
 AGGIORNAMENTO (138)
 
-Il [D.L. 30 dicembre 2008, n. 207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) ha disposto (con l'art. 35, comma 5) che "Nelle parole "esercizio diretto di attivita' sportive dilettantistiche" contenute nell'articolo 67, comma 1, lettera m), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, sono ricomprese la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica".
+Il [D.L. 30 dicembre 2008, n. 207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md) ha disposto (con l'art. 35, comma 5) che "Nelle parole "esercizio diretto di attivita' sportive dilettantistiche" contenute nell'articolo 67, comma 1, lettera m), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sono ricomprese la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica".
 
 ---------------
 
 AGGIORNAMENTO (164)
 
-Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66) convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 3, comma 1) che "Le ritenute e le imposte sostitutive sugli interessi, premi e ogni altro provento di cui all'articolo 44 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e sui redditi diversi di cui all'articolo 67, comma 1, lettere da c-bis) a c-quinquies), del medesimo testo unico, ovunque ricorrano, sono stabilite nella misura del 26 per cento".
+Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66) convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md) ha disposto (con l'art. 3, comma 1) che "Le ritenute e le imposte sostitutive sugli interessi, premi e ogni altro provento di cui all'articolo 44 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e sui redditi diversi di cui all'articolo 67, comma 1, lettere da c-bis) a c-quinquies), del medesimo testo unico, ovunque ricorrano, sono stabilite nella misura del 26 per cento".
 
 ---------------
 
 AGGIORNAMENTO (200)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266), come modificata dalla [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto (con l'art. 1, comma 496) che "In caso di cessioni a titolo oneroso di beni immobili acquistati o costruiti da non piu' di cinque anni, all'atto della cessione e su richiesta della parte venditrice resa al notaio, in deroga alla disciplina di cui all'articolo 67, comma 1, lettera b), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, sulle plusvalenze realizzate si applica un'imposta, sostituiva dell'imposta sul reddito, del 26 per cento".
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), come modificata dalla [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 1, comma 496) che "In caso di cessioni a titolo oneroso di beni immobili acquistati o costruiti da non piu' di cinque anni, all'atto della cessione e su richiesta della parte venditrice resa al notaio, in deroga alla disciplina di cui all'articolo 67, comma 1, lettera b), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sulle plusvalenze realizzate si applica un'imposta, sostituiva dell'imposta sul reddito, del 26 per cento".
 
 ---------------
 
 AGGIORNAMENTO (221)
 
-Il [D.Lgs. 28 febbraio 2021, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-28;36), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), convertito con modificazioni dalla [L. 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md) ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
+Il [D.Lgs. 28 febbraio 2021, n. 36](../Decreti%20Legislativi/Attuazione%20dellarticolo%205%20della%20legge%208%20agosto%202019%20n.%2086%20recante%20riordino%20e%20riforma%20delle%20disposizioni%20in%20materia%20di%20enti%20sportivi%20professionistici%20e%20dilettantistici%20nonche%20di%20lavoro%20spo_fd61396b81c1.md), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), convertito con modificazioni dalla [L. 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md) ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
 
 ---------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ---------------
 
 AGGIORNAMENTO (238)
 
 Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), convertito, con modificazioni, dalla [L. 30 luglio 2025, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%202025%20n.%2084%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.%2025G00121.md), ha disposto (con l'art. 1, comma 6) che "Le disposizioni di cui al comma 1, lettera a), lettera c), numero 2, lettera f), lettera i), si applicano per la determinazione dei redditi prodotti a partire dal periodo di imposta in corso al 31 dicembre 2024". 
- Ha inoltre disposto (con l'art. 1, comma 1-bis) che "Ai sensi dell'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_1-com2), il comma 1 dell'articolo 67 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che il reddito derivante dalla concessione di usufrutto o dalla costituzione di altri diritti reali di godimento su un bene immobile costituisce un reddito diverso imponibile ai sensi della lettera h) dello stesso comma 1 quando il soggetto disponente mantiene un diritto reale sul bene immobile, mentre si qualifica come plusvalenza, tassabile ai sensi delle lettere b) e b-bis) del comma 1 al ricorrere delle condizioni temporali ivi previste, se il disponente si spoglia contestualmente e integralmente di ogni diritto reale sul bene".
+ Ha inoltre disposto (con l'art. 1, comma 1-bis) che "Ai sensi dell'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_1-com2), il comma 1 dell'articolo 67 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che il reddito derivante dalla concessione di usufrutto o dalla costituzione di altri diritti reali di godimento su un bene immobile costituisce un reddito diverso imponibile ai sensi della lettera h) dello stesso comma 1 quando il soggetto disponente mantiene un diritto reale sul bene immobile, mentre si qualifica come plusvalenza, tassabile ai sensi delle lettere b) e b-bis) del comma 1 al ricorrere delle condizioni temporali ivi previste, se il disponente si spoglia contestualmente e integralmente di ogni diritto reale sul bene".
 
 ### Art. 68. — Plusvalenze
 
@@ -3730,7 +3730,7 @@ Le plusvalenze di cui alla lettera c) del comma 1 dell'articolo 67, diverse da q
 
 3.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2017, N. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2017, N. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md).
 
 4.
 
@@ -3763,7 +3763,7 @@ Agli effetti della determinazione delle plusvalenze e minusvalenze:
                             a)
                                 dal corrispettivo percepito o dalla somma rimborsata, nonche' dal costo o valore di acquisto si scomputano i redditi di capitale maturati ma non riscossi, diversi da quelli derivanti dalla partecipazione in societa' ed enti soggetti all'imposta sul reddito delle societa' e dagli utili relativi ai titoli ed agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a), e ai contratti di cui all'articolo 109, comma 9, lettera b); (123)
                             b)
-                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2017, N. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205); (189)
+                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2017, N. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md); (189)
                             c)
                                 per le valute estere prelevate da depositi e conti correnti si assume come corrispettivo il valore normale della valuta alla data di effettuazione del prelievo;
                             d)
@@ -3792,40 +3792,40 @@ I proventi derivanti dalla detenzione di cripto-attivita' percepiti nel periodo 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 103.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 103.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 4, comma 3) che "Le disposizioni degli articoli 67, commi 1, lettere c), numero 2, primo periodo, e c-bis), numero 1), e 1-bis, e 68, comma 7, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004.
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 4, comma 3) che "Le disposizioni degli articoli 67, commi 1, lettere c), numero 2, primo periodo, e c-bis), numero 1), e 1-bis, e 68, comma 7, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004.
 Le disposizioni degli articoli 67, comma 1, lettera c), n. 2), ultimo periodo, e 68, commi 3, 4 e 5, del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 --------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 --------------
 
 AGGIORNAMENTO (161)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147), ha disposto (con l'art. 1, comma 583, lettera e)) che a partire dall'anno d'imposta 2014, sono abrogati le agevolazioni fiscali e i crediti di imposta, con la conseguente cancellazione dei relativi stanziamenti iscritti in bilancio, di cui ai commi 6-bis e 6-ter del presente articolo.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md), ha disposto (con l'art. 1, comma 583, lettera e)) che a partire dall'anno d'imposta 2014, sono abrogati le agevolazioni fiscali e i crediti di imposta, con la conseguente cancellazione dei relativi stanziamenti iscritti in bilancio, di cui ai commi 6-bis e 6-ter del presente articolo.
 
 --------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
 Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo e' riconosciuto per le imposte pagate dalla societa' controllata a partire dal quinto periodo d'imposta precedente a quello in corso alla data di entrata in vigore del presente decreto". 
- Ha inoltre disposto (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347).
+ Ha inoltre disposto (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 -----------
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 1005) che le presenti modifiche si applicano ai redditi di capitale percepiti a partire dal 1º gennaio 2018 ed ai redditi diversi realizzati a decorrere dal 1º gennaio 2019. 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 1005) che le presenti modifiche si applicano ai redditi di capitale percepiti a partire dal 1º gennaio 2018 ed ai redditi diversi realizzati a decorrere dal 1º gennaio 2019. 
  Ha inoltre disposto (con l'art. 1, comma 1006) che "In deroga alle previsioni di cui ai commi da 999 a 1005, alle distribuzioni di utili derivanti da partecipazioni qualificate in societa' ed enti soggetti all'imposta sul reddito delle societa' formatesi con utili prodotti fino all'esercizio in corso al 31 dicembre 2017, deliberate dal 1º gennaio 2018 al 31 dicembre 2022, continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'economia e delle finanze 26 maggio 2017, pubblicato nella Gazzetta Ufficiale n. 160 dell'11 luglio 2017".
 
 ------------
@@ -3838,7 +3838,7 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 7, comma 2) che "La disposizione del comma 1 si applica alle cessioni a titolo oneroso di terreni suscettibili di utilizzazione edificatoria effettuate a partire dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 7, comma 2) che "La disposizione del comma 1 si applica alle cessioni a titolo oneroso di terreni suscettibili di utilizzazione edificatoria effettuate a partire dalla data di entrata in vigore del presente decreto".
 
 ### Art. 69. — Premi, vincite e indennita'
 
@@ -3859,7 +3859,7 @@ Le indennita', i rimborsi forfettari, i premi e i compensi ((di cui alla lettera
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 104.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 104.
 
 ### Art. 70. — ((Redditi di natura fondiaria ))
 
@@ -3877,7 +3877,7 @@ I censi, le decime, i quartesi e gli altri redditi di natura fondiaria non deter
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 105.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 105.
 
 ### Art. 71. — Altri redditi
 
@@ -3890,13 +3890,13 @@ I redditi di cui alla lettera g) del comma 1 dell'articolo 81 costituiscono redd
 I redditi di cui alle lettere h), i) e l) del comma 1 dell'articolo 81 sono costituiti dalla differenza tra l'ammontare percepito nel periodo di imposta e le spese specificamente inerenti alla loro produzione. Le plusvalenze indicate alle lettere h) e 
  h-bis) del predetto articolo 81 sono determinate a norma dell'articolo 54.
 
-((2-bis. In deroga alla disposizione di cui al comma 2, per le operazioni di cui all' articolo 67, comma 1, lettera i), poste in essere dai soggetti che svolgono le attivita' di cui all'articolo 29, eccedenti i limiti di cui al comma 2, lettera c), del predetto articolo, si applicano le percentuali di redditivita' di cui ai commi 2 e 3 dell'articolo 56-bis. Le disposizioni del presente comma non incidono sull'esercizio della delega legislativa di cui alla [legge 7 aprile 2003, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-04-07;80)))
+((2-bis. In deroga alla disposizione di cui al comma 2, per le operazioni di cui all' articolo 67, comma 1, lettera i), poste in essere dai soggetti che svolgono le attivita' di cui all'articolo 29, eccedenti i limiti di cui al comma 2, lettera c), del predetto articolo, si applicano le percentuali di redditivita' di cui ai commi 2 e 3 dell'articolo 56-bis. Le disposizioni del presente comma non incidono sull'esercizio della delega legislativa di cui alla [legge 7 aprile 2003, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20sistema%20fiscale%20statale.md)))
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 106.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 106.
 
 ## ((IMPOSTA SUL REDDITO DELLE SOCIETA'))  Capo I ((SOGGETTI PASSIVI E DISPOSIZIONI GENERALI))
 
@@ -3931,7 +3931,7 @@ Sono soggetti all'imposta sul reddito delle societa':
 Tra gli enti diversi dalle societa', di cui alle lettere b) e c) del comma 1, si comprendono, oltre alle persone giuridiche, le associazioni non riconosciute, i consorzi e le altre organizzazioni non appartenenti ad altri soggetti passivi, nei confronti delle quali il presupposto dell'imposta si verifica in modo unitario e autonomo.
 Tra le societa' e gli enti di cui alla lettera d) del comma 1 sono comprese anche le societa' e le associazioni indicate nell'articolo 5. Nei casi in cui i beneficiari del trust siano individuati, i redditi conseguiti dal trust sono imputati in ogni caso ai beneficiari in proporzione alla quota di partecipazione individuata nell' atto di costituzione del trust o in altri documenti successivi ovvero, in mancanza, in parti uguali.
 
-((3. Ai fini delle imposte sui redditi si considerano residenti le societa' e gli enti che per la maggior parte del periodo di imposta hanno nel territorio dello Stato la sede legale o la sede di direzione effettiva o la gestione ordinaria in via principale. Per sede di direzione effettiva si intende la continua e coordinata assunzione delle decisioni strategiche riguardanti la societa' o l'ente nel suo complesso. Per gestione ordinaria si intende il continuo e coordinato compimento degli atti della gestione corrente riguardanti la societa' o l'ente nel suo complesso. Gli organismi di investimento collettivo del risparmio si considerano residenti se istituiti in Italia. Si considerano altresi' residenti nel territorio dello Stato, salvo prova contraria, i trust e gli istituti aventi analogo contenuto istituiti in Stati o territori diversi da quelli di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239#art_11-com4-letc), in cui almeno uno dei disponenti e almeno uno dei beneficiari del trust sono fiscalmente residenti nel territorio dello Stato. Si considerano, inoltre, residenti nel territorio dello Stato, salvo prova contraria, i trust istituiti in uno Stato diverso da quelli di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239#art_11-com4-letc), quando, successivamente alla loro costituzione, un soggetto residente nel territorio dello Stato effettui in favore del trust un'attribuzione che importi il trasferimento di proprieta' di beni immobili o la costituzione o il trasferimento di diritti reali immobiliari, anche per quote, nonche' vincoli di destinazione sugli stessi.))
+((3. Ai fini delle imposte sui redditi si considerano residenti le societa' e gli enti che per la maggior parte del periodo di imposta hanno nel territorio dello Stato la sede legale o la sede di direzione effettiva o la gestione ordinaria in via principale. Per sede di direzione effettiva si intende la continua e coordinata assunzione delle decisioni strategiche riguardanti la societa' o l'ente nel suo complesso. Per gestione ordinaria si intende il continuo e coordinato compimento degli atti della gestione corrente riguardanti la societa' o l'ente nel suo complesso. Gli organismi di investimento collettivo del risparmio si considerano residenti se istituiti in Italia. Si considerano altresi' residenti nel territorio dello Stato, salvo prova contraria, i trust e gli istituti aventi analogo contenuto istituiti in Stati o territori diversi da quelli di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md), in cui almeno uno dei disponenti e almeno uno dei beneficiari del trust sono fiscalmente residenti nel territorio dello Stato. Si considerano, inoltre, residenti nel territorio dello Stato, salvo prova contraria, i trust istituiti in uno Stato diverso da quelli di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md), quando, successivamente alla loro costituzione, un soggetto residente nel territorio dello Stato effettui in favore del trust un'attribuzione che importi il trasferimento di proprieta' di beni immobili o la costituzione o il trasferimento di diritti reali immobiliari, anche per quote, nonche' vincoli di destinazione sugli stessi.))
 
 ((227))
 
@@ -3968,7 +3968,7 @@ I redditi degli organismi di investimento collettivo del risparmio istituiti in 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 107.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 107.
 
 ---------------
 
@@ -3980,7 +3980,7 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 ------------
 
@@ -3998,7 +3998,7 @@ Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (227)
 
-Il [D.Lgs. 27 dicembre 2023, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-27;209) ha disposto (con l'art. 7, comma 2) che le presenti modifiche "si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) ha disposto (con l'art. 7, comma 2) che le presenti modifiche "si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 74. — Stato ed enti pubblici
 
@@ -4019,13 +4019,13 @@ Non costituiscono esercizio dell'attivita' commerciale:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 108.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 108.
 
 ---------------
 
 AGGIORNAMENTO (200)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) ha disposto (con l'art. 1, comma 721) che "Ai soli fini dell'applicazione dell'articolo 74, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si considera esercizio di funzioni statali da parte di enti pubblici anche l'attivita' di formazione universitaria posta in essere dalle universita' non statali legalmente riconosciute che hanno ottenuto l'autorizzazione a rilasciare titoli di studio universitario aventi valore legale, non costituite sotto forma di societa' commerciali".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) ha disposto (con l'art. 1, comma 721) che "Ai soli fini dell'applicazione dell'articolo 74, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si considera esercizio di funzioni statali da parte di enti pubblici anche l'attivita' di formazione universitaria posta in essere dalle universita' non statali legalmente riconosciute che hanno ottenuto l'autorizzazione a rilasciare titoli di studio universitario aventi valore legale, non costituite sotto forma di societa' commerciali".
 
 ### Art. 75. — Base imponibile
 
@@ -4042,13 +4042,13 @@ Le societa' residenti di cui alla lettera a) del comma 1 dell'articolo 73 e quel
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 109.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 109.
 
 ---------------
 
 AGGIORNAMENTO (146)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-quinquies) che "L'aliquota dell'imposta sul reddito delle societa' di cui all'articolo 75 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, dovuta dai soggetti indicati nell'[articolo 30, comma 1, della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_30-com1), e' applicata con una maggiorazione di 10,5 punti percentuali".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-quinquies) che "L'aliquota dell'imposta sul reddito delle societa' di cui all'articolo 75 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, dovuta dai soggetti indicati nell'[articolo 30, comma 1, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), e' applicata con una maggiorazione di 10,5 punti percentuali".
 
 ### Art. 76. — Periodo d'imposta
 
@@ -4068,14 +4068,14 @@ Il periodo di imposta e' costituito dall'esercizio o periodo di gestione della s
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 5, comma 3) che "Le disposizioni degli articoli 76 e 80 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004". 
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 5, comma 3) che "Le disposizioni degli articoli 76 e 80 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004". 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 110.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 110.
 
 ### Art. 77. — Aliquota dell'imposta
 
@@ -4088,42 +4088,42 @@ L'imposta e' commisurata al reddito complessivo netto con l'aliquota del 24 per 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 65.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 65.
 
 ---------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ---------------
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto: 
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto: 
  - ( con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal 1° gennaio 2017, con effetto per i periodi d'imposta successivi a quello in corso al 31 dicembre 2016; 
- - (con l'art. 1, comma 65) che "Per gli enti creditizi e finanziari di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e per la Banca d'Italia, l'aliquota di cui all'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' applicata con una addizionale di 3,5 punti percentuali"; 
+ - (con l'art. 1, comma 65) che "Per gli enti creditizi e finanziari di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e per la Banca d'Italia, l'aliquota di cui all'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' applicata con una addizionale di 3,5 punti percentuali"; 
  - (con l'art. 1, comma 69) che "Le disposizioni di cui ai commi da 65 a 68 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016".
 
 ---------------
 
 AGGIORNAMENTO (181)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) come modificata dalla [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 65) che "Per gli enti creditizi e finanziari di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), escluse le societa' di gestione dei fondi comuni d'investimento di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), e per la Banca d'Italia, l'aliquota di cui all'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' applicata con una addizionale di 3,5 punti percentuali".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) come modificata dalla [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 65) che "Per gli enti creditizi e finanziari di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), escluse le societa' di gestione dei fondi comuni d'investimento di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e per la Banca d'Italia, l'aliquota di cui all'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' applicata con una addizionale di 3,5 punti percentuali".
 
 ---------------
 
 AGGIORNAMENTO (192)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), come modificata dal [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 1, comma 65) che "Per gli intermediari finanziari, escluse le societa' di gestione dei fondi comuni d'investimento e le societa' di intermediazione mobiliare di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), e per la Banca d'Italia, l'aliquota di cui all'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' applicata con una addizionale di 3,5 punti percentuali". 
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), come modificata dal [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 1, comma 65) che "Per gli intermediari finanziari, escluse le societa' di gestione dei fondi comuni d'investimento e le societa' di intermediazione mobiliare di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e per la Banca d'Italia, l'aliquota di cui all'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' applicata con una addizionale di 3,5 punti percentuali". 
  Ha inoltre disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018.
 
 ---------------
 
 AGGIORNAMENTO (200)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) ha disposto: 
- - (con l'art. 1, comma 716) che "Al fine di realizzare interventi volti al miglioramento della rete infrastrutturale e dei trasporti, per i periodi d'imposta 2019, 2020 e 2021, l'aliquota prevista dall'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' maggiorata di 3,5 punti percentuali sul reddito derivante da attivita' svolte sulla base di: 
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) ha disposto: 
+ - (con l'art. 1, comma 716) che "Al fine di realizzare interventi volti al miglioramento della rete infrastrutturale e dei trasporti, per i periodi d'imposta 2019, 2020 e 2021, l'aliquota prevista dall'articolo 77 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' maggiorata di 3,5 punti percentuali sul reddito derivante da attivita' svolte sulla base di: 
  a) concessioni autostradali; 
  b) concessioni di gestione aeroportuale; 
  c) autorizzazioni e concessioni portuali rilasciate ai sensi degli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84#art_16) e [18 della legge 28 gennaio 1994, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84#art_18); 
@@ -4145,13 +4145,13 @@ Dall'imposta lorda si detrae, fino a concorrenza del suo ammontare, un importo p
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 56, comma 5.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 56, comma 5.
 
 --------------
 
 AGGIORNAMENTO (154)
 
-La [L. 6 luglio 2012, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-07-06;96) ha disposto (con l'art. 7, comma 4) che la modifica al presente articolo decorre dal 2013.
+La [L. 6 luglio 2012, n. 96](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20riduzione%20dei%20contributi%20pubblici%20in%20favore%20dei%20partiti%20e%20dei%20movimenti%20politici%20nonche%20misure%20per%20garantire%20la%20trasparenza%20e%20i%20controlli%20dei%20rendiconti%20dei%20medesimi.%20_084bdb8ec875.md) ha disposto (con l'art. 7, comma 4) che la modifica al presente articolo decorre dal 2013.
 
 --------------
 
@@ -4179,7 +4179,7 @@ Per le attivita' dirette alla fornitura di servizi di cui al [terzo comma dell'a
 
 Le disposizioni di cui ai commi 1, 2 e 3 non si applicano ai soggetti di cui all'articolo 87, comma 1, lettere a), b) e d), nonche' alle societa' in nome collettivo ed in accomandita semplice.
 
-5. Il contribuente ha facolta' di non avvalersi delle disposizioni di cui al presente articolo. In tal caso l'opzione o la revoca per la determinazione del reddito nel modo normale si esercitano con le modalita' stabilite dal regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette, di cui al [decreto del Presidente della Repubblica 10 novembre 1997, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-10;442), e successive modificazioni))
+5. Il contribuente ha facolta' di non avvalersi delle disposizioni di cui al presente articolo. In tal caso l'opzione o la revoca per la determinazione del reddito nel modo normale si esercitano con le modalita' stabilite dal regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette, di cui al [decreto del Presidente della Repubblica 10 novembre 1997, n. 442](Regolamento%20recante%20norme%20per%20il%20riordino%20della%20disciplina%20delle%20opzioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20dirette.md), e successive modificazioni))
 
 ### Art. 79. — ((Scomputo degli acconti))
 
@@ -4197,19 +4197,19 @@ I versamenti eseguiti dal contribuente in acconto dell'imposta e le ritenute all
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 66.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 66.
 
 ### Art. 80. — Riporto o rimborso delle eccedenze
 
 1.
 
-Se l'ammontare complessivo dei ((crediti per le imposte pagate all'estero)), delle ritenute d'acconto e dei versamenti in acconto di cui ai precedenti articoli e' superiore a quello dell'imposta dovuta il contribuente ha diritto, a sua scelta, di computare l'eccedenza in diminuzione dell'imposta relativa al periodo di imposta successivo, di chiederne il rimborso in sede di dichiarazione dei redditi ovvero di utilizzare la stessa in compensazione ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17). ((123))
+Se l'ammontare complessivo dei ((crediti per le imposte pagate all'estero)), delle ritenute d'acconto e dei versamenti in acconto di cui ai precedenti articoli e' superiore a quello dell'imposta dovuta il contribuente ha diritto, a sua scelta, di computare l'eccedenza in diminuzione dell'imposta relativa al periodo di imposta successivo, di chiederne il rimborso in sede di dichiarazione dei redditi ovvero di utilizzare la stessa in compensazione ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). ((123))
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 5, comma 3) che "Le disposizioni degli articoli 76 e 80 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 5, comma 3) che "Le disposizioni degli articoli 76 e 80 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004".
 
 ## II ((DETERMINAZIONE DELLA BASE IMPONIBILE DELLE SOCIETA' E DEGLI ENTI COMMERCIALI RESIDENTI  Sezione I DETERMINAZIONE DELLA BASE IMPONIBILE))
 
@@ -4226,13 +4226,13 @@ Il reddito complessivo delle societa' e degli enti commerciali di cui alle lette
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 67.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 67.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 1, comma 2) che "Le disposizioni del presente articolo si applicano ai redditi prodotti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
 
 ### Art. 82. — ((Cessioni obbligatorie di partecipazioni sociali 
  
@@ -4247,7 +4247,7 @@ Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 68.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 68.
 
 ### Art. 83. — Determinazione del reddito complessivo
 
@@ -4269,26 +4269,26 @@ Il reddito complessivo e' determinato apportando all'utile o alla perdita risult
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 69.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 69.
 
 --------------
 
 AGGIORNAMENTO (121)
 
-Il [D.Lgs. 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38) ha disposto (con l'art. 13, comma 1) che "Le disposizioni degli articoli 83 e 109, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come modificati dall'articolo 11 del presente decreto, si applicano anche ai componenti imputati direttamente a patrimonio nel primo esercizio di applicazione dei principi contabili internazionali".
+Il [D.Lgs. 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38) ha disposto (con l'art. 13, comma 1) che "Le disposizioni degli articoli 83 e 109, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come modificati dall'articolo 11 del presente decreto, si applicano anche ai componenti imputati direttamente a patrimonio nel primo esercizio di applicazione dei principi contabili internazionali".
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che le presenti modifiche si apllicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che le presenti modifiche si apllicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2007.
 
 -------------
 
 AGGIORNAMENTO (182)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015". 
- Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
 
 -------------
 
@@ -4300,13 +4300,13 @@ Il [D.L. 21 giugno 2022, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (221)
 
-La [L. 29 dicembre 2022, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197) ha disposto (con l'art. 1, comma 275) che la presente modifica si applica "a decorrere dal periodo d'imposta in corso alla data di entrata in vigore del citato [decreto-legge 21 giugno 2022, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73)".
+La [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 1, comma 275) che la presente modifica si applica "a decorrere dal periodo d'imposta in corso alla data di entrata in vigore del citato [decreto-legge 21 giugno 2022, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73)".
 
 ---------------
 
 AGGIORNAMENTO (241)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024". 
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024". 
  Ha inoltre disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
 
 ### Art. 84. — Riporto delle perdite
@@ -4333,26 +4333,26 @@ Nel caso di cui al comma 3-bis le perdite sono riportabili per un importo, compl
 
 3-quater.
 
-Le disposizioni dei commi precedenti si applicano anche al riporto delle eccedenze di interessi passivi previsto dall'articolo 96, comma 5, e dell'eccedenza, ai sensi dell'[articolo 5 del decreto legislativo 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216#art_5), relativa all'aiuto alla crescita economica previsto dall'[articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_1-com4), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). (235) 
+Le disposizioni dei commi precedenti si applicano anche al riporto delle eccedenze di interessi passivi previsto dall'articolo 96, comma 5, e dell'eccedenza, ai sensi dell'[articolo 5 del decreto legislativo 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md), relativa all'aiuto alla crescita economica previsto dall'[articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_1-com4), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). (235) 
 (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 70.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 70.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 -----------
 
 AGGIORNAMENTO (238)
 
-Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 84, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192)".
+Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 84, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md)".
 
 ### Art. 85. — Ricavi
 
@@ -4393,19 +4393,19 @@ In deroga al comma 3, per i soggetti che redigono il bilancio in base ai princip
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 71.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 71.
 
 ------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 61) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 61) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 --------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347).
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ### Art. 86. — Plusvalenze patrimoniali
 
@@ -4453,21 +4453,21 @@ Nelle ipotesi dell'articolo 47, commi 5 e 7, costituiscono plusvalenze le somme 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 72.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 72.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
 Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo e' riconosciuto per le imposte pagate dalla societa' controllata a partire dal quinto periodo d'imposta precedente a quello in corso alla data di entrata in vigore del presente decreto". 
- Ha inoltre disposto (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347).
+ Ha inoltre disposto (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ------------
 
@@ -4479,7 +4479,7 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (242)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), ha disposto (con l'art. 1, comma 43) che la presente modifica si applica alle plusvalenze realizzate a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2025.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md), ha disposto (con l'art. 1, comma 43) che la presente modifica si applica alle plusvalenze realizzate a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2025.
 
 ---------------
 
@@ -4530,20 +4530,20 @@ Le disposizioni del presente articolo si applicano anche alle plusvalenze di cui
 
 7.
 
-COMMA ABROGATO DAL [D.LGS 18 NOVEMBRE 2005, N. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247). (123) 
+COMMA ABROGATO DAL [D.LGS 18 NOVEMBRE 2005, N. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md). (123) 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 73.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 73.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto er i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto er i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 -------------
 
@@ -4555,14 +4555,14 @@ Il [D.L. 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (123)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che "La disposizione di cui al comma 33, lettera h), ha effetto per le plusvalenze realizzate a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007; resta ferma l'esenzione in misura pari all'84 per cento per le plusvalenze realizzate dalla predetta data fino a concorrenza delle svalutazioni dedotte ai fini fiscali nei periodi d'imposta anteriori a quello in corso al 1° gennaio 2004". 
- Ha inoltre disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che "La disposizione di cui al comma 33, lettera h), ha effetto per le plusvalenze realizzate a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007; resta ferma l'esenzione in misura pari all'84 per cento per le plusvalenze realizzate dalla predetta data fino a concorrenza delle svalutazioni dedotte ai fini fiscali nei periodi d'imposta anteriori a quello in corso al 1° gennaio 2004". 
+ Ha inoltre disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 -------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
 Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo e' riconosciuto per le imposte pagate dalla societa' controllata a partire dal quinto periodo d'imposta precedente a quello in corso alla data di entrata in vigore del presente decreto".
 
 ------------
@@ -4575,7 +4575,7 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (242)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 54) che le presenti modifiche si applicano alle distribuzioni dell'utile di esercizio, delle riserve e degli altri fondi, deliberate a decorrere dal 1° gennaio 2026, nonche' alle plusvalenze realizzate in relazione alla cessione di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale in societa' ed enti di cui all'articolo 73 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e alla cessione di titoli e strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a), del predetto testo unico nonche' ai contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico acquisiti o sottoscritti a decorrere dalla medesima data; a tal fine, si considerano ceduti per primi gli strumenti finanziari acquisiti o i contratti sottoscritti in data meno recente.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 54) che le presenti modifiche si applicano alle distribuzioni dell'utile di esercizio, delle riserve e degli altri fondi, deliberate a decorrere dal 1° gennaio 2026, nonche' alle plusvalenze realizzate in relazione alla cessione di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale in societa' ed enti di cui all'articolo 73 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e alla cessione di titoli e strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a), del predetto testo unico nonche' ai contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico acquisiti o sottoscritti a decorrere dalla medesima data; a tal fine, si considerano ceduti per primi gli strumenti finanziari acquisiti o i contratti sottoscritti in data meno recente.
 
 ---------------
 
@@ -4604,7 +4604,7 @@ Tali proventi concorrono a formare il reddito nell'esercizio in cui sono stati i
 
 3-bis.
 
-Non costituiscono sopravvenienze attive, in quanto esclusi, i contributi percepiti a titolo di liberalita' dai soggetti sottoposti alle procedure concorsuali previste dal [Regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), dal [decreto legislativo 8 luglio 1999, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-08;270), dal [decreto-legge 23 dicembre 2003, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-12-23;347), convertito, con modificazioni, dalla [legge 18 febbraio 2004, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202003%20n.%20347%20recante%20misure%20urgenti%20per%20la%20ristrutturazione%20industriale%20di%20grandi%20imprese%20in%20stato%20di%20insolvenza.md), ovvero alle procedure di crisi di cui all'[articolo 20 del decreto legislativo 16 novembre 2015, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-59-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20che%20istituisce%20un%20quadro%20di%20risanamento%20e%20risoluzione%20degli%20enti%20creditizi%20e%20delle%20imprese%20_eb670076fd4d.md) nonche' alla procedura di amministrazione straordinaria di cui agli [articoli 70 e seguenti del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_70), ad esclusione di quelli provenienti da societa' controllate dall'impresa o controllate dalla stessa societa' che controlla l'impresa. Le disposizioni del precedente periodo si applicano anche ai contributi percepiti nei ventiquattro mesi successivi alla chiusura delle predette procedure. (175)
+Non costituiscono sopravvenienze attive, in quanto esclusi, i contributi percepiti a titolo di liberalita' dai soggetti sottoposti alle procedure concorsuali previste dal [Regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), dal [decreto legislativo 8 luglio 1999, n. 270](../Decreti%20Legislativi/Nuova%20disciplina%20dellamministrazione%20straordinaria%20delle%20grandi%20imprese%20in%20stato%20di%20insolvenza%20a%20norma%20dellarticolo%201%20della%20legge%2030%20luglio%201998%20n.%20274.md), dal [decreto-legge 23 dicembre 2003, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-12-23;347), convertito, con modificazioni, dalla [legge 18 febbraio 2004, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202003%20n.%20347%20recante%20misure%20urgenti%20per%20la%20ristrutturazione%20industriale%20di%20grandi%20imprese%20in%20stato%20di%20insolvenza.md), ovvero alle procedure di crisi di cui all'[articolo 20 del decreto legislativo 16 novembre 2015, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-59-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20che%20istituisce%20un%20quadro%20di%20risanamento%20e%20risoluzione%20degli%20enti%20creditizi%20e%20delle%20imprese%20_eb670076fd4d.md) nonche' alla procedura di amministrazione straordinaria di cui agli [articoli 70 e seguenti del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_70), ad esclusione di quelli provenienti da societa' controllate dall'impresa o controllate dalla stessa societa' che controlla l'impresa. Le disposizioni del precedente periodo si applicano anche ai contributi percepiti nei ventiquattro mesi successivi alla chiusura delle predette procedure. (175)
 
 4.
 
@@ -4628,45 +4628,45 @@ In caso di cessione del contratto di locazione finanziaria il valore normale del
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 74.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 74.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 13, comma 2), che le presenti modifiche si applicano a decorrere dal periodo di imposta successivo a quello di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 13, comma 2), che le presenti modifiche si applicano a decorrere dal periodo di imposta successivo a quello di entrata in vigore del D.Lgs. medesimo.
 
 -------------
 
 AGGIORNAMENTO (175)
 
-Il [D.L. 14 febbraio 2016, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-02-14;18) convertito con modificazioni dalla [L. 8 aprile 2016, n. 49](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%202016%20n.%2018%20recante%20misure%20urgenti%20concernenti%20la%20riforma%20delle%20banche%20di%20credito%20cooperativo%20la%20garanzia%20sulla%20cartola_272ab6feca88.md) ha disposto (con l'art. 14, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai contributi percepiti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto-legge. Limitatamente ai contributi percepiti nel periodo d'imposta in corso alla data di entrata in vigore del presente decreto, l'esclusione di cui al comma 3-bis dell'articolo 88 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dal comma 1, e' riconosciuta mediante una deduzione dal reddito ripartita in cinque quote costanti da effettuare nelle dichiarazioni dei redditi relative ai cinque periodi d'imposta successivi, sempre che tali proventi concorrano integralmente a formare il reddito nell'esercizio in cui sono stati incassati".
+Il [D.L. 14 febbraio 2016, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-02-14;18) convertito con modificazioni dalla [L. 8 aprile 2016, n. 49](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%202016%20n.%2018%20recante%20misure%20urgenti%20concernenti%20la%20riforma%20delle%20banche%20di%20credito%20cooperativo%20la%20garanzia%20sulla%20cartola_272ab6feca88.md) ha disposto (con l'art. 14, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai contributi percepiti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto-legge. Limitatamente ai contributi percepiti nel periodo d'imposta in corso alla data di entrata in vigore del presente decreto, l'esclusione di cui al comma 3-bis dell'articolo 88 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dal comma 1, e' riconosciuta mediante una deduzione dal reddito ripartita in cinque quote costanti da effettuare nelle dichiarazioni dei redditi relative ai cinque periodi d'imposta successivi, sempre che tali proventi concorrano integralmente a formare il reddito nell'esercizio in cui sono stati incassati".
 
 -------------
 
 AGGIORNAMENTO (200)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) ha disposto (con l'art. 1, comma 431) che "Per assicurare la corretta esecuzione in ambito nazionale delle sentenze di condanna della Corte europea dei diritti dell'uomo, dei regolamenti amichevoli e delle dichiarazioni unilaterali definiti ai sensi degli articoli 62 e 62A del regolamento della predetta Corte seguiti da decisioni di radiazione delle cause dal ruolo, sulle somme corrisposte in esecuzione di tali sentenze, regolamenti amichevoli e dichiarazioni unilaterali non sono dovute imposte qualora sia prevista la clausola di esenzione da imposizione fiscale.
-Conseguentemente, l'articolo 88, comma 3, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che non sono considerate indennita' tassabili le somme indicate nel periodo precedente".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) ha disposto (con l'art. 1, comma 431) che "Per assicurare la corretta esecuzione in ambito nazionale delle sentenze di condanna della Corte europea dei diritti dell'uomo, dei regolamenti amichevoli e delle dichiarazioni unilaterali definiti ai sensi degli articoli 62 e 62A del regolamento della predetta Corte seguiti da decisioni di radiazione delle cause dal ruolo, sulle somme corrisposte in esecuzione di tali sentenze, regolamenti amichevoli e dichiarazioni unilaterali non sono dovute imposte qualora sia prevista la clausola di esenzione da imposizione fiscale.
+Conseguentemente, l'articolo 88, comma 3, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che non sono considerate indennita' tassabili le somme indicate nel periodo precedente".
 
 -------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 13, comma 1) che "Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 13, comma 1) che "Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
  Ha inoltre disposto (con l'art. 13, comma 2) che "Per i proventi di cui all'articolo 88, comma 3, lettera b), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 21 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-21;917), incassati entro il termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto".
 
 -------------
 
 AGGIORNAMENTO (240)
 
-Il [D.Lgs. 4 dicembre 2025, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-04;186), ha disposto (con l'art. 8, comma 1) che "L'articolo 88, comma 4-ter, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che non si considerano sopravvenienze attive, ai sensi del primo periodo di tale disposizione, le riduzioni dei debiti dell'impresa anche in sede di concordato nella liquidazione giudiziale, di concordato minore liquidatorio e di concordato semplificato per la liquidazione del patrimonio e non costituiscono sopravvenienze attive, ai sensi del secondo periodo del medesimo comma 4-ter, le riduzioni dei debiti dell'impresa anche nei casi di concordato minore in continuita' aziendale, di accordo di ristrutturazione dei debiti omologato ai sensi degli [articoli 57](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), [60](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md) e [61 del decreto legislativo 12 gennaio 2019, n. 14](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), di un piano attestato ai sensi dell'articolo 56 del citato [decreto legislativo n. 14 del 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019;14), pubblicato nel registro delle imprese, ovvero di un piano di ristrutturazione soggetto a omologazione".
+Il [D.Lgs. 4 dicembre 2025, n. 186](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20Terzo%20settore%20crisi%20dimpresa%20sport%20e%20imposta%20sul%20valore%20aggiunto.%2025G00194.md), ha disposto (con l'art. 8, comma 1) che "L'articolo 88, comma 4-ter, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che non si considerano sopravvenienze attive, ai sensi del primo periodo di tale disposizione, le riduzioni dei debiti dell'impresa anche in sede di concordato nella liquidazione giudiziale, di concordato minore liquidatorio e di concordato semplificato per la liquidazione del patrimonio e non costituiscono sopravvenienze attive, ai sensi del secondo periodo del medesimo comma 4-ter, le riduzioni dei debiti dell'impresa anche nei casi di concordato minore in continuita' aziendale, di accordo di ristrutturazione dei debiti omologato ai sensi degli [articoli 57](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), [60](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md) e [61 del decreto legislativo 12 gennaio 2019, n. 14](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), di un piano attestato ai sensi dell'articolo 56 del citato [decreto legislativo n. 14 del 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019;14), pubblicato nel registro delle imprese, ovvero di un piano di ristrutturazione soggetto a omologazione".
 
 ### Art. 89. — Dividendi ed interessi
 
@@ -4728,26 +4728,26 @@ Per i contratti di conto corrente e per le operazioni bancarie regolate in conto
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 75.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 75.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 61) che "Le disposizioni recate dai commi 58 e 59 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007". 
- Ha inoltre disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 61) che "Le disposizioni recate dai commi 58 e 59 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007". 
+ Ha inoltre disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 ------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
 Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo e' riconosciuto per le imposte pagate dalla societa' controllata a partire dal quinto periodo d'imposta precedente a quello in corso alla data di entrata in vigore del presente decreto".
 
 ------------
@@ -4760,7 +4760,7 @@ La [L. 7 luglio 2016, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 1007) che "Ai fini degli articoli 47, comma 4, e 89, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), non si considerano provenienti da societa' residenti o localizzate in Stati o territori a regime fiscale privilegiato gli utili percepiti a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014 e maturati in periodi d'imposta precedenti nei quali le societa' partecipate erano residenti o localizzate in Stati o territori non inclusi nel decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 273 del 23 novembre 2001. Le disposizioni del precedente periodo si applicano anche per gli utili maturati in periodi successivi a quello in corso al 31 dicembre 2014 in Stati o territori non a regime privilegiato e, in seguito, percepiti in periodi d'imposta in cui risultino integrate le condizioni per l'applicazione dell'articolo 167, comma 4, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917). In caso di cessione delle partecipazioni la preesistente stratificazione delle riserve di utili si trasferisce al cessionario".
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 1007) che "Ai fini degli articoli 47, comma 4, e 89, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), non si considerano provenienti da societa' residenti o localizzate in Stati o territori a regime fiscale privilegiato gli utili percepiti a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014 e maturati in periodi d'imposta precedenti nei quali le societa' partecipate erano residenti o localizzate in Stati o territori non inclusi nel decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 273 del 23 novembre 2001. Le disposizioni del precedente periodo si applicano anche per gli utili maturati in periodi successivi a quello in corso al 31 dicembre 2014 in Stati o territori non a regime privilegiato e, in seguito, percepiti in periodi d'imposta in cui risultino integrate le condizioni per l'applicazione dell'articolo 167, comma 4, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917). In caso di cessione delle partecipazioni la preesistente stratificazione delle riserve di utili si trasferisce al cessionario".
 
 ------------
 
@@ -4772,7 +4772,7 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (242)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 54) che le presenti modifiche si applicano alle distribuzioni dell'utile di esercizio, delle riserve e degli altri fondi, deliberate a decorrere dal 1° gennaio 2026, nonche' alle plusvalenze realizzate in relazione alla cessione di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale in societa' ed enti di cui all'articolo 73 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e alla cessione di titoli e strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a), del predetto testo unico nonche' ai contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico acquisiti o sottoscritti a decorrere dalla medesima data; a tal fine, si considerano ceduti per primi gli strumenti finanziari acquisiti o i contratti sottoscritti in data meno recente.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 54) che le presenti modifiche si applicano alle distribuzioni dell'utile di esercizio, delle riserve e degli altri fondi, deliberate a decorrere dal 1° gennaio 2026, nonche' alle plusvalenze realizzate in relazione alla cessione di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale in societa' ed enti di cui all'articolo 73 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e alla cessione di titoli e strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a), del predetto testo unico nonche' ai contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico acquisiti o sottoscritti a decorrere dalla medesima data; a tal fine, si considerano ceduti per primi gli strumenti finanziari acquisiti o i contratti sottoscritti in data meno recente.
 
 ---------------
 
@@ -4785,7 +4785,7 @@ Il [D.L. 27 marzo 2026, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 1.
 
 I redditi degli immobili che non costituiscono beni strumentali per l'esercizio dell'impresa, ne' beni alla cui produzione o al cui scambio e' diretta l'attivita' dell'impresa, concorrono a formare il reddito nell'ammontare determinato secondo le disposizioni del capo II del titolo I per gli immobili situati nel territorio dello Stato e a norma dell'articolo 70 per quelli situati all'estero. Tale disposizione non si applica per i redditi, dominicali e agrari, dei terreni derivanti dall'esercizio delle attivita' agricole di cui all'articolo 32, pur se nei limiti ivi stabiliti. ((Per gli immobili riconosciuti di interesse storico o artistico, ai sensi dell'articolo 10 del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, il reddito medio ordinario di cui all'articolo 37, comma 1, e' ridotto del 50 per cento e non si applica comunque l'articolo 41)).
-In caso di immobili locati, qualora il canone risultante dal contratto di locazione ridotto, fino ad un massimo del 15 per cento del canone medesimo, dell'importo delle spese documentate sostenute ed effettivamente rimaste a carico per la realizzazione degli interventi di cui alla [lettera a) del comma 1 dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_3-com1-leta), risulti superiore al reddito medio ordinario dell'unita' immobiliare, il reddito e' determinato in misura pari a quella del canone di locazione al netto di tale riduzione. ((Per gli immobili locati riconosciuti di interesse storico o artistico, ai sensi dell'articolo 10 del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, qualora il canone risultante dal contratto di locazione ridotto del 35 per cento risulti superiore al reddito medio ordinario dell'unita' immobiliare, il reddito e' determinato in misura pari a quella del canone di locazione al netto di tale riduzione)). (122) ((150))
+In caso di immobili locati, qualora il canone risultante dal contratto di locazione ridotto, fino ad un massimo del 15 per cento del canone medesimo, dell'importo delle spese documentate sostenute ed effettivamente rimaste a carico per la realizzazione degli interventi di cui alla [lettera a) del comma 1 dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), risulti superiore al reddito medio ordinario dell'unita' immobiliare, il reddito e' determinato in misura pari a quella del canone di locazione al netto di tale riduzione. ((Per gli immobili locati riconosciuti di interesse storico o artistico, ai sensi dell'articolo 10 del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, qualora il canone risultante dal contratto di locazione ridotto del 35 per cento risulti superiore al reddito medio ordinario dell'unita' immobiliare, il reddito e' determinato in misura pari a quella del canone di locazione al netto di tale riduzione)). (122) ((150))
 
 2.
 
@@ -4796,7 +4796,7 @@ Le spese e gli altri componenti negativi relativi ai beni immobili indicati nel 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 76.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 76.
 
 -------------
 
@@ -4825,7 +4825,7 @@ Il [D.L. 2 marzo 2012, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 77.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 77.
 
 ### Art. 91-bis.
 
@@ -4836,7 +4836,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 78.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 78.
 
 ### Art. 92. — Variazioni delle rimanenze
 
@@ -4903,7 +4903,7 @@ Per gli esercenti attivita' di commercio al minuto che
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
  Ha inoltre disposto (con l'art. 13, comma 3) che "Per le opere, i prodotti, le forniture e i servizi di cui agli articoli 92, comma 6, e 93, comma 6, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 21 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-21;917), ancora in corso di lavorazione o di esecuzione al termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto".
 
 ### Art. 92-bis. — (( (Valutazione delle rimanenze di alcune categorie di imprese).))
@@ -4953,7 +4953,7 @@ I corrispettivi liquidati a titolo definitivo dal committente si comprendono tra
 
 5.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296). (128)
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md). (128)
 
 ((6. In deroga alle disposizioni dei commi 1, 2 e 4, le imprese che contabilizzano in bilancio le opere, forniture e servizi valutando le rimanenze al costo e imputando i corrispettivi all'esercizio nel quale sono consegnate le opere o ultimati i servizi e le forniture, in conformita' ai corretti principi contabili, applicano tale metodo anche ai fini della determinazione del reddito.))
 
@@ -4961,20 +4961,20 @@ COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri
 
 7.
 
-COMMA ABROGATO DAL [D.LGS. 18 NOVEMBRE 2005, N. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247). (123) 
+COMMA ABROGATO DAL [D.LGS. 18 NOVEMBRE 2005, N. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md). (123) 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 79.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 79.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
@@ -4986,13 +4986,13 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (128)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 70) che "La disposizione del periodo precedente si applica alle opere, forniture e servizi di durata ultrannuale la cui esecuzione ha inizio a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2006".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 70) che "La disposizione del periodo precedente si applica alle opere, forniture e servizi di durata ultrannuale la cui esecuzione ha inizio a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2006".
 
 -------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
  Ha inoltre disposto (con l'art. 13, comma 3) che "Per le opere, i prodotti, le forniture e i servizi di cui agli articoli 92, comma 6, e 93, comma 6, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 21 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-21;917), ancora in corso di lavorazione o di esecuzione al termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto".
 
 ### Art. 94. — Valutazione dei titoli
@@ -5038,19 +5038,19 @@ Le disposizioni dei commi precedenti si applicano anche per la valutazione delle
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 80.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 80.
 
 ------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 13, comma 2), che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 13, comma 2), che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello di entrata in vigore del D.Lgs.
 medesimo.
 
 ### Art. 95. — Spese per prestazioni di lavoro
@@ -5069,7 +5069,7 @@ Le spese di vitto e alloggio sostenute per le trasferte effettuate fuori dal ter
 
 3-bis.
 
-Le spese di vitto e alloggio e quelle per viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), nonche' i rimborsi analitici relativi alle medesime spese, sostenute ((nel territorio dello Stato)) per le trasferte dei dipendenti ((...)), sono deducibili nei limiti di cui ai commi 1, 2 e 3 se i pagamenti sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23). (236) ((238))
+Le spese di vitto e alloggio e quelle per viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'[articolo 1 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_1), nonche' i rimborsi analitici relativi alle medesime spese, sostenute ((nel territorio dello Stato)) per le trasferte dei dipendenti ((...)), sono deducibili nei limiti di cui ai commi 1, 2 e 3 se i pagamenti sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). (236) ((238))
 
 4.
 
@@ -5092,19 +5092,19 @@ Per i soggetti che redigono il bilancio in base ai principi contabili internazio
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 81.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 81.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto pe.r i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006"
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto pe.r i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006"
 
 ---------------
 
 AGGIORNAMENTO (236)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024". 
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024". 
  Ha inoltre disposto (con l'art. 1, comma 863) che "Le disposizioni di cui al comma 862 si applicano alle operazioni con pagamento basato su azioni i cui oneri sono rilevati per la prima volta nei bilanci relativi all'esercizio in corso alla data del 31 dicembre 2025 o nei successivi".
 
 ---------------
@@ -5130,7 +5130,7 @@ L'eccedenza degli interessi passivi e degli oneri finanziari assimilati rispetto
 
 3.
 
-La disciplina del presente articolo si applica agli interessi passivi e agli interessi attivi, nonche' agli oneri finanziari e ai proventi finanziari ad essi assimilati, che sono qualificati come tali dai principi contabili adottati dall'impresa, e per i quali tale qualificazione e' confermata dalle disposizioni emanate in attuazione dell'[articolo 1, comma 60, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_1-com60), dell'[articolo 4, commi 7-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_4-com7quater) e [7-quinquies, del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_4-com7quinquies), e dell'[articolo 13-bis, comma 11, del decreto-legge 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244#art_13bis-com11), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), e che derivano da un'operazione o da un rapporto contrattuale aventi causa finanziaria o da un rapporto contrattuale contenente una componente di finanziamento significativa. Ai fini del presente articolo gli interessi attivi, come individuati ai sensi del primo periodo, assumono rilevanza nella misura in cui sono imponibili; assumono rilevanza come interessi attivi o interessi passivi anche i proventi e gli oneri che, pur derivando da strumenti finanziari che, in base alla corretta applicazione dei principi contabili adottati, sono qualificati come strumenti rappresentativi di capitale, sono imponibili o deducibili in capo, rispettivamente, al percettore o all'erogante. Nei confronti dei soggetti operanti con la pubblica amministrazione, ai fini del presente articolo, si considerano interessi attivi rilevanti anche gli interessi legali di mora calcolati ai sensi dell'[articolo 5 del decreto legislativo 9 ottobre 2002, n. 231](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-35-CE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali.md).
+La disciplina del presente articolo si applica agli interessi passivi e agli interessi attivi, nonche' agli oneri finanziari e ai proventi finanziari ad essi assimilati, che sono qualificati come tali dai principi contabili adottati dall'impresa, e per i quali tale qualificazione e' confermata dalle disposizioni emanate in attuazione dell'[articolo 1, comma 60, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), dell'[articolo 4, commi 7-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_4-com7quater) e [7-quinquies, del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_4-com7quinquies), e dell'[articolo 13-bis, comma 11, del decreto-legge 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244#art_13bis-com11), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), e che derivano da un'operazione o da un rapporto contrattuale aventi causa finanziaria o da un rapporto contrattuale contenente una componente di finanziamento significativa. Ai fini del presente articolo gli interessi attivi, come individuati ai sensi del primo periodo, assumono rilevanza nella misura in cui sono imponibili; assumono rilevanza come interessi attivi o interessi passivi anche i proventi e gli oneri che, pur derivando da strumenti finanziari che, in base alla corretta applicazione dei principi contabili adottati, sono qualificati come strumenti rappresentativi di capitale, sono imponibili o deducibili in capo, rispettivamente, al percettore o all'erogante. Nei confronti dei soggetti operanti con la pubblica amministrazione, ai fini del presente articolo, si considerano interessi attivi rilevanti anche gli interessi legali di mora calcolati ai sensi dell'[articolo 5 del decreto legislativo 9 ottobre 2002, n. 231](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-35-CE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali.md).
 
 4.
 
@@ -5188,7 +5188,7 @@ Le disposizioni dei commi da 1 a 7 non si applicano agli intermediari finanziari
 
 13.
 
-Gli interessi passivi sostenuti dalle imprese di assicurazione e dalle societa' capogruppo di gruppi assicurativi, nonche' dalle societa' di gestione dei fondi comuni d'investimento e dalle societa' di intermediazione mobiliare di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), sono deducibili nei limiti del 96 per cento del loro ammontare. Nell'ambito del consolidato nazionale di cui agli articoli da 117 a 129, l'ammontare complessivo degli interessi passivi maturati in capo a soggetti partecipanti al consolidato a favore di altri soggetti partecipanti e' integralmente deducibile sino a concorrenza dell'ammontare complessivo degli interessi passivi maturati in capo ai soggetti di cui al primo periodo partecipanti a favore di soggetti estranei al consolidato. La societa' o ente controllante opera la deduzione integrale degli interessi passivi di cui al secondo periodo nella dichiarazione dei redditi del consolidato di cui all'articolo 122, apportando la relativa variazione in diminuzione della somma algebrica dei redditi complessivi netti dei soggetti partecipanti.
+Gli interessi passivi sostenuti dalle imprese di assicurazione e dalle societa' capogruppo di gruppi assicurativi, nonche' dalle societa' di gestione dei fondi comuni d'investimento e dalle societa' di intermediazione mobiliare di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono deducibili nei limiti del 96 per cento del loro ammontare. Nell'ambito del consolidato nazionale di cui agli articoli da 117 a 129, l'ammontare complessivo degli interessi passivi maturati in capo a soggetti partecipanti al consolidato a favore di altri soggetti partecipanti e' integralmente deducibile sino a concorrenza dell'ammontare complessivo degli interessi passivi maturati in capo ai soggetti di cui al primo periodo partecipanti a favore di soggetti estranei al consolidato. La societa' o ente controllante opera la deduzione integrale degli interessi passivi di cui al secondo periodo nella dichiarazione dei redditi del consolidato di cui all'articolo 122, apportando la relativa variazione in diminuzione della somma algebrica dei redditi complessivi netti dei soggetti partecipanti.
 
 14.
 
@@ -5200,14 +5200,14 @@ In caso di partecipazione al consolidato nazionale di cui agli articoli da 117 a
 
 15.
 
-Resta ferma l'applicazione prioritaria delle regole di indeducibilita' assoluta previste dall'articolo 90, comma 2, e dall'articolo 110, comma 7, del presente testo unico e dall'[articolo 1, comma 465, della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1-com465), in materia di interessi sui prestiti dei soci delle societa' cooperative. 
+Resta ferma l'applicazione prioritaria delle regole di indeducibilita' assoluta previste dall'articolo 90, comma 2, e dall'articolo 110, comma 7, del presente testo unico e dall'[articolo 1, comma 465, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), in materia di interessi sui prestiti dei soci delle societa' cooperative. 
  (192)
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che le presenti modifiche si applicano dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007; per il primo e il secondo periodo d'imposta di applicazione, il limite di deducibilita' degli interessi passivi e' aumentato di un importo pari, rispettivamente, a 10.000 e a 5.000 euro.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che le presenti modifiche si applicano dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007; per il primo e il secondo periodo d'imposta di applicazione, il limite di deducibilita' degli interessi passivi e' aumentato di un importo pari, rispettivamente, a 10.000 e a 5.000 euro.
 
 -------------
 
@@ -5225,26 +5225,26 @@ Il [D.L. 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 4, comma 5) che la presenti modifiche si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del medesimo decreto.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 4, comma 5) che la presenti modifiche si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del medesimo decreto.
 
 -------------
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 69) che "Le disposizioni di cui ai commi da 65 a 68 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 69) che "Le disposizioni di cui ai commi da 65 a 68 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016".
 
 -------------
 
 AGGIORNAMENTO (182)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015". 
- Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
 
 -------------
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), nel modificare l'[art. 1, comma 67, della L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com67), ha conseguentemente disposto (con l'art. 1, comma 86) che la modifica di cui al comma 5-bis del presente articolo si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), nel modificare l'[art. 1, comma 67, della L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha conseguentemente disposto (con l'art. 1, comma 86) che la modifica di cui al comma 5-bis del presente articolo si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
 
 -------------
 
@@ -5253,8 +5253,8 @@ AGGIORNAMENTO (192)
 Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto: 
  - (con l'art. 12, comma 1, lettera a)) che "all'articolo 96, comma 5, nel testo in vigore fino al periodo d'imposta in corso al 31 dicembre 2018, il primo periodo e' sostituito dal seguente: «Le disposizioni dei commi precedenti non si applicano agli intermediari finanziari, alle imprese di assicurazione nonche' alle societa' capogruppo di gruppi assicurativi»"; 
  - (con l'art. 13, comma 1) che "Le disposizioni di cui ai Capi I, II e III, Sezione I si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2018"; 
- - (con l'art. 13, comma 2) che "Il comma 5 dell'articolo 96 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come modificato dall'articolo 1 del presente decreto, si applica anche agli interessi passivi e oneri finanziari assimilati che al termine del periodo d'imposta in corso al 31 dicembre 2018 non sono stati dedotti per effetto della disciplina contenuta nell'articolo 96 del testo unico delle imposte sui redditi nella formulazione vigente anteriormente alle modifiche apportate con il medesimo articolo 1"; 
- - (con l'art. 13, comma 9) che "Le disposizioni del Capo V si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018".
+ - (con l'art. 13, comma 2) che "Il comma 5 dell'articolo 96 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come modificato dall'articolo 1 del presente decreto, si applica anche agli interessi passivi e oneri finanziari assimilati che al termine del periodo d'imposta in corso al 31 dicembre 2018 non sono stati dedotti per effetto della disciplina contenuta nell'articolo 96 del testo unico delle imposte sui redditi nella formulazione vigente anteriormente alle modifiche apportate con il medesimo articolo 1"; 
+ - (con l'art. 13, comma 9) che "Le disposizioni del Capo V si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018".
 
 ### Art. 96-bis.
 
@@ -5269,7 +5269,7 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 98.
 
@@ -5279,7 +5279,7 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 99. — ((Oneri fiscali e contributivi ))
 
@@ -5301,7 +5301,7 @@ Gli accantonamenti per imposte non ancora definitivamente accertate sono deducib
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 91, comma 1, lettera c).
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 91, comma 1, lettera c).
 
 ### Art. 100. — Oneri di utilita' sociale
 
@@ -5317,7 +5317,7 @@ Sono inoltre deducibili:
                             b)
                                 le erogazioni liberali fatte a favore di persone giuridiche aventi sede nel Mezzogiorno che perseguono esclusivamente finalita' di ricerca scientifica, per un ammontare complessivamente non superiore al 2 per cento del reddito d'impresa dichiarato;
                             c)
-                                LETTERA ABROGATA DALLA [L. 23 DICEMBRE 2005, N. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266);
+                                LETTERA ABROGATA DALLA [L. 23 DICEMBRE 2005, N. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md);
                             d)
                                 le erogazioni liberali a favore dei concessionari privati per la radiodiffusione sonora a carattere comunitario per un ammontare complessivo non superiore all'1 per cento del reddito imponibile del soggetto che effettua l'erogazione stessa;
                             e)
@@ -5334,15 +5334,15 @@ L'Amministrazione per i beni e le attivita' culturali da' immediata comunicazion
                             l)
                                 LETTERA ABROGATA DAL [D.LGS. 3 LUGLIO 2017, N. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md); (186) ((187))
                             m)
-                                le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti locali territoriali, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute, per lo svolgimento dei loro compiti istituzionali e per la realizzazione di programmi culturali nei settori dei beni culturali e dello spettacolo. Il Ministro per i beni e le attivita' culturali individua con proprio decreto periodicamente, sulla base di criteri che saranno definiti sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), i soggetti e le categorie di soggetti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario; definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari; vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento all'Agenzia delle entrate, l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali da essi effettuate. Nel caso che, in un dato anno, le somme complessivamente erogate abbiano superato la somma allo scopo indicata o determinata, i singoli soggetti beneficiari che abbiano ricevuto somme di importo maggiore della quota assegnata dal Ministero per i beni e le attivita' culturali versano all'entrata dello Stato un importo pari al 37 per cento della differenza;
+                                le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti locali territoriali, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute, per lo svolgimento dei loro compiti istituzionali e per la realizzazione di programmi culturali nei settori dei beni culturali e dello spettacolo. Il Ministro per i beni e le attivita' culturali individua con proprio decreto periodicamente, sulla base di criteri che saranno definiti sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), i soggetti e le categorie di soggetti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario; definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari; vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento all'Agenzia delle entrate, l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali da essi effettuate. Nel caso che, in un dato anno, le somme complessivamente erogate abbiano superato la somma allo scopo indicata o determinata, i singoli soggetti beneficiari che abbiano ricevuto somme di importo maggiore della quota assegnata dal Ministero per i beni e le attivita' culturali versano all'entrata dello Stato un importo pari al 37 per cento della differenza;
                             m-bis)
-                                le erogazioni liberali in denaro a favore dello Stato e dei comuni, per contributi volontari versati in seguito ad eventi sismici o calamitosi che hanno colpito l'ente in favore del quale si effettua il versamento. Il Ministro dell'economia e delle finanze, con proprio decreto, in seguito ad eventi sismici o calamitosi, sulla base di criteri da definire sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), individua gli enti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario; definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari; vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento, all'Agenzia delle entrate l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali da essi effettuate.
+                                le erogazioni liberali in denaro a favore dello Stato e dei comuni, per contributi volontari versati in seguito ad eventi sismici o calamitosi che hanno colpito l'ente in favore del quale si effettua il versamento. Il Ministro dell'economia e delle finanze, con proprio decreto, in seguito ad eventi sismici o calamitosi, sulla base di criteri da definire sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), individua gli enti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario; definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari; vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento, all'Agenzia delle entrate l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali da essi effettuate.
                             n)
                                 le erogazioni liberali in denaro a favore di organismi di gestione di parchi e riserve naturali, terrestri e marittimi, statali e regionali, e di ogni altra zona di tutela speciale paesistico-ambientale come individuata dalla vigente disciplina, statale e regionale, nonche' gestita dalle associazioni e fondazioni private indicate nell'articolo 154, comma 4, lettera a), effettuate per sostenere attivita' di conservazione, valorizzazione, studio, ricerca e sviluppo dirette al conseguimento delle finalita' di interesse generale cui corrispondono tali ambiti protetti. Il Ministro dell'ambiente e della tutela del territorio individua con proprio decreto, periodicamente, i soggetti e le categorie di soggetti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario. Nel caso che in un dato anno le somme complessivamente erogate abbiano superato la somma allo scopo indicata o determinata i singoli soggetti beneficiari che abbiano ricevuto somme di importo maggiore della quota assegnata dal Ministero dell'ambiente e della tutela del territorio, versano all'entrata dello Stato un importo pari al 37 per cento della differenza;
                             o)
-                                le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti territoriali, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute, per la realizzazione di programmi di ricerca scientifica nel settore della sanita' autorizzate dal Ministro della salute con apposito decreto che individua annualmente, sulla base di criteri che saranno definiti sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), i soggetti che possono beneficiare delle predette erogazioni liberali. Il predetto decreto determina altresi', fino a concorrenza delle somme allo scopo indicate, l'ammontare delle erogazioni deducibili per ciascun soggetto erogatore, nonche' definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari. Il Ministero della salute vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento, all'Agenzia delle entrate, l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali deducibili da essi effettuate.
+                                le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti territoriali, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute, per la realizzazione di programmi di ricerca scientifica nel settore della sanita' autorizzate dal Ministro della salute con apposito decreto che individua annualmente, sulla base di criteri che saranno definiti sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), i soggetti che possono beneficiare delle predette erogazioni liberali. Il predetto decreto determina altresi', fino a concorrenza delle somme allo scopo indicate, l'ammontare delle erogazioni deducibili per ciascun soggetto erogatore, nonche' definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari. Il Ministero della salute vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento, all'Agenzia delle entrate, l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali deducibili da essi effettuate.
                             o-bis)
-                                le erogazioni liberali a favore degli istituti scolastici di ogni ordine e grado, statali e paritari senza scopo di lucro appartenenti al sistema nazionale di istruzione di cui alla [legge 10 marzo 2000, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-10;62), e successive modificazioni, nonche' a favore degli istituti tecnici superiori di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, finalizzate all'innovazione tecnologica, all'edilizia scolastica e all'ampliamento dell'offerta formativa, nel limite del 2 per cento del reddito d'impresa dichiarato e comunque nella misura massima di 70.000 euro annui; la deduzione spetta a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_23); (129)
+                                le erogazioni liberali a favore degli istituti scolastici di ogni ordine e grado, statali e paritari senza scopo di lucro appartenenti al sistema nazionale di istruzione di cui alla [legge 10 marzo 2000, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-10;62), e successive modificazioni, nonche' a favore degli istituti tecnici superiori di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, finalizzate all'innovazione tecnologica, all'edilizia scolastica e all'ampliamento dell'offerta formativa, nel limite del 2 per cento del reddito d'impresa dichiarato e comunque nella misura massima di 70.000 euro annui; la deduzione spetta a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'[articolo 23 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md); (129)
                             o-ter)
                                 le somme corrisposte, anche su base volontaria al fondo istituito, con mandato senza rappresentanza, presso uno dei consorzi cui le imprese aderiscono in ottemperanza a obblighi di legge, in conformita' alle disposizioni di legge o contrattuali, indipendentemente dal trattamento contabile ad esse applicato, a condizione che siano utilizzate in conformita' agli scopi di tali consorzi. (174)
 
@@ -5359,7 +5359,7 @@ Le erogazioni liberali diverse da quelle considerate nei precedenti commi e nel 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 82.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 82.
 
 ---------------
 
@@ -5371,19 +5371,19 @@ Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (169)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 138) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 138) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
 
 -------------
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 989) che "Le disposizioni di cui ai commi 987 e 988 si applicano a decorrere dall'esercizio in corso al 31 dicembre 2015".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 989) che "Le disposizioni di cui ai commi 987 e 988 si applicano a decorrere dall'esercizio in corso al 31 dicembre 2015".
 
 -------------
 
 AGGIORNAMENTO (186)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) ha disposto (con l'art. 104, comma 1) che "Le disposizioni di cui agli articoli 77, 78, 81, 82, 83 e 84, comma 2, 85 comma 7 e dell'articolo 102, comma 1, lettere e), f) e g) si applicano in via transitoria a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2017 e fino al periodo d'imposta di entrata in vigore delle disposizioni di cui al titolo X secondo quanto indicato al comma 2, alle Organizzazioni non lucrative di utilita' sociale di cui all'[articolo 10, del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460#art_10) iscritte negli appositi registri, alle organizzazioni di volontariato iscritte nei registri di cui alla [legge 11 agosto 1991, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;266), e alle associazioni di promozione sociale iscritte nei registri nazionali, regionali e delle provincie autonome di Trento e Bolzano previsti dall'[articolo 7 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_7)".
+Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) ha disposto (con l'art. 104, comma 1) che "Le disposizioni di cui agli articoli 77, 78, 81, 82, 83 e 84, comma 2, 85 comma 7 e dell'articolo 102, comma 1, lettere e), f) e g) si applicano in via transitoria a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2017 e fino al periodo d'imposta di entrata in vigore delle disposizioni di cui al titolo X secondo quanto indicato al comma 2, alle Organizzazioni non lucrative di utilita' sociale di cui all'[articolo 10, del decreto legislativo 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) iscritte negli appositi registri, alle organizzazioni di volontariato iscritte nei registri di cui alla [legge 11 agosto 1991, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;266), e alle associazioni di promozione sociale iscritte nei registri nazionali, regionali e delle provincie autonome di Trento e Bolzano previsti dall'[articolo 7 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_7)".
 
 -------------
 
@@ -5400,7 +5400,7 @@ Le minusvalenze dei beni relativi all'impresa, diversi da quelli indicati negli 
 
 1-bis.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244).
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md).
 
 2.
 
@@ -5438,7 +5438,7 @@ I versamenti in denaro o in natura fatti a fondo perduto o in conto capitale all
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
@@ -5450,28 +5450,28 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ---------------
 
 AGGIORNAMENTO (161)
 
-La [L.	27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 161) che "Le disposizioni di cui al comma 160 si applicano dal periodo di imposta in corso al 31 dicembre 2013. Resta ferma l'applicazione delle previgenti disposizioni fiscali alle rettifiche di valore e alle variazioni della riserva sinistri relativa ai contratti di assicurazione dei rami danni iscritte in bilancio nei periodi di imposta precedenti".
+La [L.	27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 161) che "Le disposizioni di cui al comma 160 si applicano dal periodo di imposta in corso al 31 dicembre 2013. Resta ferma l'applicazione delle previgenti disposizioni fiscali alle rettifiche di valore e alle variazioni della riserva sinistri relativa ai contratti di assicurazione dei rami danni iscritte in bilancio nei periodi di imposta precedenti".
 
 ---------------
 
 AGGIORNAMENTO (162)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto: 
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto: 
  - (con l'art. 13, comma 2) che la modifica del comma 7 del presente articolo si applica a decorrere dal periodo di imposta successivo a quello di entrata in vigore del D.Lgs. medesimo; 
  - (con l'art. 13, comma 2) che le modifiche di cui ai commi 5 e 5-bis del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs medesimo; 
- - (con l'art. 13, comma 3) che "L'articolo 101, comma 5, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917) si interpreta nel senso che le svalutazioni contabili dei crediti di modesta entita' e di quelli vantati nei confronti di debitori che siano assoggettati a procedure concorsuali o a procedure estere equivalenti ovvero abbiano concluso un accordo di ristrutturazione dei debiti o un piano attestato di risanamento, deducibili a decorrere dai periodi di imposta in cui sussistono elementi certi e precisi ovvero il debitore si considera assoggettato a procedura concorsuale ed eventualmente non dedotte in tali periodi, sono deducibili nell'esercizio in cui si provvede alla cancellazione del credito dal bilancio in applicazione dei principi contabili".
+ - (con l'art. 13, comma 3) che "L'articolo 101, comma 5, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) si interpreta nel senso che le svalutazioni contabili dei crediti di modesta entita' e di quelli vantati nei confronti di debitori che siano assoggettati a procedure concorsuali o a procedure estere equivalenti ovvero abbiano concluso un accordo di ristrutturazione dei debiti o un piano attestato di risanamento, deducibili a decorrere dai periodi di imposta in cui sussistono elementi certi e precisi ovvero il debitore si considera assoggettato a procedura concorsuale ed eventualmente non dedotte in tali periodi, sono deducibili nell'esercizio in cui si provvede alla cancellazione del credito dal bilancio in applicazione dei principi contabili".
 
 ---------------
 
 AGGIORNAMENTO (193)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 24) che, in deroga all'[articolo 3, comma 1, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3-com1), la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 24) che, in deroga all'[articolo 3, comma 1, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3-com1), la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
 
 ### Art. 102. — Ammortamento dei beni materiali
 
@@ -5485,7 +5485,7 @@ La deduzione e' ammessa in misura non superiore a quella risultante dall'applica
 
 3.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (133)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (133)
 
 4.
 
@@ -5496,7 +5496,7 @@ In caso di eliminazione di beni non ancora completamente ammortizzati dal comple
 Per i beni il cui costo unitario non e' superiore a 516,46 euro e' consentita la deduzione integrale delle spese di acquisizione nell'esercizio in cui sono state sostenute. (128) (133) 
  6 Le spese di manutenzione, riparazione, ammodernamento e trasformazione, che dal bilancio non risultino imputate ad incremento del costo dei beni ai quali si riferiscono, sono deducibili nel limite del 5 per cento del costo complessivo di tutti i beni materiali ammortizzabili quale risulta all'inizio dell'esercizio dal registro dei beni ammortizzabili; per le imprese di nuova costituzione il limite percentuale si calcola, per il primo esercizio, sul costo complessivo quale risulta alla fine dell'esercizio. L'eccedenza e' deducibile per quote costanti nei cinque esercizi successivi. Per specifici settori produttivi possono essere stabiliti, con decreto del Ministro dell'economia e delle finanze, diversi criteri e modalita' di deduzione. Resta ferma la deducibilita' nell'esercizio di competenza dei compensi periodici dovuti contrattualmente a terzi per la manutenzione di determinati beni, del cui costo non si tiene conto nella determinazione del limite percentuale sopra indicato. (123) (150) 
  7. Per i beni concessi in locazione finanziaria l'impresa concedente che imputa a conto economico i relativi canoni deduce quote di ammortamento determinate in ciascun esercizio nella misura risultante dal relativo piano di ammortamento finanziario. Per l'impresa utilizzatrice che imputa a conto economico i canoni di locazione finanziaria, a prescindere dalla durata contrattuale prevista, la deduzione e' ammessa per un periodo non inferiore ((alla meta')) del periodo di ammortamento corrispondente al coefficiente stabilito a norma del comma 2, in relazione all'attivita' esercitata dall'impresa stessa; ((in caso di beni immobili, la deduzione e' ammessa per un periodo non inferiore a dodici anni)). Per i beni di cui all'articolo 164, comma 1, lettera b), la deducibilita' dei canoni di locazione finanziaria e' ammessa per un periodo non inferiore al periodo di ammortamento corrispondente al coefficiente stabilito a norma del comma 2. La quota di interessi impliciti desunta dal contratto e' soggetta alle regole dell'articolo 96. (150) ((161)) 
- 8. Per le aziende date in affitto o in usufrutto le quote di ammortamento sono deducibili nella determinazione del reddito dell'affittuario o dell'usufruttuario. Le quote di ammortamento sono commisurate al costo originario dei beni quale risulta dalla contabilita' del concedente e sono deducibili fino a concorrenza del costo non ancora ammortizzato ovvero, se il concedente non ha tenuto regolarmente il registro dei beni ammortizzabili o altro libro o registro secondo le modalita' di cui all'[articolo 13 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435#art_13), e dell'[articolo 2, comma 1, del decreto del Presidente della Repubblica 21 dicembre 1996, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;695#art_2-com1), considerando gia' dedotte, per il 50 per cento del loro ammontare, le quote relative al periodo di ammortamento gia' decorso.
+ 8. Per le aziende date in affitto o in usufrutto le quote di ammortamento sono deducibili nella determinazione del reddito dell'affittuario o dell'usufruttuario. Le quote di ammortamento sono commisurate al costo originario dei beni quale risulta dalla contabilita' del concedente e sono deducibili fino a concorrenza del costo non ancora ammortizzato ovvero, se il concedente non ha tenuto regolarmente il registro dei beni ammortizzabili o altro libro o registro secondo le modalita' di cui all'[articolo 13 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), e dell'[articolo 2, comma 1, del decreto del Presidente della Repubblica 21 dicembre 1996, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;695#art_2-com1), considerando gia' dedotte, per il 50 per cento del loro ammontare, le quote relative al periodo di ammortamento gia' decorso.
 Le disposizioni di cui al presente comma non si applicano nei casi di deroga convenzionale alle norme dell'[articolo 2561 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2561), concernenti l'obbligo di conservazione dell'efficienza dei beni ammortizzabili. 
  9. Le quote d'ammortamento, i canoni di locazione anche finanziaria o di noleggio e le spese di impiego e manutenzione relativi ad apparecchiature terminali per servizi di comunicazione elettronica ad uso pubblico di cui alla lettera gg) del [comma 1 dell'articolo 1 del codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), di cui al [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), sono deducibili nella misura dell' 80 per cento. La percentuale di cui al precedente periodo e' elevata al 100 per cento per gli oneri relativi ad impianti di telefonia dei veicoli utilizzati per il trasporto di merci da parte di imprese di autotrasporto limitatamente ad un solo impianto per ciascun veicolo. (128) 
  (115)
@@ -5505,7 +5505,7 @@ Le disposizioni di cui al presente comma non si applicano nei casi di deroga con
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 84.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 84.
 
 ---------------
 
@@ -5524,17 +5524,17 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (128)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 403) che "Le disposizioni introdotte dai commi 401 e 402 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2006; per il medesimo periodo d'imposta, nella determinazione dell'acconto dovuto ai fini delle imposte sul reddito e dell'imposta regionale sulle attivita' produttive, si assume quale imposta del periodo precedente quella che si sarebbe determinata tenendo conto delle disposizioni dei predetti commi 401 e 402". 
- Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) come modificato dalla [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 37, comma 37-bis) che "Gli apparecchi misuratori di cui all'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), immessi sul mercato a decorrere dal 1° gennaio 2008 devono essere idonei alla trasmissione telematica prevista dai commi 33 e seguenti.
-Per detti apparecchi e' consentita la deduzione integrale delle spese di acquisizione nell'esercizio in cui sono state sostenute, anche in deroga a quanto stabilito dall'articolo 102, comma 5, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 403) che "Le disposizioni introdotte dai commi 401 e 402 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2006; per il medesimo periodo d'imposta, nella determinazione dell'acconto dovuto ai fini delle imposte sul reddito e dell'imposta regionale sulle attivita' produttive, si assume quale imposta del periodo precedente quella che si sarebbe determinata tenendo conto delle disposizioni dei predetti commi 401 e 402". 
+ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) come modificato dalla [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 37, comma 37-bis) che "Gli apparecchi misuratori di cui all'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), immessi sul mercato a decorrere dal 1° gennaio 2008 devono essere idonei alla trasmissione telematica prevista dai commi 33 e seguenti.
+Per detti apparecchi e' consentita la deduzione integrale delle spese di acquisizione nell'esercizio in cui sono state sostenute, anche in deroga a quanto stabilito dall'articolo 102, comma 5, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni".
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1 comma 34) che "La disposizione di cui al comma 33, lettera n), numero 1), si applica a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2007 e la disposizione di cui al numero 2) della stessa lettera n), concernente la durata minima dei contratti di locazione finanziaria, si applica a decorrere dai contratti stipulati a partire dal 1° gennaio 2008". 
- Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) come modificato dalla [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 37, comma 37-bis) che "Gli apparecchi misuratori di cui all'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), immessi sul mercato a decorrere dal 1° gennaio 2009 devono essere idonei alla trasmissione telematica prevista dai commi 33 e seguenti.
-Per detti apparecchi e' consentita la deduzione integrale delle spese di acquisizione nell'esercizio in cui sono state sostenute, anche in deroga a quanto stabilito dall'articolo 102, comma 5, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1 comma 34) che "La disposizione di cui al comma 33, lettera n), numero 1), si applica a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2007 e la disposizione di cui al numero 2) della stessa lettera n), concernente la durata minima dei contratti di locazione finanziaria, si applica a decorrere dai contratti stipulati a partire dal 1° gennaio 2008". 
+ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) come modificato dalla [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 37, comma 37-bis) che "Gli apparecchi misuratori di cui all'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), immessi sul mercato a decorrere dal 1° gennaio 2009 devono essere idonei alla trasmissione telematica prevista dai commi 33 e seguenti.
+Per detti apparecchi e' consentita la deduzione integrale delle spese di acquisizione nell'esercizio in cui sono state sostenute, anche in deroga a quanto stabilito dall'articolo 102, comma 5, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni".
 
 -------------
 
@@ -5547,7 +5547,7 @@ Il D.L. 2 marzo 2102, n. 16, convertito con modificazioni dalla [L. 26 aprile 20
 
 AGGIORNAMENTO (161)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 163) che "Le disposizioni di cui al comma 162 si applicano ai contratti di locazione finanziaria stipulati a decorrere dalla data di entrata in vigore della presente legge".
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 163) che "Le disposizioni di cui al comma 162 si applicano ai contratti di locazione finanziaria stipulati a decorrere dalla data di entrata in vigore della presente legge".
 
 ### Art. 102-bis. — (Ammortamento dei beni materiali strumentali per l'esercizio di alcune attivita' regolate)
 
@@ -5596,13 +5596,13 @@ Per i costi incrementativi capitalizzati successivamente all'entrata in funzione
 
 AGGIORNAMENTO (100)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 327) che "Le disposizioni dell'articolo 102-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dal comma 325, si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2005, ad eccezione di quelle del comma 6 dello stesso articolo 102-bis che si applicano ai contratti di locazione finanziaria la cui esecuzione inizia successivamente alla data di entrata in vigore della presente legge."
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 327) che "Le disposizioni dell'articolo 102-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dal comma 325, si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2005, ad eccezione di quelle del comma 6 dello stesso articolo 102-bis che si applicano ai contratti di locazione finanziaria la cui esecuzione inizia successivamente alla data di entrata in vigore della presente legge."
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 103. — Ammortamento dei beni immateriali
 
@@ -5631,7 +5631,7 @@ Si applica la disposizione del comma 8 dell'articolo 102.
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 111.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 111.
 
 ---------------
 
@@ -5649,7 +5649,7 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ### Art. 103-bis.
 
@@ -5660,7 +5660,7 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 112.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 112.
 
 ### Art. 104. — Ammortamento finanziario dei beni gratuitamente devolvibili
 
@@ -5685,7 +5685,7 @@ Per le concessioni relative alla costruzione e all'esercizio di opere pubbliche 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 114.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 114.
 
 ### Art. 105. — Accantonamenti di quiescenza e previdenza
 
@@ -5697,7 +5697,7 @@ Gli accantonamenti ai fondi per le indennita' di fine rapporto e ai fondi di pre
 
 I maggiori accantonamenti necessari per adeguare i fondi a sopravvenute modificazioni normative e retributive sono deducibili nell'esercizio dal quale hanno effetto le modificazioni o per quote costanti nell'esercizio stesso e nei due successivi.
 
-((3. L'ammontare del TFR annualmente destinato a forme pensionistiche complementari e' deducibile nella misura prevista dall'[articolo 10, comma 1, del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_10-com1)))
+((3. L'ammontare del TFR annualmente destinato a forme pensionistiche complementari e' deducibile nella misura prevista dall'[articolo 10, comma 1, del decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md)))
 
 4.
 
@@ -5707,9 +5707,9 @@ Le disposizioni dei commi 1 e 2 valgono anche per gli accantonamenti relativi al
 
 AGGIORNAMENTO (80)
 
-Il [D.Lgs. 18 dicembre 1997, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;467) ha disposto: 
- - (con l'art. 1, commi 1, 2 e 6) che "1. Le riserve e gli altri fondi di cui ai commi 2 e 4 dell'articolo 105 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente anteriormente alla modifica di cui al successivo articolo 2, comma 1, numero 10), esistenti nel bilancio o rendiconto dell'esercizio successivo a quello in corso alla data del 31 dicembre 1996 sono soggetti, anche se imputati al capitale sociale o al fondo di dotazione, ad imposta sostitutiva della maggiorazione di conguaglio, pari al 5,6 per cento per quelli di cui al comma 2 e pari al 2,2 per cento per quelli di cui al comma 4. 
- 2. L'eccedenza di cui al comma 3, secondo periodo, dell'articolo 105 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente anteriormente alla modifica di cui al successivo articolo 2, comma 1, numero 10), che risulta esposta nella dichiarazione dei redditi relativa all'esercizio successivo a quello in corso alla data del 31 dicembre 1996, si computa in diminuzione delle riserve e degli altri fondi di cui al comma 4 del medesimo articolo 105, che si considerano assoggettati all'imposta sul reddito delle persone giuridiche fino a concorrenza del suo ammontare. [...] 
+Il [D.Lgs. 18 dicembre 1997, n. 467](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20imposta%20sostitutiva%20della%20maggiorazione%20di%20conguaglio%20e%20di%20credito%20di%20imposta%20sugli%20utili%20societari%20a%20norma%20dellarticolo%203%20comma%20162%20lettere%20e%20ed%20i%20della%20legge%20_37fdc999eefe.md) ha disposto: 
+ - (con l'art. 1, commi 1, 2 e 6) che "1. Le riserve e gli altri fondi di cui ai commi 2 e 4 dell'articolo 105 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente anteriormente alla modifica di cui al successivo articolo 2, comma 1, numero 10), esistenti nel bilancio o rendiconto dell'esercizio successivo a quello in corso alla data del 31 dicembre 1996 sono soggetti, anche se imputati al capitale sociale o al fondo di dotazione, ad imposta sostitutiva della maggiorazione di conguaglio, pari al 5,6 per cento per quelli di cui al comma 2 e pari al 2,2 per cento per quelli di cui al comma 4. 
+ 2. L'eccedenza di cui al comma 3, secondo periodo, dell'articolo 105 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente anteriormente alla modifica di cui al successivo articolo 2, comma 1, numero 10), che risulta esposta nella dichiarazione dei redditi relativa all'esercizio successivo a quello in corso alla data del 31 dicembre 1996, si computa in diminuzione delle riserve e degli altri fondi di cui al comma 4 del medesimo articolo 105, che si considerano assoggettati all'imposta sul reddito delle persone giuridiche fino a concorrenza del suo ammontare. [...] 
  6. Le disposizioni dei commi precedenti non si applicano nei confronti delle societa' e degli enti totalmente partecipati dallo Stato"; 
  - (con l'art. 3, commi 3, 4 e 5) che "3. Le modificazioni introdotte dall'articolo 2, comma 1, numeri 7), 8), 9), 10), 11), 12) e 13), decorrono dal secondo esercizio successivo a quello in corso al 31 dicembre 1996. Nella dichiarazione dei redditi presentata per l'esercizio successivo a quello in corso al 31 dicembre 1996 devono essere distintamente indicati gli importi di cui ai commi 1 e 2 dell'articolo 1 del presente decreto e l'ammontare delle imposte di cui alle lettere a) e b) del comma 1 dell'articolo 105, del testo unico delle imposte sui redditi, come sostituito dall'articolo 2, comma 1, numero 10), del presente decreto. 
  4. Ai fini dell'applicazione delle disposizioni del comma 3, nell'ammontare delle imposte di cui al comma 2 dell'articolo 105 del testo unico delle imposte sui redditi, sono compresi, inizialmente, i seguenti importi: 
@@ -5744,7 +5744,7 @@ Per gli ((intermediari finanziari)), le svalutazioni e le perdite su crediti ver
 
 3-bis.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147). (161)
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md). (161)
 
 4.
 
@@ -5752,7 +5752,7 @@ Per gli ((intermediari finanziari)) nell'ammontare dei crediti rilevanti ai fini
 
 5.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147). (161)
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md). (161)
 
 ---------------
 
@@ -5770,7 +5770,7 @@ Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (161)
 
-La [L.	27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 161) che "Le disposizioni di cui al comma 160 si applicano dal periodo di imposta in corso al 31 dicembre 2013. Resta ferma l'applicazione delle previgenti disposizioni fiscali alle rettifiche di valore e alle variazioni della riserva sinistri relativa ai contratti di assicurazione dei rami danni iscritte in bilancio nei periodi di imposta precedenti".
+La [L.	27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 161) che "Le disposizioni di cui al comma 160 si applicano dal periodo di imposta in corso al 31 dicembre 2013. Resta ferma l'applicazione delle previgenti disposizioni fiscali alle rettifiche di valore e alle variazioni della riserva sinistri relativa ai contratti di assicurazione dei rami danni iscritte in bilancio nei periodi di imposta precedenti".
 
 ---------------
 
@@ -5785,13 +5785,13 @@ Il [D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), nel modificare l'[art. 16, comma 2 del D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-27;83#art_16-com2), convertito con modificazioni dalla [L. 6 agosto 2015, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202015%20n.%2083%20recante%20misure%20urgenti%20in%20materia%20fallimentare%20civile%20e%20processuale%20civile%20e%20di%20organizzazione%20e%20funzionament_f6cc9b6d644d.md), ha conseguentemente disposto (con l'art. 1, comma 852) che la modifica di cui al comma 3 del presente articolo si applica dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), nel modificare l'[art. 16, comma 2 del D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-27;83#art_16-com2), convertito con modificazioni dalla [L. 6 agosto 2015, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202015%20n.%2083%20recante%20misure%20urgenti%20in%20materia%20fallimentare%20civile%20e%20processuale%20civile%20e%20di%20organizzazione%20e%20funzionament_f6cc9b6d644d.md), ha conseguentemente disposto (con l'art. 1, comma 852) che la modifica di cui al comma 3 del presente articolo si applica dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
 
 -----------
 
 AGGIORNAMENTO (192)
 
-Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018.
+Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018.
 
 ### Art. 106-bis.
 
@@ -5851,25 +5851,25 @@ Ai fini dell'applicazione delle disposizioni di cui al comma 2, il contribuente 
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 143.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 143.
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 --------------
 
 AGGIORNAMENTO (146)
 
-Il [D.Lgs. 1 aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) come modificato dal [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all' articolo 2, commi 1 e 1-bis conseguiti, anche dai soggetti di cui all' articolo 2, commi 1 e 1-bis, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
+Il [D.Lgs. 1 aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) come modificato dal [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md) ha disposto (con l'art. 5, comma 1) che "Gli interessi, premi ed altri frutti dei titoli di cui all' articolo 2, commi 1 e 1-bis conseguiti, anche dai soggetti di cui all' articolo 2, commi 1 e 1-bis, nell'esercizio di attivita' commerciali, assoggettati ad imposta sostitutiva di cui all'art. 2 concorrono, in deroga alle disposizioni di cui agli articoli 3, comma 3, 58, comma 1, lettera b), e 108, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a formare il reddito d'impresa e l'imposta sostitutiva assolta si scomputa ai sensi degli articoli 19 e 93 del predetto testo unico".
 
 --------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 9, comma 3) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 9, comma 3) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 -------------
 
@@ -5877,14 +5877,14 @@ AGGIORNAMENTO (182)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto: 
  - (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015"; 
- - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa"; 
- - (con l'art. 13-bis, comma 9) che "Per i soggetti che redigono il bilancio in base ai principi contabili internazionali, le disposizioni contenute nell'articolo 108, comma 3, ultimo periodo, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto, continuano ad applicarsi in relazione alle spese sostenute fino all'esercizio in corso al 31 dicembre 2015".
+ - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa"; 
+ - (con l'art. 13-bis, comma 9) che "Per i soggetti che redigono il bilancio in base ai principi contabili internazionali, le disposizioni contenute nell'articolo 108, comma 3, ultimo periodo, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto, continuano ad applicarsi in relazione alle spese sostenute fino all'esercizio in corso al 31 dicembre 2015".
 
 ---------------
 
 AGGIORNAMENTO (236)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 83) che "Le disposizioni di cui ai commi 81 e 82 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
 
 ### Art. 109. — Norme generali sui componenti del reddito d'impresa
 
@@ -5934,7 +5934,7 @@ Sono tuttavia deducibili: (182)
                             a)
                                 quelli imputati al conto economico di un esercizio precedente, se la deduzione e' stata rinviata in conformita' alle precedenti norme della presente sezione che dispongono o consentono il rinvio;
                             b)
-                                quelli che pur non essendo imputabili al conto economico, sono deducibili per disposizione di legge. PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244).PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). Le spese e gli oneri specificamente afferenti i ricavi e gli altri proventi, che pur non risultando imputati al conto economico concorrono a formare il reddito, sono ammessi in deduzione se e nella misura in cui risultano da elementi certi e precisi. (121) (123) (126) (133)
+                                quelli che pur non essendo imputabili al conto economico, sono deducibili per disposizione di legge. PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md).PERIODO SOPPRESSO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). Le spese e gli oneri specificamente afferenti i ricavi e gli altri proventi, che pur non risultando imputati al conto economico concorrono a formare il reddito, sono ammessi in deduzione se e nella misura in cui risultano da elementi certi e precisi. (121) (123) (126) (133)
 
 5.
 
@@ -5952,7 +5952,7 @@ Le spese e gli altri componenti negativi diversi dagli interessi passivi, tranne
 
 6.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (133)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (133)
 
 7.
 
@@ -5975,19 +5975,19 @@ Non e' deducibile ogni tipo di remunerazione dovuta:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 144.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 144.
 
 --------------
 
 AGGIORNAMENTO (121)
 
-Il [D.Lgs. 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38) ha disposto (con l'art. 13, comma 1) che "Le disposizioni degli articoli 83 e 109, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come modificati dall'articolo 11 del presente decreto, si applicano anche ai componenti imputati direttamente a patrimonio nel primo esercizio di applicazione dei principi contabili internazionali".
+Il [D.Lgs. 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38) ha disposto (con l'art. 13, comma 1) che "Le disposizioni degli articoli 83 e 109, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come modificati dall'articolo 11 del presente decreto, si applicano anche ai componenti imputati direttamente a patrimonio nel primo esercizio di applicazione dei principi contabili internazionali".
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006".
 
 ---------------
 
@@ -6005,7 +6005,7 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che "Le disposizioni di cui al comma 33, lettere a), b), c), d), e), g), numero 2), l), m), o), p), q), numeri 2) e 3), u) e aa), si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. [...] La disposizione di cui al comma 33, lettera q), numero 1), ha effetto dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007, ferma restando l'applicazione in via transitoria delle disposizioni dell'articolo 109, comma 4, lettera b), terzo, quarto e quinto periodo, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), nel testo previgente alle modifiche apportate dalla presente legge, per il recupero delle eccedenze risultanti alla fine del periodo d'imposta in corso al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che "Le disposizioni di cui al comma 33, lettere a), b), c), d), e), g), numero 2), l), m), o), p), q), numeri 2) e 3), u) e aa), si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. [...] La disposizione di cui al comma 33, lettera q), numero 1), ha effetto dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007, ferma restando l'applicazione in via transitoria delle disposizioni dell'articolo 109, comma 4, lettera b), terzo, quarto e quinto periodo, del citato testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), nel testo previgente alle modifiche apportate dalla presente legge, per il recupero delle eccedenze risultanti alla fine del periodo d'imposta in corso al 31 dicembre 2007".
 
 ---------------
 
@@ -6019,9 +6019,9 @@ AGGIORNAMENTO (182)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto: 
  - (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015"; 
- - (con l'art. 13-bis, comma 7, lettera a)) che "Nel primo esercizio di applicazione dei principi contabili di cui all'[articolo 9-bis, comma 1, lettera a), del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_9bis-com1-leta), aggiornati ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3): 
- a) le disposizioni di cui all'articolo 109, comma 4, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si applicano anche ai componenti imputati direttamente a patrimonio"; 
- - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ - (con l'art. 13-bis, comma 7, lettera a)) che "Nel primo esercizio di applicazione dei principi contabili di cui all'[articolo 9-bis, comma 1, lettera a), del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_9bis-com1-leta), aggiornati ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md): 
+ a) le disposizioni di cui all'articolo 109, comma 4, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si applicano anche ai componenti imputati direttamente a patrimonio"; 
+ - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
 
 ---------------
 
@@ -6038,7 +6038,7 @@ Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 145.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 145.
 
 ### Art. 110. — Norme generali sulle valutazioni
 
@@ -6077,7 +6077,7 @@ Per la determinazione del valore normale dei beni e dei servizi e, con riferimen
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2024, N. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192). (235)
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2024, N. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md). (235)
 
 3-bis.
 
@@ -6125,45 +6125,45 @@ Le disposizioni dei commi 9-bis e 9-ter si applicano anche alle prestazioni di s
 
 10.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208).(174)
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).(174)
 
 11.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208). (173) (174)
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md). (173) (174)
 
 12.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208).(174)
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).(174)
 
 12-bis.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208). (174) 
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md). (174) 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 146.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 146.
 
 ------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 61) che "Le disposizioni recate dai commi 58 e 59 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007". 
- Ha inoltre disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 61) che "Le disposizioni recate dai commi 58 e 59 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007". 
+ Ha inoltre disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 -------------
 
 AGGIORNAMENTO (161)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 281) che "La disciplina prevista in materia di prezzi di trasferimento praticati nell'ambito delle operazioni di cui all'articolo 110, comma 7, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, deve intendersi applicabile alla determinazione del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive anche per i periodi d'imposta successivi a quello in corso alla data del 31 dicembre 2007".
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 281) che "La disciplina prevista in materia di prezzi di trasferimento praticati nell'ambito delle operazioni di cui all'articolo 110, comma 7, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, deve intendersi applicabile alla determinazione del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive anche per i periodi d'imposta successivi a quello in corso alla data del 31 dicembre 2007".
 
 -------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto: 
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto: 
  - (con l'art. 5, comma 2) che la disposizione di cui al comma 7 del presente articolo si interpreta nel senso che la disciplina ivi prevista non si applica per le operazioni tra imprese residenti o localizzate nel territorio dello Stato; 
  - (con l'art. 5, comma 4) che le modifiche di cui ai commi 10, 11 e 12-bis del presente articolo si si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del citato decreto; 
  - (con l'art. 8, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto. Relativamente alle disposizioni di cui al comma 3, per gli utili distribuiti dal soggetto non residente a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni dell'[articolo 3, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2006-08-07;268#art_3-com3) e [4, del decreto del Ministro dell'economia e delle finanze 7 agosto 2006, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2006-08-07;268#art_3-com4). Ai soli fini del precedente periodo, gli utili distribuiti dal soggetto non residente si presumono prioritariamente formati con quelli assoggettati a tassazione separata".
@@ -6172,13 +6172,13 @@ Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (173)
 
-Il [D.Lgs. 24 settembre 2015, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;156), ha disposto (con l'art. 7, comma 5) che "All'[articolo 110, comma 11, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_110-com11), e' aggiunto, in fine, il seguente periodo: «A tal fine il contribuente puo' interpellare l'amministrazione ai sensi dell'[articolo 11, comma 1, lettera b), della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_11-com1-letb), recante lo Statuto dei diritti del contribuente.»".
+Il [D.Lgs. 24 settembre 2015, n. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20per%20la%20revisione%20della%20disciplina%20degli%20interpelli%20e%20del%20contenzioso%20tributario%20in%20attuazione%20degli%20articoli%206%20comma%206%20e%2010%20comma%201%20lettere%20a%20e%20b%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00167.md), ha disposto (con l'art. 7, comma 5) che "All'[articolo 110, comma 11, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' aggiunto, in fine, il seguente periodo: «A tal fine il contribuente puo' interpellare l'amministrazione ai sensi dell'[articolo 11, comma 1, lettera b), della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_11-com1-letb), recante lo Statuto dei diritti del contribuente.»".
 
 -------------
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 144) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015.
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 144) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015.
 
 -------------
 
@@ -6192,13 +6192,13 @@ Sono fatti salvi i comportamenti pregressi posti in essere in conformita' alle d
 AGGIORNAMENTO (182)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015". 
- Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
 
 -------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 110-bis.
 
@@ -6209,7 +6209,7 @@ Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 147.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 147.
 
 ### Art. 111. — Imprese di assicurazioni
 
@@ -6243,7 +6243,7 @@ Le provvigioni stesse, se iscritte tra gli elementi dell'attivo a copertura dell
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 148.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 148.
 
 ---------------
 
@@ -6255,7 +6255,7 @@ Il [D.L. 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 -------------
 
@@ -6267,13 +6267,13 @@ Il [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (141)
 
-Il [D.L. 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78) convertito con modificazioni dalla [L. 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md) ha disposto (con l'art. 38, comma 13-ter) che "Le disposizioni contenute nel comma 1-bis dell'articolo 111 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dal comma 13-bis del presente articolo, hanno effetto, nella misura ridotta del 50 per cento, anche sul versamento del secondo acconto dell'imposta sul reddito delle societa' dovuto per il periodo di imposta in corso alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78) convertito con modificazioni dalla [L. 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md) ha disposto (con l'art. 38, comma 13-ter) che "Le disposizioni contenute nel comma 1-bis dell'articolo 111 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dal comma 13-bis del presente articolo, hanno effetto, nella misura ridotta del 50 per cento, anche sul versamento del secondo acconto dell'imposta sul reddito delle societa' dovuto per il periodo di imposta in corso alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
 AGGIORNAMENTO (161)
 
-La [L.	27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 161) che "Le disposizioni di cui al comma 160 si applicano dal periodo di imposta in corso al 31 dicembre 2013. Resta ferma l'applicazione delle previgenti disposizioni fiscali alle rettifiche di valore e alle variazioni della riserva sinistri relativa ai contratti di assicurazione dei rami danni iscritte in bilancio nei periodi di imposta precedenti".
+La [L.	27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 161) che "Le disposizioni di cui al comma 160 si applicano dal periodo di imposta in corso al 31 dicembre 2013. Resta ferma l'applicazione delle previgenti disposizioni fiscali alle rettifiche di valore e alle variazioni della riserva sinistri relativa ai contratti di assicurazione dei rami danni iscritte in bilancio nei periodi di imposta precedenti".
 
 ### Art. 111-bis.
 
@@ -6284,7 +6284,7 @@ La [L.	27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 149.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 149.
 
 ### Art. 111-ter.
 
@@ -6295,7 +6295,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 150.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 150.
 
 ### Art. 112. — ((Strumenti finanziari derivati))
 
@@ -6341,13 +6341,13 @@ Se ((gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilanc
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 153.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 153.
 
 ------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 -------------
 
@@ -6355,9 +6355,9 @@ AGGIORNAMENTO (182)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015.
 In deroga al periodo precedente: 
- a) la valutazione degli strumenti finanziari derivati differenti da quelli iscritti in bilancio con finalita' di copertura di cui al comma 6 dell'articolo 112 del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), in essere nell'esercizio in corso al 31 dicembre 2015, ma non iscritti nel relativo bilancio, assume rilievo ai fini della determinazione del reddito al momento del realizzo; 
- b) alla valutazione degli strumenti finanziari derivati differenti da quelli iscritti in bilancio con finalita' di copertura di cui al comma 6 dell'articolo 112 del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), gia' iscritti in bilancio nell'esercizio in corso al 31 dicembre 2015, si applica l'articolo 112 del predetto testo unico, nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto". 
- Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ a) la valutazione degli strumenti finanziari derivati differenti da quelli iscritti in bilancio con finalita' di copertura di cui al comma 6 dell'articolo 112 del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), in essere nell'esercizio in corso al 31 dicembre 2015, ma non iscritti nel relativo bilancio, assume rilievo ai fini della determinazione del reddito al momento del realizzo; 
+ b) alla valutazione degli strumenti finanziari derivati differenti da quelli iscritti in bilancio con finalita' di copertura di cui al comma 6 dell'articolo 112 del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), gia' iscritti in bilancio nell'esercizio in corso al 31 dicembre 2015, si applica l'articolo 112 del predetto testo unico, nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto". 
+ Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
 
 ### Art. 113. — (Partecipazioni acquisite per il recupero di crediti bancari)
 
@@ -6394,13 +6394,13 @@ L'intermediario finanziario che non intende applicare il regime di cui all'artic
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 152.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 152.
 
 -----------
 
 AGGIORNAMENTO (192)
 
-Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018.
+Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018.
 
 ### Art. 114. — (( (Banca d'Italia e Ufficio italiano dei cambi) ))
 
@@ -6418,13 +6418,13 @@ Nella determinazione del reddito della Banca d'Italia e dell'Ufficio italiano de
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 154.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 154.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ### Art. 115. — Opzione per la trasparenza fiscale
 
@@ -6484,7 +6484,7 @@ Per le partecipazioni in societa' indicate nel comma 1 il relativo costo e' aume
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 7, comma 2) che "Le disposizioni dell'articolo 115 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 7, comma 2) che "Le disposizioni dell'articolo 115 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005".
 
 ---------------
 
@@ -6502,7 +6502,7 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (168)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
 
 ---------------
 
@@ -6542,13 +6542,13 @@ Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), nel modificare l'[art. 1, comma 547, della L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232#art_1-com547), ha conseguentemente disposto (con l'art. 1, comma 1063) che le disposizioni della rubrica e del comma 2-bis del presente articolo, si applicano a decorrere dal 1º gennaio 2018.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), nel modificare l'[art. 1, comma 547, della L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), ha conseguentemente disposto (con l'art. 1, comma 1063) che le disposizioni della rubrica e del comma 2-bis del presente articolo, si applicano a decorrere dal 1º gennaio 2018.
 
 ---------------
 
 AGGIORNAMENTO (193)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto: 
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto: 
  - (con l'art. 1, comma 23, lettera d)) che al presente articolo, comma 2-bis sono aggiunti, in fine, i seguenti periodi: « Si applicano le disposizioni dell'articolo 84, comma 3. Per i soggetti che fruiscono di un regime di esenzione dell'utile, la perdita e' riportabile nei limiti di cui all'articolo 84, comma 1, secondo periodo». 
  - (con l'art. 1, commi 24 e 1055, comma 1, alinea) che, in deroga all'[articolo 3, comma 1, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3-com1), la presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
 
@@ -6596,15 +6596,15 @@ Permanendo il requisito del controllo di cui al comma 1, l'opzione ha durata per
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 6, comma 3) che le presenti modifiche si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 6, comma 3) che le presenti modifiche si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo. 
- Ha inoltre disposto (con l'art. 6, comma 4) che "Con provvedimento del Direttore dell'Agenzia delle entrate, da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto, sono stabiliti i contenuti e le modalita' per la designazione della controllata di cui al comma 2-bis dell'articolo 117 del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917). Il medesimo provvedimento disciplina l'applicazione della disposizione di cui al presente articolo alle opzioni per la tassazione di gruppo gia' in corso alla data di entrata in vigore delle stesse, attenendosi al criterio di consentire, sussistendone i presupposti di legge, l'eventuale inclusione nel regime di tassazione di gruppo delle stabili organizzazioni o delle controllate di soggetti esteri senza interruzione dei consolidati esistenti".
+ Ha inoltre disposto (con l'art. 6, comma 4) che "Con provvedimento del Direttore dell'Agenzia delle entrate, da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto, sono stabiliti i contenuti e le modalita' per la designazione della controllata di cui al comma 2-bis dell'articolo 117 del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Il medesimo provvedimento disciplina l'applicazione della disposizione di cui al presente articolo alle opzioni per la tassazione di gruppo gia' in corso alla data di entrata in vigore delle stesse, attenendosi al criterio di consentire, sussistendone i presupposti di legge, l'eventuale inclusione nel regime di tassazione di gruppo delle stabili organizzazioni o delle controllate di soggetti esteri senza interruzione dei consolidati esistenti".
 
 ---------------
 
@@ -6644,7 +6644,7 @@ Non concorrono alla formazione del reddito imponibile in quanto escluse le somme
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
@@ -6674,13 +6674,13 @@ Non viene meno l'efficacia dell'opzione nel caso in cui per effetto di operazion
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
 AGGIORNAMENTO (168)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
 
 ### Art. 120. — Definizione del requisito di controllo
 
@@ -6704,7 +6704,7 @@ Il requisito del controllo di cui all'articolo 117, comma 1 deve sussistere sin 
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 6, comma 3) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 6, comma 3) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
 ### Art. 121. — ((Obblighi delle societa' controllate ))
@@ -6715,7 +6715,7 @@ medesimo.
 
 Per effetto dell'esercizio congiunto dell'opzione di cui all'articolo 117, ciascuna societa' controllata, secondo quanto previsto dal decreto di cui all'articolo 129, deve:
                             a)
-                                compilare il modello della dichiarazione dei redditi al fine di comunicare alla societa' o ente controllante la determinazione del proprio reddito complessivo, delle ritenute subite, delle detrazioni e dei crediti d'imposta spettanti, compresi quelli compensabili ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), e degli acconti autonomamente versati. Al modello deve essere allegato il prospetto di cui all'articolo 109, comma 4, lettera b), con le indicazioni richieste relative ai componenti negativi di reddito dedotti;
+                                compilare il modello della dichiarazione dei redditi al fine di comunicare alla societa' o ente controllante la determinazione del proprio reddito complessivo, delle ritenute subite, delle detrazioni e dei crediti d'imposta spettanti, compresi quelli compensabili ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e degli acconti autonomamente versati. Al modello deve essere allegato il prospetto di cui all'articolo 109, comma 4, lettera b), con le indicazioni richieste relative ai componenti negativi di reddito dedotti;
                             b)
                                 fornire alla societa' controllante i dati relativi ai beni ceduti ed acquistati secondo il regime di neutralita' fiscale di cui all'articolo 123, specificando la differenza residua tra valore di libro e valore fiscale riconosciuto;
                             c)
@@ -6732,7 +6732,7 @@ Per effetto dell'esercizio congiunto dell'opzione di cui all'articolo 117, ciasc
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 164.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 164.
 
 ### Art. 122. — (( (Obblighi della societa' o ente controllante).))
 
@@ -6742,7 +6742,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 170.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 170.
 
 ### Art. 123.
 
@@ -6753,7 +6753,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che "L'eliminazione delle rettifiche di consolidamento concernenti il regime di neutralita' per i trasferimenti infragruppo, conseguente alle modifiche recate dalla lettera v) del comma 33, si applica ai trasferimenti effettuati a partire dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che "L'eliminazione delle rettifiche di consolidamento concernenti il regime di neutralita' per i trasferimenti infragruppo, conseguente alle modifiche recate dalla lettera v) del comma 33, si applica ai trasferimenti effettuati a partire dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2007".
 
 ### Art. 123-bis.
 
@@ -6764,7 +6764,7 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 173.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 173.
 
 ### Art. 124. — Interruzione della tassazione di gruppo prima del compimento del triennio
 
@@ -6813,13 +6813,13 @@ L'articolo 118, comma 4, si applica anche relativamente alle somme percepite o v
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 182.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 182.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ---------------
 
@@ -6849,7 +6849,7 @@ L'articolo 118, comma 4, si applica anche relativamente alle somme percepite o v
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 183.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 183.
 
 ---------------
 
@@ -6873,7 +6873,7 @@ Non possono esercitare l'opzione di cui all'articolo 117 le societa' che fruisco
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 174 e 184.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli 174 e 184.
 
 ### Art. 127. — Responsabilita'
 
@@ -6901,14 +6901,14 @@ L'eventuale rivalsa della societa' o ente controllante nei confronti delle socie
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006". 
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 8, comma 7) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 118 e 123 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2005 e quelle dell'articolo 119 che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2006". 
  (115)
 
 -----------
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 163.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 163.
 
 ### Art. 127-bis.
 
@@ -6919,7 +6919,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 167.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 167.
 
 ### Art. 128. — ((Norma transitoria 
  
@@ -6931,7 +6931,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 169.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 169.
 
 ### Art. 129. — ((Disposizioni applicative 
  
@@ -6943,7 +6943,7 @@ Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 185.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 185.
 
 ## CONSOLIDATO MONDIALE))
 
@@ -6980,7 +6980,7 @@ Per la verifica della condizione di cui alla lettera b) del comma 2, le partecip
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 186.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 186.
 
 ### Art. 131. — ((Effetti dell'esercizio dell'opzione ))
 
@@ -7010,7 +7010,7 @@ Ai fini del comma 3 si considera la quota di partecipazione agli utili alla data
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 187.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 187.
 
 ### Art. 132. — Condizioni per l'efficacia dell'opzione
 
@@ -7026,13 +7026,13 @@ L'efficacia dell'opzione e' altresi' subordinata al verificarsi delle seguenti c
                             b)
                                 identita' dell'esercizio sociale di ciascuna societa' controllata con quello della societa' o ente controllante, salvo nel caso in cui questa coincidenza non sia consentita dalle legislazioni locali;
                             c)
-                                revisione dei bilanci del soggetto controllante residente e delle controllate residenti di cui all'articolo 131, comma 2, e di quelle non residenti di cui all'articolo 133, da parte dei soggetti iscritti all'albo Consob previsto dal [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), o, per quanto riguarda le controllate non residenti, anche da altri soggetti a condizione che il revisore del soggetto controllante utilizzi gli esiti della revisione contabile dagli stessi soggetti effettuata ai fini del giudizio sul bilancio annuale o consolidato. Nel caso in cui la controllata non abbia l'obbligo della redazione annuale del bilancio, redazione a cura dell'organo sociale cui compete l'amministrazione della societa' di un bilancio volontario riferito ad un periodo di tempo corrispondente al periodo d'imposta della controllante, comunque soggetto alla revisione di cui al primo periodo;
+                                revisione dei bilanci del soggetto controllante residente e delle controllate residenti di cui all'articolo 131, comma 2, e di quelle non residenti di cui all'articolo 133, da parte dei soggetti iscritti all'albo Consob previsto dal [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), o, per quanto riguarda le controllate non residenti, anche da altri soggetti a condizione che il revisore del soggetto controllante utilizzi gli esiti della revisione contabile dagli stessi soggetti effettuata ai fini del giudizio sul bilancio annuale o consolidato. Nel caso in cui la controllata non abbia l'obbligo della redazione annuale del bilancio, redazione a cura dell'organo sociale cui compete l'amministrazione della societa' di un bilancio volontario riferito ad un periodo di tempo corrispondente al periodo d'imposta della controllante, comunque soggetto alla revisione di cui al primo periodo;
                             d)
                                 attestazione rilasciata da ciascuna societa' controllata non residente secondo le modalita' previste dal decreto di cui all'articolo 142 dalla quale risulti: 
  1) il consenso alla revisione del proprio bilancio di cui alla lettera c); 
  2) l'impegno a fornire al soggetto controllante la collaborazione necessaria per la determinazione dell'imponibile e per adempiere entro un periodo non superiore a 60 giorni dalla loro notifica alle richieste dell'Amministrazione finanziaria.
                             d-bis)
-                                LETTERA ABROGATA DAL [D.LGS. 24 SETTEMBRE 2015, N. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;156).
+                                LETTERA ABROGATA DAL [D.LGS. 24 SETTEMBRE 2015, N. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20per%20la%20revisione%20della%20disciplina%20degli%20interpelli%20e%20del%20contenzioso%20tributario%20in%20attuazione%20degli%20articoli%206%20comma%206%20e%2010%20comma%201%20lettere%20a%20e%20b%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00167.md).
 
 3.
 
@@ -7061,13 +7061,13 @@ Le variazioni dei dati di cui al comma 3 possono essere comunicate all'Agenzia d
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 188.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 188.
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 -------------
 
@@ -7090,13 +7090,13 @@ Le partecipazioni di cui al comma 1 devono sussistere alla fine dell'esercizio d
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 189.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 189.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1 gennaio 2005".
 
 ### Art. 134. — Obblighi della societa' od ente controllante e rettifiche di consolidamento
 
@@ -7131,13 +7131,13 @@ Non rilevano le perdite delle controllate non residenti relative agli esercizi p
 
 AGGIORNAMENTO (115)
 
-Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_2-com4), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 190.
+Ai sensi di quanto disposto dall'[art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 190.
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1° gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1° gennaio 2005".
 
 ### Art. 135.
 
@@ -7148,7 +7148,7 @@ Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che "L'eliminazione delle rettifiche di consolidamento concernenti il regime di neutralita' per i trasferimenti infragruppo, conseguente alle modifiche recate dalla lettera v) del comma 33, si applica ai trasferimenti effettuati a partire dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che "L'eliminazione delle rettifiche di consolidamento concernenti il regime di neutralita' per i trasferimenti infragruppo, conseguente alle modifiche recate dalla lettera v) del comma 33, si applica ai trasferimenti effettuati a partire dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2007".
 
 ### Art. 136. — Determinazione dell'imposta dovuta
 
@@ -7181,7 +7181,7 @@ Ai fini dell'applicazione del comma 4, si considerano prioritariamente distribui
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1 gennaio 2005".
 
 ### Art. 137. — ((Interruzione della tassazione di gruppo prima del compimento del periodo di validita' dell'opzione ))
 
@@ -7303,7 +7303,7 @@ Non concorrono in ogni caso alla formazione del reddito degli enti non commercia
                             a)
                                 i fondi pervenuti ai predetti enti a seguito di raccolte pubbliche effettuate occasionalmente, anche mediante offerte di beni di modico valore o di servizi ai sovventori, in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione;
                             b)
-                                i contributi corrisposti da Amministrazioni pubbliche ai predetti enti per lo svolgimento convenzionato o in regime di accreditamento di cui all'[articolo 8, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_8-com7), come sostituito dall'[articolo 9, comma 1, lettera g), del decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517#art_9-com1-letg), di attivita' aventi finalita' sociali esercitate in conformita' ai fini istituzionali degli enti stessi.
+                                i contributi corrisposti da Amministrazioni pubbliche ai predetti enti per lo svolgimento convenzionato o in regime di accreditamento di cui all'[articolo 8, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 9, comma 1, lettera g), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), di attivita' aventi finalita' sociali esercitate in conformita' ai fini istituzionali degli enti stessi.
 
 ))
 
@@ -7447,7 +7447,7 @@ Le disposizioni di cui ai commi 3, 5, 6 e 7 si applicano a condizione che le ass
                             a)
                                 divieto di distribuire anche in modo indiretto, utili o avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'associazione, salvo che la destinazione o la distribuzione non siano imposte dalla legge;
                             b)
-                                obbligo di devolvere il patrimonio dell'ente, in caso di suo scioglimento per qualunque causa, ad altra associazione con finalita' analoghe o ai fini di pubblica utilita', sentito l'organismo di controllo di cui all'[articolo 3, comma 190, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com190), e salvo diversa destinazione imposta dalla legge;
+                                obbligo di devolvere il patrimonio dell'ente, in caso di suo scioglimento per qualunque causa, ad altra associazione con finalita' analoghe o ai fini di pubblica utilita', sentito l'organismo di controllo di cui all'[articolo 3, comma 190, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e salvo diversa destinazione imposta dalla legge;
                             c)
                                 disciplina uniforme del rapporto associativo e delle modalita' associative volte a garantire l'effettivita' del rapporto medesimo, escludendo espressamente la temporaneita' della partecipazione alla vita associativa e prevedendo per gli associati o partecipanti maggiori d'eta' il diritto di voto per l'approvazione e le modificazioni dello statuto e dei regolamenti e per la nomina degli organi direttivi dell'associazione;
                             d)
@@ -7477,7 +7477,7 @@ Il [D.L. 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (194)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), come modificato dal [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34), convertito con modificazioni dalla [L. 28 giugno 2019, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%202019%20n.%2034%20recante%20misure%20urgenti%20di%20crescita%20economica%20e%20per%20la%20risoluzione%20di%20specifiche%20situazioni%20di%20crisi.%2019G00066.md), ha disposto (con l'art. 89, comma 4) che "All'articolo 148, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le parole: 'Per le associazioni politiche, sindacali e di categoria, religiose, assistenziali, culturali, sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica della persona, nonche' per le strutture periferiche di natura privatistica necessarie agli enti pubblici non economici per attuare la funzione di preposto a servizi di pubblico interesse' sono sostituite dalle seguenti: 'Per le associazioni politiche, sindacali e di categoria, religiose, assistenziali, sportive dilettantistiche, nonche' per le strutture periferiche di natura privatistica necessarie agli enti pubblici non economici per attuare la funzione di preposto a servizi di pubblico interesse'".
+Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), come modificato dal [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34), convertito con modificazioni dalla [L. 28 giugno 2019, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%202019%20n.%2034%20recante%20misure%20urgenti%20di%20crescita%20economica%20e%20per%20la%20risoluzione%20di%20specifiche%20situazioni%20di%20crisi.%2019G00066.md), ha disposto (con l'art. 89, comma 4) che "All'articolo 148, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le parole: 'Per le associazioni politiche, sindacali e di categoria, religiose, assistenziali, culturali, sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica della persona, nonche' per le strutture periferiche di natura privatistica necessarie agli enti pubblici non economici per attuare la funzione di preposto a servizi di pubblico interesse' sono sostituite dalle seguenti: 'Per le associazioni politiche, sindacali e di categoria, religiose, assistenziali, sportive dilettantistiche, nonche' per le strutture periferiche di natura privatistica necessarie agli enti pubblici non economici per attuare la funzione di preposto a servizi di pubblico interesse'".
 
 -------------
 
@@ -7529,7 +7529,7 @@ AGGIORNAMENTO (186)
 
 Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera c)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
- c) l'articolo 150 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917)".
+ c) l'articolo 150 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md)".
 
 ## ((SOCIETA' ED ENTI COMMERCIALI NON RESIDENTI))
 
@@ -7563,7 +7563,7 @@ Dall'imposta lorda si detrae fino alla concorrenza del suo ammontare un importo 
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ### Art. 152. — (( (Reddito di societa' ed enti commerciali non residenti derivante da attivita' svolte nel territorio dello Stato mediante stabile organizzazione).))
 
@@ -7571,7 +7571,7 @@ Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn
 
 1.
 
-Per le societa' e gli enti commerciali con stabile organizzazione nel territorio dello Stato, il reddito della stabile organizzazione e' determinato in base agli utili e alle perdite ad essa riferibili, e secondo le disposizioni della Sezione I, del Capo II, del Titolo II, sulla base di un apposito rendiconto economico e patrimoniale, da redigersi secondo i principi contabili previsti per i soggetti residenti aventi le medesime caratteristiche, salva quella della emissione di strumenti finanziari ammessi alla negoziazione in mercati regolamentati di qualsiasi Stato membro dell'Unione europea ovvero diffusi tra il pubblico di cui all'articolo 116 testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58).
+Per le societa' e gli enti commerciali con stabile organizzazione nel territorio dello Stato, il reddito della stabile organizzazione e' determinato in base agli utili e alle perdite ad essa riferibili, e secondo le disposizioni della Sezione I, del Capo II, del Titolo II, sulla base di un apposito rendiconto economico e patrimoniale, da redigersi secondo i principi contabili previsti per i soggetti residenti aventi le medesime caratteristiche, salva quella della emissione di strumenti finanziari ammessi alla negoziazione in mercati regolamentati di qualsiasi Stato membro dell'Unione europea ovvero diffusi tra il pubblico di cui all'articolo 116 testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 2. Ai fini del comma 1, la stabile organizzazione si considera entita' separata e indipendente, svolgente le medesime o analoghe attivita', in condizioni identiche o similari, tenendo conto delle funzioni svolte, dei rischi assunti e dei beni utilizzati. Il fondo di dotazione alla stessa riferibile e' determinato in piena conformita' ai criteri definiti in sede OCSE, tenendo conto delle funzioni svolte, dei rischi assunti e dei beni utilizzati.))
 
@@ -7591,13 +7591,13 @@ I componenti di reddito attribuibili alle stabili organizzazioni relativamente a
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 -----------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 7, comma 3) che "Ai fini della disposizione di cui all'articolo 152, comma 2, secondo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), cosi' come modificato dalla lettera b) del comma 1, del presente articolo, i metodi di calcolo del fondo di dotazione sono individuati con uno o piu' provvedimenti del Direttore dell'Agenzia delle entrate, il primo dei quali da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto. Relativamente ai periodi di imposta iniziati prima dell'emanazione del provvedimento riguardante lo specifico settore di appartenenza, l'eventuale rettifica in aumento del reddito imponibile o del valore della produzione netta conseguente alla valutazione della congruita' del fondo di dotazione ai sensi del citato articolo 152 non da' luogo all'applicazione di sanzioni". 
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 7, comma 3) che "Ai fini della disposizione di cui all'articolo 152, comma 2, secondo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), cosi' come modificato dalla lettera b) del comma 1, del presente articolo, i metodi di calcolo del fondo di dotazione sono individuati con uno o piu' provvedimenti del Direttore dell'Agenzia delle entrate, il primo dei quali da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto. Relativamente ai periodi di imposta iniziati prima dell'emanazione del provvedimento riguardante lo specifico settore di appartenenza, l'eventuale rettifica in aumento del reddito imponibile o del valore della produzione netta conseguente alla valutazione della congruita' del fondo di dotazione ai sensi del citato articolo 152 non da' luogo all'applicazione di sanzioni". 
  Ha inoltre disposto (con l'art. 7, comma 4) che le presenti modifiche si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ## ENTI NON COMMERCIALI NON RESIDENTI))
@@ -7646,7 +7646,7 @@ Sono altresi' deducibili:
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ### Art. 154.
 
@@ -7657,7 +7657,7 @@ Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ## DETERMINAZIONE DELLA BASE IMPONIBILE PER ALCUNE IMPRESE MARITTIME))
 
@@ -7694,7 +7694,7 @@ Sono altresi' incluse nell'imponibile le attivita' direttamente connesse, strume
 
 AGGIORNAMENTO (168)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
 
 ---------------
 
@@ -7706,23 +7706,23 @@ Il [D.L. 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (179)
 
-Il [D.Lgs. 29 ottobre 2016, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-10-29;221) ha disposto: 
+Il [D.Lgs. 29 ottobre 2016, n. 221](../Decreti%20Legislativi/Riordino%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20incentivi%20fiscali%20previdenziali%20e%20contributivi%20in%20favore%20delle%20imprese%20marittime%20a%20norma%20dellarticolo%2024%20comma%2011%20della%20legge_e20a0dcc4176.md) ha disposto: 
  - (con l'art. 6, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo all'entrata in vigore del D.Lgs. medesimo; 
- - (con l'art. 7, comma 1) che "L'opzione di cui all'[articolo 155, comma 1, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_155-com1), non e' efficace per le navi traghetto ro-ro e ro-ro pax, iscritte nel registro internazionale adibite a traffici commerciali tra porti appartenenti al territorio nazionale, continentale e insulare, anche per viaggi a seguito o in precedenza di un viaggio proveniente da o diretto verso un altro Stato, sulle navi, che non imbarcano esclusivamente personale italiano o comunitario"; 
+ - (con l'art. 7, comma 1) che "L'opzione di cui all'[articolo 155, comma 1, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), non e' efficace per le navi traghetto ro-ro e ro-ro pax, iscritte nel registro internazionale adibite a traffici commerciali tra porti appartenenti al territorio nazionale, continentale e insulare, anche per viaggi a seguito o in precedenza di un viaggio proveniente da o diretto verso un altro Stato, sulle navi, che non imbarcano esclusivamente personale italiano o comunitario"; 
  - (con l'art. 9, comma 2) che "L'efficacia del presente decreto, limitatamente alle disposizioni che prevedono agevolazioni alle imprese, e' subordinata alla previa autorizzazione da parte della Commissione europea, ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea, in materia di aiuti di Stato".
 
 ---------------
 
 AGGIORNAMENTO (187)
 
-La [L. 20 novembre 2017, n. 167](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202017.%2017G00180.md) ha disposto (con l'art. 10, comma 1) che "Dal periodo d'imposta a decorrere dal quale entra in vigore il decreto di cui al comma 3 del presente articolo, le disposizioni dell'[articolo 4 del decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457#art_4), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30, dell'articolo 12, comma 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), del [decreto legislativo 15 dicembre 1997, n. 446, e dell'articolo 155, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_155-com1), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si applicano anche ai soggetti residenti e ai soggetti non residenti aventi stabile organizzazione nel territorio dello Stato che utilizzano navi adibite esclusivamente a traffici commerciali internazionali iscritte nei registri degli Stati dell'Unione europea o dello Spazio economico europeo". 
+La [L. 20 novembre 2017, n. 167](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202017.%2017G00180.md) ha disposto (con l'art. 10, comma 1) che "Dal periodo d'imposta a decorrere dal quale entra in vigore il decreto di cui al comma 3 del presente articolo, le disposizioni dell'[articolo 4 del decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457#art_4), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30, dell'articolo 12, comma 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), del [decreto legislativo 15 dicembre 1997, n. 446, e dell'articolo 155, comma 1](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si applicano anche ai soggetti residenti e ai soggetti non residenti aventi stabile organizzazione nel territorio dello Stato che utilizzano navi adibite esclusivamente a traffici commerciali internazionali iscritte nei registri degli Stati dell'Unione europea o dello Spazio economico europeo". 
  Ha inoltre disposto (con l'art. 10, comma 2) che "Le disposizioni del comma 1 del presente articolo si applicano a condizione che sia rispettato quanto previsto dagli articoli 1, comma 5, e 3 del [decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30, dall'articolo 317](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md) del [codice della navigazione e dall'articolo 426](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md)".
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 156. — Determinazione del reddito imponibile
 
@@ -7750,13 +7750,13 @@ Dall'imponibile determinato secondo quanto previsto dai commi precedenti non e' 
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 10, comma 4) che "Le disposizioni degli articoli 156 e 160 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta indicati all'[articolo 4, comma 1, lettera e), del decreto legislativo 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_4-com1-lete)".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 10, comma 4) che "Le disposizioni degli articoli 156 e 160 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta indicati all'[articolo 4, comma 1, lettera e), del decreto legislativo 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md)".
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 157. — Limiti all'esercizio dell'opzione ed alla sua efficacia
 
@@ -7786,14 +7786,14 @@ AGGIORNAMENTO (177)
 
 La [L. 7 luglio 2016, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-07-07;122) ha disposto: 
  - (con l'art. 24, comma 2) che la modifica di cui al comma 5 del presente articolo si applica per le cause di decadenza verificatesi a decorrere dal periodo d'imposta in corso alla data di entrata in vigore della medesima [L. 122/2016; 
- - (con l'art. 24, comma 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;122#art_24-com6)) che "L'articolo 157, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), non si applica nel caso in cui l'omesso versamento dell'importo annuo ai sensi dell'articolo 7, comma 3, del decreto del Ministro dell'economia e delle finanze 23 giugno 2005, pubblicato nella Gazzetta Ufficiale n. 153 del 4 luglio 2005, e' inferiore al 10 per cento di quanto dovuto e, in ogni caso, non superiore all'importo di euro 10.000. Sull'importo dell'omesso versamento si applica la sanzione del 50 per cento"; 
+ - (con l'art. 24, comma 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;122#art_24-com6)) che "L'articolo 157, comma 3, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), non si applica nel caso in cui l'omesso versamento dell'importo annuo ai sensi dell'articolo 7, comma 3, del decreto del Ministro dell'economia e delle finanze 23 giugno 2005, pubblicato nella Gazzetta Ufficiale n. 153 del 4 luglio 2005, e' inferiore al 10 per cento di quanto dovuto e, in ogni caso, non superiore all'importo di euro 10.000. Sull'importo dell'omesso versamento si applica la sanzione del 50 per cento"; 
  - (con l'art. 24, comma 9) che la modifica di cui al comma 3 del presente articolo si applica ai versamenti dovuti a decorrere dalla data di entrata in vigore della suindicata [L. 122/2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;122).
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 157-bis. — (( (Credito d'imposta in caso di locazione a scafo nudo di navi agevolate).))
 
@@ -7804,7 +7804,7 @@ Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 158. — Plusvalenze e minusvalenze
 
@@ -7814,7 +7814,7 @@ Nel caso di cessione a titolo oneroso di una o piu' navi relativamente alle qual
 
 2.
 
-Nel caso in cui nel periodo d'imposta precedente quello di prima applicazione del regime di determinazione dell'imponibile previsto dalla presente sezione, al reddito prodotto dalla nave ceduta si rendeva applicabile l'agevolazione di cui all'[articolo 145, comma 66, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com66), ((l'importo determinato ai sensi del comma 1, secondo periodo, e' aggiunto)) all'imponibile limitatamente al 20 per cento del suo ammontare. ((177))
+Nel caso in cui nel periodo d'imposta precedente quello di prima applicazione del regime di determinazione dell'imponibile previsto dalla presente sezione, al reddito prodotto dalla nave ceduta si rendeva applicabile l'agevolazione di cui all'[articolo 145, comma 66, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), ((l'importo determinato ai sensi del comma 1, secondo periodo, e' aggiunto)) all'imponibile limitatamente al 20 per cento del suo ammontare. ((177))
 
 3.
 
@@ -7826,7 +7826,7 @@ Nel caso in cui le navi cedute costituiscano un complesso aziendale, per l'appli
 AGGIORNAMENTO (177)
 
 La [L. 7 luglio 2016, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-07-07;122) ha disposto (con l'art. 24, comma 3) che le modifiche di cui ai commi 1 e 2 del presente articolo si applicano con riferimento alle opzioni esercitate a decorrere dal periodo d'imposta in corso alla data di entrata in vigore della legge medesima; a tale fine non rilevano i rinnovi delle opzioni esercitate nei periodi d'imposta precedenti a quello in corso alla data di entrata in vigore della citata [L. 122/2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;122). 
- Ha inoltre disposto (con l'art. 24, comma 5) che "Per le opzioni esercitate nei periodi d'imposta precedenti a quello in corso alla data di entrata in vigore della presente legge, si applicano le disposizioni dell'articolo 158 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente prima della data di entrata in vigore della presente legge".
+ Ha inoltre disposto (con l'art. 24, comma 5) che "Per le opzioni esercitate nei periodi d'imposta precedenti a quello in corso alla data di entrata in vigore della presente legge, si applicano le disposizioni dell'articolo 158 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente prima della data di entrata in vigore della presente legge".
 
 ### Art. 159. — Obblighi contabili
 
@@ -7850,7 +7850,7 @@ Le spese e gli altri componenti negativi che si riferiscono indistintamente a co
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 19, comma 2) che "Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 160. — Ulteriori effetti dell'esercizio dell'opzione
 
@@ -7867,7 +7867,7 @@ Alle cessioni di beni ed alle prestazioni di servizi fra le societa' il cui redd
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 10, comma 4) che "Le disposizioni degli articoli 156 e 160 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta indicati all'[articolo 4, comma 1, lettera e), del decreto legislativo 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344#art_4-com1-lete)".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 10, comma 4) che "Le disposizioni degli articoli 156 e 160 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta indicati all'[articolo 4, comma 1, lettera e), del decreto legislativo 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md)".
 
 ### Art. 161. — ((Disposizioni applicative ))
 
@@ -7891,7 +7891,7 @@ TITOLO III
 
 1.
 
-Fermo restando quanto previsto dall'articolo 169, ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446), l'espressione "stabile organizzazione" designa una sede fissa di affari per mezzo della quale l'impresa non residente esercita in tutto o in parte la sua attivita' sul territorio dello Stato.
+Fermo restando quanto previsto dall'articolo 169, ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al [decreto legislativo 15 dicembre 1997, n. 446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), l'espressione "stabile organizzazione" designa una sede fissa di affari per mezzo della quale l'impresa non residente esercita in tutto o in parte la sua attivita' sul territorio dello Stato.
 
 2.
 
@@ -7964,7 +7964,7 @@ Ai fini del comma 7, al ricorrere delle condizioni di cui al comma 7-quater, si 
 
 Le disposizioni del comma 7-ter si applicano a condizione che:
                             a)
-                                il veicolo di investimento non residente e le relative controllate siano residenti o localizzati in uno Stato o territorio compreso nell'elenco di cui all'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239#art_11-com4-letc);
+                                il veicolo di investimento non residente e le relative controllate siano residenti o localizzati in uno Stato o territorio compreso nell'elenco di cui all'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md);
                             b)
                                 il veicolo di investimento non residente rispetti i requisiti di indipendenza stabiliti dal decreto previsto dal comma 7-quinquies;
                             c)
@@ -7992,7 +7992,7 @@ Il fatto che un'impresa non residente con o senza stabile organizzazione nel ter
 
 1.
 
-Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446), si definiscono:
+Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al [decreto legislativo 15 dicembre 1997, n. 446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), si definiscono:
                             a)
                                 intermediari finanziari: 
  1) i soggetti indicati nell'[articolo 2, comma 1, lettera c), del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_2-com1-letc), e i soggetti con stabile organizzazione nel territorio dello Stato aventi le medesime caratteristiche; 
@@ -8018,7 +8018,7 @@ Ai fini del comma 1, l'esercizio in via prevalente di attivita' di assunzione di
 
 AGGIORNAMENTO (192)
 
-Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018.
+Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1164%20del%20Consiglio%20del%2012%20luglio%202016%20recante%20norme%20contro%20le%20pratiche%20di%20elusione%20fiscale%20che%20incidono%20direttamente%20sul%20funzionamento%20del%20mercato%20inter_d326ad02a86a.md), ha disposto (con l'art. 13, comma 9) che la presente modifica si applica a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al [decreto legislativo 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136), per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018.
 
 ### Art. 163. — ((Divieto della doppia imposizione ))
 
@@ -8072,18 +8072,18 @@ La [L. 28 giugno 2012, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (189)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto: 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto: 
  - (con l'art. 1, comma 916) che la presente modifica si applica alle fatture emesse a partire dal 1º gennaio 2019; 
  - (con l'art. 1, comma 917, lettere a) e b)) che "Fermo restando quanto previsto al comma 916, le disposizioni dei commi da 909 a 928 si applicano alle fatture emesse a partire dal 1º luglio 2018 relative a: 
  a) cessioni di benzina o di gasolio destinati ad essere utilizzati come carburanti per motori; 
- b) prestazioni rese da soggetti subappaltatori e subcontraenti della filiera delle imprese nel quadro di un contratto di appalto di lavori, servizi o forniture stipulato con un'amministrazione pubblica. Ai fini della presente lettera, per filiera delle imprese si intende l'insieme dei soggetti, destinatari della normativa di cui all'[articolo 3 della legge 13 agosto 2010, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_3), che intervengono a qualunque titolo nel ciclo di realizzazione del contratto, anche con noli e forniture di beni e prestazioni di servizi, ivi compresi quelli di natura intellettuale, qualunque sia l'importo dei relativi contratti o dei subcontratti. Le fatture elettroniche emesse ai sensi della presente lettera riportano gli stessi codici CUP e CIG di cui all'[articolo 25, comma 2, del decreto-legge 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_25-com2), convertito, con modificazioni, dalla [legge 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), riportati nelle fatture emesse dall'impresa capofila nei confronti dell'amministrazione pubblica"; 
+ b) prestazioni rese da soggetti subappaltatori e subcontraenti della filiera delle imprese nel quadro di un contratto di appalto di lavori, servizi o forniture stipulato con un'amministrazione pubblica. Ai fini della presente lettera, per filiera delle imprese si intende l'insieme dei soggetti, destinatari della normativa di cui all'[articolo 3 della legge 13 agosto 2010, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md), che intervengono a qualunque titolo nel ciclo di realizzazione del contratto, anche con noli e forniture di beni e prestazioni di servizi, ivi compresi quelli di natura intellettuale, qualunque sia l'importo dei relativi contratti o dei subcontratti. Le fatture elettroniche emesse ai sensi della presente lettera riportano gli stessi codici CUP e CIG di cui all'[articolo 25, comma 2, del decreto-legge 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_25-com2), convertito, con modificazioni, dalla [legge 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), riportati nelle fatture emesse dall'impresa capofila nei confronti dell'amministrazione pubblica"; 
  - (con l'art. 1, comma 927) che la presente modifica si applica a partire dal 1° luglio 2018.
 
 --------------
 
 AGGIORNAMENTO (190)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), come modificata dal [D.L. 12 luglio 2018, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-07-12;87), convertito con modificazioni dalla [L. 9 agosto 2018, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20luglio%202018%20n.%2087%20recante%20disposizioni%20urgenti%20per%20la%20dignita%20dei%20lavoratori%20e%20delle%20imprese.%2018G00122.md), ha disposto (con l'art. 1, comma 917, lettera a)) che "Fermo restando quanto previsto al comma 916, le disposizioni dei commi da 909 a 928 si applicano alle fatture emesse a partire dal 1º luglio 2018 relative a: 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), come modificata dal [D.L. 12 luglio 2018, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-07-12;87), convertito con modificazioni dalla [L. 9 agosto 2018, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20luglio%202018%20n.%2087%20recante%20disposizioni%20urgenti%20per%20la%20dignita%20dei%20lavoratori%20e%20delle%20imprese.%2018G00122.md), ha disposto (con l'art. 1, comma 917, lettera a)) che "Fermo restando quanto previsto al comma 916, le disposizioni dei commi da 909 a 928 si applicano alle fatture emesse a partire dal 1º luglio 2018 relative a: 
  a) cessioni di benzina o di gasolio destinati ad essere utilizzati come carburanti per motori, ad eccezione delle cessioni di carburante per autotrazione presso gli impianti stradali di distribuzione, per le quali il comma 920 si applica dal 1°gennaio 2019". 
  Ha inoltre disposto (con l'art. 1, comma 927) che "Le disposizioni di cui ai commi 920, 921 e 926 si applicano dal 1° gennaio 2019. Le disposizioni di cui ai commi da 922 a 925 si applicano dal 1° luglio 2018".
 
@@ -8113,19 +8113,19 @@ I redditi si considerano prodotti all'estero sulla base di criteri reciproci a q
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 11, comma 3) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni dell'articolo 165, comma 6, che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 11, comma 3) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni dell'articolo 165, comma 6, che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005".
 
 ---------------
 
 AGGIORNAMENTO (126)
 
-Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) ha disposto (con l'art. 36, comma 30) che "In deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), le disposizioni di cui al comma 10 dell'articolo 165 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), devono intendersi riferite anche ai crediti d'imposta relativi ai redditi di cui al comma 8-bis dell'articolo 51 del medesimo testo unico".
+Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223) convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) ha disposto (con l'art. 36, comma 30) che "In deroga all'[articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_3), le disposizioni di cui al comma 10 dell'articolo 165 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), devono intendersi riferite anche ai crediti d'imposta relativi ai redditi di cui al comma 8-bis dell'articolo 51 del medesimo testo unico".
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147), ha disposto (con l'art. 15, comma 2) che "L'articolo 165, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che sono ammesse in detrazione sia le imposte estere oggetto di una convenzione contro le doppie imposizioni in vigore tra l'Italia e lo Stato estero in cui il reddito che concorre alla formazione dell'imponibile e' prodotto sia le altre imposte o gli altri tributi esteri sul reddito. Nel caso in cui sussistano obiettive condizioni di incertezza in merito alla natura di un tributo estero non oggetto delle anzidette convenzioni, il contribuente puo' inoltrare all'amministrazione finanziaria istanza d'interpello ai sensi e per gli effetti dell'[articolo 11, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_11)". 
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md), ha disposto (con l'art. 15, comma 2) che "L'articolo 165, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che sono ammesse in detrazione sia le imposte estere oggetto di una convenzione contro le doppie imposizioni in vigore tra l'Italia e lo Stato estero in cui il reddito che concorre alla formazione dell'imponibile e' prodotto sia le altre imposte o gli altri tributi esteri sul reddito. Nel caso in cui sussistano obiettive condizioni di incertezza in merito alla natura di un tributo estero non oggetto delle anzidette convenzioni, il contribuente puo' inoltrare all'amministrazione finanziaria istanza d'interpello ai sensi e per gli effetti dell'[articolo 11, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_11)". 
  Ha inoltre disposto (con l'art. 15, comma 3) che le modifiche di cui ai commi 5 e 6 del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
@@ -8202,7 +8202,7 @@ Ai fini del comma 7, non si tiene conto delle minusvalenze o delle plusvalenze r
 
 L'imposta determinata sui redditi di cui al comma 3, diminuiti delle perdite di cui al comma 6, previa opzione e subordinatamente alla prestazione di eventuali garanzie, puo' essere versata in cinque rate annuali di pari importo se:
                             a)
-                                nel caso di cui comma 1, lettera a), la residenza fiscale e' trasferita in uno Stato appartenente all'Unione europea oppure in uno Stato aderente all'Accordo sullo Spazio Economico Europeo incluso nella lista, prevista dall'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239#art_11-com4-letc), degli Stati che consentono un adeguato scambio di informazioni e con il quale l'Italia ha stipulato un accordo sulla reciproca assistenza in materia di riscossione dei crediti tributari comparabile a quella assicurata dalla [direttiva 2010/24/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;24);
+                                nel caso di cui comma 1, lettera a), la residenza fiscale e' trasferita in uno Stato appartenente all'Unione europea oppure in uno Stato aderente all'Accordo sullo Spazio Economico Europeo incluso nella lista, prevista dall'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md), degli Stati che consentono un adeguato scambio di informazioni e con il quale l'Italia ha stipulato un accordo sulla reciproca assistenza in materia di riscossione dei crediti tributari comparabile a quella assicurata dalla [direttiva 2010/24/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;24);
                             b)
                                 nel caso di cui al comma 1, lettera b), gli attivi sono trasferiti a una stabile organizzazione situata in uno Stato di cui alla lettera a);
                             c)
@@ -8218,7 +8218,7 @@ L'opzione di cui al comma 9 riguarda necessariamente l'intera imposta sui reddit
 
 11.
 
-Nel caso si opti per la rateizzazione ai sensi del comma 9, sulle rate successive alla prima sono dovuti gli interessi nella misura prevista dall'[articolo 20 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_20).
+Nel caso si opti per la rateizzazione ai sensi del comma 9, sulle rate successive alla prima sono dovuti gli interessi nella misura prevista dall'[articolo 20 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md).
 
 12.
 
@@ -8260,7 +8260,7 @@ Il trasferimento all'estero della residenza fiscale di una societa' di capitali 
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 11, comma 3) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni dell'articolo 165, comma 6, che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 11, comma 3) che "Le disposizioni del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni dell'articolo 165, comma 6, che hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005".
 
 ---------------
 
@@ -8278,7 +8278,7 @@ Il [D.L. 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 11, comma 2) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 11, comma 2) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo. 
  Ha inoltre disposto (con l'art. 11, comma 3) che "Le disposizioni recate dall'articolo 166, comma 2-quater, si interpretano nel senso che esse sono applicabili anche al trasferimento, da parte di un'impresa non residente nel territorio dello Stato, di una parte o della totalita' degli attivi collegati ad una stabile organizzazione, aventi ad oggetto un'azienda o un ramo d'azienda, verso altro Stato appartenente all'Unione europea ovvero aderente all'Accordo sullo Spazio economico europeo".
 
@@ -8316,7 +8316,7 @@ Ai fini del comma 1, lettere b) e d), il trasferimento di attivi a una stabile o
 
 Nelle ipotesi di cui al comma 1, le attivita' e le passivita' facenti parte del patrimonio del soggetto che ha trasferito la propria residenza fiscale nel territorio dello Stato, quelle facenti parte del patrimonio del soggetto incorporato, di quello del soggetto scisso o della stabile organizzazione oggetto di conferimento, gli attivi trasferiti alla stabile organizzazione situata nel territorio dello Stato del soggetto non residente e quelli trasferiti dalla stabile organizzazione situata all'estero alla sede centrale situata in Italia, assumono quale valore fiscale il loro valore di mercato se:
                             a)
-                                il soggetto di cui al comma 1, lettera a), prima del trasferimento di residenza aveva la propria residenza fiscale in uno Stato appartenente all'Unione europea oppure in uno Stato incluso nella lista, prevista dall'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239#art_11-com4-letc), degli Stati che consentono un adeguato scambio di informazioni;
+                                il soggetto di cui al comma 1, lettera a), prima del trasferimento di residenza aveva la propria residenza fiscale in uno Stato appartenente all'Unione europea oppure in uno Stato incluso nella lista, prevista dall'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](../Decreti%20Legislativi/Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md), degli Stati che consentono un adeguato scambio di informazioni;
                             b)
                                 il soggetto di cui al comma 1, lettera b), ha la propria residenza fiscale in uno Stato di cui alla lettera a);
                             c)
@@ -8342,7 +8342,7 @@ Nelle ipotesi di cui al comma 1, se non sono rispettate le condizioni di cui al 
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147), ha disposto (con l'art. 12, comma 2) che la modifica di cui al presente articolo si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md), ha disposto (con l'art. 12, comma 2) che la modifica di cui al presente articolo si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ---------------
 
@@ -8443,28 +8443,28 @@ Con decreto del Ministro dell'economia e delle finanze, possono essere adottate 
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto: 
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto: 
  - (con l'art. 1, comma 83, lettera l)) l'abrogazione del comma 4 del presente articolo; 
- - (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
+ - (con l'art. 1, comma 88) che "Le disposizioni di cui ai commi da 83 a 87 si applicano, salvo quanto previsto dal comma 89, a decorrere dal periodo di imposta che inizia successivamente alla data di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); fino al periodo d'imposta precedente continuano ad applicarsi le disposizioni vigenti al 31 dicembre 2007".
 
 -------------
 
 AGGIORNAMENTO (169)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 680) che la presente modifica si applica dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 680) che la presente modifica si applica dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 8, comma 4) che le presenti modifiche si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 8, comma 4) che le presenti modifiche si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
 ---------------
 
 AGGIORNAMENTO (174)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 144) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015.
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 144) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015.
 
 ---------------
 
@@ -8476,13 +8476,13 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (227)
 
-Il [D.Lgs. 27 dicembre 2023, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-27;209) ha disposto (con l'art. 7, comma 2) che le presenti modifiche "si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) ha disposto (con l'art. 7, comma 2) che le presenti modifiche "si applicano a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
 
 ---------------
 
 AGGIORNAMENTO (238)
 
-Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), convertito con modificazioni dalla [L. 30 luglio 2025, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%202025%20n.%2084%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.%2025G00121.md), ha disposto (con l'art. 4, comma 2) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data di entrata in vigore del [decreto legislativo 27 dicembre 2023, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-27;209)".
+Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), convertito con modificazioni dalla [L. 30 luglio 2025, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%202025%20n.%2084%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.%2025G00121.md), ha disposto (con l'art. 4, comma 2) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data di entrata in vigore del [decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md)".
 
 ### Art. 168.
 
@@ -8493,7 +8493,7 @@ Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 8, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto. Relativamente alle disposizioni di cui al comma 3, per gli utili distribuiti dal soggetto non residente a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni dell'[articolo 3, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2006-08-07;268#art_3-com3) e [4, del decreto del Ministro dell'economia e delle finanze 7 agosto 2006, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2006-08-07;268#art_3-com4). Ai soli fini del precedente periodo, gli utili distribuiti dal soggetto non residente si presumono prioritariamente formati con quelli assoggettati a tassazione separata".
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 8, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto. Relativamente alle disposizioni di cui al comma 3, per gli utili distribuiti dal soggetto non residente a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni dell'[articolo 3, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2006-08-07;268#art_3-com3) e [4, del decreto del Ministro dell'economia e delle finanze 7 agosto 2006, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2006-08-07;268#art_3-com4). Ai soli fini del precedente periodo, gli utili distribuiti dal soggetto non residente si presumono prioritariamente formati con quelli assoggettati a tassazione separata".
 
 ### Art. 168-bis.
 
@@ -8504,7 +8504,7 @@ Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 10, comma 5) che l'abrogazione del presente articolo si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che l'abrogazione del presente articolo si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ### Art. 168-ter. — (Esenzione degli utili e delle perdite delle stabili organizzazioni di imprese residenti)
 
@@ -8555,7 +8555,7 @@ Nel rispetto dei principi di trasparenza, correttezza e collaborazione cui deve 
 
 AGGIORNAMENTO (172)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147), ha disposto (con l'art. 14, comma 2) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md), ha disposto (con l'art. 14, comma 2) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 ------------
 
@@ -8665,7 +8665,7 @@ In caso di retrodatazione degli effetti fiscali della fusione ai sensi del comma
 
 7-ter.
 
-Le disposizioni dei commi 7, e 7-bis si applicano anche agli interessi passivi indeducibili oggetto di riporto in avanti di cui all'articolo 96, comma 5, nonche' all'eccedenza, ai sensi dell'[articolo 5 del decreto legislativo 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216#art_5), relativa all'aiuto alla crescita economica di cui all'[articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_1-com4), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). (235)
+Le disposizioni dei commi 7, e 7-bis si applicano anche agli interessi passivi indeducibili oggetto di riporto in avanti di cui all'articolo 96, comma 5, nonche' all'eccedenza, ai sensi dell'[articolo 5 del decreto legislativo 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md), relativa all'aiuto alla crescita economica di cui all'[articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_1-com4), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). (235)
 
 8.
 
@@ -8687,26 +8687,26 @@ Il regime dell'imposta sostitutiva di cui al comma 2-ter dell'articolo 176 puo' 
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 -------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 34) che la modifica di cui al comma 7 del presente articolo si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. 
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 34) che la modifica di cui al comma 7 del presente articolo si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. 
  Ha inoltre disposto (con l'art. 1, comma 47) che la modifica di cui al comma 10-bis del presente articolo si applica alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 -----------
 
 AGGIORNAMENTO (238)
 
-Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), convertito, con modificazioni, dalla [L. 30 luglio 2025, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%202025%20n.%2084%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.%2025G00121.md), ha disposto (con l'art. 2, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192)".
+Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), convertito, con modificazioni, dalla [L. 30 luglio 2025, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%202025%20n.%2084%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.%2025G00121.md), ha disposto (con l'art. 2, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md)".
 
 ### Art. 173. — Scissione di societa'
 
@@ -8724,7 +8724,7 @@ Il cambio delle partecipazioni originarie non costituisce ne' realizzo ne' distr
 
 4.
 
-Dalla data in cui la scissione ha effetto, a norma del comma 11, le posizioni soggettive della societa' scissa, ivi compresa quella indicata nell'articolo 86, comma 4, quali risultanti al termine dell'ultimo periodo d'imposta della societa' scissa chiuso prima della data di efficacia della scissione ai sensi dell'[articolo 2506-quater del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2506quater), escluse le eccedenze d'imposta utilizzabili in compensazione, anche ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), e i crediti di imposta chiesti a rimborso, di natura diversa da quella agevolativa, e i relativi obblighi strumentali della societa' scissa sono attribuiti alle beneficiarie e, in caso di scissione parziale, alla stessa societa' scissa, in proporzione delle rispettive quote del patrimonio netto contabile trasferite o rimaste, salvo che trattasi di posizioni soggettive connesse specificamente o per insiemi agli elementi del patrimonio scisso, nel qual caso seguono tali elementi presso i rispettivi titolari.
+Dalla data in cui la scissione ha effetto, a norma del comma 11, le posizioni soggettive della societa' scissa, ivi compresa quella indicata nell'articolo 86, comma 4, quali risultanti al termine dell'ultimo periodo d'imposta della societa' scissa chiuso prima della data di efficacia della scissione ai sensi dell'[articolo 2506-quater del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2506quater), escluse le eccedenze d'imposta utilizzabili in compensazione, anche ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e i crediti di imposta chiesti a rimborso, di natura diversa da quella agevolativa, e i relativi obblighi strumentali della societa' scissa sono attribuiti alle beneficiarie e, in caso di scissione parziale, alla stessa societa' scissa, in proporzione delle rispettive quote del patrimonio netto contabile trasferite o rimaste, salvo che trattasi di posizioni soggettive connesse specificamente o per insiemi agli elementi del patrimonio scisso, nel qual caso seguono tali elementi presso i rispettivi titolari.
 
 5.
 
@@ -8817,13 +8817,13 @@ Ai fini dell'[articolo 10-bis della legge 27 luglio 2000, n. 212](https://www.no
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 ---------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 47) che la presente modifica si applica alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 47) che la presente modifica si applica alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ---------------
 
@@ -8835,14 +8835,14 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Le disposizioni di cui al comma 1, lettera b), si applicano alle scissioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto e hanno effetto anche per i periodi d'imposta precedenti laddove le relative dichiarazioni siano state redatte conformemente ad esse".
 
 -----------
 
 AGGIORNAMENTO (241)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 7, comma 3) che "Le disposizioni di cui all'articolo 6 si applicano alle scissioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), e hanno effetto anche per i periodi d'imposta precedenti laddove le relative dichiarazioni siano state redatte conformemente a esse".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 3) che "Le disposizioni di cui all'articolo 6 si applicano alle scissioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), e hanno effetto anche per i periodi d'imposta precedenti laddove le relative dichiarazioni siano state redatte conformemente a esse".
 
 ### Art. 174. — ((Applicazione analogica ))
 
@@ -8874,23 +8874,23 @@ Le disposizioni del comma 1 non si applicano ed il valore di realizzo e' determi
 
 3.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (133)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (133)
 
 4.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (133)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (133)
 
 ---------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 47) che le presenti modifiche si applicano alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 47) che le presenti modifiche si applicano alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
 
 ---------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
 
 ### Art. 176. — Regimi fiscali del soggetto conferente e del soggetto conferitario
 
@@ -8908,7 +8908,7 @@ In caso di conferimento dell'unica azienda dell'imprenditore individuale, la suc
 
 2-ter.
 
-In luogo dell'applicazione delle disposizioni dei commi 1, 2 e 2-bis, la societa' conferitaria puo' optare, nella dichiarazione dei redditi relativa al periodo d'imposta nel corso del quale e' stata posta in essere l'operazione, per l'applicazione, in tutto o in parte, sui maggiori valori attribuiti in bilancio ai singoli elementi dell'attivo costituenti immobilizzazioni materiali e immateriali relativi all'azienda ricevuta, di un'imposta sostitutiva delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive con aliquota, rispettivamente, del 18 e del 3 per cento, cui sommare eventuali addizionali o maggiorazioni, nonche' la differenza tra ciascuna delle aliquote di cui all'[articolo 16, comma 1-bis, del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_16-com1bis) e quella di cui al medesimo articolo 16, comma 1. In caso di realizzo dei beni anteriormente al terzo periodo d'imposta successivo a quello dell'opzione, il costo fiscale e' ridotto dei maggiori valori assoggettati a imposta sostitutiva e dell'eventuale maggior ammortamento dedotto e l'imposta sostitutiva versata e' corrispondentemente scomputata dalle relative imposte. I maggiori valori assoggettati a imposta sostitutiva si considerano riconosciuti a partire dal periodo d'imposta nel corso del quale e' esercitata l'opzione. L'importo dell'imposta sostitutiva deve essere versato in un'unica soluzione entro il termine di versamento a saldo delle imposte relative all'esercizio nel corso del quale e' stata posta in essere l'operazione. (235)
+In luogo dell'applicazione delle disposizioni dei commi 1, 2 e 2-bis, la societa' conferitaria puo' optare, nella dichiarazione dei redditi relativa al periodo d'imposta nel corso del quale e' stata posta in essere l'operazione, per l'applicazione, in tutto o in parte, sui maggiori valori attribuiti in bilancio ai singoli elementi dell'attivo costituenti immobilizzazioni materiali e immateriali relativi all'azienda ricevuta, di un'imposta sostitutiva delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive con aliquota, rispettivamente, del 18 e del 3 per cento, cui sommare eventuali addizionali o maggiorazioni, nonche' la differenza tra ciascuna delle aliquote di cui all'[articolo 16, comma 1-bis, del decreto legislativo 15 dicembre 1997, n. 446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e quella di cui al medesimo articolo 16, comma 1. In caso di realizzo dei beni anteriormente al terzo periodo d'imposta successivo a quello dell'opzione, il costo fiscale e' ridotto dei maggiori valori assoggettati a imposta sostitutiva e dell'eventuale maggior ammortamento dedotto e l'imposta sostitutiva versata e' corrispondentemente scomputata dalle relative imposte. I maggiori valori assoggettati a imposta sostitutiva si considerano riconosciuti a partire dal periodo d'imposta nel corso del quale e' esercitata l'opzione. L'importo dell'imposta sostitutiva deve essere versato in un'unica soluzione entro il termine di versamento a saldo delle imposte relative all'esercizio nel corso del quale e' stata posta in essere l'operazione. (235)
 
 3.
 
@@ -8929,41 +8929,41 @@ Nelle ipotesi di cui ai commi 1, 2 e 2-bis, L'eccedenza in sospensione di impost
 
 6.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (133)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (133)
 
 ---------------
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 ---------------
 
 AGGIORNAMENTO (133)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 47) che "Le disposizioni di cui al comma 46 si applicano alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. La disciplina dell'imposta sostitutiva introdotta dal comma 46, lettera d), numero 3), puo' essere richiesta anche per ottenere il riallineamento dei valori fiscali ai maggiori valori di bilancio iscritti in occasione di operazioni effettuate entro il periodo d'imposta in corso al 31 dicembre 2007, nei limiti dei disallineamenti ancora esistenti alla chiusura di detto periodo o del periodo successivo".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 47) che "Le disposizioni di cui al comma 46 si applicano alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. La disciplina dell'imposta sostitutiva introdotta dal comma 46, lettera d), numero 3), puo' essere richiesta anche per ottenere il riallineamento dei valori fiscali ai maggiori valori di bilancio iscritti in occasione di operazioni effettuate entro il periodo d'imposta in corso al 31 dicembre 2007, nei limiti dei disallineamenti ancora esistenti alla chiusura di detto periodo o del periodo successivo".
 
 ---------------
 
 AGGIORNAMENTO (137)
 
 Il [D.L. 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185) convertito con modificazioni dalla [L. 28 gennaio 2009, n. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20novembre%202008%20n.%20185%20recante%20misure%20urgenti%20per%20il%20sostegno%20a%20famiglie%20lavoro%20occupazione%20e%20impresa%20e%20per%20ridisegnare%20in%20funzio_d34e2e16908a.md) ha disposto: 
- - (con l'art. 15, comma 10) che "In deroga alle disposizioni del comma 2-ter introdotto nell'articolo 176 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dall'articolo 1, comma 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_1-com46), della [legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244), e del relativo decreto di attuazione, i contribuenti possono assoggettare ,in tutto o in parte, i maggiori valori attribuiti in bilancio all'avviamento, ai marchi d'impresa e alle altre attivita' immateriali all'imposta sostitutiva di cui al medesimo comma 2-ter, con l'aliquota del 16 per cento, versando in unica soluzione l'importo dovuto entro il termine di versamento a saldo delle imposte relative all'esercizio nel corso del quale e' stata posta in essere l'operazione"; 
+ - (con l'art. 15, comma 10) che "In deroga alle disposizioni del comma 2-ter introdotto nell'articolo 176 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dall'articolo 1, comma 46](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), della [legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), e del relativo decreto di attuazione, i contribuenti possono assoggettare ,in tutto o in parte, i maggiori valori attribuiti in bilancio all'avviamento, ai marchi d'impresa e alle altre attivita' immateriali all'imposta sostitutiva di cui al medesimo comma 2-ter, con l'aliquota del 16 per cento, versando in unica soluzione l'importo dovuto entro il termine di versamento a saldo delle imposte relative all'esercizio nel corso del quale e' stata posta in essere l'operazione"; 
  - (con l'art. 15, comma 12) che la presente modifica si applica alle operazioni effettuate a partire dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007, nonche' a quelle effettuate entro il periodo d'imposta in corso al 31 dicembre 2007.
 
 -------------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 13, comma 5) che "Le disposizioni degli articoli 11, comma 3, e 12 si applicano alle operazioni effettuate a partire dal 1° gennaio 2024.
-Per le operazioni effettuate nel periodo d'imposta in corso al 31 dicembre 2023, anteriormente alla predetta data del 1° gennaio 2024, continuano ad applicarsi le disposizioni per l'esercizio dell'opzione per l'imposta sostitutiva di cui all'articolo 176, comma 2-ter, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente anteriormente alle modifiche di cui al presente decreto". 
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 13, comma 5) che "Le disposizioni degli articoli 11, comma 3, e 12 si applicano alle operazioni effettuate a partire dal 1° gennaio 2024.
+Per le operazioni effettuate nel periodo d'imposta in corso al 31 dicembre 2023, anteriormente alla predetta data del 1° gennaio 2024, continuano ad applicarsi le disposizioni per l'esercizio dell'opzione per l'imposta sostitutiva di cui all'articolo 176, comma 2-ter, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente anteriormente alle modifiche di cui al presente decreto". 
  Ha inoltre disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
 
 -----------
 
 AGGIORNAMENTO (238)
 
-Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 84, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192)".
+Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 84, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md)".
 
 ### Art. 177. — Scambi di partecipazioni
 
@@ -9003,7 +9003,7 @@ Si applicano le disposizioni dell'articolo 175, comma 2.
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 ---------------
 
@@ -9015,13 +9015,13 @@ Il [D.Lgs. 6 novembre 2007, n. 199](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
 
 ---------------
 
 AGGIORNAMENTO (241)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 5, comma 1) che "In deroga all'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_1-com2), l'articolo 177, comma 2-ter del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si interpreta nel senso che le disposizioni di cui al comma 2-bis dello stesso articolo 177 si applicano a condizione che: 
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 5, comma 1) che "In deroga all'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_1-com2), l'articolo 177, comma 2-ter del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si interpreta nel senso che le disposizioni di cui al comma 2-bis dello stesso articolo 177 si applicano a condizione che: 
  a) le percentuali di cui al comma 2-bis ivi indicate sussistano per le partecipazioni dalla stessa detenute dalla societa' conferita direttamente in soggetti diversi da quelli di cui all'articolo 162-bis, comma 1, lettere b) o c), numero 1), del citato testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), oppure indirettamente tramite altre societa' rientranti tra i soggetti di cui all'articolo 162-bis, comma 1, lettere b) o c), numero 1, del medesimo testo unico da essa controllate, ai sensi dell'[articolo 2359, comma 1, numeri 1)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1-num1) e [2), del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1-num2); 
  b) il valore contabile complessivo dei patrimoni netti delle societa' partecipate, rilevanti ai fini della lettera a), sia costituito prevalentemente dal valore contabile dei patrimoni netti delle societa' di cui sono detenute le partecipazioni che rappresentano una percentuale di diritti di voto oppure una partecipazione al capitale o al patrimonio superiori alle soglie indicate al comma 2-bis, calcolate tenendo conto della eventuale demoltiplicazione prodotta dalla catena partecipativa; a tal fine, il valore contabile dei patrimoni netti delle societa' partecipate e' determinato sulla base dei dati risultanti dal bilancio relativo all'ultimo esercizio antecedente al conferimento, tenendo conto della eventuale demoltiplicazione prodotta dalla catena partecipativa e senza considerare i valori contabili dei patrimoni netti delle societa' rientranti tra i soggetti indicati all'articolo 162-bis, comma 1, lettere b) o c), numero 1) del testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917)".
 
@@ -9031,7 +9031,7 @@ Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 1.
 
-I conferimenti di un complesso unitario di attivita' materiali e immateriali, inclusa la clientela e ogni altro elemento immateriale, nonche' di passivita', organizzato per l'esercizio dell'attivita' artistica o professionale, in una societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico, di cui all'[articolo 10 della legge 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183#art_10), non costituiscono realizzo di plusvalenze o minusvalenze; il soggetto conferente assume, quale valore delle partecipazioni ricevute, la somma algebrica dei valori fiscalmente riconosciuti di attivita' e passivita' conferite e il soggetto conferitario subentra nella posizione di quello conferente in ordine a quanto ricevuto, facendo risultare da apposito prospetto di riconciliazione della dichiarazione dei redditi i dati esposti nelle scritture contabili e i valori fiscalmente riconosciuti.
+I conferimenti di un complesso unitario di attivita' materiali e immateriali, inclusa la clientela e ogni altro elemento immateriale, nonche' di passivita', organizzato per l'esercizio dell'attivita' artistica o professionale, in una societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico, di cui all'[articolo 10 della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), non costituiscono realizzo di plusvalenze o minusvalenze; il soggetto conferente assume, quale valore delle partecipazioni ricevute, la somma algebrica dei valori fiscalmente riconosciuti di attivita' e passivita' conferite e il soggetto conferitario subentra nella posizione di quello conferente in ordine a quanto ricevuto, facendo risultare da apposito prospetto di riconciliazione della dichiarazione dei redditi i dati esposti nelle scritture contabili e i valori fiscalmente riconosciuti.
 
 2.
 
@@ -9063,7 +9063,7 @@ Al fine di evitare salti o duplicazioni di imposizione, nel caso di passaggio, p
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 6, comma 1) che "Le disposizioni dell'articolo 5 si applicano per la determinazione dei redditi di lavoro autonomo prodotti a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 ---------------
 
@@ -9090,20 +9090,20 @@ Con decreto del Ministro dell'economia e delle finanze sono stabilite le disposi
 
 3.
 
-Le disposizioni del presente articolo si applicano anche agli interessi passivi indeducibili oggetto di riporto in avanti di cui all'articolo 96, comma 5, nonche' all'eccedenza, ai sensi dell'[articolo 5 del decreto legislativo 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216#art_5), relativa all'aiuto alla crescita economica di cui all'[articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_1-com4), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). 
+Le disposizioni del presente articolo si applicano anche agli interessi passivi indeducibili oggetto di riporto in avanti di cui all'articolo 96, comma 5, nonche' all'eccedenza, ai sensi dell'[articolo 5 del decreto legislativo 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md), relativa all'aiuto alla crescita economica di cui all'[articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_1-com4), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md). 
  (235)
 
 -----------
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
 
 -----------
 
 AGGIORNAMENTO (238)
 
-Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 84, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192)".
+Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 84, comma 2) che "Le disposizioni del presente articolo si applicano alle operazioni effettuate dal periodo di imposta in corso alla data di entrata in vigore del [decreto legislativo 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md)".
 
 ## OPERAZIONI STRAORDINARIE FRA SOGGETTI RESIDENTI IN STATI MEMBRI DIVERSI DELL'UNIONE EUROPEA))
 
@@ -9137,7 +9137,7 @@ Il [D.Lgs. 6 novembre 2007, n. 199](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto".
 
 ### Art. 179. — Regime di neutralita' fiscale
 
@@ -9169,7 +9169,7 @@ Se e' stata conferita da un soggetto una stabile organizzazione situata in un al
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 ---------------
 
@@ -9203,7 +9203,7 @@ Nelle operazioni di cui alle lettere a) e b), del comma 1, dell'articolo 178, le
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 ---------------
 
@@ -9243,7 +9243,7 @@ Per le imprese individuali e per le societa' in nome collettivo e in accomandita
 
 AGGIORNAMENTO (235)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-12-13;192), ha disposto (con l'art. 18, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano alle liquidazioni che hanno inizio successivamente alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 18, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano alle liquidazioni che hanno inizio successivamente alla data di entrata in vigore del presente decreto".
 
 ### Art. 183. — Fallimento e liquidazione coatta
 
@@ -9272,7 +9272,7 @@ DISPOSIZIONE TRASFERITA NELL'ARTICOLO 54, COME COMMA 6.
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 12, comma 8) che "Le disposizioni degli articoli 172, comma 3, 173, 176, 177, comma 1, 179 e 181 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004; le disposizioni di cui agli articoli 172, comma 6, e 177, comma 2, hanno effetto per i periodi d'imposta che hanno inizio a decorrere del 1 gennaio 2005".
 
 ### Art. 184. — ((Applicazione analogica ))
 
@@ -9302,7 +9302,7 @@ In deroga ((all'articolo 37)), per i fabbricati dati in locazione in regime lega
 
 AGGIORNAMENTO (123)
 
-Il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 13, comma 2) che "Le disposizioni dell'articolo 185 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004".
+Il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni dell'articolo 185 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004".
 
 ### Art. 186. — ((Societa' civili ))
 
@@ -9330,7 +9330,7 @@ Se la giacenza dell'eredita' si protrae oltre il periodo di imposta nel corso de
 
 AGGIORNAMENTO (115)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 1) che "Nel testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nel testo vigente antecedentemente alla data di entrata in vigore del presente decreto, sono abrogati la lettera m) del comma 1 dell'articolo 16 ed il comma 3 dell'articolo 131".
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 1) che "Nel testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente antecedentemente alla data di entrata in vigore del presente decreto, sono abrogati la lettera m) del comma 1 dell'articolo 16 ed il comma 3 dell'articolo 131".
 
 ### Art. 188.
 
@@ -9366,15 +9366,15 @@ Le agevolazioni di cui al presente articolo si applicano ai sensi e nei limiti d
 
 AGGIORNAMENTO (127)
 
-Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262) convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) ha disposto (con l'art. 2, comma 26) che "Le disposizioni dell'articolo 188-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come introdotto dal comma 25 del presente articolo, si applicano a decorrere dall'anno 2007. Per l'anno 2006, si applicano le disposizioni dell'articolo 188 del medesimo testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), nel testo vigente alla data del 3 luglio 2006"; 
- Ha inoltre disposto (con l'art. 2, comma 28) che "Per l'anno 2007, il tasso convenzionale di cambio di cui all'articolo 188-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come introdotto dal comma 25 del presente articolo, e' pari a 0,52135 euro per ogni franco svizzero".
+Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262) convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) ha disposto (con l'art. 2, comma 26) che "Le disposizioni dell'articolo 188-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come introdotto dal comma 25 del presente articolo, si applicano a decorrere dall'anno 2007. Per l'anno 2006, si applicano le disposizioni dell'articolo 188 del medesimo testo unico di cui al [decreto del Presidente della Repubblica n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986;917), nel testo vigente alla data del 3 luglio 2006"; 
+ Ha inoltre disposto (con l'art. 2, comma 28) che "Per l'anno 2007, il tasso convenzionale di cambio di cui all'articolo 188-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come introdotto dal comma 25 del presente articolo, e' pari a 0,52135 euro per ogni franco svizzero".
 
 ---------------
 
 AGGIORNAMENTO (161)
 
-La [L.	27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto: 
- -(con l'art. 1, comma 632) che " La percentuale di cui all'articolo 188-bis, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), come modificato dal comma 631 del presente articolo, maggiorata o ridotta in misura pari allo scostamento percentuale medio annuale registrato tra le due valute, e' stabilita con provvedimento del direttore dell'Agenzia delle entrate, da emanare, su conforme parere della Banca d'Italia, entro il 15 febbraio di ciascun anno, e non puo' comunque essere inferiore al 20 per cento"; 
+La [L.	27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto: 
+ -(con l'art. 1, comma 632) che " La percentuale di cui all'articolo 188-bis, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), come modificato dal comma 631 del presente articolo, maggiorata o ridotta in misura pari allo scostamento percentuale medio annuale registrato tra le due valute, e' stabilita con provvedimento del direttore dell'Agenzia delle entrate, da emanare, su conforme parere della Banca d'Italia, entro il 15 febbraio di ciascun anno, e non puo' comunque essere inferiore al 20 per cento"; 
  -(con l'art. 1, comma 633) che la presente modiifca si applica a decorrere dal 1º gennaio 2014".
 
 ### Art. 189. — ((Riferimenti legislativi ad imposte abolite ))

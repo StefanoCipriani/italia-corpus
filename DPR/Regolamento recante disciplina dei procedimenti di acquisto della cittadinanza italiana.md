@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
 Vista la [legge 5 febbraio 1992, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91);
 
@@ -24,7 +24,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere della competente commissione della Camera dei deputati;
 
-Considerato che il termine per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), e' scaduto in data 30 marzo 1994;
+Considerato che il termine per l'emissione del parere della competente commissione del Senato della Repubblica ai sensi dell'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' scaduto in data 30 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 aprile 1994;
 
@@ -229,7 +229,7 @@ Note all'[art. 5:
 
 1.
 
-Il Ministro dell'interno verifica periodicamente la funzionalita', la trasparenza e la speditezza dei procedimenti disciplinati dal presente regolamento e adotta tutte le misure di propria competenza per l'adeguamento della relativa disciplina ai principi ed alle disposizioni delle [leggi 7 agosto 1990, n. 241, e 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), e del presente regolamento.
+Il Ministro dell'interno verifica periodicamente la funzionalita', la trasparenza e la speditezza dei procedimenti disciplinati dal presente regolamento e adotta tutte le misure di propria competenza per l'adeguamento della relativa disciplina ai principi ed alle disposizioni delle [leggi 7 agosto 1990, n. 241, e 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e del presente regolamento.
 
 2.
 
@@ -249,7 +249,7 @@ Dalla data di entrata in vigore del presente regolamento, per i procedimenti gia
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), a decorrere dalla data di entrata in vigore del presente regolamento sono abrogate, limitatamente alle parti modificate con il presente regolamento, le seguenti norme: l'[articolo 7, comma 1, della legge 5 febbraio 1992, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91#art_7-com1), e gli [articoli 4](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md), [7](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md), [14, commi 1](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md), [2](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md) e [4 del decreto del Presidente della Repubblica 12 ottobre 1993, n. 572](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), a decorrere dalla data di entrata in vigore del presente regolamento sono abrogate, limitatamente alle parti modificate con il presente regolamento, le seguenti norme: l'[articolo 7, comma 1, della legge 5 febbraio 1992, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91#art_7-com1), e gli [articoli 4](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md), [7](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md), [14, commi 1](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md), [2](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md) e [4 del decreto del Presidente della Repubblica 12 ottobre 1993, n. 572](Regolamento%20di%20esecuzione%20della%20legge%205%20febbraio%201992%20n.%2091%20recante%20nuove%20norme%20sulla%20cittadinanza.md).
 
 Note all'art. 8:
  - Per il testo dell'[art. 2, comma 8 della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

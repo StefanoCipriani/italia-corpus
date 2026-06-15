@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Visto il [decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), concernente attuazione delle [direttive 91/156/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;156) sui rifiuti, 91/689/CEE sui rifiuti pericolosi e 94/62/CE sugli imballaggi e sui rifiuti di imballaggio, come modificato ed integrato dal [decreto legislativo 8 novembre 1997, n. 389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-08;389), e dalla [legge 9 dicembre 1998, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;426), ed in particolare l'articolo 49, che istituisce la tariffa per la gestione dei rifiuti urbani e disciplina l'elaborazione di un metodo normalizzato per definire le componenti dei costi e determinare la tariffa di riferimento;
+Visto il [decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), concernente attuazione delle [direttive 91/156/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;156) sui rifiuti, 91/689/CEE sui rifiuti pericolosi e 94/62/CE sugli imballaggi e sui rifiuti di imballaggio, come modificato ed integrato dal [decreto legislativo 8 novembre 1997, n. 389](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%205%20febbraio%201997%20n.%2022%20in%20materia%20di%20rifiuti%20di%20rifiuti%20pericolosi%20di%20imballaggi%20e%20di%20rifiuti%20di%20imballaggio.md), e dalla [legge 9 dicembre 1998, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;426), ed in particolare l'articolo 49, che istituisce la tariffa per la gestione dei rifiuti urbani e disciplina l'elaborazione di un metodo normalizzato per definire le componenti dei costi e determinare la tariffa di riferimento;
 
 Considerato che la tariffa di riferimento costituisce la base per la determinazione della tariffa, nonche' per orientare e graduare nel tempo gli adeguamenti tariffari;
 
@@ -24,7 +24,7 @@ Considerato, altresi', che la tariffa e' determinata dagli enti locali, anche in
 
 Vista la [legge 25 gennaio 1994, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-25;70), recante norme per la semplificazione degli adempimenti in materia ambientale, sanitaria e di sicurezza pubblica, nonche' per l'attuazione del sistema di ecogestione e di audit ambientale;
 
-Acquisito il parere della Conferenza unificata, istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281);
+Acquisito il parere della Conferenza unificata, istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 27 luglio 1998;
 
@@ -53,7 +53,7 @@ AVVERTENZA
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) l'organizzazione del lavoro ed i rapporti di lavoro dei pubblici dipendenti in base agli accordi sindacali.
  - Il testo dell'[art. 49 del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), e' il seguente:
- "Art. 49 (Istituzione della tariffa). - 1. La tassa per lo smaltimento dei rifiuti di cui alla sezione II del capo XVIII del titolo III del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), ed al capo III del [decreto legislativo 15 novembre 1993, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507), e' soppressa a decorrere dal 1 gennaio 1999.
+ "Art. 49 (Istituzione della tariffa). - 1. La tassa per lo smaltimento dei rifiuti di cui alla sezione II del capo XVIII del titolo III del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), ed al capo III del [decreto legislativo 15 novembre 1993, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), e' soppressa a decorrere dal 1 gennaio 1999.
  2. I costi per i servizi relativi alla gestione dei rifiuti urbani e dei rifiuti di qualunque natura o provenienza giacenti sulle strade ed aree pubbliche e soggette ad uso pubblico, sono coperti dai comuni mediante l'istituzione di una tariffa.
  3. La tariffa deve essere applicata nei confronti di chiunque occupi oppure conduca locali, o aree scoperte ad uso privato non costituenti accessorio o pertinenza dei locali medesimi, a qualsiasi uso adibiti, esistenti nelle zone del territorio comunale.
  4. La tariffa e' composta da una quota determinata in relazione alle componenti essenziali del costo del servizio, riferite in particolare agli investimenti per le opere e dai relativi ammortamenti, e da una quota rapportata alle quantita' di rifiuti conferiti, al servizio fornito, e all'entita' dei costi di gestione, in modo che sia assicurata la copertura integrale dei costi di investimento e di esercizio.
@@ -69,7 +69,7 @@ AVVERTENZA
  14. Sulla tariffa e' applicato un coefficiente di riduzione proporzionale alle quantita' di rifiuti assimilati che il produttore dimostri di aver avviato al recupero mediante attestazione rilasciata dal soggetto che effettua l'attivita' di recupero dei rifiuti stessi.
  15. La riscossione volontaria e coattiva della tariffa puo' essere effettuata con l'obbligo del non riscosso per riscosso, tramite ruolo secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e del [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
  16. In via sperimentale i comuni possono attivare il sistema tariffario anche prima del termine di cui al comma 1.
- 17. E' fatta salva l'applicazione del tributo ambientale di cui all'[art. 19 del decreto legislativo 30 dicembre 1992, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504#art_19)".
+ 17. E' fatta salva l'applicazione del tributo ambientale di cui all'[art. 19 del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md)".
  - La [legge 25 gennaio 1994, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-25;70), reca: "Norme per la semplificazione degli adempimenti in materia ambientale, sanitaria e di sicurezza pubblica, nonche' per l'attuazione del sistema di ecogestione e di audit ambientale".
 
 ## Art. 2. — Tariffa di riferimento
@@ -240,19 +240,19 @@ Gli enti locali sono tenuti a raggiungere la piena copertura dei costi del servi
                         c)
                             otto anni per i comuni che abbiano raggiunto un grado di copertura dei costi inferiore al 55%;
                         d)
-                            otto anni per i comuni che abbiano un numero di abitanti fino a 5000, qualunque sia il grado di copertura dei costi raggiunto nel 1999. PERIODO SOPPRESSO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488).
+                            otto anni per i comuni che abbiano un numero di abitanti fino a 5000, qualunque sia il grado di copertura dei costi raggiunto nel 1999. PERIODO SOPPRESSO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md).
 
 2.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488).
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md).
 
 3.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488).
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md).
 
 4.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488).
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md).
 
 ## Art. 12. — Verifica sull'applicazione del metodo normalizzato
 

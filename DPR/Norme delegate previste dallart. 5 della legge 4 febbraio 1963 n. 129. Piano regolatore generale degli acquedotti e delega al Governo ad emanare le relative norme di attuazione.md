@@ -12,9 +12,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 5 della legge 4 febbraio 1963, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-04;129#art_5), con il quale il Governo e' stato autorizzato ad emanare norme aventi valore di legge al fine di consentire l'attuazione del piano regolatore generale degli acquedotti;
+ Visto l'[art. 5 della legge 4 febbraio 1963, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20regolatore%20generale%20degli%20acquedotti%20e%20delega%20al%20Governo%20ad%20emanare%20le%20relative%20norme%20di%20attuazione.md), con il quale il Governo e' stato autorizzato ad emanare norme aventi valore di legge al fine di consentire l'attuazione del piano regolatore generale degli acquedotti;
  Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
- Sentita la commissione parlamentare prevista dallo [art. 5 della legge 4 febbraio 1963, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-04;129#art_5);
+ Sentita la commissione parlamentare prevista dallo [art. 5 della legge 4 febbraio 1963, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20regolatore%20generale%20degli%20acquedotti%20e%20delega%20al%20Governo%20ad%20emanare%20le%20relative%20norme%20di%20attuazione.md);
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Ministro per i lavori pubblici di - concerto con i Ministri per il bilancio e la programmazione economica, per le finanze, per il tesoro, per l'agricoltura e le foreste, per la sanita' e con il Ministro per gli interventi straordinari nel Mezzogiorno e nelle zone depresse del centro-nord;
 

@@ -320,7 +320,7 @@ Negli ospedali generali regionali e negli ospedali regionali specializzati in ma
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 18-26 gennaio 1990, n. 29 (in G.U. 1a s.s 31/01/1990 n. 5)ha dichiarato "l'illegittimita' costituzionale dell'[art. 23, secondo comma, del d.P.R. 27 marzo 1969, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-27;128#art_23-com2) (Ordinamento interno dei servizi ospedalieri), nella parte in cui non prevede nell'organico del servizio di virologia le posizioni funzionali di biologo coadiutore e collaboratore e di chimico coadiutore e collaboratore".
+La Corte Costituzionale con sentenza 18-26 gennaio 1990, n. 29 (in G.U. 1a s.s 31/01/1990 n. 5)ha dichiarato "l'illegittimita' costituzionale dell'[art. 23, secondo comma, del d.P.R. 27 marzo 1969, n. 128](Ordinamento%20interno%20dei%20servizi%20ospedalieri.md) (Ordinamento interno dei servizi ospedalieri), nella parte in cui non prevede nell'organico del servizio di virologia le posizioni funzionali di biologo coadiutore e collaboratore e di chimico coadiutore e collaboratore".
 
 ### Art. 24. — Servizio di prelevamento e conservazione di parti di cadavere
 

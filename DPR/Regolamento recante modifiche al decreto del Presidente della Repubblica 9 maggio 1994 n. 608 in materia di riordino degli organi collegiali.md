@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[art. 1, comma 28, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28);
+Visto l'[art. 1, comma 28, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
 
 Visto il [decreto del Presidente della Repubblica 9 maggio 1994, n. 608](Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md), recante norme sul riordinamento degli organi collegiali dello Stato;
 
@@ -60,7 +60,7 @@ Note alle premesse:
  e) escludere la presenza di rappresentanti sindacali o di categorie sociali o economiche dagli organi collegiali deliberanti in materia di ricorsi, o giudicanti in procedure di concorso".
  Note all'art. 1:
  - Il testo dell'[art. 2 del D.P.R. n. 608/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;608#art_2), come modificato dal presente decreto, e' il seguente:
- "Art. 2 (Organi collegiali soppressi). - 1. Sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com28-leta), gli organi collegiali elencati nell'allegata tabella A, che costituisce parte integrante del presente regolamento.
+ "Art. 2 (Organi collegiali soppressi). - 1. Sono soppressi, ai sensi dell'[art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), gli organi collegiali elencati nell'allegata tabella A, che costituisce parte integrante del presente regolamento.
  2. Le funzioni consultive in materia di armi e di sostanze esplosive e infiammabili sono esercitate dalla Commissione consultiva centrale controllo armi.
  3. Le funzioni di riscontro relative ai fondi alluvioni sono esercitate dal Comitato provinciale erogazione fondi alluvioni.
  4. Le funzioni relative all'erogazione di assegni o di provvidenze ai ciechi e ai sordomuti sono esercitate dalla Commissione concessioni assegni assistiti sordomuti.

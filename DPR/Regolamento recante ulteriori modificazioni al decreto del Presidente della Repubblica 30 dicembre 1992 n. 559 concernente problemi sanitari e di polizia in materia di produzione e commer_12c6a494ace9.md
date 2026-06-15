@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Visto l'[articolo 3 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_3);
+Visto l'[articolo 3 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md);
 
 Visto il [decreto del Presidente della Repubblica 30 dicembre 1992, n. 559](Regolamento%20per%20lattuazione%20della%20direttiva%2091-495-CEE%20relativa%20ai%20problemi%20sanitari%20e%20di%20polizia%20in%20materia%20di%20produzione%20e%20commer-%20cializzazione%20di%20carni%20di%20coniglio%20e%20di%20selvaggina%20dallevamento.md), recante regolamento di attuazione della [direttiva 91/495/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;495);
 
@@ -57,7 +57,7 @@ Note alle premesse:
  b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge".
- - Il testo dell'[art. 3 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_3) (Disposizioni in materia di attuazione di direttive comunitarie relative al mercato interno), e' il seguente:
+ - Il testo dell'[art. 3 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) (Disposizioni in materia di attuazione di direttive comunitarie relative al mercato interno), e' il seguente:
  "Art. 3 (Attuazione di direttive comunitarie in via regolamentare). - 1. Il Governo e' autorizzato ad attuare in via regolamentare le direttive comprese nell'elenco di cui all'allegato C della presente legge.
  2. I regolamenti di cui al comma 1 sono emanati, su proposta del Presidente del Consiglio dei Ministri o del Ministro per il coordinamento delle politiche comunitarie e per gli affari regionali, da lui delegato, entro il 31 dicembre 1992, secondo le procedure indicate dall'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17). Il parere del Consiglio di Stato e' emesso entro venti giorni dall'invio dello schema del regolamento".
  - Il [D.P.R. 30 dicembre 1992, n. 559](Regolamento%20per%20lattuazione%20della%20direttiva%2091-495-CEE%20relativa%20ai%20problemi%20sanitari%20e%20di%20polizia%20in%20materia%20di%20produzione%20e%20commer-%20cializzazione%20di%20carni%20di%20coniglio%20e%20di%20selvaggina%20dallevamento.md), reca: "Regolamento per l'attuazione della [direttiva 91/495/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;495) relativa ai problemi sanitari e di polizia in materia di produzione e commercializzazione di carni di coniglio e di selvaggina d'allevamento".

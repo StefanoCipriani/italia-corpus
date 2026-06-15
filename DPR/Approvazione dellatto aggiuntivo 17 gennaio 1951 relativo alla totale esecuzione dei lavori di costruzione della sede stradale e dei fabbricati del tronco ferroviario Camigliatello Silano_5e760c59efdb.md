@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto l'art. 5, ultimo comma, di detto atto 10 luglio 1926;
  Visto l'atto 13 maggio 1949, approvato e reso esecutorio con [decreto del Presidente della Repubblica 12 ottobre 1949, n. 971](Approvazione%20della%20Convenzione%20relativa%20alla%20concessione%20alla%20Societa%20italiana%20per%20le%20strade%20ferrate%20del%20Mediterraneo%20della%20costruzione%20e%20dellesercizio%20del%20tronco%20ferroviario%20Camigliatell_f6e6dfc33ff1.md), addizionale all'atto 10 luglio 1926, relativo alla concessione della costruzione e dell'esercizio del tronco ferroviario Camigliatello Silano San Giovanni in Fiore;
  Visto l'[art. 5 del decreto legislativo del Capo provvisorio dello Stato 29 novembre 1946, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-29;457#art_5);
- Visto l'[art. 10 del decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121#art_10);
+ Visto l'[art. 10 del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md);
  Vista la [legge 15 dicembre 1949, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-15;967);
  Vista la [legge 21 novembre 1950, n. 1007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-21;1007);
  Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);

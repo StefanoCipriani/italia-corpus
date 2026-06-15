@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazione;
 
-Veduto il [decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172), ratificato con modifiche con [legge 24 giugno 1950, numero 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;464);
+Veduto il [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), ratificato con modifiche con [legge 24 giugno 1950, numero 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;464);
 
 Veduta la legge della Regione siciliana 31 maggio 1960, n. 18; Sulla proposta del Ministro per la pubblica istituzione di concerto con quello per il tesoro;
 

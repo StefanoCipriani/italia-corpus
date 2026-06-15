@@ -131,7 +131,7 @@ alla data del conseguimento di quello successivo. (2) ((3))
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto: 
+Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto: 
  -(con l'art. 2, comma 1) che gli stipendi stabiliti dal presente articolo, comprensivi del conglobamento dell'elemento distinto della retribuzione di cui all'[art. 7 del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_7), convertito dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md), "sono incrementati, a regime, delle seguenti misure mensili lorde: 
  
 
@@ -214,7 +214,7 @@ Livello V L. 11.677.000
 ---------------
 
 AGGIORNAMENTO (3)
- Il [D.P.R. 10 maggio 1996, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-05-10;359), nel modificare il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto:
+ Il [D.P.R. 10 maggio 1996, n. 359](Recepimento%20dellaccordo%20sindacale%20e%20del%20provvedimento%20di%20concertazione%20del%2018%20aprile%201996%20riguardante%20il%20biennio%201996-1997%20per%20gli%20aspetti%20retributivi%20per%20il%20personale%20non%20dirigente%20delle_30db192ad6d4.md), nel modificare il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto:
 
 - (con l'art. 2, comma 1) che gli stipendi stabiliti dal presente articolo 2, sono incrementati, a regime, dalle seguenti misure mensili
 lorde:
@@ -266,7 +266,7 @@ Livello VII-bis .. L. 19.225.000
 Livello VIII . .. L. 20.571.000
 Livello IX ... L. 23.639.000".
 
- Lo stesso D.P.R., nel modificare il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha inoltre disposto:
+ Lo stesso D.P.R., nel modificare il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha inoltre disposto:
  - (con l'art. 11, comma 1) che gli stipendi stabiliti dal
 presente articolo sono incrementati, a regime, delle seguenti misure
 mensili lorde:
@@ -406,7 +406,7 @@ Vice questore aggiunto . . . . . . . 3.200.000 4.500.000 (2)
 ----------------
 
 AGGIORNAMENTO (2)
- Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto:
+ Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto:
  - (con l'art. 5, comma 1) che l'assegno funzionale pensionabile di cui al presente articolo, e' dovuto nei seguenti importi annui lordi: 
 
  19 anni 29 anni
@@ -461,7 +461,7 @@ ruoli inferiori, gli assegni funzionali pensionabili di cui all'[art. 5 del decr
 ----------------
 
 AGGIORNAMENTO (3)
- Il [D.P.R. 10 maggio 1996, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-05-10;359) ha disposto:
+ Il [D.P.R. 10 maggio 1996, n. 359](Recepimento%20dellaccordo%20sindacale%20e%20del%20provvedimento%20di%20concertazione%20del%2018%20aprile%201996%20riguardante%20il%20biennio%201996-1997%20per%20gli%20aspetti%20retributivi%20per%20il%20personale%20non%20dirigente%20delle_30db192ad6d4.md) ha disposto:
  - (con l'art. 5, comma 1) che l'assegno funzionale pensionabile di
 cui al presente articolo, nelle misure derivanti dall'[art. 5 del
 decreto del Presidente della Repubblica n. 395/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995;395#art_5), a decorrere
@@ -502,7 +502,7 @@ Ruolo appuntati e carabinieri e
 appuntati finanzieri 1.365.000 1.785.000 
 Ruolo sovrintendenti 1.785.000 2.625.000 
 Ruolo degli ispettori 1.820.000 2.675.000 
- Lo stesso D.P.R., nel modificare il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395), ha conseguentemente disposto:
+ Lo stesso D.P.R., nel modificare il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md), ha conseguentemente disposto:
  - (con l'art. 14, comma 2) che per gli ufficiali provenienti dai ruoli inferiori, gli assegni funzionali pensionabili di cui al
 presente articolo, a decorrere dal 1 luglio 1996 sono rideterminati
 nei seguenti importi annui lordi, rispettivamente al compimento
@@ -522,7 +522,7 @@ degli anni di servizio sottoindicati:
 ----------------
 
 AGGIORNAMENTO (4)
- Il [D.P.R. 16 marzo 1999, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-03-16;254) ha disposto:
+ Il [D.P.R. 16 marzo 1999, n. 254](Recepimento%20dellaccordo%20sindacale%20per%20le%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20e%20del%20provvedimento%20di%20concertazione%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20militare%20relativi%20al%20quadriennio_06aaf172ad89.md) ha disposto:
  - (con l'art. 5, comma 1) che l'assegno funzionale pensionabile di
 cui al presente articolo, nelle misure derivanti dall'[articolo 5 del
 decreto del Presidente della Repubblica n. 359 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996;359#art_5), e' fissato
@@ -572,7 +572,7 @@ Vice questore aggiunto " " 3.360.000 4.725.000
 
  - (con l'art. 45, comma 1) che gli assegni funzionali pensionabili
 di cui al presente articolo, nelle misure derivanti dall'[articolo
-14 del decreto del Presidente della Repubblica 10 maggio 1996, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-05-10;359#art_14),
+14 del decreto del Presidente della Repubblica 10 maggio 1996, n. 359](Recepimento%20dellaccordo%20sindacale%20e%20del%20provvedimento%20di%20concertazione%20del%2018%20aprile%201996%20riguardante%20il%20biennio%201996-1997%20per%20gli%20aspetti%20retributivi%20per%20il%20personale%20non%20dirigente%20delle_30db192ad6d4.md),
 sono fissati nei seguenti importi annui lordi, rispettivamente al
 compimento degli anni di servizio sottoindicati:
 
@@ -599,7 +599,7 @@ Maresciallo aiutante
 ----------------
 
 AGGIORNAMENTO (5)
- Il [D.P.R. 9 febbraio 2001, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-09;140), nel modificare il [D.P.R. 16 marzo 1999, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-03-16;254), ha conseguentemente disposto:
+ Il [D.P.R. 9 febbraio 2001, n. 140](Recepimento%20dellaccordo%20sindacale%20per%20le%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20e%20del%20provvedimento%20di%20concertazione%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20militare%20relativi%20al%20biennio%20eco_14ce8508c6da.md), nel modificare il [D.P.R. 16 marzo 1999, n. 254](Recepimento%20dellaccordo%20sindacale%20per%20le%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20e%20del%20provvedimento%20di%20concertazione%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20militare%20relativi%20al%20quadriennio_06aaf172ad89.md), ha conseguentemente disposto:
  - (con l'art. 5, comma 1) che le misure dell'assegno di cui al presente articolo, a decorrere dal 1° gennaio 2001, fermi restando i
 requisiti previsti dal medesimo articolo, sono rideterrninate nei
 seguenti importi annui lordi, rispettivamente al compimento degli anni
@@ -753,8 +753,8 @@ L'indennita' e' ridotta del cinquanta per cento qualora il dipendente in mission
 ----------------
 
 AGGIORNAMENTO (2)
-Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto (con l'art. 6, comma
-1) che "Fermo restando quanto previsto dall'[art. 8 del decreto del Presidente della Repubblica 5 giugno 1990, n.147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-06-05;147#art_8), i limiti di spesa per i pasti da consumare per incarichi di missione aventi durata non inferiore ad otto ore sono determinati come segue:
+Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto (con l'art. 6, comma
+1) che "Fermo restando quanto previsto dall'[art. 8 del decreto del Presidente della Repubblica 5 giugno 1990, n.147](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2022%20dicembre%201989%20concernente%20il%20personale%20della%20Polizia%20di%20Stato.md), i limiti di spesa per i pasti da consumare per incarichi di missione aventi durata non inferiore ad otto ore sono determinati come segue:
 L. 42.000 per un pasto;
 L. 83.600 per due pasti".
 
@@ -764,7 +764,7 @@ L. 83.600 per due pasti".
 
  
 AGGIORNAMENTO (3) 
- Il [D.P.R. 10 maggio 1996, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-05-10;359) ha disposto (con gli artt. 6, comma 1 e 15, comma 1) che "A decorrere dal primo giorno del mese successivo all'entrata in vigore del presente decreto, le percentuali indicate all'[art. 8, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-06-05;147#art_8-com3) e [7, del decreto del Presidente della Repubblica 5 giugno 1990, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-06-05;147#art_8-com7), sono rideterminate entrambe nella misura del 40 per cento".
+ Il [D.P.R. 10 maggio 1996, n. 359](Recepimento%20dellaccordo%20sindacale%20e%20del%20provvedimento%20di%20concertazione%20del%2018%20aprile%201996%20riguardante%20il%20biennio%201996-1997%20per%20gli%20aspetti%20retributivi%20per%20il%20personale%20non%20dirigente%20delle_30db192ad6d4.md) ha disposto (con gli artt. 6, comma 1 e 15, comma 1) che "A decorrere dal primo giorno del mese successivo all'entrata in vigore del presente decreto, le percentuali indicate all'[art. 8, commi 3](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2022%20dicembre%201989%20concernente%20il%20personale%20della%20Polizia%20di%20Stato.md) e [7, del decreto del Presidente della Repubblica 5 giugno 1990, n. 147](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2022%20dicembre%201989%20concernente%20il%20personale%20della%20Polizia%20di%20Stato.md), sono rideterminate entrambe nella misura del 40 per cento".
 
 ## Art. 9. — Indennita' integrativa speciale nella tredicesima mensilita'
 
@@ -856,7 +856,7 @@ La maggiorazione di cui al comma 1 non e' cumulabile con quella prevista nell'ar
 
  
 AGGIORNAMENTO (2a) 
- Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto (con l'art. 8, comma 1) che "A decorrere dal 1 novembre 1995, al personale che assicura la presenza qualificata di cui all'[art. 11 del decreto del Presidente della Repubblica 5 giugno 1990, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-06-05;147#art_11), e' corrisposta una indennita' nella misura di L. 8.500 lorde per ciascun turno".
+ Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto (con l'art. 8, comma 1) che "A decorrere dal 1 novembre 1995, al personale che assicura la presenza qualificata di cui all'[art. 11 del decreto del Presidente della Repubblica 5 giugno 1990, n. 147](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2022%20dicembre%201989%20concernente%20il%20personale%20della%20Polizia%20di%20Stato.md), e' corrisposta una indennita' nella misura di L. 8.500 lorde per ciascun turno".
 
 ## Art. 12. — Servizi esterni
 
@@ -963,7 +963,7 @@ L'aspettativa per motivi sindacali di cui agli [articoli 88](https://www.normatt
 
  
 AGGIORNAMENTO (2) 
- Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto (con l'art. 27, comma 6) che a partire dal 1 gennaio 1996 il presente articolo cessa di avere efficacia.
+ Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto (con l'art. 27, comma 6) che a partire dal 1 gennaio 1996 il presente articolo cessa di avere efficacia.
 
 ## Art. 18. — Permessi sindacali retribuiti
 
@@ -983,7 +983,7 @@ I permessi sindacali sono concessi salve inderogabili ed eccezionali esigenze di
 
  
 AGGIORNAMENTO (2) 
- Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto (con l'art. 28, comma 9) che a partire dal 1 gennaio 1996 il presente articolo cessa di avere efficacia.
+ Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto (con l'art. 28, comma 9) che a partire dal 1 gennaio 1996 il presente articolo cessa di avere efficacia.
 
 ## Art. 19. — Monte orario complessivo dei permessi sindacali
 
@@ -1015,7 +1015,7 @@ Oltre ai permessi retribuiti di cui all'art. 18, possono essere concessi, salve 
 
  
 AGGIORNAMENTO (2) 
- Il [D.P.R. 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395) ha disposto (con l'art. 28, comma 9) che a partire dal 1 gennaio 1996 il presente articolo cessa di avere efficacia.
+ Il [D.P.R. 31 luglio 1995, n. 395](Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md) ha disposto (con l'art. 28, comma 9) che a partire dal 1 gennaio 1996 il presente articolo cessa di avere efficacia.
 
 ## Art. 20. — Igiene e sicurezza del lavoro
 

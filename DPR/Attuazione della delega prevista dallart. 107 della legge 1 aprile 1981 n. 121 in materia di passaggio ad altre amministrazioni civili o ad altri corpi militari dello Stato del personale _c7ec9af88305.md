@@ -42,7 +42,7 @@ L'accesso alla qualifica funzionale di livello superiore e la progressione nelle
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 19 maggio 2000, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-19;139) ha disposto (con l'art. 38, comma 1) che le posizioni soprannumerarie nelle diverse qualifiche del personale della carriera prefettizia esistenti alla data di entrata in vigore del presente decreto "sono soppresse e il relativo personale mantiene la posizione nel ruolo di provenienza ai fini del primo inquadramento nelle nuove qualifiche ai sensi dell'articolo 34".
+Il [D.Lgs. 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md) ha disposto (con l'art. 38, comma 1) che le posizioni soprannumerarie nelle diverse qualifiche del personale della carriera prefettizia esistenti alla data di entrata in vigore del presente decreto "sono soppresse e il relativo personale mantiene la posizione nel ruolo di provenienza ai fini del primo inquadramento nelle nuove qualifiche ai sensi dell'articolo 34".
 
 ## Art. 3.
 

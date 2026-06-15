@@ -20,9 +20,9 @@ Visto il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](Approv
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e successive modificazioni;
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
-Visto l'[articolo 2, commi 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com634) e [635, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com635);
+Visto l'[articolo 2, commi 634](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) e [635, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md);
 
 Visti gli [articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_26) e [74 del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_74), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md);
 
@@ -32,7 +32,7 @@ Visto l'[articolo 2, comma 8-bis, del decreto-legge 30 dicembre 2009, n. 194](..
 
 Sentite le Organizzazioni sindacali;
 
-Ritenuto di dover procedere alla razionalizzazione degli organi, alla riduzione della pianta organica ed al contenimento delle spese dell'Istituto agronomico per l'Oltremare, secondo i criteri del citato [articolo 2, comma 634, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com634), che risultano applicabili al presente riordino;
+Ritenuto di dover procedere alla razionalizzazione degli organi, alla riduzione della pianta organica ed al contenimento delle spese dell'Istituto agronomico per l'Oltremare, secondo i criteri del citato [articolo 2, comma 634, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), che risultano applicabili al presente riordino;
 
 Ritenuto, in particolare, non applicabile il criterio di cui alla lettera i) del citato [articolo 2, comma 634, della legge n. 244 del 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007;244#art_2-com634), dal momento che le funzioni di vigilanza sull'Istituto sono affidate al Ministero degli affari esteri, senza che ad esse sia preposto specificatamente alcun ufficio dirigenziale;
 
@@ -64,7 +64,7 @@ Lo IAO e' dotato di autonomia scientifica, statutaria, organizzativa, amministra
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 2. — Compiti
@@ -95,7 +95,7 @@ Nell'ambito delle attivita' di cui al comma 2, lo IAO collabora, anche su incari
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 3. — Organi
@@ -114,7 +114,7 @@ Sono organi dello IAO:
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 4. — Direttore generale
@@ -157,7 +157,7 @@ Il Direttore generale trasmette al Ministro degli affari esteri una relazione an
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 5. — Comitato di gestione
@@ -204,7 +204,7 @@ Nessun compenso e' dovuto ai membri del Comitato di gestione, fatti salvi eventu
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 6. — Regolamento di organizzazione
@@ -227,7 +227,7 @@ Il regolamento di cui al comma 1, tra l'altro, definisce, secondo criteri di eff
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 7. — Amministrazione e contabilita'
@@ -242,7 +242,7 @@ Lo IAO provvede alla gestione amministrativa e contabile con regolamento deliber
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 8. — Personale
@@ -261,7 +261,7 @@ La dotazione organica del personale appartenente allo IAO e' determinata dall'al
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 9. — Fonti di finanziamento
@@ -286,7 +286,7 @@ Al conseguimento dei fini istituzionali lo IAO provvede, ai sensi dell'articolo 
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 10. — Abrogazioni
@@ -301,7 +301,7 @@ A decorrere dalla data di entrata in vigore del presente regolamento, sono abrog
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 11. — Disposizioni transitorie e finali
@@ -325,7 +325,7 @@ Dall'attuazione del presente regolamento non derivano nuovi o maggiori oneri a c
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera i)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243)". 
+ i) il regolamento di cui al [decreto del Presidente della Repubblica 29 ottobre 2010, n. 243](Regolamento%20recante%20il%20riordino%20dellIstituto%20agronomico%20per%20lOltremare%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_4195e6ea53a9.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -14,7 +14,7 @@ Visto l'[art. 32 del regio decreto-legge 13 aprile 1939, n. 652](https://www.nor
 
 Vista la [legge 8 marzo 1943, n. 153](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.%20043U0153.md), modificata con [decreto legislativo luogotenenziale 23 novembre 1941, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1941-11-23;408);
 
-Visto il [decreto legislativo 8 aprile 1948, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-08;514);
+Visto il [decreto legislativo 8 aprile 1948, n. 514](../Decreti%20Legislativi/Modificazioni%20alla%20legge%20sul%20nuovo%20catasto%20edilizio%20urbano%20e%20alla%20legge%20sulla%20costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -33,7 +33,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 10 - 15 luglio 1985, n. 206 (in G.U. 1ª s.s. 24/07/1985, n. 173), "dichiara, in ordine allo stesso ricorso n. 23 Reg. confl. 1976, che non spetta allo Stato approvare la convenzione con la RAI relativa ai programmi televisivi e radiofonici in lingua tedesca e radiofonici in lingua ladina per la Provincia di Bolzano senza previo invito al Presidente della Provincia a intervenire alla relativa seduta del Consiglio dei ministri, e conseguentemente annulla il [d.P.R. 9 dicembre 1975, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-12-09;860), che approva la detta convenzione".
+La Corte Costituzionale, con sentenza 10 - 15 luglio 1985, n. 206 (in G.U. 1ª s.s. 24/07/1985, n. 173), "dichiara, in ordine allo stesso ricorso n. 23 Reg. confl. 1976, che non spetta allo Stato approvare la convenzione con la RAI relativa ai programmi televisivi e radiofonici in lingua tedesca e radiofonici in lingua ladina per la Provincia di Bolzano senza previo invito al Presidente della Provincia a intervenire alla relativa seduta del Consiglio dei ministri, e conseguentemente annulla il [d.P.R. 9 dicembre 1975, n. 860](Approvazione%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20programmi%20televisivi%20e%20radiofonici%20destinati%20a%20stazioni%20radiofoniche%20e%20televisive%20in%20lingua%20tedesca%20e%20radiofonica%20in%20ladino%20per%20la_bc1d95091d62.md), che approva la detta convenzione".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto legislativo luogotenenziale 1 marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82#art_4);
+Visto l'[art. 4 del decreto legislativo luogotenenziale 1 marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
 Visto il [regio decreto 25 novembre 1940, n. 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-25;1969), con il quale sono state approvate e rese obbligatorie le Norme per l'esecuzione delle linee elettriche aeree esterne;
 

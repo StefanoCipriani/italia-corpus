@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 6 dicembre 1978, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-06;835), concernente delega al Governo ad emanare nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto;
+Vista la [legge 6 dicembre 1978, n. 835](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), concernente delega al Governo ad emanare nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto;
 
-Udito il parere della commissione parlamentare di cui all'art. 3, comma primo, della suddetta [legge 6 dicembre 1978, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-06;835);
+Udito il parere della commissione parlamentare di cui all'art. 3, comma primo, della suddetta [legge 6 dicembre 1978, n. 835](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md);
 
 Udito il parere della commissione parlamentare per le questioni regionali di cui all'[art. 52 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_52), e successive integrazioni;
 
@@ -347,7 +347,7 @@ Le sanzioni amministrative sono applicate secondo la disciplina del Capo I della
 
 AGGIORNAMENTO (3)
 
-Il [D. Lgs. 27 gennaio 2010, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-68-CE%20relativa%20al%20trasporto%20interno%20di%20merci%20pericolose.%2010G0049.md) ha disposto (con l'art. 7, commi 2 e 3) che "2. All'espletamento delle attivita' autorizzative di cui al [comma 5 dell'articolo 35 del decreto del Presidente della Repubblica 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753#art_35-com5), come modificato dal comma 1, si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente. 
+Il [D. Lgs. 27 gennaio 2010, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-68-CE%20relativa%20al%20trasporto%20interno%20di%20merci%20pericolose.%2010G0049.md) ha disposto (con l'art. 7, commi 2 e 3) che "2. All'espletamento delle attivita' autorizzative di cui al [comma 5 dell'articolo 35 del decreto del Presidente della Repubblica 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), come modificato dal comma 1, si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente. 
  3. I proventi delle ammende irrogate ai sensi dei commi 8, 9, 10, 11 e 12 dell'articolo 35 del citato [decreto del Presidente della Repubblica n. 753 del 1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;753), come modificato dal comma 1, sono versati all'entrata del bilancio dello Stato."
 
 ## DISCIPLINA DELLE SEPARAZIONI DELLE PROPRIETA' LATERALI DALLA SEDE FERROVIARIA E DI ALTRI SERVIZI DI TRASPORTO, DELLE SERVITU' E DELL'ATTIVITA' DI TERZI IN PROSSIMITA' DELLA SEDE FERROVIARIA AI FINI DELLA TUTELA DELLA SICUREZZA DELL'ESERCIZIO
@@ -955,7 +955,7 @@ Salvo quanto previsto dal precedente art. 103, sono abrogati:
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 12 novembre 1993, n. 400 (in G.U. 1a s.s. 24/11/1993, n. 48) ha dichiarato "l'illegittimita' costituzionale dell'[art. 104 del d.P.R. 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753#art_104) (Nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto), nella parte in cui dispone l'abrogazione dell'[art. 17, lett. c), del r.d.l. 19 ottobre 1923, n. 2328](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20formazione%20degli%20orari%20e%20dei%20turni%20di%20servizio%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20in%20concessione.%20023U2328.md)".
+La Corte Costituzionale con sentenza 12 novembre 1993, n. 400 (in G.U. 1a s.s. 24/11/1993, n. 48) ha dichiarato "l'illegittimita' costituzionale dell'[art. 104 del d.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) (Nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto), nella parte in cui dispone l'abrogazione dell'[art. 17, lett. c), del r.d.l. 19 ottobre 1923, n. 2328](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20formazione%20degli%20orari%20e%20dei%20turni%20di%20servizio%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20in%20concessione.%20023U2328.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

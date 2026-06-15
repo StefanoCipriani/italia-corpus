@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, concernente l'istituzione e la disciplina dell'imposta sul valore aggiunto;
 
-Visto l'[articolo 3, comma 137, lettera c), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com137-letc), che autorizza il Governo all'emanazione del regolamento concernente la previsione, in presenza di provvedimento di diniego del rimborso dell'imposta sul valore aggiunto, con contestuale riconoscimento del credito, della possibilita' di computare il medesimo in detrazione nella liquidazione periodica successiva alla comunicazione dell'ufficio, ovvero nella dichiarazione annuale;
+Visto l'[articolo 3, comma 137, lettera c), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), che autorizza il Governo all'emanazione del regolamento concernente la previsione, in presenza di provvedimento di diniego del rimborso dell'imposta sul valore aggiunto, con contestuale riconoscimento del credito, della possibilita' di computare il medesimo in detrazione nella liquidazione periodica successiva alla comunicazione dell'ufficio, ovvero nella dichiarazione annuale;
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza della Sezione consultiva per gli atti normativi del 14 luglio 1997;
 
@@ -44,7 +44,7 @@ In caso di proposizione di ricorso da parte del contribuente avverso il provvedi
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 7 dicembre 2001, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435) ha disposto (con l'art. 19, comma 4) che "Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002."
+Il [D.P.R. 7 dicembre 2001, n. 435](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che "Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002."
 
 ## Art. 2. — Inapplicabilita' degli interessi
 

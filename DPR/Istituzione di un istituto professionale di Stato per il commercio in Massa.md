@@ -18,7 +18,7 @@ Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20n
 
 Veduto il [decreto del Presidente della Repubblica 15 gennaio 1972, n. 10](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20istruzione%20artigiana%20e%20professionale%20e%20del%20relativo%20personale.md);
 
-Veduta la [legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477);
+Veduta la [legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md);
 
 Veduti i decreti del Presidente della Repubblica 31
 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_4);
  Visto il [regio decreto 9 dicembre 1937, n. 2141](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari%20nel%20Regno.%20037U2141.md), sulla revisione della tabella che determina il numero e la residenza dei notai;
- Visto il [decreto legislativo 6 marzo 1948, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-06;518);
+ Visto il [decreto legislativo 6 marzo 1948, n. 518](../Decreti%20Legislativi/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notai.md);
  Ritenuta l'opportunita' di sopprimere la sede notarile di San Marziano sul Sarno del distretto notarile di Salerno;
  Visti i pareri della Corte di appello di Napoli e del Consiglio notarile di Salerno;
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;

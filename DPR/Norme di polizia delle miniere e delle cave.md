@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 4 marzo 1958, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-04;198), che delega il Governo ad emanare norme in materia di polizia delle miniere e delle cave e per la riforma del Consiglio superiore delle miniere;
+Vista la [legge 4 marzo 1958, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20in%20materia%20di%20polizia%20delle%20miniere%20e%20delle%20cave%20e%20per%20la%20riforma%20del%20Consiglio%20superiore%20delle%20miniere.md), che delega il Governo ad emanare norme in materia di polizia delle miniere e delle cave e per la riforma del Consiglio superiore delle miniere;
 
 Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 
@@ -39,7 +39,7 @@ Le norme di polizia delle miniere e delle cave provvedono a tutelare la sicurezz
 
 ### Art. 2.
 
-Nei lavori che si svolgono negli impianti di trattamento dei minerali e in quelli connessi con le miniere e con le cave, di cui all'ultimo capoverso dell'[art. 1 della legge 4 marzo 1958, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-04;198#art_1), nonche' nei lavori che si svolgono nelle pertinenze delle miniere, di cui al comma c) dell'art. 1 del presente decreto, si applicano, ove non diversamente disposto, le norme emanate in esecuzione della, [legge 12 febbraio 1955, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;51), contenente delega al potere esecutivo ad emanare norme generali e speciali in materia di prevenzione degli infortuni e di igiene del lavoro e successive aggiunte o modificazioni.
+Nei lavori che si svolgono negli impianti di trattamento dei minerali e in quelli connessi con le miniere e con le cave, di cui all'ultimo capoverso dell'[art. 1 della legge 4 marzo 1958, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20in%20materia%20di%20polizia%20delle%20miniere%20e%20delle%20cave%20e%20per%20la%20riforma%20del%20Consiglio%20superiore%20delle%20miniere.md), nonche' nei lavori che si svolgono nelle pertinenze delle miniere, di cui al comma c) dell'art. 1 del presente decreto, si applicano, ove non diversamente disposto, le norme emanate in esecuzione della, [legge 12 febbraio 1955, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20generali%20e%20speciali%20in%20materia%20di%20prevenzione%20degli%20infortuni%20e%20di%20igiene%20del%20lavoro.md), contenente delega al potere esecutivo ad emanare norme generali e speciali in materia di prevenzione degli infortuni e di igiene del lavoro e successive aggiunte o modificazioni.
  L'applicazione delle norme predette e' di competenza del Ministero dell'industria, e del commercio e le attribuzioni ivi demandate all'Ispettorato del lavoro sono devolute al Corpo delle miniere.
 
 ### Art. 3.
@@ -2078,7 +2078,7 @@ Gli esplosivi allo stato granulare o pulverulento non possono essere versati sci
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 novembre 1996, n. 624](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md) ha disposto (con l'art. 36, comma 1) che "Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_46), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_336-com1), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, 
+Il [D.Lgs. 25 novembre 1996, n. 624](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md) ha disposto (con l'art. 36, comma 1) che "Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_46), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, 
 dall'autorita' di vigilanza."
 
 ### Art. 337.
@@ -4209,7 +4209,7 @@ E' punita con l'ammenda da L. 100.000 a L. 1.000.000 la violazione delle norme d
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758) ha disposto (con l'art. 26, comma 34) che "Nel [primo comma dell'art. 681 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_681-com1), le parole: "con l'ammenda da lire 500.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire tre milioni a lire venti milioni".
+Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 34) che "Nel [primo comma dell'art. 681 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 500.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire tre milioni a lire venti milioni".
 
 ### Art. 682.
 
@@ -4223,7 +4223,7 @@ applicano congiuntamente
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758) ha disposto (con l'art. 26, comma 35) che "Il [primo comma dell'art. 682 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_682-com1), e' cosi' modificato: 
+Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 35) che "Il [primo comma dell'art. 682 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
  a) nella lettera a), le parole: "con l'arresto fino a sei mesi o con l'ammenda da lire 1.500.000 a lire 7.500.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire cinque milioni a lire trenta milioni", e l'ultimo periodo e' soppresso; 
  b) nella lettera b), le parole: "con l'ammenda da lire 500.000 a lire 2.500.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire due milioni a lire dieci milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 150.000 a lire 750.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire tre milioni".
@@ -4239,7 +4239,7 @@ I capi servizio, i sorveglianti e gli altri preposti sono puniti:
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758) ha disposto (con l'art. 26, comma 36) che "Il [primo comma dell'art. 683 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_683-com1), e' cosi' modificato: 
+Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 36) che "Il [primo comma dell'art. 683 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
  a) nella lettera a), le parole: "con l'arresto fino a sei mesi o con l'ammenda da lire 150.000 a lire 750.000" sono sostituite dalle seguenti: "con l'arresto da due a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni", e l'ultimo periodo e' soppresso; 
  b) nella lettera b), le parole: "con l'ammenda da lire 50.000 a lire 250.000" sono sostituite dalle seguenti: "con l'arresto da uno a tre mesi o con l'ammenda da lire un milione a lire quattro milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 15.000 a lire 75.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
@@ -4255,7 +4255,7 @@ I lavoratori sono puniti:
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758) ha disposto (con l'art. 26, comma 37) che "Il [primo comma dell'art. 684 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_684-com1), e' cosi' modificato: 
+Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 37) che "Il [primo comma dell'art. 684 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
  a) nella lettera a), le parole: "con l'ammenda da lire 50.000 a lire 150.000" sono sostituite dalle seguenti: "con l'ammenda da lire cinquecentomila a lire tre milioni", e l'ultimo periodo e' soppresso; 
  b) nella lettera b), le parole: "con l'ammenda da lire 15.000 a lire 50.000" sono sostituite con le seguenti: "con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milione cinquecentomila"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 5.000 a lire 25.000" sono sostituite dalle seguenti: "con l'arresto fino a quindici giorni o con l'ammenda da lire duecentomila a lire ottocentomila".
@@ -4268,7 +4268,7 @@ Fuori delle ipotesi previste dagli articoli precedenti, chiunque violi le norme 
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758) ha disposto (con l'art. 26, comma 38) che "Nell'[art. 685 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_685), le parole: "con l'ammenda da lire 25.000 a lire 250.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire trecentomila a lire due milioni".
+Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 38) che "Nell'[art. 685 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 25.000 a lire 250.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire trecentomila a lire due milioni".
 
 ### Art. 686.
 
@@ -4279,7 +4279,7 @@ I direttori, i capi servizio, i sorveglianti e gli altri preposti, nonche' i lav
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758) ha disposto (con l'art. 26, comma 39) che " Nel [primo comma dell'art. 686 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_686-com1), le parole: "con l'ammenda da lire 50.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da uno a sei mesi o con l'ammenda da lire tre milioni a lire venti milioni".
+Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 39) che " Nel [primo comma dell'art. 686 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 50.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da uno a sei mesi o con l'ammenda da lire tre milioni a lire venti milioni".
 
 ## Disposizioni finali e transitorie
 

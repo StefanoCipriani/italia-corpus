@@ -36,7 +36,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4318), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Massari%20Maria%20Teresa%20in%20Francesco%20in%20comune%20di%20Portomaggiore%20Ferrara.md), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4318), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Massari%20Maria%20Teresa%20in%20Francesco%20in%20comune%20di%20Portomaggiore%20Ferrara.md), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
 
 ## Art. 3.
 
@@ -56,7 +56,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni in
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4318), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Massari%20Maria%20Teresa%20in%20Francesco%20in%20comune%20di%20Portomaggiore%20Ferrara.md), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4318), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
+La Corte Costituzionale, con sentenza 17 marzo-4 aprile 1967, n. 39 (in G.U. 1a s.s. 08/04/1967, n. 89), ha dichiarato "la illegittimita' costituzionale del [D.P.R. 28 dicembre 1952, n. 4318](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Massari%20Maria%20Teresa%20in%20Francesco%20in%20comune%20di%20Portomaggiore%20Ferrara.md), in quanto la quota di esproprio e' stata determinata con riferimento alla consistenza fondiaria posteriore al 15 novembre 1949."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

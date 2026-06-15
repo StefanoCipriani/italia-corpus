@@ -30,7 +30,7 @@ E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera 
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1244), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
+La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](Trasferimento%20in%20proprieta%20allOpera%20per%20la%20valorizzazione%20della%20Sila%20di%20terreni%20di%20proprieta%20di%20Berlingieri%20Clementina%20di%20Francesco%20in%20comune%20di%20Parenti%20Cosenza.md), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ I terreni, indicati nel precedente articolo e specificamente designati nell'elen
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1244), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
+La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](Trasferimento%20in%20proprieta%20allOpera%20per%20la%20valorizzazione%20della%20Sila%20di%20terreni%20di%20proprieta%20di%20Berlingieri%20Clementina%20di%20Francesco%20in%20comune%20di%20Parenti%20Cosenza.md), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione 
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1244), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
+La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](Trasferimento%20in%20proprieta%20allOpera%20per%20la%20valorizzazione%20della%20Sila%20di%20terreni%20di%20proprieta%20di%20Berlingieri%20Clementina%20di%20Francesco%20in%20comune%20di%20Parenti%20Cosenza.md), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
 
 ## Art. 4.
 
@@ -60,7 +60,7 @@ L'elenco dei terreni con l'indicazione dell'indennita' di espropriazione offerta
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1244), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
+La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del [decreto del Presidente della Repubblica 4 novembre 1951, n. 1244](Trasferimento%20in%20proprieta%20allOpera%20per%20la%20valorizzazione%20della%20Sila%20di%20terreni%20di%20proprieta%20di%20Berlingieri%20Clementina%20di%20Francesco%20in%20comune%20di%20Parenti%20Cosenza.md), in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto privato espropriato."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

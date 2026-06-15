@@ -45,7 +45,7 @@ Il primo comma dell'articolo 3 e' sostituito dal seguente:
 4.
 
 La lettera a) del secondo comma dell'articolo 4 e' sostituita dalla seguente:
- " a) il contratto ha durata annuale ed e' normalmente rinnovabile fino a un massimo di quattro anni, in ogni caso, valutate le condizioni di convenienza e di pubblico interesse di cui all'[articolo 6, comma 2, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_6-com2), come sostituito dall'[art. 44 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_44). L'appalto assunto da una ditta individuale cessa comunque entro il 31 dicembre dell'anno di compimento da parte dell'appaltatore dell'eta' prevista dalla legge quale limite massimo dell'eta' lavorativa".
+ " a) il contratto ha durata annuale ed e' normalmente rinnovabile fino a un massimo di quattro anni, in ogni caso, valutate le condizioni di convenienza e di pubblico interesse di cui all'[articolo 6, comma 2, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), come sostituito dall'[art. 44 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md). L'appalto assunto da una ditta individuale cessa comunque entro il 31 dicembre dell'anno di compimento da parte dell'appaltatore dell'eta' prevista dalla legge quale limite massimo dell'eta' lavorativa".
 
 5.
 

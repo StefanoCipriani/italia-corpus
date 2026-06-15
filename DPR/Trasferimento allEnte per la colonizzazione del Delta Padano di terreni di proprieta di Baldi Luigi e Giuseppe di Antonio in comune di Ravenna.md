@@ -38,7 +38,7 @@ Sono approvati i piani particolareggiati di espropriazione compilati dall'Ente p
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3790), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
+La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](Trasferimento%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Baldi%20Luigi%20e%20Giuseppe%20di%20Antonio%20in%20comune%20di%20Ravenna.md), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3790), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
+La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](Trasferimento%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Baldi%20Luigi%20e%20Giuseppe%20di%20Antonio%20in%20comune%20di%20Ravenna.md), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
 
 ## Art. 3.
 
@@ -58,7 +58,7 @@ E' ordinata l'immediata occupazione da parte dell'Ente predetto, dei terreni ind
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3790), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
+La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](Trasferimento%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Baldi%20Luigi%20e%20Giuseppe%20di%20Antonio%20in%20comune%20di%20Ravenna.md), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3790), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
+La Corte Costituzionale, con sentenza 1 - 15 luglio 1969, n. 133 (in G.U. 1a s.s. 16/07/1969, n. 179), ha dichiarato "l'illegittimita' costituzionale del [D.P.R.27 dicembre 1952, n. 3790](Trasferimento%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Baldi%20Luigi%20e%20Giuseppe%20di%20Antonio%20in%20comune%20di%20Ravenna.md), in quanto risulti che, per la formazione del piano di espropriazione contro Luigi e Giuseppe Baldi di Antonio, sono state comprese nella consistenza zone di immodificabile sterilita', non suscettive di trasformazione fondiaria o agraria, e non sono state detratte, ai fini del calcolo del reddito medio, tutte le zone che fossero in fatto incolti produttivi."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

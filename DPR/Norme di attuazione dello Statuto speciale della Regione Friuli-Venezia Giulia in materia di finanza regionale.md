@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5); 
- Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1); 
+ Visto l'art. 65 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md); 
  Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto; 
  Sentito il Consiglio dei Ministri; 
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per il tesoro, per le finanze e per il bilancio; 
@@ -52,7 +52,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 1.
 
-La regione per l'espletamento della propria collaborazione all'accertamento delle imposte erariali sui redditi di soggetti aventi domicilio fiscale nel territorio regionale ha facolta' di prendere visione delle dichiarazioni annuali dei redditi, delle dichiarazioni annuali dei sostituti di imposta, nonche' dei certificati di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_3) e [8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_8), con modalita' da concordare con il Ministero delle finanze.
+La regione per l'espletamento della propria collaborazione all'accertamento delle imposte erariali sui redditi di soggetti aventi domicilio fiscale nel territorio regionale ha facolta' di prendere visione delle dichiarazioni annuali dei redditi, delle dichiarazioni annuali dei sostituti di imposta, nonche' dei certificati di cui agli [articoli 1](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), [2](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), [3](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), con modalita' da concordare con il Ministero delle finanze.
 
 2.
 

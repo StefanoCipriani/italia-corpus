@@ -16,11 +16,11 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
 
-Visto il [decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360);
+Visto il [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
@@ -38,7 +38,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina i procedimenti di rilascio della patente di guida ed i procedimenti ad esso connessi, regolati dagli [articoli 116 e seguenti del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), emanato con il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e modificato con il [decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+Il presente regolamento disciplina i procedimenti di rilascio della patente di guida ed i procedimenti ad esso connessi, regolati dagli [articoli 116 e seguenti del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), emanato con il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e modificato con il [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -80,7 +80,7 @@ Le prefetture adottano i provvedimenti di sospensione e revoca quando questi cos
 
 3.
 
-Ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), dalla data di entrata in vigore del presente regolamento gli [articoli 116](../Codici/Nuovo%20codice%20della%20strada.md), [119](../Codici/Nuovo%20codice%20della%20strada.md), [120](../Codici/Nuovo%20codice%20della%20strada.md), [121](../Codici/Nuovo%20codice%20della%20strada.md), [126](../Codici/Nuovo%20codice%20della%20strada.md), [127](../Codici/Nuovo%20codice%20della%20strada.md), [128](../Codici/Nuovo%20codice%20della%20strada.md), [129](../Codici/Nuovo%20codice%20della%20strada.md), [130](../Codici/Nuovo%20codice%20della%20strada.md), [137](../Codici/Nuovo%20codice%20della%20strada.md), [219](../Codici/Nuovo%20codice%20della%20strada.md), [228 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) si intendono modificati secondo le disposizioni dei seguenti articoli.
+Ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento gli [articoli 116](../Codici/Nuovo%20codice%20della%20strada.md), [119](../Codici/Nuovo%20codice%20della%20strada.md), [120](../Codici/Nuovo%20codice%20della%20strada.md), [121](../Codici/Nuovo%20codice%20della%20strada.md), [126](../Codici/Nuovo%20codice%20della%20strada.md), [127](../Codici/Nuovo%20codice%20della%20strada.md), [128](../Codici/Nuovo%20codice%20della%20strada.md), [129](../Codici/Nuovo%20codice%20della%20strada.md), [130](../Codici/Nuovo%20codice%20della%20strada.md), [137](../Codici/Nuovo%20codice%20della%20strada.md), [219](../Codici/Nuovo%20codice%20della%20strada.md), [228 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) si intendono modificati secondo le disposizioni dei seguenti articoli.
 
 Note all'art. 2:
  - Per il testo dell'[art. 2 della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2), si vedano le precedenti note alle premesse.
@@ -348,7 +348,7 @@ Note all'art. 14:
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), sono abrogati: l'art. 116, comma 16; l'art. 119, comma 3, limitatamente alle parole: "La certificazione deve tener conto dei precedenti morbosi del richiedente dichiarati da un certificato medico rilasciato dal medico di fiducia"; l'art. 129, comma 2, limitatamente alle parole: "Dei suddetti provvedimenti di sospensione viene data comunicazione ai competenti uffici della Direzione generale della M.C.T.C.".
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono abrogati: l'art. 116, comma 16; l'art. 119, comma 3, limitatamente alle parole: "La certificazione deve tener conto dei precedenti morbosi del richiedente dichiarati da un certificato medico rilasciato dal medico di fiducia"; l'art. 129, comma 2, limitatamente alle parole: "Dei suddetti provvedimenti di sospensione viene data comunicazione ai competenti uffici della Direzione generale della M.C.T.C.".
 
 Note all'art. 15:
  - Per il testo dell'[art. 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8) si vedano le precedenti note alle premesse.

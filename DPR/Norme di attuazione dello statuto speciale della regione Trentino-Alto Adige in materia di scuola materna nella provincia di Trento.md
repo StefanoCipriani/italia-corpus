@@ -37,7 +37,7 @@ A richiesta della provincia di Trento, personale appartenente ai ruoli organici 
 
 ## Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 8 SETTEMBRE 1999, N.344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-09-08;344)))
+((ARTICOLO ABROGATO DAL [D.LGS. 8 SETTEMBRE 1999, N.344](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20recanti%20modifiche%20al%20decreto%20legislativo%2016%20dicembre%201993%20n.%20592%20concernenti%20le%20scuole%20situate%20in%20localita%20ladine.md)))
 
 ## Art. 5.
 

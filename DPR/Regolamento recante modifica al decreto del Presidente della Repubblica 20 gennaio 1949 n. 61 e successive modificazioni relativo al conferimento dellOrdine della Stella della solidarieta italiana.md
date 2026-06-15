@@ -14,9 +14,9 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Visto l'[articolo 3 del decreto legislativo 9 marzo 1948, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;812#art_3), recante nuove norme relative all'Ordine della "Stella della solidarieta' italiana";
+Visto l'[articolo 3 del decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md), recante nuove norme relative all'Ordine della "Stella della solidarieta' italiana";
 
-Visto il [decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md), e successive modificazioni ed integrazioni, recante norme per l'esecuzione del [decreto legislativo 9 marzo 1948, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;812);
+Visto il [decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md), e successive modificazioni ed integrazioni, recante norme per l'esecuzione del [decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 21 maggio 2001;
 
@@ -52,7 +52,7 @@ Avvertenza:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) (lettera soppressa)".
- - L'[art. 3 del decreto legislativo 9 marzo 1948, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;812#art_3), recante le nuove norme relative all'Ordine della Stella della solidarieta' italiana, e' il seguente:
+ - L'[art. 3 del decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md), recante le nuove norme relative all'Ordine della Stella della solidarieta' italiana, e' il seguente:
  "Art. 3. - L'Ordine della "Stella della solidarieta' italiana comprende tre classi: la prima conferisce il titolo di grand'ufficiale, la seconda quello di commendatore e la terza quello di cavaliere.
  Le caratteristiche dell'Ordine della "Stella della solidarieta' italiana saranno determinate con decreto del Presidente della Repubblica su proposta del Ministro per gli affari esteri, e sentito il Consiglio dei Ministri".
 

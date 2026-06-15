@@ -18,7 +18,7 @@ Visto il regolamento degli uffici e del personale del Ministero delle finanze, e
 
 Visto il regolamento concernente l'organizzazione della scuola centrale tributaria, emanato con [decreto del Presidente della Repubblica del 31 luglio 1996, n. 526](Regolamento%20recante%20norme%20per%20il%20funzionamento%20della%20Scuola%20centrale%20tributaria.md);
 
-Visto l'[art. 1, commi 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com10) e [11, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com11);
+Visto l'[art. 1, commi 10](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) e [11, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md);
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, ed in particolare l'art. 6, comma 1, primo periodo;
 

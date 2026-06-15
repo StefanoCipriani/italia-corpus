@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -156,7 +156,7 @@ Per i lavori di formazione, di revisione e di conservazione del catasto terreni 
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 17. — Composizione delle commissioni censuarie distrettuali
 
@@ -178,7 +178,7 @@ La commissione censuaria distrettuale e' costituita di un presidente, di otto me
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 18. — Designazione dei membri delle commissioni censuarie distrettuali
 
@@ -190,7 +190,7 @@ I sindaci dei comuni del distretto censuario devono comunicare per iscritto le d
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 19. — Composizione delle commissioni censuarie provinciali
 
@@ -216,13 +216,13 @@ Le commissioni censuarie provinciali sono costituite di un presidente, di dieci 
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 gennaio 1993, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-23;16), convertito con modificazioni dalla [L. 24 marzo 1993, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md) ha disposto (con l'art. 2, comma 1-octies) che "Sono soppresse le commissioni censuarie distrettuali di cui al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;650). I compiti delle commisioni censuarie distrettuali sono trasferiti alle commissioni censuarie provinciali di cui all'articolo 19 del citato [decreto del Presidente della Repubblica n. 650 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;650). Ai componenti delle commissioni censuarie provinciali compete per ogni seduta un gettone di presenza di lire cinquantamila".
+Il [D.L. 23 gennaio 1993, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-23;16), convertito con modificazioni dalla [L. 24 marzo 1993, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md) ha disposto (con l'art. 2, comma 1-octies) che "Sono soppresse le commissioni censuarie distrettuali di cui al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 650](Perfezionamento%20e%20revisione%20del%20sistema%20catastale.md). I compiti delle commisioni censuarie distrettuali sono trasferiti alle commissioni censuarie provinciali di cui all'articolo 19 del citato [decreto del Presidente della Repubblica n. 650 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;650). Ai componenti delle commissioni censuarie provinciali compete per ogni seduta un gettone di presenza di lire cinquantamila".
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 20. — Segretario delle commissioni censuarie distrettuali e provinciali
 
@@ -234,7 +234,7 @@ Le commissioni censuarie distrettuali e provinciali sono assistite ciascuna da u
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 21. — Requisiti per la nomina a componente delle commissioni censuarie locali
 
@@ -251,7 +251,7 @@ I componenti delle commissioni distrettuali e provinciali debbono possedere i se
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 22. — Incompatibilita'
 
@@ -272,7 +272,7 @@ Non possono far parte delle commissioni censuarie, finche' permangono nell'eserc
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 23. — Decadenza dall'incarico
 
@@ -289,7 +289,7 @@ Decadono dall'incarico i componenti delle commissioni censuarie, distrettuali e 
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 24. — Composizione della commissione censuaria centrale
 
@@ -303,7 +303,7 @@ La commissione censuaria centrale e' composta di un presidente, di venti membri 
  b) il direttore centrale del catasto; 
  c) il direttore centrale dei servizi tecnici erariali; 
  d) due ingegneri, con qualifica dirigenziale, della direzione centrale del catasto e due membri scelti tra magistrati amministrativi ovvero tra avvocati dello Stato con qualifica non inferiore a magistrato di cassazione o equiparata. 
- Fanno parte soltanto della prima sezione un direttore generale del Ministero delle politiche agricole, cinque membri effettivi e tre supplenti scelti tra professori universitari in materia di economia ed estimo rurale. Dei membri predetti tre effettivi e i tre supplenti sono scelti nell'ambito dei nominativi designati rispettivamente dalle regioni, dall'Unione province italiane (UPI) e dall'Associazione nazionale comuni d'Italia (ANCI), ai sensi dell'[articolo 9, comma 2, lettera d), del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_9-com2-letd). 
+ Fanno parte soltanto della prima sezione un direttore generale del Ministero delle politiche agricole, cinque membri effettivi e tre supplenti scelti tra professori universitari in materia di economia ed estimo rurale. Dei membri predetti tre effettivi e i tre supplenti sono scelti nell'ambito dei nominativi designati rispettivamente dalle regioni, dall'Unione province italiane (UPI) e dall'Associazione nazionale comuni d'Italia (ANCI), ai sensi dell'[articolo 9, comma 2, lettera d), del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md). 
  Fanno parte soltanto della seconda sezione un direttore generale del Ministero dei lavori pubblici, cinque membri effettivi e tre supplenti scelti tra professori universitari in materia di economia ed estimo urbano. Dei membri predetti tre effettivi e i tre supplenti sono scelti nell'ambito dei nominativi designati rispettivamente dalle regioni, dall'UPI e dall'ANCI. 
  ((6))
 
@@ -311,7 +311,7 @@ La commissione censuaria centrale e' composta di un presidente, di venti membri 
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 25. — Collegio dei periti
 
@@ -324,7 +324,7 @@ La presidenza della commissione censuaria centrale e' assistita da un collegio d
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 26. — Segretario della commissione censuaria centrale
 
@@ -335,7 +335,7 @@ Le funzioni di segretario della commissione censuaria centrale sono affidate dal
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 27. — Funzione e durata dell'incarico dei componenti delle commissioni censuarie
 
@@ -348,13 +348,13 @@ I componenti delle commissioni censuarie hanno tutti identica funzione; le loro 
 
 AGGIORNAMENTO (5)
 
-Il [D.L. 30 dicembre 2009, n. 194](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2009G0206.md), convertito con modificazioni dalla [L. 26 febbraio 2010, n.25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202009%20n.%20194%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2010G0042.md) ha disposto (con l'art. 1, comma 9) che "La durata dell'incarico prevista dall'[articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;650#art_27), per i componenti delle commissioni censuarie gia' nominati alla data di entrata in vigore del presente decreto, e' prorogata di ulteriori due anni, decorrenti dalla data di scadenza dell'incarico".
+Il [D.L. 30 dicembre 2009, n. 194](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2009G0206.md), convertito con modificazioni dalla [L. 26 febbraio 2010, n.25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202009%20n.%20194%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2010G0042.md) ha disposto (con l'art. 1, comma 9) che "La durata dell'incarico prevista dall'[articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 650](Perfezionamento%20e%20revisione%20del%20sistema%20catastale.md), per i componenti delle commissioni censuarie gia' nominati alla data di entrata in vigore del presente decreto, e' prorogata di ulteriori due anni, decorrenti dalla data di scadenza dell'incarico".
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 28. — Comunicazione delle nomine
 
@@ -364,7 +364,7 @@ La comunicazione ufficiale dell'avvenuta nomina a componente delle commissioni c
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 29. — Giuramento
 
@@ -380,7 +380,7 @@ I presidenti delle commissioni censuarie sono tenuti, all'atto dell'immissione i
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 30. — Attribuzioni delle commissioni censuarie distrettuali
 
@@ -394,7 +394,7 @@ Le commissioni censuarie distrettuali, su richiesta dell'Amministrazione del cat
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 31. — Attribuzioni delle commissioni censuarie provinciali
 
@@ -408,7 +408,7 @@ Le commissioni censuarie provinciali:
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 32. — Attribuzioni della commissione censuaria centrale
 
@@ -416,7 +416,7 @@ La commissione censuaria centrale:
  a) decide sui ricorsi inoltrati dall'Amministrazione del catasto e dei servizi tecnici erariali e dalle commissioni distrettuali contro le decisioni delle commissioni censuarie provinciali in merito ai prospetti delle qualita' e classi dei terreni, ai quadri delle categorie e classi delle unita' immobiliari urbane ed ai rispettivi prospetti delle tariffe d'estimo di singoli comuni, entro il termine di novanta giorni dalla data di ricezione dei ricorsi stessi; 
  b) provvede - nel solo caso di revisione generale delle tariffe d'estimo ed al fine di assicurare la perequazione degli estimi nell'ambito dell'intero territorio nazionale - alla ratifica, previe eventuali variazioni, delle tariffe relative alle qualita' e classi dei terreni e di quelle relative alle unita' immobiliari urbane, entro il termine di novanta giorni dalla data di ricezione dei prospetti delle tariffe stesse, che gli uffici sono tenuti a trasmettere dopo la scadenza del termine previsto dalla lettera a), del primo comma dell'articolo 31, anche se le commissioni provinciali non sono state in grado, per qualsiasi ragione, di provvedere; 
  c) si sostituisce alle commissioni censuarie provinciali, che non adottano nei termini di tempo stabiliti le decisioni di cui al precedente articolo. Le decisioni relative devono essere adottate entro il termine di novanta giorni dalla data di ricezione degli atti; 
- d) da' parere, a richiesta dell'Amministrazione del catasto e dei servizi tecnici erariali, in ordine alle operazioni catastali regolate dai decreti emessi in attuazione della [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), e successive modificazioni, e per le quali il parere stesso e' espressamente previsto; 
+ d) da' parere, a richiesta dell'Amministrazione del catasto e dei servizi tecnici erariali, in ordine alle operazioni catastali regolate dai decreti emessi in attuazione della [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e successive modificazioni, e per le quali il parere stesso e' espressamente previsto; 
  e) da' parere, a richiesta degli organi competenti, in merito alla utilizzazione degli elementi catastali disposta da norme legislative e regolamentari che disciplinano materie anche diverse dalle funzioni istituzionali del catasto; 
  f) svolge la consulenza tecnica, a richiesta della commissione centrale tributaria, in merito alle vertenze nelle quali l'aspetto catastale assuma rilevanza; 
  g) da' parere, a richiesta dell'Amministrazione finanziaria, sopra ogni questione concernente la formazione, la revisione e la conservazione del catasto dei terreni e del catasto edilizio urbano e l'utilizzazione dei relativi dati ai fini tributari. 
@@ -429,7 +429,7 @@ La commissione censuaria centrale:
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 33. — Compiti del collegio dei periti
 
@@ -442,7 +442,7 @@ Sono compiti del collegio dei periti:
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 34. — Sedute delle commissioni censuarie
 
@@ -458,7 +458,7 @@ Le commissioni censuarie si riuniscono in seduta plenaria o in seduta di sezione
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 35. — Validita' delle deliberazioni
 
@@ -472,7 +472,7 @@ Nelle sedute plenarie o di sezione le commissioni censuarie non possono delibera
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 36. — Scioglimento delle commissioni censuarie distrettuali e provinciali
 
@@ -483,7 +483,7 @@ Quando le commissioni censuarie distrettuali e provinciali non adempiono regolar
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 37. — Intervento del dirigente l'ufficio tecnico erariale
 
@@ -496,7 +496,7 @@ Alle adunanze delle commissioni censuarie distrettuali e provinciali ha facolta'
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 38. — Spese di funzionamento delle commissioni censuarie distrettuali e provinciali
 
@@ -507,7 +507,7 @@ Salvo quanto disposto dal successivo art. 39 le spese per quanto occorre al funz
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 39. — Compensi ai componenti le commissioni censuarie distrettuali e provinciali
 
@@ -524,7 +524,7 @@ Ai componenti le commissioni censuarie distrettuali e provinciali ed ai rispetti
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 40. — Compensi ai componenti la commissione censuaria centrale
 
@@ -541,7 +541,7 @@ Con decreto del Ministro per le finanze viene stabilito il compenso da corrispon
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ## NORME FINALI
 
@@ -556,7 +556,7 @@ Le commissioni censuarie di cui alla [legge 8 marzo 1943, n. 153](../Atti%20norm
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 42. — Insediamento delle commissioni censuarie
 
@@ -568,7 +568,7 @@ L'insediamento delle commissioni censuarie previste dal presente decreto avra' l
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 17 dicembre 2014, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-17;198), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
+Il [D.Lgs. 17 dicembre 2014, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Composizione%20attribuzioni%20e%20funzionamento%20delle%20commissioni%20censuarie%20a%20norma%20dellarticolo%202%20comma%203%20lettera%20a%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00006.md), ha disposto (con l'art. 22, comma 1) che a decorrere dalla data di insediamento delle commissioni censuarie di cui all'articolo 21 dello stesso [D.Lgs. 198/2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014;198) e' abrogato il presente articolo.
 
 ### Art. 43. — Norme abrogate
 

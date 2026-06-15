@@ -13,8 +13,8 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
- Visto l'[art. 1, lettera d), della legge 6 dicembre 1978, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-06;835#art_1-letd), concernente delega al Governo ad emanare nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto;
- Udito il parere della commissione parlamentare di cui all'art. 3, comma primo, della suddetta [legge 6 dicembre 1978, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-06;835);
+ Visto l'[art. 1, lettera d), della legge 6 dicembre 1978, n. 835](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), concernente delega al Governo ad emanare nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto;
+ Udito il parere della commissione parlamentare di cui all'art. 3, comma primo, della suddetta [legge 6 dicembre 1978, n. 835](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md);
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Ministro dei trasporti, di concerto con i Ministri dell'interno, del tesoro, di grazia e giustizia e dell'agricoltura e delle foreste;
 

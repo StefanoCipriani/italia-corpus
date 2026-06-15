@@ -20,7 +20,7 @@ Visto l'[art. 1, comma primo, della legge 14 aprile 1956, n. 307](https://www.no
 
 Viste le proposte formulate dal Consiglio centrale della Federazione nazionale delle Casse mutue di malattia per i coltivatori diretti, ai sensi dell'[art. 13, comma primo, lettera b), della legge 22 novembre 1954, n. 1136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-22;1136#art_13-com1-letb);
 
-Sentita la Commissione centrale di cui all'[art. 1 del decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75#art_1);
+Sentita la Commissione centrale di cui all'[art. 1 del decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 5 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_5), concernente delega al Governo per la revisione degli organici degli impiegati civili dello Stato, al fine di adeguarli alle effettive esigenze di servizio;
+Visto l'[art. 5 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per la revisione degli organici degli impiegati civili dello Stato, al fine di adeguarli alle effettive esigenze di servizio;
 
 Visto il [decreto del Presidente della Repubblica 19 marzo 1955, n. 520](Riorganizzazione%20centrale%20e%20periferica%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), sulla riorganizzazione centrale e periferica del Ministero del lavoro e della previdenza sociale;
 

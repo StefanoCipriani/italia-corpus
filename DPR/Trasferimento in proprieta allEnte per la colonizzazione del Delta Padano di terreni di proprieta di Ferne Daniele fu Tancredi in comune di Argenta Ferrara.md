@@ -38,7 +38,7 @@ E' approvato il piano particolareggiato di espropriazione compilato dall'Ente pe
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3322), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
+La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Ferne%20Daniele%20fu%20Tancredi%20in%20comune%20di%20Argenta%20Ferrara.md), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ent
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3322), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
+La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Ferne%20Daniele%20fu%20Tancredi%20in%20comune%20di%20Argenta%20Ferrara.md), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
 
 ## Art. 3.
 
@@ -58,7 +58,7 @@ E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni in
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3322), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
+La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Ferne%20Daniele%20fu%20Tancredi%20in%20comune%20di%20Argenta%20Ferrara.md), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3322), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
+La Corte Costituzionale con sentenza 23-26 aprile 1968, n. 37 (in G.U. 1a s.s. 4/5/1968, n. 113) ha dichiarato l'illegittimita' " costituzionale del [D.P.R. 27 dicembre 1952, n. 3322](Trasferimento%20in%20proprieta%20allEnte%20per%20la%20colonizzazione%20del%20Delta%20Padano%20di%20terreni%20di%20proprieta%20di%20Ferne%20Daniele%20fu%20Tancredi%20in%20comune%20di%20Argenta%20Ferrara.md), in quanto ha incluso nell'espropriazione i terreni della "Valle Testa" sui quali il soggetto privato espropriato non aveva il diritto enfiteutico risultante dai dati catastali."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

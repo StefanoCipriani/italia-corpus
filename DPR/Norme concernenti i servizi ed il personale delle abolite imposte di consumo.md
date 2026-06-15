@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -122,10 +122,10 @@ Al personale iscritto nel quadro e' attribuita la retribuzione spettante in base
  La retribuzione del personale di nomina privata si compone delle seguenti voci:
  a) per il personale dirigente e direttivo, il trattamento base o stipendio, la indennita' di carica e di contingenza;
  b) per il restante personale, lo stipendio, con le variazioni previste dall'accordo sindacale 9 gennaio 1970, e l'indennita' di classe nella misura goduta da ciascuna unita' alla data di abolizione delle imposte di consumo.
- Gli scatti biennali per anzianita' di servizio, le variazioni di scala mobile o di contingenza e l'assegno supplementare di famiglia per ogni persona a carico dei dipendenti di nomina privata iscritti nel quadro, sono riconosciuti e continuano ad applicarsi, in favore degli aventi diritto, in conformita' ai criteri previsti dai rispettivi contratti collettivi di lavoro alla data di entrata in vigore della [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825). Gli assegni familiari sono riconosciuti in base alle norme legislative vigenti.
+ Gli scatti biennali per anzianita' di servizio, le variazioni di scala mobile o di contingenza e l'assegno supplementare di famiglia per ogni persona a carico dei dipendenti di nomina privata iscritti nel quadro, sono riconosciuti e continuano ad applicarsi, in favore degli aventi diritto, in conformita' ai criteri previsti dai rispettivi contratti collettivi di lavoro alla data di entrata in vigore della [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md). Gli assegni familiari sono riconosciuti in base alle norme legislative vigenti.
  La retribuzione del personale di nomina comunale e le competenze di cui ai precedenti commi eventualmente spettanti sono determinate in conformita' ai criteri ed alle misure previste dalle leggi vigenti o dai rispettivi regolamenti locali.
  Per il personale che, sulla base del rapporto di impiego, abbia diritto a mensilita' di retribuzione aggiuntive oltre la tredicesima, l'importo di tali mensilita', ai soli fini del pagamento, viene ripartito nelle tredici normalmente corrisposte ai dipendenti dello Stato.
- Le particolari indennita' previste per la direzione di uffici, per la disagiata residenza o per il carattere di stazione di cura, soggiorno o turismo, nonche' altri eventuali assegni, comunque denominati, purche' soggetti a contribuzione ai fini del pensionamento, sono corrisposti, nella misura prevista alla data di entrata in vigore della [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), a titolo di assegno personale pensionabile,((...)).
+ Le particolari indennita' previste per la direzione di uffici, per la disagiata residenza o per il carattere di stazione di cura, soggiorno o turismo, nonche' altri eventuali assegni, comunque denominati, purche' soggetti a contribuzione ai fini del pensionamento, sono corrisposti, nella misura prevista alla data di entrata in vigore della [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), a titolo di assegno personale pensionabile,((...)).
 
 ### Art. 13. — Avanzamenti di qualifica
 
@@ -245,7 +245,7 @@ In relazione alle esigenze amministrative, organizzative e tecniche connesse all
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 24 dicembre 1976, n.937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-12-24;937) ha disposto (con l'art. 1) che "E' aggiunto il seguente articolo:
+Il [D.P.R. 24 dicembre 1976, n.937](Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20649%20concernente%20i%20servizi%20ed%20il%20personale%20delle%20abolite%20imposte%20di%20consumo.md) ha disposto (con l'art. 1) che "E' aggiunto il seguente articolo:
  "Art. 26 - Amministrazione del personale iscritto nel quadro. - Ultimata l'iscrizione nel quadro ai sensi del precedente art. 9, con decreto del Ministro per le finanze sara' determinato il passaggio del servizio di amministrazione del personale alla Direzione generale per gli affari generali e del personale presso il Ministero delle finanze"."
 
 ### Art. 27. — Il presente decreto entra in vigore il 1 gennaio 1973.
