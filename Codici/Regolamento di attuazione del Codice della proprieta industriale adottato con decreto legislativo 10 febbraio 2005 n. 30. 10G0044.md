@@ -12,9 +12,9 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
 
 VISTO l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-VISTO il [decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), e successive modificazioni;
+VISTO il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
-VISTO il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni dalla [legge 17 luglio 2006, n. 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-07-17;233);
+VISTO il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni dalla [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 VISTO il [decreto legislativo 10 febbraio 2005, n. 30](Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) recante "Codice della proprieta' industriale, a norma dell'[articolo 15 della legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273#art_15)";
 
@@ -522,11 +522,11 @@ Ove con il deposito della domanda siano stati presentati una descrizione o diseg
 
 5.
 
-Se la domanda di brevetto per invenzione ha per oggetto o utilizza materiale biologico di origine umana, il consenso di cui all'[articolo 5, comma 3 decreto legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md) convertito con modificazioni dalla [legge 22 febbraio 2006, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-22;78), consiste in una dichiarazione, allegata alla domanda, con la quale il richiedente afferma che l'invenzione non rientra nella fattispecie di cui al citato articolo 5, comma 3 o, in alternativa, che il consenso e' stato acquisito.
+Se la domanda di brevetto per invenzione ha per oggetto o utilizza materiale biologico di origine umana, il consenso di cui all'[articolo 5, comma 3 decreto legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md) convertito con modificazioni dalla [legge 22 febbraio 2006, n. 78](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20gennaio%202006%20n.%203%20recante%20attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), consiste in una dichiarazione, allegata alla domanda, con la quale il richiedente afferma che l'invenzione non rientra nella fattispecie di cui al citato articolo 5, comma 3 o, in alternativa, che il consenso e' stato acquisito.
 
 6.
 
-La dichiarazione di cui all'[articolo 5, comma 4 del decreto legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), convertito con modificazioni dalla [legge 22 febbraio 2006, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-22;78), puo' consistere in una autocertificazione.
+La dichiarazione di cui all'[articolo 5, comma 4 del decreto legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), convertito con modificazioni dalla [legge 22 febbraio 2006, n. 78](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20gennaio%202006%20n.%203%20recante%20attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), puo' consistere in una autocertificazione.
 
 7.
 
@@ -537,7 +537,7 @@ La mancanza della dichiarazione di cui al comma 5 e al comma 6 e' annotata sul r
 Se la domanda riguarda una invenzione biotecnologica con la quale si richiede la protezione di sequenze di nucleotidi o aminoacidi, dette sequenze devono essere fornite in formato elettronico, secondo le modalita' stabilite con decreto del Direttore Generale per la lotta alla contraffazione - Ufficio Italiano Brevetti Marchi.
 
 Note all'art. 22:
- - Per il testo dell'[art. 5 del decreto-legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), convertito, con modificazioni dalla [legge 22 febbraio 2006, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-22;78), si veda nelle note all'art. 21.
+ - Per il testo dell'[art. 5 del decreto-legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), convertito, con modificazioni dalla [legge 22 febbraio 2006, n. 78](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20gennaio%202006%20n.%203%20recante%20attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), si veda nelle note all'art. 21.
 
 ## Art. 23. — (Divisione della domanda in caso di piu' invenzioni
  o modelli di utilita' in essa presenti)
@@ -999,7 +999,7 @@ Note all'art. 43:
  f) domande di trascrizione degli atti indicati da questo codice e trascrizioni avvenute.
  2. I dati identificativi delle domande e delle registrazioni, oltre quelli specifici indicati al comma 1, lettere a), b) e d), ed ai relativi numeri e date, sono quelli di cui all'art. 156.
  3. Il Bollettino ufficiale e' corredato da indici analitici, almeno alfabetici per titolari, numerici e per classi.».
- «Art. 188 (Bollettino ufficiale delle nuove varieta' vegetali). - 1. La comunicazione al pubblico prevista dall'art. 30 della Convenzione internazionale per la protezione delle novita' vegetali (UPOV) - testo di Ginevra del 19 marzo 1991, ratificata con [legge 23 marzo 1998, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-23;110), si effettua mediante pubblicazione di un “Bollettino ufficiale delle nuove varieta'
+ «Art. 188 (Bollettino ufficiale delle nuove varieta' vegetali). - 1. La comunicazione al pubblico prevista dall'art. 30 della Convenzione internazionale per la protezione delle novita' vegetali (UPOV) - testo di Ginevra del 19 marzo 1991, ratificata con [legge 23 marzo 1998, n. 110](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20adottata%20a%20Parigi%20il%202%20dicembre%201961%20e%20riveduta%20a%20Ginevra%20il%2010%20novembre%201972%20il%2023%20ottobr_6dd3374a746e.md), si effettua mediante pubblicazione di un “Bollettino ufficiale delle nuove varieta'
  vegetali” edito a cura dell'Ufficio.
  2. Il Bollettino ha frequenza almeno semestrale e contiene:
  a) l'elenco delle domande di privative, distinte per specie, indicante, oltre il numero e la data di deposito della domanda, il nome e l'indirizzo del richiedente ed il nome dell'autore se persona diversa dal richiedente, la denominazione proposta ed una descrizione succinta della varieta' vegetale della quale e' richiesta la protezione;
@@ -1274,7 +1274,7 @@ Al temine del procedimento di opposizione l'Ufficio italiano brevetti e marchi i
 
 1.
 
-Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-16;62#art_12).
+Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
 
 ))
 
@@ -1481,7 +1481,7 @@ Gli esaminatori, provenienti dall'Ufficio italiano brevetti e marchi, devono ast
 
 2.
 
-Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-16;62), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
+Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
 
 ))
 

@@ -14,13 +14,13 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la legge 13 giungo 1991, n. 190;
 
-Vista la prima approvazione dello schema del testo unico denominato "[Codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)" in data 9 luglio 1991 e la successiva riapprovazione dello stesso da parte del Consiglio dei Ministri in data 30 settembre 1991 a seguito dell'acquisizione del concerto degli altri Ministri interessati;
+Vista la prima approvazione dello schema del testo unico denominato "[Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)" in data 9 luglio 1991 e la successiva riapprovazione dello stesso da parte del Consiglio dei Ministri in data 30 settembre 1991 a seguito dell'acquisizione del concerto degli altri Ministri interessati;
 
-Uditi i pareri resi, a norma dell'[art. 4, comma 2, della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190#art_4-com2), dalla competente commissione permanente del Senato della Repubblica in data 19 dicembre 1991 e da quella della Camera dei deputati in data 20 dicembre 1991;
+Uditi i pareri resi, a norma dell'[art. 4, comma 2, della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), dalla competente commissione permanente del Senato della Repubblica in data 19 dicembre 1991 e da quella della Camera dei deputati in data 20 dicembre 1991;
 
 Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 27 gennaio 1992, nella quale si sono recepite alcune delle osservazioni al testo contenute nei pareri resi;
 
-Uditi i pareri definitivi resi, a norma dell'[art. 4, comma 3, della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190#art_4-com3), dalla competente commissione permanente del Senato della Repubblica in data 30 gennaio e da quella della Cam- era dei deputati in data 1 febbraio 1992;
+Uditi i pareri definitivi resi, a norma dell'[art. 4, comma 3, della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), dalla competente commissione permanente del Senato della Repubblica in data 30 gennaio e da quella della Cam- era dei deputati in data 1 febbraio 1992;
 
 Viste le deliberazioni conclusive del Consiglio dei Ministri, adottate nelle riunioni del 27 febbraio e del 25 marzo 1992;
 
@@ -89,7 +89,7 @@ E' denominata "strada di servizio" la strada affiancata ad una strada principale
 5.
 
 Per le esigenze di carattere amministrativo e con riferimento all'uso e alle tipologie dei collegamenti svolti, , le strade, come classificate ai sensi del comma 2, si distinguono in strade "statali", "regionali", "provinciali", "comunali", secondo le indicazioni che seguono. Enti proprietari delle dette strade sono rispettivamente lo Stato, la regione, la provincia, il comune.
-PERIODO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66).
+PERIODO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 6.
 
@@ -111,7 +111,7 @@ Le strade extraurbane di cui al comma 2, lettere B, C ed F, si distinguono in:
 
 7.
 
-Le strade urbane di cui al comma 2, lettere D , E e F, sono sempre comunali quando siano situate nell'interno dei centri abitati, eccettuati i tratti interni di strade statali, regionali o provinciali che attraversano centri abitati con popolazione non superiore a diecimila abitanti. PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360). PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+Le strade urbane di cui al comma 2, lettere D , E e F, sono sempre comunali quando siano situate nell'interno dei centri abitati, eccettuati i tratti interni di strade statali, regionali o provinciali che attraversano centri abitati con popolazione non superiore a diecimila abitanti. PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md). PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 8.
 
@@ -127,7 +127,7 @@ Le disposizioni di cui alla presente disciplina non modificano gli effetti del [
 
 10-bis.
 
-Resta ferma, per le strade e veicoli militari, la disciplina specificamente prevista dal [codice dell'ordinamento militare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66).
+Resta ferma, per le strade e veicoli militari, la disciplina specificamente prevista dal [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 ### Art. 3. — Definizioni stradali e di traffico
 
@@ -221,7 +221,7 @@ La deliberazione di delimitazione del centro abitato come definito dall'art. 3 e
 
 1.
 
-Il Ministro delle infrastrutture e dei trasporti puo' impartire ai prefetti e agli enti proprietari delle strade le direttive per l'applicazione delle norme concernenti la regolamentazione della circolazione sulle strade di cui all'art. 2 . PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360). PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+Il Ministro delle infrastrutture e dei trasporti puo' impartire ai prefetti e agli enti proprietari delle strade le direttive per l'applicazione delle norme concernenti la regolamentazione della circolazione sulle strade di cui all'art. 2 . PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md). PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 2.
 
@@ -261,7 +261,7 @@ Il prefetto stabilisce, anno per anno, le opportune prescrizioni per il transito
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 4.
 
@@ -293,7 +293,7 @@ Le ordinanze di cui al comma 4 sono emanate:
                             d)
                                 per le strade comunali e le strade vicinali, dal sindaco;
                             e)
-                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66).
+                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 6.
 
@@ -303,7 +303,7 @@ Per le strade e le autostrade in concessione, i poteri dell'ente proprietario de
 
 Nell'ambito degli aereoporti aperti al traffico aereo civile e nelle aree portuali, la competenza a disciplinare la circolazione delle strade interne aperte all'uso pubblico e' riservata rispettivamente al direttore della circoscrizione aereoportuale competente per territorio e al comandante di porto capo di circondario ((o al Presidente dell'Autorita' di sistema portuale, ove istituita)), i quali vi provvedono a mezzo di ordinanze, in conformita' alle norme del presente codice. Nell'ambito degli aereoporti ove le aerostazioni siano affidate in gestione a enti o societa', il potere di ordinanza viene esercitato dal direttore della circoscrizione aeroportuale competente per territorio, sentiti gli enti e le societa' interessati.
 
-((8. Le autorita' che hanno disposto la sospensione o la limitazione della circolazione di cui ai commi 1, 1-sexies e 4, lettere a) e b), possono accordare, per esigenze gravi e indifferibili o per accertate necessita', deroghe o permessi, subordinati a speciali condizioni e cautele. L'accesso alle zone a traffico limitato per le categorie autorizzate non puo' in ogni caso essere a titolo oneroso. Per la gestione di eventuali deroghe ai divieti e alle limitazioni possono essere utilizzati dispositivi telematici installati sui veicoli, le cui caratteristiche sono definite con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8)))
+((8. Le autorita' che hanno disposto la sospensione o la limitazione della circolazione di cui ai commi 1, 1-sexies e 4, lettere a) e b), possono accordare, per esigenze gravi e indifferibili o per accertate necessita', deroghe o permessi, subordinati a speciali condizioni e cautele. L'accesso alle zone a traffico limitato per le categorie autorizzate non puo' in ogni caso essere a titolo oneroso. Per la gestione di eventuali deroghe ai divieti e alle limitazioni possono essere utilizzati dispositivi telematici installati sui veicoli, le cui caratteristiche sono definite con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md)))
 
 9.
 
@@ -422,7 +422,7 @@ Nei centri abitati i comuni possono, con ordinanza del sindaco:
                             a)
                                 adottare i provvedimenti indicati nell'art. 6, commi 1, 2 e 4;
                             b)
-                                limitare la circolazione di tutte o di alcune categorie di veicoli nei casi in cui risulti necessario, congiuntamente, nel rispetto dei criteri di proporzionalita' e adeguatezza, ridurre le emissioni derivanti dal traffico veicolare in relazione ai livelli delle sostanze inquinanti nell'aria nonche' tutelare il patrimonio culturale, tenuto conto, comunque, delle esigenze di mobilita' e di tutela della produzione. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della sicurezza energetica e con il Ministro della cultura, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), sono individuati le tipologie dei comuni che possono avvalersi della facolta' di cui alla presente lettera, le categorie dei veicoli non soggetti alle predette limitazioni, i parametri di qualita' dell'aria ai quali e' subordinata l'attivazione delle limitazioni consentite dalla presente disposizione nonche' i livelli minimi di servizio pubblico da assicurare comunque nelle aree oggetto delle citate limitazioni;
+                                limitare la circolazione di tutte o di alcune categorie di veicoli nei casi in cui risulti necessario, congiuntamente, nel rispetto dei criteri di proporzionalita' e adeguatezza, ridurre le emissioni derivanti dal traffico veicolare in relazione ai livelli delle sostanze inquinanti nell'aria nonche' tutelare il patrimonio culturale, tenuto conto, comunque, delle esigenze di mobilita' e di tutela della produzione. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della sicurezza energetica e con il Ministro della cultura, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), sono individuati le tipologie dei comuni che possono avvalersi della facolta' di cui alla presente lettera, le categorie dei veicoli non soggetti alle predette limitazioni, i parametri di qualita' dell'aria ai quali e' subordinata l'attivazione delle limitazioni consentite dalla presente disposizione nonche' i livelli minimi di servizio pubblico da assicurare comunque nelle aree oggetto delle citate limitazioni;
                             c)
                                 stabilire la precedenza su determinate strade o tratti di strade, ovvero in una determinata intersezione, in relazione alla classificazione di cui all'art. 2, e, quando la intensita' o la sicurezza del traffico lo richiedano, prescrivere ai conducenti, prima di immettersi su una determinata strada, l'obbligo di arrestarsi all'intersezione e di dare la precedenza a chi circola su quest'ultima;
                             d)
@@ -438,7 +438,7 @@ Nei centri abitati i comuni possono, con ordinanza del sindaco:
                             e)
                                 stabilire aree nelle quali e' autorizzato il parcheggio dei veicoli;
                             f)
-                                stabilire, previa deliberazione della giunta, fasce di sosta laterale e parcheggi nei quali la sosta dei veicoli e' subordinata al pagamento di una somma di denaro; con decreto del Ministro delle infrastrutture e dei trasporti sono individuati le modalita' di riscossione del pagamento e, in particolare, le caratteristiche, le modalita' costruttive e i criteri di installazione e di manutenzione dei dispositivi di controllo della durata della sosta, le categorie dei veicoli esentati nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), i limiti massimi delle tariffe;
+                                stabilire, previa deliberazione della giunta, fasce di sosta laterale e parcheggi nei quali la sosta dei veicoli e' subordinata al pagamento di una somma di denaro; con decreto del Ministro delle infrastrutture e dei trasporti sono individuati le modalita' di riscossione del pagamento e, in particolare, le caratteristiche, le modalita' costruttive e i criteri di installazione e di manutenzione dei dispositivi di controllo della durata della sosta, le categorie dei veicoli esentati nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), i limiti massimi delle tariffe;
                             g)
                                 prescrivere orari e riservare spazi per i veicoli di categoria N, ai sensi della lettera c) del comma 2 dell'articolo 47, utilizzati per il carico e lo scarico di merci;
                             h)
@@ -448,7 +448,7 @@ Nei centri abitati i comuni possono, con ordinanza del sindaco:
                             i-bis)
                                 consentire su determinate strade a senso unico di marcia, ove il limite massimo di velocita' sia inferiore o uguale a 30 km/h, la circolazione dei velocipedi in senso opposto, attraverso la realizzazione di corsie ciclabili per doppio senso ciclabile, nei soli casi in cui non sia possibile l'inserimento di piste ciclabili;
                             i-ter)
-                                LETTERA ABROGATA DALLA [L. 25 NOVEMBRE 2024, N. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177).
+                                LETTERA ABROGATA DALLA [L. 25 NOVEMBRE 2024, N. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20in%20materia%20di%20sicurezza%20stradale%20e%20delega%20al%20Governo%20per%20la%20revisione%20del%20codice%20della%20strada%20di%20cui%20al%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.%2024G00199.md).
                             i-quater)
                                 istituire la zona di attestamento ciclabile, in determinate intersezioni semaforizzate su strade con una corsia per senso di marcia e con velocita' consentita inferiore o uguale a 50 km/h e nelle quali e' presente una pista ciclabile laterale, di norma a destra, o una corsia ciclabile.
 
@@ -466,7 +466,7 @@ Nel caso di sospensione della circolazione per motivi di sicurezza pubblica o di
 
 5.
 
-COMMA ABROGATO DALLA [L. 25 NOVEMBRE 2024, N. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177).
+COMMA ABROGATO DALLA [L. 25 NOVEMBRE 2024, N. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20in%20materia%20di%20sicurezza%20stradale%20e%20delega%20al%20Governo%20per%20la%20revisione%20del%20codice%20della%20strada%20di%20cui%20al%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.%2024G00199.md).
 
 6.
 
@@ -483,7 +483,7 @@ Qualora il comune assuma l'esercizio diretto del parcheggio con custodia o lo di
 9.
 
 I comuni, con deliberazione della giunta, provvedono a delimitare le aree pedonali e le zone a traffico limitato tenendo conto degli effetti del traffico sulla sicurezza della circolazione, sulla salute, sull'ordine pubblico, sul patrimonio ambientale e culturale e sul territorio. In caso di urgenza il provvedimento potra' essere adottato con ordinanza del sindaco, ancorche' di modifica o integrazione della deliberazione della giunta.
-Analogamente i comuni provvedono a delimitare altre zone di rilevanza urbanistica nelle quali sussistono esigenze particolari di traffico, di cui al secondo periodo del comma 8. I comuni possono subordinare l'ingresso o la circolazione dei veicoli a motore, all'interno delle zone a traffico limitato, anche al pagamento di una somma. Con decreto del Ministro delle infrastrutture e della mobilita' sostenibili sono individuate le tipologie dei comuni che possono avvalersi di tale facolta', le modalita' di riscossione del pagamento, le categorie dei veicoli esentati, nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), i massimali delle tariffe, da definire tenendo conto delle emissioni inquinanti dei veicoli e delle tipologie dei permessi.
+Analogamente i comuni provvedono a delimitare altre zone di rilevanza urbanistica nelle quali sussistono esigenze particolari di traffico, di cui al secondo periodo del comma 8. I comuni possono subordinare l'ingresso o la circolazione dei veicoli a motore, all'interno delle zone a traffico limitato, anche al pagamento di una somma. Con decreto del Ministro delle infrastrutture e della mobilita' sostenibili sono individuate le tipologie dei comuni che possono avvalersi di tale facolta', le modalita' di riscossione del pagamento, le categorie dei veicoli esentati, nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), i massimali delle tariffe, da definire tenendo conto delle emissioni inquinanti dei veicoli e delle tipologie dei permessi.
 
 9-bis.
 
@@ -759,7 +759,7 @@ L'autorita' competente puo' concedere l'autorizzazione a spostare la data di eff
 
 6.
 
-Per tutte le competizioni sportive su strada, l'autorizzazione e' altresi' subordinata alla stipula, da parte dei promotori, di un contratto di assicurazione per la responsabilita' civile di cui all'[articolo 124 del codice delle assicurazioni private](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209#art_124) di cui al [decreto legislativo 7 settembre 2005, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209). L'assicurazione deve coprire altresi' la responsabilita' dell'organizzazionee degli altri obbligati per i danni comunque causati alle strade e alle relative attrezzature. I limiti di garanzia sono previsti dalla normativa vigente. (49) (187)
+Per tutte le competizioni sportive su strada, l'autorizzazione e' altresi' subordinata alla stipula, da parte dei promotori, di un contratto di assicurazione per la responsabilita' civile di cui all'[articolo 124 del codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) di cui al [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md). L'assicurazione deve coprire altresi' la responsabilita' dell'organizzazionee degli altri obbligati per i danni comunque causati alle strade e alle relative attrezzature. I limiti di garanzia sono previsti dalla normativa vigente. (49) (187)
 
 6-bis.
 
@@ -787,7 +787,7 @@ Fuori dei casi previsti dal comma 8-bis, chiunque organizza una competizione spo
 
 8-bis.
 
-COMMA ABROGATO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214).
+COMMA ABROGATO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md).
 
 9.
 
@@ -821,7 +821,7 @@ Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (49)
 
-Il [D.L. 20 giugno 2002, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-06-20;121), convertito con modificazioni dalla [L. 1 agosto 2002, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;168), nel modificare l'[art. 2, comma 1 del D.Lgs. 15 gennaio 2002, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-15;9#art_2-com1), ha conseguentemente disposto (con l'art. 1, comma 1) che le presenti modifiche hanno effetto a decorrere dal 07/08/2002.
+Il [D.L. 20 giugno 2002, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-06-20;121), convertito con modificazioni dalla [L. 1 agosto 2002, n. 168](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20giugno%202002%20n.%20121%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20sicurezza%20nella%20circolazione%20stradale.md), nel modificare l'[art. 2, comma 1 del D.Lgs. 15 gennaio 2002, n. 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20nuovo%20codice%20della%20strada%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2022%20marzo%202001%20n.%2085.md), ha conseguentemente disposto (con l'art. 1, comma 1) che le presenti modifiche hanno effetto a decorrere dal 07/08/2002.
 
 ---------------
 
@@ -881,7 +881,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (187)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 9-bis. — (( (Organizzazione di competizioni non autorizzate in velocita' con veicoli a motore e partecipazione alle gare). ))
 
@@ -1024,7 +1024,7 @@ Qualora il transito del veicolo eccezionale o del trasporto in condizioni di ecc
 
 9-bis.
 
-Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, il Governo, con regolamento adottato ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, modifica il regolamento di esecuzione e di attuazione del nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), prevedendo che:
+Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, il Governo, con regolamento adottato ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, modifica il regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), prevedendo che:
                             a)
                                 per i trasporti eccezionali su gomma sia sufficiente prevedere la trasmissione, per via telematica, della prescritta richiesta di autorizzazione, corredata della necessaria documentazione, all'ente proprietario o concessionario per le autostrade, strade statali e militari, e alle regioni per la rimanente rete viaria, almeno quindici giorni prima della data fissata per il viaggio e le autorizzazioni devono essere rilasciate entro quindici giorni dalla loro presentazione;
                             b)
@@ -1051,9 +1051,9 @@ All'autorizzazione non si applicano le disposizioni dell'[articolo 20 della legg
 
 10-bis.
 
-Fermo quanto previsto dal comma 9-bis, con decreto del Ministro delle infrastrutture e della mobilita' sostenibili, da adottare entro il 30 aprile 2022, previo parere del Consiglio superiore dei lavori pubblici, sentita l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali e previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), sono adottate apposite linee guida finalizzate ad assicurare l'omogeneita' della classificazione e gestione del rischio, nonche' della valutazione della compatibilita' dei trasporti in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione. In particolare, le linee guida di cui al primo periodo definiscono:
+Fermo quanto previsto dal comma 9-bis, con decreto del Ministro delle infrastrutture e della mobilita' sostenibili, da adottare entro il 30 aprile 2022, previo parere del Consiglio superiore dei lavori pubblici, sentita l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali e previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), sono adottate apposite linee guida finalizzate ad assicurare l'omogeneita' della classificazione e gestione del rischio, nonche' della valutazione della compatibilita' dei trasporti in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione. In particolare, le linee guida di cui al primo periodo definiscono:
                             a)
-                                le modalita' di verifica della compatibilita' del trasporto in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione, in coerenza con quanto previsto dalle linee guida di cui all'[articolo 14 del decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109#art_14), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130);
+                                le modalita' di verifica della compatibilita' del trasporto in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione, in coerenza con quanto previsto dalle linee guida di cui all'[articolo 14 del decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109#art_14), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md);
                             b)
                                 le modalita' di rilascio dell'autorizzazione per il trasporto in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuato mediante complessi di veicoli a otto o piu' assi di cui al comma 2, lettera b), nonche' per i trasporti in condizioni di eccezionalita' di un unico pezzo indivisibile eccedente i limiti di massa previsti dalla predetta lettera b), ivi comprese: 
  1) le specifiche attivita' di verifica preventiva delle condizioni delle sovrastrutture stradali e della stabilita' dei manufatti, interessati dal trasporto in condizioni di eccezionalita', che l'ente e le regioni di cui al comma 6 sono tenuti ad effettuare, anche in considerazione del numero e della frequenza dei trasporti in condizioni di eccezionalita', prima del rilascio dell'autorizzazione; 
@@ -1145,25 +1145,25 @@ Le disposizioni del presente articolo non si applicano alle macchine agricole ec
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82),convertito dalla [L. 27 maggio 1993, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-27;162) ha disposto (con l'art. 14, comma 2) che "Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10), come modificato dal comma 1 del presente articolo, si applicano a decorrere dal 1° gennaio 1994. Fino a tale data si applicano le disposizioni in materia di veicoli eccezionali vigenti anteriormente al 1° gennaio 1993. Sono comunque fatti salvi gli effetti prodotti dal medesimo articolo 10 nel periodo compreso tra il 1° gennaio 1993 e la data di entrata in vigore del presente decreto".
+Il [D.L. 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82),convertito dalla [L. 27 maggio 1993, n. 162](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201993%20n.%2082%20recante%20misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md) ha disposto (con l'art. 14, comma 2) che "Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dal comma 1 del presente articolo, si applicano a decorrere dal 1° gennaio 1994. Fino a tale data si applicano le disposizioni in materia di veicoli eccezionali vigenti anteriormente al 1° gennaio 1993. Sono comunque fatti salvi gli effetti prodotti dal medesimo articolo 10 nel periodo compreso tra il 1° gennaio 1993 e la data di entrata in vigore del presente decreto".
 
 -------------
 
 AGGIORNAMENTO (13)
 
-Il [D.L. 21 aprile 1995, n. 117](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md), convertito, con modificazioni, dalla [L. 8 giugno 1995, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20117%20recante%20differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%20199_f1a3a30fd095.md), ha disposto (con l'art. 1, comma 1) che le disposizioni contenute nel presente articolo, come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360#art_7), si applicano a decorrere dal 1 luglio 1995. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 del presente articolo.
+Il [D.L. 21 aprile 1995, n. 117](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md), convertito, con modificazioni, dalla [L. 8 giugno 1995, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20117%20recante%20differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%20199_f1a3a30fd095.md), ha disposto (con l'art. 1, comma 1) che le disposizioni contenute nel presente articolo, come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), si applicano a decorrere dal 1 luglio 1995. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 del presente articolo.
 
 -------------
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 21 aprile 1995, n. 117](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md) convertito, con modificazioni, dalla [L. 8 giugno 1995, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20117%20recante%20differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%20199_f1a3a30fd095.md), come modificato dal [D.L. 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251), convertito con modificazioni dalla [L. 3 agosto 1995, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351), ha disposto (con l'art. 1, comma 1) che "Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10), come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360#art_7), si applicano a partire dal 31 gennaio 1996. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 dello stesso articolo 10."
+Il [D.L. 21 aprile 1995, n. 117](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md) convertito, con modificazioni, dalla [L. 8 giugno 1995, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20117%20recante%20differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%20199_f1a3a30fd095.md), come modificato dal [D.L. 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251), convertito con modificazioni dalla [L. 3 agosto 1995, n. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md), ha disposto (con l'art. 1, comma 1) che "Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), si applicano a partire dal 31 gennaio 1996. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 dello stesso articolo 10."
 
 -------------
 
 AGGIORNAMENTO (18)
 
-Il [D.L. 21 aprile 1995, n. 117](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md) convertito, con modificazioni, dalla [L. 8 giugno 1995, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20117%20recante%20differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%20199_f1a3a30fd095.md), come modificato dal [D.L. 4 ottobre 1996, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-04;517), convertito con modificazioni dalla [L. 4 dicembre 1996, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611), ha disposto (con l'art. 1, comma 1) che "Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10), come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360#art_7), si applicano a decorrere dal 1 gennaio 1997. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 dello stesso articolo 10".
+Il [D.L. 21 aprile 1995, n. 117](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md) convertito, con modificazioni, dalla [L. 8 giugno 1995, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20117%20recante%20differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%20199_f1a3a30fd095.md), come modificato dal [D.L. 4 ottobre 1996, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-04;517), convertito con modificazioni dalla [L. 4 dicembre 1996, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md), ha disposto (con l'art. 1, comma 1) che "Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), si applicano a decorrere dal 1 gennaio 1997. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 dello stesso articolo 10".
 
 -------------
 
@@ -1247,38 +1247,38 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (168)
 
-Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni, dalla [L. 17 dicembre 2021, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), ha disposto (con l'art. 7-bis, commi 2 e 3) che "Fino alla data di entrata in vigore del decreto di cui all'articolo 10, comma 10-bis, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), come introdotto dal comma 1 del presente articolo, e comunque non oltre il 30 aprile 2022, continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto assi, la disciplina di cui al citato articolo 10 vigente al 9 novembre 2021. Conservano altresi' efficacia fino alla loro scadenza le autorizzazioni alla circolazione gia' rilasciate alla data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis, e comunque non oltre il 30 aprile 2022. 
- 3. Fatto salvo quanto previsto dal comma 2, fino alla data di entrata in vigore del decreto di cui all'articolo 10, comma 10-bis, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), come introdotto dal comma 1 del presente articolo, l'autorizzazione al trasporto in condizioni di eccezionalita', fermo restando quanto previsto dal citato articolo 10, comma 2, lettera b), quarto periodo, come modificata dal comma 1 del presente articolo, puo' essere rilasciata esclusivamente entro i limiti di massa complessiva di 38 tonnellate se effettuato mediante autoveicolo isolato a tre assi, di 48 tonnellate se effettuato mediante autoveicolo isolato a quattro assi e di 86 tonnellate se effettuato mediante complessi di veicoli a sei assi".
+Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni, dalla [L. 17 dicembre 2021, n. 215](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202021%20n.%20146%20recante%20misure%20urgenti%20in%20materia%20economica%20e%20fiscale%20a%20tutela%20del%20lavoro%20e%20per%20esigenze%20indifferibili.%2021G00238.md), ha disposto (con l'art. 7-bis, commi 2 e 3) che "Fino alla data di entrata in vigore del decreto di cui all'articolo 10, comma 10-bis, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come introdotto dal comma 1 del presente articolo, e comunque non oltre il 30 aprile 2022, continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto assi, la disciplina di cui al citato articolo 10 vigente al 9 novembre 2021. Conservano altresi' efficacia fino alla loro scadenza le autorizzazioni alla circolazione gia' rilasciate alla data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis, e comunque non oltre il 30 aprile 2022. 
+ 3. Fatto salvo quanto previsto dal comma 2, fino alla data di entrata in vigore del decreto di cui all'articolo 10, comma 10-bis, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come introdotto dal comma 1 del presente articolo, l'autorizzazione al trasporto in condizioni di eccezionalita', fermo restando quanto previsto dal citato articolo 10, comma 2, lettera b), quarto periodo, come modificata dal comma 1 del presente articolo, puo' essere rilasciata esclusivamente entro i limiti di massa complessiva di 38 tonnellate se effettuato mediante autoveicolo isolato a tre assi, di 48 tonnellate se effettuato mediante autoveicolo isolato a quattro assi e di 86 tonnellate se effettuato mediante complessi di veicoli a sei assi".
 
 ---------------
 
 AGGIORNAMENTO (172)
 
-Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146) convertito, con modificazioni, dalla [L. 17 dicembre 2021, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), come modificato dal [D.L. 17 maggio 2022, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-05-17;50), convertito con modificazioni dalla [L. 15 luglio 2022, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-07-15;91), ha disposto (con l'art. 7-bis, comma 2) che "Fino alla data di entrata in vigore del decreto di cui all'articolo 10, comma 10-bis, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), come introdotto dal comma 1 del presente articolo, e comunque non oltre il 31 luglio 2022, continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto assi, la disciplina di cui al citato articolo 10 vigente al 9 novembre 2021. Conservano altresi' efficacia fino alla loro scadenza le autorizzazioni alla circolazione gia' rilasciate alla data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis, e comunque non oltre il 31 luglio 2022".
+Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146) convertito, con modificazioni, dalla [L. 17 dicembre 2021, n. 215](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202021%20n.%20146%20recante%20misure%20urgenti%20in%20materia%20economica%20e%20fiscale%20a%20tutela%20del%20lavoro%20e%20per%20esigenze%20indifferibili.%2021G00238.md), come modificato dal [D.L. 17 maggio 2022, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-05-17;50), convertito con modificazioni dalla [L. 15 luglio 2022, n. 91](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20maggio%202022%20n.%2050%20recante%20misure%20urgenti%20in%20materia%20di%20politiche%20energetiche%20nazionali%20produttivita%20delle%20imprese%20e%20attrazione%20_a257a392ea1a.md), ha disposto (con l'art. 7-bis, comma 2) che "Fino alla data di entrata in vigore del decreto di cui all'articolo 10, comma 10-bis, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come introdotto dal comma 1 del presente articolo, e comunque non oltre il 31 luglio 2022, continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto assi, la disciplina di cui al citato articolo 10 vigente al 9 novembre 2021. Conservano altresi' efficacia fino alla loro scadenza le autorizzazioni alla circolazione gia' rilasciate alla data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis, e comunque non oltre il 31 luglio 2022".
 
 ---------------
 
 AGGIORNAMENTO (177)
 
-Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), come modificato dal [D.L. 9 agosto 2022, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115), convertito, con modificazioni, dalla [L. 21 settembre 2022, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-09-21;142), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 31 dicembre 2022, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10-com10bis), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizioni di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate. Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto o piu' assi, la disciplina di cui all'articolo 10 del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), vigente al 9 novembre 2021. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis".
+Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202021%20n.%20146%20recante%20misure%20urgenti%20in%20materia%20economica%20e%20fiscale%20a%20tutela%20del%20lavoro%20e%20per%20esigenze%20indifferibili.%2021G00238.md), come modificato dal [D.L. 9 agosto 2022, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115), convertito, con modificazioni, dalla [L. 21 settembre 2022, n. 142](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20agosto%202022%20n.%20115%20recante%20misure%20urgenti%20in%20materia%20di%20energia%20emergenza%20idrica%20politiche%20sociali%20e%20industriali.%2022G00152.md), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 31 dicembre 2022, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizioni di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate. Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto o piu' assi, la disciplina di cui all'articolo 10 del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vigente al 9 novembre 2021. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis".
 
 ---------------
 
 AGGIORNAMENTO (181)
 
-Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 31 dicembre 2023, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10-com10bis), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizioni di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate. Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto o piu' assi, la disciplina di cui all'articolo 10 del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), vigente al 9 novembre 2021. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis".
+Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202021%20n.%20146%20recante%20misure%20urgenti%20in%20materia%20economica%20e%20fiscale%20a%20tutela%20del%20lavoro%20e%20per%20esigenze%20indifferibili.%2021G00238.md), come modificato dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 31 dicembre 2023, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizioni di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate. Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto o piu' assi, la disciplina di cui all'articolo 10 del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vigente al 9 novembre 2021. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis".
 
 ---------------
 
 AGGIORNAMENTO (185)
 
-Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), come modificato dal [D.L. 29 settembre 2023, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-29;132), convertito con modificazioni dalla [L. 27 novembre 2023, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-11-27;170), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 30 marzo 2025, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10-com10bis), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizioni di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate. Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto o piu' assi, la disciplina di cui all'articolo 10 del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), vigente al 9 novembre 2021. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis".
+Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202021%20n.%20146%20recante%20misure%20urgenti%20in%20materia%20economica%20e%20fiscale%20a%20tutela%20del%20lavoro%20e%20per%20esigenze%20indifferibili.%2021G00238.md), come modificato dal [D.L. 29 settembre 2023, n. 132](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20normativi%20e%20versamenti%20fiscali.%2023G00142.md), convertito con modificazioni dalla [L. 27 novembre 2023, n. 170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20settembre%202023%20n.%20132%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20normativi%20e%20versamenti%20fiscali.%2023G00181.md), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 30 marzo 2025, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizioni di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate. Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuati mediante complessi di veicoli a otto o piu' assi, la disciplina di cui all'articolo 10 del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vigente al 9 novembre 2021. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis".
 
 ---------------
 
 AGGIORNAMENTO (191)
 
-Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), come modificato dal [D.L. 27 dicembre 2024, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202), convertito con modificazioni dalla [L. 21 febbraio 2025, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 30 marzo 2026, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_10-com10bis), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285). Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita', la disciplina di cui all'articolo 10, comma 10, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), nonche', ai trasporti in condizioni di eccezionalita' per massa complessiva oltre le 86 tonnellate effettuati mediante complessi di veicoli con meno di otto assi, la disciplina transitoria sulle eventuali misure, anche di natura organizzativa o gestionale, di mitigazione del rischio applicabili di cui all'articolo 10, comma 10-bis, lettera b-bis), del medesimo codice. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis."
+Il [D.L. 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito con modificazioni dalla [L. 17 dicembre 2021, n. 215](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202021%20n.%20146%20recante%20misure%20urgenti%20in%20materia%20economica%20e%20fiscale%20a%20tutela%20del%20lavoro%20e%20per%20esigenze%20indifferibili.%2021G00238.md), come modificato dal [D.L. 27 dicembre 2024, n. 202](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00227.md), convertito con modificazioni dalla [L. 21 febbraio 2025, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20dicembre%202024%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2025G00024.md), ha disposto (con l'art. 7-bis, comma 2) che "Fino al 30 marzo 2026, resta sospesa l'efficacia delle disposizioni contenute nel decreto di cui all'[articolo 10, comma 10-bis, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita', la disciplina di cui all'articolo 10, comma 10, del codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), nonche', ai trasporti in condizioni di eccezionalita' per massa complessiva oltre le 86 tonnellate effettuati mediante complessi di veicoli con meno di otto assi, la disciplina transitoria sulle eventuali misure, anche di natura organizzativa o gestionale, di mitigazione del rischio applicabili di cui all'articolo 10, comma 10-bis, lettera b-bis), del medesimo codice. Conservano altresi' efficacia, fino alla loro scadenza, le autorizzazioni alla circolazione gia' rilasciate prima della data di entrata in vigore del decreto di cui al citato articolo 10, comma 10-bis."
 
 ### Art. 11. — Servizi di polizia stradale
 
@@ -2329,7 +2329,7 @@ E' vietata l'apposizione di scritte o insegne pubblicitarie luminose sui veicoli
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42).
+COMMA ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 4.
 
@@ -2392,7 +2392,7 @@ In caso di collocazione di cartelli, insegne di esercizio o altri mezzi pubblici
 
 13-ter.
 
-PERIODO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42). In caso di inottemperanza al divieto, i cartelli, le insegne di esercizio e gli altri mezzi pubblicitari sono rimossi ai sensi del comma 13-bis.
+PERIODO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md). In caso di inottemperanza al divieto, i cartelli, le insegne di esercizio e gli altri mezzi pubblicitari sono rimossi ai sensi del comma 13-bis.
 Le regioni possono individuare entro dodici mesi dalla data di entrata in vigore della presente disposizione le strade di interesse panoramico ed ambientale nelle quali i cartelli, le insegne di esercizio ed altri mezzi pubblicitari provocano deturpamento del paesaggio. Entro sei mesi dal provvedimento di individuazione delle strade di interesse panoramico ed ambientale i comuni provvedono alle rimozioni ai sensi del comma 13-bis.
 
 13-quater.
@@ -2402,7 +2402,7 @@ Nel caso in cui l'installazione dei cartelli, delle insegne di esercizio o di al
 
 13-quinquies.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
 ---------------
 
@@ -2462,7 +2462,7 @@ Il Decreto 22 dicembre 2010 (in G.U. 31/12/2010 n. 305) ha disposto (con l'art. 
 
 AGGIORNAMENTO (107)
 
-Il [D.L. 29 dicembre 2011, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-29;216), convertito con modificazioni dalla [L. 24 febbraio 2012, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-02-24;14), ha disposto (con l'art. 11, comma 6-bis) che "Il decreto di cui all'articolo 23, comma 7, quarto periodo, del [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), e successive modificazioni, relativo ai cartelli di valorizzazione e promozione del territorio indicanti siti d'interesse turistico e culturale, e' adottato entro il 31 marzo 2012 di concerto con il Ministro per gli affari regionali, il turismo e lo sport".
+Il [D.L. 29 dicembre 2011, n. 216](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2011G0260.md), convertito con modificazioni dalla [L. 24 febbraio 2012, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202011%20n.%20216%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Differimento%20di%20termini%20relativi%20alleserc_73061fff38d8.md), ha disposto (con l'art. 11, comma 6-bis) che "Il decreto di cui all'articolo 23, comma 7, quarto periodo, del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, relativo ai cartelli di valorizzazione e promozione del territorio indicanti siti d'interesse turistico e culturale, e' adottato entro il 31 marzo 2012 di concerto con il Ministro per gli affari regionali, il turismo e lo sport".
 
 -------------
 
@@ -2492,7 +2492,7 @@ Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art.
 
 AGGIORNAMENTO (150)
 
-La Corte Costituzionale, con sentenza 3 aprile - 10 maggio 2019, n. 113 (in G.U. 1ª s.s. 15/05/2019, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'[art. 23, comma 12, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_23-com12) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nel testo sostituito dall'[art. 36, comma 10-bis, del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_36-com10bis) (Disposizioni urgenti per la stabilizzazione finanziaria), convertito, con modificazioni, in [legge 15 luglio 2011, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-07-15;111), nella parte relativa alla determinazione della sanzione pecuniaria della infrazione ivi prevista".
+La Corte Costituzionale, con sentenza 3 aprile - 10 maggio 2019, n. 113 (in G.U. 1ª s.s. 15/05/2019, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'[art. 23, comma 12, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nel testo sostituito dall'[art. 36, comma 10-bis, del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_36-com10bis) (Disposizioni urgenti per la stabilizzazione finanziaria), convertito, con modificazioni, in [legge 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md), nella parte relativa alla determinazione della sanzione pecuniaria della infrazione ivi prevista".
 
 --------------
 
@@ -2524,7 +2524,7 @@ Le pertinenze costituite da aree di servizio , da aree per la ricarica dei veico
 
 5-bis.
 
-Per esigenze di sicurezza della circolazione stradale connesse alla congruenza del progetto autostradale, le pertinenze di servizio relative alle strade di tipo A) sono previste, secondo le modalita' fissate dall'Autorita' di regolazione dei trasporti, sentita l'Agenzia per le infrastrutture stradali e autostradali di cui all'[articolo 36 del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_36), convertito, con modificazioni, dalla [legge 15 luglio 2011, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-07-15;111) dai progetti dell'ente proprietario ovvero, se individuato, del concessionario e approvate dal concedente, nel rispetto delle disposizioni in materia di affidamento dei servizi di distribuzione di carbolubrificanti e delle attivita' commerciali e ristorative nelle aree di servizio autostradali di cui al [comma 5-ter dell'articolo 11 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_11-com5ter), e successive modificazioni, ((e delle norme che disciplinano l'installazione e la gestione di stazioni di ricarica elettrica)) e d'intesa con le regioni, esclusivamente per i profili di competenza regionale.
+Per esigenze di sicurezza della circolazione stradale connesse alla congruenza del progetto autostradale, le pertinenze di servizio relative alle strade di tipo A) sono previste, secondo le modalita' fissate dall'Autorita' di regolazione dei trasporti, sentita l'Agenzia per le infrastrutture stradali e autostradali di cui all'[articolo 36 del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_36), convertito, con modificazioni, dalla [legge 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md) dai progetti dell'ente proprietario ovvero, se individuato, del concessionario e approvate dal concedente, nel rispetto delle disposizioni in materia di affidamento dei servizi di distribuzione di carbolubrificanti e delle attivita' commerciali e ristorative nelle aree di servizio autostradali di cui al [comma 5-ter dell'articolo 11 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), e successive modificazioni, ((e delle norme che disciplinano l'installazione e la gestione di stazioni di ricarica elettrica)) e d'intesa con le regioni, esclusivamente per i profili di competenza regionale.
 
 6.
 
@@ -3456,7 +3456,7 @@ Il Decreto 22 dicembre 1998 (in G.U. 28/12/1998, n. 301) ha disposto (con l'art.
 
 AGGIORNAMENTO (37)
 
-Il [D.Lgs. 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56), ha disposto (con l'art. 1, comma 1, lettera b)) che a decorrere dall'anno 2001 cessano i trasferimenti erariali in favore delle regioni a statuto ordinario previsti dal comma 4 del presente articolo concernenti gli indennizzi di usura derivanti dall'uso dei mezzi d'opera.
+Il [D.Lgs. 18 febbraio 2000, n. 56](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), ha disposto (con l'art. 1, comma 1, lettera b)) che a decorrere dall'anno 2001 cessano i trasferimenti erariali in favore delle regioni a statuto ordinario previsti dal comma 4 del presente articolo concernenti gli indennizzi di usura derivanti dall'uso dei mezzi d'opera.
 
 ------------
 
@@ -3510,7 +3510,7 @@ Il Decreto 16 dicembre 2014 (in G.U. 31/12/2014, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (128)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 1, comma 596) che "A decorrere dall'anno 2016 cessano i trasferimenti erariali in favore delle regioni a statuto speciale previsti dall'[articolo 34, comma 4, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_34-com4), e dall'articolo 72, comma 3, del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), concernenti gli indennizzi di usura derivanti dall'uso dei mezzi d'opera".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 1, comma 596) che "A decorrere dall'anno 2016 cessano i trasferimenti erariali in favore delle regioni a statuto speciale previsti dall'[articolo 34, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e dall'articolo 72, comma 3, del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), concernenti gli indennizzi di usura derivanti dall'uso dei mezzi d'opera".
 
 --------------
 
@@ -3669,7 +3669,7 @@ Il campo di applicazione obbligatorio della segnaletica stradale comprende le st
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 12.
 
@@ -4179,7 +4179,7 @@ Il Decreto 16 dicembre 2014 (in G.U. 31/12/2014, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (126)
 
-La Corte Costituzionale, con sentenza 29 aprile - 18 giugno 2015, n. 113 (in G.U. 1ª s.s. 24/6/2015, n. 25), ha dichiarato "l'illegittimita' costituzionale dell'[art. 45, comma 6, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_45-com6) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nella parte in cui non prevede che tutte le apparecchiature impiegate nell'accertamento delle violazioni dei limiti di velocita' siano sottoposte a verifiche periodiche di funzionalita' e di taratura".
+La Corte Costituzionale, con sentenza 29 aprile - 18 giugno 2015, n. 113 (in G.U. 1ª s.s. 24/6/2015, n. 25), ha dichiarato "l'illegittimita' costituzionale dell'[art. 45, comma 6, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nella parte in cui non prevede che tutte le apparecchiature impiegate nell'accertamento delle violazioni dei limiti di velocita' siano sottoposte a verifiche periodiche di funzionalita' e di taratura".
 
 ---------------
 
@@ -4226,7 +4226,7 @@ Ai fini delle norme del presente codice, si intendono per veicoli tutte le macch
 ----------------
  
 AGGIORNAMENTO (4) 
- Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+ Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 47. — Classificazione dei veicoli
 
@@ -4291,14 +4291,14 @@ I veicoli a motore e i loro rimorchi, di cui al comma 1, lettere e), f), g), h),
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
 AGGIORNAMENTO (35)
 
 La [L. 16 dicembre 1999, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-16;494) ha disposto (con l'art. 11, comma 1) che: 
- - "Fino al 30 giugno 2001, nel centro abitato dei' comune di Roma, le sanzioni amministrative per le infrazioni previste dall'[articolo 146, comma 3, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_146-com3), e successive modificazioni, nonche', per quelle inerenti alla fermata, alla sosta e all'accesso ai settori interdetti alla circolazione, commesse dai conducenti degli autoveicoli pubblici e privati di cui all'articolo 47, comma 2, lettera b), categorie M2 e M3, dello stesso [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), sono elevate del 500 per cento rispetto a quelle vigenti; per le infrazioni concernenti la fermata e la sosta e' disposto il blocco del veicolo, sino al pagamento della sanzione irrogata." 
+ - "Fino al 30 giugno 2001, nel centro abitato dei' comune di Roma, le sanzioni amministrative per le infrazioni previste dall'[articolo 146, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, nonche', per quelle inerenti alla fermata, alla sosta e all'accesso ai settori interdetti alla circolazione, commesse dai conducenti degli autoveicoli pubblici e privati di cui all'articolo 47, comma 2, lettera b), categorie M2 e M3, dello stesso [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), sono elevate del 500 per cento rispetto a quelle vigenti; per le infrazioni concernenti la fermata e la sosta e' disposto il blocco del veicolo, sino al pagamento della sanzione irrogata." 
  - "Nelle ipotesi previste dall'articolo 146, comma 3, e dall'articolo 159 comma 1, del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), e successive modificazioni, ed in caso di accesso ai settori interdetti alla circolazione, ferme le sanzioni amministrative di cui al presente articolo e sempre limitatamente alle infrazioni commesse dai conducenti degli autoveicoli pubblici e privati di cui al citato articolo 47, comma 2, lettera b), categorie M2 e M3, del predetto [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), si applica la sanzione accessoria della sospensione della patente di cui agli articoli 129 e 218 del medesimo decreto legislativo secondo le procedure dallo stesso previste, per un periodo da quindici giorni a due mesi."
 
 ---------------
@@ -4322,7 +4322,7 @@ I veicoli a braccia sono quelli:
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 49. — Veicoli a trazione animale
 
@@ -4345,7 +4345,7 @@ I veicoli a trazione animale muniti di pattini sono denominati slitte.
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 50. — Velocipedi
 
@@ -4371,19 +4371,19 @@ Alla sanzione ((amministrativa del pagamento di una somma)) da euro 845 ad euro 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ----------
 
 AGGIORNAMENTO (153)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dal [D.L. 30 dicembre 2019, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-12-30;162), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-02-28;8), ha disposto (con l'art. 1, comma 75) che "Nelle more della sperimentazione di cui all'[articolo 1, comma 102, della legge 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145#art_1-com102), e fino alla data di entrata in vigore delle nuove norme relative alla stessa sperimentazione, sono considerati velocipedi, ai sensi dell'[articolo 50 del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_50), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), anche al di fuori degli ambiti territoriali della sperimentazione, i monopattini a propulsione prevalentemente elettrica non dotati di posti a sedere, aventi motore elettrico di potenza nominale continua non superiore a 0,50 kW, rispondenti agli altri requisiti tecnici e costruttivi indicati nel decreto del Ministro delle infrastrutture e dei trasporti 4 giugno 2019, pubblicato nella Gazzetta Ufficiale n. 162 del 12 luglio 2019, e caratterizzati dai componenti elencati nell'allegato 1 al medesimo decreto".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dal [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), ha disposto (con l'art. 1, comma 75) che "Nelle more della sperimentazione di cui all'[articolo 1, comma 102, della legge 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), e fino alla data di entrata in vigore delle nuove norme relative alla stessa sperimentazione, sono considerati velocipedi, ai sensi dell'[articolo 50 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), anche al di fuori degli ambiti territoriali della sperimentazione, i monopattini a propulsione prevalentemente elettrica non dotati di posti a sedere, aventi motore elettrico di potenza nominale continua non superiore a 0,50 kW, rispondenti agli altri requisiti tecnici e costruttivi indicati nel decreto del Ministro delle infrastrutture e dei trasporti 4 giugno 2019, pubblicato nella Gazzetta Ufficiale n. 162 del 12 luglio 2019, e caratterizzati dai componenti elencati nell'allegato 1 al medesimo decreto".
 
 ----------
 
 AGGIORNAMENTO (163)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 699) che "L'efficacia delle disposizioni di cui al comma 698 e' subordinata all'autorizzazione della Commissione europea ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea".
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 699) che "L'efficacia delle disposizioni di cui al comma 698 e' subordinata all'autorizzazione della Commissione europea ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea".
 
 ### Art. 51. — Slitte
 
@@ -4400,7 +4400,7 @@ Chiunque circola con slitte in assenza delle condizioni di cui al comma 1 e' sog
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -4478,7 +4478,7 @@ I ciclomotori sono veicoli a motore a due o tre ruote aventi le seguenti caratte
                             b)
                                 capacita' di sviluppare su strada orizzontale una velocita' fino a 45 Km/h;
                             c)
-                                LETTERA SOPPRESSA DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+                                LETTERA SOPPRESSA DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 2.
 
@@ -4497,7 +4497,7 @@ Detti veicoli, qualora superino il limite stabilito per una delle caratteristich
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 53. — Motoveicoli
 
@@ -4546,7 +4546,7 @@ I motoveicoli di cui alle lettere d), e), f) e g) possono essere attrezzati con 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 54. — Autoveicoli
 
@@ -4587,13 +4587,13 @@ Nel regolamento sono elencati, in relazione alle speciali attrezzature di cui so
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
 AGGIORNAMENTO (167)
 
-Il [D.L. 10 settembre 2021, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121), convertito con modificazioni dalla [L. 9 novembre 2021, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156), ha disposto (con l'art. 1, comma 5-quinquies) che "In deroga a quanto disposto dall'[articolo 54, comma 1, lettera d), del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_54-com1-letd), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), sugli autocarri e' possibile la presenza a bordo, oltre che delle persone addette all'uso o al trasporto delle cose trasportate, anche di un soggetto neo-assunto, in possesso dei titoli professionali previsti per l'esercizio della professione, per un periodo di addestramento di durata massima di tre mesi".
+Il [D.L. 10 settembre 2021, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121), convertito con modificazioni dalla [L. 9 novembre 2021, n. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20settembre%202021%20n.%20121%20recante%20disposizioni%20urgenti%20in%20materia%20di%20investimenti%20e%20sicurezza%20delle%20infrastrutture%20dei%20trasporti%20e%20_a45ae3c7c3a4.md), ha disposto (con l'art. 1, comma 5-quinquies) che "In deroga a quanto disposto dall'[articolo 54, comma 1, lettera d), del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sugli autocarri e' possibile la presenza a bordo, oltre che delle persone addette all'uso o al trasporto delle cose trasportate, anche di un soggetto neo-assunto, in possesso dei titoli professionali previsti per l'esercizio della professione, per un periodo di addestramento di durata massima di tre mesi".
 
 ### Art. 55. — Filoveicoli
 
@@ -4611,7 +4611,7 @@ I filoveicoli possono essere distinti, compatibilmente con le loro caratteristic
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 56. — Rimorchi
 
@@ -4653,7 +4653,7 @@ I carrelli appendice a non piu' di due ruote destinati al trasporto di bagagli, 
 ----------------
  
 AGGIORNAMENTO (4) 
- Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+ Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 57. — Macchine agricole
 
@@ -4689,7 +4689,7 @@ Le macchine agricole di cui alla lettera a), numeri 1 e 2, e di cui alla lettera
 ----------------
  
 AGGIORNAMENTO (4) 
- Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+ Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 58. — Macchine operatrici
 
@@ -4720,7 +4720,7 @@ Ai fini della circolazione su strada le macchine operatrici non devono essere at
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 59. — Veicoli con caratteristiche atipiche
 
@@ -4742,7 +4742,7 @@ Il Ministro dei trasporti, sentiti i Ministri interessati, stabilisce, con propr
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 60. — ((Motoveicoli, ciclomotori, autoveicoli e macchine agricole d'epoca e di interesse storico e collezionistico iscritti negli appositi registri))
 
@@ -4777,7 +4777,7 @@ Chiunque circola con veicoli d'epoca senza l'autorizzazione prevista dal comma 3
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -4896,7 +4896,7 @@ Chiunque circola con un veicolo o con un complesso di veicoli compreso il carico
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -5008,14 +5008,14 @@ Chiunque circola con un veicolo che supera compreso il carico, salvo quanto disp
 
 7-bis.
 
-COMMA ABROGATO DAL [D.L. 24 GENNAIO 2012, N. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 24 MARZO 2012, N. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27). 
+COMMA ABROGATO DAL [D.L. 24 GENNAIO 2012, N. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 24 MARZO 2012, N. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20gennaio%202012%20n.%201%20recante%20disposizioni%20urgenti%20per%20la%20concorrenza%20lo%20sviluppo%20delle%20infrastrutture%20e%20la%20competitivita.%2012G0048.md). 
 (4)
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 63. — Traino veicoli
 
@@ -5044,7 +5044,7 @@ Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione a
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -5135,7 +5135,7 @@ Chiunque viola le disposizioni del presente articolo e dell'art. 69 e' soggetto 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -5223,13 +5223,13 @@ Chiunque circola con un veicolo a trazione animale o con una slitta non provvist
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -5317,7 +5317,7 @@ Chiunque circola con un veicolo a trazione animale non rispondente ai requisiti 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -5421,7 +5421,7 @@ Alle violazioni di cui ai commi 5 e 6 consegue la sanzione amministrativa access
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -5538,7 +5538,7 @@ Chiunque produce o mette in commercio velocipedi o i relativi dispositivi di equ
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -5629,7 +5629,7 @@ Nel regolamento sono stabiliti, per i veicoli di cui agli articoli 49, 50 e 51, 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 70. — Servizio di piazza con veicoli a trazione animale o con slitte
 
@@ -5667,7 +5667,7 @@ Dalla violazione prevista dal primo periodo del comma 4 consegue la sanzione acc
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -5775,7 +5775,7 @@ Chiunque circola con un veicolo a motore o con un rimorchio non conformi alle pr
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -5939,7 +5939,7 @@ Chiunque circola con uno dei veicoli citati nel presente articolo in cui alcuno 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -5969,13 +5969,13 @@ Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (56)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214) ha disposto (con l'art. 7, comma 5-bis) che le disposizioni del comma 2-bis del presente articolo hanno effetto a decorrere dal 1° luglio 2004.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md) ha disposto (con l'art. 7, comma 5-bis) che le disposizioni del comma 2-bis del presente articolo hanno effetto a decorrere dal 1° luglio 2004.
 
 ---------------
 
 AGGIORNAMENTO (60)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214), come modificato dal [D.L. 24 dicembre 2003, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-12-24;355), convertito con modificazioni dalla [L. 27 febbraio 2004, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-02-27;47), ha disposto (con l'art. 7, comma 5-bis) che le disposizioni del comma 2-bis del presente articolo, hanno effetto a decorrere dal 1° gennaio 2005.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md), come modificato dal [D.L. 24 dicembre 2003, n. 355](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), convertito con modificazioni dalla [L. 27 febbraio 2004, n. 47](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20dicembre%202003%20n.%20355%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), ha disposto (con l'art. 7, comma 5-bis) che le disposizioni del comma 2-bis del presente articolo, hanno effetto a decorrere dal 1° gennaio 2005.
 
 ---------------
 
@@ -6045,7 +6045,7 @@ Chiunque circola in sede promiscua con un veicolo su rotaia mancante di alcuno d
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -6155,7 +6155,7 @@ Chiunque contraffa', asporta, sostituisce, altera, cancella o rende illeggibile 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -----------
 
@@ -6263,7 +6263,7 @@ Sono fatte salve le competenze del Ministero dell'ambiente e della tutela del te
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 76. — Certificato di approvazione, certificato di origine e dichiarazione di conformita'
 
@@ -6304,7 +6304,7 @@ Chiunque rilascia la dichiarazione di conformita' di cui ai commi 6 e 7 per veic
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -6334,7 +6334,7 @@ Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (65)
 
-La [L. 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311) ha disposto (con l'art. 1, comma 280) che "A decorrere dal 1 gennaio 2005 le dichiarazioni di conformita' di cui all'[articolo 76, commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_76-com6) e [7, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_76-com7), sono assoggettate all'imposta di bollo di cui all'articolo 2 della tariffa, parte prima, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642), e successive modificazioni".
+La [L. 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md) ha disposto (con l'art. 1, comma 280) che "A decorrere dal 1 gennaio 2005 le dichiarazioni di conformita' di cui all'[articolo 76, commi 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [7, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sono assoggettate all'imposta di bollo di cui all'articolo 2 della tariffa, parte prima, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni".
 
 --------------
 
@@ -6418,7 +6418,7 @@ Sono fatte salve le competenze del Ministero dell'ambiente e della tutela del te
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -6521,7 +6521,7 @@ Le violazioni suddette importano la sanzione amministrativa accessoria del ritir
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -6624,7 +6624,7 @@ Chiunque circola con un veicolo che presenti alterazioni nelle caratteristiche c
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -6782,7 +6782,7 @@ Con decreto del Ministro delle infrastrutture e della mobilita' sostenibili, da 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -6825,7 +6825,7 @@ Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'art.
 AGGIORNAMENTO (83)
 
 Il Decreto 2 agosto 2007, n. 161, ha disposto: 
- - (con l'art. 1, comma 1) che "La tariffa relativa alle operazioni di revisione dei veicoli a motore e dei loro rimorchi eseguite dai funzionari degli Uffici della motorizzazione civile ai sensi dell'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_80), e' fissata in Euro 45,00 che l'utente corrisponde anticipatamente mediante versamento sul conto corrente postale n. 9001 intestato al Dipartimento trasporti terrestri - Roma." 
+ - (con l'art. 1, comma 1) che "La tariffa relativa alle operazioni di revisione dei veicoli a motore e dei loro rimorchi eseguite dai funzionari degli Uffici della motorizzazione civile ai sensi dell'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' fissata in Euro 45,00 che l'utente corrisponde anticipatamente mediante versamento sul conto corrente postale n. 9001 intestato al Dipartimento trasporti terrestri - Roma." 
  - (con l'art. 2, comma 1) che "La tariffa relativa alle operazioni di revisione dei veicoli a motore e dei loro rimorchi eseguite dalle imprese di cui all'[articolo 80, comma 8, del decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_80-com8) e' fissata in Euro 45,00 che l'utente corrisponde anticipatamente all'impresa interessata. A tale tariffa e' aggiunta quella prevista al punto 2) della tabella 3) allegata alla [legge 1° dicembre 1986, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;870), che l'utente corrisponde anticipatamente con le modalita' previste dall'articolo 1, per l'annotazione dell'esito della revisione sulla carta di circolazione".
 
 --------------
@@ -6920,7 +6920,7 @@ Con decreto del Ministro dei trasporti vengono fissate le norme e le modalita' d
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ## Sezione II Destinazione ed uso dei veicoli
 
@@ -6988,7 +6988,7 @@ Dalla violazione dei commi 8 e 9 consegue la sanzione amministrativa accessoria 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -7099,7 +7099,7 @@ Chiunque adibisce ad uso proprio per trasporto di cose un veicolo senza il titol
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -7233,7 +7233,7 @@ I documenti di cui al comma 4-quater, lettere a) e b), possono eventualmente ess
 
 5.
 
-Per i veicoli destinati a locazione senza conducente di cui al comma 4, la carta di circolazione e' rilasciata alle imprese che esercitano l'attivita' in conformita' a quanto previsto dall'articolo 1 del regolamento di cui al [decreto del Presidente della Repubblica 19 dicembre 2001, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-19;481).
+Per i veicoli destinati a locazione senza conducente di cui al comma 4, la carta di circolazione e' rilasciata alle imprese che esercitano l'attivita' in conformita' a quanto previsto dall'articolo 1 del regolamento di cui al [decreto del Presidente della Repubblica 19 dicembre 2001, n. 481](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20autorizzazione%20per%20lesercizio%20dellattivita%20di%20noleggio%20di%20veicoli%20senza%20conducente.md).
 
 6.
 
@@ -7255,7 +7255,7 @@ Alle violazioni di cui ai commi 7 e 7-bis consegue la sanzione amministrativa ac
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -7279,7 +7279,7 @@ Il Decreto 29 dicembre 2000 (in G.U. 30/12/2000, n. 303) ha disposto (con l'art.
 
 AGGIORNAMENTO (50)
 
-Il [D.P.R. 19 dicembre 2001, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-19;481) ha disposto (con l'art. 3, comma 2) che "La disposizione di cui al [comma 5, dell'articolo 84 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_84-com5), si intende riferita alla denuncia di inizio attivita' di cui al presente regolamento anziche' alla licenza."
+Il [D.P.R. 19 dicembre 2001, n. 481](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20autorizzazione%20per%20lesercizio%20dellattivita%20di%20noleggio%20di%20veicoli%20senza%20conducente.md) ha disposto (con l'art. 3, comma 2) che "La disposizione di cui al [comma 5, dell'articolo 84 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si intende riferita alla denuncia di inizio attivita' di cui al presente regolamento anziche' alla licenza."
 
 ---------------
 
@@ -7396,7 +7396,7 @@ d) alle violazioni successive alla terza commesse nell'arco di cinque anni relat
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -7434,7 +7434,7 @@ d) alle violazioni successive alla terza commesse nell'arco di cinque anni, si a
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -7446,7 +7446,7 @@ Il Decreto 20 dicembre 1996 (in G.U. 28/12/1996, n. 303) ha disposto (con l'art.
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 19 novembre 1997, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-19;422), ha disposto (con l'art. 14, comma 6) che "Ad integrazione dell'[articolo 86 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_86), ai veicoli adibiti al servizio di piazza per il trasporto di persone di cui all'articolo 82, comma 5, lettera b), dello stesso decreto, e' consentito l'uso proprio fuori servizio."
+Il [D.Lgs. 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), ha disposto (con l'art. 14, comma 6) che "Ad integrazione dell'[articolo 86 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), ai veicoli adibiti al servizio di piazza per il trasporto di persone di cui all'articolo 82, comma 5, lettera b), dello stesso decreto, e' consentito l'uso proprio fuori servizio."
 
 ------------
 
@@ -7555,7 +7555,7 @@ La violazione di cui al comma 6 importa la sanzione accessoria della sospensione
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -7654,7 +7654,7 @@ Chiunque adibisce al trasporto di cose per conto terzi veicoli non adibiti a tal
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 89. — Servizio di linea per trasporto di cose
 
@@ -7667,7 +7667,7 @@ Il servizio di linea per trasporto di cose e' disciplinato dalle leggi specifich
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 90. — Trasporto di cose per conto terzi in servizio di piazza
 
@@ -7684,7 +7684,7 @@ Chiunque utilizza per il trasporto di cose per conto terzi in servizio di piazza
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -7787,7 +7787,7 @@ Ai fini delle violazioni amministrative si applica all'utilizzatore a titolo di 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 92. — Estratto dei documenti di circolazione o di guida
 
@@ -7813,13 +7813,13 @@ Alla violazione di cui al comma 2, secondo periodo, consegue la sanzione amminis
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360), come modificato dall'avviso di rettifica in G.U. 03/03/1994, n. 51, ha disposto (con l'art. 40, comma 1, lettera a)) che al comma 2 del presente articolo le parole "quindici giorni" sono sostituite, ogni volta, dalle seguenti: "trenta giorni".
+Il [D.Lgs. 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), come modificato dall'avviso di rettifica in G.U. 03/03/1994, n. 51, ha disposto (con l'art. 40, comma 1, lettera a)) che al comma 2 del presente articolo le parole "quindici giorni" sono sostituite, ogni volta, dalle seguenti: "trenta giorni".
 
 ---------------
 
@@ -7963,7 +7963,7 @@ Chiunque circola con un rimorchio agganciato ad una motrice le cui caratteristic
 
 9.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 MAGGIO 2017, N. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98). (138a) (148)
+COMMA SOPPRESSO DAL [D.LGS. 29 MAGGIO 2017, N. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md). (138a) (148)
 
 10.
 
@@ -7975,14 +7975,14 @@ I veicoli destinati esclusivamente all'impiego dei servizi di polizia stradale i
 
 12.
 
-Fermo restando quanto previsto dal [decreto del Presidente della Repubblica 19 settembre 2000, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-19;358), istitutivo dello sportello telematico dell'automobilista, gli adempimenti amministrativi previsti dal presente articolo e dagli articoli 94 e 103, comma 1, sono gestiti in via telematica dagli uffici del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale, quale centro unico di servizio, attraverso il sistema informativo del Dipartimento stesso. (138a) (148) 
+Fermo restando quanto previsto dal [decreto del Presidente della Repubblica 19 settembre 2000, n. 358](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20relativo%20allimmatricolazione%20ai%20passaggi%20di%20proprieta%20e%20alla%20reimmatricolazione%20degli%20autoveicoli%20dei%20motoveicoli%20e%20dei%20r_56965318bc3d.md), istitutivo dello sportello telematico dell'automobilista, gli adempimenti amministrativi previsti dal presente articolo e dagli articoli 94 e 103, comma 1, sono gestiti in via telematica dagli uffici del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale, quale centro unico di servizio, attraverso il sistema informativo del Dipartimento stesso. (138a) (148) 
  (4)
 
 ----------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ----------
 
@@ -8054,13 +8054,13 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 5 e 12 e dell'abrogazione di cui al comma 9 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 5 e 12 e dell'abrogazione di cui al comma 9 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 5 e 12 e dell'abrogazione di cui al comma 9 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 5 e 12 e dell'abrogazione di cui al comma 9 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -8078,7 +8078,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (182)
 
-La Corte Costituzionale, con sentenza 6 aprile - 6 giugno 2023 n. 113 (in G.U. 1ª s.s. 07/06/2023 n. 23), ha dichiarato l'illegittimita' costituzionale dei [commi 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_93-com1bis) e [7-bis dell'art. 93 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_93-com7bis) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), introdotti dall'[art. 29-bis, comma 1, lettera a), numeri 1)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_29bis-com1-leta-num1) e [2), del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_29bis-com1-leta-num2) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), convertito, con modificazioni, nella [legge 1° dicembre 2018, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-01;132), e, in via consequenziale, ai sensi dell'[art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87#art_27) (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dei [commi 1-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_93-com1ter), [1-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_93-com1quater) e [7-ter dell'art. 93 cod. strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_93-com7ter), introdotti dall'[art. 29-bis, comma 1, lettera a), numeri 1)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;113#art_29bis-com1-leta-num1) e [2), del d.l. n. 113 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;113#art_29bis-com1-leta-num2), come convertito.
+La Corte Costituzionale, con sentenza 6 aprile - 6 giugno 2023 n. 113 (in G.U. 1ª s.s. 07/06/2023 n. 23), ha dichiarato l'illegittimita' costituzionale dei [commi 1-bis](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [7-bis dell'art. 93 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), introdotti dall'[art. 29-bis, comma 1, lettera a), numeri 1)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_29bis-com1-leta-num1) e [2), del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_29bis-com1-leta-num2) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), convertito, con modificazioni, nella [legge 1° dicembre 2018, n. 132](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md), e, in via consequenziale, ai sensi dell'[art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87#art_27) (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dei [commi 1-ter](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [1-quater](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [7-ter dell'art. 93 cod. strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), introdotti dall'[art. 29-bis, comma 1, lettera a), numeri 1)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;113#art_29bis-com1-leta-num1) e [2), del d.l. n. 113 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;113#art_29bis-com1-leta-num2), come convertito.
 
 ### Art. 93-bis. — (( (Formalita' necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia). ))
 
@@ -8163,7 +8163,7 @@ Chiunque circoli con un veicolo per il quale non e' stato richiesto, nel termine
 
 Fatto salvo quanto previsto dall'articolo 93, comma 2, gli atti, ancorche' diversi da quelli di cui al comma 1 del presente articolo, da cui derivi una variazione dell'intestatario della carta di circolazione ovvero che comportino la disponibilita' del veicolo, per un periodo superiore a trenta giorni, in favore di un soggetto diverso dall'intestatario stesso, nei casi previsti dal regolamento sono dichiarati dall'avente causa, entro trenta giorni, al Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici al fine dell'annotazione sulla carta di circolazione, nonche' della registrazione nell'archivio di cui agli articoli 225, comma 1, lettera b), e 226, comma 5. In caso di omissione si applica la sanzione prevista dal comma 3.
 
-((4-ter. Nel sistema informativo del P.R.A. e' formato ed aggiornato l'elenco dei veicoli immatricolati all'estero per i quali e' richiesta la registrazione ai sensi del comma 2 dell'articolo 93-bis, secondo la medesima disciplina prevista per l'iscrizione dei veicoli ai sensi della [legge 9 luglio 1990, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;187). Tale elenco costituisce una base di dati disponibile per tutte le finalita' previste dall'[articolo 51, comma 2-bis, del decreto-legge 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124#art_51-com2bis), convertito, con modificazioni, dalla [legge 19 dicembre 2019, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-19;157). L'elenco e' pubblico))
+((4-ter. Nel sistema informativo del P.R.A. e' formato ed aggiornato l'elenco dei veicoli immatricolati all'estero per i quali e' richiesta la registrazione ai sensi del comma 2 dell'articolo 93-bis, secondo la medesima disciplina prevista per l'iscrizione dei veicoli ai sensi della [legge 9 luglio 1990, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;187). Tale elenco costituisce una base di dati disponibile per tutte le finalita' previste dall'[articolo 51, comma 2-bis, del decreto-legge 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124#art_51-com2bis), convertito, con modificazioni, dalla [legge 19 dicembre 2019, n. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%202019%20n.%20124%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20esigenze%20indifferibili.%2019G00164.md). L'elenco e' pubblico))
 
 5.
 
@@ -8185,7 +8185,7 @@ In tutti i casi in cui e' dimostrata l'assenza di titolarita' del bene e del con
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -8245,13 +8245,13 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1, 2 e 4 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1, 2 e 4 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1, 2 e 4 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1, 2 e 4 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -8305,13 +8305,13 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -8329,7 +8329,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 1.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 MAGGIO 2017, N. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98). (138a)(148)
+COMMA SOPPRESSO DAL [D.LGS. 29 MAGGIO 2017, N. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md). (138a)(148)
 
 1-bis.
 
@@ -8337,23 +8337,23 @@ Il Ministero delle infrastrutture e dei trasporti, con decreto dirigenziale, sta
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-09;105).
+COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20per%20il%20rilascio%20del%20duplicato%20della%20carta%20di%20circolazione%20in%20caso%20di%20smarrimento%20sottrazione%20distruzione%20o%20deterioramento_8b6e38a78cec.md).
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-09;105).
+COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20per%20il%20rilascio%20del%20duplicato%20della%20carta%20di%20circolazione%20in%20caso%20di%20smarrimento%20sottrazione%20distruzione%20o%20deterioramento_8b6e38a78cec.md).
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-09;105).
+COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20per%20il%20rilascio%20del%20duplicato%20della%20carta%20di%20circolazione%20in%20caso%20di%20smarrimento%20sottrazione%20distruzione%20o%20deterioramento_8b6e38a78cec.md).
 
 5.
 
-COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-09;105).
+COMMA ABROGATO DAL [D.P.R. 9 MARZO 2000, N. 105](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20per%20il%20rilascio%20del%20duplicato%20della%20carta%20di%20circolazione%20in%20caso%20di%20smarrimento%20sottrazione%20distruzione%20o%20deterioramento_8b6e38a78cec.md).
 
 6.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 MAGGIO 2017, N. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98). (138a)(148)
+COMMA SOPPRESSO DAL [D.LGS. 29 MAGGIO 2017, N. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md). (138a)(148)
 
 7.
 
@@ -8364,7 +8364,7 @@ Chiunque circola senza avere con se' l'estratto della carta di circolazione e' s
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -----------
 
@@ -8436,13 +8436,13 @@ Il Decreto 16 dicembre 2014 (in G.U. 31/12/2012, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica della rubrica e della soppressione di cui ai commi 1 e 6 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica della rubrica e della soppressione di cui ai commi 1 e 6 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica della rubrica e della soppressione di cui ai commi 1 e 6 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica della rubrica e della soppressione di cui ai commi 1 e 6 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -8470,19 +8470,19 @@ In caso di circolazione dopo la cancellazione si applicano le sanzioni amministr
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 e della soppressione di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 e della soppressione di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 e della soppressione di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 e della soppressione di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ### Art. 97. — Circolazione dei ciclomotori
 
@@ -8555,7 +8555,7 @@ Alle violazioni previste dai commi 5 e 7 consegue la sanzione amministrativa acc
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -8585,7 +8585,7 @@ Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (56)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito, con modificazioni, dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214), nel modificare l'[art. 3, comma 1 del D.Lgs. 15 gennaio 2002, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-15;9#art_3-com1), ha conseguentemente disposto (con l'art. 7, comma 1) la proroga al 1 luglio 2004 dell'entrata in vigore delle modifiche apportate dal citato D.Lgs. al presente articolo.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito, con modificazioni, dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md), nel modificare l'[art. 3, comma 1 del D.Lgs. 15 gennaio 2002, n. 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20nuovo%20codice%20della%20strada%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2022%20marzo%202001%20n.%2085.md), ha conseguentemente disposto (con l'art. 7, comma 1) la proroga al 1 luglio 2004 dell'entrata in vigore delle modifiche apportate dal citato D.Lgs. al presente articolo.
 
 ---------------
 
@@ -8645,11 +8645,11 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 24 NOVEMBRE 2001, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-24;474).
+COMMA ABROGATO DAL [D.P.R. 24 NOVEMBRE 2001, N. 474](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20di%20autorizzazione%20alla%20circolazione%20di%20prova%20dei%20veicoli.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 24 NOVEMBRE 2001, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-24;474).
+COMMA ABROGATO DAL [D.P.R. 24 NOVEMBRE 2001, N. 474](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20di%20autorizzazione%20alla%20circolazione%20di%20prova%20dei%20veicoli.md).
 
 3.
 
@@ -8661,14 +8661,14 @@ Se le violazioni di cui al comma 3 superano il numero di tre, la sanzione ammini
 
 4-bis.
 
-COMMA ABROGATO DAL [D.L. 23 OTTOBRE 2008, N. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-10-23;162), CONVERTITO CON MODIFICAZIONI DALLA [L. 22 DICEMBRE 2008, N. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-12-22;201). 
+COMMA ABROGATO DAL [D.L. 23 OTTOBRE 2008, N. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-10-23;162), CONVERTITO CON MODIFICAZIONI DALLA [L. 22 DICEMBRE 2008, N. 201](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%202008%20n.%20162%20recante%20interventi%20urgenti%20in%20materia%20di%20adeguamento%20dei%20prezzi%20di%20materiali%20da%20costruzione%20di%20sostegno%20ai%20_657897bfd0a3.md). 
  (4)
 
 ------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -8783,7 +8783,7 @@ Ove le violazioni di cui ai commi 3 e 4 siano compiute per piu' di tre volte, al
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -8885,7 +8885,7 @@ Le targhe indicate ai commi 1, 2, 3, 4 devono avere caratteristiche rifrangenti.
 
 6.
 
-COMMA ABROGATO DAL [D.P.R. 24 NOVEMBRE 2001, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-24;474).
+COMMA ABROGATO DAL [D.P.R. 24 NOVEMBRE 2001, N. 474](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20di%20autorizzazione%20alla%20circolazione%20di%20prova%20dei%20veicoli.md).
 
 7.
 
@@ -8920,7 +8920,7 @@ Chiunque viola le disposizioni dei commi 5 e 10 e' soggetto alla sanzione ammini
 
 14.
 
-Chiunque falsifica, manomette o altera targhe automobilistiche ovvero usa targhe manomesse, falsificate o alterate e' punito ai sensi del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Chiunque falsifica, manomette o altera targhe automobilistiche ovvero usa targhe manomesse, falsificate o alterate e' punito ai sensi del [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 15.
 
@@ -8931,7 +8931,7 @@ Dalle violazioni di cui ai commi precedenti deriva la sanzione amministrativa ac
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -9115,13 +9115,13 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 3 e 4 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 3 e 4 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 3 e 4 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 3 e 4 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -9171,7 +9171,7 @@ Chiunque circola con targa non chiaramente e integralmente leggibile e' soggetto
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -9257,22 +9257,22 @@ Le targhe ed i documenti di circolazione vengono, ritirati d'ufficio tramite gli
 
 3.
 
-IL [D.LGS. 3 APRILE 2006, N. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
+IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
 
 4.
 
-IL [D.LGS. 3 APRILE 2006, N. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
+IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
 
 5.
 
-Chiunque viola le disposizioni di cui al comma 1 e' soggetto alla sanzione amministrativa del pagamento di una somma ((da € 173 a € 694)). IL [D.LGS. 3 APRILE 2006, N. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PERIODO. (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (133) (145) ((163)) 
+Chiunque viola le disposizioni di cui al comma 1 e' soggetto alla sanzione amministrativa del pagamento di una somma ((da € 173 a € 694)). IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PERIODO. (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (133) (145) ((163)) 
  (4)
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -9350,13 +9350,13 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1 e 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1 e 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1 e 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 1 e 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -9446,7 +9446,7 @@ Dalle violazioni di cui ai commi 10 e 11 consegue la sanzione amministrativa acc
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ------------
 
@@ -9556,7 +9556,7 @@ Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione a
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -9695,7 +9695,7 @@ Con gli stessi decreti puo' essere reso obbligatorio il rispetto di norme di uni
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 107. — Accertamento dei requisiti di idoneita' delle macchine agricole
 
@@ -9716,13 +9716,13 @@ Per le macchine agricole di cui al comma 1, i loro componenti o entita' tecniche
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360) ha disposto (con l'art. 49, comma 1, lettera a)) che nel comma 3 del presente articolo la parola: "prodotto" e' sostituita dalla seguente: "prodotti".
+Il [D.Lgs. 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md) ha disposto (con l'art. 49, comma 1, lettera a)) che nel comma 3 del presente articolo la parola: "prodotto" e' sostituita dalla seguente: "prodotti".
 
 ### Art. 108. — Rilascio del certificato di idoneita' tecnica alla circolazione e della carta di circolazione delle macchine agricole
 
@@ -9759,7 +9759,7 @@ Il rilascio del certificato di idoneita' tecnica o della carta di circolazione e
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -9866,7 +9866,7 @@ Chiunque produce o mette in vendita una macchina agricola omologata, rilasciando
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -9958,7 +9958,7 @@ La carta di circolazione ovvero il certificato di idoneita' tecnica alla circola
 
 2-bis.
 
-Al fine di promuovere lo sviluppo delle reti di imprese di cui all'[articolo 3 del decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-02-10;5#art_3), convertito, con modificazioni, dalla [legge 9 aprile 2009, n. 33, e all'articolo 6-bis, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-04-09;33#art_6bis-com2), del [decreto-legge 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91), convertito, con modificazioni, dalla [legge 11 agosto 2014, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;116), alle reti costituite da imprenditori agricoli, singoli o associati, di cui all'[articolo 2135 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2135), finalizzate anche all'acquisto di macchine agricole, e' consentita l'immatricolazione ai sensi del comma 2 del presente articolo a nome della rete di imprese, identificata dal codice fiscale, richiesto dalle imprese partecipanti, e dal contratto di rete, redatto e iscritto ai sensi del citato [articolo 3 del decreto-legge n. 5 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009;5#art_3), da cui risultino la sede, la denominazione e il programma della rete, previa individuazione di un'impresa della rete incaricata di svolgere le funzioni amministrative attribuite dalla legge al proprietario del veicolo.
+Al fine di promuovere lo sviluppo delle reti di imprese di cui all'[articolo 3 del decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-02-10;5#art_3), convertito, con modificazioni, dalla [legge 9 aprile 2009, n. 33, e all'articolo 6-bis, comma 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20febbraio%202009%20n.%205%20recante%20misure%20urgenti%20a%20sostegno%20dei%20settori%20industriali%20in%20crisi.%2009G0041.md), del [decreto-legge 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91), convertito, con modificazioni, dalla [legge 11 agosto 2014, n. 116](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202014%20n.%2091%20recante%20disposizioni%20urgenti%20per%20il%20settore%20agricolo%20la%20tutela%20ambientale%20e%20lefficientamento%20energetico%20delle_0330d926bce6.md), alle reti costituite da imprenditori agricoli, singoli o associati, di cui all'[articolo 2135 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2135), finalizzate anche all'acquisto di macchine agricole, e' consentita l'immatricolazione ai sensi del comma 2 del presente articolo a nome della rete di imprese, identificata dal codice fiscale, richiesto dalle imprese partecipanti, e dal contratto di rete, redatto e iscritto ai sensi del citato [articolo 3 del decreto-legge n. 5 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009;5#art_3), da cui risultino la sede, la denominazione e il programma della rete, previa individuazione di un'impresa della rete incaricata di svolgere le funzioni amministrative attribuite dalla legge al proprietario del veicolo.
 
 3.
 
@@ -9992,7 +9992,7 @@ Chiunque omette di comunicare il trasferimento di proprieta', di sede o di resid
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 --------------
 
@@ -10076,7 +10076,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 1.
 
-Al fine di garantire adeguati livelli di sicurezza nei luoghi di lavoro e nella circolazione stradale, il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro delle politiche agricole alimentari e forestali, con decreto da adottare entro e non oltre il 30 giugno 2015, dispone la revisione obbligatoria delle macchine agricole soggette ad immatricolazione a norma dell'articolo 110, al fine di accertarne lo stato di efficienza e la permanenza dei requisiti minimi di idoneita' per la sicurezza della circolazione. Con il medesimo decreto e' disposta, a far data dal 30 giugno 2016, la revisione obbligatoria delle macchine agricole in circolazione soggette ad immatricolazione in ragione del relativo stato di vetusta' e con precedenza per quelle immatricolate antecedentemente al l° gennaio 2009, e sono stabiliti, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, i criteri, le modalita' ed i contenuti della formazione professionale per il conseguimento dell'abilitazione all'uso delle macchine agricole, in attuazione di quanto disposto dall'[articolo 73 del decreto legislativo 9 aprile 2008, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81#art_73).
+Al fine di garantire adeguati livelli di sicurezza nei luoghi di lavoro e nella circolazione stradale, il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro delle politiche agricole alimentari e forestali, con decreto da adottare entro e non oltre il 30 giugno 2015, dispone la revisione obbligatoria delle macchine agricole soggette ad immatricolazione a norma dell'articolo 110, al fine di accertarne lo stato di efficienza e la permanenza dei requisiti minimi di idoneita' per la sicurezza della circolazione. Con il medesimo decreto e' disposta, a far data dal 30 giugno 2016, la revisione obbligatoria delle macchine agricole in circolazione soggette ad immatricolazione in ragione del relativo stato di vetusta' e con precedenza per quelle immatricolate antecedentemente al l° gennaio 2009, e sono stabiliti, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, i criteri, le modalita' ed i contenuti della formazione professionale per il conseguimento dell'abilitazione all'uso delle macchine agricole, in attuazione di quanto disposto dall'[articolo 73 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).
 
 2.
 
@@ -10103,7 +10103,7 @@ Chiunque circola su strada con una macchina agricola che non e' stata presentata
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ---------------
 
@@ -10201,7 +10201,7 @@ Da tale violazione discende la sanzione amministrativa accessoria del ritiro del
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 -------------
 
@@ -10280,7 +10280,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 1.
 
 Le macchine agricole semoventi di cui all'art. 57, comma 2, lettera a), punti 1) e 2), per circolare su strada devono essere munite posteriormente di una targa contenente i dati di immatricolazione. PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N.
-360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 2.
 
@@ -10307,7 +10307,7 @@ Il Ministro dei trasporti stabilisce, con proprio decreto, le modalita' per l'ap
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ### Art. 114. — Circolazione su strada delle macchine operatrici
 
@@ -10349,7 +10349,7 @@ Chiunque viola le disposizioni del presente articolo e' soggetto alle medesime s
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-28;214) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
+Il [D.Lgs. 28 giugno 1993, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20dei%20termini%20di%20entrata%20in%20vigore%20delle%20disposizioni%20contenute%20nei%20titoli%20III%20e%20IV%20nonche%20di%20quelle%20relative%20agli%20archivi%20allanagrafe%20nazionale%20ed%20al%20servizio%20di%20monitoraggio%20_a807d8f278da.md) ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ## TITOLO IV GUIDA DEI VEICOLI E CONDUZIONE DEGLI ANIMALI
 
@@ -10423,7 +10423,7 @@ Chi guida veicoli a motore non puo' aver superato:
 
 2-bis.
 
-COMMA ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35). (109)
+COMMA ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md). (109)
 
 3.
 
@@ -10475,7 +10475,7 @@ Il Decreto 22 dicembre 2004 (in G.U. 30/12/2004, n. 305) ha disposto (con l'art.
 
 AGGIORNAMENTO (72)
 
-Il [D.Lgs. 21 novembre 2005, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-21;286) ha disposto (con l'art. 18, comma 1, lettera a)) che i conducenti, muniti della carta di qualificazione del conducente, devono aver compiuto 18 anni, per guidare veicoli adibiti al trasporto di merci per cui e' richiesta la patente di guida delle categorie C e C+E, in deroga alle limitazioni di massa di cui al comma 1, lettera d), numero 2 del presente articolo.
+Il [D.Lgs. 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md) ha disposto (con l'art. 18, comma 1, lettera a)) che i conducenti, muniti della carta di qualificazione del conducente, devono aver compiuto 18 anni, per guidare veicoli adibiti al trasporto di merci per cui e' richiesta la patente di guida delle categorie C e C+E, in deroga alle limitazioni di massa di cui al comma 1, lettera d), numero 2 del presente articolo.
 
 ---------------
 
@@ -10493,7 +10493,7 @@ Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'art.
 
 AGGIORNAMENTO (91)
 
-Il [D.Lgs. 21 novembre 2005, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-21;286), come modificato dal [D.Lgs. 22 dicembre 2008, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-12-22;214), ha disposto (con l'art. 18, comma 1, lettera a)) che i conducenti muniti della carta di qualificazione del conducente devono aver compiuto 18 anni per guidare veicoli adibiti al trasporto di merci per cui e' richiesta la patente di guida delle categorie C e C+E, in deroga alle limitazioni di massa di cui al comma 1, lettera d), numero 2), del presente articolo, a condizione di aver seguito il corso di formazione iniziale di cui all'articolo 19, comma 2 dello stesso [D.Lgs. 286/2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;286).
+Il [D.Lgs. 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), come modificato dal [D.Lgs. 22 dicembre 2008, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2021%20novembre%202005%20n.%20286%20recante%20disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita_b3e50d48d43f.md), ha disposto (con l'art. 18, comma 1, lettera a)) che i conducenti muniti della carta di qualificazione del conducente devono aver compiuto 18 anni per guidare veicoli adibiti al trasporto di merci per cui e' richiesta la patente di guida delle categorie C e C+E, in deroga alle limitazioni di massa di cui al comma 1, lettera d), numero 2), del presente articolo, a condizione di aver seguito il corso di formazione iniziale di cui all'articolo 19, comma 2 dello stesso [D.Lgs. 286/2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;286).
 
 ---------------
 
@@ -10512,7 +10512,7 @@ Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/At
 
 AGGIORNAMENTO (109)
 
-Il [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35), ha disposto (con l'art. 11, comma 1, lettera a)) che "all'articolo 115, l'abrogazione del comma 2-bis, disposta dall'[articolo 2 del decreto legislativo 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), e' anticipata alla data di entrata in vigore del presente decreto".
+Il [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md), ha disposto (con l'art. 11, comma 1, lettera a)) che "all'articolo 115, l'abrogazione del comma 2-bis, disposta dall'[articolo 2 del decreto legislativo 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), e' anticipata alla data di entrata in vigore del presente decreto".
 
 -------------
 
@@ -10525,7 +10525,7 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303), prendendo in considera
 
 AGGIORNAMENTO (122)
 
-Il Decreto 17 maggio 1995, n. 317, come modificato dal Decreto 10 gennaio 2014, n. 30, ha disposto (con l'art. 8, comma 6) che "Gli istruttori abilitati e autorizzati che hanno superato il limite di eta' di sessantotto anni, di cui all'[articolo 115, comma 2, lettera a), del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_115-com2-leta), possono continuare a svolgere le proprie funzioni, purche' mantengano la titolarita' della patente di guida della categoria C o CE, con gli autoveicoli per i quali e' valida la patente di cui sono titolari, purche' la massa autorizzata, se trattasi di autotreni o autoarticolati, non sia superiore a 20t".
+Il Decreto 17 maggio 1995, n. 317, come modificato dal Decreto 10 gennaio 2014, n. 30, ha disposto (con l'art. 8, comma 6) che "Gli istruttori abilitati e autorizzati che hanno superato il limite di eta' di sessantotto anni, di cui all'[articolo 115, comma 2, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), possono continuare a svolgere le proprie funzioni, purche' mantengano la titolarita' della patente di guida della categoria C o CE, con gli autoveicoli per i quali e' valida la patente di cui sono titolari, purche' la massa autorizzata, se trattasi di autotreni o autoarticolati, non sia superiore a 20t".
 
 -------------
 
@@ -10673,13 +10673,13 @@ Le violazioni delle disposizioni di cui al comma 16 importano la sanzione access
 
 AGGIORNAMENTO (12)
 
-Il [D.L. 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), convertito con modificazioni dalla [L. 30 maggio 1995, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204), ha disposto (con l'art. 9, comma 1) che "Il termine del 1 luglio 1994 di cui all'[articolo 116, comma 8, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_116-com8), come integrato dall'[articolo 57, comma 1, lettera d), del decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360#art_57-com1-letd), concernente il rilascio del certificato del tipo K.E. ai conducenti di veicoli adibiti a servizi di emergenza senza sostenere il relativo esame, e' prorogato al 30 giugno 1995".
+Il [D.L. 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), convertito con modificazioni dalla [L. 30 maggio 1995, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201995%20n.%2098%20recante%20interventi%20urgenti%20in%20materia%20di%20trasporti.md), ha disposto (con l'art. 9, comma 1) che "Il termine del 1 luglio 1994 di cui all'[articolo 116, comma 8, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come integrato dall'[articolo 57, comma 1, lettera d), del decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), concernente il rilascio del certificato del tipo K.E. ai conducenti di veicoli adibiti a servizi di emergenza senza sostenere il relativo esame, e' prorogato al 30 giugno 1995".
 
 -------------
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
 
 -------------
 
@@ -10697,7 +10697,7 @@ La Corte Costituzionale, con sentenza 9-10 gennaio 1997, n. 3 (in G.U. 1a s.s. 1
 
 AGGIORNAMENTO (25)
 
-La [L. 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449) ha diposto (con l'art. 17, comma 25) che gli obblighi di eseguire i versamenti di cui al comma 11 del presente articolo sono soppressi. 
+La [L. 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) ha diposto (con l'art. 17, comma 25) che gli obblighi di eseguire i versamenti di cui al comma 11 del presente articolo sono soppressi. 
  Ha inoltre disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui al comma 8 del presente articolo.
 
 -------------
@@ -10722,9 +10722,9 @@ Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (56)
 
-Il [D.Lgs. 15 gennaio 2002, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-15;9), ha disposto (con l'art. 6, comma 1, lettera g)) l'introduzione del comma 13-bis del presente articolo.
+Il [D.Lgs. 15 gennaio 2002, n. 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20nuovo%20codice%20della%20strada%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2022%20marzo%202001%20n.%2085.md), ha disposto (con l'art. 6, comma 1, lettera g)) l'introduzione del comma 13-bis del presente articolo.
 Ha inoltre disposto (con l'art. 18, comma 3) che lo stesso entra in vigore il 1 gennaio 2004. 
- Successivamente, il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito, con modificazioni, dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214), nel modificare l'[art. 18, comma 3 del D.Lgs. 15 gennaio 2002, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-15;9#art_18-com3), ha disposto (con l'art. 7, comma 5) la proroga dell'entrata in vigore del presente comma al 1 luglio 2004, e (con l'art. 2, comma 1, lettera b-bis) ne ha modificato il testo. Di seguito si riporta il testo antecedente la citata modifica: vigore il 1 gennaio 2004. 
+ Successivamente, il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito, con modificazioni, dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md), nel modificare l'[art. 18, comma 3 del D.Lgs. 15 gennaio 2002, n. 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20nuovo%20codice%20della%20strada%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2022%20marzo%202001%20n.%2085.md), ha disposto (con l'art. 7, comma 5) la proroga dell'entrata in vigore del presente comma al 1 luglio 2004, e (con l'art. 2, comma 1, lettera b-bis) ne ha modificato il testo. Di seguito si riporta il testo antecedente la citata modifica: vigore il 1 gennaio 2004. 
  "13-bis. Chiunque, non essendo titolare di patente, guida ciclomotori senza aver conseguito il certificato di idoneita' di cui al comma 11-bis e' soggetto alla sanzione amministrativa del pagamento di una somma da euro cinquecentosedici a euro duemilasessantacinque."
 
 -------------
@@ -10750,7 +10750,7 @@ Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'art.
 AGGIORNAMENTO (99)
 
 La [L. 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120) ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1, limitatamente al superamento di una prova pratica di guida del ciclomotore, si applicano a decorrere dal 19 gennaio 2011". 
- Inoltre, il [D.Lgs 21 novembre 2005, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-21;286), come modificato dalla [L. 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120) ha disposto (con l'art. 22, comma 7-bis) che "In deroga ai criteri di propedeuticita' di cui all'[articolo 116, comma 6, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_116-com6), puo' conseguire la patente di guida corrispondente alle categorie della patente estera posseduta il conducente titolare di patente di guida rilasciata da uno Stato con il quale non sussistono le condizioni di reciprocita' richiestedall'[articolo 136, comma 2, del decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_136-com2), dipendente di un'impresa di autotrasporto di persone o cose avente sede in Italia e titolare di carta di qualificazione del conducente rilasciata in Italia per mera esibizione della patente di guida posseduta, il quale ha stabilito la propria residenza in Italia da oltre un anno".
+ Inoltre, il [D.Lgs 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), come modificato dalla [L. 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120) ha disposto (con l'art. 22, comma 7-bis) che "In deroga ai criteri di propedeuticita' di cui all'[articolo 116, comma 6, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), puo' conseguire la patente di guida corrispondente alle categorie della patente estera posseduta il conducente titolare di patente di guida rilasciata da uno Stato con il quale non sussistono le condizioni di reciprocita' richiestedall'[articolo 136, comma 2, del decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_136-com2), dipendente di un'impresa di autotrasporto di persone o cose avente sede in Italia e titolare di carta di qualificazione del conducente rilasciata in Italia per mera esibizione della patente di guida posseduta, il quale ha stabilito la propria residenza in Italia da oltre un anno".
 
 ---------------
 
@@ -10762,20 +10762,20 @@ Il Decreto 22 dicembre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'art.
 
 AGGIORNAMENTO (100)
 
-Il [D.L. 29 dicembre 2010, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-12-29;225), convertito con modificazioni dalla [L. 26 febbraio 2011, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-02-26;10), nel modificare l'[art. 17, comma 2 della L. 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_17-com2), ha conseguentemente disposto (con l'art. 1, comma 1) che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
+Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributaria%20e%20di%20sostegno%20alle%20imprese%20e%20alle%20famiglie.%2010G0251.md), convertito con modificazioni dalla [L. 26 febbraio 2011, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202010%20n.%20225%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributa_d5d5f921efa2.md), nel modificare l'[art. 17, comma 2 della L. 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_17-com2), ha conseguentemente disposto (con l'art. 1, comma 1) che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
 
 -------------
 
 AGGIORNAMENTO (102)
 
-Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha disposto (con l'art. 22, comma 1) che "Il modello di patente di guida comunitaria, di cui all'[articolo 116, comma 3, Codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_116-com3), come modificato dall'articolo 3, comma 1, del presente decreto, e' conforme al modello comunitario di cui all'allegato I". 
+Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha disposto (con l'art. 22, comma 1) che "Il modello di patente di guida comunitaria, di cui all'[articolo 116, comma 3, Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 3, comma 1, del presente decreto, e' conforme al modello comunitario di cui all'allegato I". 
  Ha inoltre disposto (con l'art. 28, comma 1) che "Le disposizioni del presente decreto legislativo si applicano a decorrere dal 19 gennaio 2013, ad eccezione di quelle contenute negli articoli 9, comma 2, 22, comma 1, e 23, nonche' nell'allegato III, con riferimento alle patenti per le categorie A, A1, B, BE, C, CE, D, DE, KA e KB".
 
 ---------------
 
 AGGIORNAMENTO (113)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), nel modificare l'[art. 28, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), ha conseguentemente disposto (con l'art. 1, comma 388) che le modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 3, lettere a)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [b)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [c)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [d)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [e)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [h)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [i)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [n)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ed [o)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) del presente articolo, si applicano a decorrere dal 30 giugno 2013.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), nel modificare l'[art. 28, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), ha conseguentemente disposto (con l'art. 1, comma 388) che le modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 3, lettere a)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [b)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [c)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [d)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [e)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [h)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [i)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [n)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ed [o)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) del presente articolo, si applicano a decorrere dal 30 giugno 2013.
 
 -------------
 
@@ -10788,19 +10788,19 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303), prendendo in considera
 
 AGGIORNAMENTO (115)
 
-Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), come modificato dal [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md), ha disposto (con l'art. 22, comma 1) che "Il modello di patente di guida, di cui all'[articolo 116, comma 3, Codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_116-com3), come modificato dall'articolo 3, comma 1, del presente decreto, e' conforme al modello UE di cui all'allegato I".
+Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), come modificato dal [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md), ha disposto (con l'art. 22, comma 1) che "Il modello di patente di guida, di cui all'[articolo 116, comma 3, Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 3, comma 1, del presente decreto, e' conforme al modello UE di cui all'allegato I".
 
 -------------
 
 AGGIORNAMENTO (121)
 
-Il [D.L. 30 dicembre 2013, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-30;150) convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-02-27;15) nel modificare l'[art. 3, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha conseguentemente disposto (con l'art. 4, comma 3) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 3, lettere a)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [b)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [c)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [d)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [e)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [h)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [i)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [n)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), e o) del presente articolo e' prorogata al 31 dicembre 2014.
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md) convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) nel modificare l'[art. 3, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha conseguentemente disposto (con l'art. 4, comma 3) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 3, lettere a)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [b)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [c)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [d)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [e)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [h)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [i)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [n)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), e o) del presente articolo e' prorogata al 31 dicembre 2014.
 
 -------------
 
 AGGIORNAMENTO (125)
 
-Il [D.L. 31 dicembre 2014, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-12-31;192), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-02-27;11), nel modificare l'[art. 3, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), ha conseguentemente disposto (con l'art. 8, comma 6) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 3, lettere a)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [b)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [c)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [d)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [e)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [h)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [i)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [n)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) e [o)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) del presente articolo e' prorogata al 30 giugno 2015.
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md), nel modificare l'[art. 3, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), ha conseguentemente disposto (con l'art. 8, comma 6) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 3, lettere a)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [b)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [c)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [d)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [e)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [h)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [i)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), [n)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) e [o)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) del presente articolo e' prorogata al 30 giugno 2015.
 
 -------------
 
@@ -10824,7 +10824,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (173)
 
-Il [D.L. 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-16;68), convertito con modificazioni dalla [L. 5 agosto 2022, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-05;108), ha disposto (con l'art. 7, comma 2) che l'efficacia delle presenti modifiche, e' subordinata alla definizione della procedura di consultazione della Commissione europea ai sensi della [direttiva 96/53/CE del Consiglio del 25 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;53) e le medesime modifiche si applicano ai veicoli per i quali il documento di circolazione riporta le indicazioni di cui al primo periodo del comma 2 dell'art. 7 del suindicato decreto-legge.
+Il [D.L. 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-16;68), convertito con modificazioni dalla [L. 5 agosto 2022, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20giugno%202022%20n.%2068%20recante%20disposizioni%20urgenti%20per%20la%20sicurezza%20e%20lo%20sviluppo%20delle%20infrastrutture%20dei%20trasporti%20e%20della%20mobili_1562c5ffa4d2.md), ha disposto (con l'art. 7, comma 2) che l'efficacia delle presenti modifiche, e' subordinata alla definizione della procedura di consultazione della Commissione europea ai sensi della [direttiva 96/53/CE del Consiglio del 25 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;53) e le medesime modifiche si applicano ai veicoli per i quali il documento di circolazione riporta le indicazioni di cui al primo periodo del comma 2 dell'art. 7 del suindicato decreto-legge.
 
 ### Art. 116-bis.
 
@@ -10853,7 +10853,7 @@ COMMA ABROGATO DAL [D.LGS. 18 APRILE 2011, N. 59](../Atti%20di%20recepimento%20d
 2.
 
 Per i primi tre anni dal conseguimento della patente di categoria A2, A, B1 e B non e' consentito il superamento della velocita' di 100 km/h per le autostrade e di 90 km/h per le strade extraurbane principali. (102) 
- 2-bis.((Ai titolari di patente di guida di categoria B, per i primi tre anni dal rilascio, non e' consentita la guida di autoveicoli aventi una potenza specifica, riferita alla tara, superiore a 75 kW/t. Nel caso di veicoli di categoria M1, anche elettrici o ibridi plug-in, ai fini di cui al primo periodo, si applica l'ulteriore limite di potenza massima pari a 105 kW)). Le limitazioni di cui al presente comma non si applicano ai veicoli adibiti al servizio di persone invalide, autorizzate ai sensi dell'articolo 188, purche' la persona invalida sia presente sul veicolo. Le limitazioni di cui al presente comma non si applicano, inoltre, se a fianco del conducente si trova, in funzione di istruttore, persona di eta' non superiore a sessantacinque anni, munita di patente valida per la stessa categoria, conseguita da almeno dieci anni, ovvero valida per la categoria superiore. Fatto salvo quanto previsto dall'articolo 120 del presente codice, alle persone destinatarie del divieto di cui all'articolo 75, comma 1, lettera a), del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), il divieto di cui al presente comma ha effetto per i primi tre anni dal rilascio della patente di guida. (82) (84) (86) (90) (94) (99) ((189))
+ 2-bis.((Ai titolari di patente di guida di categoria B, per i primi tre anni dal rilascio, non e' consentita la guida di autoveicoli aventi una potenza specifica, riferita alla tara, superiore a 75 kW/t. Nel caso di veicoli di categoria M1, anche elettrici o ibridi plug-in, ai fini di cui al primo periodo, si applica l'ulteriore limite di potenza massima pari a 105 kW)). Le limitazioni di cui al presente comma non si applicano ai veicoli adibiti al servizio di persone invalide, autorizzate ai sensi dell'articolo 188, purche' la persona invalida sia presente sul veicolo. Le limitazioni di cui al presente comma non si applicano, inoltre, se a fianco del conducente si trova, in funzione di istruttore, persona di eta' non superiore a sessantacinque anni, munita di patente valida per la stessa categoria, conseguita da almeno dieci anni, ovvero valida per la categoria superiore. Fatto salvo quanto previsto dall'articolo 120 del presente codice, alle persone destinatarie del divieto di cui all'articolo 75, comma 1, lettera a), del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), il divieto di cui al presente comma ha effetto per i primi tre anni dal rilascio della patente di guida. (82) (84) (86) (90) (94) (99) ((189))
 
 3.
 
@@ -10862,7 +10862,7 @@ Analogamente sono stabilite norme per i veicoli in circolazione alla data di ent
 
 4.
 
-Le limitazioni alla guida e alla velocita' sono automatiche e decorrono dalla data di superamento dell'esame di cui all'articolo 121. PERIODO SOPPRESSO DAL [D.L. 1 APRILE 1995, N. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204).
+Le limitazioni alla guida e alla velocita' sono automatiche e decorrono dalla data di superamento dell'esame di cui all'articolo 121. PERIODO SOPPRESSO DAL [D.L. 1 APRILE 1995, N. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 30 MAGGIO 1995, N. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201995%20n.%2098%20recante%20interventi%20urgenti%20in%20materia%20di%20trasporti.md).
 
 5.
 
@@ -10872,7 +10872,7 @@ Il titolare di patente di guida italiana che, viola le disposizioni di cui ai co
 
 AGGIORNAMENTO (12)
 
-Il [D.L. 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), convertito, con modificazioni, dalla [L. 30 maggio 1995, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204), ha disposto (con l'art. 11, comma 3) che "Non sono punibili le infrazioni per violazione dell'[articolo 117, comma 5, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_117-com5), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360), vigente prima della data di entrata in vigore della modifica apportata dal presente articolo."
+Il [D.L. 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), convertito, con modificazioni, dalla [L. 30 maggio 1995, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201995%20n.%2098%20recante%20interventi%20urgenti%20in%20materia%20di%20trasporti.md), ha disposto (con l'art. 11, comma 3) che "Non sono punibili le infrazioni per violazione dell'[articolo 117, comma 5, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), vigente prima della data di entrata in vigore della modifica apportata dal presente articolo."
 
 ---------------
 
@@ -10914,31 +10914,31 @@ Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (82)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160) ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo, si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal centottantesimo giorno successivo alla data di entrata in vigore del [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117) stesso.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md) ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo, si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal centottantesimo giorno successivo alla data di entrata in vigore del [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117) stesso.
 
 ---------------
 
 AGGIORNAMENTO (84)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), come modificato dall'[art. 22, comma 1 del D.L. 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_22-com1), convertito con modificazioni dalla [L. 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° luglio 2008.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), come modificato dall'[art. 22, comma 1 del D.L. 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito con modificazioni dalla [L. 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° luglio 2008.
 
 ---------------
 
 AGGIORNAMENTO (86)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), come modificato dall'[art. 4, comma 4 del D.L. 3 giugno 2008, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-03;97#art_4-com4), convertito con modificazioni dalla [L. 2 agosto 2008, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° gennaio 2009.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), come modificato dall'[art. 4, comma 4 del D.L. 3 giugno 2008, n. 97](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spesa%20pubblica%20nonche%20in%20materia%20fiscale%20e%20di%20proroga%20di%20termini.md), convertito con modificazioni dalla [L. 2 agosto 2008, n. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° gennaio 2009.
 
 ---------------
 
 AGGIORNAMENTO (90)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), come modificato dall'[art. 24, comma 1 del D.L. 30 dicembre 2008, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-30;207#art_24-com1), convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-27;14), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° gennaio 2010.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), come modificato dall'[art. 24, comma 1 del D.L. 30 dicembre 2008, n. 207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), convertito con modificazioni dalla [L. 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° gennaio 2010.
 
 ---------------
 
 AGGIORNAMENTO (94)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), come modificato dall'[art. 5, comma 2 del D.L. 30 dicembre 2009, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-12-30;194#art_5-com2), convertito con modificazioni dalla [L. 26 febbraio 2010, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-26;25), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° gennaio 2011.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), come modificato dall'[art. 5, comma 2 del D.L. 30 dicembre 2009, n. 194](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2009G0206.md), convertito con modificazioni dalla [L. 26 febbraio 2010, n. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202009%20n.%20194%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2010G0042.md), ha disposto (con l'art. 2, comma 2) che le disposizioni del comma 2-bis del presente articolo si applicano ai titolari di patente di guida di categoria B rilasciata a fare data dal 1° gennaio 2011.
 
 ---------------
 
@@ -10992,13 +10992,13 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (163)
 
-La [L. 25 novembre 2024, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177), ha disposto (con l'art. 7, comma 2) che " Le disposizioni di cui al comma 1 si applicano ai titolari di patenti di guida conseguite a decorrere dalla data di entrata in vigore della presente legge".
+La [L. 25 novembre 2024, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20in%20materia%20di%20sicurezza%20stradale%20e%20delega%20al%20Governo%20per%20la%20revisione%20del%20codice%20della%20strada%20di%20cui%20al%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.%2024G00199.md), ha disposto (con l'art. 7, comma 2) che " Le disposizioni di cui al comma 1 si applicano ai titolari di patenti di guida conseguite a decorrere dalla data di entrata in vigore della presente legge".
 
 --------------
 
 AGGIORNAMENTO (189)
 
-La [L. 25 novembre 2024, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177), ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai titolari di patenti di guida conseguite a decorrere dalla data di entrata in vigore della presente legge".
+La [L. 25 novembre 2024, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20in%20materia%20di%20sicurezza%20stradale%20e%20delega%20al%20Governo%20per%20la%20revisione%20del%20codice%20della%20strada%20di%20cui%20al%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.%2024G00199.md), ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai titolari di patenti di guida conseguite a decorrere dalla data di entrata in vigore della presente legge".
 
 ### Art. 118. — Patente e certificato di idoneita' per la guida di filoveicoli
 
@@ -11183,7 +11183,7 @@ Le relative spese sono a carico del richiedente. (99)
 
 3.
 
-L'accertamento di cui ai commi 2 e 2-ter deve risultare da certificazione di data non anteriore a tre mesi dalla presentazione della domanda per sostenere l'esame di guida. PERIODO ABROGATO DAL [D.P.R. 19 APRILE 1994, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575). La certificazione deve tener conto dei precedenti morbosi del richiedente dichiarati da un certificato medico rilasciato da un medico di fiducia. (15)
+L'accertamento di cui ai commi 2 e 2-ter deve risultare da certificazione di data non anteriore a tre mesi dalla presentazione della domanda per sostenere l'esame di guida. PERIODO ABROGATO DAL [D.P.R. 19 APRILE 1994, N. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md). La certificazione deve tener conto dei precedenti morbosi del richiedente dichiarati da un certificato medico rilasciato da un medico di fiducia. (15)
 
 4.
 
@@ -11193,7 +11193,7 @@ L'accertamento dei requisiti psichici e fisici e' effettuato da commissioni medi
                             b)
                                 di coloro che abbiano superato i sessantacinque anni di eta' ed abbiano titolo a guidare autocarri di massa complessiva, a pieno carico, superiore a 3,5 t, autotreni ed autoarticolati adibiti al trasporto di cose, la cui massa complessiva, a pieno carico, non sia superiore a 20 t, macchine operatrici;
                             b-bis)
-                                LETTERA SOPPRESSA DAL [D.L. 9 FEBBRAIO 2012, N. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35);
+                                LETTERA SOPPRESSA DAL [D.L. 9 FEBBRAIO 2012, N. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md);
                             c)
                                 di coloro per i quali e' fatta richiesta dal prefetto o dall'ufficio competente del Dipartimento per i trasporti terrestri;
                             d)
@@ -11239,13 +11239,13 @@ Con decreto del Ministro dei trasporti, di concerto con il Ministro della salute
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
 
 ---------------
 
 AGGIORNAMENTO (56)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214) ha disposto (con l'art. 7, comma 6) che le disposizioni del comma 6 del presente articolo hanno effetto dal 1° settembre 2003.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md) ha disposto (con l'art. 7, comma 6) che le disposizioni del comma 6 del presente articolo hanno effetto dal 1° settembre 2003.
 
 ---------------
 
@@ -11260,7 +11260,7 @@ Requisiti soggettivi per ottenere il rilascio della patente di guida e disposizi
 
 1.
 
-Non possono conseguire la patente di guida i delinquenti abituali, professionali o per tendenza e coloro che sono o sono stati sottoposti a misure di sicurezza personali o alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), ad eccezione di quella di cui all'[articolo 2, e dalla legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), le persone condannate per i reati di cui agli articoli 73 e 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), fatti salvi gli effetti di provvedimenti riabilitativi, nonche' i soggetti destinatari dei divieti di cui agli articoli 75, comma 1, lettera a), e 75-bis, comma 1, lettera f), del medesimo testo unico di cui al [decreto del Presidente della Repubblica n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;309) per tutta la durata dei predetti divieti. Non possono di nuovo conseguire la patente di guida le persone a cui sia applicata per la seconda volta, con sentenza di condanna per il reato di cui al terzo periodo del comma 2 dell'articolo 222, la revoca della patente ai sensi del quarto periodo del medesimo comma. (102) (118)
+Non possono conseguire la patente di guida i delinquenti abituali, professionali o per tendenza e coloro che sono o sono stati sottoposti a misure di sicurezza personali o alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), ad eccezione di quella di cui all'[articolo 2, e dalla legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), le persone condannate per i reati di cui agli articoli 73 e 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), fatti salvi gli effetti di provvedimenti riabilitativi, nonche' i soggetti destinatari dei divieti di cui agli articoli 75, comma 1, lettera a), e 75-bis, comma 1, lettera f), del medesimo testo unico di cui al [decreto del Presidente della Repubblica n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;309) per tutta la durata dei predetti divieti. Non possono di nuovo conseguire la patente di guida le persone a cui sia applicata per la seconda volta, con sentenza di condanna per il reato di cui al terzo periodo del comma 2 dell'articolo 222, la revoca della patente ai sensi del quarto periodo del medesimo comma. (102) (118)
 
 2.
 
@@ -11290,13 +11290,13 @@ Nei confronti dei soggetti indicati dal comma 1, il giudice con la sentenza di c
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
 
 --------------
 
 AGGIORNAMENTO (28)
 
-La Corte Costituzionale, con sentenza 14-21 ottobre 1998, n. 354 (in G.U. 1a s.s. 28/10/1998, n. 43), ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli [artt. 120, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com1), e [130, comma 1, lett. b), del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_130-com1-letb) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nella versione anteriore al [d.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575), nella parte in cui prevede la revoca della patente nei confronti di coloro che "sono stati" sottoposti a misure di sicurezza personali".
+La Corte Costituzionale, con sentenza 14-21 ottobre 1998, n. 354 (in G.U. 1a s.s. 28/10/1998, n. 43), ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli [artt. 120, comma 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e [130, comma 1, lett. b), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nella versione anteriore al [d.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), nella parte in cui prevede la revoca della patente nei confronti di coloro che "sono stati" sottoposti a misure di sicurezza personali".
 
 --------------
 
@@ -11308,7 +11308,7 @@ La Corte Costituzionale, con sentenza 9-18 ottobre 2000, n. 427 (in G.U. 1a s.s.
 
 AGGIORNAMENTO (47)
 
-La Corte Costituzionale, con sentenza 5-17 luglio 2001, n. 251 (in G.U. 1a s.s. 25/7/2001 n. 29), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 1, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com1) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), in relazione all'art. 130, comma 1, lettera b), del medesimo codice, nella parte in cui prevede la revoca della patente nei confronti di coloro che sono stati sottoposti alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), come sostituita dalla [legge 3 agosto 1988, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327), nonche' dalla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), cosi' come successivamente modificata e integrata".
+La Corte Costituzionale, con sentenza 5-17 luglio 2001, n. 251 (in G.U. 1a s.s. 25/7/2001 n. 29), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), in relazione all'art. 130, comma 1, lettera b), del medesimo codice, nella parte in cui prevede la revoca della patente nei confronti di coloro che sono stati sottoposti alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), come sostituita dalla [legge 3 agosto 1988, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327), nonche' dalla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), cosi' come successivamente modificata e integrata".
 
 --------------
 
@@ -11320,7 +11320,7 @@ La Corte Costituzionale, con sentenza 30 giugno-15 luglio 2003, n. 239 (in G.U. 
 
 AGGIORNAMENTO (93)
 
-La [L. 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94) ha disposto (con l'art. 3, comma 53) che "fino alla data di entrata in vigore del decreto di cui al [comma 5 dell'articolo 120 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com5), come sostituito dal comma 52, lettera a), del presente articolo, da adottare entro sei mesi dalla data di entrata in vigore della presente legge, continuano ad applicarsi le modalita' di interscambio informativo previste dal comma 2 dell'articolo 120 del medesimo decreto legislativo, nel testo vigente anteriormente alla data di entrata in vigore della presente legge".
+La [L. 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94) ha disposto (con l'art. 3, comma 53) che "fino alla data di entrata in vigore del decreto di cui al [comma 5 dell'articolo 120 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come sostituito dal comma 52, lettera a), del presente articolo, da adottare entro sei mesi dalla data di entrata in vigore della presente legge, continuano ad applicarsi le modalita' di interscambio informativo previste dal comma 2 dell'articolo 120 del medesimo decreto legislativo, nel testo vigente anteriormente alla data di entrata in vigore della presente legge".
 
 -------------
 
@@ -11338,7 +11338,7 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art.
 
 AGGIORNAMENTO (118)
 
-La Corte Costituzionale, con sentenza 20 - 28 novembre 2013, n. 281 (in G.U. 1a s.s. 4/12/2013, n. 49), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com1) e [2, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com2) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), nella parte in cui si applica anche con riferimento a sentenze pronunziate, ai sensi dell'[art. 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), in epoca antecedente all'entrata in vigore della [legge n. 94 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;94)".
+La Corte Costituzionale, con sentenza 20 - 28 novembre 2013, n. 281 (in G.U. 1a s.s. 4/12/2013, n. 49), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), nella parte in cui si applica anche con riferimento a sentenze pronunziate, ai sensi dell'[art. 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), in epoca antecedente all'entrata in vigore della [legge n. 94 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;94)".
 
 -------------
 
@@ -11356,7 +11356,7 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (140)
 
-La Corte Costituzionale, con sentenza 24 gennaio - 9 febbraio 2018, n. 22 (in G.U. 1ª s.s. 14/02/2018, n. 7), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 2, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com2) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), nella parte in cui - con riguardo all'ipotesi di condanna per reati di cui agli [artt. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_73) e [74 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_74) (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza), che intervenga in data successiva a quella di rilascio della patente di guida - dispone che il prefetto «provvede» - invece che «puo' provvedere» - alla revoca della patente".
+La Corte Costituzionale, con sentenza 24 gennaio - 9 febbraio 2018, n. 22 (in G.U. 1ª s.s. 14/02/2018, n. 7), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), nella parte in cui - con riguardo all'ipotesi di condanna per reati di cui agli [artt. 73](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md) e [74 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md) (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza), che intervenga in data successiva a quella di rilascio della patente di guida - dispone che il prefetto «provvede» - invece che «puo' provvedere» - alla revoca della patente".
 
 --------------
 
@@ -11368,13 +11368,13 @@ Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art.
 
 AGGIORNAMENTO (154)
 
-La Corte Costituzionale, con sentenza 16 gennaio - 20 febbraio 2020, n. 24 (in G.U. 1ª s.s. 26/02/2020, n. 9), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 2, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com2) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), e come modificato dall'[art. 19, comma 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-leta) e [b), della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-letb) (Disposizioni in materia di sicurezza stradale) e dall'[art. 8, comma 1, lettera b), del decreto legislativo 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) (Attuazione delle [direttive 2006/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;126) e [2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;113) concernenti la patente di guida), nella parte in cui dispone che il prefetto "provvede" - invece che "puo' provvedere" - alla revoca della patente di guida nei confronti di coloro che sono sottoposti a misura di sicurezza personale".
+La Corte Costituzionale, con sentenza 16 gennaio - 20 febbraio 2020, n. 24 (in G.U. 1ª s.s. 26/02/2020, n. 9), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), e come modificato dall'[art. 19, comma 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-leta) e [b), della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-letb) (Disposizioni in materia di sicurezza stradale) e dall'[art. 8, comma 1, lettera b), del decreto legislativo 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) (Attuazione delle [direttive 2006/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;126) e [2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;113) concernenti la patente di guida), nella parte in cui dispone che il prefetto "provvede" - invece che "puo' provvedere" - alla revoca della patente di guida nei confronti di coloro che sono sottoposti a misura di sicurezza personale".
 
 --------------
 
 AGGIORNAMENTO (159)
 
-La Corte Costituzionale, con sentenza 6 - 27 maggio 2020, n. 99 (in G.U. 1ª s.s. 03/06/2020, n. 23), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 2, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com2) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), e come modificato dall'[art. 19, comma 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-leta) e [b), della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-letb) (Disposizioni in materia di sicurezza stradale) e dall'[art. 8, comma 1, lettera b), del decreto legislativo 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) (Attuazione delle [direttive 2006/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;126) e [2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;113) concernenti la patente di guida), nella parte in cui dispone che il prefetto «provvede» - invece che «puo' provvedere» - alla revoca della patente di guida nei confronti dei soggetti che sono o sono stati sottoposti a misure di prevenzione ai sensi del [decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-06;159) (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_1) e [2 della legge 13 agosto 2010, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_2))".
+La Corte Costituzionale, con sentenza 6 - 27 maggio 2020, n. 99 (in G.U. 1ª s.s. 03/06/2020, n. 23), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come sostituito dall'[art. 3, comma 52, lettera a), della legge 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94#art_3-com52-leta) (Disposizioni in materia di sicurezza pubblica), e come modificato dall'[art. 19, comma 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-leta) e [b), della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_19-com2-letb) (Disposizioni in materia di sicurezza stradale) e dall'[art. 8, comma 1, lettera b), del decreto legislativo 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) (Attuazione delle [direttive 2006/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;126) e [2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;113) concernenti la patente di guida), nella parte in cui dispone che il prefetto «provvede» - invece che «puo' provvedere» - alla revoca della patente di guida nei confronti dei soggetti che sono o sono stati sottoposti a misure di prevenzione ai sensi del [decreto legislativo 6 settembre 2011, n. 159](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md) (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md) e [2 della legge 13 agosto 2010, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md))".
 
 --------------
 
@@ -11440,7 +11440,7 @@ Contestualmente al superamento con esito favorevole dell'esam di guida, il compe
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
 
 ---------------
 
@@ -11452,7 +11452,7 @@ Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/At
 
 AGGIORNAMENTO (173)
 
-Il [D.L. 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-16;68) ha disposto (con l'art. 9, comma 8, lettera b)) che "All'[articolo 121 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_121), sono apportate le seguenti modificazioni: 
+Il [D.L. 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-16;68) ha disposto (con l'art. 9, comma 8, lettera b)) che "All'[articolo 121 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni: 
  [...] 
  b) al comma 5, le parole «Ministro delle infrastrutture e dei trasporti» sono sostituite dalle seguenti: «Ministro delle infrastrutture e della mobilita' sostenibili»".
 
@@ -11464,7 +11464,7 @@ A chi ha fatto domanda per sostenere l'esame per la patente di guida ovvero per 
 
 2.
 
-((Fatto salvo quanto disposto dal comma 5-bis, l'autorizzazione)) consente all'aspirante di esercitarsi su veicoli delle categorie per le quali e' stata richiesta la patente o l'estensione di validita' della medesima, purche' al suo fianco si trovi, in funzione di istruttore, persona di eta' non superiore a sessantacinque anni, munita di patente valida per la stessa categoria, conseguita da almeno dieci anni, ovvero valida per la categoria superiore; l'istruttore deve, a tutti gli effetti, vigilare sulla marcia del veicolo, intervenendo tempestivamente ed efficacemente in caso di necessita'. PERIODO SOPPRESSO DAL [D.L. 9 FEBBRAIO 2012, N. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35).
+((Fatto salvo quanto disposto dal comma 5-bis, l'autorizzazione)) consente all'aspirante di esercitarsi su veicoli delle categorie per le quali e' stata richiesta la patente o l'estensione di validita' della medesima, purche' al suo fianco si trovi, in funzione di istruttore, persona di eta' non superiore a sessantacinque anni, munita di patente valida per la stessa categoria, conseguita da almeno dieci anni, ovvero valida per la categoria superiore; l'istruttore deve, a tutti gli effetti, vigilare sulla marcia del veicolo, intervenendo tempestivamente ed efficacemente in caso di necessita'. PERIODO SOPPRESSO DAL [D.L. 9 FEBBRAIO 2012, N. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md).
 
 3.
 
@@ -11478,7 +11478,7 @@ Gli autoveicoli per le esercitazioni e gli esami di guida devono essere muniti d
 
 5.
 
-COMMA ABROGATO DAL [D.L. 10 SETTEMBRE 2021, N. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121), CONVERTITO CON MODIFICAZIONI DALLA [L. 9 NOVEMBRE 2021, N. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156).
+COMMA ABROGATO DAL [D.L. 10 SETTEMBRE 2021, N. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121), CONVERTITO CON MODIFICAZIONI DALLA [L. 9 NOVEMBRE 2021, N. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20settembre%202021%20n.%20121%20recante%20disposizioni%20urgenti%20in%20materia%20di%20investimenti%20e%20sicurezza%20delle%20infrastrutture%20dei%20trasporti%20e%20_a45ae3c7c3a4.md).
 
 ((5-bis. L'aspirante al conseguimento della patente di guida di categoria B puo' esercitarsi nelle condizioni di cui al comma 2 solo dopo aver effettuato esercitazioni in autostrada o su strade extraurbane e in condizione di visione notturna. Per le esercitazioni di guida nelle condizioni di cui al comma 2, il titolare dell'autorizzazione di cui al comma 1 deve avere con se' anche la certificazione rilasciata dall'autoscuola che comprova l'assolvimento degli obblighi di cui al primo periodo del presente comma. Chiunque guida senza tale certificazione e' soggetto alle sanzioni di cui al comma 7. Con uno o piu' decreti del Ministro delle infrastrutture e dei trasporti sono stabiliti il numero minimo delle ore di esercitazione che l'aspirante al conseguimento della patente di guida della categoria B e' tenuto a effettuare presso un'autoscuola con istruttore abilitato e autorizzato, il numero di quelle necessarie per le esercitazioni di cui al comma 2 nonche' la disciplina e le modalita' di svolgimento delle medesime esercitazioni))
 
@@ -11602,7 +11602,7 @@ I compiti delle province in materia di dichiarazioni di inizio attivita' e di vi
 
 4.
 
-Le persone fisiche o giuridiche, le societa', gli enti possono presentare l'apposita dichiarazione di inizio attivita'. Il titolare deve avere la proprieta' e gestione diretta, personale, esclusiva e permanente dell'esercizio, nonche' la gestione diretta dei beni patrimoniali dell'autoscuola, rispondendo del suo regolare funzionamento nei confronti del concedente; nel caso di apertura di ulteriori sedi per l'esercizio dell'attivita' di autoscuola, per ciascuna deve essere dimostrato il possesso di tutti i requisiti prescritti, ad eccezione della capacita' finanziaria che deve essere dimostrata per una sola sede, e deve essere preposto un responsabile didattico, in organico quale dipendente o collaboratore familiare ovvero anche, nel caso di societa' di persone o di capitali, quale rispettivamente socio o amministratore, che sia in possesso dei requisiti di cui al comma 5, ad eccezione della capacita' finanziaria. PERIODO SOPPRESSO DAL [D.L. 31 GENNAIO 2007, N. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7), CONVERTITO CON MODIFICAZIONI DALLA [L. 2 APRILE 2007, N. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-04-02;40). (81)
+Le persone fisiche o giuridiche, le societa', gli enti possono presentare l'apposita dichiarazione di inizio attivita'. Il titolare deve avere la proprieta' e gestione diretta, personale, esclusiva e permanente dell'esercizio, nonche' la gestione diretta dei beni patrimoniali dell'autoscuola, rispondendo del suo regolare funzionamento nei confronti del concedente; nel caso di apertura di ulteriori sedi per l'esercizio dell'attivita' di autoscuola, per ciascuna deve essere dimostrato il possesso di tutti i requisiti prescritti, ad eccezione della capacita' finanziaria che deve essere dimostrata per una sola sede, e deve essere preposto un responsabile didattico, in organico quale dipendente o collaboratore familiare ovvero anche, nel caso di societa' di persone o di capitali, quale rispettivamente socio o amministratore, che sia in possesso dei requisiti di cui al comma 5, ad eccezione della capacita' finanziaria. PERIODO SOPPRESSO DAL [D.L. 31 GENNAIO 2007, N. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7), CONVERTITO CON MODIFICAZIONI DALLA [L. 2 APRILE 2007, N. 40](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%202007%20n.%207%20recante%20misure%20urgenti%20per%20la%20tutela%20dei%20consumatori%20la%20promozione%20della%20concorrenza%20lo%20sviluppo%20di%20attivita%20_260db268108a.md). (81)
 
 5.
 
@@ -11726,7 +11726,7 @@ Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (81)
 
-Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7), convertito con modificazioni dalla [L. 2 aprile 2007, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-04-02;40) ha disposto (con l'art. 10, comma 5-ter) che le modifiche al comma 4 si applicano a decorrere dalla data di entrata in vigore del decreto medesimo. 
+Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7), convertito con modificazioni dalla [L. 2 aprile 2007, n. 40](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%202007%20n.%207%20recante%20misure%20urgenti%20per%20la%20tutela%20dei%20consumatori%20la%20promozione%20della%20concorrenza%20lo%20sviluppo%20di%20attivita%20_260db268108a.md) ha disposto (con l'art. 10, comma 5-ter) che le modifiche al comma 4 si applicano a decorrere dalla data di entrata in vigore del decreto medesimo. 
  Ha inoltre disposto (con l'art. 10, comma 5-quater) che le modifiche al comma 5 si applicano a decorrere dalla data di entrata in vigore della legge di conversione del decreto medesimo.
 
 ---------------
@@ -11761,7 +11761,7 @@ Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/At
 
 AGGIORNAMENTO (113)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), nel modificare l'[art. 28, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), ha conseguentemente disposto (con l'art. 1, comma 388) che le modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 7](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), secondo periodo, del presente articolo, si applicano a decorrere dal 30 giugno 2013.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), nel modificare l'[art. 28, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), ha conseguentemente disposto (con l'art. 1, comma 388) che le modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 7](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), secondo periodo, del presente articolo, si applicano a decorrere dal 30 giugno 2013.
 
 ---------------
 
@@ -11773,7 +11773,7 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012 n. 303) ha disposto (con l'art. 
 
 AGGIORNAMENTO (121)
 
-Il [D.L. 30 dicembre 2013, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-30;150) convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-02-27;15) nel modificare l'[art. 10, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha conseguentemente disposto (con l'art. 4, comma 3) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 7](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), secondo periodo, del presente articolo e' prorogata al 31 dicembre 2014.
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md) convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) nel modificare l'[art. 10, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha conseguentemente disposto (con l'art. 4, comma 3) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 7](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), secondo periodo, del presente articolo e' prorogata al 31 dicembre 2014.
 
 ---------------
 
@@ -11785,7 +11785,7 @@ Il Decreto 16 dicembre 2014 (in G.U. 31/12/2014, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (125)
 
-Il [D.L. 31 dicembre 2014, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-12-31;192), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-02-27;11), nel modificare l'[art. 10, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha conseguentemente disposto (con l'art. 8, comma 6) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 7](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), secondo periodo, del presente articolo e' prorogata al 30 giugno 2015.
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md), nel modificare l'[art. 10, comma 1 del D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha conseguentemente disposto (con l'art. 8, comma 6) che l'entrata in vigore delle modifiche apportate dal [D.Lgs. 18 aprile 2011, n. 59 al comma 7](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), secondo periodo, del presente articolo e' prorogata al 30 giugno 2015.
 
 -------------
 
@@ -12073,8 +12073,8 @@ Chiunque viola le disposizioni del comma 3, secondo periodo, e' punito con le sa
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le modifiche di cui ai commi 5 e 6 del presente articolo decorrono dal 1 ottobre 1995. 
- Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11) ha inoltre disposto (con l'art. 2, comma 4) che e' prorogata al 31 dicembre 1997 la validita' dei certificati di abilitazione professionale di cui al comma 4 del presente articolo, fermo restando che il certificato di abilitazione professionale deve essere rinnovato contestualmente alla scadenza delle patente di guida dei veicoli.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le modifiche di cui ai commi 5 e 6 del presente articolo decorrono dal 1 ottobre 1995. 
+ Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md) ha inoltre disposto (con l'art. 2, comma 4) che e' prorogata al 31 dicembre 1997 la validita' dei certificati di abilitazione professionale di cui al comma 4 del presente articolo, fermo restando che il certificato di abilitazione professionale deve essere rinnovato contestualmente alla scadenza delle patente di guida dei veicoli.
 
 ---------------
 
@@ -12147,7 +12147,7 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303), prendendo in considera
 
 AGGIORNAMENTO (115)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 5) che "Le disposizioni di cui all'[articolo 126, comma 11, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_126-com11), e successive modificazioni, come modificato dall'articolo 5, comma 1, lettera b-bis), del presente decreto, sono applicabili a decorrere dal novantesimo giorno successivo alla data di entrata in vigore di quest'ultimo".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 5) che "Le disposizioni di cui all'[articolo 126, comma 11, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, come modificato dall'articolo 5, comma 1, lettera b-bis), del presente decreto, sono applicabili a decorrere dal novantesimo giorno successivo alla data di entrata in vigore di quest'ultimo".
 
 -----------
 
@@ -12210,7 +12210,7 @@ Per le violazioni penali per le quali e' prevista una diminuzione di punti rifer
 
 AGGIORNAMENTO (66)
 
-La Corte Costituzionale, con sentenza 12-24 gennaio 2005, n. 27 (in G.U. 1a s.s. 26/01/2005, n. 4) ha dichiarato l'illegittimita' costituzionale dell'art. 126-bis, comma 2 "nel testo risultante all'esito della modifica apportata dall'[art. 7, comma 3, lettera b), del decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151#art_7-com3-letb) (Modifiche ed integrazioni al [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), convertito, con modificazioni, nella [legge 1° agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214), nella parte in cui dispone che: «nel caso di mancata identificazione di questi, la segnalazione deve essere effettuata a carico del proprietario del veicolo, salvo che lo stesso non comunichi, entro trenta giorni dalla richiesta, all'organo di polizia che procede, i dati personali e della patente del conducente al momento della commessa violazione», anziche' «nel caso di mancata identificazione di questi, il proprietario del veicolo, entro trenta giorni dalla richiesta, deve fornire, all'organo di polizia che procede, i dati personali e della patente del conducente al momento della commessa violazione»".
+La Corte Costituzionale, con sentenza 12-24 gennaio 2005, n. 27 (in G.U. 1a s.s. 26/01/2005, n. 4) ha dichiarato l'illegittimita' costituzionale dell'art. 126-bis, comma 2 "nel testo risultante all'esito della modifica apportata dall'[art. 7, comma 3, lettera b), del decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151#art_7-com3-letb) (Modifiche ed integrazioni al [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), convertito, con modificazioni, nella [legge 1° agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md), nella parte in cui dispone che: «nel caso di mancata identificazione di questi, la segnalazione deve essere effettuata a carico del proprietario del veicolo, salvo che lo stesso non comunichi, entro trenta giorni dalla richiesta, all'organo di polizia che procede, i dati personali e della patente del conducente al momento della commessa violazione», anziche' «nel caso di mancata identificazione di questi, il proprietario del veicolo, entro trenta giorni dalla richiesta, deve fornire, all'organo di polizia che procede, i dati personali e della patente del conducente al momento della commessa violazione»".
 
 ---------------
 
@@ -12283,7 +12283,7 @@ Si procede ai sensi del comma 1-bis anche nel caso in cui i medici di cui all'ar
 
 1-sexies.
 
-Puo' essere disposta la revisione della patente di guida nei confronti delle persone a cui siano state applicate le misure amministrative di cui all'[articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_75). Il prefetto dispone la revisione con il provvedimento di cui all'[articolo 75, comma 4, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_75-com4).
+Puo' essere disposta la revisione della patente di guida nei confronti delle persone a cui siano state applicate le misure amministrative di cui all'[articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md). Il prefetto dispone la revisione con il provvedimento di cui all'[articolo 75, comma 4, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 2.
 
@@ -12298,7 +12298,7 @@ COMMA ABROGATO DALLA [L. 29 LUGLIO 2010, N. 120](https://www.normattiva.it/uri-r
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che la presente modifica decorre dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che la presente modifica decorre dal 1 ottobre 1995.
 
 ---------------
 
@@ -12386,8 +12386,8 @@ La patente di guida e' sospesa, per la durata stabilita nel provvedimento di int
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360). 
- 2. La patente di guida e' sospesa a tempo indeterminato qualora, in sede di accertamento sanitario per la conferma di validita' o per la revisione disposta ai sensi dell'art. 128, risulti la temporanea perdita dei requisiti fisici e psichici di cui all'art. 119. In tal caso la patente e' sospesa fintanto che l'interessato non produca la certificazione della Commissione medica locale attestante il recupero dei prescritti requisiti psichici e fisici. PERIODO ABROGATO DAL [D.P.R. 19 APRILE 1994, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575). (15)
+COMMA SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md). 
+ 2. La patente di guida e' sospesa a tempo indeterminato qualora, in sede di accertamento sanitario per la conferma di validita' o per la revisione disposta ai sensi dell'art. 128, risulti la temporanea perdita dei requisiti fisici e psichici di cui all'art. 119. In tal caso la patente e' sospesa fintanto che l'interessato non produca la certificazione della Commissione medica locale attestante il recupero dei prescritti requisiti psichici e fisici. PERIODO ABROGATO DAL [D.P.R. 19 APRILE 1994, N. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md). (15)
 
 3.
 
@@ -12401,14 +12401,14 @@ Il provvedimento di sospensione della patente di cui al comma 2 e' atto definiti
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le modifiche ai commi 2 e 3 del presente articolo decorrono dal 1 ottobre 1995. 
- Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11) ha inoltre disposto (con l'art. 2, comma 3) che i provvedimenti di sospensione e di revoca della patente di guida, conseguenti alla perdita dei requisiti fisici e psichici, previsti dal comma 2 del presente articolo, sono adottati dal prefetto anche successivamente al 30 settembre 1995, qualora la relativa certificazione sanitaria sia stata rilasciata anteriormente al 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le modifiche ai commi 2 e 3 del presente articolo decorrono dal 1 ottobre 1995. 
+ Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md) ha inoltre disposto (con l'art. 2, comma 3) che i provvedimenti di sospensione e di revoca della patente di guida, conseguenti alla perdita dei requisiti fisici e psichici, previsti dal comma 2 del presente articolo, sono adottati dal prefetto anche successivamente al 30 settembre 1995, qualora la relativa certificazione sanitaria sia stata rilasciata anteriormente al 1 ottobre 1995.
 
 ---------------
 
 AGGIORNAMENTO (56)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214) ha disposto (con l'art. 7, comma 6) che le disposizioni del comma 4 del presente articolo hanno effetto dal 1 settembre 2003.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md) ha disposto (con l'art. 7, comma 6) che le disposizioni del comma 4 del presente articolo hanno effetto dal 1 settembre 2003.
 
 ---------------
 
@@ -12440,14 +12440,14 @@ Allorche' siano cessati i motivi che hanno determinato il provvedimento di revoc
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che la modifica al comma 1 del presente articolo decorre dal 1 ottobre 1995. 
- Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11) ha inoltre disposto (con l'art. 2, comma 3) che i provvedimenti di sospensione e di revoca della patente di guida, conseguenti alla perdita dei requisiti fisici e psichici, previsti dal presente articolo, sono adottati dal prefetto anche successivamente al 30 settembre 1995, qualora la relativa certificazione sanitaria sia stata rilasciata anteriormente al 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che la modifica al comma 1 del presente articolo decorre dal 1 ottobre 1995. 
+ Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md) ha inoltre disposto (con l'art. 2, comma 3) che i provvedimenti di sospensione e di revoca della patente di guida, conseguenti alla perdita dei requisiti fisici e psichici, previsti dal presente articolo, sono adottati dal prefetto anche successivamente al 30 settembre 1995, qualora la relativa certificazione sanitaria sia stata rilasciata anteriormente al 1 ottobre 1995.
 
 ---------------
 
 AGGIORNAMENTO (28)
 
-La Corte Costituzionale, con sentenza 14-21 ottobre 1998, n. 354 (in G.U. 1a s.s. 28/10/1998, n. 43), ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli [artt. 120, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com1), e [130, comma 1, lett. b), del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_130-com1-letb) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nella versione anteriore al [d.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575), nella parte in cui prevede la revoca della patente nei confronti di coloro che "sono stati" sottoposti a misure di sicurezza personali".
+La Corte Costituzionale, con sentenza 14-21 ottobre 1998, n. 354 (in G.U. 1a s.s. 28/10/1998, n. 43), ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli [artt. 120, comma 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e [130, comma 1, lett. b), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nella versione anteriore al [d.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), nella parte in cui prevede la revoca della patente nei confronti di coloro che "sono stati" sottoposti a misure di sicurezza personali".
 
 ---------------
 
@@ -12459,7 +12459,7 @@ La Corte Costituzionale, con sentenza 9-18 ottobre 2000, n. 427 (in G.U. 1a s.s.
 
 AGGIORNAMENTO (47)
 
-La Corte Costituzionale, con sentenza 5-17 luglio 2001, n. 251 (in G.U. 1a s.s. 25/7/2001 n. 29), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 1, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_120-com1) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), in relazione all'art. 130, comma 1, lettera b), del medesimo codice, nella parte in cui prevede la revoca della patente nei confronti di coloro che sono stati sottoposti alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), come sostituita dalla [legge 3 agosto 1988, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327), nonche' dalla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), cosi' come successivamente modificata e integrata".
+La Corte Costituzionale, con sentenza 5-17 luglio 2001, n. 251 (in G.U. 1a s.s. 25/7/2001 n. 29), ha dichiarato "l'illegittimita' costituzionale dell'[art. 120, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), in relazione all'art. 130, comma 1, lettera b), del medesimo codice, nella parte in cui prevede la revoca della patente nei confronti di coloro che sono stati sottoposti alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), come sostituita dalla [legge 3 agosto 1988, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327), nonche' dalla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), cosi' come successivamente modificata e integrata".
 
 --------------
 
@@ -12471,7 +12471,7 @@ La Corte Costituzionale, con sentenza 30 giugno-15 luglio 2003, n. 239 (in G.U. 
 
 AGGIORNAMENTO (56)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214) ha disposto (con l'art. 7, comma 6) che le disposizioni del comma 2-bis, primo periodo, del presente articolo hanno effetto dal 1° settembre 2003.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md) ha disposto (con l'art. 7, comma 6) che le disposizioni del comma 2-bis, primo periodo, del presente articolo hanno effetto dal 1° settembre 2003.
 
 ### Art. 130-bis.
 
@@ -12505,7 +12505,7 @@ Le disposizioni del presente articolo si applicano a condizione di reciprocita',
 
 1.
 
-Fuori dei casi di cui all'articolo 93-bis, gli autoveicoli, i motoveicoli e i rimorchi immatricolati in uno Stato estero e per i quali si sia gia' adempiuto alle formalita' doganali o a quelle di cui all'[articolo 53, comma 2, del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_53-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), se prescritte, sono ammessi a circolare in Italia per la durata massima di un anno, in base al certificato di immatricolazione dello Stato di origine, in conformita' alle Convenzioni internazionali ratificate dall'Italia.
+Fuori dei casi di cui all'articolo 93-bis, gli autoveicoli, i motoveicoli e i rimorchi immatricolati in uno Stato estero e per i quali si sia gia' adempiuto alle formalita' doganali o a quelle di cui all'[articolo 53, comma 2, del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_53-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), se prescritte, sono ammessi a circolare in Italia per la durata massima di un anno, in base al certificato di immatricolazione dello Stato di origine, in conformita' alle Convenzioni internazionali ratificate dall'Italia.
 
 2.
 
@@ -13015,13 +13015,13 @@ I competenti ((uffici competenti del Dipartimento per i trasporti terrestri)) ri
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575) ha disposto (con l'art. 16, comma 3) che "Le disposizioni contenute nell'art. 12 sono rese operative decorsi centottanta giorni dalla data di entrata in vigore del presente regolamento."
+Il [D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md) ha disposto (con l'art. 16, comma 3) che "Le disposizioni contenute nell'art. 12 sono rese operative decorsi centottanta giorni dalla data di entrata in vigore del presente regolamento."
 
 ---------------
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che la presente modifica decorre dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che la presente modifica decorre dal 1 ottobre 1995.
 
 ### Art. 138. — Veicoli e conducenti delle Forze armate
 
@@ -13148,7 +13148,7 @@ Chiunque viola le disposizioni del comma 3 e' soggetto alla sanzione amministrat
 9.
 
 Salvo quanto previsto dagli articoli 9-bis e 9-ter, chiunque viola la disposizione del comma 5 e' soggetto alla sanzione amministrativa del pagamento di una somma ((da € 173 a € 694)).
-PERIODO SOPPRESSO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214). PERIODO SOPPRESSO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214). (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (133) (145) ((163))
+PERIODO SOPPRESSO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md). PERIODO SOPPRESSO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md). (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (133) (145) ((163))
 
 10.
 
@@ -13199,7 +13199,7 @@ Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (82)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 141 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_141), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 141 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
 
 ---------------
 
@@ -13326,7 +13326,7 @@ Quando il titolare di una patente di guida sia incorso, in un periodo di due ann
 
 12-bis.
 
-I proventi delle sanzioni derivanti dall'accertamento delle violazioni dei limiti massimi di velocita' stabiliti dal presente articolo, attraverso l'impiego di apparecchi o di sistemi di rilevamento della velocita' ovvero attraverso l'utilizzazione di dispositivi o di mezzi tecnici di controllo a distanza delle violazioni ai sensi dell'[articolo 4 del decreto-legge 20 giugno 2002, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-06-20;121#art_4), convertito, con modificazioni, dalla [legge 1° agosto 2002, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;168), e successive modificazioni, sono attribuiti, in misura pari al 50 per cento ciascuno, all'ente proprietario della strada su cui e' stato effettuato l'accertamento o agli enti che esercitano le relative funzioni ai sensi dell'[articolo 39 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-22;381#art_39), e all'ente da cui dipende l'organo accertatore, alle condizioni e nei limiti di cui ai commi 12-ter e 12-quater. Le disposizioni di cui al periodo precedente non si applicano alle strade in concessione. Gli enti di cui al presente comma diversi dallo Stato utilizzano la quota dei proventi ad essi destinati nella regione nella quale sono stati effettuati gli accertamenti. (99)
+I proventi delle sanzioni derivanti dall'accertamento delle violazioni dei limiti massimi di velocita' stabiliti dal presente articolo, attraverso l'impiego di apparecchi o di sistemi di rilevamento della velocita' ovvero attraverso l'utilizzazione di dispositivi o di mezzi tecnici di controllo a distanza delle violazioni ai sensi dell'[articolo 4 del decreto-legge 20 giugno 2002, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-06-20;121#art_4), convertito, con modificazioni, dalla [legge 1° agosto 2002, n. 168](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20giugno%202002%20n.%20121%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20sicurezza%20nella%20circolazione%20stradale.md), e successive modificazioni, sono attribuiti, in misura pari al 50 per cento ciascuno, all'ente proprietario della strada su cui e' stato effettuato l'accertamento o agli enti che esercitano le relative funzioni ai sensi dell'[articolo 39 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20urbanistica%20ed%20opere%20pubbliche.md), e all'ente da cui dipende l'organo accertatore, alle condizioni e nei limiti di cui ai commi 12-ter e 12-quater. Le disposizioni di cui al periodo precedente non si applicano alle strade in concessione. Gli enti di cui al presente comma diversi dallo Stato utilizzano la quota dei proventi ad essi destinati nella regione nella quale sono stati effettuati gli accertamenti. (99)
 
 12-ter.
 
@@ -13376,7 +13376,7 @@ Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (82)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 142, commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_142-com8) e [9 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_142-com9), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 142, commi 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [9 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
 
 ---------------
 
@@ -13452,7 +13452,7 @@ Salvo diversa segnalazione, quando una carreggiata e' a due o piu' corsie per se
 
 6.
 
-COMMA SOPPRESSO DAL [D.LGS. 15 GENNAIO 2002, N. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-15;9).
+COMMA SOPPRESSO DAL [D.LGS. 15 GENNAIO 2002, N. 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20nuovo%20codice%20della%20strada%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2022%20marzo%202001%20n.%2085.md).
 
 7.
 
@@ -14029,7 +14029,7 @@ Il sorpasso dei tram, qualora gli stessi non circolino in sede stradale riservat
 9.
 
 Qualora il tram o il filobus siano fermi in mezzo alla carreggiata per la salita e la discesa dei viaggiatori e non esista un salvagente, il sorpasso a destra e' vietato. 
- 9. COMMA SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+ 9. COMMA SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 ((9-bis. Il sorpasso dei velocipedi da parte dei veicoli a motore deve essere effettuato con adeguato distanziamento laterale in funzione della velocita' rispettiva e dell'ingombro del veicolo a motore, per tener conto della ridotta stabilita' dei velocipedi, mantenendo, ove le condizioni della strada lo consentano, la distanza di sicurezza di almeno 1,5 metri. Chiunque viola le disposizioni del presente comma e' soggetto alle sanzioni amministrative di cui al comma 16, primo periodo))
 
@@ -14073,7 +14073,7 @@ Chiunque non osservi i divieti di sorpasso posti dai commi 9, 10, 11, 12 e 13 e'
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 10 settembre 1993, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360) ha disposto (con l'art. 74, comma 1, lettera f)) che al comma 15 del presente articolo le parole "di cui ai commi 4 e 5" sono sostituite dalle seguenti: "4, 5 e 7".
+Il [D.Lgs. 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md) ha disposto (con l'art. 74, comma 1, lettera f)) che al comma 15 del presente articolo le parole "di cui ai commi 4 e 5" sono sostituite dalle seguenti: "4, 5 e 7".
 
 ---------------
 
@@ -15215,7 +15215,7 @@ La [L. 16 dicembre 1999, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 1.
 
-Salvo quanto disposto nell'[art. 672 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_672), nei centri urbani il conducente deve vigilare affinche' gli animali in sosta, con o senza attacco, a lui affidati, siano sempre perfettamente assicurati mediante appositi dispositivi o sostegni fissi e legati in modo tale da non arrecare intralcio o pericolo alla circolazione dei veicoli e dei pedoni. Durante le ore notturne gli animali potranno sostare soltanto in luoghi sufficientemente illuminati. Fuori dei centri abitati e' vietata la sosta degli animali sulla carreggiata.
+Salvo quanto disposto nell'[art. 672 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nei centri urbani il conducente deve vigilare affinche' gli animali in sosta, con o senza attacco, a lui affidati, siano sempre perfettamente assicurati mediante appositi dispositivi o sostegni fissi e legati in modo tale da non arrecare intralcio o pericolo alla circolazione dei veicoli e dei pedoni. Durante le ore notturne gli animali potranno sostare soltanto in luoghi sufficientemente illuminati. Fuori dei centri abitati e' vietata la sosta degli animali sulla carreggiata.
 
 2.
 
@@ -15985,7 +15985,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 1.
 
-Ai fini del trasporto su strada sono considerati materiali pericolosi quelli appartenenti alle classi indicate negli allegati all'accordo auropeo relativo al trasporto internazionale su strada di merci pericolose di cui alla [legge 12 agosto 1962, n. 1839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1839), e successive modificazioni e integrazioni.
+Ai fini del trasporto su strada sono considerati materiali pericolosi quelli appartenenti alle classi indicate negli allegati all'accordo auropeo relativo al trasporto internazionale su strada di merci pericolose di cui alla [legge 12 agosto 1962, n. 1839](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20europeo%20relativo%20al%20trasporto%20internazionale%20di%20merci%20pericolose%20su%20strada%20con%20annessi%20Protocollo%20ed%20Allegati%20adottato%20a%20Ginevra%20il%2030%20settembre%201957.md), e successive modificazioni e integrazioni.
 
 2.
 
@@ -16005,7 +16005,7 @@ A condizione che non sia pregiudicata la sicurezza, il Ministero delle infrastru
 
 5.
 
-Per il trasporto delle materie fissili o radioattive si applicano le norme dell'[art. 5 della legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860#art_5), modificato dall'[art. 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-30;1704#art_2), e successive modifiche.
+Per il trasporto delle materie fissili o radioattive si applicano le norme dell'[art. 5 della legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860#art_5), modificato dall'[art. 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704](../DPR/Modifiche%20ed%20integrazioni%20alla%20legge%2031%20dicembre%201962%20n.%201860%20sullimpiego%20pacifico%20dellenergia%20nucleare.md), e successive modifiche.
 
 6.
 
@@ -16092,7 +16092,7 @@ AGGIORNAMENTO (95)
 
 Il [D.Lgs. 27 gennaio 2010, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-68-CE%20relativa%20al%20trasporto%20interno%20di%20merci%20pericolose.%2010G0049.md) ha disposto: 
  - (con l'art. 6, comma 1, lettera e)) che ai commi 9, 9-bis e 9-ter le parole: «Chiunque viola le prescrizioni fissate o recepite con i decreti ministeriali di cui al comma 2» sono sostituite, ovunque ricorrano, dalle seguenti: «Chiunque viola le prescrizioni fissate dal comma 2». 
- - (con l'art. 6, comma 2) che "All'espletamento delle attivita' autorizzative di cui all'[articolo 168 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_168), e successive modificazioni, comma 4-bis, quale introdotto dal comma 1, si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente".
+ - (con l'art. 6, comma 2) che "All'espletamento delle attivita' autorizzative di cui all'[articolo 168 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, comma 4-bis, quale introdotto dal comma 1, si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente".
 
 --------------
 
@@ -16154,7 +16154,7 @@ Fino all'8 maggio 2009 sulle autovetture e sugli autoveicoli adibiti al trasport
 
 6.
 
-Sui veicoli diversi da quelli autorizzati a norma dell'[art. 38 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320#art_38), e' vietato il trasporto di animali domestici in numero superiore a uno e comunque in condizioni da costituire impedimento o pericolo per la guida. E' consentito il trasporto di soli animali domestici, anche in numero superiore, purche' custoditi in apposita gabbia o contenitore o nel vano posteriore al posto di guida appositamente diviso da rete od altro analogo mezzo idoneo che, se installati in via permanente, devono essere autorizzati dal competente ufficio competente del Dipartimento per i trasporti terrestri.
+Sui veicoli diversi da quelli autorizzati a norma dell'[art. 38 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' vietato il trasporto di animali domestici in numero superiore a uno e comunque in condizioni da costituire impedimento o pericolo per la guida. E' consentito il trasporto di soli animali domestici, anche in numero superiore, purche' custoditi in apposita gabbia o contenitore o nel vano posteriore al posto di guida appositamente diviso da rete od altro analogo mezzo idoneo che, se installati in via permanente, devono essere autorizzati dal competente ufficio competente del Dipartimento per i trasporti terrestri.
 
 7.
 
@@ -16316,7 +16316,7 @@ Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (56)
 
-Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214), ha disposto (con l'art. 7, comma 7) che le disposizioni del comma 2 del presente articolo hanno effetto a decorrere dal 1° luglio 2004.
+Il [D.L. 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), convertito con modificazioni dalla [L. 1 agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md), ha disposto (con l'art. 7, comma 7) che le disposizioni del comma 2 del presente articolo hanno effetto a decorrere dal 1° luglio 2004.
 
 ---------------
 
@@ -16649,7 +16649,7 @@ Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art.
 
 AGGIORNAMENTO (151)
 
-La [L. 1 ottobre 2018, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-10-01;117), come modificata dal [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124), convertito con modificazioni dalla [L. 19 dicembre 2019, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-19;157), ha disposto (con l'art. 1, comma 3-bis) che "Al fine di consentire una corretta informazione dell'utenza e l'attuazione, da parte dei produttori, delle disposizioni del decreto di cui al comma 2 del presente articolo, le sanzioni per la violazione dell'obbligo di cui all'[articolo 172, comma 1-bis, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_172-com1bis), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), introdotto dal comma 1 del presente articolo, si applicano a decorrere dal 6 marzo 2020".
+La [L. 1 ottobre 2018, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-10-01;117), come modificata dal [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124), convertito con modificazioni dalla [L. 19 dicembre 2019, n. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%202019%20n.%20124%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20esigenze%20indifferibili.%2019G00164.md), ha disposto (con l'art. 1, comma 3-bis) che "Al fine di consentire una corretta informazione dell'utenza e l'attuazione, da parte dei produttori, delle disposizioni del decreto di cui al comma 2 del presente articolo, le sanzioni per la violazione dell'obbligo di cui all'[articolo 172, comma 1-bis, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), introdotto dal comma 1 del presente articolo, si applicano a decorrere dal 6 marzo 2020".
 
 ------------
 
@@ -17374,7 +17374,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 1.
 
-La durata della guida degli autoveicoli adibiti al trasporto di persone o di cose non muniti dei dispositivi di controllo di cui all'articolo 179 e' disciplinata dalle disposizioni dell'accordo europeo relativo alle prestazioni lavorative degli equipaggi dei veicoli addetti ai trasporti internazionali su strada (AETR), concluso a Ginevra il 1° luglio 1970, reso esecutivo dalla [legge 6 marzo 1976, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-06;112). Al rispetto delle disposizioni dello stesso accordo sono tenuti i conducenti dei veicoli di cui al paragrafo 3 dell'articolo 2 del regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006.
+La durata della guida degli autoveicoli adibiti al trasporto di persone o di cose non muniti dei dispositivi di controllo di cui all'articolo 179 e' disciplinata dalle disposizioni dell'accordo europeo relativo alle prestazioni lavorative degli equipaggi dei veicoli addetti ai trasporti internazionali su strada (AETR), concluso a Ginevra il 1° luglio 1970, reso esecutivo dalla [legge 6 marzo 1976, n. 112](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20relativo%20alle%20prestazioni%20lavorative%20degli%20equipaggi%20dei%20veicoli%20addetti%20ai%20trasporti%20internazionali%20su%20strada%20AETR%20con%20allegato%20e%20protocollo%20co_2ee9148f13f1.md). Al rispetto delle disposizioni dello stesso accordo sono tenuti i conducenti dei veicoli di cui al paragrafo 3 dell'articolo 2 del regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006.
 
 2.
 
@@ -17726,7 +17726,7 @@ Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'art.
 
 AGGIORNAMENTO (98)
 
-La Corte Costituzionale, con sentenza 7 -23 luglio 2010, n. 280 (in G.U. 1a s.s. 28-7-2010, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 180, comma 4, del decreto legislativo 30 aprile 1992 (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come integrato dall'[articolo 3, comma 17, del decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151#art_3-com17) (Modifiche ed integrazioni ad [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214), nella parte in cui non estende a tutti i veicoli delle aziende fornitrici di servizi pubblici essenziali, ai sensi dell'[art. 1 della legge n. 146 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;146#art_1), la facolta' di tenere a bordo dei veicoli, in luogo dell'originale, una fotocopia della carta di circolazione, autenticata dal proprietario del veicolo, con sottoscrizione del medesimo".
+La Corte Costituzionale, con sentenza 7 -23 luglio 2010, n. 280 (in G.U. 1a s.s. 28-7-2010, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 180, comma 4, del decreto legislativo 30 aprile 1992 (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come integrato dall'[articolo 3, comma 17, del decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151#art_3-com17) (Modifiche ed integrazioni ad [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md), nella parte in cui non estende a tutti i veicoli delle aziende fornitrici di servizi pubblici essenziali, ai sensi dell'[art. 1 della legge n. 146 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;146#art_1), la facolta' di tenere a bordo dei veicoli, in luogo dell'originale, una fotocopia della carta di circolazione, autenticata dal proprietario del veicolo, con sottoscrizione del medesimo".
 
 ---------------
 
@@ -17842,7 +17842,7 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art.
 
 AGGIORNAMENTO (117)
 
-Il Decreto 9 agosto 2013, n. 110 ha disposto (con l'art. 2, comma 2) che "Il processo di dematerializzazione si conclude entro due anni dall'entrata in vigore del presente regolamento con conseguente cessazione da quella data dell'obbligo di esposizione del contrassegno di cui all'[articolo 127 del decreto legislativo 7 settembre 2005, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209#art_127), nonche' all'[articolo 181 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_181)."
+Il Decreto 9 agosto 2013, n. 110 ha disposto (con l'art. 2, comma 2) che "Il processo di dematerializzazione si conclude entro due anni dall'entrata in vigore del presente regolamento con conseguente cessazione da quella data dell'obbligo di esposizione del contrassegno di cui all'[articolo 127 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), nonche' all'[articolo 181 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)."
 
 --------------
 
@@ -17885,7 +17885,7 @@ E' vietato trasportare altre persone sul velocipede a meno che lo stesso non sia
 6.
 
 I velocipedi appositamente costruiti ed omologati per il trasporto di altre persone oltre al conducente devono essere condotti, se a piu' di due ruote simmetriche, solo da quest'ultimo.
-PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 7.
 
@@ -18323,7 +18323,7 @@ Le circostanze attenuanti concorrenti con l'aggravante di cui al comma 2-sexies 
 
 2-octies.
 
-Una quota pari al venti per cento dell'ammenda irrogata con la sentenza di condanna che ha ritenuto sussistente l'aggravante di cui al comma 2-sexies e' destinata ad alimentare il Fondo contro l'incidentalita' notturna di cui all'[articolo 6-bis del decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117#art_6bis), convertito, con modificazioni, dalla [legge 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), e successive modificazioni.
+Una quota pari al venti per cento dell'ammenda irrogata con la sentenza di condanna che ha ritenuto sussistente l'aggravante di cui al comma 2-sexies e' destinata ad alimentare il Fondo contro l'incidentalita' notturna di cui all'[articolo 6-bis del decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117#art_6bis), convertito, con modificazioni, dalla [legge 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), e successive modificazioni.
 
 3.
 
@@ -18356,7 +18356,7 @@ Qualora dall'accertamento di cui ai commi 4 e 5 risulti un valore corrispondente
 
 9-bis.
 
-Al di fuori dei casi previsti dal comma 2-bis del presente articolo, la pena detentiva e pecuniaria puo' essere sostituita, anche con il decreto penale di condanna, se non vi e' opposizione da parte dell'imputato, con quella del lavoro di pubblica utilita' di cui all'[articolo 54 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_54), secondo le modalita' ivi previste e consistente nella prestazione di un'attivita' non retribuita a favore della collettivita' da svolgere, in via prioritaria, nel campo della sicurezza e dell'educazione stradale presso lo Stato, le regioni, le province, i comuni o presso enti o organizzazioni di assistenza sociale e di volontariato, o presso i centri specializzati di lotta alle dipendenze. Con il decreto penale o con la sentenza il giudice incarica l'ufficio locale di esecuzione penale ovvero gli organi di cui all'[articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_59) di verificare l'effettivo svolgimento del lavoro di pubblica utilita'. In deroga a quanto previsto dall'[articolo 54 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_54), il lavoro di pubblica utilita' ha una durata corrispondente a quella della sanzione detentiva irrogata e della conversione della pena pecuniaria ragguagliando 250 euro ad un giorno di lavoro di pubblica utilita'. In caso di svolgimento positivo del lavoro di pubblica utilita', il giudice fissa una nuova udienza e dichiara estinto il reato, dispone la riduzione alla meta' della sanzione della sospensione della patente e revoca la confisca del veicolo sequestrato. La decisione e' ricorribile in cassazione. Il ricorso non sospende l'esecuzione a meno che il giudice che ha emesso la decisione disponga diversamente. In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilita', il giudice che procede o il giudice dell'esecuzione, a richiesta del pubblico ministero o di ufficio, con le formalita' di cui all'[articolo 666 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_666), tenuto conto dei motivi, della entita' e delle circostanze della violazione, dispone la revoca della pena sostitutiva con ripristino di quella sostituita e della sanzione amministrativa della sospensione della patente e della confisca. Il lavoro di pubblica utilita' puo' sostituire la pena per non piu' di una volta.
+Al di fuori dei casi previsti dal comma 2-bis del presente articolo, la pena detentiva e pecuniaria puo' essere sostituita, anche con il decreto penale di condanna, se non vi e' opposizione da parte dell'imputato, con quella del lavoro di pubblica utilita' di cui all'[articolo 54 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), secondo le modalita' ivi previste e consistente nella prestazione di un'attivita' non retribuita a favore della collettivita' da svolgere, in via prioritaria, nel campo della sicurezza e dell'educazione stradale presso lo Stato, le regioni, le province, i comuni o presso enti o organizzazioni di assistenza sociale e di volontariato, o presso i centri specializzati di lotta alle dipendenze. Con il decreto penale o con la sentenza il giudice incarica l'ufficio locale di esecuzione penale ovvero gli organi di cui all'[articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_59) di verificare l'effettivo svolgimento del lavoro di pubblica utilita'. In deroga a quanto previsto dall'[articolo 54 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_54), il lavoro di pubblica utilita' ha una durata corrispondente a quella della sanzione detentiva irrogata e della conversione della pena pecuniaria ragguagliando 250 euro ad un giorno di lavoro di pubblica utilita'. In caso di svolgimento positivo del lavoro di pubblica utilita', il giudice fissa una nuova udienza e dichiara estinto il reato, dispone la riduzione alla meta' della sanzione della sospensione della patente e revoca la confisca del veicolo sequestrato. La decisione e' ricorribile in cassazione. Il ricorso non sospende l'esecuzione a meno che il giudice che ha emesso la decisione disponga diversamente. In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilita', il giudice che procede o il giudice dell'esecuzione, a richiesta del pubblico ministero o di ufficio, con le formalita' di cui all'[articolo 666 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_666), tenuto conto dei motivi, della entita' e delle circostanze della violazione, dispone la revoca della pena sostitutiva con ripristino di quella sostituita e della sanzione amministrativa della sospensione della patente e della confisca. Il lavoro di pubblica utilita' puo' sostituire la pena per non piu' di una volta.
 
 ((
 
@@ -18370,13 +18370,13 @@ Nei confronti del conducente condannato per i reati di cui al comma 2, lettere b
 
 AGGIORNAMENTO (82)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 186 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_186), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 186 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
 
 ---------------
 
 AGGIORNAMENTO (97)
 
-La Corte Costituzionale, con sentenza 26 maggio-4 giugno 2010, n. 196 (in G.U 1a s.s. 09.06.2010, n. 23) ha dichiarato "l'illegittimita' costituzionale, limitatamente alle parole «ai sensi dell'[articolo 240, secondo comma, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240-com2)», dell'[articolo 186, comma 2, lettera c), del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_186-com2-letc) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come modificato dell'[art. 4, comma 1, lettera b), del decreto-legge 23 maggio 2008, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92#art_4-com1-letb) (Misure urgenti in materia di sicurezza pubblica), convertito, con modificazioni, dall'[art. 1, comma 1, della legge 24 luglio 2008, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-07-24;125#art_1-com1)".
+La Corte Costituzionale, con sentenza 26 maggio-4 giugno 2010, n. 196 (in G.U 1a s.s. 09.06.2010, n. 23) ha dichiarato "l'illegittimita' costituzionale, limitatamente alle parole «ai sensi dell'[articolo 240, secondo comma, del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)», dell'[articolo 186, comma 2, lettera c), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come modificato dell'[art. 4, comma 1, lettera b), del decreto-legge 23 maggio 2008, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92#art_4-com1-letb) (Misure urgenti in materia di sicurezza pubblica), convertito, con modificazioni, dall'[art. 1, comma 1, della legge 24 luglio 2008, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20maggio%202008%20n.%2092%20recante%20misure%20urgenti%20in%20materia%20di%20sicurezza%20pubblica.md)".
 
 ---------------
 
@@ -18534,7 +18534,7 @@ Fermo restando quanto previsto dal comma 6-bis, quando i reati di cui ai commi 1
 
 7.
 
-COMMA ABROGATO DAL [D.L. 3 AGOSTO 2007, N. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), CONVERTITO CON MODIFICAZIONI DALLA [L. 2 OTTOBRE 2007, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160).
+COMMA ABROGATO DAL [D.L. 3 AGOSTO 2007, N. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), CONVERTITO CON MODIFICAZIONI DALLA [L. 2 OTTOBRE 2007, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md).
 
 8.
 
@@ -18542,20 +18542,20 @@ Salvo che il fatto costituisca reato, in caso di rifiuto dell'accertamento di cu
 
 8-bis.
 
-Al di fuori dei casi previsti dal comma 1-bis del presente articolo, la pena detentiva e pecuniaria puo' essere sostituita, anche con il decreto penale di condanna, se non vi e' opposizione da parte dell'imputato, con quella del lavoro di pubblica utilita' di cui all'[articolo 54 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_54), secondo le modalita' ivi previste e consistente nella prestazione di un'attivita' non retribuita a favore della collettivita' da svolgere, in via prioritaria, nel campo della sicurezza e dell'educazione stradale presso lo Stato, le regioni, le province, i comuni o presso enti o organizzazioni di assistenza sociale e di volontariato, nonche' nella partecipazione ad un programma terapeutico e socio-riabilitativo del soggetto tossicodipendente come definito ai sensi degli articoli 121 e 122 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309). Con il decreto penale o con la sentenza il giudice incarica l'ufficio locale di esecuzione penale ovvero gli organi di cui all'[articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_59) di verificare l'effettivo svolgimento del lavoro di pubblica utilita'. In deroga a quanto previsto dall'[articolo 54 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_54), il lavoro di pubblica utilita' ha una durata corrispondente a quella della sanzione detentiva irrogata e della conversione della pena pecuniaria ragguagliando 250 euro ad un giorno di lavoro di pubblica utilita'. In caso di svolgimento positivo del lavoro di pubblica utilita', il giudice fissa una nuova udienza e dichiara estinto il reato, dispone la riduzione alla meta' della sanzione della sospensione della patente e revoca la confisca del veicolo sequestrato. La decisione e' ricorribile in cassazione. Il ricorso non sospende l'esecuzione a meno che il giudice che ha emesso la decisione disponga diversamente. In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilita', il giudice che procede o il giudice dell'esecuzione, a richiesta del pubblico ministero o di ufficio, con le formalita' di cui all'[articolo 666 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_666), tenuto conto dei motivi, della entita' e delle circostanze della violazione, dispone la revoca della pena sostitutiva con ripristino di quella sostituita e della sanzione amministrativa della sospensione della patente e della confisca. Il lavoro di pubblica utilita' puo' sostituire la pena per non piu' di una volta. 
+Al di fuori dei casi previsti dal comma 1-bis del presente articolo, la pena detentiva e pecuniaria puo' essere sostituita, anche con il decreto penale di condanna, se non vi e' opposizione da parte dell'imputato, con quella del lavoro di pubblica utilita' di cui all'[articolo 54 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), secondo le modalita' ivi previste e consistente nella prestazione di un'attivita' non retribuita a favore della collettivita' da svolgere, in via prioritaria, nel campo della sicurezza e dell'educazione stradale presso lo Stato, le regioni, le province, i comuni o presso enti o organizzazioni di assistenza sociale e di volontariato, nonche' nella partecipazione ad un programma terapeutico e socio-riabilitativo del soggetto tossicodipendente come definito ai sensi degli articoli 121 e 122 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md). Con il decreto penale o con la sentenza il giudice incarica l'ufficio locale di esecuzione penale ovvero gli organi di cui all'[articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_59) di verificare l'effettivo svolgimento del lavoro di pubblica utilita'. In deroga a quanto previsto dall'[articolo 54 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;274#art_54), il lavoro di pubblica utilita' ha una durata corrispondente a quella della sanzione detentiva irrogata e della conversione della pena pecuniaria ragguagliando 250 euro ad un giorno di lavoro di pubblica utilita'. In caso di svolgimento positivo del lavoro di pubblica utilita', il giudice fissa una nuova udienza e dichiara estinto il reato, dispone la riduzione alla meta' della sanzione della sospensione della patente e revoca la confisca del veicolo sequestrato. La decisione e' ricorribile in cassazione. Il ricorso non sospende l'esecuzione a meno che il giudice che ha emesso la decisione disponga diversamente. In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilita', il giudice che procede o il giudice dell'esecuzione, a richiesta del pubblico ministero o di ufficio, con le formalita' di cui all'[articolo 666 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_666), tenuto conto dei motivi, della entita' e delle circostanze della violazione, dispone la revoca della pena sostitutiva con ripristino di quella sostituita e della sanzione amministrativa della sospensione della patente e della confisca. Il lavoro di pubblica utilita' puo' sostituire la pena per non piu' di una volta. 
 (76) 
  
 -----------------
  
 AGGIORNAMENTO (46) 
- Il [D.Lgs. 15 gennaio 2002, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-15;9), ha disposto (con l'art. 14, comma 1) che il comma 2 del presente articolo e' sostituito dal seguente: 
- "2. Quando si ha ragionevolmente motivo di ritenere che il conducente del veicolo si trovi sotto l'effetto conseguente all'uso di sostanze stupefacenti o psicotrope, gli agenti di polizia stradale di cui all'articolo 12, commi 1 e 2, fatti salvi gli ulteriori obblighi previsti dalla legge, accompagnano il conducente presso strutture sanitarie fisse o mobili afferenti ai suddetti organi di polizia stradale ovvero presso le strutture sanitarie pubbliche o presso quelle accreditate o comunque a tali fini equiparate, per il prelievo di campioni di liquidi biologici ai fini dell'effettuazione degli esami necessari ad accertare la presenza di sostanze stupefacenti o psicotrope e per la relativa visita medica. Le medesime disposizioni si applicano in caso di incidenti, compatibilmente con le attivita' di rilevamento e soccorso. Le predette strutture sanitarie, su richiesta degli organi di polizia stradale di cui all'articolo 12, commi 1 e 2, effettuano altresi' tali accertamenti sui conducenti coinvolti in incidenti stradali e sottoposti alle cure mediche. Gli accertamenti sono effettuati con strumenti e modalita' stabiliti dal regolamento, ai fini della determinazione delle quantita', indicate in conformita' alle previsioni dello stesso regolamento; essi possono contestualmente riguardare anche il tasso alcolemico previsto nell'articolo 186. Le strutture sanitarie rilasciano agli organi di polizia stradale la relativa certificazione, estesa alla prognosi delle lesioni accertate, assicurando il rispetto della riservatezza dei dati in base alle vigenti disposizioni di legge. I fondi necessari per l'espletamento degli accertamenti conseguenti ad incidenti stradali sono reperiti nell'ambito dei fondi destinati al Piano nazionale della sicurezza stradale di cui all'[articolo 32 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_32). Copia del referto sanitario positivo deve essere tempestivamente trasmessa, a cura dell'organo di polizia che ha proceduto agli accertamenti, al prefetto del luogo della commessa violazione per gli eventuali provvedimenti di competenza."
+ Il [D.Lgs. 15 gennaio 2002, n. 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20nuovo%20codice%20della%20strada%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2022%20marzo%202001%20n.%2085.md), ha disposto (con l'art. 14, comma 1) che il comma 2 del presente articolo e' sostituito dal seguente: 
+ "2. Quando si ha ragionevolmente motivo di ritenere che il conducente del veicolo si trovi sotto l'effetto conseguente all'uso di sostanze stupefacenti o psicotrope, gli agenti di polizia stradale di cui all'articolo 12, commi 1 e 2, fatti salvi gli ulteriori obblighi previsti dalla legge, accompagnano il conducente presso strutture sanitarie fisse o mobili afferenti ai suddetti organi di polizia stradale ovvero presso le strutture sanitarie pubbliche o presso quelle accreditate o comunque a tali fini equiparate, per il prelievo di campioni di liquidi biologici ai fini dell'effettuazione degli esami necessari ad accertare la presenza di sostanze stupefacenti o psicotrope e per la relativa visita medica. Le medesime disposizioni si applicano in caso di incidenti, compatibilmente con le attivita' di rilevamento e soccorso. Le predette strutture sanitarie, su richiesta degli organi di polizia stradale di cui all'articolo 12, commi 1 e 2, effettuano altresi' tali accertamenti sui conducenti coinvolti in incidenti stradali e sottoposti alle cure mediche. Gli accertamenti sono effettuati con strumenti e modalita' stabiliti dal regolamento, ai fini della determinazione delle quantita', indicate in conformita' alle previsioni dello stesso regolamento; essi possono contestualmente riguardare anche il tasso alcolemico previsto nell'articolo 186. Le strutture sanitarie rilasciano agli organi di polizia stradale la relativa certificazione, estesa alla prognosi delle lesioni accertate, assicurando il rispetto della riservatezza dei dati in base alle vigenti disposizioni di legge. I fondi necessari per l'espletamento degli accertamenti conseguenti ad incidenti stradali sono reperiti nell'ambito dei fondi destinati al Piano nazionale della sicurezza stradale di cui all'[articolo 32 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md). Copia del referto sanitario positivo deve essere tempestivamente trasmessa, a cura dell'organo di polizia che ha proceduto agli accertamenti, al prefetto del luogo della commessa violazione per gli eventuali provvedimenti di competenza."
 
 --------------
 
 AGGIORNAMENTO (76)
 
-Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 187 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_187), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
+Il [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), convertito con modificazioni dalla [L. 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), ha disposto (con l'art. 6-bis, comma 2) che chiunque, dopo le ore 20 e prima delle ore 7, viola l'[articolo 187 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' punito con la sanzione amministrativa aggiuntiva di euro 200, che vengono destinati al Fondo contro l'incidentalita' notturna.
 
 ### Art. 188. — Circolazione e sosta dei veicoli al servizio di persone invalide
 
@@ -19038,7 +19038,7 @@ Chiunque, in violazione degli obblighi di cui ai commi 1 o 4, si dia alla fuga c
 
 1.
 
-I veicoli di cui all'articolo 1, comma 1, lettera rrr), del [decreto legislativo 7 settembre 2005, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209), non possono essere posti in circolazione sulla strada senza la copertura assicurativa a norma delle vigenti disposizioni di legge sulla responsabilita' civile verso terzi. ((Anche quando il veicolo e', a qualsiasi titolo, nella legittima disponibilita' di altra persona fisica o giuridica, il proprietario ha l'onere di verificare che il veicolo stesso non sia posto in circolazione senza la copertura assicurativa di cui al primo periodo)). (187)
+I veicoli di cui all'articolo 1, comma 1, lettera rrr), del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), non possono essere posti in circolazione sulla strada senza la copertura assicurativa a norma delle vigenti disposizioni di legge sulla responsabilita' civile verso terzi. ((Anche quando il veicolo e', a qualsiasi titolo, nella legittima disponibilita' di altra persona fisica o giuridica, il proprietario ha l'onere di verificare che il veicolo stesso non sia posto in circolazione senza la copertura assicurativa di cui al primo periodo)). (187)
 
 2.
 
@@ -19058,7 +19058,7 @@ Si applica l'[articolo 13, terzo comma, della legge 24 novembre 1981, n. 689](ht
 
 4-bis.
 
-Salvo che debba essere disposta confisca ai sensi dell'[articolo 240 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240), e' sempre disposta la confisca amministrativa del veicolo intestato al conducente sprovvisto di copertura assicurativa quando sia fatto circolare con documenti assicurativi falsi o contraffatti. Nei confronti di colui che abbia falsificato o contraffatto i documenti assicurativi di cui al precedente periodo e' sempre disposta la sanzione amministrativa accessoria della sospensione della patente di guida per un anno. Si applicano le disposizioni dell'articolo 213 del presente codice.
+Salvo che debba essere disposta confisca ai sensi dell'[articolo 240 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' sempre disposta la confisca amministrativa del veicolo intestato al conducente sprovvisto di copertura assicurativa quando sia fatto circolare con documenti assicurativi falsi o contraffatti. Nei confronti di colui che abbia falsificato o contraffatto i documenti assicurativi di cui al precedente periodo e' sempre disposta la sanzione amministrativa accessoria della sospensione della patente di guida per un anno. Si applicano le disposizioni dell'articolo 213 del presente codice.
 
 4-ter.
 
@@ -19154,10 +19154,10 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (187)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209), come modificato dal [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184), ha disposto: 
- - (con l'art. 122-bis, comma 1) che "In deroga a quanto disposto dall'articolo 122, comma 1, del presente codice e dall'[articolo 193 del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_193) di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), i veicoli formalmente ritirati dalla circolazione nonche' quelli il cui uso e' vietato, in via temporanea o permanente, in forza di una misura adottata dall'autorita' competente conformemente alla normativa vigente, non sono soggetti all'obbligo di assicurazione"; 
- - (con l'art. 122-bis, comma 2) che "La deroga di cui al comma 1 si applica anche quando il veicolo non e' idoneo all'uso come mezzo di trasporto, nonche' quando il suo utilizzo e' stato volontariamente sospeso su richiesta dei soggetti di cui all'articolo 122, comma 3, per effetto di una formale comunicazione all'impresa di assicurazione resa ai sensi dell'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_47)". 
- Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md), ha disposto: 
+ - (con l'art. 122-bis, comma 1) che "In deroga a quanto disposto dall'articolo 122, comma 1, del presente codice e dall'[articolo 193 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), i veicoli formalmente ritirati dalla circolazione nonche' quelli il cui uso e' vietato, in via temporanea o permanente, in forza di una misura adottata dall'autorita' competente conformemente alla normativa vigente, non sono soggetti all'obbligo di assicurazione"; 
+ - (con l'art. 122-bis, comma 2) che "La deroga di cui al comma 1 si applica anche quando il veicolo non e' idoneo all'uso come mezzo di trasporto, nonche' quando il suo utilizzo e' stato volontariamente sospeso su richiesta dei soggetti di cui all'articolo 122, comma 3, per effetto di una formale comunicazione all'impresa di assicurazione resa ai sensi dell'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)". 
+ Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ## TITOLO VI DEGLI ILLECITI PREVISTI DAL PRESENTE CODICE E DELLE RELATIVE SANZIONI Capo I DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI Sezione I Degli illeciti amministrativi importanti sanzioni amministrative pecuniarie ed applicazione di queste ultime
 
@@ -19185,7 +19185,7 @@ Nella determinazione della sanzione amministrativa pecuniaria fissata dal presen
 
 2-bis.
 
-Le sanzioni amministrative pecuniarie previste dagli articoli 141, 142, 145, 146, 149, 154, 174, 176, commi 19 e 20, e 178 sono aumentate di un terzo quando la violazione e' commessa dopo le ore 22 e prima delle ore 7; tale incremento della sanzione quando la violazione e' accertata da uno dei soggetti di cui all'articolo 208, comma 1, primo periodo, e' destinato ad alimentare il Fondo di cui all'[articolo 6-bis del decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117#art_6bis), convertito, con modificazioni, dalla [legge 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), e successive modificazioni.
+Le sanzioni amministrative pecuniarie previste dagli articoli 141, 142, 145, 146, 149, 154, 174, 176, commi 19 e 20, e 178 sono aumentate di un terzo quando la violazione e' commessa dopo le ore 22 e prima delle ore 7; tale incremento della sanzione quando la violazione e' accertata da uno dei soggetti di cui all'articolo 208, comma 1, primo periodo, e' destinato ad alimentare il Fondo di cui all'[articolo 6-bis del decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117#art_6bis), convertito, con modificazioni, dalla [legge 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), e successive modificazioni.
 
 3.
 
@@ -19199,19 +19199,19 @@ A decorrere dal 1 gennaio 2005, la misura delle sanzioni amministrative pecuniar
 
 AGGIORNAMENTO (180)
 
-La [L. 29 dicembre 2022, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197) ha disposto (con l'art. 1, comma 497) che "In considerazione dell'eccezionale situazione economica, a decorrere dalla data di entrata in vigore della presente legge, per gli anni 2023 e 2024 e' sospeso l'aggiornamento biennale delle sanzioni amministrative pecuniarie in misura pari all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati (media nazionale) verificatasi nei due anni precedenti, prevista all'[articolo 195, comma 3, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_195-com3), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)".
+La [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 1, comma 497) che "In considerazione dell'eccezionale situazione economica, a decorrere dalla data di entrata in vigore della presente legge, per gli anni 2023 e 2024 e' sospeso l'aggiornamento biennale delle sanzioni amministrative pecuniarie in misura pari all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati (media nazionale) verificatasi nei due anni precedenti, prevista all'[articolo 195, comma 3, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
 
 ---------------
 
 AGGIORNAMENTO (191)
 
-La [L. 29 dicembre 2022, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197), come modificata dal [D.L. 27 dicembre 2024, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202), ha disposto (con l'art. 1, comma 497) che "In considerazione dell'eccezionale situazione economica, a decorrere dalla data di entrata in vigore della presente legge, per gli anni 2023, 2024 e 2025 e' sospeso l'aggiornamento biennale delle sanzioni amministrative pecuniarie in misura pari all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati (media nazionale) verificatasi nei due anni precedenti, prevista all'[articolo 195, comma 3, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_195-com3), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285). Il decreto previsto dall'[articolo 195, comma 3, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_195-com3) e' adottato entro il 1° dicembre 2025 per l'aggiornamento delle sanzioni applicate a decorrere dal 1° gennaio 2026, aggiornate all'andamento inflattivo relativo al biennio 2024-2025".
+La [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), come modificata dal [D.L. 27 dicembre 2024, n. 202](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00227.md), ha disposto (con l'art. 1, comma 497) che "In considerazione dell'eccezionale situazione economica, a decorrere dalla data di entrata in vigore della presente legge, per gli anni 2023, 2024 e 2025 e' sospeso l'aggiornamento biennale delle sanzioni amministrative pecuniarie in misura pari all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati (media nazionale) verificatasi nei due anni precedenti, prevista all'[articolo 195, comma 3, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Il decreto previsto dall'[articolo 195, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' adottato entro il 1° dicembre 2025 per l'aggiornamento delle sanzioni applicate a decorrere dal 1° gennaio 2026, aggiornate all'andamento inflattivo relativo al biennio 2024-2025".
 
 ---------------
 
 AGGIORNAMENTO (197)
 
-La [L. 29 dicembre 2022, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197), come modificata dal [D.L. 31 dicembre 2025, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-12-31;200), ha disposto (con l'art. 1, comma 497) che "In considerazione dell'eccezionale situazione economica, a decorrere dalla data di entrata in vigore della presente legge, per gli anni 2023, 2024, 2025 e 2026 e' sospeso l'aggiornamento biennale delle sanzioni amministrative pecuniarie in misura pari all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati (media nazionale) verificatasi nei due anni precedenti, prevista all'[articolo 195, comma 3, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_195-com3), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285). Il decreto previsto dall'articolo 195, comma 3, del citato codice di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), e' adottato entro il 1° dicembre 2026 per l'aggiornamento delle sanzioni applicate a decorrere dal 1° gennaio 2027 , aggiornate all'andamento inflattivo relativo al biennio 2025-2026".
+La [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), come modificata dal [D.L. 31 dicembre 2025, n. 200](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2025G00213.md), ha disposto (con l'art. 1, comma 497) che "In considerazione dell'eccezionale situazione economica, a decorrere dalla data di entrata in vigore della presente legge, per gli anni 2023, 2024, 2025 e 2026 e' sospeso l'aggiornamento biennale delle sanzioni amministrative pecuniarie in misura pari all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati (media nazionale) verificatasi nei due anni precedenti, prevista all'[articolo 195, comma 3, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Il decreto previsto dall'articolo 195, comma 3, del citato codice di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' adottato entro il 1° dicembre 2026 per l'aggiornamento delle sanzioni applicate a decorrere dal 1° gennaio 2027 , aggiornate all'andamento inflattivo relativo al biennio 2025-2026".
 
 ### Art. 196. — Principio di solidarieta'
 
@@ -19330,13 +19330,13 @@ Fermo restando quanto indicato dal comma 1, nei seguenti casi la contestazione i
                             e)
                                 accertamento della violazione per mezzo di appositi apparecchi di rilevamento direttamente gestiti dagli organi di Polizia stradale e nella loro disponibilita' che consentono la determinazione dell'illecito in tempo successivo poiche' il veicolo oggetto del rilievo e' a distanza dal posto di accertamento o comunque nell'impossibilita' di essere fermato in tempo utile o nei modi regolamentari;
                             f)
-                                accertamento effettuato con i dispositivi di cui all'[articolo 4 del decreto-legge 20 giugno 2002, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-06-20;121#art_4), convertito, con modificazioni, dalla [legge 1 agosto 2002, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;168), e successive modificazioni;
+                                accertamento effettuato con i dispositivi di cui all'[articolo 4 del decreto-legge 20 giugno 2002, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-06-20;121#art_4), convertito, con modificazioni, dalla [legge 1 agosto 2002, n. 168](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20giugno%202002%20n.%20121%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20sicurezza%20nella%20circolazione%20stradale.md), e successive modificazioni;
                             g)
                                 rilevazione degli accessi di veicoli non autorizzati ai centri storici, alle zone a traffico limitato, alle aree pedonali, alle piazzole di carico e scarico di merci, o della circolazione sulle corsie e sulle strade riservate o con accesso o transito vietato, attraverso dispositivi omologati ai sensi di apposito regolamento emanato con decreto del Ministro delle infrastrutture e dei trasporti. Con il medesimo regolamento sono definite le condizioni per l'installazione e l'esercizio dei dispositivi di controllo, al fine di consentire la rilevazione delle violazioni dei divieti di circolazione, in ingresso, all'interno ed in uscita nelle corsie, strade, aree e zone di cui al periodo precedente, nonche' il controllo della durata di permanenza all'interno delle medesime zone;
                             g-bis)
                                 accertamento delle violazioni di cui agli articoli 10, 40, comma 11, 61, 62, 72, 78, 79, 80, 141, 143, commi 11 e 12, 146, comma 3, 147, commi 2-bis e 3, 158, limitatamente al divieto di fermata e alla violazione della sosta riservata nei soli casi previsti dall'articolo 7, comma 1, lettera d), 167, 170, 171, 193, 213, 214, 216 e 217, per mezzo di dispositivi o apparecchiature di rilevamento approvate od omologate ai sensi di appositi regolamenti adottati con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno. Con i medesimi regolamenti sono definite le condizioni per l'installazione e l'esercizio dei dispositivi di controllo nonche' per l'accesso alle banche di dati necessarie per il loro funzionamento. Per l'accertamento delle violazioni, la documentazione fotografica prodotta costituisce atto di accertamento, ai sensi e per gli effetti dell'[articolo 13 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_13), in ordine alla circostanza che al momento del rilevamento un determinato veicolo, munito di targa di immatricolazione, stava circolando sulla strada;
                             g-ter)
-                                accertamento, per mezzo di appositi dispositivi o apparecchiature di rilevamento, della violazione dell'obbligo dell'assicurazione per la responsabilita' civile verso terzi, effettuato mediante il confronto dei dati rilevati riguardanti il luogo, il tempo e l'identificazione dei veicoli con quelli risultanti dall'elenco dei veicoli a motore che non risultano coperti dall'assicurazione per la responsabilita' civile verso terzi, di cui all'[articolo 31, comma 2, del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1#art_31-com2), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27).
+                                accertamento, per mezzo di appositi dispositivi o apparecchiature di rilevamento, della violazione dell'obbligo dell'assicurazione per la responsabilita' civile verso terzi, effettuato mediante il confronto dei dati rilevati riguardanti il luogo, il tempo e l'identificazione dei veicoli con quelli risultanti dall'elenco dei veicoli a motore che non risultano coperti dall'assicurazione per la responsabilita' civile verso terzi, di cui all'[articolo 31, comma 2, del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1#art_31-com2), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20gennaio%202012%20n.%201%20recante%20disposizioni%20urgenti%20per%20la%20concorrenza%20lo%20sviluppo%20delle%20infrastrutture%20e%20la%20competitivita.%2012G0048.md).
 
 1-ter.
 
@@ -19399,13 +19399,13 @@ La [L. 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ### Art. 202. — Pagamento in misura ridotta
 
@@ -19444,7 +19444,7 @@ Il pagamento in misura ridotta non e' inoltre consentito per le violazioni previ
 
 AGGIORNAMENTO (131)
 
-Il [D.L. 14 febbraio 2016, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-02-14;18), convertito con modificazioni dalla [L. 8 aprile 2016, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-04-08;49) ha disposto (con l'art. 17-quinquies, comma 1) che "Il primo e il secondo periodo del [comma 1 dell'articolo 202 del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_202-com1), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), si interpretano nel senso che, per i pagamenti diversi da quelli in contanti o tramite conto corrente postale, l'effetto liberatorio del pagamento si produce se l'accredito a favore dell'amministrazione avviene entro due giorni dalla data di scadenza del pagamento".
+Il [D.L. 14 febbraio 2016, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-02-14;18), convertito con modificazioni dalla [L. 8 aprile 2016, n. 49](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%202016%20n.%2018%20recante%20misure%20urgenti%20concernenti%20la%20riforma%20delle%20banche%20di%20credito%20cooperativo%20la%20garanzia%20sulla%20cartola_272ab6feca88.md) ha disposto (con l'art. 17-quinquies, comma 1) che "Il primo e il secondo periodo del [comma 1 dell'articolo 202 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si interpretano nel senso che, per i pagamenti diversi da quelli in contanti o tramite conto corrente postale, l'effetto liberatorio del pagamento si produce se l'accredito a favore dell'amministrazione avviene entro due giorni dalla data di scadenza del pagamento".
 
 ### Art. 202-bis. — (( (Rateazione delle sanzioni pecuniarie). ))
 
@@ -19495,11 +19495,11 @@ Con decreto del Ministro dell'interno, di concerto con i Ministri dell'economia 
 
 1.
 
-Il trasgressore o gli altri soggetti indicati nell'art. 196, nel termine di giorni sessanta dalla contestazione o dalla notificazione, qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui e' consentito, possono proporre ricorso al prefetto del luogo della commessa violazione, da presentarsi all'ufficio o comando cui appartiene l'organo accertatore ovvero da inviarsi agli stessi con raccomandata con ricevuta di ritorno o per via telematica, a mezzo di posta elettronica certificata o di altro servizio elettronico di recapito certificato qualificato, secondo le modalita' previste dall'[articolo 65 del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82#art_65), di cui al [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82). Con il ricorso possono essere presentati i documenti ritenuti idonei e puo' essere richiesta l'audizione personale. PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
+Il trasgressore o gli altri soggetti indicati nell'art. 196, nel termine di giorni sessanta dalla contestazione o dalla notificazione, qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui e' consentito, possono proporre ricorso al prefetto del luogo della commessa violazione, da presentarsi all'ufficio o comando cui appartiene l'organo accertatore ovvero da inviarsi agli stessi con raccomandata con ricevuta di ritorno o per via telematica, a mezzo di posta elettronica certificata o di altro servizio elettronico di recapito certificato qualificato, secondo le modalita' previste dall'[articolo 65 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md). Con il ricorso possono essere presentati i documenti ritenuti idonei e puo' essere richiesta l'audizione personale. PERIODO SOPPRESSO DAL [D.LGS. 10 SETTEMBRE 1993, N. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 1-bis.
 
-Il ricorso di cui al comma 1 puo' essere presentato direttamente al prefetto mediante lettera raccomandata con avviso di ricevimento o trasmesso per via telematica, a mezzo di posta elettronica certificata o di altro servizio elettronico di recapito certificato qualificato, secondo le modalita' previste dall'articolo 65 del codice di cui al [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82). In tale caso, per la necessaria istruttoria, il prefetto trasmette all'ufficio o comando cui appartiene l'organo accertatore il ricorso, corredato dei documenti allegati dal ricorrente, nel termine di trenta giorni dalla sua ricezione.
+Il ricorso di cui al comma 1 puo' essere presentato direttamente al prefetto mediante lettera raccomandata con avviso di ricevimento o trasmesso per via telematica, a mezzo di posta elettronica certificata o di altro servizio elettronico di recapito certificato qualificato, secondo le modalita' previste dall'articolo 65 del codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md). In tale caso, per la necessaria istruttoria, il prefetto trasmette all'ufficio o comando cui appartiene l'organo accertatore il ricorso, corredato dei documenti allegati dal ricorrente, nel termine di trenta giorni dalla sua ricezione.
 
 2.
 
@@ -19541,7 +19541,7 @@ L'ordinanza-ingiunzione, trascorso il termine per il pagamento della sanzione am
 
 AGGIORNAMENTO (34)
 
-La [L. 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488), ha disposto (con l'art. 68, comma 4) che il termine indicato dal comma 1 del presente articolo per l'emissione dell'ordinanza-ingiunzione da parte del prefetto e' fissato in centottanta giorni.
+La [L. 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), ha disposto (con l'art. 68, comma 4) che il termine indicato dal comma 1 del presente articolo per l'emissione dell'ordinanza-ingiunzione da parte del prefetto e' fissato in centottanta giorni.
 
 -------------
 
@@ -19558,7 +19558,7 @@ AGGIORNAMENTO (41)
 1.
 
 Alternativamente alla proposizione del ricorso di cui all'articolo 203, il trasgressore o gli altri soggetti indicati nell'articolo 196, qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui e' consentito, possono proporre opposizione davanti all'autorita' giudiziaria ordinaria.
-L'opposizione e' regolata dall'[articolo 7 del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150#art_7).)) ((105))
+L'opposizione e' regolata dall'[articolo 7 del decreto legislativo 1° settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md).)) ((105))
 
 --------------
 
@@ -19570,7 +19570,7 @@ La Corte Costituzionale, con sentenza 5-8 aprile 2004, n. 114 (in G.U. 1a s.s. 1
 
 AGGIORNAMENTO (105)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ### Art. 205. — (( (Opposizione all'ordinanza-ingiunzione).))
@@ -19583,7 +19583,7 @@ L'opposizione e' regolata dall'articolo 6 del decreto legislativo 1° settembre 
 
 AGGIORNAMENTO (105)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ### Art. 206. — Riscossione dei proventi delle sanzioni amministrative pecuniarie
@@ -19620,7 +19620,7 @@ Quando con un veicolo immatricolato all'estero o munito di targa EE viene violat
 
 2.
 
-Qualora il trasgressore non si avvalga, per qualsiasi motivo, della facolta' prevista del pagamento di misura ridotta, egli deve versare all'agente accertatore, a titolo di cauzione, una somma pari alla meta' del massimo della sanzione pecuniaria prevista per la violazione. PERIODO SOPPRESSO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214). Del versamento della cauzione e' fatta menzione nel verbale di contestazione della violazione. La cauzione e' versata al comando od ufficio da cui l'accertatore dipende.
+Qualora il trasgressore non si avvalga, per qualsiasi motivo, della facolta' prevista del pagamento di misura ridotta, egli deve versare all'agente accertatore, a titolo di cauzione, una somma pari alla meta' del massimo della sanzione pecuniaria prevista per la violazione. PERIODO SOPPRESSO DAL [D.L. 27 GIUGNO 2003, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 AGOSTO 2003, N. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md). Del versamento della cauzione e' fatta menzione nel verbale di contestazione della violazione. La cauzione e' versata al comando od ufficio da cui l'accertatore dipende.
 
 2-bis.
 
@@ -19642,7 +19642,7 @@ Le disposizioni del presente articolo non si applicano ai veicoli di proprieta' 
 
 AGGIORNAMENTO (59)
 
-La [L. 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306) ha disposto (con l'art. 11, comma 1) che "Al [comma 2-bis dell'articolo 207 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_207-com2bis),introdotto dall'[articolo 25 della legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14#art_25), dopo le parole: "dell'Unione europea" sono inserite le seguenti: "o aderente all'Accordo sullo Spazio economico europeo"."
+La [L. 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md) ha disposto (con l'art. 11, comma 1) che "Al [comma 2-bis dell'articolo 207 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md),introdotto dall'[articolo 25 della legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), dopo le parole: "dell'Unione europea" sono inserite le seguenti: "o aderente all'Accordo sullo Spazio economico europeo"."
 
 ### Art. 208. — Proventi delle sanzioni amministrative pecuniarie
 
@@ -19654,7 +19654,7 @@ I proventi delle sanzioni amministrative pecuniarie per violazioni previste dal 
 
 I proventi di cui al comma 1, spettanti allo Stato, sono destinati:
                             a)
-                                fermo restando quanto previsto dall'[articolo 32, comma 4, della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_32-com4), per il finanziamento delle attivita' connesse all'attuazione del Piano nazionale della sicurezza stradale, al Ministero delle infrastrutture e dei trasporti - Ispettorato generale per la circolazione e la sicurezza stradale, nella misura dell'80 per cento del totale annuo, definito a norma dell'[articolo 2, lettera x), della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190#art_2-letx), per studi, ricerche e propaganda ai fini della sicurezza stradale, attuata anche attraverso il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale (CCISS), istituito con [legge 30 dicembre 1988, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-30;556), per finalita' di educazione stradale, sentito, occorrendo, il Ministero dell'istruzione, dell'universita' e della ricerca e per l'assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei carabinieri, della Guardia di finanza, della Polizia penitenziaria e del Corpo forestale dello Stato e per iniziative ed attivita' di promozione della sicurezza della circolazione;
+                                fermo restando quanto previsto dall'[articolo 32, comma 4, della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), per il finanziamento delle attivita' connesse all'attuazione del Piano nazionale della sicurezza stradale, al Ministero delle infrastrutture e dei trasporti - Ispettorato generale per la circolazione e la sicurezza stradale, nella misura dell'80 per cento del totale annuo, definito a norma dell'[articolo 2, lettera x), della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), per studi, ricerche e propaganda ai fini della sicurezza stradale, attuata anche attraverso il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale (CCISS), istituito con [legge 30 dicembre 1988, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20novembre%201988%20n.%20465%20recante%20misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), per finalita' di educazione stradale, sentito, occorrendo, il Ministero dell'istruzione, dell'universita' e della ricerca e per l'assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei carabinieri, della Guardia di finanza, della Polizia penitenziaria e del Corpo forestale dello Stato e per iniziative ed attivita' di promozione della sicurezza della circolazione;
                             b)
                                 al Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri, nella misura del 20 per cento del totale annuo sopra richiamato, per studi, ricerche e propaganda sulla sicurezza del veicolo;
                             c)
@@ -19662,7 +19662,7 @@ I proventi di cui al comma 1, spettanti allo Stato, sono destinati:
 
 2-bis.
 
-Gli incrementi delle sanzioni amministrative pecuniarie di cui all'articolo 195, comma 2-bis, sono versati in un apposito capitolo di entrata del bilancio dello Stato, di nuova istituzione, per essere riassegnati al Fondo contro l'incidentalita' notturna di cui all'[articolo 6-bis del decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117#art_6bis), convertito, con modificazioni, dalla [legge 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160), con provvedimento del Ministero dell'economia e delle finanze adottato sulla base delle rilevazioni trimestrali del Ministero dell'interno. Tali rilevazioni sono effettuate con le modalita' fissate con decreto del Ministero dell'interno, di concerto con i Ministeri dell'economia e delle finanze, della giustizia e delle infrastrutture e dei trasporti. Con lo stesso decreto sono stabilite le modalita' di trasferimento della percentuale di ammenda di cui agli articoli 186, comma 2-octies, e 187, comma 1-quater, destinata al Fondo.
+Gli incrementi delle sanzioni amministrative pecuniarie di cui all'articolo 195, comma 2-bis, sono versati in un apposito capitolo di entrata del bilancio dello Stato, di nuova istituzione, per essere riassegnati al Fondo contro l'incidentalita' notturna di cui all'[articolo 6-bis del decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117#art_6bis), convertito, con modificazioni, dalla [legge 2 ottobre 2007, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20agosto%202007%20n.%20117%20recante%20disposizioni%20urgenti%20modificative%20del%20codice%20della%20strada%20per%20incrementare%20i%20livelli%20di%20sicurezza%20nel_8def7cbbfa8f.md), con provvedimento del Ministero dell'economia e delle finanze adottato sulla base delle rilevazioni trimestrali del Ministero dell'interno. Tali rilevazioni sono effettuate con le modalita' fissate con decreto del Ministero dell'interno, di concerto con i Ministeri dell'economia e delle finanze, della giustizia e delle infrastrutture e dei trasporti. Con lo stesso decreto sono stabilite le modalita' di trasferimento della percentuale di ammenda di cui agli articoli 186, comma 2-octies, e 187, comma 1-quater, destinata al Fondo.
 
 3.
 
@@ -19784,16 +19784,16 @@ L'opposizione prevista dall'art. 205 si estende alla sanzione accessoria.
 
 4.
 
-Quando il trasgressore non esegua il suo obbligo in applicazione e nei termini di cui al comma 1, l'ufficio o comando summenzionato provvede alla denuncia del trasgressore per il reato di cui all'[art. 650 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_650) e, previa notifica al trasgressore medesimo, provvede, con i suoi agenti od organi, all'esecuzione coattiva dell'obbligo. Di tale esecuzione viene redatto verbale, che deve essere comunicato al prefetto e al trasgressore. Le spese eventualmente sostenute per la esecuzione coattiva sono a carico del trasgressore ed al riguardo provvede il prefetto con ordinanza- ingiunzione che costituisce titolo esecutivo.
+Quando il trasgressore non esegua il suo obbligo in applicazione e nei termini di cui al comma 1, l'ufficio o comando summenzionato provvede alla denuncia del trasgressore per il reato di cui all'[art. 650 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e, previa notifica al trasgressore medesimo, provvede, con i suoi agenti od organi, all'esecuzione coattiva dell'obbligo. Di tale esecuzione viene redatto verbale, che deve essere comunicato al prefetto e al trasgressore. Le spese eventualmente sostenute per la esecuzione coattiva sono a carico del trasgressore ed al riguardo provvede il prefetto con ordinanza- ingiunzione che costituisce titolo esecutivo.
 
 5.
 
 Ove trattasi di attivita' continuativa sottoposta dal presente codice a determinate condizioni, il trasgressore puo' successivamente porre in essere le condizioni suddette; in tal caso egli presenta istanza all'ufficio o comando di cui al comma 1 e questo, accertato il venir meno degli impedimenti, consente a che l'attivita' sospesa sia ripresa o continuata. Di cio' e' data comunicazione al prefetto.
 
 Nota all'art. 212:
- - Si riporta il testo dell'[art. 650 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_650):
+ - Si riporta il testo dell'[art. 650 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
  "Art. 650 (Inosservanza dei provvedimenti dell'Autorita'). Chiunque non osserva un provvedimento legalmente dato dall'Autorita' per ragione di giustizia o di sicurezza pubblica, o d'ordine pubblico o d'igiene, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi o con l'ammenda fino a lire quattrocentomila".
- L'ammenda originaria fino a lire duemila e' stata aumentata di quaranta volte dall'[art. 3 della legge 12 luglio 1961, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-12;603#art_3), recante modificazioni al [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e successivamente quintuplicata dall'[art. 113 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_113).
+ L'ammenda originaria fino a lire duemila e' stata aumentata di quaranta volte dall'[art. 3 della legge 12 luglio 1961, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-12;603#art_3), recante modificazioni al [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successivamente quintuplicata dall'[art. 113 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_113).
 
 ### Art. 213. — (Misura cautelare del sequestro e sanzione accessoria della confisca amministrativa)
 
@@ -19894,13 +19894,13 @@ Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art.
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 7 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 7 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 7 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 7 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 --------------
 
@@ -19912,7 +19912,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (179)
 
-La Corte Costituzionale, con sentenza 9 novembre - 9 dicembre 2022, n. 246 (in G.U. 1a s.s. 14/12/2022, n. 50) ha dichiarato "l'illegittimita' costituzionale dell'[art. 213, comma 8, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_213-com8) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come modificato dall'[art. 23-bis del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_23bis) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), introdotto, in sede di conversione, dalla [legge 1° dicembre 2018, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-01;132), nella parte in cui dispone che «Si applica», anziche' «Puo' essere applicata», la sanzione accessoria della revoca della patente".
+La Corte Costituzionale, con sentenza 9 novembre - 9 dicembre 2022, n. 246 (in G.U. 1a s.s. 14/12/2022, n. 50) ha dichiarato "l'illegittimita' costituzionale dell'[art. 213, comma 8, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come modificato dall'[art. 23-bis del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_23bis) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), introdotto, in sede di conversione, dalla [legge 1° dicembre 2018, n. 132](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md), nella parte in cui dispone che «Si applica», anziche' «Puo' essere applicata», la sanzione accessoria della revoca della patente".
 
 ### Art. 214. — (Fermo amministrativo del veicolo)
 
@@ -19994,7 +19994,7 @@ Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art.
 
 AGGIORNAMENTO (188)
 
-La Corte Costituzionale, con sentenza 5 - 28 marzo 2024, n. 52 (in G.U. 1ª s.s. 03/04/2024, n. 14), ha dichiarato "l'illegittimita' costituzionale dell'[art. 214, comma 8, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_214-com8) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), come modificato dall'[art. 23-bis comma 1, lettera b), del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_23bis-com1-letb) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), introdotto, in sede di conversione, dalla [legge 1° dicembre 2018, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-01;132), nella parte in cui dispone che «Si applicano le sanzioni amministrative accessorie della revoca della patente e della confisca del veicolo», anziche' «Puo' essere applicata la sanzione amministrativa accessoria della revoca della patente e si applica la sanzione amministrativa accessoria della confisca del veicolo»".
+La Corte Costituzionale, con sentenza 5 - 28 marzo 2024, n. 52 (in G.U. 1ª s.s. 03/04/2024, n. 14), ha dichiarato "l'illegittimita' costituzionale dell'[art. 214, comma 8, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), come modificato dall'[art. 23-bis comma 1, lettera b), del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_23bis-com1-letb) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), introdotto, in sede di conversione, dalla [legge 1° dicembre 2018, n. 132](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md), nella parte in cui dispone che «Si applicano le sanzioni amministrative accessorie della revoca della patente e della confisca del veicolo», anziche' «Puo' essere applicata la sanzione amministrativa accessoria della revoca della patente e si applica la sanzione amministrativa accessoria della confisca del veicolo»".
 
 ### Art. 214-bis. — Alienazione dei veicoli nei casi di sequestro amministrativo, fermo e confisca).
 
@@ -20009,7 +20009,7 @@ Fermo quanto previsto dagli articoli 213, ((comma 5)), e 214, comma 1, ultimo pe
 
 3.
 
-Le disposizioni del presente articolo si applicano all'alienazione dei veicoli confiscati a seguito di sequestro amministrativo in deroga alle norme di cui al [decreto del Presidente della Repubblica 13 febbraio 2001, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-13;189).
+Le disposizioni del presente articolo si applicano all'alienazione dei veicoli confiscati a seguito di sequestro amministrativo in deroga alle norme di cui al [decreto del Presidente della Repubblica 13 febbraio 2001, n. 189](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20relativo%20allalienazione%20di%20beni%20mobili%20dello%20Stato%20n.%2034%20allegato%201%20legge%208%20marzo%201999%20n.%2050.md).
 
 3-bis.
 
@@ -20019,13 +20019,13 @@ Tutte le trascrizioni ed annotazioni nei pubblici registri relative agli atti po
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ### Art. 214-ter. — (Destinazione dei veicoli confiscati).
 
@@ -20044,13 +20044,13 @@ Si applicano, in quanto compatibili, l'[articolo 2-undecies della legge 31 maggi
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ### Art. 215. — Sanzione accessoria della rimozione o blocco del veicolo
 
@@ -20087,11 +20087,11 @@ Avverso la sanzione amministrativa accessoria della rimozione o del blocco del v
 
 1.
 
-I prefetti, con cadenza semestrale, provvedono a censire, sentiti anche gli organi accertatori per quanto di competenza, i veicoli giacenti da oltre sei mesi presso le depositerie di cui all'[articolo 8 del decreto del Presidente della Repubblica 29 luglio 1982, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-29;571#art_8), a seguito dell'applicazione, ai sensi del presente codice, di misure di sequestro e fermo, nonche' per effetto di provvedimenti amministrativi di confisca non ancora definitivi e di dissequestro. Di tali veicoli, individuati secondo il tipo, il modello e il numero di targa o di telaio, indipendentemente dalla documentazione dello stato di conservazione, e' formato apposito elenco, pubblicato nel sito internet istituzionale della prefettura-ufficio territoriale del Governo competente per territorio ((...)).
+I prefetti, con cadenza semestrale, provvedono a censire, sentiti anche gli organi accertatori per quanto di competenza, i veicoli giacenti da oltre sei mesi presso le depositerie di cui all'[articolo 8 del decreto del Presidente della Repubblica 29 luglio 1982, n. 571](../DPR/Norme%20per%20lattuazione%20degli%20articoli%2015%20ultimo%20comma%20e%2017%20penultimo%20comma%20della%20legge%2024%20novembre%201981%20n.%20689%20concernente%20modifiche%20al%20sistema%20penale.md), a seguito dell'applicazione, ai sensi del presente codice, di misure di sequestro e fermo, nonche' per effetto di provvedimenti amministrativi di confisca non ancora definitivi e di dissequestro. Di tali veicoli, individuati secondo il tipo, il modello e il numero di targa o di telaio, indipendentemente dalla documentazione dello stato di conservazione, e' formato apposito elenco, pubblicato nel sito internet istituzionale della prefettura-ufficio territoriale del Governo competente per territorio ((...)).
 
 2.
 
-Nei trenta giorni successivi alla pubblicazione dell'elenco di cui al comma 1, il proprietario o uno degli altri soggetti indicati all'articolo 196 puo' assumere la custodia del veicolo, provvedendo contestualmente alla liquidazione delle somme dovute alla depositeria, con conseguente estinzione del debito maturato nei confronti dello Stato allo stesso titolo. Di tale facolta' e' data comunicazione in sede di pubblicazione dell'elenco di cui al comma 1, con l'avviso che in caso di mancata assunzione della custodia i veicoli oggetto di fermo, sequestro e dissequestro sono da ritenersi abbandonati, mentre quelli oggetto di confisca non ancora definitiva sono da ritenersi definitivamente confiscati. Di tale confisca e' data comunicazione a cura del prefetto al pubblico registro automobilistico per l'annotazione nei propri registri. La prefettura-ufficio territoriale del Governo informa dell'inutile decorso dei predetti termini l'Agenzia del demanio, che provvede a gestire tali veicoli, anche ai soli fini della rottamazione nel caso di grave danneggiamento o deterioramento, secondo le procedure e le modalita' dettate dal regolamento di cui al [decreto del Presidente della Repubblica 13 febbraio 2001, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-13;189). La liquidazione delle relative spese compete alla medesima Agenzia a decorrere dalla data di ricezione dell'informativa di cui al periodo precedente.
+Nei trenta giorni successivi alla pubblicazione dell'elenco di cui al comma 1, il proprietario o uno degli altri soggetti indicati all'articolo 196 puo' assumere la custodia del veicolo, provvedendo contestualmente alla liquidazione delle somme dovute alla depositeria, con conseguente estinzione del debito maturato nei confronti dello Stato allo stesso titolo. Di tale facolta' e' data comunicazione in sede di pubblicazione dell'elenco di cui al comma 1, con l'avviso che in caso di mancata assunzione della custodia i veicoli oggetto di fermo, sequestro e dissequestro sono da ritenersi abbandonati, mentre quelli oggetto di confisca non ancora definitiva sono da ritenersi definitivamente confiscati. Di tale confisca e' data comunicazione a cura del prefetto al pubblico registro automobilistico per l'annotazione nei propri registri. La prefettura-ufficio territoriale del Governo informa dell'inutile decorso dei predetti termini l'Agenzia del demanio, che provvede a gestire tali veicoli, anche ai soli fini della rottamazione nel caso di grave danneggiamento o deterioramento, secondo le procedure e le modalita' dettate dal regolamento di cui al [decreto del Presidente della Repubblica 13 febbraio 2001, n. 189](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20relativo%20allalienazione%20di%20beni%20mobili%20dello%20Stato%20n.%2034%20allegato%201%20legge%208%20marzo%201999%20n.%2050.md). La liquidazione delle relative spese compete alla medesima Agenzia a decorrere dalla data di ricezione dell'informativa di cui al periodo precedente.
 
 3.
 
@@ -20417,7 +20417,7 @@ Ferma restando l'applicazione delle disposizioni degli articoli 222 e 223, la du
 
 4.
 
-Le disposizioni del presente articolo si applicano anche ai conducenti titolari di patenti rilasciate all'estero che commettono alcuna delle violazioni di cui al comma 1 nel territorio dello Stato, considerando, come presupposto ai fini dell'applicazione delle medesime disposizioni, un punteggio di almeno un punto di penalizzazione nella banca dati prevista dall'[articolo 6-ter del decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151#art_6ter), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;214). Ai medesimi conducenti si applica la sospensione breve di cui al comma 2, lettera a), se al momento dell'accertamento risulta nei confronti del medesimo conducente un punteggio compreso tra uno e dieci punti, ovvero quella di cui al comma 2, lettera b), se risulta un punteggio superiore a dieci punti.
+Le disposizioni del presente articolo si applicano anche ai conducenti titolari di patenti rilasciate all'estero che commettono alcuna delle violazioni di cui al comma 1 nel territorio dello Stato, considerando, come presupposto ai fini dell'applicazione delle medesime disposizioni, un punteggio di almeno un punto di penalizzazione nella banca dati prevista dall'[articolo 6-ter del decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151#art_6ter), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%202003%20n.%20151%20recante%20modifiche%20ed%20integrazioni%20al%20codice%20della%20strada.md). Ai medesimi conducenti si applica la sospensione breve di cui al comma 2, lettera a), se al momento dell'accertamento risulta nei confronti del medesimo conducente un punteggio compreso tra uno e dieci punti, ovvero quella di cui al comma 2, lettera b), se risulta un punteggio superiore a dieci punti.
 
 5.
 
@@ -20467,7 +20467,7 @@ La revoca della patente di guida ad uno dei conducenti di cui all'articolo 186-b
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che le presenti modifiche decorrono dal 1 ottobre 1995.
 
 ### Art. 219-bis. — (( (Inapplicabilita' delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni). ))
 
@@ -20479,7 +20479,7 @@ Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 AGGIORNAMENTO (102)
 
 Il [D.Lgs. 18 aprile 2011, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md) ha disposto (con l'art. 28, comma 1) che "Le disposizioni del presente decreto legislativo si applicano a decorrere dal 19 gennaio 2013, ad eccezione di quelle contenute negli articoli 9, comma 2, 22, comma 1, e 23, nonche' nell'allegato III, con riferimento alle patenti per le categorie A, A1, B, BE, C, CE, D, DE, KA e KB". 
- Ha inoltre disposto (con l'art. 21, comma 2) che "Le disposizioni dell'[articolo 219-bis del Codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_219bis), come modificato dal comma 1, si applicano anche ai conducenti minorenni titolari di certificato di idoneita' alla guida del ciclomotore".
+ Ha inoltre disposto (con l'art. 21, comma 2) che "Le disposizioni dell'[articolo 219-bis del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dal comma 1, si applicano anche ai conducenti minorenni titolari di certificato di idoneita' alla guida del ciclomotore".
 
 ## Capo II DEGLI ILLECITI PENALI Sezione I Disposizioni generali in tema di reati e relative sanzioni
 
@@ -20525,7 +20525,7 @@ Qualora da una violazione delle norme di cui al presente codice derivino danni a
 
 2.
 
-Quando dal fatto derivi una lesione personale colposa la sospensione della patente e' da quindici giorni a tre mesi. Quando dal fatto derivi una lesione personale colposa grave o gravissima la sospensione della patente e' fino a due anni. Nel caso di omicidio colposo la sospensione e' fino a quattro anni. Alla condanna, ovvero all'applicazione della pena su richiesta delle parti a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per i reati di cui agli [articoli 589-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis) e [590-bis del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_590bis) consegue la revoca della patente di guida. La disposizione del quarto periodo si applica anche nel caso in cui sia stata concessa la sospensione condizionale della pena. Il cancelliere del giudice che ha pronunciato la sentenza divenuta irrevocabile ai sensi dell'[articolo 648 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_648), nel termine di quindici giorni, ne trasmette copia autentica al prefetto competente per il luogo della commessa violazione, che emette provvedimento di revoca della patente e di inibizione alla guida sul territorio nazionale, per un periodo corrispondente a quello per il quale si applica la revoca della patente, nei confronti del soggetto contro cui e' stata pronunciata la sentenza. ((149))
+Quando dal fatto derivi una lesione personale colposa la sospensione della patente e' da quindici giorni a tre mesi. Quando dal fatto derivi una lesione personale colposa grave o gravissima la sospensione della patente e' fino a due anni. Nel caso di omicidio colposo la sospensione e' fino a quattro anni. Alla condanna, ovvero all'applicazione della pena su richiesta delle parti a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per i reati di cui agli [articoli 589-bis](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590-bis del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) consegue la revoca della patente di guida. La disposizione del quarto periodo si applica anche nel caso in cui sia stata concessa la sospensione condizionale della pena. Il cancelliere del giudice che ha pronunciato la sentenza divenuta irrevocabile ai sensi dell'[articolo 648 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_648), nel termine di quindici giorni, ne trasmette copia autentica al prefetto competente per il luogo della commessa violazione, che emette provvedimento di revoca della patente e di inibizione alla guida sul territorio nazionale, per un periodo corrispondente a quello per il quale si applica la revoca della patente, nei confronti del soggetto contro cui e' stata pronunciata la sentenza. ((149))
 
 2-bis.
 
@@ -20537,11 +20537,11 @@ Il giudice puo' applicare la sanzione amministrativa accessoria della revoca del
 
 3-bis.
 
-Nel caso di applicazione della sanzione accessoria di cui al quarto periodo del comma 2 del presente articolo per i reati di cui all'[articolo 589-bis, secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis-com2), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis-com3) e [quarto comma, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis-com4), l'interessato non puo' conseguire una nuova patente prima che siano decorsi quindici anni dalla revoca; per il reato di cui all'[articolo 589-bis, quinto comma, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis-com5), l'interessato non puo' conseguire una nuova patente prima che siano decorsi dieci anni dalla revoca. Tale termine e' elevato a venti anni nel caso in cui l'interessato sia stato in precedenza condannato per i reati di cui all'articolo 186, commi 2, lettere b) e c), e 2-bis, ovvero di cui all'articolo 187, commi 1 e 1-bis, del presente codice. Il termine e' ulteriormente aumentato sino a trenta anni nel caso in cui l'interessato non abbia ottemperato agli obblighi di cui all'articolo 189, comma 1, del presente codice, e si sia dato alla fuga.
+Nel caso di applicazione della sanzione accessoria di cui al quarto periodo del comma 2 del presente articolo per i reati di cui all'[articolo 589-bis, secondo](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [terzo](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [quarto comma, del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'interessato non puo' conseguire una nuova patente prima che siano decorsi quindici anni dalla revoca; per il reato di cui all'[articolo 589-bis, quinto comma, del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'interessato non puo' conseguire una nuova patente prima che siano decorsi dieci anni dalla revoca. Tale termine e' elevato a venti anni nel caso in cui l'interessato sia stato in precedenza condannato per i reati di cui all'articolo 186, commi 2, lettere b) e c), e 2-bis, ovvero di cui all'articolo 187, commi 1 e 1-bis, del presente codice. Il termine e' ulteriormente aumentato sino a trenta anni nel caso in cui l'interessato non abbia ottemperato agli obblighi di cui all'articolo 189, comma 1, del presente codice, e si sia dato alla fuga.
 
 3-ter.
 
-Nel caso di applicazione della sanzione accessoria di cui al quarto periodo del comma 2 del presente articolo per i reati di cui agli articoli 589-bis, primo comma, e 590-bis del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), l'interessato non puo' conseguire una nuova patente di guida prima che siano decorsi cinque anni dalla revoca. Tale termine e' raddoppiato nel caso in cui l'interessato sia stato in precedenza condannato per i reati di cui all'articolo 186, commi 2, lettere b) e c), e 2-bis, ovvero di cui all'articolo 187, commi 1 e 1-bis, del presente codice. Il termine e' ulteriormente aumentato sino a dodici anni nel caso in cui l'interessato non abbia ottemperato agli obblighi di cui all'articolo 189, comma 1, e si sia dato alla fuga.
+Nel caso di applicazione della sanzione accessoria di cui al quarto periodo del comma 2 del presente articolo per i reati di cui agli articoli 589-bis, primo comma, e 590-bis del [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'interessato non puo' conseguire una nuova patente di guida prima che siano decorsi cinque anni dalla revoca. Tale termine e' raddoppiato nel caso in cui l'interessato sia stato in precedenza condannato per i reati di cui all'articolo 186, commi 2, lettere b) e c), e 2-bis, ovvero di cui all'articolo 187, commi 1 e 1-bis, del presente codice. Il termine e' ulteriormente aumentato sino a dodici anni nel caso in cui l'interessato non abbia ottemperato agli obblighi di cui all'articolo 189, comma 1, e si sia dato alla fuga.
 
 3-quater.
 
@@ -20551,7 +20551,7 @@ Per i titolari di patente di guida rilasciata da uno Stato estero, il prefetto d
 
 AGGIORNAMENTO (149)
 
-La Corte Costituzionale, con sentenza 19 febbraio - 17 aprile 2019, n. 88 (in G.U. 1ª s.s. 24/04/2019, n. 17), ha dichiarato "l'illegittimita' costituzionale dell'art. 222, comma 2, quarto periodo, del [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nella parte in cui non prevede che, in caso di condanna, ovvero di applicazione della pena su richiesta delle parti a norma dell'[art. 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per i reati di cui agli artt. 589-bis (Omicidio stradale) e 590-bis (Lesioni personali stradali gravi o gravissime) del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), il giudice possa disporre, in alternativa alla revoca della patente di guida, la sospensione della stessa ai sensi del secondo e terzo periodo dello stesso [comma 2 dell'art. 222 cod. strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_222-com2) allorche' non ricorra alcuna delle circostanze aggravanti previste dai rispettivi [commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis-com2) e [terzo degli artt. 589-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589bis-com3) e [590-bis cod. pen.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_590bis)".
+La Corte Costituzionale, con sentenza 19 febbraio - 17 aprile 2019, n. 88 (in G.U. 1ª s.s. 24/04/2019, n. 17), ha dichiarato "l'illegittimita' costituzionale dell'art. 222, comma 2, quarto periodo, del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nella parte in cui non prevede che, in caso di condanna, ovvero di applicazione della pena su richiesta delle parti a norma dell'[art. 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per i reati di cui agli artt. 589-bis (Omicidio stradale) e 590-bis (Lesioni personali stradali gravi o gravissime) del [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice possa disporre, in alternativa alla revoca della patente di guida, la sospensione della stessa ai sensi del secondo e terzo periodo dello stesso [comma 2 dell'art. 222 cod. strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) allorche' non ricorra alcuna delle circostanze aggravanti previste dai rispettivi [commi secondo](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo degli artt. 589-bis](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590-bis cod. pen.](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 ### Art. 223. — (Ritiro della patente di guida in conseguenza di ipotesi di reato).
 
@@ -20597,7 +20597,7 @@ Salvo quanto previsto dal comma 3, nel caso di sentenza irrevocabile di prosciog
 
 AGGIORNAMENTO (174)
 
-La Corte Costituzionale, con sentenza 9 - 30 giugno 2022, n. 163 (in G.U. 1ª s.s. 06/07/2022, n. 27), ha dichiarato "l'illegittimita' costituzionale dell'[art. 224, comma 3, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_224-com3) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nella parte in cui non prevede che, nel caso di estinzione del reato di guida sotto l'influenza dell'alcool di cui all'art. 186, comma 2, lettere b) e c), del medesimo decreto legislativo, per esito positivo della messa alla prova, il prefetto, applicando la sanzione amministrativa accessoria della sospensione della patente, ne riduca la durata della meta'".
+La Corte Costituzionale, con sentenza 9 - 30 giugno 2022, n. 163 (in G.U. 1ª s.s. 06/07/2022, n. 27), ha dichiarato "l'illegittimita' costituzionale dell'[art. 224, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nella parte in cui non prevede che, nel caso di estinzione del reato di guida sotto l'influenza dell'alcool di cui all'art. 186, comma 2, lettere b) e c), del medesimo decreto legislativo, per esito positivo della messa alla prova, il prefetto, applicando la sanzione amministrativa accessoria della sospensione della patente, ne riduca la durata della meta'".
 
 ### Art. 224-bis. — (( (Obblighi del condannato). ))
 
@@ -20609,11 +20609,11 @@ Nel pronunciare sentenza di condanna alla pena della reclusione per un delitto c
 
 2.
 
-Il lavoro di pubblica utilita' non puo' essere inferiore a un mese ne' superiore a sei mesi. In caso di recidiva, ai sensi dell'[articolo 99, secondo comma, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_99-com2), il lavoro di pubblica utilita' non puo' essere inferiore a tre mesi.
+Il lavoro di pubblica utilita' non puo' essere inferiore a un mese ne' superiore a sei mesi. In caso di recidiva, ai sensi dell'[articolo 99, secondo comma, del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il lavoro di pubblica utilita' non puo' essere inferiore a tre mesi.
 
 3.
 
-Le modalita' di svolgimento del lavoro di pubblica utilita' sono determinate dal Ministro della giustizia con proprio decreto d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8).
+Le modalita' di svolgimento del lavoro di pubblica utilita' sono determinate dal Ministro della giustizia con proprio decreto d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 4.
 
@@ -20623,7 +20623,7 @@ L'attivita' e' svolta nell'ambito della provincia in cui risiede il condannato e
 
 La durata giornaliera della prestazione non puo' comunque oltrepassare le otto ore.
 
-6. In caso di violazione degli obblighi di cui al presente articolo si applicano le disposizioni di cui all'[articolo 56 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-28;274#art_56)))
+6. In caso di violazione degli obblighi di cui al presente articolo si applicano le disposizioni di cui all'[articolo 56 del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md)))
 
 ### Art. 224-ter. — Procedimento di applicazione delle sanzioni amministrative accessorie della confisca amministrativa e del fermo amministrativo in conseguenza di ipotesi di reato).
 
@@ -20659,7 +20659,7 @@ Nel caso di sentenza irrevocabile di proscioglimento, il prefetto, ovvero, nei c
 
 AGGIORNAMENTO (157)
 
-La Corte Costituzionale, con sentenza 7 - 24 aprile 2020, n. 75 (in G.U. 1ª s.s. 29/04/2020, n. 18), ha dichiarato "l'illegittimita' costituzionale dell'[art. 224-ter, comma 6, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_224ter-com6) (Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), nella parte in cui prevede che il prefetto verifica la sussistenza delle condizioni di legge per l'applicazione della sanzione amministrativa accessoria della confisca del veicolo, anziche' disporne la restituzione all'avente diritto, in caso di estinzione del reato di guida sotto l'influenza dell'alcool per esito positivo della messa alla prova".
+La Corte Costituzionale, con sentenza 7 - 24 aprile 2020, n. 75 (in G.U. 1ª s.s. 29/04/2020, n. 18), ha dichiarato "l'illegittimita' costituzionale dell'[art. 224-ter, comma 6, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), nella parte in cui prevede che il prefetto verifica la sussistenza delle condizioni di legge per l'applicazione della sanzione amministrativa accessoria della confisca del veicolo, anziche' disporne la restituzione all'avente diritto, in caso di estinzione del reato di guida sotto l'influenza dell'alcool per esito positivo della messa alla prova".
 
 ## TITOLO VII DISPOSIZIONI FINALI E TRANSITORIE Capo I DISPOSIZIONI FINALI
 
@@ -20737,13 +20737,13 @@ Nel regolamento per l'esecuzione delle presenti norme saranno altresi' specifica
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 6 e 7 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 6 e 7 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 6 e 7 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](../Decreti%20Legislativi/Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore delle modifiche di cui ai commi 6 e 7 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ### Art. 227. — Servizio e dispositivi di monitoraggio
 
@@ -20805,7 +20805,7 @@ Gli importi di cui al comma 5 sono destinati alle seguenti spese:
 
 AGGIORNAMENTO (15)
 
-Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-05;11), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), ha conseguentemente disposto (con l'art. 2, comma 2) che la presente modifica decorre dal 1 ottobre 1995.
+Il [D.L. 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;501), convertito con modificazioni dalla [L. 5 gennaio 1996, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201995%20n.%20501%20recante%20interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20add_e53d603893e3.md), nel modificare l'[art. 16, comma 1 del D.P.R. 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), ha conseguentemente disposto (con l'art. 2, comma 2) che la presente modifica decorre dal 1 ottobre 1995.
 
 ### Art. 229. — Attuazione di direttive comunitarie
 
@@ -20846,7 +20846,7 @@ Il Ministro delle infrastrutture e dei trasporti predispone annualmente un progr
 
 AGGIORNAMENTO (27)
 
-La [L. 19 ottobre 1998, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-10-19;366), ha disposto (con l'art. 10, comma 5) che "I programmi di cui all'[articolo 230, comma 1, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_230-com1), come sostituito dal comma 4 del presente articolo, sono adottati entro un anno dalla data di entrata in vigore della presente legge."
+La [L. 19 ottobre 1998, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-10-19;366), ha disposto (con l'art. 10, comma 5) che "I programmi di cui all'[articolo 230, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come sostituito dal comma 4 del presente articolo, sono adottati entro un anno dalla data di entrata in vigore della presente legge."
 
 -------------
 
@@ -20878,7 +20878,7 @@ Sono abrogate dalla data di entrata in vigore del presente codice, salvo quanto 
  - [legge 1° giugno 1966, n. 416](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasporto%20di%20persone%20sugli%20autoveicoli.md); 
  - [legge 20 giugno 1966, n. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Limitazioni%20della%20circolazione%20stradale%20nelle%20piccole%20isole.md); 
  - [legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), limitatamente al Capo VI ; 
- - [decreto-legge 21 dicembre 1966, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-12-21;1090), convertito dalla [legge 16 febbraio 1967, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-16;14); (9) 
+ - [decreto-legge 21 dicembre 1966, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-12-21;1090), convertito dalla [legge 16 febbraio 1967, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20dicembre%201966%20n.%201090%20concernente%20disciplina%20dei%20diritti%20dovuti%20allIspettorato%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasp_2cf1e9a490cb.md); (9) 
  - [legge 9 luglio 1967, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20agli%20articoli%2057%20e%2091%20del%20testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393.md); 
  - [legge 4 gennaio 1968, n. 14](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20degli%20articoli%2061%2064%2066%20e%2068%20del%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393%20concernente%20la%20disciplina%20della%20circolazione%20stradale.md); 
  - [legge 13 agosto 1969, n. 613](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20al%201%20luglio%201971%20del%20termine%20stabilito%20dal%20comma%20sesto%20dellarticolo%20146%20del%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393%20recante%20norme%20sulla%20circolazione%20stradale_079a02ad2b1a.md); 
@@ -20888,7 +20888,7 @@ Sono abrogate dalla data di entrata in vigore del presente codice, salvo quanto 
  - [legge 31 marzo 1971, n. 201](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20allisola%20dIschia%20della%20legge%2020%20giugno%201966%20n.%20599%20sulla%20limitazione%20della%20circolazione%20stradale%20nelle%20piccole%20isole.md); 
  - [legge 3 giugno 1971, n. 437](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20da%20adottare%20contro%20linquinamento%20atmosferico%20causato%20da%20gas%20di%20scarico%20provenienti%20dagli%20autoveicoli%20equipaggiati%20con%20motori%20ad%20accensione%20comandata.md); 
  - [legge 22 febbraio 1973, n. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Abrogazione%20dellarticolo%203%20della%20legge%2011%20febbraio%201963%20n.%20142%20recante%20modifiche%20alle%20norme%20sulla%20circolazione%20stradale.md); 
- - [decreto-legge 23 novembre 1973, n. 741](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sanzioni%20per%20la%20inosservanza%20di%20divieti%20di%20circolazione%20nei%20giorni%20festivi.md), convertito della [legge 22 dicembre 1973, n. 842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-22;842); 
+ - [decreto-legge 23 novembre 1973, n. 741](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sanzioni%20per%20la%20inosservanza%20di%20divieti%20di%20circolazione%20nei%20giorni%20festivi.md), convertito della [legge 22 dicembre 1973, n. 842](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20novembre%201973%20n.%20741%20concernente%20sanzioni%20per%20la%20inosservanza%20di%20divieti%20di%20circolazione%20nei%20giorni%20festivi.md); 
  - [legge 27 dicembre 1973, n. 942](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ricezione%20nella%20legislazione%20italiana%20delle%20direttive%20della%20Comunita%20economica%20europea%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20omologazione%20dei%20v_b7608ff328ae.md); 
  - [legge 14 febbraio 1974, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md); 
  - [legge 15 febbraio 1974, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20delle%20norme%20previste%20per%20le%20dimensioni%20e%20i%20pesi%20degli%20autobus%20e%20dei%20filobus%20dagli%20articoli%2032%20e%2033%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approv_76d004cac584.md); 
@@ -20905,13 +20905,13 @@ Sono abrogate dalla data di entrata in vigore del presente codice, salvo quanto 
  - [legge 10 febbraio 1982, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20ad%20alcuni%20articoli%20del%20codice%20della%20strada%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393%20e%20successive%20modificazioni%20riguardanti%20i%20pesi%20e%20le%20misure%20_e71a5450987f.md); 
  - [legge 16 ottobre 1984, n. 719](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20circolazione%20di%20macchine%20agricole%20eccezionali.md); 
  - [legge 11 gennaio 1986, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Obbligo%20delluso%20del%20casco%20protettivo%20per%20gli%20utenti%20di%20motocicli%20ciclomotori%20e%20motocarrozzette%20estensione%20ai%20motocicli%20e%20ciclomotori%20dellobbligo%20del%20dispositivo%20retrovisivo.md); 
- - [decreto-legge 6 febbraio 1987, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-02-06;16), convertito della [legge 30 marzo 1987, n. 132, articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132#art_9), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132#art_16); 
+ - [decreto-legge 6 febbraio 1987, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-02-06;16), convertito della [legge 30 marzo 1987, n. 132, articoli 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md), [9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md), [14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md), [15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md), [16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md); 
  - [legge 14 febbraio 1987, n. 37](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393%20concernenti%20la%20definizione%20dei%20ciclomotori%20e%20l_6b4700abe7ec.md); 
  - [legge 18 marzo 1988, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20istituzione%20della%20patente%20di%20guida%20comunitaria%20e%20nuove%20disposizioni%20per%20il%20conseguimento%20delle%20patenti%20di%20guida%20e%20per%20la%20prevenzione%20e%20la%20sicurezza%20stradale.md); 
  - [legge 24 marzo 1988, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20a%20taluni%20articoli%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393.md); 
  - [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122), titolo IV; 
  - [legge 22 aprile 1989, n. 143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20installazione%20ed%20utilizzazione%20delle%20cinture%20di%20sicurezza%20nei%20veicoli%20a%20motore.md); 
- - [decreto-legge 24 giugno 1989, n. 238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20esonero%20dallobbligo%20di%20utilizzare%20sistemi%20di%20ritenuta%20nonche%20modifiche%20ed%20integrazioni%20alle%20leggi%2018%20marzo%201988%20n.%20111%20e%2022%20aprile%201989%20n.%20143.md), convertito della [legge 4 agosto 1989, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;284); 
+ - [decreto-legge 24 giugno 1989, n. 238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20esonero%20dallobbligo%20di%20utilizzare%20sistemi%20di%20ritenuta%20nonche%20modifiche%20ed%20integrazioni%20alle%20leggi%2018%20marzo%201988%20n.%20111%20e%2022%20aprile%201989%20n.%20143.md), convertito della [legge 4 agosto 1989, n. 284](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%201989%20n.%20238%20recante%20disposizioni%20urgenti%20in%20materia%20di%20esonero%20dallobbligo%20di%20utilizzare%20sistemi%20di%20ritenuta%20nonche%20modi_b52a8a454c47.md); 
  - [legge 23 marzo 1990, n. 67](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20allarticolo%20unico%20della%20legge%2020%20giugno%201966%20n.%20599.md); 
  - [legge 2 agosto 1990, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20circolazione%20di%20veicoli%20con%20particolari%20carichi.md); 
  - [legge 15 dicembre 1990, n. 399](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20circolazione%20delle%20trattrici%20agricole.md); 
@@ -20932,7 +20932,7 @@ Sono inoltre abrogate tutte le disposizioni comunque contrarie o incompatibili c
 
 AGGIORNAMENTO (9)
 
-Il [D.L. 1 luglio 1994, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-07-01;428), convertito con modificazioni dalla [L.8 agosto 1994, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;505), ha disposto (con l'art. 4, comma 1) che "L'abrogazione del [decreto-legge 21 dicembre 1966, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-12-21;1090), convertito, con modificazioni, dalla [legge 16 febbraio 1967, n. 14, di cui all'articolo 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-16;14#art_231) del [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), deve intendersi riferita agli articoli 2, 7 e 8, che disciplinano materie attinenti la circolazione stradale."
+Il [D.L. 1 luglio 1994, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-07-01;428), convertito con modificazioni dalla [L.8 agosto 1994, n. 505](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201994%20n.%20428%20recante%20disposizioni%20in%20materia%20di%20trasporto%20ferroviario.md), ha disposto (con l'art. 4, comma 1) che "L'abrogazione del [decreto-legge 21 dicembre 1966, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-12-21;1090), convertito, con modificazioni, dalla [legge 16 febbraio 1967, n. 14, di cui all'articolo 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20dicembre%201966%20n.%201090%20concernente%20disciplina%20dei%20diritti%20dovuti%20allIspettorato%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasp_2cf1e9a490cb.md) del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), deve intendersi riferita agli articoli 2, 7 e 8, che disciplinano materie attinenti la circolazione stradale."
 
 ## Capo II DISPOSIZIONI TRANSITORIE
 
@@ -20966,7 +20966,7 @@ Le disposizioni di cui all'art. 9 si applicano alle competizioni sportive su str
 
 3.
 
-Restano ferme le disposizioni contenute nell'[articolo 14, comma 2, del decreto-legge 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82#art_14-com2), convertito, con modificazioni, dalla [legge 27 maggio 1993, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-27;162).
+Restano ferme le disposizioni contenute nell'[articolo 14, comma 2, del decreto-legge 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82#art_14-com2), convertito, con modificazioni, dalla [legge 27 maggio 1993, n. 162](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201993%20n.%2082%20recante%20misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md).
 
 ))
 
@@ -21030,7 +21030,7 @@ Alle macchine agricole e alle macchine operatrici di cui al capo IV, titolo III 
 
 AGGIORNAMENTO (32)
 
-La [L. 17 agosto 1999, n. 290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-08-17;290) ha disposto (con l'art. 1, comma 1) che il termine di cui al comma 8 del presente articolo, da ultimo prorogato dall'[articolo 8 del D.L. 4 ottobre 1996, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-04;517#art_8), convertito, con modificazioni, dalla [L. 4 dicembre 1996, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611), e' ulteriormente prorogato al 30 settembre 1999
+La [L. 17 agosto 1999, n. 290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-08-17;290) ha disposto (con l'art. 1, comma 1) che il termine di cui al comma 8 del presente articolo, da ultimo prorogato dall'[articolo 8 del D.L. 4 ottobre 1996, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-04;517#art_8), convertito, con modificazioni, dalla [L. 4 dicembre 1996, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md), e' ulteriormente prorogato al 30 settembre 1999
 
 ### Art. 236. — Norme transitorie relative al titolo IV
 
