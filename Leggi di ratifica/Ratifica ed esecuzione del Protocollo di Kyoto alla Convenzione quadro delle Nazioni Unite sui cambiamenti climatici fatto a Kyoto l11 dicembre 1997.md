@@ -84,7 +84,7 @@ Al fine di ottemperare all'impegno adottato dalla Sesta Conferenza delle Parti d
 
 AGGIORNAMENTO (1)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 739) che "L'autorizzazione di spesa di cui all'[articolo 3 della legge 1° giugno 2002, n. 120](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md), e' ridotta di 2 milioni di euro annui a decorrere dall'anno 2023". 
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 739) che "L'autorizzazione di spesa di cui all'[articolo 3 della legge 1° giugno 2002, n. 120](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md), e' ridotta di 2 milioni di euro annui a decorrere dall'anno 2023". 
  Ha inoltre disposto (con l'art. 1, comma 746) che "L'autorizzazione di spesa di cui all'[articolo 3 della legge 1° giugno 2002, n. 120](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md), e' ridotta di 500.000 euro annui decorrere dall'anno 2021".
 
 ## Art. 4.

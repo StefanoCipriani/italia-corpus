@@ -40,7 +40,7 @@ Ai lavoratori frontalieri come definiti all'articolo 2, lettera b), dell'Accordo
 
 1.
 
-A decorrere dal periodo d'imposta successivo a quello in corso alla data di entrata in vigore dell'Accordo di cui all'articolo 1, comma 1, lettera a), della presente legge, il limite di reddito indicato nell'[articolo 1, comma 175, della legge 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147#art_1-com175), e' fissato in 10.000 euro.
+A decorrere dal periodo d'imposta successivo a quello in corso alla data di entrata in vigore dell'Accordo di cui all'articolo 1, comma 1, lettera a), della presente legge, il limite di reddito indicato nell'[articolo 1, comma 175, della legge 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md), e' fissato in 10.000 euro.
 
 ## Art. 5.
 
